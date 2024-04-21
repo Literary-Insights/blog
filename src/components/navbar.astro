@@ -1,6 +1,6 @@
 ---
 import Container from "@components/container.astro";
-import logoImage from "@assets/logo.svg";
+import logoImage from "@assets/logo.png";
 import darkLogo from "@assets/logo-dark.svg";
 import { Image } from "@astrojs/image/components";
 
@@ -19,10 +19,10 @@ const leftmenu: Menu[] = [
     label: "About",
     href: "/about",
   },
-  {
-    label: "Contact",
-    href: "/contact",
-  },
+  // {
+  //   label: "Contact",
+  //   href: "/contact",
+  // },
 ];
 
 const rightmenu: Menu[] = [
@@ -30,17 +30,17 @@ const rightmenu: Menu[] = [
     label: "Archive",
     href: "/archive",
   },
-  {
-    label: "Github",
-    href: "https://github.com/web3templates/stablo-astro",
-    external: true,
-    badge: "new",
-  },
-  {
-    label: "Download",
-    href: "https://web3templates.com/templates/stablo-minimal-blog-website-template",
-    external: true,
-  },
+//  {
+//    label: "Github",
+//    href: "https://github.com/web3templates/stablo-astro",
+//    external: true,
+//    badge: "new",
+//  },
+//  {
+//    label: "Download",
+//    href: "https://web3templates.com/templates/stablo-minimal-blog-website-template",
+//    external: true,
+//  },
 ];
 
 const mobilemenu: Menu[] = [...leftmenu, ...rightmenu];
