@@ -1,6 +1,6 @@
 ---
 title: "$100M Leads - How to Get Strangers To Want To Buy Your Stuff - Alex Hormozi"
-excerpt: "Ornare cum cursus laoreet sagittis nunc fusce posuere per euismod dis vehicula a, semper fames lacus maecenas dictumst pulvinar neque enim non potenti. Torquent hac sociosqu eleifend potenti."
+excerpt: ""
 publishDate: "2024-04-21T00:00:00.000Z"
 image: "./src/assets/images/$100M Leads-Alex-Hormozi.jpg"
 category: "self-help"
