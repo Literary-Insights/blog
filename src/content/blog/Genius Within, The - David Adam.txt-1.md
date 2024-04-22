@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Genius Within, The - David Adam
+title: Genius Within, The - David Adam
 slug: deep-summary-genius-within-the-david-adam
 tags: 
   - book-summary

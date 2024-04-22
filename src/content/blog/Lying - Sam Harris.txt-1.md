@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Lying - Sam Harris
+title: Lying - Sam Harris
 slug: deep-summary-lying-sam-harris
 tags: 
   - book-summary

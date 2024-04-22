@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Divided - Tim Marshall
+title: Divided - Tim Marshall
 slug: deep-summary-divided-tim-marshall
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Brain for Innovation_ The Neuroscience of Imagination and Abstract Thinking, A - Jung, Min W_
+title: Brain for Innovation_ The Neuroscience of Imagination and Abstract Thinking, A - Jung, Min W_
 slug: deep-summary-brain-for-innovation_-the-neuroscience-of-imagination-and-abstract-thinking-a-jung-min-w_
 tags: 
   - book-summary

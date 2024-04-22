@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Playing Smart - Julian Togelius
+title: Playing Smart - Julian Togelius
 slug: deep-summary-playing-smart-julian-togelius
 tags: 
   - book-summary

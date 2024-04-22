@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Un-Addiction - Nzinga Harrison
+title: Un-Addiction - Nzinga Harrison
 slug: deep-summary-un-addiction-nzinga-harrison
 tags: 
   - book-summary

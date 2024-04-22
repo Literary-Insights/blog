@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Remote, Inc. - Robert C. Pozen
+title: Remote, Inc. - Robert C. Pozen
 slug: deep-summary-remote-inc-robert-c-pozen
 tags: 
   - book-summary

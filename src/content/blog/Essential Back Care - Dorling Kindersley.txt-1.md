@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Essential Back Care - Dorling Kindersley
+title: Essential Back Care - Dorling Kindersley
 slug: deep-summary-essential-back-care-dorling-kindersley
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - The World Before Us - Tom Higham
+title: The World Before Us - Tom Higham
 slug: deep-summary-the-world-before-us-tom-higham
 tags: 
   - book-summary

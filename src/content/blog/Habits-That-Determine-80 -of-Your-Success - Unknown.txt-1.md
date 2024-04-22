@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Habits-That-Determine-80 -of-Your-Success - Unknown
+title: Habits-That-Determine-80 -of-Your-Success - Unknown
 slug: deep-summary-habits-that-determine-80-of-your-success-unknown
 tags: 
   - book-summary

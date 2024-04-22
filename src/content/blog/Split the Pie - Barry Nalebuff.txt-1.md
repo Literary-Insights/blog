@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Split the Pie - Barry Nalebuff
+title: Split the Pie - Barry Nalebuff
 slug: deep-summary-split-the-pie-barry-nalebuff
 tags: 
   - book-summary

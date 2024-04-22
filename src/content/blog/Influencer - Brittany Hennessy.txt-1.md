@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Influencer - Brittany Hennessy
+title: Influencer - Brittany Hennessy
 slug: deep-summary-influencer-brittany-hennessy
 tags: 
   - book-summary

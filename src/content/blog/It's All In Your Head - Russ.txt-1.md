@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - It's All In Your Head - Russ
+title: It's All In Your Head - Russ
 slug: deep-summary-it-s-all-in-your-head-russ
 tags: 
   - book-summary

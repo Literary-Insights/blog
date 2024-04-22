@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Become a SuperLearner - Learn Speed Readin - Jonathan Levi
+title: Become a SuperLearner - Learn Speed Readin - Jonathan Levi
 slug: deep-summary-become-a-superlearner-learn-speed-readin-jonathan-levi
 tags: 
   - book-summary

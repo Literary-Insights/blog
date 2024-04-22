@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - The Point - Steve Woodruff
+title: The Point - Steve Woodruff
 slug: deep-summary-the-point-steve-woodruff
 tags: 
   - book-summary

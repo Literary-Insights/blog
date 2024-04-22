@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Breaking the Cycle_ Free Yourself from Sex - George Collins
+title: Breaking the Cycle_ Free Yourself from Sex - George Collins
 slug: deep-summary-breaking-the-cycle_-free-yourself-from-sex-george-collins
 tags: 
   - book-summary

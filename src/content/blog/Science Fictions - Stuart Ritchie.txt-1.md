@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Science Fictions - Stuart Ritchie
+title: Science Fictions - Stuart Ritchie
 slug: deep-summary-science-fictions-stuart-ritchie
 tags: 
   - book-summary

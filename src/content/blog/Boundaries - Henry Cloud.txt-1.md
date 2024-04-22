@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Boundaries - Henry Cloud
+title: Boundaries - Henry Cloud
 slug: DEEP SUMMARY-boundaries-henry-cloud
 tags: 
   - book-summary

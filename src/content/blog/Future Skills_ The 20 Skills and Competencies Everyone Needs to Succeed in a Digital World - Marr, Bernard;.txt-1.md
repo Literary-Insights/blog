@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Future Skills_ The 20 Skills and Competencies Everyone Needs to Succeed in a Digital World - Marr, Bernard;
+title: Future Skills_ The 20 Skills and Competencies Everyone Needs to Succeed in a Digital World - Marr, Bernard;
 slug: deep-summary-future-skills_-the-20-skills-and-competencies-everyone-needs-to-succeed-in-a-digital-world-marr-bernard-
 tags: 
   - book-summary

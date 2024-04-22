@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Selfless - Brian Lowery
+title: Selfless - Brian Lowery
 slug: deep-summary-selfless-brian-lowery
 tags: 
   - book-summary

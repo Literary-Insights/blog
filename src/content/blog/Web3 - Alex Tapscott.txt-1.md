@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Web3 - Alex Tapscott
+title: Web3 - Alex Tapscott
 slug: deep-summary-web3-alex-tapscott
 tags: 
   - book-summary

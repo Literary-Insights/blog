@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Make It Stick - Peter C. Brown
+title: Make It Stick - Peter C. Brown
 slug: deep-summary-make-it-stick-peter-c-brown
 tags: 
   - book-summary

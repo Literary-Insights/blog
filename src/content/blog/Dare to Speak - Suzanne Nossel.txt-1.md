@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Dare to Speak - Suzanne Nossel
+title: Dare to Speak - Suzanne Nossel
 slug: deep-summary-dare-to-speak-suzanne-nossel
 tags: 
   - book-summary

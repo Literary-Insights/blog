@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Business Statistics For Dummies®, 2nd Edition - Alan Anderson, PhD
+title: Business Statistics For Dummies®, 2nd Edition - Alan Anderson, PhD
 slug: deep-summary-business-statistics-for-dummies-2nd-edition-alan-anderson-phd
 tags: 
   - book-summary

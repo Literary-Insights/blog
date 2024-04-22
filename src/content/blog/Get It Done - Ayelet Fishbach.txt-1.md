@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Get It Done - Ayelet Fishbach
+title: Get It Done - Ayelet Fishbach
 slug: deep-summary-get-it-done-ayelet-fishbach
 tags: 
   - book-summary

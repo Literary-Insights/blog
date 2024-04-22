@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Entrepreneurial Nation - Ro Khanna
+title: Entrepreneurial Nation - Ro Khanna
 slug: deep-summary-entrepreneurial-nation-ro-khanna
 tags: 
   - book-summary

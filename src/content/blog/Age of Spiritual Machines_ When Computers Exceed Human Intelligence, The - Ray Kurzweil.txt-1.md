@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Age of Spiritual Machines_ When Computers Exceed Human Intelligence, The - Ray Kurzweil
+title: Age of Spiritual Machines_ When Computers Exceed Human Intelligence, The - Ray Kurzweil
 slug: deep-summary-age-of-spiritual-machines_-when-computers-exceed-human-intelligence-the-ray-kurzweil
 tags: 
   - book-summary

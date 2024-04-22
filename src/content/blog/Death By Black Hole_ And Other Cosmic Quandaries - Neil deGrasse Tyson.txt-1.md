@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Death By Black Hole_ And Other Cosmic Quandaries - Neil deGrasse Tyson
+title: Death By Black Hole_ And Other Cosmic Quandaries - Neil deGrasse Tyson
 slug: deep-summary-death-by-black-hole_-and-other-cosmic-quandaries-neil-degrasse-tyson
 tags: 
   - book-summary

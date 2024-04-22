@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Data Feminism - D’Ignazio, Catherine & Klein, Lauren F_
+title: Data Feminism - D’Ignazio, Catherine & Klein, Lauren F_
 slug: deep-summary-data-feminism-d-ignazio-catherine-klein-lauren-f_
 tags: 
   - book-summary

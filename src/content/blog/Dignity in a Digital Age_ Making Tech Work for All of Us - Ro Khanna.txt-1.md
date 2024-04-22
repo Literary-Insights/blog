@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Dignity in a Digital Age_ Making Tech Work for All of Us - Ro Khanna
+title: Dignity in a Digital Age_ Making Tech Work for All of Us - Ro Khanna
 slug: deep-summary-dignity-in-a-digital-age_-making-tech-work-for-all-of-us-ro-khanna
 tags: 
   - book-summary

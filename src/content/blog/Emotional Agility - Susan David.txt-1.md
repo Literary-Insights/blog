@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Emotional Agility - Susan David
+title: Emotional Agility - Susan David
 slug: deep-summary-emotional-agility-susan-david
 tags: 
   - book-summary

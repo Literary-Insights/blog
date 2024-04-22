@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Superior - Angela Saini
+title: Superior - Angela Saini
 slug: deep-summary-superior-angela-saini
 tags: 
   - book-summary

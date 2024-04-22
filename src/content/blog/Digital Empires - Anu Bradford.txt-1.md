@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Digital Empires - Anu Bradford
+title: Digital Empires - Anu Bradford
 slug: deep-summary-digital-empires-anu-bradford
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Find Your Zone of Genius - Laura Garnett
+title: Find Your Zone of Genius - Laura Garnett
 slug: find-your-zone-of-genius-laura-garnett 
 tags: 
   - book-summary

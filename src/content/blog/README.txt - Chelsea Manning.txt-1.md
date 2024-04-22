@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - README.txt - Chelsea Manning
+title: README.txt - Chelsea Manning
 slug: deep-summary-readme-txt-chelsea-manning
 tags: 
   - book-summary

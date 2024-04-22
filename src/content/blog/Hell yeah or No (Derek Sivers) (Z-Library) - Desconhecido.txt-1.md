@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Hell yeah or No (Derek Sivers)
+title: Hell yeah or No (Derek Sivers)
 slug: deep-summary-hell-yeah-or-no-derek-sivers
 tags: 
   - book-summary

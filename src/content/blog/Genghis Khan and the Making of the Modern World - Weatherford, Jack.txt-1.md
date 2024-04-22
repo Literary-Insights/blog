@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Genghis Khan and the Making of the Modern World - Weatherford, Jack
+title: Genghis Khan and the Making of the Modern World - Weatherford, Jack
 slug: deep-summary-genghis-khan-and-the-making-of-the-modern-world-weatherford-jack
 tags: 
   - book-summary

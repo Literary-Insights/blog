@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Common As Air - Lewis Hyde
+title: Common As Air - Lewis Hyde
 slug: deep-summary-common-as-air-lewis-hyde
 tags: 
   - book-summary

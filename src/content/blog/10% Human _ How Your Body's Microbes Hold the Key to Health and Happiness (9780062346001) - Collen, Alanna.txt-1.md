@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - 10% Human _ How Your Body's Microbes Hold the Key to Health and Happiness (9780062346001) - Collen, Alanna
+title: 10% Human _ How Your Body's Microbes Hold the Key to Health and Happiness (9780062346001) - Collen, Alanna
 slug: deep-summary-10-human-_-how-your-body-s-microbes-hold-the-key-to-health-and-happiness-9780062346001-collen-alanna
 tags: 
   - book-summary

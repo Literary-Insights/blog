@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - The Art of War - Sun Tzu
+title: The Art of War - Sun Tzu
 slug: deep-summary-the-art-of-war-sun-tzu
 tags: 
   - book-summary

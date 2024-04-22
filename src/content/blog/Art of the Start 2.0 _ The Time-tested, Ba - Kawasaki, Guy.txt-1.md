@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Art of the Start 2.0 _ The Time-tested, Ba - Kawasaki, Guy
+title: Art of the Start 2.0 _ The Time-tested, Ba - Kawasaki, Guy
 slug: deep-summary-art-of-the-start-2-0-_-the-time-tested-ba-kawasaki-guy
 tags: 
   - book-summary

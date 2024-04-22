@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - The Motivation Myth - Jeff Haden
+title: The Motivation Myth - Jeff Haden
 slug: deep-summary-the-motivation-myth-jeff-haden
 tags: 
   - book-summary

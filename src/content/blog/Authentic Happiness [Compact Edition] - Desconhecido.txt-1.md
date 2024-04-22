@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Authentic Happiness [Compact Edition] - Desconhecido
+title: Authentic Happiness [Compact Edition] - Desconhecido
 slug: deep-summary-authentic-happiness-compact-edition-desconhecido
 tags: 
   - book-summary

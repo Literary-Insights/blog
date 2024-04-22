@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - The Attention Merchants - Tim Wu
+title: The Attention Merchants - Tim Wu
 slug: deep-summary-the-attention-merchants-tim-wu
 tags: 
   - book-summary

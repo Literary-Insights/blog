@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Grandstanding - Justin Tosi;Brandon Warmke;
+title: Grandstanding - Justin Tosi;Brandon Warmke;
 slug: deep-summary-grandstanding-justin-tosi-brandon-warmke-
 tags: 
   - book-summary

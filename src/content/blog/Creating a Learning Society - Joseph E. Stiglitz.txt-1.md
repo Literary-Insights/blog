@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Creating a Learning Society - Joseph E. Stiglitz
+title: Creating a Learning Society - Joseph E. Stiglitz
 slug: deep-summary-creating-a-learning-society-joseph-e-stiglitz
 tags: 
   - book-summary

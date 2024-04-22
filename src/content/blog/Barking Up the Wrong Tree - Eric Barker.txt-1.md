@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Barking Up the Wrong Tree - Eric Barker
+title: Barking Up the Wrong Tree - Eric Barker
 slug: deep-summary-barking-up-the-wrong-tree-eric-barker
 tags: 
   - book-summary

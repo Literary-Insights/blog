@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - End This Depression Now! - Paul Krugman
+title: End This Depression Now! - Paul Krugman
 slug: deep-summary-end-this-depression-now-paul-krugman
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - The Polimath - Peter Burke
+title: The Polimath - Peter Burke
 slug: deep-summary-the-polimath-peter-burke
 tags: 
   - book-summary

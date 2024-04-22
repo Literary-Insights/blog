@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Money Magic - Laurence Kotlikoff
+title: Money Magic - Laurence Kotlikoff
 slug: deep-summary-money-magic-laurence-kotlikoff
 tags: 
   - book-summary

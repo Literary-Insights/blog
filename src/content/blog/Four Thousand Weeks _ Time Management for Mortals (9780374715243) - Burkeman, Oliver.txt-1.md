@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Four Thousand Weeks _ Time Management for Mortals (9780374715243) - Burkeman, Oliver
+title: Four Thousand Weeks _ Time Management for Mortals (9780374715243) - Burkeman, Oliver
 slug: deep-summary-four-thousand-weeks-_-time-management-for-mortals-9780374715243-burkeman-oliver
 tags: 
   - book-summary

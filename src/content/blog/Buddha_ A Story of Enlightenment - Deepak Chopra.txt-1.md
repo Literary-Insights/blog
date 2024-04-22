@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Buddha_ A Story of Enlightenment - Deepak Chopra
+title: Buddha_ A Story of Enlightenment - Deepak Chopra
 slug: deep-summary-buddha_-a-story-of-enlightenment-deepak-chopra
 tags: 
   - book-summary

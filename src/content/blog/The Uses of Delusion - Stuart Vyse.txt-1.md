@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - The Uses of Delusion - Stuart Vyse
+title: The Uses of Delusion - Stuart Vyse
 slug: deep-summary-the-uses-of-delusion-stuart-vyse
 tags: 
   - book-summary

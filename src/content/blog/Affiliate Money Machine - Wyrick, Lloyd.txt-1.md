@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Affiliate Money Machine - Wyrick, Lloyd
+title: Affiliate Money Machine - Wyrick, Lloyd
 slug: deep-summary-affiliate-money-machine-wyrick-lloyd
 tags: 
   - book-summary

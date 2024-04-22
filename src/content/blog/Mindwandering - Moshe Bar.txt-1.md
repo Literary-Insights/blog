@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Mindwandering - Moshe Bar
+title: Mindwandering - Moshe Bar
 slug: deep-summary-mindwandering-moshe-bar
 tags: 
   - book-summary

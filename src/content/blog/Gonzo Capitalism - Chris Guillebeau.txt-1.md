@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Gonzo Capitalism - Chris Guillebeau
+title: Gonzo Capitalism - Chris Guillebeau
 slug: deep-summary-gonzo-capitalism-chris-guillebeau
 tags: 
   - book-summary

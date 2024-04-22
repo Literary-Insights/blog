@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Brandwashed - Martin Lindstrom
+title: Brandwashed - Martin Lindstrom
 slug: deep-summary-brandwashed-martin-lindstrom
 tags: 
   - book-summary

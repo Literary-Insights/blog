@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - From Eternity to Here - Sean Carroll
+title: From Eternity to Here - Sean Carroll
 slug: deep-summary-from-eternity-to-here-sean-carroll
 tags: 
   - book-summary

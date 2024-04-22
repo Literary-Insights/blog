@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Capital and Ideology - Thomas Piketty
+title: Capital and Ideology - Thomas Piketty
 slug: deep-summary-capital-and-ideology-thomas-piketty
 tags: 
   - book-summary

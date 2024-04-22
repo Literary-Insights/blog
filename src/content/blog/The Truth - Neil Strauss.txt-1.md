@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - The Truth - Neil Strauss
+title: The Truth - Neil Strauss
 slug: deep-summary-the-truth-neil-strauss
 tags: 
   - book-summary

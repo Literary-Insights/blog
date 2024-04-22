@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Black and White Thinking - Kevin Dutton
+title: Black and White Thinking - Kevin Dutton
 slug: deep-summary-black-and-white-thinking-kevin-dutton
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Chatter_ The Voice in Our Head, Why It Mat - Ethan Kross
+title: Chatter_ The Voice in Our Head, Why It Mat - Ethan Kross
 slug: deep-summary-chatter_-the-voice-in-our-head-why-it-mat-ethan-kross
 tags: 
   - book-summary

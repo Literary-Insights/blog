@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Frogs into Princes_ Neuro Linguistic Programming - Richard Wayne Bandler & John Grinder
+title: Frogs into Princes_ Neuro Linguistic Programming - Richard Wayne Bandler & John Grinder
 slug: deep-summary-frogs-into-princes_-neuro-linguistic-programming-richard-wayne-bandler-john-grinder
 tags: 
   - book-summary

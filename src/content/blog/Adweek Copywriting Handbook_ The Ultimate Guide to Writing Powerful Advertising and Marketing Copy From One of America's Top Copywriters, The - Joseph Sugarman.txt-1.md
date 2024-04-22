@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Adweek Copywriting Handbook_ The Ultimate Guide to Writing Powerful Advertising and Marketing Copy From One of America's Top Copywriters, The - Joseph Sugarman
+title: Adweek Copywriting Handbook_ The Ultimate Guide to Writing Powerful Advertising and Marketing Copy From One of America's Top Copywriters, The - Joseph Sugarman
 slug: deep-summary-adweek-copywriting-handbook_-the-ultimate-guide-to-writing-powerful-advertising-and-marketing-copy-from-one-of-america-s-top-copywriters-the-joseph-sugarman
 tags: 
   - book-summary

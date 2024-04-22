@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Build and Promote Profitable SaaS Business_ Without investments or prior experience - Kateryna Myroniuk
+title: Build and Promote Profitable SaaS Business_ Without investments or prior experience - Kateryna Myroniuk
 slug: deep-summary-build-and-promote-profitable-saas-business_-without-investments-or-prior-experience-kateryna-myroniuk
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Edge_ Turning Adversity into Advantage - Laura Huang
+title: Edge_ Turning Adversity into Advantage - Laura Huang
 slug: deep-summary-edge_-turning-adversity-into-advantage-laura-huang
 tags: 
   - book-summary

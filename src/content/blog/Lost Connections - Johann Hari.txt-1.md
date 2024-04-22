@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Lost Connections - Johann Hari
+title: Lost Connections - Johann Hari
 slug: deep-summary-lost-connections-johann-hari
 tags: 
   - book-summary

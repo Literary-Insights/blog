@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - The Algorithm - Hilke Schellmann
+title: The Algorithm - Hilke Schellmann
 slug: deep-summary-the-algorithm-hilke-schellmann
 tags: 
   - book-summary

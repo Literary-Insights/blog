@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Merchants of Doubt - Naomi Oreskes
+title: Merchants of Doubt - Naomi Oreskes
 slug: deep-summary-merchants-of-doubt-naomi-oreskes
 tags: 
   - book-summary

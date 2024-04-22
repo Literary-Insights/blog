@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Neuro-Sell - Simon Hazeldine
+title: Neuro-Sell - Simon Hazeldine
 slug: deep-summary-neuro-sell-simon-hazeldine
 tags: 
   - book-summary

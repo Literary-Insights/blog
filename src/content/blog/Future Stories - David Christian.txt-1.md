@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Future Stories - David Christian
+title: Future Stories - David Christian
 slug: deep-summary-future-stories-david-christian
 tags: 
   - book-summary

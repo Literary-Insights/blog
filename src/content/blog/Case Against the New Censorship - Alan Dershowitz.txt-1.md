@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Case Against the New Censorship - Alan Dershowitz
+title: Case Against the New Censorship - Alan Dershowitz
 slug: deep-summary-case-against-the-new-censorship-alan-dershowitz
 tags: 
   - book-summary

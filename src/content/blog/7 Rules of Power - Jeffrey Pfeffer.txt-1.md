@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - 7 Rules of Power - Jeffrey Pfeffer
+title: 7 Rules of Power - Jeffrey Pfeffer
 slug: deep-summary-7-rules-of-power-jeffrey-pfeffer
 tags: 
   - book-summary

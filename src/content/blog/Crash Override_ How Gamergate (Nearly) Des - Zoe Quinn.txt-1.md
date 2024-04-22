@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Crash Override_ How Gamergate (Nearly) Des - Zoe Quinn
+title: Crash Override_ How Gamergate (Nearly) Des - Zoe Quinn
 slug: deep-summary-crash-override_-how-gamergate-nearly-des-zoe-quinn
 tags: 
   - book-summary

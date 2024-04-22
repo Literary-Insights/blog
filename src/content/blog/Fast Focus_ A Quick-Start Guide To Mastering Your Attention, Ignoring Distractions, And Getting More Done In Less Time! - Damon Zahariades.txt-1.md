@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Fast Focus_ A Quick-Start Guide To Mastering Your Attention, Ignoring Distractions, And Getting More Done In Less Time! - Damon Zahariades
+title: Fast Focus_ A Quick-Start Guide To Mastering Your Attention, Ignoring Distractions, And Getting More Done In Less Time! - Damon Zahariades
 slug: deep-summary-fast-focus_-a-quick-start-guide-to-mastering-your-attention-ignoring-distractions-and-getting-more-done-in-less-time-damon-zahariades
 tags: 
   - book-summary

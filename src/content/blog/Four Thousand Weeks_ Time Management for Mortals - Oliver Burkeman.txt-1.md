@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Four Thousand Weeks_ Time Management for Mortals - Oliver Burkeman
+title: Four Thousand Weeks_ Time Management for Mortals - Oliver Burkeman
 slug: deep-summary-four-thousand-weeks_-time-management-for-mortals-oliver-burkeman
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - B008BM0IUG EBOK - Carroll, Sean
+title: B008BM0IUG EBOK - Carroll, Sean
 slug: deep-summary-b008bm0iug-ebok-carroll-sean
 tags: 
   - book-summary

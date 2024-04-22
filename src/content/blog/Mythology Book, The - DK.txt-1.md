@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Mythology Book, The - DK
+title: Mythology Book, The - DK
 slug: deep-summary-mythology-book-the-dk
 tags: 
   - book-summary

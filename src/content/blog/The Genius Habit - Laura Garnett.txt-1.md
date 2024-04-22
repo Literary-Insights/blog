@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - The Genius Habit - Laura Garnett
+title: The Genius Habit - Laura Garnett
 slug: the-genius-habit-laura-garnett 
 tags: 
   - book-summary

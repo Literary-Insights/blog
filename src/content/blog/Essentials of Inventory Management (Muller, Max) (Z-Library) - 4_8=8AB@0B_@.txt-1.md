@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Essentials of Inventory Management (Muller, Max)  - 4_8=8AB@0B_@
+title: Essentials of Inventory Management (Muller, Max)  - 4_8=8AB@0B_@
 slug: deep-summary-essentials-of-inventory-management-muller-max4_8-8ab-0b_-
 tags: 
   - book-summary

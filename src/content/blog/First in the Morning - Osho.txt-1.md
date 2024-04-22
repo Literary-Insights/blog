@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - First in the Morning - Osho
+title: First in the Morning - Osho
 slug: deep-summary-first-in-the-morning-osho
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - ChatGPT Business Goldmines - Dr. Ope Banwo
+title: ChatGPT Business Goldmines - Dr. Ope Banwo
 slug: deep-summary-chatgpt-business-goldmines-dr-ope-banwo
 tags: 
   - book-summary

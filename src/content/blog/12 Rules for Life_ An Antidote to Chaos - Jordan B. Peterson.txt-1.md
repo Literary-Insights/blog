@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - 12 Rules for Life_ An Antidote to Chaos - Jordan B. Peterson
+title: 12 Rules for Life_ An Antidote to Chaos - Jordan B. Peterson
 slug: deep-summary-12-rules-for-life_-an-antidote-to-chaos-jordan-b-peterson
 tags: 
   - book-summary

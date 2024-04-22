@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - How to Grow a Human - Philip Ball
+title: How to Grow a Human - Philip Ball
 slug: deep-summary-how-to-grow-a-human-philip-ball
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Company of One - Paul Jarvis
+title: Company of One - Paul Jarvis
 slug: deep-summary-company-of-one-paul-jarvis
 tags: 
   - book-summary

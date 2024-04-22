@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Rebel Talent - Francesca Gino
+title: Rebel Talent - Francesca Gino
 slug: deep-summary-rebel-talent-francesca-gino
 tags: 
   - book-summary

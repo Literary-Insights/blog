@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Death by Video Game - Simon Parkin
+title: Death by Video Game - Simon Parkin
 slug: deep-summary-death-by-video-game-simon-parkin
 tags: 
   - book-summary

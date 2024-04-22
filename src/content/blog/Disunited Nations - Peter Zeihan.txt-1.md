@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Disunited Nations - Peter Zeihan
+title: Disunited Nations - Peter Zeihan
 slug: deep-summary-disunited-nations-peter-zeihan
 tags: 
   - book-summary

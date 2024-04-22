@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Trillions - Robin Wigglesworth
+title: Trillions - Robin Wigglesworth
 slug: deep-summary-trillions-robin-wigglesworth
 tags: 
   - book-summary

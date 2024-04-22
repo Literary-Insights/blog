@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Economics Rules - Dani Rodrik
+title: Economics Rules - Dani Rodrik
 slug: deep-summary-economics-rules-dani-rodrik
 tags: 
   - book-summary

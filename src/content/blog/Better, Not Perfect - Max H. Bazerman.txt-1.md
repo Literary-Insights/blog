@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Better, Not Perfect - Max H. Bazerman
+title: Better, Not Perfect - Max H. Bazerman
 slug: deep-summary-better-not-perfect-max-h-bazerman
 tags: 
   - book-summary

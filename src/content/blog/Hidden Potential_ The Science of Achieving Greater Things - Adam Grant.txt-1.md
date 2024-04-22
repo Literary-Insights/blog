@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Hidden Potential_ The Science of Achieving Greater Things - Adam Grant
+title: Hidden Potential_ The Science of Achieving Greater Things - Adam Grant
 slug: deep-summary-hidden-potential_-the-science-of-achieving-greater-things-adam-grant
 tags: 
   - book-summary

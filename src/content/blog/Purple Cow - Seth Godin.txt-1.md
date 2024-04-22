@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Purple Cow - Seth Godin
+title: Purple Cow - Seth Godin
 slug: deep-summary-purple-cow-seth-godin
 tags: 
   - book-summary

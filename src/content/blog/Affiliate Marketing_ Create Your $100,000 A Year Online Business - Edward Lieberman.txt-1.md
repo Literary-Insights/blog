@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Affiliate Marketing_ Create Your $100,000 A Year Online Business - Edward Lieberman
+title: Affiliate Marketing_ Create Your $100,000 A Year Online Business - Edward Lieberman
 slug: deep-summary-affiliate-marketing_-create-your-100-000-a-year-online-business-edward-lieberman
 tags: 
   - book-summary

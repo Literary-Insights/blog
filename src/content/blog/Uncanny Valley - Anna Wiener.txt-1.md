@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Uncanny Valley - Anna Wiener
+title: Uncanny Valley - Anna Wiener
 slug: deep-summary-uncanny-valley-anna-wiener
 tags: 
   - book-summary

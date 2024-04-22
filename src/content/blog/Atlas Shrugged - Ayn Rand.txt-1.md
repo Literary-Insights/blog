@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Atlas Shrugged - Ayn Rand
+title: Atlas Shrugged - Ayn Rand
 slug: deep-summary-atlas-shrugged-ayn-rand
 tags: 
   - book-summary

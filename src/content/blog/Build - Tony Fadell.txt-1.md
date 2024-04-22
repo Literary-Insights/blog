@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Build - Tony Fadell
+title: Build - Tony Fadell
 slug: deep-summary-build-tony-fadell
 tags: 
   - book-summary

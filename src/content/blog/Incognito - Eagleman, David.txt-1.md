@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Incognito - Eagleman, David
+title: Incognito - Eagleman, David
 slug: deep-summary-incognito-eagleman-david
 tags: 
   - book-summary

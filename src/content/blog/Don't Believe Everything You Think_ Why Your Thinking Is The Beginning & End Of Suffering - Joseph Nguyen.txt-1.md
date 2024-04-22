@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Don't Believe Everything You Think_ Why Your Thinking Is The Beginning & End Of Suffering - Joseph Nguyen
+title: Don't Believe Everything You Think_ Why Your Thinking Is The Beginning & End Of Suffering - Joseph Nguyen
 slug: deep-summary-don-t-believe-everything-you-think_-why-your-thinking-is-the-beginning-end-of-suffering-joseph-nguyen
 tags: 
   - book-summary

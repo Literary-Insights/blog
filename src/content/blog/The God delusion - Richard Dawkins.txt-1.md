@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - The God delusion - Richard Dawkins
+title: The God delusion - Richard Dawkins
 slug: the-god-delusion-richard-dawkins 
 tags: 
   - book-summary

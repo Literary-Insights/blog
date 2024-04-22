@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Rationality - Steven Pinker
+title: Rationality - Steven Pinker
 slug: deep-summary-rationality-steven-pinker
 tags: 
   - book-summary

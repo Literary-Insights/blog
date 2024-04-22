@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Palo Alto - Malcolm Harris
+title: Palo Alto - Malcolm Harris
 slug: deep-summary-palo-alto-malcolm-harris
 tags: 
   - book-summary

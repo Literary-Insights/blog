@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Born to Be Good_ The Science of a Meaningful Life - Dacher Keltner
+title: Born to Be Good_ The Science of a Meaningful Life - Dacher Keltner
 slug: deep-summary-born-to-be-good_-the-science-of-a-meaningful-life-dacher-keltner
 tags: 
   - book-summary

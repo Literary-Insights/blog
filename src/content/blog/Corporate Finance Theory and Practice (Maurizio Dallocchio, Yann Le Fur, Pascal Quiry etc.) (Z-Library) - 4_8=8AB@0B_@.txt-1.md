@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Corporate Finance Theory and Practice (Maurizio Dallocchio, Yann Le Fur, Pascal Quiry etc.)  - 4_8=8AB@0B_@
+title: Corporate Finance Theory and Practice (Maurizio Dallocchio, Yann Le Fur, Pascal Quiry etc.)  - 4_8=8AB@0B_@
 slug: deep-summary-corporate-finance-theory-and-practice-maurizio-dallocchio-yann-le-fur-pascal-quiry-etc4_8-8ab-0b_-
 tags: 
   - book-summary

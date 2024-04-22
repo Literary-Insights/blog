@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - What Is Power_ - HAN, BYUNG-CHUL.;
+title: What Is Power_ - HAN, BYUNG-CHUL.;
 slug: deep-summary-what-is-power_-han-byung-chul-
 tags: 
   - book-summary

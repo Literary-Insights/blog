@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Poor Economics - Abhijit Banerjee
+title: Poor Economics - Abhijit Banerjee
 slug: deep-summary-poor-economics-abhijit-banerjee
 tags: 
   - book-summary

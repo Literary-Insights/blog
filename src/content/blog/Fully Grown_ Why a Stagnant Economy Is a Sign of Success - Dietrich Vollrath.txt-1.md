@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Fully Grown_ Why a Stagnant Economy Is a Sign of Success - Dietrich Vollrath
+title: Fully Grown_ Why a Stagnant Economy Is a Sign of Success - Dietrich Vollrath
 slug: deep-summary-fully-grown_-why-a-stagnant-economy-is-a-sign-of-success-dietrich-vollrath
 tags: 
   - book-summary

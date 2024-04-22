@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Layout 1 - Desconhecido
+title: Layout 1 - Desconhecido
 slug: deep-summary-layout-1-desconhecido
 tags: 
   - book-summary

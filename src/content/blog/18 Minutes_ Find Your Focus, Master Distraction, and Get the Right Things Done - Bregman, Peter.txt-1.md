@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - 18 Minutes_ Find Your Focus, Master Distraction, and Get the Right Things Done - Bregman, Peter
+title: 18 Minutes_ Find Your Focus, Master Distraction, and Get the Right Things Done - Bregman, Peter
 slug: deep-summary-18-minutes_-find-your-focus-master-distraction-and-get-the-right-things-done-bregman-peter
 tags: 
   - book-summary

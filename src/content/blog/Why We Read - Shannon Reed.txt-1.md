@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Why We Read - Shannon Reed
+title: Why We Read - Shannon Reed
 slug: deep-summary-why-we-read-shannon-reed
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Get Out of Your Head_ Stopping the Spiral of Toxic Thoughts - Jennie Allen
+title: Get Out of Your Head_ Stopping the Spiral of Toxic Thoughts - Jennie Allen
 slug: deep-summary-get-out-of-your-head_-stopping-the-spiral-of-toxic-thoughts-jennie-allen
 tags: 
   - book-summary

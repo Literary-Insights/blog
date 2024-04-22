@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Framers_ Human Advantage in an Age of Technology and Turmoil - Kenneth Cukier & Viktor Mayer-Schönberger & Francis de Véricourt
+title: Framers_ Human Advantage in an Age of Technology and Turmoil - Kenneth Cukier & Viktor Mayer-Schönberger & Francis de Véricourt
 slug: deep-summary-framers_-human-advantage-in-an-age-of-technology-and-turmoil-kenneth-cukier-viktor-mayer-schönberger-francis-de-véricourt
 tags: 
   - book-summary

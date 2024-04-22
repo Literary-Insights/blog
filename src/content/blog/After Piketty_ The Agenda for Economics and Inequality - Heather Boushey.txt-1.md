@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - After Piketty_ The Agenda for Economics and Inequality - Heather Boushey
+title: After Piketty_ The Agenda for Economics and Inequality - Heather Boushey
 slug: deep-summary-after-piketty_-the-agenda-for-economics-and-inequality-heather-boushey
 tags: 
   - book-summary

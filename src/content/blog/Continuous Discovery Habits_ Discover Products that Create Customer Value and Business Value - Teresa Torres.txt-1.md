@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Continuous Discovery Habits_ Discover Products that Create Customer Value and Business Value - Teresa Torres
+title: Continuous Discovery Habits_ Discover Products that Create Customer Value and Business Value - Teresa Torres
 slug: deep-summary-continuous-discovery-habits_-discover-products-that-create-customer-value-and-business-value-teresa-torres
 tags: 
   - book-summary

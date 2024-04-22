@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Moneyball - Lewis, Michael
+title: Moneyball - Lewis, Michael
 slug: deep-summary-moneyball-lewis-michael
 tags: 
   - book-summary

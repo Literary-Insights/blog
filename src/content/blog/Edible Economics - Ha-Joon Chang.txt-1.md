@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Edible Economics - Ha-Joon Chang
+title: Edible Economics - Ha-Joon Chang
 slug: deep-summary-edible-economics-ha-joon-chang
 tags: 
   - book-summary

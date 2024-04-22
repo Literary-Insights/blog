@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Die with Zero - Bill Perkins
+title: Die with Zero - Bill Perkins
 slug: deep-summary-die-with-zero-bill-perkins
 tags: 
   - book-summary

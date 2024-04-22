@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Hero on a Mission - Donald Miller
+title: Hero on a Mission - Donald Miller
 slug: deep-summary-hero-on-a-mission-donald-miller
 tags: 
   - book-summary

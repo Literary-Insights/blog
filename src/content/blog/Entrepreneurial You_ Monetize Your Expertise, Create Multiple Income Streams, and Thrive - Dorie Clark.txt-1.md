@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Entrepreneurial You_ Monetize Your Expertise, Create Multiple Income Streams, and Thrive - Dorie Clark
+title: Entrepreneurial You_ Monetize Your Expertise, Create Multiple Income Streams, and Thrive - Dorie Clark
 slug: deep-summary-entrepreneurial-you_-monetize-your-expertise-create-multiple-income-streams-and-thrive-dorie-clark
 tags: 
   - book-summary

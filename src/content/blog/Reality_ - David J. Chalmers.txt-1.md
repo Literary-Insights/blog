@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Reality_ - David J. Chalmers
+title: Reality_ - David J. Chalmers
 slug: deep-summary-reality_-david-j-chalmers
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Bullshit Jobs A Theory (David Graeber) (Z- - Desconhecido
+title: Bullshit Jobs A Theory (David Graeber) (Z- - Desconhecido
 slug: deep-summary-bullshit-jobs-a-theory-david-graeber-z-desconhecido
 tags: 
   - book-summary

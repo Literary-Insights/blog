@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - New Money - Lana Swartz
+title: New Money - Lana Swartz
 slug: deep-summary-new-money-lana-swartz
 tags: 
   - book-summary

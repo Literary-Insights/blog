@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Chronicles - Thomas Piketty
+title: Chronicles - Thomas Piketty
 slug: deep-summary-chronicles-thomas-piketty
 tags: 
   - book-summary

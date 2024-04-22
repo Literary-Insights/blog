@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Breakthrough Copywriting_ How To Generate Quick Cash With The Written Word - Garfinkel, David
+title: Breakthrough Copywriting_ How To Generate Quick Cash With The Written Word - Garfinkel, David
 slug: deep-summary-breakthrough-copywriting_-how-to-generate-quick-cash-with-the-written-word-garfinkel-david
 tags: 
   - book-summary

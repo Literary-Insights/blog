@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - To Be a Machine - Mark O'Connell
+title: To Be a Machine - Mark O'Connell
 slug: deep-summary-to-be-a-machine-mark-o-connell
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Life in Code - Ellen Ullman
+title: Life in Code - Ellen Ullman
 slug: deep-summary-life-in-code-ellen-ullman
 tags: 
   - book-summary

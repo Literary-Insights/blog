@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - How Asia Works - Joe Studwell
+title: How Asia Works - Joe Studwell
 slug: deep-summary-how-asia-works-joe-studwell
 tags: 
   - book-summary

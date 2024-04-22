@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Accounting for Dummies - John A. Tracy
+title: Accounting for Dummies - John A. Tracy
 slug: deep-summary-accounting-for-dummies-john-a-tracy
 tags: 
   - book-summary

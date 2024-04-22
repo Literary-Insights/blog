@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - The F_ck It Diet - Caroline Dooner
+title: The F_ck It Diet - Caroline Dooner
 slug: the-f_ck-it-diet-caroline-dooner 
 tags: 
   - book-summary

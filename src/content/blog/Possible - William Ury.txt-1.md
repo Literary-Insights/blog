@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Possible - William Ury
+title: Possible - William Ury
 slug: deep-summary-possible-william-ury
 tags: 
   - book-summary

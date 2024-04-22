@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Endorsement - Loran Nordgren
+title: Endorsement - Loran Nordgren
 slug: deep-summary-endorsement-loran-nordgren
 tags: 
   - book-summary

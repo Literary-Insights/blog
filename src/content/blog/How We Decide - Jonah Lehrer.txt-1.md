@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - How We Decide - Jonah Lehrer
+title: How We Decide - Jonah Lehrer
 slug: deep-summary-how-we-decide-jonah-lehrer
 tags: 
   - book-summary

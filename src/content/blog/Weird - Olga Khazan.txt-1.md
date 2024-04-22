@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Weird - Olga Khazan
+title: Weird - Olga Khazan
 slug: deep-summary-weird-olga-khazan
 tags: 
   - book-summary

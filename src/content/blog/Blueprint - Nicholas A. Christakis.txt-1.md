@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Blueprint - Nicholas A. Christakis
+title: Blueprint - Nicholas A. Christakis
 slug: deep-summary-blueprint-nicholas-a-christakis
 tags: 
   - book-summary

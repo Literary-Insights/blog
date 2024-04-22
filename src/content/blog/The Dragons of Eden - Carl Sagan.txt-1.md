@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - The Dragons of Eden - Carl Sagan
+title: The Dragons of Eden - Carl Sagan
 slug: the-dragons-of-eden-carl-sagan 
 tags: 
   - book-summary

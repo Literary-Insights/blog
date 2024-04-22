@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Forget the Funnel - Georgiana Laudi
+title: Forget the Funnel - Georgiana Laudi
 slug: deep-summary-forget-the-funnel-georgiana-laudi
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Bitcoin & Cryptocurrency Technologies_ Bitcoin Mining, Blockchain Basics And Cryptocurrency Trading & Investing For Beginners _ 7 Books In 1 - Weiser, Boris
+title: Bitcoin & Cryptocurrency Technologies_ Bitcoin Mining, Blockchain Basics And Cryptocurrency Trading & Investing For Beginners _ 7 Books In 1 - Weiser, Boris
 slug: deep-summary-bitcoin-cryptocurrency-technologies_-bitcoin-mining-blockchain-basics-and-cryptocurrency-trading-investing-for-beginners-_-7-books-in-1-weiser-boris
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Financial Management for Technology Start-ups_ How to power growth, track performance and drive innovation - Alnoor Bhimani
+title: Financial Management for Technology Start-ups_ How to power growth, track performance and drive innovation - Alnoor Bhimani
 slug: deep-summary-financial-management-for-technology-start-ups_-how-to-power-growth-track-performance-and-drive-innovation-alnoor-bhimani
 tags: 
   - book-summary

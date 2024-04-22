@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Future Babble - Dan Gardner
+title: Future Babble - Dan Gardner
 slug: deep-summary-future-babble-dan-gardner
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Your Pocket Therapist - Dr. Annie Zimmerman
+title: Your Pocket Therapist - Dr. Annie Zimmerman
 slug: deep-summary-your-pocket-therapist-dr-annie-zimmerman
 tags: 
   - book-summary

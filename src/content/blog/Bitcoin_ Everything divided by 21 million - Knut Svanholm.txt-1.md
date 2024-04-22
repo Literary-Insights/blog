@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Bitcoin_ Everything divided by 21 million - Knut Svanholm
+title: Bitcoin_ Everything divided by 21 million - Knut Svanholm
 slug: deep-summary-bitcoin_-everything-divided-by-21-million-knut-svanholm
 tags: 
   - book-summary

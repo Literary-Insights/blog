@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Get Your Sh_t Together - Sarah Knight
+title: Get Your Sh_t Together - Sarah Knight
 slug: deep-summary-get-your-sh_t-together-sarah-knight
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Genius Foods - Max Lugavere
+title: Genius Foods - Max Lugavere
 slug: deep-summary-genius-foods-max-lugavere
 tags: 
   - book-summary

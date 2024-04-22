@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Making Sense - Sam Harris
+title: Making Sense - Sam Harris
 slug: deep-summary-making-sense-sam-harris
 tags: 
   - book-summary

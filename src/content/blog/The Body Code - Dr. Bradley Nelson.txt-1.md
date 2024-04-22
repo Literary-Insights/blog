@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - The Body Code - Dr. Bradley Nelson
+title: The Body Code - Dr. Bradley Nelson
 slug: deep-summary-the-body-code-dr-bradley-nelson
 tags: 
   - book-summary

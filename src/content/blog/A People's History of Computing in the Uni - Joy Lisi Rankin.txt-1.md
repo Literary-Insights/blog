@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - A People's History of Computing in the Uni - Joy Lisi Rankin
+title: A People's History of Computing in the Uni - Joy Lisi Rankin
 slug: deep-summary-a-people-s-history-of-computing-in-the-uni-joy-lisi-rankin
 tags: 
   - book-summary

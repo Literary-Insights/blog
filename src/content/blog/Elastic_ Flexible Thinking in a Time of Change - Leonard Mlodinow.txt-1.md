@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Elastic_ Flexible Thinking in a Time of Change - Leonard Mlodinow
+title: Elastic_ Flexible Thinking in a Time of Change - Leonard Mlodinow
 slug: deep-summary-elastic_-flexible-thinking-in-a-time-of-change-leonard-mlodinow
 tags: 
   - book-summary

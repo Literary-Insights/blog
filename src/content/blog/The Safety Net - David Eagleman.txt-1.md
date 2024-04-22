@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - The Safety Net - David Eagleman
+title: The Safety Net - David Eagleman
 slug: deep-summary-the-safety-net-david-eagleman
 tags: 
   - book-summary

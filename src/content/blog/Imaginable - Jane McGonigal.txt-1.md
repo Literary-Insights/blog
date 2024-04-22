@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Imaginable - Jane McGonigal
+title: Imaginable - Jane McGonigal
 slug: deep-summary-imaginable-jane-mcgonigal
 tags: 
   - book-summary

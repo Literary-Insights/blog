@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Mixed Signals - Uri Gneezy
+title: Mixed Signals - Uri Gneezy
 slug: deep-summary-mixed-signals-uri-gneezy
 tags: 
   - book-summary

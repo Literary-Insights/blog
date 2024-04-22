@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Mastery - Greene, Robert
+title: Mastery - Greene, Robert
 slug: deep-summary-mastery-greene-robert
 tags: 
   - book-summary

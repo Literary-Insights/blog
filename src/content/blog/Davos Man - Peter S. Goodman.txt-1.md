@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Davos Man - Peter S. Goodman
+title: Davos Man - Peter S. Goodman
 slug: deep-summary-davos-man-peter-s-goodman
 tags: 
   - book-summary

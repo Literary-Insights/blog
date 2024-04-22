@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Mathletics - Wayne L. Winston
+title: Mathletics - Wayne L. Winston
 slug: deep-summary-mathletics-wayne-l-winston
 tags: 
   - book-summary

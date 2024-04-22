@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Building Multi-Tenant SaaS Architectures - Tod Golding
+title: Building Multi-Tenant SaaS Architectures - Tod Golding
 slug: deep-summary-building-multi-tenant-saas-architectures-tod-golding
 tags: 
   - book-summary

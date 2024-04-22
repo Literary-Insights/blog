@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - NOTE TO THE READER - Marco Vivar
+title: NOTE TO THE READER - Marco Vivar
 slug: deep-summary-note-to-the-reader-marco-vivar
 tags: 
   - book-summary

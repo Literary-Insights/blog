@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Unwinding Anxiety - Judson Brewer
+title: Unwinding Anxiety - Judson Brewer
 slug: deep-summary-unwinding-anxiety-judson-brewer
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Digital Madness - Nicholas Kardaras
+title: Digital Madness - Nicholas Kardaras
 slug: deep-summary-digital-madness-nicholas-kardaras
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - The Innovator's Dilemma - josip
+title: The Innovator's Dilemma - josip
 slug: deep-summary-the-innovator-s-dilemma-josip
 tags: 
   - book-summary

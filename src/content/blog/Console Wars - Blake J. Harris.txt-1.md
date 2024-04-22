@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Console Wars - Blake J. Harris
+title: Console Wars - Blake J. Harris
 slug: deep-summary-console-wars-blake-j-harris
 tags: 
   - book-summary

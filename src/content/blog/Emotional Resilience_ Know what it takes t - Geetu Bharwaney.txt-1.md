@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Emotional Resilience_ Know what it takes t - Geetu Bharwaney
+title: Emotional Resilience_ Know what it takes t - Geetu Bharwaney
 slug: deep-summary-emotional-resilience_-know-what-it-takes-t-geetu-bharwaney
 tags: 
   - book-summary

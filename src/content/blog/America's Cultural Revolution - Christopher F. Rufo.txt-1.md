@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - America's Cultural Revolution - Christopher F. Rufo
+title: America's Cultural Revolution - Christopher F. Rufo
 slug: deep-summary-america-s-cultural-revolution-christopher-f-rufo
 tags: 
   - book-summary

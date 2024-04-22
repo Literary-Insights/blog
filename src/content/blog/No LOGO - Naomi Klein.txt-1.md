@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - No LOGO - Naomi Klein
+title: No LOGO - Naomi Klein
 slug: deep-summary-no-logo-naomi-klein
 tags: 
   - book-summary

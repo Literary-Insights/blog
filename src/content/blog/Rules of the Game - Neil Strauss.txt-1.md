@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Rules of the Game - Neil Strauss
+title: Rules of the Game - Neil Strauss
 slug: deep-summary-rules-of-the-game-neil-strauss
 tags: 
   - book-summary

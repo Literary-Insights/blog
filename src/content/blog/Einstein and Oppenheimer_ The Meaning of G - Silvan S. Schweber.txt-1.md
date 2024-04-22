@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Einstein and Oppenheimer_ The Meaning of G - Silvan S. Schweber
+title: Einstein and Oppenheimer_ The Meaning of G - Silvan S. Schweber
 slug: deep-summary-einstein-and-oppenheimer_-the-meaning-of-g-silvan-s-schweber
 tags: 
   - book-summary

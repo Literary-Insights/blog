@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Inequality - Anthony B. Atkinson
+title: Inequality - Anthony B. Atkinson
 slug: deep-summary-inequality-anthony-b-atkinson
 tags: 
   - book-summary

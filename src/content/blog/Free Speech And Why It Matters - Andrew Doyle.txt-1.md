@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Free Speech And Why It Matters - Andrew Doyle
+title: Free Speech And Why It Matters - Andrew Doyle
 slug: deep-summary-free-speech-and-why-it-matters-andrew-doyle
 tags: 
   - book-summary

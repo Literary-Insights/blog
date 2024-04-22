@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - End of the World is Just the Beginning, The - Peter Zeihan
+title: End of the World is Just the Beginning, The - Peter Zeihan
 slug: deep-summary-end-of-the-world-is-just-the-beginning-the-peter-zeihan
 tags: 
   - book-summary

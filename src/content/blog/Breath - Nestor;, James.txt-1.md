@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Breath - Nestor;, James
+title: Breath - Nestor;, James
 slug: deep-summary-breath-nestor-james
 tags: 
   - book-summary

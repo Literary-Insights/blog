@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - My Age of Anxiety - Scott Stossel
+title: My Age of Anxiety - Scott Stossel
 slug: deep-summary-my-age-of-anxiety-scott-stossel
 tags: 
   - book-summary

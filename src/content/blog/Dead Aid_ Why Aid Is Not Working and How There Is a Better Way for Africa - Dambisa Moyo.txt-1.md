@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Dead Aid_ Why Aid Is Not Working and How There Is a Better Way for Africa - Dambisa Moyo
+title: Dead Aid_ Why Aid Is Not Working and How There Is a Better Way for Africa - Dambisa Moyo
 slug: deep-summary-dead-aid_-why-aid-is-not-working-and-how-there-is-a-better-way-for-africa-dambisa-moyo
 tags: 
   - book-summary

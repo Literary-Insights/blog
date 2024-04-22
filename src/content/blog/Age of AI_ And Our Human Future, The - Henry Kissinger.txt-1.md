@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Age of AI_ And Our Human Future, The - Henry Kissinger
+title: Age of AI_ And Our Human Future, The - Henry Kissinger
 slug: deep-summary-age-of-ai_-and-our-human-future-the-henry-kissinger
 tags: 
   - book-summary

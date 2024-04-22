@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Billion Dollar Loser - Reeves Wiedeman
+title: Billion Dollar Loser - Reeves Wiedeman
 slug: deep-summary-billion-dollar-loser-reeves-wiedeman
 tags: 
   - book-summary

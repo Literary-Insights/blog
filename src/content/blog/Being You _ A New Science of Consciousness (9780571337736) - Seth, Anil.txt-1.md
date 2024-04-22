@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Being You _ A New Science of Consciousness (9780571337736) - Seth, Anil
+title: Being You _ A New Science of Consciousness (9780571337736) - Seth, Anil
 slug: deep-summary-being-you-_-a-new-science-of-consciousness-9780571337736-seth-anil
 tags: 
   - book-summary

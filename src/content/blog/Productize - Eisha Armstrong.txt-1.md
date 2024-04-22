@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Productize - Eisha Armstrong
+title: Productize - Eisha Armstrong
 slug: deep-summary-productize-eisha-armstrong
 tags: 
   - book-summary

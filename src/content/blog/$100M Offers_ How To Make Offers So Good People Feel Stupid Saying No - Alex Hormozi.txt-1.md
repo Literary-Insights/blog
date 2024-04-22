@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - $100M Offers_ How To Make Offers So Good People Feel Stupid Saying No - Alex Hormozi
+title: $100M Offers_ How To Make Offers So Good People Feel Stupid Saying No - Alex Hormozi
 slug: deep-summary--100m-offers_-how-to-make-offers-so-good-people-feel-stupid-saying-no-alex-hormozi
 tags: 
   - book-summary

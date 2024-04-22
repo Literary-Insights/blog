@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Thinking 101 - Woo-kyoung Ahn
+title: Thinking 101 - Woo-kyoung Ahn
 slug: deep-summary-thinking-101-woo-kyoung-ahn
 tags: 
   - book-summary

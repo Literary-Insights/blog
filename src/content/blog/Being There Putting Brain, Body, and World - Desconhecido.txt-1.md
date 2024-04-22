@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Being There Putting Brain, Body, and World - Desconhecido
+title: Being There Putting Brain, Body, and World - Desconhecido
 slug: deep-summary-being-there-putting-brain-body-and-world-desconhecido
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Radical - Maajid Nawaz
+title: Radical - Maajid Nawaz
 slug: deep-summary-radical-maajid-nawaz
 tags: 
   - book-summary

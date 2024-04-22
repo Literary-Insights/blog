@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Spelunky - Derek Yu
+title: Spelunky - Derek Yu
 slug: deep-summary-spelunky-derek-yu
 tags: 
   - book-summary

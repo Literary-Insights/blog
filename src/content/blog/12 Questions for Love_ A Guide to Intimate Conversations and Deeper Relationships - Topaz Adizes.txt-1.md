@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - 12 Questions for Love_ A Guide to Intimate Conversations and Deeper Relationships - Topaz Adizes
+title: 12 Questions for Love_ A Guide to Intimate Conversations and Deeper Relationships - Topaz Adizes
 slug: deep-summary-12-questions-for-love_-a-guide-to-intimate-conversations-and-deeper-relationships-topaz-adizes
 tags: 
   - book-summary

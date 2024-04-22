@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Culture - Mr. John Brockman
+title: Culture - Mr. John Brockman
 slug: deep-summary-culture-mr-john-brockman
 tags: 
   - book-summary

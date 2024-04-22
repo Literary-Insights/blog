@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Joyful - Ingrid Fetell Lee
+title: Joyful - Ingrid Fetell Lee
 slug: deep-summary-joyful-ingrid-fetell-lee
 tags: 
   - book-summary

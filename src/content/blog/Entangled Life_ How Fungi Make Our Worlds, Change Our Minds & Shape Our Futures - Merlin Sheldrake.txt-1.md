@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Entangled Life_ How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures - Merlin Sheldrake
+title: Entangled Life_ How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures - Merlin Sheldrake
 slug: deep-summary-entangled-life_-how-fungi-make-our-worlds-change-our-minds-shape-our-futures-merlin-sheldrake
 tags: 
   - book-summary

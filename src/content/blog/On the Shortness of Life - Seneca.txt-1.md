@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - On the Shortness of Life - Seneca
+title: On the Shortness of Life - Seneca
 slug: deep-summary-on-the-shortness-of-life-seneca
 tags: 
   - book-summary

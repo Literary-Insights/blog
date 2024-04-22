@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Mind Reader - Lior Suchard
+title: Mind Reader - Lior Suchard
 slug: deep-summary-mind-reader-lior-suchard
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Fragile Futures-The Uncertain Economics of Disasters, Pandemics, and Climate Change. (Vito Tanzi) 
+title: Fragile Futures-The Uncertain Economics of Disasters, Pandemics, and Climate Change. (Vito Tanzi) 
 slug: deep-summary-fragile-futures-the-uncertain-economics-of-disasters-pandemics-and-climate-change-vito-tanzidesconhecido
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Dopamine Nation_ Finding Balance in the Age of Indulgence - Anna Lembke
+title: Dopamine Nation_ Finding Balance in the Age of Indulgence - Anna Lembke
 slug: deep-summary-dopamine-nation_-finding-balance-in-the-age-of-indulgence-anna-lembke
 tags: 
   - book-summary

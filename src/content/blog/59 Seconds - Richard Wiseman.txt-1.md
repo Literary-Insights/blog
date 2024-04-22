@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - 59 Seconds - Richard Wiseman
+title: 59 Seconds - Richard Wiseman
 slug: deep-summary-59-seconds-richard-wiseman
 tags: 
   - book-summary

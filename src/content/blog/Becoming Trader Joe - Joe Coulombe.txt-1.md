@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Becoming Trader Joe - Joe Coulombe
+title: Becoming Trader Joe - Joe Coulombe
 slug: deep-summary-becoming-trader-joe-joe-coulombe
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Net Gains - O'Hanlon, Ryan;
+title: Net Gains - O'Hanlon, Ryan;
 slug: deep-summary-net-gains-o-hanlon-ryan-
 tags: 
   - book-summary

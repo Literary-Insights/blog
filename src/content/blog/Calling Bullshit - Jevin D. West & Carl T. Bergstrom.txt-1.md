@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Calling Bullshit - Jevin D. West & Carl T. Bergstrom
+title: Calling Bullshit - Jevin D. West & Carl T. Bergstrom
 slug: deep-summary-calling-bullshit-jevin-d-west-carl-t-bergstrom
 tags: 
   - book-summary

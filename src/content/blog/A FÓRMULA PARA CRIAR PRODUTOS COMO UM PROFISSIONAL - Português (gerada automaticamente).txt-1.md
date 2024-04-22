@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - A FÓRMULA PARA CRIAR PRODUTOS COMO UM PROFISSIONAL - Português (gerada automaticamente)
+title: A FÓRMULA PARA CRIAR PRODUTOS COMO UM PROFISSIONAL - Português (gerada automaticamente)
 slug: deep-summary-a-fórmula-para-criar-produtos-como-um-profissional-português-gerada-automaticamente-
 tags: 
   - book-summary

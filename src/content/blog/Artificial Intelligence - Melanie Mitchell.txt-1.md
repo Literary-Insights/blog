@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Artificial Intelligence - Melanie Mitchell
+title: Artificial Intelligence - Melanie Mitchell
 slug: deep-summary-artificial-intelligence-melanie-mitchell
 tags: 
   - book-summary

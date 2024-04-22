@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - EasyPeasy - Hackauthor2
+title: EasyPeasy - Hackauthor2
 slug: deep-summary-easypeasy-hackauthor2
 tags: 
   - book-summary

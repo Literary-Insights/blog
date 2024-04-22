@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Eat Smarter - Shawn Stevenson
+title: Eat Smarter - Shawn Stevenson
 slug: deep-summary-eat-smarter-shawn-stevenson
 tags: 
   - book-summary

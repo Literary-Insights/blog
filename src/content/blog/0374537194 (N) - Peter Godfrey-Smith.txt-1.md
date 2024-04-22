@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Other Minds - Peter Godfrey-Smith
+title: Other Minds - Peter Godfrey-Smith
 slug: deep-summary-other-minds-n-peter-godfrey-smith
 tags: 
   - book-summary

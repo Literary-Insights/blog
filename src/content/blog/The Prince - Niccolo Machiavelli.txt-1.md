@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - The Prince - Niccolo Machiavelli
+title: The Prince - Niccolo Machiavelli
 slug: deep-summary-the-prince-niccolo-machiavelli
 tags: 
   - book-summary

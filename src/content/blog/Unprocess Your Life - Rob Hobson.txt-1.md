@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Unprocess Your Life - Rob Hobson
+title: Unprocess Your Life - Rob Hobson
 slug: deep-summary-unprocess-your-life-rob-hobson
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Side Hustle Bible - Desconhecido
+title: Side Hustle Bible - Desconhecido
 slug: deep-summary-side-hustle-bible-desconhecido
 tags: 
   - book-summary

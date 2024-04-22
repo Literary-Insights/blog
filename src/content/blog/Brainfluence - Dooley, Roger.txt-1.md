@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Brainfluence - Dooley, Roger
+title: Brainfluence - Dooley, Roger
 slug: deep-summary-brainfluence-dooley-roger
 tags: 
   - book-summary

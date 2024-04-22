@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - The Unfair Advantage - Ash Ali
+title: The Unfair Advantage - Ash Ali
 slug: deep-summary-the-unfair-advantage-ash-ali
 tags: 
   - book-summary

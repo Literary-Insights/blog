@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Brain Wash _ A Powerful, All-natural Program to Protect Your Brain against Alzheimer's, Chgue Syndrome, Depression, Parkinson's, and Other Brain Diseases - Cook, Michelle Schoffro_
+title: Brain Wash _ A Powerful, All-natural Program to Protect Your Brain against Alzheimer's, Chgue Syndrome, Depression, Parkinson's, and Other Brain Diseases - Cook, Michelle Schoffro_
 slug: deep-summary-brain-wash-_-a-powerful-all-natural-program-to-protect-your-brain-against-alzheimer-s-chgue-syndrome-depression-parkinson-s-and-other-brain-diseases-cook-michelle-schoffro_
 tags: 
   - book-summary

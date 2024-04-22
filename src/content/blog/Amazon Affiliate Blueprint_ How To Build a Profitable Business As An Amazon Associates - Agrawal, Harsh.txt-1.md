@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Amazon Affiliate Blueprint_ How To Build a Profitable Business As An Amazon Associates - Agrawal, Harsh
+title: Amazon Affiliate Blueprint_ How To Build a Profitable Business As An Amazon Associates - Agrawal, Harsh
 slug: deep-summary-amazon-affiliate-blueprint_-how-to-build-a-profitable-business-as-an-amazon-associates-agrawal-harsh
 tags: 
   - book-summary

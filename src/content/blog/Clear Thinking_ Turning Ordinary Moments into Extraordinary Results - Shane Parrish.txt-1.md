@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Clear Thinking_ Turning Ordinary Moments into Extraordinary Results - Shane Parrish
+title: Clear Thinking_ Turning Ordinary Moments into Extraordinary Results - Shane Parrish
 slug: deep-summary-clear-thinking_-turning-ordinary-moments-into-extraordinary-results-shane-parrish
 tags: 
   - book-summary

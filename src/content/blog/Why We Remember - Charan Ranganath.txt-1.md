@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Why We Remember - Charan Ranganath
+title: Why We Remember - Charan Ranganath
 slug: deep-summary-why-we-remember-charan-ranganath
 tags: 
   - book-summary

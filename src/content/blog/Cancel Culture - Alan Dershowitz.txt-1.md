@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Cancel Culture - Alan Dershowitz
+title: Cancel Culture - Alan Dershowitz
 slug: deep-summary-cancel-culture-alan-dershowitz
 tags: 
   - book-summary

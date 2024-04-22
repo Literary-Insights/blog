@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Blood in the Machine - Brian Merchant
+title: Blood in the Machine - Brian Merchant
 slug: deep-summary-blood-in-the-machine-brian-merchant
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: "DEEP SUMMARY - EMERGENCY EPISODE: Ex-Google Officer Finally Speaks Out On The Dangers Of AI! - Mo Gawdat | E252"
+title: "EMERGENCY EPISODE: Ex-Google Officer Finally Speaks Out On The Dangers Of AI! - Mo Gawdat | E252"
 slug: deep-summary-emergency-episode-ex-google-officer-finally-speaks-out-on-the-dangers-of-ai-mo-gawdat-e252
 tags: 
   - book-summary

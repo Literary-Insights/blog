@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - NLP - Tom Hoobyar
+title: NLP - Tom Hoobyar
 slug: deep-summary-nlp-tom-hoobyar
 tags: 
   - book-summary

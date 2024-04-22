@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - God Is Not Great - Christopher Hitchens
-slug: DEEP SUMMARY - god-is-not-great-christopher-hitchens
+title: God Is Not Great - Christopher Hitchens
+slug: god-is-not-great-christopher-hitchens
 tags: 
   - book-summary
 excerpt: ""

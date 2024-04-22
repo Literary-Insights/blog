@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Waking Up - Sam Harris
+title: Waking Up - Sam Harris
 slug: deep-summary-waking-up-sam-harris
 tags: 
   - book-summary

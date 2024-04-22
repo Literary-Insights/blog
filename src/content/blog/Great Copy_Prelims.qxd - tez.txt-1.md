@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Great Copy_Prelims.qxd - tez
+title: Great Copy_Prelims.qxd - tez
 slug: deep-summary-great-copy_prelims-qxd-tez
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - All In_ How Great Leaders Build Unstoppable Teams - Mike Michalowicz
+title: All In_ How Great Leaders Build Unstoppable Teams - Mike Michalowicz
 slug: deep-summary-all-in_-how-great-leaders-build-unstoppable-teams-mike-michalowicz
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Great Delusion - John J. Mearsheimer
+title: Great Delusion - John J. Mearsheimer
 slug: deep-summary-great-delusion-john-j-mearsheimer
 tags: 
   - book-summary

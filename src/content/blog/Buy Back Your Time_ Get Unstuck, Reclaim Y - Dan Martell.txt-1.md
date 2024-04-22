@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Buy Back Your Time_ Get Unstuck, Reclaim Y - Dan Martell
+title: Buy Back Your Time_ Get Unstuck, Reclaim Y - Dan Martell
 slug: deep-summary-buy-back-your-time_-get-unstuck-reclaim-y-dan-martell
 tags: 
   - book-summary

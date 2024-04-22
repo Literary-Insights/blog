@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Brain _ The Story of You (9781101870549) - Eagleman, David
+title: Brain _ The Story of You (9781101870549) - Eagleman, David
 slug: deep-summary-brain-_-the-story-of-you-9781101870549-eagleman-david
 tags: 
   - book-summary

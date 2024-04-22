@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Growth - Desconhecido
+title: Growth - Desconhecido
 slug: deep-summary-growth-desconhecido
 tags: 
   - book-summary

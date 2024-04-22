@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - The Balanced Brain - Camilla Nord;
+title: The Balanced Brain - Camilla Nord;
 slug: deep-summary-the-balanced-brain-camilla-nord-
 tags: 
   - book-summary

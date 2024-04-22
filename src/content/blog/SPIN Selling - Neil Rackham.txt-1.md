@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - SPIN Selling - Neil Rackham
+title: SPIN Selling - Neil Rackham
 slug: deep-summary-spin-selling-neil-rackham
 tags: 
   - book-summary

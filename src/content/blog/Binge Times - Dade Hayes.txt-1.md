@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Binge Times - Dade Hayes
+title: Binge Times - Dade Hayes
 slug: deep-summary-binge-times-dade-hayes
 tags: 
   - book-summary

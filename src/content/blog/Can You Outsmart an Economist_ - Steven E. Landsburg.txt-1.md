@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Can You Outsmart an Economist_ - Steven E. Landsburg
+title: Can You Outsmart an Economist_ - Steven E. Landsburg
 slug: deep-summary-can-you-outsmart-an-economist_-steven-e-landsburg
 tags: 
   - book-summary

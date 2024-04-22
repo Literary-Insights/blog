@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Direct - Kathryn Judge
+title: Direct - Kathryn Judge
 slug: deep-summary-direct-kathryn-judge
 tags: 
   - book-summary

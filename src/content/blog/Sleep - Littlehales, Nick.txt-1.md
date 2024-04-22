@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Sleep - Littlehales, Nick
+title: Sleep - Littlehales, Nick
 slug: deep-summary-sleep-littlehales-nick
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Helgoland_ Making Sense of the Quantum Revolution - Rovelli, Carlo, Carnell, Simon, Segre, Erica
+title: Helgoland_ Making Sense of the Quantum Revolution - Rovelli, Carlo, Carnell, Simon, Segre, Erica
 slug: deep-summary-helgoland_-making-sense-of-the-quantum-revolution-rovelli-carlo-carnell-simon-segre-erica
 tags: 
   - book-summary

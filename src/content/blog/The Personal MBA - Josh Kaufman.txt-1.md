@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - The Personal MBA - Josh Kaufman
+title: The Personal MBA - Josh Kaufman
 slug: deep-summary-the-personal-mba-josh-kaufman
 tags: 
   - book-summary

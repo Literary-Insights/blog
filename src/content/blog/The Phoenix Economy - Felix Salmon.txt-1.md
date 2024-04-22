@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - The Phoenix Economy - Felix Salmon
+title: The Phoenix Economy - Felix Salmon
 slug: deep-summary-the-phoenix-economy-felix-salmon
 tags: 
   - book-summary

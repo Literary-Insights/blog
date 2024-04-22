@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Higgs Discovery - Lisa Randall
+title: Higgs Discovery - Lisa Randall
 slug: deep-summary-higgs-discovery-lisa-randall
 tags: 
   - book-summary

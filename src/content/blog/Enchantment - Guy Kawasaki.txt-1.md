@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Enchantment - Guy Kawasaki
+title: Enchantment - Guy Kawasaki
 slug: deep-summary-enchantment-guy-kawasaki
 tags: 
   - book-summary

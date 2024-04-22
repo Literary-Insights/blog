@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Boundaries for Leaders - Henry Cloud
+title: Boundaries for Leaders - Henry Cloud
 slug: DEEP-SUMMARY-boundaries-for-leaders-henry-cloud
 tags: 
   - book-summary

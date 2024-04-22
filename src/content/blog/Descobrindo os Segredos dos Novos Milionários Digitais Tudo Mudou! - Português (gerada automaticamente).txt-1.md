@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Descobrindo os Segredos dos Novos Milionários Digitais Tudo Mudou! - Português (gerada automaticamente)
+title: Descobrindo os Segredos dos Novos Milionários Digitais Tudo Mudou! - Português (gerada automaticamente)
 slug: deep-summary-descobrindo-os-segredos-dos-novos-milionários-digitais-tudo-mudou-português-gerada-automaticamente-
 tags: 
   - book-summary

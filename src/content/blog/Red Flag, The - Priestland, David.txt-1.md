@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Red Flag, The - Priestland, David
+title: Red Flag, The - Priestland, David
 slug: deep-summary-red-flag-the-priestland-david
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - The Power of Imagination - Neville
+title: The Power of Imagination - Neville
 slug: deep-summary-the-power-of-imagination-neville
 tags: 
   - book-summary

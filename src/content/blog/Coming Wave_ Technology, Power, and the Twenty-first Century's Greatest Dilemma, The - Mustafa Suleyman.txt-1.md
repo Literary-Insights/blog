@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Coming Wave_ Technology, Power, and the Twenty-first Century's Greatest Dilemma, The - Mustafa Suleyman
+title: Coming Wave_ Technology, Power, and the Twenty-first Century's Greatest Dilemma, The - Mustafa Suleyman
 slug: deep-summary-coming-wave_-technology-power-and-the-twenty-first-century-s-greatest-dilemma-the-mustafa-suleyman
 tags: 
   - book-summary

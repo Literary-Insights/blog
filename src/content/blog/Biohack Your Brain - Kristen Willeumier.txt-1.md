@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Biohack Your Brain - Kristen Willeumier
+title: Biohack Your Brain - Kristen Willeumier
 slug: deep-summary-biohack-your-brain-kristen-willeumier
 tags: 
   - book-summary

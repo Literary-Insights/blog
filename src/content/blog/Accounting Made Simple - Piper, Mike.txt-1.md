@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Accounting Made Simple - Piper, Mike
+title: Accounting Made Simple - Piper, Mike
 slug: deep-summary-accounting-made-simple-piper-mike
 tags: 
   - book-summary

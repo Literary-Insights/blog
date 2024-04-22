@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - The Psychology Book - Desconhecido
+title: The Psychology Book - Desconhecido
 slug: deep-summary-the-psychology-book-desconhecido
 tags: 
   - book-summary

@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Genius Life - Max Lugavere
-slug: DEEP SUMMARY - the-genius-life-max-lugavere
+title: The Genius Life - Max Lugavere
+slug: the-genius-life-max-lugavere
 tags: 
   - book-summary
 excerpt: ""

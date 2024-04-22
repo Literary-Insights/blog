@@ -1,5 +1,5 @@
 ---
-title: "DEEP SUMMARY - DIET MASTERCLASS: What To Eat, When To Eat & How To Eat For LONGEVITY | Sal DiStefano"
+title: "DIET MASTERCLASS: What To Eat, When To Eat & How To Eat For LONGEVITY | Sal DiStefano"
 slug: deep-summary-diet-masterclass-what-to-eat-when-to-eat-how-to-eat-for-longevity-sal-distefano
 tags: 
   - book-summary

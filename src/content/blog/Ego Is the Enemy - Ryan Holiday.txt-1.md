@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Ego Is the Enemy - Ryan Holiday
+title: Ego Is the Enemy - Ryan Holiday
 slug: deep-summary-ego-is-the-enemy-ryan-holiday
 tags: 
   - book-summary

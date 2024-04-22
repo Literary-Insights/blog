@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Business Made Simple - Donald Miller
+title: Business Made Simple - Donald Miller
 slug: deep-summary-business-made-simple-donald-miller
 tags: 
   - book-summary

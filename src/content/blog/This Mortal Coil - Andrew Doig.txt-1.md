@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - This Mortal Coil - Andrew Doig
+title: This Mortal Coil - Andrew Doig
 slug: deep-summary-this-mortal-coil-andrew-doig
 tags: 
   - book-summary

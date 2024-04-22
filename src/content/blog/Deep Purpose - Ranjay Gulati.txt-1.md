@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Deep Purpose - Ranjay Gulati
+title: Deep Purpose - Ranjay Gulati
 slug: deep-summary-deep-purpose-ranjay-gulati
 tags: 
   - book-summary

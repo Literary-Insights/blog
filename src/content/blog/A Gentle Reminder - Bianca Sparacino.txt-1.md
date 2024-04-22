@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - A Gentle Reminder - Bianca Sparacino
+title: A Gentle Reminder - Bianca Sparacino
 slug: deep-summary-a-gentle-reminder-bianca-sparacino
 tags: 
   - book-summary

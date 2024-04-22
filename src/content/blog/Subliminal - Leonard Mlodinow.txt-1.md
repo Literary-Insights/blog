@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Subliminal - Leonard Mlodinow
+title: Subliminal - Leonard Mlodinow
 slug: deep-summary-subliminal-leonard-mlodinow
 tags: 
   - book-summary

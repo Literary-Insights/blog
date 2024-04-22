@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - The Age of Walls - Tim Marshall
+title: The Age of Walls - Tim Marshall
 slug: deep-summary-the-age-of-walls-tim-marshall
 tags: 
   - book-summary

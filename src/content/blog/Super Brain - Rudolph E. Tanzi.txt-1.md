@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Super Brain - Rudolph E. Tanzi
+title: Super Brain - Rudolph E. Tanzi
 slug: deep-summary-super-brain-rudolph-e-tanzi
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Grand Transitions - Vaclav Smil
+title: Grand Transitions - Vaclav Smil
 slug: deep-summary-grand-transitions-vaclav-smil
 tags: 
   - book-summary

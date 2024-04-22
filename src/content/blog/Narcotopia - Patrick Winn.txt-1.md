@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Narcotopia - Patrick Winn
+title: Narcotopia - Patrick Winn
 slug: deep-summary-narcotopia-patrick-winn
 tags: 
   - book-summary

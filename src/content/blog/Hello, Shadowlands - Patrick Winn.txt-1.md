@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Hello, Shadowlands - Patrick Winn
+title: Hello, Shadowlands - Patrick Winn
 slug: deep-summary-hello-shadowlands-patrick-winn
 tags: 
   - book-summary

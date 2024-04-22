@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Learned Excellence - Eric Potterat
+title: Learned Excellence - Eric Potterat
 slug: deep-summary-learned-excellence-eric-potterat
 tags: 
   - book-summary

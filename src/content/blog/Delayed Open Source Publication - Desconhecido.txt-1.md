@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Delayed Open Source Publication - Desconhecido
+title: Delayed Open Source Publication - Desconhecido
 slug: deep-summary-delayed-open-source-publication-desconhecido
 tags: 
   - book-summary

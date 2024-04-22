@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Come Together_ The Science (and Art!) of Creating Lasting Sexual Connections - Emily Nagoski, PhD
+title: Come Together_ The Science (and Art!) of Creating Lasting Sexual Connections - Emily Nagoski, PhD
 slug: deep-summary-come-together_-the-science-and-art-of-creating-lasting-sexual-connections-emily-nagoski-phd
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - A Mind For Numbers - Barbara Oakley
+title: A Mind For Numbers - Barbara Oakley
 slug: deep-summary-a-mind-for-numbers-barbara-oakley
 tags: 
   - book-summary

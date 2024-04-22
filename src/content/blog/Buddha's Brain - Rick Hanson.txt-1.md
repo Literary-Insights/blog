@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Buddha's Brain - Rick Hanson
+title: Buddha's Brain - Rick Hanson
 slug: deep-summary-buddha-s-brain-rick-hanson
 tags: 
   - book-summary

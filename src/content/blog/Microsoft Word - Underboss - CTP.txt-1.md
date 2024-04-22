@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Microsoft Word - Underboss - CTP
+title: Microsoft Word - Underboss - CTP
 slug: deep-summary-microsoft-word-underboss-ctp
 tags: 
   - book-summary

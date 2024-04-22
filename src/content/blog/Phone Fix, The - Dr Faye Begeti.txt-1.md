@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Phone Fix, The - Dr Faye Begeti
+title: Phone Fix, The - Dr Faye Begeti
 slug: deep-summary-phone-fix-the-dr-faye-begeti
 tags: 
   - book-summary

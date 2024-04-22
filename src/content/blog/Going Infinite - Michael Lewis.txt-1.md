@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Going Infinite - Michael Lewis
+title: Going Infinite - Michael Lewis
 slug: deep-summary-going-infinite-michael-lewis
 tags: 
   - book-summary

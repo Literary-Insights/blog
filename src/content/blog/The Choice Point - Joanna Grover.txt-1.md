@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - The Choice Point - Joanna Grover
+title: The Choice Point - Joanna Grover
 slug: deep-summary-the-choice-point-joanna-grover
 tags: 
   - book-summary

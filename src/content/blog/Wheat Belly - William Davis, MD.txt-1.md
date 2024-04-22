@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Wheat Belly - William Davis, MD
+title: Wheat Belly - William Davis, MD
 slug: deep-summary-wheat-belly-william-davis-md
 tags: 
   - book-summary

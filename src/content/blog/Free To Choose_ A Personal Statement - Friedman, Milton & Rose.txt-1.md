@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Free To Choose_ A Personal Statement - Friedman, Milton & Rose
+title: Free To Choose_ A Personal Statement - Friedman, Milton & Rose
 slug: deep-summary-free-to-choose_-a-personal-statement-friedman-milton-rose
 tags: 
   - book-summary

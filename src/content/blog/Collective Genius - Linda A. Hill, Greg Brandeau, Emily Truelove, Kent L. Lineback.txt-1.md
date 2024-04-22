@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Collective Genius - Linda A. Hill, Greg Brandeau, Emily Truelove, Kent L. Lineback
+title: Collective Genius - Linda A. Hill, Greg Brandeau, Emily Truelove, Kent L. Lineback
 slug: deep-summary-collective-genius-linda-a-hill-greg-brandeau-emily-truelove-kent-l-lineback
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Captivate - Vanessa Van Edwards
+title: Captivate - Vanessa Van Edwards
 slug: deep-summary-captivate-vanessa-van-edwards
 tags: 
   - book-summary

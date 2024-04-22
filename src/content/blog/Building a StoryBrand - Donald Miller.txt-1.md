@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Building a StoryBrand - Donald Miller
+title: Building a StoryBrand - Donald Miller
 slug: deep-summary-building-a-storybrand-donald-miller
 tags: 
   - book-summary

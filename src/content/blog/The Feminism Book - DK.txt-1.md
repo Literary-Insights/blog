@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - The Feminism Book - DK
+title: The Feminism Book - DK
 slug: deep-summary-the-feminism-book-dk
 tags: 
   - book-summary

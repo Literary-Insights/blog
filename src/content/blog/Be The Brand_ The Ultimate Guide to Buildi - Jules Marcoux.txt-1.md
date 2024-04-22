@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Be The Brand_ The Ultimate Guide to Buildi - Jules Marcoux
+title: Be The Brand_ The Ultimate Guide to Buildi - Jules Marcoux
 slug: deep-summary-be-the-brand_-the-ultimate-guide-to-buildi-jules-marcoux
 tags: 
   - book-summary

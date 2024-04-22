@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Chokepoint Capitalism - Rebecca Giblin & Cory Doctorow
+title: Chokepoint Capitalism - Rebecca Giblin & Cory Doctorow
 slug: deep-summary-chokepoint-capitalism-rebecca-giblin-cory-doctorow
 tags: 
   - book-summary

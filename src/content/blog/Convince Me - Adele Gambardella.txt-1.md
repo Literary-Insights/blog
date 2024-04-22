@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Convince Me - Adele Gambardella
+title: Convince Me - Adele Gambardella
 slug: deep-summary-convince-me-adele-gambardella
 tags: 
   - book-summary

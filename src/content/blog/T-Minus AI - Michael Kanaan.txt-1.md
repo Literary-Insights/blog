@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - T-Minus AI - Michael Kanaan
+title: T-Minus AI - Michael Kanaan
 slug: deep-summary-t-minus-ai-michael-kanaan
 tags: 
   - book-summary

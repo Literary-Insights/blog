@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Disrupt Yourself - Whitney Johnson
+title: Disrupt Yourself - Whitney Johnson
 slug: deep-summary-disrupt-yourself-whitney-johnson
 tags: 
   - book-summary

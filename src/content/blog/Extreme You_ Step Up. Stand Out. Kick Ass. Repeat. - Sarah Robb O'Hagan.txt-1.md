@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Extreme You_ Step Up. Stand Out. Kick Ass. Repeat. - Sarah Robb O'Hagan
+title: Extreme You_ Step Up. Stand Out. Kick Ass. Repeat. - Sarah Robb O'Hagan
 slug: deep-summary-extreme-you_-step-up-stand-out-kick-ass-repeat-sarah-robb-o-hagan
 tags: 
   - book-summary

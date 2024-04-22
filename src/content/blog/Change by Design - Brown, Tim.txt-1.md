@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Change by Design - Brown, Tim
+title: Change by Design - Brown, Tim
 slug: deep-summary-change-by-design-brown-tim
 tags: 
   - book-summary

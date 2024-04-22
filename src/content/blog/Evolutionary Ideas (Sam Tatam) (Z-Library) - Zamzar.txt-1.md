@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Evolutionary Ideas (Sam Tatam)  - Zamzar
+title: Evolutionary Ideas (Sam Tatam)  - Zamzar
 slug: deep-summary-evolutionary-ideas-sam-tatamzamzar
 tags: 
   - book-summary

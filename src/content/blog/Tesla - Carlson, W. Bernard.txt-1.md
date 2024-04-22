@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Tesla - Carlson, W. Bernard
+title: Tesla - Carlson, W. Bernard
 slug: deep-summary-tesla-carlson-w-bernard
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Everything I Need I Get from You - Kaitlyn Tiffany
+title: Everything I Need I Get from You - Kaitlyn Tiffany
 slug: deep-summary-everything-i-need-i-get-from-you-kaitlyn-tiffany
 tags: 
   - book-summary

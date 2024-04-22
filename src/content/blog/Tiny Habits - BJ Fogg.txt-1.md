@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Tiny Habits - BJ Fogg
+title: Tiny Habits - BJ Fogg
 slug: deep-summary-tiny-habits-bj-fogg
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Dollars and Sense - Dr. Dan Ariely
+title: Dollars and Sense - Dr. Dan Ariely
 slug: deep-summary-dollars-and-sense-dr-dan-ariely
 tags: 
   - book-summary

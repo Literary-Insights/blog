@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Blockchain By Example - Bellaj Badr
+title: Blockchain By Example - Bellaj Badr
 slug: deep-summary-blockchain-by-example-bellaj-badr
 tags: 
   - book-summary

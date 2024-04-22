@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Football Hackers - Christoph Biermann
+title: Football Hackers - Christoph Biermann
 slug: deep-summary-football-hackers-christoph-biermann
 tags: 
   - book-summary

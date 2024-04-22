@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Good Morning, Monster - Catherine Gildiner
+title: Good Morning, Monster - Catherine Gildiner
 slug: deep-summary-good-morning-monster-catherine-gildiner
 tags: 
   - book-summary

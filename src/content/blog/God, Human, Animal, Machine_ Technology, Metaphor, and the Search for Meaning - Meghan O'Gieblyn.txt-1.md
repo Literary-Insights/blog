@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - God, Human, Animal, Machine_ Technology, Metaphor, and the Search for Meaning - Meghan O'Gieblyn
+title: God, Human, Animal, Machine_ Technology, Metaphor, and the Search for Meaning - Meghan O'Gieblyn
 slug: deep-summary-god-human-animal-machine_-technology-metaphor-and-the-search-for-meaning-meghan-o-gieblyn
 tags: 
   - book-summary

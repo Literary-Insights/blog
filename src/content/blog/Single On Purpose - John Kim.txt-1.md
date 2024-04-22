@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Single On Purpose - John Kim
+title: Single On Purpose - John Kim
 slug: deep-summary-single-on-purpose-john-kim
 tags: 
   - book-summary

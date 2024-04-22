@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Getting Unstuck in ACT - Harris, Russ
+title: Getting Unstuck in ACT - Harris, Russ
 slug: deep-summary-getting-unstuck-in-act-harris-russ
 tags: 
   - book-summary

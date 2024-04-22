@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Do the Hard Things First_ How to Win Over Procrastination and Master the Habit of Doing Difficult Work - Allan, Scott
+title: Do the Hard Things First_ How to Win Over Procrastination and Master the Habit of Doing Difficult Work - Allan, Scott
 slug: deep-summary-do-the-hard-things-first_-how-to-win-over-procrastination-and-master-the-habit-of-doing-difficult-work-allan-scott
 tags: 
   - book-summary

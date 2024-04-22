@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Happier - Ben-Shahar
+title: Happier - Ben-Shahar
 slug: deep-summary-happier-Ben-Shahar
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Reinvent Yourself - Kahn, Susan;
+title: Reinvent Yourself - Kahn, Susan;
 slug: deep-summary-reinvent-yourself-kahn-susan-
 tags: 
   - book-summary

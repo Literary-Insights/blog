@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Tired as F_ck - Caroline Dooner
+title: Tired as F_ck - Caroline Dooner
 slug: deep-summary-tired-as-f_ck-caroline-dooner
 tags: 
   - book-summary

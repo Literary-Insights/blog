@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Complete Infidel's Guide to the Koran, The - Robert Spencer
+title: Complete Infidel's Guide to the Koran, The - Robert Spencer
 slug: deep-summary-complete-infidel-s-guide-to-the-koran-the-robert-spencer
 tags: 
   - book-summary

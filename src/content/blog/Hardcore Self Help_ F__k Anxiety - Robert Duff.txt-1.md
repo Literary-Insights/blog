@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Hardcore Self Help_ F__k Anxiety - Robert Duff
+title: Hardcore Self Help_ F__k Anxiety - Robert Duff
 slug: deep-summary-hardcore-self-help_-f__k-anxiety-robert-duff
 tags: 
   - book-summary

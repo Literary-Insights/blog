@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Life as Sport - Jonathan Fader
+title: Life as Sport - Jonathan Fader
 slug: deep-summary-life-as-sport-jonathan-fader
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Free Will - Sam Harris
+title: Free Will - Sam Harris
 slug: deep-summary-free-will-sam-harris
 tags: 
   - book-summary

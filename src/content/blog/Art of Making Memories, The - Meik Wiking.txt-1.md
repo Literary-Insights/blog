@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Art of Making Memories, The - Meik Wiking
+title: Art of Making Memories, The - Meik Wiking
 slug: deep-summary-art-of-making-memories-the-meik-wiking
 tags: 
   - book-summary

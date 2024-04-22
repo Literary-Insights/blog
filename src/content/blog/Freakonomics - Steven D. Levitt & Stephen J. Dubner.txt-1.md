@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Freakonomics - Steven D. Levitt & Stephen J. Dubner
+title: Freakonomics - Steven D. Levitt & Stephen J. Dubner
 slug: deep-summary-freakonomics-steven-d-levitt-stephen-j-dubner
 tags: 
   - book-summary

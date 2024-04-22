@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Blockchain Startups_ Bitcoin and Ethereum as the Frontier of Finance - King, Stefan
+title: Blockchain Startups_ Bitcoin and Ethereum as the Frontier of Finance - King, Stefan
 slug: deep-summary-blockchain-startups_-bitcoin-and-ethereum-as-the-frontier-of-finance-king-stefan
 tags: 
   - book-summary

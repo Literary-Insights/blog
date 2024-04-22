@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - CEO, China - Kerry Brown
+title: CEO, China - Kerry Brown
 slug: deep-summary-ceo-china-kerry-brown
 tags: 
   - book-summary

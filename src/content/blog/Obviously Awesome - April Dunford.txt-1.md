@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Obviously Awesome - April Dunford
+title: Obviously Awesome - April Dunford
 slug: deep-summary-obviously-awesome-april-dunford
 tags: 
   - book-summary

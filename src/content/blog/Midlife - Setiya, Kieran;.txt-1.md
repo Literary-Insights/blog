@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Midlife - Setiya, Kieran;
+title: Midlife - Setiya, Kieran;
 slug: deep-summary-midlife-setiya-kieran-
 tags: 
   - book-summary

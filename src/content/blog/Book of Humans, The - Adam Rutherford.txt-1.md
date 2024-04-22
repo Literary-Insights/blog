@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Book of Humans, The - Adam Rutherford
+title: Book of Humans, The - Adam Rutherford
 slug: deep-summary-book-of-humans-the-adam-rutherford
 tags: 
   - book-summary

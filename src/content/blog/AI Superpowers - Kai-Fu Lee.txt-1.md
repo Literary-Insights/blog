@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - AI Superpowers - Kai-Fu Lee
+title: AI Superpowers - Kai-Fu Lee
 slug: deep-summary-ai-superpowers-kai-fu-lee
 tags: 
   - book-summary

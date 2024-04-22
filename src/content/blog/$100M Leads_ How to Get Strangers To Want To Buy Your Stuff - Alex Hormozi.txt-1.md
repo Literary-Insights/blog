@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - $100M Leads_ How to Get Strangers To Want To Buy Your Stuff - Alex Hormozi
+title: $100M Leads_ How to Get Strangers To Want To Buy Your Stuff - Alex Hormozi
 slug: deep-summary--100m-leads_-how-to-get-strangers-to-want-to-buy-your-stuff-alex-hormozi
 tags: 
   - book-summary

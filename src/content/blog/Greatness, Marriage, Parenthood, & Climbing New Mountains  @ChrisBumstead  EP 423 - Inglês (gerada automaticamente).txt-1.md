@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Greatness, Marriage, Parenthood, & Climbing New Mountains  @ChrisBumstead  EP 423 - Inglês (gerada automaticamente)
+title: Greatness, Marriage, Parenthood, & Climbing New Mountains  @ChrisBumstead  EP 423 - Inglês (gerada automaticamente)
 slug: deep-summary-greatness-marriage-parenthood-climbing-new-mountains-chrisbumstead-ep-423-inglês-gerada-automaticamente-
 tags: 
   - book-summary

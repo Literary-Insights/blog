@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Design Thinking for Tech_ Solving Problems and Realizing Value in 24 Hours - George W. Anderson
+title: Design Thinking for Tech_ Solving Problems and Realizing Value in 24 Hours - George W. Anderson
 slug: deep-summary-design-thinking-for-tech_-solving-problems-and-realizing-value-in-24-hours-george-w-anderson
 tags: 
   - book-summary

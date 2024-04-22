@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Dare_ The New Way to End Anxiety and Stop Panic Attacks Fast (Anxiety Relief) - Barry McDonagh
+title: Dare_ The New Way to End Anxiety and Stop Panic Attacks Fast (Anxiety Relief) - Barry McDonagh
 slug: deep-summary-dare_-the-new-way-to-end-anxiety-and-stop-panic-attacks-fast-anxiety-relief-barry-mcdonagh
 tags: 
   - book-summary

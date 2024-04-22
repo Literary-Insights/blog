@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - The Metaverse - Matthew Ball
+title: The Metaverse - Matthew Ball
 slug: deep-summary-the-metaverse-matthew-ball
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Addiction, Procrastination, and Laziness_ - Roman Gelperin
+title: Addiction, Procrastination, and Laziness_ - Roman Gelperin
 slug: deep-summary-addiction-procrastination-and-laziness_-roman-gelperin
 tags: 
   - book-summary

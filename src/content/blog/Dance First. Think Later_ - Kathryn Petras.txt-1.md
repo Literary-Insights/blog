@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - Dance First. Think Later_ - Kathryn Petras
+title: Dance First. Think Later_ - Kathryn Petras
 slug: deep-summary-dance-first-think-later_-kathryn-petras
 tags: 
   - book-summary
