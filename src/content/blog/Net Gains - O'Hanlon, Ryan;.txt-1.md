@@ -471,7 +471,7 @@ So in summary, Reep, Pollard, and modern coaches like Klopp and Guardiola have f
 
 - Though not revealing inner workings of soccer itself, the job gave insight into the outsized impact of individual players on match outcomes.
 
- Here is a summary:
+ 
 
 The blog post contrasts the value of star player Neymar to a team compared to the value of lesser-known player Ron Vlaar. While Neymar is clearly a skilled and valuable player, Vlaar's importance to Aston Villa was revealed through statistical analysis of betting odds. When Vlaar was out with injury, Villa struggled greatly, showing the outsized impact he had despite not being a big name. 
 
@@ -767,7 +767,7 @@ In summary, soccer lacks the overt displays of athletic brilliance that make oth
 
 - Barcelona was dominated by Johan Cruyff's philosophy focused on beautiful, flowing soccer with players interchanging positions. But other influences have shifted the club away from that pure Cruyff style recently.
 
- Here is a summary:
+ 
 
 FC Barcelona has long had a distinct style and identity rooted in the club's Catalan ideals. This was solidified under Johan Cruyff's leadership in the 1990s. The style emphasizes possession, ball movement, and comfort on the ball. Barcelona's devotion to this local philosophy made the club appealing globally. 
 

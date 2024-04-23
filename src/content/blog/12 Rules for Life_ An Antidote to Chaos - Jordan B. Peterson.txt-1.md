@@ -1,5 +1,5 @@
 ---
-title: 12 Rules for Life_ An Antidote to Chaos - Jordan B. Peterson
+title: 12 Rules for Life An Antidote to Chaos - Jordan B. Peterson
 slug: 12-rules-for-life-an-antidote-to-chaos-jordan-b-peterson
 tags: 
   - book-summary
@@ -7,7 +7,6 @@ excerpt: ""
 category: "self-help"
 author: "matheus-puppe"
 publishDate: "2024-04-21T00:00:00.000Z"
-
 image: https://cdn.hashnode.com/res/hashnode/image/upload/v1691706867249/7vheVayTn.jpg?auto=format
 
 ---
@@ -804,130 +803,6 @@ In summary, the second study aimed to disentangle whether creativity or intellig
 
 - In summary, it analyzes infidelity and dishonesty in-depth, then argues for practical steps accounting for psychological realities rather than superficial regulations to address the problem meaningfully.
 
- Here is a summary of the key details:
-
-- Participants were asked to reflect on a positive, negative, or neutral experience. 
-
-- They were then attached to a shock machine and asked to administer increasing levels of electric shocks to themselves, ostensibly as part of another experiment. 
-
-- Those who recalled a guilty experience administered significantly higher shocks to themselves than the other conditions. 
-
-- The researchers hypothesized that guilt can create a desire for self-inflicted pain or punishment as a form of purification or asking forgiveness. 
-
-- However, negative emotions alone did not lead to higher shock levels - explicitly, guilt influenced participants to tolerate more pain.
-
-- The study provided experimental support for the notion that practices like self-flagellation in Opus Dei may tap into basic human psychological tendencies around guilt and purification through physical punishment or pain.
-
- Here are summaries of the key points about each person:
-
-- Lisa is interested in food, fashion, and research ideas. She would be a good collaborator and shopping partner. She studies ethical behavior and is interested in negotiation. 
-
-- Mary Frances was a former PhD student and professor at Duke who has advised the author over the years. She is now a dean at Duke.
-
-- Maurice finds many things interesting and approaches new projects with curiosity. He claims to be a good squash player. He offers wisdom on work, family, and life. 
-
-- Max is insightful about many topics and always has something unexpected to say. His students solve dilemmas by asking, "What would Max do?". 
-
-- Mike is brilliant with self-deprecation and sarcastic humor. He has an unexpected perspective and is good to bounce ideas off of. His feedback is wacky but constructive.
-
-- Nicole was a graduate student the author met years ago. They had insightful but drunken conversations. She is now a professor in Portugal.
-
-- Nina came to MIT and stayed for five years, working closely with the author on challenging projects in rural India. She is now a professor in Toronto. 
-
-- On was the author's first PhD student, helping shape expectations. He is brilliant and able to learn new things quickly. He is now a professor in California. 
-
-- Rachel (Rachel) and the author have discussed collaborating for years. When she visited Duke, they made progress over coffee. She is insightful and knowledgeable.
-
-- Roy has wide-ranging interests and offers puzzling but wise perspectives. He would be ideal to travel and explore with. 
-
-- Scott was an enthusiastic undergraduate assistant. He did independent research on cheating in golf. He now works in consulting. 
-
-- Shahar and the author met socially and worked together after Shahar's PhD. They think alike and enjoy collaborating. 
-
-- Tom creates amazing thought experiments. The author always wanted to be more like him. He is a professor at Cornell.
-
-- Yoel is a modern hipster who finds disgusting ways to disgust people. He is a professor in the Netherlands. 
-
-- Zoë is hugely creative and kind. Talking to her is exciting but unpredictable. She is ideal as a researcher and friend.
-
- Here is a summary of the provided readings:
-
-- Robert A. Wicklund (1979) discusses how self-awareness can influence human behavior. Being self-aware draws attention to one's motivations and makes them more apparent to oneself and others. This can impact behavior. 
-
-- Chapter 3 discusses how our motivations and conflicts of interest can close our eyes to perverse effects. It cites a 2005 study by Cain, Loewenstein, and Moore that found disclosing conflicts of interest can sometimes backfire and increase dishonest behavior due to rationalization. 
-
-- Ann Harvey et al. (2010) examined how monetary favors influence neural responses and revealed preferences, finding they can distort decision-making. 
-
-- Chapter 4 discusses how fatigue influences decision-making and increases dishonesty. It cites a 1990 article, a 2011 study finding greater erraticness in rulings by parole boards later in the day, and other research on how self-control depletion promotes unethical behavior.
-
-- Chapter 5 discusses research by Gino et al. (2010), finding that wearing counterfeit luxury goods increases subsequent dishonesty, likely due to reduced self-signaling of one's authentic self and moral identity.
-
-- Chapter 6 discusses temporal self-deception and the costs and benefits cited in a 2011 study by Chance, Norton, Gino, and Ariely.
-
-- Chapter 7 discusses the link between creativity and dishonesty, citing research by Gino and Ariely (2011) that original thinkers are likelier to engage in unethical behavior under certain conditions.
-
-- Chapter 8 discusses research showing how dishonesty can spread through social networks and influence others via cues, as mentioned in studies by Christakis, Fowler, Cialdini, Gino, et al.
-
-- Chapter 9 discusses collaborative cheating, citing research that people are likelier to engage in dishonest behavior when working with others than individually. 
-
-- Chapter 10 argues that based on specific research, people may need to cheat more strategically, citing studies on daily cheating by business people and politicians.
-
- Here is a summary of the key points related to your prompt:
-
-- Cheating among politicians is compared to minor misbehaviors by banks. Bank employees may overstate billable hours or engage in other small dishonest acts. 
-
-- The "Broken Windows Theory" argues that tolerating minor crimes and infractions can create a culture where more enormous crimes are likely to occur. This theory is referenced in comparison of politician vs. bank cheating.
-
-- Conflicts of interest are discussed in several contexts, including dentists treating patients with the equipment they own, doctors consulting or investing in drug companies they prescribe, and financial services industry professionals favoring some clients. Disclosure and eradication of conflicts are addressed as solutions.
-
-- Collaborative cheating at the group or team level is analyzed, including how monitoring/watching influences cheating and how emphasizing the group over individuals may encourage cheating. Altruistic motives for some collaborative cheating are noted.
-
-- Cultural differences in cheating rates across countries like the U.S., China, Canada, and England are briefly summarized.
-
-- The financial crisis 2008 is cited as an example of recent widespread corporate dishonesty and an issue related to conflicts in the financial services industry.
-
- Here is a summary of the key points about cheating and infectious dishonesty from the provided section:
-
-- Cheating has an infectious nature that spreads like bacterial infections. It can spread slowly and subtly through social interactions.
-
-- Studies have shown cheating behaviors spreading through classroom settings and on tasks done collaboratively. Dishonesty also spreads through corporate culture and among politicians. 
-
-- Factors that can promote the spread of cheating include social norms, whether people feel like social outsiders and cost-benefit analyses of cheating. Cheating is also more likely to spread to other domains through small accretion acts.
-
-- However, moral contagion can also spread positive behaviors. Regaining ethical health involves recognizing how cheating spreads and maintaining vigilance to curb further spread. 
-
-- External factors like honor codes, increased monitoring/observation, and moral reminders can help constrain the infectious spread of cheating behaviors within a group or environment. However, their effectiveness may decline over repeated use.
-
-- Ultimately, acknowledging how cheating spreads and actively promoting ethical norms and behaviors can help curb its contagious effects within organizations, communities, and society.
-
- Here is a summary of the key points about money, storytelling, and related topics from the provided text:
-
-- Money: Jokes are made about stealing money from one's workplace. Studies also found people stealing small amounts of money from work or in experiments. 
-
-- Storytelling: People tend to create logical-sounding explanations and reinterpret information in a self-serving way through storytelling to justify dishonest behaviors. This can facilitate self-deception.
-
-- The Stroop task: A test where participants have an opportunity to cheat by looking at answers, showing how tempting situations can increase dishonesty. 
-
-- Steroids in sports: Athletes like Mark McGwire admitted to using steroids to enhance performance, showing issues with honest reporting.
-
-- Resetting mechanisms: Rituals and mechanisms people use psychologically to "reset" themselves after dishonest acts and restore their sense of honesty. Taking breaks from tempting situations can serve this role.
-
-- Workplace money: Sources of small sums of money stolen from the workplace by employees in certain studies and through jokes/anecdotes.
-
-That covers the main points in the excerpt related to money, storytelling, steroids, and mechanisms people use in relation to honesty. Let me know if you need any clarification or have additional questions.
-
- Here is a summary of the key points from the dom text:
-
-- The text contains research findings, anecdotes, and reflections from Dan Ariely on dishonesty, rationality, morality, and decision-making. 
-
-- It discusses experiments investigating how moral reminders, counterfeit products, rationalization, and other factors influence ethical behavior. 
-
-- Ariely recounts some personal anecdotes, like being audited by the IRS and suffering severe burns as a teenager. 
-
-- He speculates how incentives, conflicts of interest, and ideological justification could enable misbehavior in contexts like companies focused on shareholder value or ideological non-profits.
-
-- The reflective writing style explores psychological and behavioral explanations for dishonesty and strategies to promote more ethical decisions. It touches on insights from Ariely's previous books as well.
-
-
+ 
 [CLICK HERE](https://amzn.to/47pSeX7)
 

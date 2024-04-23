@@ -16,7 +16,7 @@ BOOK LINK:
 
 
 
- Here is a summary:
+ 
 
 - The speaker used to be a mid-tier lawyer at a big law firm in Singapore, earning a six-figure salary over 6 years. 
 - While the job looked prestigious on the outside, they felt tired, alone and unfulfilled doing work they didn't care about day after day. 
@@ -27,7 +27,7 @@ BOOK LINK:
 - Most importantly, they quit to actively pursue their dreams of living at the beach doing activities like surfing, painting and spending time with loved ones. 
 - Over time they discovered a passion for teaching physical activities and helping others find joy, which gave their life greater purpose and fulfillment.
 
- Here is a summary:
+ 
 
 The video discusses reasons for and against quitting one's job. It argues that working from passion rather than just for money leads to better work and that money will follow passion. Skillshare is mentioned as a resource to help discover one's purpose and passions through online classes. 
 

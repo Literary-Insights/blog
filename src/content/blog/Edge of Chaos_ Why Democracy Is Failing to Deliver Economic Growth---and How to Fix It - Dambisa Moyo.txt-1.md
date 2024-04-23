@@ -30,7 +30,7 @@ BOOK LINK:
 
 So in summary, it outlines the purpose of copyright to protect creative works, what would constitute infringement of this book's copyright, and provides contact information if permission is needed to use portions of the copyrighted material.
 
- Here is a summary:
+ 
 
 - The UK referendum to leave the EU and Trump's election in the US were signs that people want change and policies that improve lives with better education, healthcare and jobs. 
 
@@ -42,7 +42,7 @@ So in summary, it outlines the purpose of copyright to protect creative works, w
 
 - Stagnant growth, poverty and high unemployment have become normal. While some non-democratic nations achieved growth, corruption remains a problem. Reform can make liberal democracy deliver growth rather than abandon it for alternatives. Protectionism will not remedy global economic challenges and isolationism is not a solution in an interconnected world.
 
- Here is a summary:
+ 
 
 - Economic growth is critical for improving living standards, reducing poverty and inequality, and providing opportunities and stability. Stagnating or declining growth leads to worsening conditions. 
 
@@ -54,7 +54,7 @@ So in summary, it outlines the purpose of copyright to protect creative works, w
 
 - Promoting sustainable, inclusive economic growth that reaches more individuals is imperative to maintaining stability and progress globally in the 21st century. New approaches may be needed to repair flaws in current economic systems.
 
- Here is a summary:
+ 
 
 - Gary, Indiana has a high poverty rate of 38%, high crime, and poor education outcomes. Its lack of economic growth has negatively impacted individual quality of life. 
 
@@ -68,7 +68,7 @@ So in summary, it outlines the purpose of copyright to protect creative works, w
 
 - Growth is driven by capital investment, labor forces, and productivity factors like technology and regulations. Debt and demographics can limit growth. Growth statistics alone don't capture impacts on different groups in society.
 
- Here is a summary:
+ 
 
 - The Domesday Book from 1085 was one of the earliest attempts to measure a country's economic wealth, by calculating the total value of land in England. 
 
@@ -96,7 +96,7 @@ So in summary, it outlines the purpose of copyright to protect creative works, w
 
 - Histories of developing countries, advanced economies, and cases like Argentina and Japan show the complex combination of factors behind economic success or failure over time. Looking at shifts in shares of global GDP over centuries also reveals dramatic changes in economic powers.
 
- Here is a summary:
+ 
 
 - In the early 20th century, China accounted for about 5% of global GDP but then fell further to around 3.4% by 1978 as Western nations industrialized more rapidly. The US alone accounted for close to 30% of world GDP at this time. 
 
@@ -108,7 +108,7 @@ So in summary, it outlines the purpose of copyright to protect creative works, w
 
 - Political stability, wise long-term planning and credible institutions have been important for China and historical Japan's economic success, while Argentina suffers from short-term thinking and an inconsistent agenda.
 
- Here is a summary:
+ 
 
 - In the 1940s, Argentina failed to align with the rising US and instead chose declining Britain. Its elites also neglected industrialization and education in favor of cheap agricultural labor. This hampered innovation and competitiveness. 
 
@@ -122,7 +122,7 @@ So in summary, it outlines the purpose of copyright to protect creative works, w
 
 - Other factors like colonialism, war, and cultural norms also influence economic performance. War in particular can be hugely destructive.
 
- Here is a summary:
+ 
 
 - Recent slowdowns in advanced economies reveal there is no one-size-fits-all recipe for economic growth. Policymakers must be both vigilant and open-minded in designing tailored strategies. 
 
@@ -134,7 +134,7 @@ So in summary, it outlines the purpose of copyright to protect creative works, w
 
 - Understanding these fundamental challenges is crucial because past solutions like monetary/fiscal policy or protectionism are inadequate responses given the different nature of today's crisis compared to past recessions.
 
- Here is a summary:
+ 
 
 - The relationship between debt and economic growth is complex and nonlinear. While debt can help growth to a point, excess debt accumulation risks constraining long-term prosperity. 
 
@@ -146,7 +146,7 @@ So in summary, it outlines the purpose of copyright to protect creative works, w
 
 - Shortages of natural resources risk inflation, social instability, conflict and pose "a dire threat to global economic growth" if demand continues to outpace the limited and dwindling supply of important commodities.
 
- Here is a summary:
+ 
 
 - Rising global population will put pressure on limited natural resources, increasing commodity prices and potentially hindering long-term economic growth and living standards. 
 
@@ -158,7 +158,7 @@ So in summary, it outlines the purpose of copyright to protect creative works, w
 
 - Populations in developed countries are aging rapidly as lifespans increase, raising dependency ratios and costs for healthcare and pensions. This will reduce the workforce and burden economic growth over the coming decades globally. Addressing aging populations is a major challenge.
 
- Here is a summary:
+ 
 
 - The global population is aging rapidly. The share of people over 60 is projected to rise significantly in most world regions by 2050, including Europe, Asia, Latin America, and others. 
 
@@ -172,7 +172,7 @@ So in summary, it outlines the purpose of copyright to protect creative works, w
 
 - While technology enhances productivity and growth in some ways, the downside risks of widespread unemployment and inequality are bigger concerns for the future global economy.
 
- Here is a summary:
+ 
 
 - In 2014, companies in Silicon Valley employed 137,000 workers and had a combined market capitalization of $1.09 trillion, while Detroit's top 3 companies in 1990 employed 1.2 million workers with a $36 billion market cap. Silicon Valley is generating much more value with far fewer employees. 
 
@@ -186,7 +186,7 @@ So in summary, it outlines the purpose of copyright to protect creative works, w
 
 - Income inequality is rising worldwide and undermining economic growth as the wealth of the richest increases while incomes of the poor decline, according to OECD and other reports. Growing inequality has cost major economies up to 9% of GDP growth.
 
- Here is a summary:
+ 
 
 - Income inequality has worsened significantly in many countries in recent decades. In the US, the top 1% earns 14 times more than the average income, up from 10 times more in 1978. 
 
@@ -198,7 +198,7 @@ So in summary, it outlines the purpose of copyright to protect creative works, w
 
 - Productivity growth globally has declined in recent decades from an average of 2.6% before the financial crisis to 2.1% in 2014. Many developed nations have seen marked drops while gains came mostly from China, though even Chinese productivity is now slowing. Low and declining productivity is a hindrance to economic growth.
 
- Here is a summary:
+ 
 
 - Productivity growth in developed economies has stagnated or declined in recent decades, hampering overall economic growth. 
 
@@ -212,7 +212,7 @@ So in summary, it outlines the purpose of copyright to protect creative works, w
 
 - Slow productivity growth will significantly hamper overall economic expansion potential in the coming decades according to analyses, underscoring the importance of addressing this problem.
 
- Here is a summary:
+ 
 
 - Globalization and open international trade have historically been major drivers of economic growth since WWII. However, challenges to globalization, like Brexit and the election of Trump, reflect longstanding criticisms that it mostly benefits elites while leaving many behind. 
 
@@ -224,7 +224,7 @@ So in summary, it outlines the purpose of copyright to protect creative works, w
 
 - The failures of globalization to deliver prosperity for all have fueled the political challenges we now see, but a retreat into protectionism is also unlikely to solve economic problems and may make things worse overall.
 
- Here is a summary:
+ 
 
 - In the 1990s, Mexico was able to increase its borrowing in US dollars due to access to capital investment. However, political instability led to a devaluation of the Mexican peso in 1994, causing capital flight and high inflation. This event, known as the "Tequila Crisis," served as an early warning of risks from globalization and free trade. 
 
@@ -236,7 +236,7 @@ So in summary, it outlines the purpose of copyright to protect creative works, w
 
 - While concerns about globalization's effects are valid, the problems stem more from its "incompleteness" - large groups have been left behind as it has benefited some more than others. Alternative policies risk lower growth rather than addressing globalization's shortcomings.
 
- Here is a summary:
+ 
 
 - Global trade growth has declined significantly since the late 2000s financial crisis, driven partly by rising protectionism among countries. The WTO lowered its forecast for 2013 trade growth and global trade volumes declined in 2015. 
 
@@ -250,7 +250,7 @@ So in summary, it outlines the purpose of copyright to protect creative works, w
 
 - Capital flows are also declining due to tighter monetary policies, weak emerging market growth, and new controls. Policy protectionism on both trade and capital undermine long-term global growth prospects.
 
- Here is a summary:
+ 
 
 The chapter discusses how capital flows, globalization and migration policies have contributed to slowing global economic growth. Protectionist measures on capital flows imposed after the 2008 crisis inadvertently reduced investment and growth. Countries have also imposed additional capital controls in response to other nations' policies, further restricting cross-border investment. 
 
@@ -276,7 +276,7 @@ Macmillan asked whether the newly independent and "uncommitted" nations of Asia 
 
 In other words, Macmillan posed the central geopolitical issue of the time as whether the emerging nations would choose communism or the free market democracy exemplified by countries like Britain and its former colonies. Free market capitalism and liberal democracy were seen as the key choice and path toward prosperity.
 
- Here is a summary:
+ 
 
 - China has experienced tremendous economic growth and development over the last several decades, improving living standards. This has led many in emerging economies to doubt the importance of prioritizing democracy in seeking growth. 
 
@@ -288,7 +288,7 @@ In other words, Macmillan posed the central geopolitical issue of the time as wh
 
 - Even developed states have expanded economic interventionism to boost growth, showing more ambiguous views on limiting state involvement in markets. Overall, priorities seem to have shifted toward deliverable improvements over political ideals alone.
 
- Here is a summary:
+ 
 
 - Government spending accounts for a large and growing share of the global economy. Together, the US and Europe account for 90% of global welfare/social spending. Government budgets have expanded beyond core roles like defense, infrastructure, and crisis response. 
 
@@ -312,7 +312,7 @@ In other words, Macmillan posed the central geopolitical issue of the time as wh
 
 - Correcting this short-term bias in both business and politics would do much to address challenges to long-term economic growth, according to the author. Overcoming political myopia is seen as vital.
 
- Here is a summary:
+ 
 
 - The chapter argues that political and business leaders prioritize short-term gains over long-term economic prosperity due to electoral pressures in democratic systems. 
 
@@ -326,11 +326,11 @@ In other words, Macmillan posed the central geopolitical issue of the time as wh
 
 - Overall, the chapter argues political short-termism exacerbates economic headwinds and prevents addressing issues critical for long-term growth like demographics, technology, productivity and debt. Reform is needed to reduce this bias toward short-term thinking.
 
- Here is a summary:
+ 
 
 The decision has been deferred because there are various stakeholders and interest groups who vote in elections. Short-termism has spread beyond government to business and finance, where CEO tenures are getting shorter and companies are being held for less time by investors. Shareholders and managers are increasingly focused on short-term results like quarterly earnings, rather than long-term growth. As a result, companies are spending less on R&D and infrastructure and more on stock buybacks and dividends. Pension funds and other large investors are also shifting toward shorter-term investments. This misallocation of capital away from equity markets and toward safer bonds is reducing funding for small businesses and innovation, which hurts productivity and economic growth. An aging population also favors stable income over riskier equity investments. So short-term thinking in both the public and private sectors is limiting support for long-term initiatives like infrastructure that enable growth.
 
- Here is a summary:
+ 
 
 - Infrastructure in the US is woefully inadequate, receiving a grade of D+ from the ASCE. Over $1 trillion is needed in upgrades over the next 25 years. 
 
@@ -344,7 +344,7 @@ The decision has been deferred because there are various stakeholders and intere
 
 - Missing opportunities to invest gains from globalization into infrastructure and jobs frustrated many and fueled populism, as noted by Alibaba founder Jack Ma. The US chose wars over infrastructure investment.
 
- Here is a summary:
+ 
 
 - The author argues that the US federal government should create a bipartisan infrastructure commission to develop long-term infrastructure plans and bypass current political gridlock. This commission would function similarly to past commissions on fiscal issues.
 
@@ -354,7 +354,7 @@ The decision has been deferred because there are various stakeholders and intere
 
 - Reforms are needed to democratic systems and processes to address weaknesses like myopic decision-making, influence of money in politics widening inequality, and entrenched political duopolies that stalemate progress. Overall the author argues democracy in its current form is inadequate for tackling major long-term challenges.
 
- Here is a summary:
+ 
 
 The passage argues that while political reforms can enable certain non-democratic systems to generate economic growth in the short-term, the long-term solution is to reform democracy itself so it is better equipped to address long-term economic challenges. 
 
@@ -366,7 +366,7 @@ Preserving democracy's strengths like freedom and markets while reforming weakne
 
 Overall, the passage argues political reforms within democracies, not abandoning democracy, is the solution to fostering long-term economic growth and prosperity. The political system needs reforming before the economic system.
 
- Here is a summary:
+ 
 
 The passage argues that democratic decision-making today prioritizes short-term political goals over long-term economic growth. It proposes several radical reforms aimed at addressing this issue. 
 
@@ -376,7 +376,7 @@ Other proposals target voters, such as mandating voter participation and institu
 
 The proposals may be seen as restricting liberty, but the author argues this is necessary to counteract the short-sighted behavior of politicians and voters that is hindering economic prospects. The recommendations are focused on mature democracies and aim to demonstrate that democracy can adapt while still promoting economic success and progress. Overall the passage makes the case for reforms to combat political myopia and encourage long-term decision making.
 
- Here is a summary:
+ 
 
 International agreements bind national governments in areas like trade, economics and security. This requires governments to balance international obligations with domestic policies. It makes governments accountable to international bodies in addition to domestic voters. 
 
@@ -404,7 +404,7 @@ Reforming campaign finance is also important to reduce the disproportionate infl
 
 - Identifying the charges of ions in compounds allows us to determine chemical formulas and write balanced chemical equations. Understanding ions is thus fundamental to chemistry.
 
- Here is a summary:
+ 
 
 - Mexico has achieved notable economic success relative to other Latin American countries, despite not being viewed as highly successful from a US perspective. Its income inequality and credit rating are comparable to developed nations. 
 
@@ -416,7 +416,7 @@ Reforming campaign finance is also important to reduce the disproportionate infl
 
 - Increasing competitive elections and reducing "safe seats" could also help by incentivizing politicians to effectively represent voters and provide public goods, not just appeal to immediate demands, in order to stay in office. This maintains accountability even with longer terms.
 
- Here is a summary:
+ 
 
 Uncompetitive elections, where outcomes are predetermined, can lead to complacent policymakers who have little incentive to deliver long-term positive policies. This is a particular problem in the US due to gerrymandering, where district boundaries are often drawn to favor incumbents over competition. More competitive elections that are not predetermined would hold politicians more accountable and incentivize higher-quality policymaking. 
 
@@ -426,7 +426,7 @@ However, the link between gerrymandering and economic outcomes is difficult to p
 
  The passage indicates that weighting votes based on voters' qualifications, such as through a civics test, could be beneficial by incentivizing better long-term policymaking and economic decision-making. However, it is also noted that weighted voting systems have historically been used for prejudicial reasons. Overall, the argument presented is that while controversial, weighting votes based on meritocratic criteria like knowledge or education could improve voter quality and counter short-term thinking, but would require careful implementation to avoid discrimination.
 
- Here is a summary:
+ 
 
 - The current democratic system tends to promote short-term thinking and policies over long-term solutions, leading to issues like economic stagnation. 
 
@@ -442,7 +442,7 @@ However, the link between gerrymandering and economic outcomes is difficult to p
 
 - While changes will be difficult, implementing the proposed reforms could allow countries to make the policy choices needed to avoid worse economic outcomes in the future. The ultimate goal is a system that produces well-informed leaders driving long-term prosperity.
 
- Here is a summary:
+ 
 
 - Over the past 50 years, freedom and prosperity have increased globally. The percentage of truly free countries rose from 29% to 45% and over a billion people have been lifted out of extreme poverty. Violence has generally decreased as well. 
 
@@ -454,7 +454,7 @@ However, the link between gerrymandering and economic outcomes is difficult to p
 
 - Reforming democracy to reduce short-termism and partisanship could break this cycle by allowing longer-term, more effective policy focused on sustained economic growth, which would in turn strengthen democracy. However, future progress is not guaranteed given the major geopolitical and economic risks the world still faces.
 
- Here is a summary:
+ 
 
 The economic policies under a reformed democratic system would prioritize long-term challenges over short-term gains to win votes. Politicians would invest more in infrastructure, education, and other areas that strengthen future economic growth. 
 
@@ -466,7 +466,7 @@ The proposed reforms aim to reduce myopia and improve policy quality. Restrictin
 
 Advocates for reform may come from outside the existing political system, such as retired politicians, think tanks, wealthy individuals, and corporations who want stability for future investment. Wide-scale changes would face opposition from those invested in the current system, but improving democracy benefits all in the long run.
 
- Here is a summary:
+ 
 
 - The passage discusses reforms that need to be implemented in democracies to address issues like short-term thinking ("myopia") and ensure economic and political stability. Some democracies have aspects of the proposed reforms but more is needed. 
 

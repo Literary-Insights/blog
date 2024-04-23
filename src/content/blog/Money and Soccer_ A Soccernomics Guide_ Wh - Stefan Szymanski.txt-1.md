@@ -125,7 +125,7 @@ In summary, Real Madrid's global pre-eminence contrasts with HB's localized domi
 
 - The uncertainty in player performance from game to game makes managing a team complex. It is similar to fantasy soccer, where one assembles a squad under a budget constraint despite unpredictable individual performance. If players could be freely traded each week like in fantasy, their values would fluctuate rapidly.
 
- Here is a summary:
+ 
 
 The amounts teams spend on players correlates with their success, but expensive players often have poor games. This leads some to think player valuations are unreliable for predicting team performance. However, bookmakers' odds are the best indicator we have of game outcomes. Bookies balance their books to profit regardless of results. Research shows it's hard to consistently beat bookies' odds. 
 
@@ -201,7 +201,7 @@ Overall:
 
 - City size and team success do not correlate perfectly due to historical soccer cultures and numbers of teams per city. But being in a large city with limited local competition makes success more likely.
 
- Here is a summary:
+ 
 
 The historic pattern that successful soccer clubs come from larger cities still holds true today, despite changes brought by TV revenue and sponsorship money. Building a new stadium is extremely expensive, costing around $2,400 per seat. For a 20,000 seat stadium, construction costs would be $48 million. To finance this through debt over 40 years would require annual repayments of around $2.8 million. For a typical second division club with $32 million in revenue, this would consume 10% of revenue - a significant burden. 
 
@@ -315,7 +315,7 @@ So while the argument about land ownership may be debatable, the data clearly sh
 
 - Despite fears it would deter live attendance, television exposure has boosted match attendance. Broadcasting has transformed clubs into major commercial enterprises.
 
- Here is a summary:
+ 
 
 Television broadcasting drove subscriptions and popularity of soccer. Broadcasters invested in better production and heavily advertised soccer. Bars liked soccer as it sold more beer. Coca-Cola set out to be ubiquitous like soccer is today. TV promotion increased live attendance rather than substituting for it. 
 
@@ -429,7 +429,7 @@ Inequality, measured by revenue ratios and Gini coefficients, greatly increased 
 
 - The example shows the risks of overly ambitious business plans, unrealistic player valuations, and excessive debt. Forced selling of players brings low fees, revenues fall, and a vicious cycle develops.
 
- Here is a summary:
+ 
 
 Soccer clubs are closely tied to the identity of cities and regions. Teams like Barcelona represent the Catalan people and their aspirations for independence from Spain. Athletic Bilbao only recruits Basque players, reflecting the strong Basque identity. Clubs can represent broader identities too - Bayern Munich is tied to Bavarian identity. 
 
@@ -653,7 +653,7 @@ So in summary, insolvency appears to frequently result from short-term bad luck 
 
 - U.S. major league franchises are typically worth much more than European clubs, though the most valuable are Real Madrid, Barcelona and Manchester United.
 
- Here is a summary:
+ 
 
 - Forbes values the 92 American major league teams (MLB, NBA, NFL) at $81 billion collectively, while valuing the top European soccer clubs at only $32 billion. 
 

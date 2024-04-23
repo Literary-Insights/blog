@@ -32,7 +32,7 @@ BOOK LINK:
 
 - Economists take a scientific approach, seeking to explain the economy through identification of causal relationships and laws, like mechanics of a rocket. The goal is understanding, not making value judgments.
 
- Here is a summary:
+ 
 
 - Economists look at two branches of economics - positive economics and normative economics. Positive economics objectively describes economic situations and looks for economic laws without judgement of good or bad. Normative economics makes judgements about whether economic situations are good or bad. 
 
@@ -56,7 +56,7 @@ BOOK LINK:
 
 - Overall, early Christian thinkers adapted Greek and Roman ideas to develop a theology and framework for how Christians should view work, wealth, poverty and participation in the economy given human imperfections and the need to earn a living.
 
- Here is a summary:
+ 
 
 Thomas Aquinas came from an aristocratic family who tried to discourage him from becoming a monk by putting him in one of their castles with a prostitute, but he refused temptation and continued his religious studies. Eventually his parents released him and he moved to Paris to further his intellectual and religious pursuits. 
 
@@ -66,7 +66,7 @@ Aquinas opposed the medieval practice of usury (lending money with interest), wh
 
 Aquinas wrote as commerce and towns were reviving in Europe after a decline. New merchant classes emerged who stimulated trade but challenged traditional religious teachings. Aquinas acknowledged some new economic realities while trying to integrate them with Christian doctrine. His views had a moderating influence on church thinking regarding money, profit and commerce.
 
- Here is a summary:
+ 
 
 - The story of King Midas teaches that wealth should not be defined by gold alone, as he could not eat the golden food he touched and nearly starved. 
 
@@ -82,7 +82,7 @@ Aquinas wrote as commerce and towns were reviving in Europe after a decline. New
 
 - While their preoccupation with gold seemed misguided later on, the mercantilists helped establish commerce as central to national power in their era when gold was the primary medium of exchange.
 
- Here is a summary:
+ 
 
 - Quesnay believed France's economy was weak and unproductive compared to Britain's, mainly due to high taxes imposed on French farmers that drained wealth away to support the royal court and aristocrats. 
 
@@ -96,7 +96,7 @@ Aquinas wrote as commerce and towns were reviving in Europe after a decline. New
 
 - Quesnay both criticized the current system but remained loyal to the monarchy and aristocracy, believing in their rule despite urging economic policy changes. So he thought reform possible within the existing regime.
 
- Here is a summary:
+ 
 
 Adam Smith argued that powerful people in their societies do not need to directly manage or organize economic activity for a society to prosper. Instead, he put forth the idea of the "invisible hand," wherein individuals pursuing their own self-interest through voluntary exchange can unintentionally benefit society as a whole. 
 
@@ -104,7 +104,7 @@ Specifically, Smith believed that when people are free to buy and sell goods and
 
 According to Smith, this process is guided by an invisible force rather than any central planner or manager. Individual self-interest and exchange lead to overall economic cooperation and harmony without intention or design. It is a more efficient system than if powerful people directly organized or micromanaged the economy. This became a foundational idea in modern economics.
 
- Here is a summary:
+ 
 
 - Adam Smith saw the point of the economy as providing goods for consumption, whereas mercantilists cared more about producing goods to sell abroad for gold. 
 
@@ -118,7 +118,7 @@ According to Smith, this process is guided by an invisible force rather than any
 
 - Ricardo's strict economic logic was novel but initially difficult for some to accept. His arguments eventually helped convince Britain to repeal the Corn Laws in the mid-19th century, shifting economic power away from landlords.
 
- Here is a summary:
+ 
 
 - In the 19th century, the Industrial Revolution created wealth for some but deep poverty for many who lived in grim city conditions. Reformers questioned the idea that the poor were to blame for their poverty. 
 
@@ -128,7 +128,7 @@ According to Smith, this process is guided by an invisible force rather than any
 
 - Both Fourier and Owen imagined utopian societies to replace the problems of industrial capitalism and save humanity. While their specific proposals were impractical, they raised important questions about work, society and the treatment of the poor.
 
- Here is a summary:
+ 
 
 - Thomas Malthus was an early 19th century clergyman and economist who put forth the theory of population growth known as Malthusianism. 
 
@@ -144,7 +144,7 @@ According to Smith, this process is guided by an invisible force rather than any
 
 - His doctrine of population as a check on human progress influenced later thinkers and depicted the view of Scrooge in Dickens' A Christmas Carol regarding the "surplus population."
 
- Here is a summary:
+ 
 
 - Karl Marx and Friedrich Engels wrote The Communist Manifesto in 1848, predicting the coming revolution of the working class against capitalism. 
 
@@ -156,7 +156,7 @@ According to Smith, this process is guided by an invisible force rather than any
 
 - Marx believed that history involved class struggles between the rich and poor, bosses and workers. He hoped to see the proletariat overthrow the bourgeoisie capitalists, but the death of capitalism was proving a long, drawn-out process rather than the swift revolution Marx initially predicted.
 
- Here is a summary:
+ 
 
 - Karl Marx struggled for over 20 years to complete his major work Capital, all while facing financial difficulties, illness, and family hardship. He would take refuge at the British Museum to research and write. 
 
@@ -170,7 +170,7 @@ According to Smith, this process is guided by an invisible force rather than any
 
 - Marx's ideas influenced the development of communist political movements and regimes in places like Russia, China, and Eastern Europe in the 20th century. However, those regimes differed in key ways from Marx's vision of communism.
 
- Here is a summary:
+ 
 
 - William Jevons was an early economist who developed the idea of marginal utility - the principle that the satisfaction or utility one gets from consuming an additional unit of a good diminishes as consumption increases. This became a foundational concept in economic theory.
 
@@ -192,7 +192,7 @@ According to Smith, this process is guided by an invisible force rather than any
 
 In summary, classical economics saw free markets as driving growth, while neoclassical economics modeled individual rational decision-making within those markets as the primary mechanism, rather than factors like labor. It shifted the field's focus, though remained a simplification questioned by some.
 
- Here is a summary:
+ 
 
 - Lenin argued that capitalism and the trends of economic interconnection between nations, monopoly capitalism, and imperialism were intrinsically linked and led to conflicts between nations and eventually war. 
 
@@ -202,7 +202,7 @@ In summary, classical economics saw free markets as driving growth, while neocla
 
 - Lenin saw WWI as confirmation of his Marxist theory that capitalism inevitably leads to conflicts between nations due to its imperialist tendencies once monopolies emerge and savings outpace domestic investment opportunities. The socialists supporting their own countries in war betrayed their anti-war internationalist principles.
 
- Here is a summary:
+ 
 
 - Economist Arthur Pigou pioneered the field of welfare economics, which examines the overall benefit to society from economic decisions by individuals, firms, etc. 
 
@@ -214,7 +214,7 @@ In summary, classical economics saw free markets as driving growth, while neocla
 
 - Pigou said economics should judge economic situations based on overall welfare to society, not just private costs/benefits. Market failures occur when private and social costs/benefits are not properly aligned, leading to inefficient outcomes. This insight laid the groundwork for welfare economics.
 
- Here is a summary:
+ 
 
 - Joan Robinson developed a new theory in the 1930s to explain firm behavior in markets with many differentiated goods (like different brands of soda). Her theory, presented in her book The Economics of Imperfect Competition, challenged Alfred Marshall's prior conception. 
 
@@ -226,7 +226,7 @@ In summary, classical economics saw free markets as driving growth, while neocla
 
 - Their work was important in updating economic theory to account for the variety of new products that firms were producing to meet consumer demands, as economies advanced in the early 20th century.
 
- Here is a summary:
+ 
 
 - Early economic theories focused on extremes of perfect competition and monopoly. Perfect competition assumes many small firms and identical products, while monopoly assumes a single dominating firm. 
 
@@ -240,7 +240,7 @@ In summary, classical economics saw free markets as driving growth, while neocla
 
 So in summary, Robinson and Chamberlin developed the important concept of monopolistic competition to describe real-world markets that exhibited elements of both competition and differentiation between brands. This occupied an important middle ground between the extreme models of economics up to that point.
 
- Here is a summary:
+ 
 
 The story describes a situation in the early 1930s Soviet Union where a factory director was instructed by government officials to paint mining machines green rather than the color he intended. Failure to comply could result in imprisonment. 
 
@@ -248,7 +248,7 @@ The Soviet Union was attempting the large-scale experiment of establishing a com
 
 Central planning aimed to rationally allocate all resources for maximum benefit, but often failed to meet targets. Shortages and starvation resulted. Mises argued central planning was inherently irrational without market prices to properly value resources and gauge demand. Supporters disagreed, believing planning could be rational through price modeling, but the system struggled with complexity. Overall it describes the tensions between central planning and market forces in the Soviet command economy during early industrialization efforts.
 
- Here is a summary:
+ 
 
 - Economist Thorstein Veblen criticized mainstream economic theories of his time for not considering how culture and history shape people's desires and behaviors. 
 
@@ -262,7 +262,7 @@ Central planning aimed to rationally allocate all resources for maximum benefit,
 
 - Veblen's unconventional critical views challenged mainstream ideas of rational economic behavior and highlighted the social and cultural influences underlying consumer choices and class divisions.
 
- Here is a summary:
+ 
 
 - In the late 1920s, the US economy was booming, but it began to slow down in a recession by the end of the decade. 
 
@@ -278,7 +278,7 @@ Central planning aimed to rationally allocate all resources for maximum benefit,
 
 - Keynes' novel theories challenged prevailing orthodoxy and helped shape modern macroeconomics focused on managing aggregate demand and growth. His ideas influenced policy responses to later economic downturns.
 
- Here is a summary:
+ 
 
 - Joseph Schumpeter saw entrepreneurs as the driving force of economic progress and "creative destruction" through their innovation. 
 
@@ -294,7 +294,7 @@ Central planning aimed to rationally allocate all resources for maximum benefit,
 
 So in summary, Schumpeter saw entrepreneurs as the agents of innovation that drive long-term economic progress but also short-term instability through the process of creative destruction. Bank funding is key to fueling their innovative activities.
 
- Here is a summary:
+ 
 
 - Joseph Schumpeter argued that capitalist economies undergo cyclical booms and busts driven by waves of innovation from entrepreneurs. New technologies disrupt existing industries and companies, a process he called "creative destruction."
 
@@ -320,7 +320,7 @@ So in summary, Schumpeter saw entrepreneurs as the agents of innovation that dri
 
 - This provided a way to analyze many types of strategic interactions and helped establish game theory as a new field, building on von Neumann's earlier pioneering work. Nash's work marked an important development in the early evolution of game theory.
 
- Here is a summary:
+ 
 
 During World War 2, two famous economists, John Maynard Keynes and Friedrich Hayek, were neighbors living in Cambridge after their school was evacuated from London. They had very different views on the role of government in the economy. 
 
@@ -332,7 +332,7 @@ Hayek disagreed with this "mixed economy" model and expanding the government's r
 
 Hayek's ideas polarized opinion but helped shape debates about balancing government and private interests in mixed market economies after the war. His defense of individual economic freedom countered the growing popularity of greater state intervention.
 
- Here is a summary:
+ 
 
 - Economist Friedrich Hayek argued for free markets more than most, but said some government spending is needed for basic living standards and public goods markets can't provide. He thought this wouldn't threaten freedom if done sparingly. 
 
@@ -346,7 +346,7 @@ Hayek's ideas polarized opinion but helped shape debates about balancing governm
 
 So in summary, the passage discusses Hayek's views on the role of government in the economy, criticisms from Ayn Rand, disagreement from modern economists, and the debate around defining freedom.
 
- Here is a summary:
+ 
 
 - Economist Gary Becker broke down the divide between economic and social aspects of life. He argued that people apply economic calculations even in their personal/family lives, not just business. 
 
@@ -374,7 +374,7 @@ So in summary, Becker applied economics more broadly to analyze social and perso
 
 - However, Becker demonstrated economics can be a powerful analytical tool for studying diverse human behaviors beyond traditional markets and industries. His work expanded the realm of economic inquiry.
 
- Here is a summary:
+ 
 
 - Solow's theory of economic growth argues that long-term economic growth comes from technological progress, not from simply accumulating more capital like factories and machines. Technology increases productivity by allowing more to be produced with the same amount of labor and capital. 
 
@@ -386,7 +386,7 @@ So in summary, Becker applied economics more broadly to analyze social and perso
 
 - While growth theory predicted poorer countries would eventually catch up, in reality many have not due to barriers to technology adoption and a lack of endogenous technological progress within their own economies. This has contributed to persistent income inequality around the world.
 
- Here is a summary:
+ 
 
 - The theory of demand and supply, or partial equilibrium, assumes that movements in one market are independent of others. However, in reality, changes in one market create ripples that affect many interconnected markets. 
 
@@ -398,7 +398,7 @@ So in summary, Becker applied economics more broadly to analyze social and perso
 
 - However, the assumptions required, like perfect competition, are unrealistic. Markets are actually imperfect and resource allocation by markets may not be efficient. The theory shows the importance of considering interconnections between markets rather than in isolation.
 
- Here is a summary:
+ 
 
 - Andre Gunder Frank developed "dependency theory" to explain how rich countries exploit poor ones through trade and investments. He argued that profits from poor countries' exports like bananas and coffee do not go towards development, but enrich foreign companies. 
 
@@ -410,7 +410,7 @@ So in summary, Becker applied economics more broadly to analyze social and perso
 
 - Dependency theory fell out of favor but critics note rich countries have enforced unequal trade terms and intervened politically in poorer nations, especially during the Cold War to counter Soviet influence.
 
- Here is a summary:
+ 
 
 - Other countries like Grenada and the Dominican Republic saw political instability in the late 1970s/early 1980s, with the U.S. intervening in some cases militarily to reduce communist influence. 
 
@@ -434,7 +434,7 @@ So in summary, Becker applied economics more broadly to analyze social and perso
 
 So in summary, Buchanan challenged Keynesian assumptions by arguing politicians are self-interested like everyone else, not unbiased implementers of good policies as economists had theorized. This gave a new skeptical perspective on government growth.
 
- Here is a summary:
+ 
 
 - Politicians seek to hold on to power by creating "rents" - revenues above what could be earned in a competitive market. They do this by granting special privileges to groups in exchange for political support. 
 
@@ -468,7 +468,7 @@ In summary, it discusses how the incentives of politics and government can lead 
 
 - Thatcher and Reagan aimed to control inflation by controlling money supply, though it took time and the recession was worse, but Friedman's ideas of limited government interference remained influential.
 
- Here is a summary:
+ 
 
 - The idea of rational expectations was proposed by American economist John Muth in a 1961 paper. It argued that people make predictions based on all available information, rather than just past data. 
 
@@ -494,7 +494,7 @@ In summary, it discusses how the incentives of politics and government can lead 
 
 In summary, the passage outlines how currency speculation works and the role of speculators in triggering crises for countries with pegged exchange rates according to economic theories. It also discusses debates around the impact of speculation.
 
- Here is a summary:
+ 
 
 - The economic crisis in Thailand spread to other Southeast Asian countries like Malaysia, South Korea, and Indonesia. This process is known as economic "contagion", similar to how diseases spread between people. 
 
@@ -520,7 +520,7 @@ So in summary, the Thailand crisis spread to nearby economies through the action
 
 So in summary, Sen questioned the conventional view that famines are solely caused by lack of food availability. He argued income/purchasing power issues and disruptions to people's entitlements are also major contributing factors.
 
- Here is a summary:
+ 
 
 - Economists Finn Kydland and Edward Prescott studied the problem of time inconsistency - when what is best to do now differs from what was intended in the future due to changes in incentives over time. 
 
@@ -532,7 +532,7 @@ So in summary, Sen questioned the conventional view that famines are solely caus
 
 - They helped develop the rational expectations theory which assumes people make predictions about future economic conditions and policies based on all available information, including expectations of how incentives may change over time. This leads to the problem of time inconsistency.
 
- Here is a summary:
+ 
 
 Teachers and governments face a tricky game in trying to manage people's expectations and behaviors over time. While games against nature are relatively straightforward, games against crafty humans present additional challenges due to rational expectations and time inconsistency problems. 
 
@@ -542,7 +542,7 @@ Still, governments are tempted to try stimulus near elections to gain popularity
 
 Kydland and Prescott showed discretion exacerbates this, recommending predetermined policy rules. But governments lack enforcement power and will break own rules. Central bank independence was proposed as a solution, removing monetary policy from political manipulation. Many countries adopted this in the 1990s, and it was believed to contribute to lower inflation and steadier growth. However, the causes and durability of this moderation remain debated.
 
- Here is a summary:
+ 
 
 - Traditional economics tends to view the world through a male perspective and leaves out the experiences of women. Women are disadvantaged in how economic resources are distributed. 
 
@@ -556,7 +556,7 @@ Kydland and Prescott showed discretion exacerbates this, recommending predetermi
 
 - Feminist economists critique explanations for gender pay gaps that assume differences stem purely from individual choices rather than societal influences. They argue economics needs to consider broader social and emotional factors.
 
- Here is a summary:
+ 
 
 The psychologist Daniel Kahneman studied how mental biases influence perception and decision-making. One bias is that people perceive gains and losses differently - they dislike losses more than they like equivalent gains. This "loss aversion" can affect economic choices. 
 
@@ -568,7 +568,7 @@ Additionally, people are poor at assessing probabilities. They incorrectly thoug
 
 Behavioral economics explores how these mental biases, rather than strict rationality, govern many economic decisions. It provides insights into phenomena like runaway asset price bubbles where mass psychology, rather than fundamentals, drives market movements.
 
- Here is a summary:
+ 
 
 - Investors poured a lot of money into technology companies during the 1990s dot-com bubble based on excitement about new technologies, but without properly assessing the true value and viability of these companies. 
 
@@ -578,7 +578,7 @@ Behavioral economics explores how these mental biases, rather than strict ration
 
 - The 2000s tech bubble collapse had widespread economic impacts, with $2 trillion in wealth disappearing as stock prices crashed and many new companies going out of business. However, new bubbles formed, such as the housing bubble that eventually caused major financial crisis when it burst.
 
- Here is a summary:
+ 
 
 - Economist Hyman Minsky believed capitalism is inherently unstable and prone to financial crises, contrary to mainstream thinking at the time. 
 
@@ -592,7 +592,7 @@ Behavioral economics explores how these mental biases, rather than strict ration
 
 So in summary, Minsky argued capitalism is inherently unstable due to this progression in risk-taking within financial systems, ultimately leading to crisis - an unorthodox view that was prescient regarding the 2008 global collapse.
 
- Here is a summary:
+ 
 
 - Minsky argued that financial innovations like securitization helped cause excessive speculation and "Ponzi finance" leading up to the financial crisis. 
 
@@ -606,7 +606,7 @@ So in summary, Minsky argued capitalism is inherently unstable due to this progr
 
 - Overall, Minsky argued that decades of increasingly reckless finance-based capitalism, fueled by deregulation, helped sow the seeds for the crisis and long recession. It took a long time for the system to evolve from its more cautious origins.
 
- Here is a summary:
+ 
 
 - Thomas Piketty argues that wealth inequality is driven more by the rate of return on capital exceeding the overall economic growth rate (r > g), rather than just differences in productivity or skills. 
 
@@ -620,7 +620,7 @@ So in summary, Minsky argued capitalism is inherently unstable due to this progr
 
 - Economists disagree on the proper balance between equality and efficiency. Moderate redistribution may not necessarily reduce efficiency or incentives to work. Inequality is a policy issue as much as an economic one.
 
- Here is a summary:
+ 
 
 The passage discusses both the successes and failures of economics. It notes that economics has helped solve specific problems like matching kidney donors and auctioning mobile phone licenses. However, economists failed to predict the recent financial crisis, and their push for free markets in places like Africa in the 1980s and Russia in the 1990s had disastrous results. 
 

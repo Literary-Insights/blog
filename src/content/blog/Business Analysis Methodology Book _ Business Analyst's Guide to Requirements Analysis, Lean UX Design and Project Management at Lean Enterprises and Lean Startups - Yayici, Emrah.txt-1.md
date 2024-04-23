@@ -52,7 +52,7 @@ BOOK LINK:
 
 So in summary, the issue highlighted is that technical teams do not have sufficient capacity to deliver new products quickly because they are overwhelmed with maintaining and enhancing existing products. This can negatively impact the business.
 
- Here is a summary:
+ 
 
 The passage discusses the lean approach to product development and the best methodology to use - waterfall or agile. It states that while agile is commonly associated with lean due to its emphasis on working software, customer collaboration and response to change, waterfall can still be effective if modified to be more iterative. 
 
@@ -68,7 +68,7 @@ The key points made are:
 
 So in summary, while agile is commonly linked to lean, either methodology can work if tailored to the project, with an emphasis on delivering working product frequently for customer feedback.
 
- Here is a summary:
+ 
 
 The passage discusses applying different project methodologies, namely Waterfall, Agile and hybrid approaches, to different phases of a mobile application development project for CEC (a company). 
 
@@ -94,7 +94,7 @@ The passage also discusses best practices for requirements gathering, like align
 
 - Documentation aims to reduce wasted work by focusing on what customers will actually use through a customer-centric and iterative approach.
 
- Here is a summary:
+ 
 
 - Agile methodologies like Scrum focus on working products over comprehensive documentation. User stories are used instead of detailed use cases. 
 
@@ -142,7 +142,7 @@ The passage also discusses best practices for requirements gathering, like align
 
 In summary, lean testing follows risk-based, pragmatic principles to reduce waste from excessive or late-stage testing, focusing on high-value testing that improves quality within time and resource limits.
 
- Here is a summary:
+ 
 
 - Product testing should begin early through reviews of requirement documents and user testing of prototypes to find functionality and usability defects. 
 

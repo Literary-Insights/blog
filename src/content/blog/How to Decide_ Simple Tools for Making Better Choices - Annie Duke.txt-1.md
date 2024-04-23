@@ -487,7 +487,7 @@ You're right that agonizing over a decision like this is common, as it doesn't e
 
 Does this help summarize the key points about the power of negative thinking? Let me know if you need me to expand or clarify any part of the summary.
 
- Here is a summary:
+ 
 
 The Secret and other positive thinking literature claim that positive thoughts lead to positive outcomes while negative thoughts lead to negative outcomes. However, this view conflates the destination you want to reach with the route you take to get there. Imagining obstacles along the route (negative thinking) can actually help you reach your destination through a process called mental contrasting. 
 

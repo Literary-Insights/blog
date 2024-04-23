@@ -26,11 +26,11 @@ The book includes over 200 affirmations covering topics like self-esteem, confid
 
 The author's goal is to positively inspire readers through daily optimism. Using affirmations each day can help navigate life's challenges by mastering positive self-talk. Reading selected affirmations tailored to one's situation can provide a valuable but straightforward daily dose of empowerment.
 
- Here is a summary:
+ 
 
 The reflections focus on developing positive self-identity, courage, confidence and emotional strength. Specific themes addressed include overcoming fears, insecurities, weakness and being driven by negativity. Other topics covered are feeling youthful, mental and emotional well-being, making healthy choices, maintaining good relationships, letting go of regret and bitterness, responding to difficulties with forgiveness, calmness and understanding. Overall the reflections emphasize cultivating inner peace, strength, optimism and living fully without being held back by past hurts or circumstances.
 
- Here is a summary:
+ 
 
 I express positive affirmations about myself, including that I am empowered, confident, secure, unique, living my best life, and more than good enough. 
 

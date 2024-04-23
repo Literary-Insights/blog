@@ -30,7 +30,7 @@ BOOK LINK:
 
 - The vision is to democratize the digital revolution to create opportunities where people live instead of uprooting them, steering tech forces through democratic values for an inclusive society.
 
- Here is a summary:
+ 
 
 The author contrasts his own story as the grandson of an Indian independence activist who became a member of Congress representing Silicon Valley, with that of Alex Hughes, a young musician from a fading Ohio town. He argues that the digital revolution has benefited some places like Silicon Valley enormously but left many small towns and rural areas behind. Although GDP and global poverty reduction figures paint a rosy picture, many American towns have hollowed out as jobs moved overseas or became concentrated in a handful of tech hubs. This divergence means people like Alex lack access to economic opportunities. The author believes core elements of his story - worthwhile jobs, good education and healthcare, prospects for his kids - should be commonplace, not exceptional. He argues we must make the digital revolution work for all places and people, not just Silicon Valley elites who monopolized wealth creation. This requires providing every person in every place the chance for a dignified life and to help shape the digital age, in order to build an inclusive democracy. Place matters, and we can foster unimagined possibilities across our nation if we embrace this.
 
@@ -164,7 +164,7 @@ The author contrasts his own story as the grandson of an Indian independence act
 
 - Jayapal gives the example of partnerships between Silicon Valley and Jefferson, Iowa to provide tech training and jobs in rural areas overlooked by the tech industry. This shows the potential to reimagine what is possible and revitalize communities across America through technology and training.
 
- Here is a summary:
+ 
 
 Ifeoma Ozoma, a former employee at Google, Facebook, and Pinterest, felt outraged by the tech companies' expressions of solidarity with Black Lives Matter after the killing of George Floyd. She knew firsthand the hypocrisy of their claims, having experienced discriminatory hiring practices, promotions, pay, and management as a Black woman in Silicon Valley herself. 
 
@@ -200,7 +200,7 @@ Ozoma ultimately left Silicon Valley, feeling her ideas and presence were not va
 
 - However, Silicon Valley companies have rejected qualified HBCU students for internships, lacking awareness of their talent. Improved partnerships between tech companies and HBCUs are needed to facilitate opportunities.
 
- Here is a summary:
+ 
 
 The article discusses how tech companies like Zoom are partnering with historically Black colleges and universities (HBCUs) like Claflin University to provide opportunities for Black students. Zoom made a $1.2 million commitment to Claflin that includes internships, scholarships, and curriculum support. The partnership model works because Zoom empowers leaders like its chief diversity officer to get results, rather than just checking boxes. 
 

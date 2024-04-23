@@ -132,7 +132,7 @@ In summary, the passage contrasts linear supply chains with platform networks, u
 
 - Like other platforms, GitHub provides infrastructure to facilitate the creation of complements - in this case, code repositories. The more repositories, the more value for the platform.
 
- Here is a summary:
+ 
 
 Platforms create value by facilitating transactions between users. The core transaction is the main way a platform generates value. Platforms perform four key functions: building an audience, enabling matchmaking between users, providing core tools and services, and setting rules and standards. 
 

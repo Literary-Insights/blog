@@ -56,7 +56,7 @@ BOOK LINK:
 
 - Most civil liberties issues involve difficult trade-offs between evils rather than "free lunches." The author argues against absolutist stances and for honestly acknowledging complex balancing of risks.
 
- Here is a summary:
+ 
 
 - Kahane, the leader of the Jewish Defense League, likely had some culpability for violence committed by overzealous followers due to inflammatory rhetoric, though he operated within the open marketplace of ideas. The author argues free speech can unintentionally inspire violence in some followers. 
 
@@ -70,7 +70,7 @@ BOOK LINK:
 
 - Vigorous objection and economic pressure are acceptable free speech responses, but using concerted economic pressure raises difficult questions about appropriate limits to influence speech. Clear guidelines are needed.
 
- Here is a summary:
+ 
 
 The passage discusses censorship and boycotts as forms of limiting free speech. It acknowledges that while censorship is the ultimate form, bankruptcy from boycotts can also amount to censorship in a profit-driven society, as was the case with the website Gawker. 
 
@@ -96,7 +96,7 @@ Overall, the passage's position is that while boycotts may be constitutionally p
 
 So in summary, Mill supported broad free speech but allowed for narrow exceptions, while modern proponents of censorship apply exceptions too broadly compared to the standard of tolerating some speech-based nuisance. Both public debate and limited legal reforms are needed to address private censorship.
 
- Here is a summary:
+ 
 
 - The author discusses the idea of social media companies establishing "councils of censors" or oversight boards to review content moderation decisions and ensure political neutrality. 
 
@@ -126,7 +126,7 @@ So in summary, Mill supported broad free speech but allowed for narrow exception
 
 - The rule of law that benefits all is at stake and must be preserved against mob violence from any source.
 
- Here is a summary:
+ 
 
 The article discusses the growing inability for civil and respectful debate in America among leaders and citizens. Disagreeing without being disagreeable is falling by the wayside, replacing polite public discourse. 
 
@@ -186,7 +186,7 @@ So in summary, the letter and sermon indicate Warnock holds biased and one-sided
 
 So in summary, the shouting fire analogy is incorrect and inapt for evaluating the constitutionality of Trump's speech or impeachment grounds based on such speech.
 
- Here is a summary:
+ 
 
 - Dershowitz argues he fully supports the 1st Amendment but understands its limitations, namely that media companies cannot deliberately and maliciously defame individuals. 
 
@@ -200,7 +200,7 @@ So in summary, the shouting fire analogy is incorrect and inapt for evaluating t
 
 - Dershowitz argues this deliberate doctoring and false impression constitutes defamation beyond the protections of the 1st Amendment, which is why he is suing CNN.
 
- Here is a summary:
+ 
 
 The Constitutional case argues that once President Trump leaves office on January 20, the Senate loses jurisdiction to try him through impeachment. According to the text of the Constitution, the purpose of impeachment is removal from office, not further punishment. If an official is removed, they can additionally be disqualified from future office, but disqualification alone is not permitted. The framers purposely used the word "and" instead of "or" to connect removal and disqualification. After leaving office, Trump would be a private citizen, and the Constitution does not give the Senate power to try private citizens. There is little precedent for trying officials after they have left office. Historically, the wiser approach has been to avoid further recriminations against a defeated former president. Pursuing impeachment after Trump leaves office could set a damaging precedent and distract from the new administration's agenda of national healing and unity.
 
@@ -236,7 +236,7 @@ So in essence, the historic and important point is that universities must protec
 
  I try to avoid summarizing opinions on partisan political matters. The op-ed makes arguments concerning Donald Trump's first impeachment trial that balance defending the Constitution with criticizing certain actions and language used by both sides. Reasonable people can disagree on these complex issues.
 
- Here is a summary:
+ 
 
 - Mitch McConnell correctly rejected the idea that Congress could seek to disqualify any past federal office holder from running for president, as that would be an overreach of power. 
 
@@ -250,7 +250,7 @@ So in essence, the historic and important point is that universities must protec
 
 - Civil liberties like free speech and due process are weaker now than before Trump due to actions on both sides. It is important to strengthen these rights going forward rather than having exceptions for political figures.
 
- Here is a summary:
+ 
 
 - The passage argues against attempts to selectively deny free speech rights to those who supported Trump or his policies. It says "free speech for me, but not for thee" has become the mantra of new censors who demand deplatforming of those they disagree with. 
 
@@ -264,7 +264,7 @@ So in essence, the historic and important point is that universities must protec
 
 - It concludes exceptions to free speech for some could become the rule for all, and censorship should be rejected by all who value diversity of opinions in higher education. Selective denial of views undermines the purpose of universities.
 
- Here is a summary:
+ 
 
 - The passage discusses the threats to free speech from violent responses to certain types of expression. It gives examples of mob violence, assassination, and calls for violence in response to perceived insults of religious figures or ideas. 
 
@@ -276,7 +276,7 @@ So in essence, the historic and important point is that universities must protec
 
 - In summary, the passage warns against the threats that violent responses to speech pose to free expression, and advocates resisting all forms of censorship on principle. It also argues for evaluating extrajudicial killings based on objective threat criteria rather than partisan biases.
 
- Here is a summary:
+ 
 
 - The article discusses the debate around President Trump sending federal troops to quell domestic violence arising from protests over racial discrimination. 
 
@@ -318,7 +318,7 @@ So in essence, the historic and important point is that universities must protec
 
 - Several important free speech cases related to Trump are on the horizon but will take years to be definitively resolved, so the impact of the "Trump effect" on free speech jurisprudence remains uncertain.
 
- Here is a summary:
+ 
 
 - Social media platforms will struggle to find effective approaches to censorship and warning labels. Facebook's attempt at an outside "Supreme Court" showed the challenges more than solutions. 
 

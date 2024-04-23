@@ -1318,7 +1318,7 @@ Strober, Elaine, 42
 
 231
 
- Here is a summary:
+ 
 The opaque-ness of on-demand platforms and gig economy services leads to various issues:
 
 • Lack of transparency can make it difficult for workers to make informed choices about jobs and clients. Workers may not have full information about job tasks, pay rates, or client backgrounds.

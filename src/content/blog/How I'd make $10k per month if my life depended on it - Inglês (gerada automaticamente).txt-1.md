@@ -31,7 +31,7 @@ BOOK LINK:
 
 - Key advice is focusing on painkiller solutions, reoccurring/scalable income models, and reaching prospects through digital outreach like email, calls, videos. The opportunity is selling solutions that help businesses get more customers.
 
- Here is a summary:
+ 
 
 The passage discusses high ticket sales programs and how to get a job doing high ticket closing. It involves being able to convert prospects or fans into paying customers over the phone. 
 

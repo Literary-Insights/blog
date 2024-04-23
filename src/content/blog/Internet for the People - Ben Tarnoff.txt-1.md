@@ -72,7 +72,7 @@ So in summary, the internet was the result of decades of work, built on previous
 
 - The government invented the internet, funded its early growth, then handed over the pipes to private companies without asking for anything in return. This privatization set the stage for the corporate-controlled internet we know today.
 
- Here is a summary:
+ 
 
 - In the 1990s, there was a broad consensus to privatize the internet's infrastructure, guided by free market ideology and deregulation under the Clinton administration. 
 
@@ -86,7 +86,7 @@ So in summary, the internet was the result of decades of work, built on previous
 
 - The government committed to a market-dominated internet with industry self-regulation. Privatization wasn't predetermined, but policies like expanding nonprofit networks were ignored. Industry shaped the debate.
 
- Here is a summary:
+ 
 
 The internet could have been established as a universal social right by supporting and expanding "free-nets" - nonprofit community networks that provided free local internet access, often through dial-up modems. Advocates tried to launch a federally-funded expansion of these networks, but telecom companies prevailed in privatizing the internet infrastructure instead. This privatization has enabled a few large companies to control the backbone networks and internet service provision, charge smaller networks for interconnection, kill competition, manipulate data flows, and make deals prioritizing certain content. The missed opportunity of establishing internet access as a universal right has allowed corporate interests to consolidate control over the pipes and plunder this essential infrastructure for profit. Reclaiming the internet as a public good will require dedicated efforts to enact pro-consumer regulations and policies.
 
@@ -274,7 +274,7 @@ In summary, publicly owned broadband with democratic oversight is presented as a
 
 - The cloud industrialized parts of the internet, providing the infrastructure for the data processing and software needed in the commercial web environment.
 
- Here is a summary:
+ 
 
 After the dot-com crash, Amazon began developing a cloud computing service called Amazon Web Services (AWS) to better manage its infrastructure needs. A team worked on this in Cape Town, away from Seattle and Bezos's micromanaging. They used virtualization technology to allow customers to easily rent computing resources like virtual servers on demand. AWS launched in 2006 with EC2 for computing and S3 for storage. It enabled smaller companies to scale capabilities like data storage without massive infrastructure investment. 
 
@@ -350,7 +350,7 @@ In the 2010s, the internet went mobile with smartphones. More objects also got n
 
 - Social media platforms optimize for engagement, which can advantage inflammatory content. But this doesn't directly cause radicalization. The roots are in longer-standing right-wing projects.
 
- Here is a summary:
+ 
 
 The Right has far more resources to exploit the shift to digital media than the Left, including deep-pocketed donors, sophisticated media operations, and control of the Republican Party. Right-wing pundits and false information, not foreign operatives, are the main purveyors of misinformation online. The right-wing media ecosystem allows propaganda to spread through outlets like talk radio, cable TV, and websites. This "trading up the chain" tactic lends credibility to false narratives by getting them repeated in more mainstream outlets. However, internet users are not simply brainwashed - they actively argue over claims. Right-wing propagandists employ creative tactics to increase engagement and spread narratives on platforms like Facebook and YouTube. 
 
@@ -368,7 +368,7 @@ Though social media algorithms can favor polarizing content, the companies also 
 
 - Regulation also has downsides like regulatory capture and erecting barriers to entry. There are no easy solutions, but recognizing the privatized nature of the internet is an important first step.
 
- Here is a summary:
+ 
 
 Large corporations can bear more regulation, but real change requires going beyond regulating markets to deprivatizing them. Online platforms are built for profit-making, which generates inequality and social harms even with regulation. Mark Zuckerberg's power over Facebook shows the inequality of private ownership. 
 

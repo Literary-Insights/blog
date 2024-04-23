@@ -319,7 +319,7 @@ In summary, overcoming internal barriers, being persistent, and employing bold a
 
 - People should craft their brand narrative before others define them. Laura Chau's distinctive personal style is part of her brand. Your physical appearance and "look" can contribute to a memorable personal brand.
 
- Here is a summary:
+ 
 
 Elizabeth Holmes, the founder of Theranos, adopted a signature black turtleneck look, possibly emulating Steve Jobs. Other tech CEOs like Mark Zuckerberg and Jack Dorsey also cultivated distinctive personal styles. The frequent commentary on CEOs' unusual appearances shows that people need to carefully consider their desired image and then act consistently with that. 
 

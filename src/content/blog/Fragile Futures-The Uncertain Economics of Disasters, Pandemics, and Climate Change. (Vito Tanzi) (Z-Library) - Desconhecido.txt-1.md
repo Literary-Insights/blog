@@ -754,7 +754,7 @@ In both cases, technological hubris, systemic issues, and government opacity exa
 
 - Overall, the economic framework needs updating to deal with global, hard-to-predict events while still supporting markets and limiting government overreach. More balance is needed between short-term and long-term policies.
 
- Here is a summary:
+ 
 
 - The world is more interconnected today through travel and tourism, exposing people to new viruses and increasing the risk of pandemics. This requires more government investment in health research and global collaboration on things like vaccine access. 
 

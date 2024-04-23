@@ -28,7 +28,7 @@ BOOK LINK:
 
 - The book draws on the authors' research and analysis over several years. It received feedback from philosophy and social science academics. While acknowledging the internet exacerbates some issues, the core problem of grandstanding in moral talk predates modern technology.
 
- Here is a summary:
+ 
 
 - The introduction draws a comparison between harmful behavior among children (bullying, ganging up, threats) and similar behaviors seen in some adult public discourse and online interactions about morality and politics. 
 
@@ -38,7 +38,7 @@ BOOK LINK:
 
 - When moral talk is abused, it turns tools meant to help people against them and can discourage others from engaging in moral discussion at all. But apparently many do not see the downsides of abusing moral talk in this way.
 
- Here is a summary:
+ 
 
 The passage introduces the concept of moral grandstanding - using moral talk for self-promotion rather than to help improve oneself or society. Some key points:
 
@@ -54,7 +54,7 @@ The passage introduces the concept of moral grandstanding - using moral talk for
 
 So in summary, it introduces the concept of moral grandstanding and aims to analyze it objectively to improve public moral discourse, not inflame existing divisions.
 
- Here is a summary:
+ 
 
 - The passage argues that people often engage in "moral grandstanding", which involves trying to impress others with one's moral qualities through public moral discourse or expression. 
 
@@ -68,7 +68,7 @@ So in summary, it introduces the concept of moral grandstanding and aims to anal
 
 - The passage provides this framework to define and analyze the phenomenon of moral grandstanding. It argues people often engage in it seeking recognition and status from public displays of their morality.
 
- Here is a summary:
+ 
 
 The passage discusses the concepts of prestige and dominance, which can help understand what motivates grandstanding. Grandstanders seek to elevate their social status or standing, either through prestige or dominance. Those seeking prestige want a reputation for strong moral qualities in order to gain deference from others. Those seeking dominance use moral talk to shame, silence, or humiliate others so they can feel domination. 
 
@@ -102,7 +102,7 @@ In summary, grandstanders use indirect language as a way to deny their intent bu
 
 So in summary, grandstanding involves using public moral talk for self-serving status purposes in ways we may not fully recognize due to self-deception about our own motivations. It sometimes succeeds at improving one's reputation but can backfire in the face of hypocrisy or with ideologically opposed audiences.
 
- Here is a summary:
+ 
 
 - Meryl Streep made a speech at the Golden Globes criticizing Donald Trump's election and rhetoric. This speech divided people based on their political views. 
 
@@ -130,7 +130,7 @@ So in summary, grandstanding involves using public moral talk for self-serving s
 
 So in summary, "piling on" describes contributing redundantly to moral discussions primarily to signal one's agreement or affiliation, rather than add meaningful new content or perspectives. It's a form of easy moral grandstanding.
 
- Here is a summary:
+ 
 
 The passage discusses the concept of "piling on" or adding one's voice to a group condemnation of something or someone, even when it doesn't meaningfully contribute to the discussion. 
 
@@ -146,7 +146,7 @@ It argues that piling on is a form of grandstanding, where people speak out publ
 
 The passage uses examples of online pile-ons and call-out culture to illustrate these concepts in practice.
 
- Here is a summary:
+ 
 
 The passage discusses the problem of grandstanding in solidarity statements and moral discourse. It defines grandstanding as being primarily motivated by a desire for recognition of one's moral view, rather than a desire to truly help others. 
 
@@ -184,7 +184,7 @@ Overall, the key points are that grandstanding involves prioritizing recognition
 
 So in summary, the social costs are that it replaces honest, solutions-oriented debate with shallow political theater focused on appearances rather than truth or progress. This damages the credibility and usefulness of public discourse.
 
- Here is a summary:
+ 
 
 - Grandstanding refers to using moral language and claims publicly to promote oneself rather than having a sincere discussion. 
 
@@ -214,7 +214,7 @@ So in summary, grandstanding is presented as having real social costs like incre
 
 - Over time, observing Grandstanding behavior can also breed cynicism about politicians' and public figures' true motives for taking policy stances or making public statements.
 
- Here is a summary:
+ 
 
 - Grandstanding, or making public moral statements mainly to boost one's image rather than promote justice, leads to cynicism about moral discourse. 
 
@@ -232,7 +232,7 @@ So in summary, grandstanding is presented as having real social costs like incre
 
 So in summary, the passage argues that grandstanding harms public discourse by promoting excessive cynicism about moral and political language.
 
- Here is a summary:
+ 
 
 - Outrage can be effectively used to motivate people to address serious problems in the world. However, overusing outrage dilutes its power and impact. 
 
@@ -244,7 +244,7 @@ So in summary, the passage argues that grandstanding harms public discourse by p
 
 - Overusing outrage as a way to vent emotions can satisfy people's anger, reducing their motivation to take meaningful actions to address injustice. Outrage is a scarce resource that should be used sparingly and selectively for important issues. Grandstanding risks depleting this resource.
 
- Here is a summary:
+ 
 
 - Many people have little tolerance for constant displays of anger and outrage online, as moral accusations and condemnation tend to be "rather repugnant." 
 
@@ -258,7 +258,7 @@ So in summary, the passage argues that grandstanding harms public discourse by p
 
 In summary, the article argues that constant displays of anger and moral condemnation online, or "grandstanding," have significant social costs in polarizing discourse and isolating moderates, outweighing any benefits of signaling values to others.
 
- Here is a summary:
+ 
 
 - Grandstanding can disrespect others by using them for the purpose of showcasing or demonstrating one's own moral virtues or qualities. This is called "showcasing". 
 
@@ -270,7 +270,7 @@ In summary, the article argues that constant displays of anger and moral condemn
 
 - Overall, grandstanding through showcasing takes advantage of and disrespects others by improperly using them in moral performances designed to glorify the grandstander, rather than respecting them as individuals deserving of dignity.
 
- Here is a summary:
+ 
 
 - Groups do not always make the morally correct assessment or response to moral problems, even if they have good values. Life is complicated and groups can disagree on how values apply in particular cases. 
 
@@ -282,7 +282,7 @@ In summary, the article argues that constant displays of anger and moral condemn
 
 - The motivation behind showcasing, to gain status rather than properly address a moral wrong, makes it wrong even if the target happens to be guilty. Morality should not be used as a convenient excuse to take out emotions on others.
 
- Here is a summary:
+ 
 
 - Grandstanding, like lying, can be deceptive because it aims to portray an inaccurate impression of oneself to others. 
 
@@ -296,7 +296,7 @@ In summary, the article argues that constant displays of anger and moral condemn
 
 - Grandstanding goes beyond mild self-promotion because it enables exploitative behavior. By gaining undeserved trust, grandstanders can cover for bad acts, ensnare victims, and sow doubts to avoid accountability. Examples like Harvey Weinstein demonstrate this.
 
- Here is a summary:
+ 
 
 - Ted Haggard was a prominent evangelical pastor who led a large church in Colorado and represented millions of evangelical Christians. 
 
@@ -344,7 +344,7 @@ In summary, the chapter argues that according to traditional conceptions of virt
 
 So in summary, it examines motivations for volunteering/discourse and argues virtuous people are motivated by duty or helping others, not self-interest like grandstanding, though alternative views prioritizing outcomes are noted.
 
- Here is a summary:
+ 
 
 - The passage discusses whether vanity, the trait often exhibited by grandstanders, could potentially be considered a virtue from a consequentialist perspective. Consequentialism assesses virtue based on whether a trait typically leads to good consequences. 
 
@@ -356,7 +356,7 @@ So in summary, it examines motivations for volunteering/discourse and argues vir
 
 - In the end, the passage argues that grandstanding does not demonstrate virtue, even from a consequentialist view that assesses traits based on typical consequences rather than intentions. Other traits like humility are likely better for public discourse.
 
- Here is a summary:
+ 
 
 - Nietzsche believed that all animals, including humans, are instinctively motivated by the "will to power" - the feeling of overcoming resistance and achieving goals. 
 
@@ -384,7 +384,7 @@ So in summary, it examines motivations for volunteering/discourse and argues vir
 
 - The passage focuses on three potential negative consequences of rewarded political grandstanding that will be explored further.
 
- Here is a summary:
+ 
 
 Political grandstanding often takes the form of displaying ideological purity or being more ideologically pure than rivals within one's own party. Displays of ideological purity are usually framed in moral terms. For example, a politician may claim that truly caring about justice requires supporting a $15 minimum wage. 
 
@@ -396,7 +396,7 @@ The problem is that moralizing issues makes compromise less likely. Once politic
 
 Grandstanding may also involve attacking the out-group to draw sharp contrasts. Politicians may present caricatures of opponents and scapegoat fringe figures to position themselves as defending their group from threats. This frames the out-group as beyond compromise.
 
- Here is a summary:
+ 
 
 - Grandstanding makes it easier to portray the opposing side/out-group as extremist by exaggerating or misrepresenting their actual policies and views. 
 
@@ -428,7 +428,7 @@ Grandstanding may also involve attacking the out-group to draw sharp contrasts. 
 
 - Voters should want policies that effectively advance their values, not just policies that express support for those values through intuitive slogans.
 
- Here is a summary:
+ 
 
 The passage discusses a concept called the "Display Test" proposed by Pincione and Tesón, which evaluates whether a politician is willing to disclose the potential downsides or negative consequences of their proposed policy. Disclosing negatives demonstrates the politician believes the policy will overall produce good outcomes, despite the risks. Failing to acknowledge negatives could mean the politician is ignorant of the downsides, or is being deliberately dishonest to gain rhetorical advantage. 
 
@@ -436,7 +436,7 @@ The passage argues that when politicians are rewarded for grandstanding and expr
 
 Overall, the Display Test and willingness to acknowledge policy weaknesses can serve as evidence that a politician prioritizes good outcomes over rhetorical advantages or grandstanding. However, grandstanding may also provide some useful signals to voters on a candidate's values.
 
- Here is a summary:
+ 
 
 - The passage discusses the issue of grandstanding in political discourse and debates whether it is ever permissible or can have valuable functions.
 
@@ -460,7 +460,7 @@ Overall, the Display Test and willingness to acknowledge policy weaknesses can s
 
 So in summary, the passage argues that publicly calling out grandstanding is generally counterproductive and advises alternative approaches of self-improvement and situation management to address the issue.
 
- Here is a summary:
+ 
 
 The passage discusses using implementation intentions to help achieve difficult goals. Implementation intentions involve making specific plans about when, where, and how you will pursue your goals. 
 
@@ -470,7 +470,7 @@ The passage suggests forming implementation intentions could help people improve
 
 The passage then discusses the need to discourage grandstanding by others, not just limiting it in oneself. It draws an analogy to changing social norms around open defecation in India. A strategy proposed borrows from philosopher Cristina Bicchieri's work and involves three steps - correcting beliefs about grandstanding, setting a good example through respectful discussion, and applying positive and negative incentives to encourage the new norms.
 
- Here is a summary:
+ 
 
 The passage discusses potential ways to discourage moral grandstanding and encourage more productive public discourse. It suggests that instead of directly calling out grandstanders, people could withhold praise and validation for grandstanding behaviors on social media by not liking, sharing, or commenting on such posts. This would make grandstanding less rewarding and effective. 
 
@@ -478,13 +478,13 @@ It also tentatively proposes publicly calling out people who use grandstanding t
 
 Overall, the authors argue that by gradually changing social norms and responses, grandstanding could become less common over time as people recognize it is ineffective and harms public discussion. While challenging, successfully altering discourse norms is possible if enough individuals adopt new standards of evaluating and engaging in moral debate. Success would require setting a constructive example through respectful, reasoned argument rather than outrage or accusations.
 
- Here is a summary:
+ 
 
 The passage discusses how certain problematic behaviors like blowing one's nose in the tablecloth were once widespread enough to warrant written warnings, as they satisfied basic human desires and were considered an efficient way of getting needs met. However, over time social norms changed such that these behaviors became seen as embarrassing. 
 
 The key point is that while grandstanding may currently seem like a natural way to fulfill the desire for recognition, social norms can shift so that this behavior becomes viewed as inappropriate too. Norm change happens gradually through the promotion of alternative perspectives. Even though changing widespread behaviors may seem unrealistic, it is possible through shaping public discourse. The success of past norm changes regarding issues like etiquette should encourage efforts to shift norms around grandstanding.
 
- Here is a summary:
+ 
 
 - The passage does not test for false enforcement of explicitly moral views, like views on abortion or same-sex marriage. It doubts people would be more inclined to speak out against popular moral views, but notes there are no direct studies on this. 
 

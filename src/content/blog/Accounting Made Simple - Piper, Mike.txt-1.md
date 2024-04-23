@@ -108,7 +108,7 @@ So in summary, debits and credits are the two sides of journal entries used in d
 
 So in summary, depreciation systematically allocates the cost of long-term assets over their useful lives for financial reporting purposes using various allocation methods.
 
- Here is a summary:
+ 
 
 - Depreciation allows the cost of a long-term asset to be allocated over its useful life through regular charges against earnings. This process is known as depreciation. 
 

@@ -242,7 +242,7 @@ My agent kept submitting me but had stopped calling as frequently. The head shot
 
 - Peck wants to acknowledge he was as broken as the addicts he used with. He didn't judge them, but saw them as compatriots in chasing temporary relief from themselves.
 
- Here is a summary:
+ 
 
 You were describing your experiences with drug addiction and how it negatively impacted your life and career. As a young actor, you romanticized famous drug addicts and wanted to emulate their rebellious spirit. However, your addiction led to erratic behavior like passing out on set, being unreliable and unprofessional, and squandering opportunities. You got a big role while at the height of your addiction which scared you straight temporarily, but you relapsed afterwards. Your addiction hurt your loved ones who tried to help you. When you got a career high from a film premiering at Sundance, you still felt undeserving and miserable inside, showing that external success wasn't fixing your inner troubles. Ultimately, the drugs provided temporary escapes but led to self-destruction. You realized you had to make internal changes, not just seek external validation, to find real contentment.
 
@@ -354,7 +354,7 @@ In summary, Josh's poor performance in Red Dawn causes an ego crisis prompting a
 
 - He rapidly grew his business, going from experimenting on Vine to making nearly a million dollars working with Twitter's brand partnerships team within just a few years.
 
- Here is a summary:
+ 
 
 You discuss how people were initially resistant to curation and advertising on social media, preferring the authenticity of influencers like yourself. However, you embraced it fully, reaching out to other creators and forming a collaborative group to make videos daily. This consistency and creativity led to many brand partnership opportunities. You made more money in a few months than you had in years prior as an actor waiting for roles. It allowed you to sharpen your skills constantly like a musician or writer can. You also started doing college speaking gigs, telling stories about your career and this new world of influencer marketing you found yourself in. Overall, you frame this period as one of empowerment and financial stability through utilizing social media and your existing fame in new, entrepreneurial ways.
 

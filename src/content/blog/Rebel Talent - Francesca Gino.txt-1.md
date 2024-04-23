@@ -334,7 +334,7 @@ The passage goes on to explain how leaders often wrongly believe that asking que
 
 - In summary, gender bias and stereotypes continue to create obstacles and lost opportunities for women in the workforce.
 
- Here is a summary:
+ 
 
 The author describes moments when she has doubted herself and her abilities as a teacher and speaker due to comments implying she was judged based on gender stereotypes rather than her skills and expertise. She gives examples of how women are often interrupted, dismissed, and criticized in ways men are not, affecting their confidence and performance. 
 
@@ -408,7 +408,7 @@ She rebels against stereotypes by reframing anxiety as excitement and opportunit
 
 - Vulnerability enables connection. Embracing imperfections is more inspiring than a false veneer of perfection. Authenticity builds trust and motivates others.
 
- Here is a summary:
+ 
 
 The main idea is that authenticity - being our true selves - has advantages in work and life. People who conceal their personalities are less likely to be hired or attract investment. It's better to be real like Anne Hathaway's character in The Devil Wears Prada, who got a job despite admitting she wasn't the typical fashionista. 
 

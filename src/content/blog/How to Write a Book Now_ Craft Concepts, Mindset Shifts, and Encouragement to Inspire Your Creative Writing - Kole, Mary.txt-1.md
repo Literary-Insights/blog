@@ -30,7 +30,7 @@ BOOK LINK:
 
 - The author acknowledges modern distractions and competition but encourages writers not to let that stop them from creating what they feel compelled to write.
 
- Here is a summary:
+ 
 
 - The passage discusses how it can be overwhelming to try and write something unique that stands out among the many options available now. However, niche projects can still find their audience. 
 
@@ -42,7 +42,7 @@ BOOK LINK:
 
 - Early-career writers should not put unnecessary pressure on themselves by comparing their progress to others. Everyone's writing journey is different. Focusing on nurturing one's own writing is more constructive than looking enviously at others' successes.
 
- Here is a summary:
+ 
 
 The passage discusses balancing the creative process with the production and publishing process when writing. It argues that writers often get too focused on the end goal of publishing too early, rather than taking time to develop their craft and let ideas mature. 
 
@@ -124,7 +124,7 @@ So in summary, the passage advises crafting layered, flawed characters with clea
 
 - Overall outlining is presented as an effective technique to craft plots and plan stories before lengthy drafting, while still allowing creative flexibility. The author favors a blended "plantser" approach of discovery with some outlining aids.
 
- Here is a summary:
+ 
 
 - The workshop approach focused on getting students to commit to outlines before doing significant writing. Outlining helped students structure their stories and avoid aimlessly wandering in early drafts. 
 
@@ -156,7 +156,7 @@ So in summary, the passage advises crafting layered, flawed characters with clea
 
 - Resolution - the character emerges transformed, able to claim their non-literal reward of living fully and authentically in line with their realization. The theme is reflected without being stated.
 
- Here is a summary:
+ 
 
 This section discusses some additional craft elements to consider when developing a story outline. It emphasizes the importance of having a proactive protagonist who makes assertive decisions to drive the plot forward, rather than just reacting to events. Conflict, stakes, and tension should exist in every scene to engage readers. The protagonist should face meaningful external and internal challenges that test them and force growth. Questions are suggested to ensure the plot logically stems from and impacts the character. While outlining provides a foundation, the outline is meant to be a living document that can evolve during the drafting and revision processes. Overall, taking the time to fully think through these narrative and character elements will result in a more compelling story experience for both the writer and readers.
 
@@ -192,7 +192,7 @@ This section discusses some additional craft elements to consider when developin
 
 So in summary, the key is focusing the world, establishing clear rules, connecting elements cohesively, developing secondary characters multidimensionally, and balancing information with action in the telling of the story.
 
- Here is a summary:
+ 
 
 The paragraph discusses using secondary characters like friends to create conflict in stories. It notes that friend characters in particular can be great sources of tension and stakes since rejection from close friends hurts more than strangers. 
 
@@ -246,7 +246,7 @@ Pep Talk:
 
 The key is to get started writing regularly without being overly critical, remember your larger purpose, and celebrate each step of progress along your writing journey. Consistency and a growth mindset will serve you well.
 
- Here is a summary:
+ 
 
 The passage discusses the concept of authorial voice or writing style, which develops as an author goes through the drafting process and charts their writing career. It is unavoidable to know one's own writing voice until they have written and gained experience. 
 
@@ -256,7 +256,7 @@ Various elements like word choice, syntax, imagery, and description contribute t
 
 Importantly, the passage advises that if something feels wrong while drafting, the author should fix it now rather than waiting until revision. Writing intuition is powerful and should be listened to, as major changes will be easier to implement earlier in the draft.
 
- Here is a summary:
+ 
 
 The passage discusses the importance of getting feedback on one's written work after completing a first draft. As the author who created the work, it can be difficult to be objective. Outside feedback from readers is essential to clarifying the work and identifying areas for improvement. 
 
@@ -264,7 +264,7 @@ Before seeking feedback, the author recommends doing an initial read-through of 
 
 When ready to share the work, the passage discusses choosing readers thoughtfully and preparing to receive feedback with an open mind. While criticism can feel vulnerable, it's a necessary part of strengthening the work for its intended audience. Revision takes time and care. The feedback process marks an important transition from solitary creation to collaborative refinement.
 
- Here is a summary:
+ 
 
 - When seeking feedback on a draft, it's best to fix any issues you already know about rather than wasting a beta reader's time pointing out what you already suspect needs work. 
 
@@ -296,7 +296,7 @@ When ready to share the work, the passage discusses choosing readers thoughtfull
 
 The main goal is finding qualified, reliable individuals or groups to support your writing development in a sustainable way. Both free and paid options can work at different stages, but vetting "critique chemistry" is important.
 
- Here is a summary:
+ 
 
 The author received feedback from an editor they hired to review their manuscript. Receiving editorial feedback can be an emotional experience, especially the first time. The author acknowledges they may feel grief, doubt, relief or other emotions while reading the feedback. 
 
@@ -306,7 +306,7 @@ The author has final say in what feedback they choose to incorporate. They shoul
 
 Receiving multiple perspectives can be useful but challenging if viewpoints directly contradict. The author maintains final creative control while gaining outside perspective to elevate their work. Managing the feedback process and reaction is important for growth.
 
- Here is a summary:
+ 
 
 - Revision is where a book is truly crafted and fine-tuned, not just fixing sentences. Revision means "seeing again" with a new perspective. 
 
@@ -358,7 +358,7 @@ The key is revising iteratively to maintain engaging narrative momentum while de
 
 He got home.
 
- Here is a summary:
+ 
 
 - Traditionally publishing through a major publisher provides benefits like distribution in bookstores, libraries, etc. and potential advances or royalties. However, it is highly competitive to get accepted, and publishers handle most of the marketing and promotion. 
 
@@ -370,7 +370,7 @@ He got home.
 
 - To traditionally publish, authors need a polished full manuscript, query letter, synopsis, and sample chapters to pitch agents and publishers. Marketing and promotion are still major challenges for both traditionally published and self-published authors.
 
- Here is a summary:
+ 
 
 - A query letter is a 250-400 word cover letter pitching your book project to a literary agent or publisher. It includes elements like personalization, comp titles, manuscript details, a logline/pitch, description of characters/story, and a brief biography. 
 
@@ -380,7 +380,7 @@ He got home.
 
 - It's standard to do a "simultaneous submission" by sending to multiple agents/publishers at once. Wait for a response before sending elsewhere in the same company. Carefully follow each target's submission guidelines.
 
- Here is a summary:
+ 
 
 - Memoirs used to be sold based on a book proposal (outline and sample chapters), but now publishers want a complete manuscript due to oversaturation in the genre. However, some guidelines still request a proposal. It's best to submit queries, synopsis, and sample chapters for a memoir.
 

@@ -877,7 +877,7 @@ The critical factor is enhanced social cohesion - people bonding over a shared i
 
 - In summary, Brazil is sacrificing some of its future prosperity to host the World Cup spectacle, providing more happiness and branding for the country than economic benefits.
 
- Here is a summary:
+ 
 
 - While increased wealth has brought some happiness in poorer countries like Brazil and India, more income does little to increase happiness in more prosperous European countries. 
 

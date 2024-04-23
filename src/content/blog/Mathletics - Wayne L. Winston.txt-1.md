@@ -454,7 +454,7 @@ So in many baseball situations, proper use of expected value calculations shows 
 
 - Fielding analysis has shown that great fielders like Ozzie Smith provide far more value than reflected by traditional fielding percentage. In contrast, Derek Jeter was overrated as a fielder based on superficial traditional metrics.
 
- Here is a summary:
+ 
 
 - In the bottom of the 9th inning, the Giants were down 4-2 against the Dodgers with runners on 2nd and 3rd and 1 out. Using historical win expectancy data, the Giants had about a 27% chance of winning the game in this situation.
 
@@ -600,7 +600,7 @@ Probability of Consecutive No-Hitters
 
 - Nolan Ryan would need 384 seasons for 50% chance of consecutive no-hitters.
 
- Here is a summary:
+ 
 
 Consecutive no-hitters and a 56-game hitting streak are both highly unlikely events in baseball, but not impossible. The analysis suggests that a 56-game hitting streak is even less likely to occur by chance than consecutive no-hitters. This is because the probability of a batter getting a hit in a given at-bat is generally around 70%, making a 56-game streak of successes very improbable. Meanwhile, no-hitters require everything to go right for the pitcher and defense for just one game. So while highly unlikely, no-hitters are more likely to occur by chance than an exceptionally long hitting streak. Overall, both events push the boundaries of baseball probabilities, but are within the realm of possibility given the number of games played. The rarity highlights the exceptional skill and good fortune required to achieve these rare baseball feats.
 

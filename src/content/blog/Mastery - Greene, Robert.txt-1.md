@@ -343,7 +343,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - Ford's ultimate success came only after overcoming many failures, setbacks, and ill-suited partnerships. Through it all he maintained his vision and leveraged the lessons from adversity to gain full creative control. His perseverance changed the automobile industry forever.
 
- Here is a summary:
+ 
 
 Santiago Calatrava became obsessed with capturing movement in his drawings as a child. This led him to architecture school, but he felt something was missing - he didn't understand the engineering behind great buildings. So he started over, getting an engineering degree. This allowed him to combine the aesthetics of architecture with the mechanics of how buildings stand up. His designs broke conventions by incorporating actual movement into architecture, like his Milwaukee museum addition with giant moving wings. 
 
@@ -563,7 +563,7 @@ Calatrava realized there is a division between the visible "what" of things and 
 
 The goal is to detect these traits early and manage interactions to minimize their interpersonal destructiveness.
 
- Here is a summary:
+ 
 
 Deadly realities are aspects of human nature that can be harmful if not properly managed. They include rebelliousness, which requires concealing your unconventional views at work to avoid backlash; rigidity, which means you should accept others' resistance to change rather than fight it; self-obsessiveness, so appeal to people's self-interest when asking favors; laziness, so protect your ideas and secure credit upfront when collaborating; flightiness, so focus on people's actions rather than their changeable words; and passive aggression, which is best avoided or else returned in kind. The key is to be aware of these realities and adopt prudent strategies to navigate them. Success often depends on restraint, detachment, self-reliance and subtlety. With wisdom, the deadly realities can be neutralized.
 
@@ -773,7 +773,7 @@ The key is flexing your perspective to gain greater insight into problems and se
 
 - Tapping into more primal forms of intelligence through visualization and spatial thinking can spark creativity and help generate novel ideas.
 
- Here is a summary:
+ 
 
 The creative process often follows a pattern in which Masters start with an initial excitement and intuition about a project. As they give shape to their idea, flaws and difficulties arise that they had not foreseen, leading to frustration. They work harder to force a solution, only feeling more tension and staleness. At a high point of this frustration, they let go for a moment - taking a break or switching focus. In such moments, the perfect solution often comes to them as their unconscious mind synthesizes their previous efforts. 
 

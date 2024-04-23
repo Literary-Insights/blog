@@ -108,7 +108,7 @@ The key benefit highlighted is that ChatGPT provides capabilities to automate ce
 
 The goal of prompt engineering is to develop strategies for engaging assistants in a clear, focused, and productive manner. With practice and testing, users can craft prompts that maximize the usefulness of responses.
 
- Here is a summary:
+ 
 
 - Prompting is the key form of communication with AI chatbots like ChatGPT, as it is the only way for users to instruct the chatbot on what they want. 
 
@@ -160,7 +160,7 @@ The key is finding shortcuts where ChatGPT can assist with mundane tasks so you 
 
 - The key to productivity is making the most of your time each day by saying no when needed, automating repetitive work, and using tools like ChatGPT to help manage tasks and work towards goals in a structured way.
 
- Here is a summary:
+ 
 
 - The chapter discusses defining a niche market when starting a business. A niche market refers to specialized products or services that appeal to a small, specific audience. 
 
@@ -304,7 +304,7 @@ In summary, the section discusses the importance of an online presence for onlin
 
 In summary, leveraging ChatGPT's conversational abilities allows businesses to enhance various facets of customer service like availability, personalization, response speed, and proactive communication with customers.
 
- Here is a summary:
+ 
 
 - Customer service is important because it impacts the customer experience and likelihood of repeat business. Good customer service treats customers with respect, empathy and helps solve their problems. 
 
@@ -330,7 +330,7 @@ The key points are that customer service is crucial for businesses, especially o
 
 In summary, the text provided an overview of freelancing, both the pros and cons, popular platforms to find work, and how starting a freelance business is accessible without large investments. It also addressed initial fears about AI while noting new opportunities may emerge.
 
- Here is a summary:
+ 
 
 - About 33% of jobs in the creative industries are freelance jobs, and this number is growing as contract work becomes more common. Companies prefer hiring contractors for specific projects rather than full-time employees.
 

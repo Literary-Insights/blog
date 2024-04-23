@@ -42,7 +42,7 @@ BOOK LINK:
 
 So in summary, the key event discussed was the 1960 JFK-Nixon debate, which highlighted how small nonverbal cues on television profoundly shaped viewers' impressions beyond the actual content of what was said. The importance of presence and nonverbal communication to influence, success, and leadership was then discussed.
 
- Here is a summary:
+ 
 
 - Martin Luther King Jr. and Mahatma Gandhi were able to inspire millions of people and change history through their powerful messages and presence. 
 
@@ -76,7 +76,7 @@ The key points are that confidence, competent posture, expansive body language, 
 
 So in summary, adopting a deep, loud, and clear tone of voice through techniques like controlling breath and resonance can help one project a stronger, more powerful and authoritative presence when speaking. A deep voice signals competence and leadership qualities to others.
 
- Here is a summary:
+ 
 
 - Using gestures while communicating can make one seem more warm, agreeable and energetic. Studies show people who gesture actively are perceived better.
 
@@ -132,7 +132,7 @@ In summary, the passage advocates a carefully chosen form of nonconformity rathe
 
 - In summary, dressing well and making a positive first impression through your appearance can lead others to assume you have other desirable qualities as well, while dressing poorly may have them assume negative traits without cause due to the unconscious halo effect biases.
 
- Here is a summary:
+ 
 
 - Edward Thorndike observed phenomena he called the "halo effect" where overall positive impressions of a person would influence specific judgments about their qualities and abilities, even without evidence. 
 
@@ -150,7 +150,7 @@ In summary, the passage advocates a carefully chosen form of nonconformity rathe
 
 - How we present ourselves through grooming and dress can significantly impact how attractive and capable we appear to others, affecting career and social outcomes.
 
- Here is a summary:
+ 
 
 The study found that people high in "dark personality" traits like narcissism and psychopathy were perceived as more attractive. However, this was not due to their genetics or innate looks, but rather how they presented themselves through dress, style, and confidence. 
 
@@ -158,7 +158,7 @@ Those with dark traits were better at packaging and promoting themselves in a ph
 
 The key takeaway is that anyone can learn from these social skills and make themselves more attractive through deliberate self-presentation. Things like dressing well-fitted, projecting confidence through expansive body language, and "acting as if" you already possess desirable traits can influence both how others see you and how you see yourself. With practice of these techniques, one can gain social benefits normally associated with dark personality traits through manipulation of perception rather than inherent qualities.
 
- Here is a summary:
+ 
 
 - People in positions of power exhibit different body language and hormones compared to those without power. The powerful are more relaxed, confident and assertive, while the powerless feel weak and stressed. 
 
@@ -172,7 +172,7 @@ The key takeaway is that anyone can learn from these social skills and make them
 
 - Our emotions and mental state are influenced more by how we feel during interactions rather than the words exchanged. Powerful body language makes others feel positively about us through the halo effect.
 
- Here is a summary:
+ 
 
 Having congruent nonverbals like relaxed body language is important for presenting a powerful presence. However, if one's body language shows fear like darting eyes or a shaky voice, it would seem disconcerting. 
 

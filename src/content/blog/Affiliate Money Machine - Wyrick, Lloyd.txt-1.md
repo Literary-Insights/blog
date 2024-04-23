@@ -38,7 +38,7 @@ BOOK LINK:
 
 In summary, it outlines the different types of affiliate marketing, networks to use, how to choose programs, and importance of being upfront and honest with customers. Due diligence on programs is also advised.
 
- Here is a summary:
+ 
 
 - The passage discusses testing new business ideas and products through focus groups and market research before fully launching. This allows the business to gauge reactions, identify any necessary changes, and ensure the best design. 
 

@@ -826,7 +826,7 @@ The key is focusing on whole, unprocessed foods that are low in carbohydrates an
 
 In summary, focus on whole, unprocessed foods - healthy fats, lean proteins, non-starchy veggies, some fruit, and minimal healthy carbs. This provides optimal nourishment for your brain.
 
- Here is a summary:
+ 
 
 - Focus on eating meat from animals raised humanely and with a good quality of life. Support small local farms that practice ethical farming methods. 
 

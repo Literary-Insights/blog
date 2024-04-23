@@ -240,7 +240,7 @@ So in summary, parents matter less than we think for most outcomes, but there ar
 
 So in summary, the data reveals some surprising fields with relatively good odds of getting rich, but also shows that structural factors like local monopolies and selection bias affect the statistics. Overall, it provides some counterintuitive insights, though more research is needed.
 
- Here is a summary:
+ 
 
 The Big Six business fields (doctors, lawyers, corporate executives, investors, business owners, and independent creatives) stand out in creating a high probability of their owners becoming rich. This is because they allow owners to avoid ruthless price competition that drives profits to zero, which is a major challenge for most businesses. 
 

@@ -204,7 +204,7 @@ In summary, we are entering a new data-centric era that will transform business 
 
 - The best customer analytics strategies use both internal and external data across personal, behavioral and attitudinal categories to gain a competitive advantage with predictive insights.
 
- Here is a summary:
+ 
 
 The key customer data types are personal data, behavioral data, and attitudinal data. Internal data reflects your own customers and processes, while external data reflects the wider market. Both data sources are needed for a 360-degree customer view. 
 
@@ -342,7 +342,7 @@ Real-time personalization is the next wave, reacting to customer micro-moments. 
 
 - Overall, the combination of AI, big data, and connectivity is leading to a new generation of smart, self-improving products across industries.
 
- Here is a summary:
+ 
 
 The passage discusses how products and services across various industries are becoming more intelligent and autonomous thanks to advances in AI and data analytics. It provides examples of autonomous vehicles like drones and ferries, AI-powered robots for delivery and cleaning, smart appliances and devices for the home, medical devices like insulin pumps and stethoscopes with AI capabilities, industrial machines and farm equipment equipped with computer vision and deep learning to optimize operations, and wearables and gear for sports that track performance metrics. The key idea is that integrating AI and leveraging data from sensors and cameras enables products and services to operate with more intelligence, less human intervention, and greater efficiency and effectiveness. This transformation is happening across transportation, logistics, healthcare, manufacturing, agriculture and consumer domains.
 
@@ -574,7 +574,7 @@ The key is to set the stage for open, creative thinking about how data could tra
 
 - External data expands insights beyond just internal data. Continually refer back to strategic goals to determine the most useful external data to collect and analyze.
 
- Here is a summary:
+ 
 
 - Storage and management of data can be expensive, so it's important to have a clear business need before collecting and storing large amounts of data. However, if you're already collecting data like security footage, finding ways to use it may not cost much. 
 
@@ -618,7 +618,7 @@ The key is to set the stage for open, creative thinking about how data could tra
 
 - Underuse of AI can also be unethical - if it could help address problems but is not used due to other ethical factors like transparency or environment.
 
- Here is a summary:
+ 
 
 The key points are: 
 
@@ -684,7 +684,7 @@ The overall goal is to make sure the data used in initiatives is of high quality
 
 - Deep learning and reinforcement learning are more advanced forms of machine learning gaining popularity. Overall, AI and machine learning are providing new capabilities to gain insights from all kinds of data.
 
- Here is a summary:
+ 
 
 - Supervised learning algorithms are trained on labeled data, allowing them to assess their own accuracy and improve. They are commonly used for regression analysis and classification tasks. Examples include decision trees, random forests, Naive Bayes, and k-nearest neighbors. 
 
@@ -822,7 +822,7 @@ In summary, the data skills gap presents challenges for companies of all sizes s
 
 - Key skills include business acumen, analytics, computer science, statistics/math, creativity, and subject matter expertise. Well-rounded teams combine strengths across these areas.
 
- Here is a summary:
+ 
 
 The key skills needed to extract maximum value from data are technical skills like statistics, computer science, and mathematics; strategic thinking and business acumen; creativity and innovation; and communication skills. Organizations can build these competencies through recruiting new talent or training and upskilling existing staff. When recruiting, it may make sense to hire for a balance of skills rather than trying to find "unicorns" with all six competencies. Existing staff who show an affinity for working with data can be developed into "data ambassadors" through training. Free and low-cost training resources are available online from universities and companies to help build data science skills. Fostering a culture of data literacy and an understanding that working with data is everyone's responsibility is also important. With the right balance of skills and a focus on continual learning, an organization can assemble effective data teams.
 

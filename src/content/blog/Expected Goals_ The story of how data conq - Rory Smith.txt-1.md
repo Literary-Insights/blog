@@ -529,7 +529,7 @@ The summary highlights Anderson's transition from theorist to football club chie
 
 - Gradually Mowbray opened up, seeing Anderson's passion for football. Their relationship moved beyond mutual wariness to trust and cooperation.
 
- Here is a summary:
+ 
 
 After a few months at Coventry City, Anderson realized that the football world was not as alien to him as he initially thought. Though empowering Mowbray and Venus was partly out of necessity due to his lack of time, it did not represent a major change in how he approached his job. Most of Anderson's time was spent on administrative tasks and negotiations rather than directly involved in coaching or transfers. The club's tight finances meant transfers were opportunistic, like signing veteran Joe Cole on a free transfer. 
 

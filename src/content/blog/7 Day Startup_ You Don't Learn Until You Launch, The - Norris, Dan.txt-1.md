@@ -90,7 +90,7 @@ So in summary, the text discusses the author's journey of failing to achieve a s
 
 So in summary, the passage advocates for rapid, low-cost validation of business ideas through an almost immediate launch within 7 days, rather than lengthy business planning. The focus is on learning from real customer feedback.
 
- Here is a summary:
+ 
 
 - Companies need to serve large markets to maintain consistently growing profits, as they cannot rely on a small, limited pool of customers. 
 
@@ -118,7 +118,7 @@ So in summary, the passage advocates for rapid, low-cost validation of business 
 
 So in summary, the key is creating a viable representation of the product or service idea quickly to actually test customer interest through real metrics like sales, rather than developing incomplete versions that don't answer critical questions.
 
- Here is a summary:
+ 
 
 The goal for Day 4 is to build a basic website for the startup business in under $100 and within one day. This will allow the founder to start communicating their business idea and learning how potential customers respond. 
 
@@ -188,7 +188,7 @@ The ideas aim to generate traffic and sales quickly after launch through content
 
 - Post-launch, focus on getting real customers, seeing if they pay and stay, and listening to feedback. Determine if your business model is fundamentally scalable and profitable. Refine your approach based on customer responses and data. The goal is to build a sustainable business with ongoing growth potential.
 
- Here is a summary:
+ 
 
 The business owner ran into difficulties trying to scale their business. Some key challenges included:
 

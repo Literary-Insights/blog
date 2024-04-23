@@ -202,7 +202,7 @@ The key is starting with a shared understanding that power is equal and the goal
 
 - The key is to focus on treating the parties fairly, not the costs themselves. Fairness means dividing the total pie of savings that cooperation enables.
 
- Here is a summary:
+ 
 
 The article discusses several examples of how to fairly divide costs or benefits when multiple parties are involved. 
 
@@ -214,7 +214,7 @@ The electric vehicle charging network Ionity faced a similar issue in dividing c
 
 In each case, the fairest solution comes from focusing on the total pie of costs or benefits, and dividing the pie proportionally based on each party's standalone costs and the savings from working together. This method ensures costs and benefits are shared equitably.
 
- Here is a summary:
+ 
 
 The article discusses how costs for shared infrastructure projects, like electric vehicle charging networks, are often divided proportionally based on factors like unit sales. However, the author argues that proportional division is not necessarily fair or reasonable. 
 
@@ -378,7 +378,7 @@ C pays full cost of the third segment
 
 The key is figuring out what the other side really values, not just what they are demanding. Satisfy their core interests, and they'll work hard to satisfy yours as well. This expands the pie for both parties.
 
- Here is a summary:
+ 
 
 The key point is that to get what you want in a negotiation, it helps to understand what the other side wants and try to give it to them. This motivates them to reach a deal. Michael, the seller of a gas station, made the mistake of basing the price on the cost of his dream sailing trip, rather than the market value of the station. The buyer, Meghan, didn't care about funding his trip and got annoyed. If Meghan had been more curious about Michael's plans, she could have offered him a job upon his return, which would have lowered the sales price while still allowing him to afford the trip. The lesson is that by understanding the other side's interests and finding creative ways to satisfy them, you can often grow the pie and achieve better outcomes for both parties. Focus on understanding the other party's desires, not just stating your own position.
 

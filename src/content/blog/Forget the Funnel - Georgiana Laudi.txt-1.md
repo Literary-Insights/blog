@@ -32,7 +32,7 @@ BOOK LINK:
 
 So in summary, the advance praise promotes the book as a very practical and proven guide to building a systematic, customer-led approach to growth based on the authors' work helping many companies achieve results.
 
- Here is a summary:
+ 
 
 - The author, Gia, struggled in her previous marketing role running experiments and tactics without clear direction or insight into customers. This led to long hours and inconsistent results. 
 
@@ -58,7 +58,7 @@ So in summary, the advance praise promotes the book as a very practical and prov
 
 So in summary, the passage emphasizes the importance of understanding customer needs and wants through research, rather than just assuming the company knows best, when building cross-functional teams and programs focused on customer-led growth.
 
- Here is a summary:
+ 
 
 - The program focused on engaging company leaders and getting their buy-in at each step to ensure success. As agencies participated, their businesses grew and so did their use of Sprout's product, leading to a $2.1M increase in annual recurring revenue within 6 months. 
 
@@ -70,7 +70,7 @@ So in summary, the passage emphasizes the importance of understanding customer n
 
 - The roles on the cross-functional team include a Champion to drive work forward, a Primary Stakeholder for high-level buy-in, Contributors/Secondary Stakeholders for expertise, and optionally a Facilitator to guide the process. Responsibilities are outlined for each role.
 
- Here is a summary:
+ 
 
 Providing timely input and review of work with feedback are key responsibilities for a Primary Stakeholder leading a Customer-Led Growth initiative. The Primary Stakeholder needs to protect the process and make sure key milestones are achieved, from forming the team to gaining buy-in to taking action. This includes drafting a project brief, choosing the team members and their roles, sending communication to schedule a kickoff meeting, and holding the kickoff meeting to launch the project. Conducting customer research by identifying the best customers to learn from, asking them questions about their experiences and insights, and analyzing the findings will help guide the initiative and uncover where marketing efforts should be focused. Regular feedback and input from the Primary Stakeholder is essential for keeping the team focused and progressing toward the goal of increasing customer understanding and growth.
 
@@ -88,7 +88,7 @@ Providing timely input and review of work with feedback are key responsibilities
 
 So in summary, the passage emphasizes the importance of learning from potential future customers, especially when market conditions change drastically, to help a business adapt and survive periods of disruption.
 
- Here is a summary:
+ 
 
 The passage discusses using audience research when a company does not yet have customers to gather insights from. It focuses on how Paytouch, a company that provided point-of-sale systems to restaurants, pivoted during the pandemic when their restaurant customers closed down. 
 
@@ -116,7 +116,7 @@ The passage advocates for audience research when customer research is not possib
 
 So in summary, understanding customer jobs helped Alistair uncover hidden customer segments, refine their messaging to better fit the strategic segment, and significantly improved their growth metrics.
 
- Here is a summary:
+ 
 
 - The passage discusses identifying and defining the top jobs customers are trying to get done (jobs-to-be-done) by using a product or service. This helps understand customer needs and motivations.
 
@@ -234,7 +234,7 @@ So in summary - use customer research to find points of friction, prioritize the
 
 In summary, the key is sharing insights widely, then operationalizing the CX map on an ongoing basis across all teams/projects to keep the business focused on truly understanding and delivering value for the priority customer. This leads to continuous improvement and growth.
 
- Here is a summary:
+ 
 
 - The book emphasizes moving away from thinking of marketing as a "funnel" and instead seeing customers as whole people in a meaningful relationship. It introduces the Customer-Led Growth Framework.
 
@@ -246,7 +246,7 @@ In summary, the key is sharing insights widely, then operationalizing the CX map
 
 - Acknowledgments are given to a variety of people who provided support, feedback and collaborated on the book to help difficult concepts be understood and articulated clearly. Their input was invaluable in making the book better.
 
- Here is a summary:
+ 
 
 Gia wants to thank her daughters for inspiring her to write the book, even if they are too young to understand it now. She also wants to thank her husband for his constant support and for being her "Dead Sea." She thanks her mother for her spirit and grit, and her father for his vision and pushing her to be her best. 
 

@@ -112,7 +112,7 @@ BOOK LINK:
 
 - These rights have been described as the foundation of democratic society and the origin of other rights. Case law indicates they cover the comprehensive concept of thought and conscience. The inner life is complex but these rights aim to protect its sanctity.
 
- Here is a summary:
+ 
 
 The article discusses the right to freedom of thought, conscience, belief and opinion as protected in international human rights law, particularly the ICCPR. It explains that this right has an absolute and broad scope, encompassing freedom of thought, personal convictions, and commitments to religion or belief. 
 
@@ -328,7 +328,7 @@ In summary, human rights law emerges from philosophical ideals. It provides fund
 
 - The critical point is that freedom of thought is a fundamental human right that must be protected from manipulation, direct or subtle, real or imagined. Societies need to guard against threats to this right.
 
- Here is a summary:
+ 
 
 The article argues that laws against witchcraft violate the human right to freedom of thought and belief. Even though witchcraft does not exist objectively, people have been persecuted and killed for suspected witchcraft throughout history. Prosecuting people for their beliefs, real or imagined, infringes on their inner freedom of thought. 
 
@@ -808,7 +808,7 @@ The critical issue is that social media's large-scale inference of our private t
 
 - We must move from voluntary ethics frameworks to binding regulations with teeth. Tech companies cannot opt out of markets to avoid regulation. The solution is global coordination and cooperation on technology governance.
 
- Here is a summary:
+ 
 
 The recognition of the importance of the right to freedom of thought is growing as risks from AI, technology, and surveillance become apparent. Recent examples include:
 

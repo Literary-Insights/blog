@@ -774,7 +774,7 @@ In summary, industrialization has historically relied on protectionist policies,
 
 - The Berkeley Mafia and international institutions believed Indonesia's economy was strong, overlooking the risks of short-term capital flows and weaknesses in the export sector. Their faith in free markets failed to address cronyism and misdirected lending.
 
- Here is a summary:
+ 
 
 - Indonesia belatedly told its biggest conglomerates to do more manufacturing for export, but this did not lead to serious technological progress or a general export focus. The conglomerates opened some basic processing operations but did not make major investments. 
 
@@ -958,7 +958,7 @@ In summary, China's state industrial policy has favored midstream companies focu
 
 - Southeast Asia could cooperate on industrial policy but doesn't, and is signing FTAs with more advanced economies. Bad advice from rich nations and institutions has immiserated many poor countries. Serious policies like land reform are needed to address global poverty and instability.
 
- Here is a summary:
+ 
 
 The World Bank's East Asian Miracle report was weak because it only considered industrial policy and protectionism at the national level, not the sectoral level. Sectoral manufacturing policies varied widely within countries, especially Japan, South Korea, and Taiwan during their high-growth periods. The report's review of economic history was also controversial. It highlighted British deregulation in the mid-19th century after it became the technological leader, but ignored its earlier protectionism. It glossed over US protectionism in the 19th and early 20th centuries, only mentioning the 24% tariff low point in 1857 versus the 40% average. It had little discussion of German industrial policy and cartels, but much discussion of 19th century French laissez-faire policies that left it economically inferior to Germany. Overall, the report was ideologically biased, downplaying the importance of state intervention and sectoral industrial policies in East Asia's growth.
 
@@ -1222,7 +1222,7 @@ The World Bank's East Asian Miracle report was weak because it only considered i
 
 In summary, major Chinese companies in technology, beverages, food, and agriculture made significant overseas acquisitions valued between USD0.84 billion and USD7 billion during the 2000s. This expanded their business reach globally.
 
- Here is a summary:
+ 
 
 The books and articles provide an overview of the role of government policy and institutions in the economic development of East Asian countries like Japan, South Korea, China, Thailand, Indonesia, Malaysia, Taiwan, and the Philippines. 
 
@@ -1306,7 +1306,7 @@ Lucy McMahon and Will Rowlands - Helped turn academic material into a published 
 
 In summary, y wrote "How Asia Works" and was aided by K.S. Jomo, Lucy McMahon, Will Rowlands and others in publishing an academic addendum to the book. The addendum drew on academic material provided by a range of experts on Asia.
 
- Here is a summary:
+ 
 
 - Hirobumi Ito: Japanese statesman who played a key role in the Meiji Restoration and Japan's modernization. 
 

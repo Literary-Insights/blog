@@ -24,7 +24,7 @@ Some of the key chapters include: Choosing Your How-To Writing Niche, Research a
 
 It also includes two appendices with further resources and examples, author information, and an index. Several endorsements praise the book for providing detailed, practical guidance on building a successful career or business as an information writer.
 
- Here is a summary:
+ 
 
 - How-to writing has the potential to be lucrative but is sometimes viewed as less prestigious than other types of writing like novels. 
 
@@ -36,7 +36,7 @@ It also includes two appendices with further resources and examples, author info
 
 - Thin writing credentials are less of an issue for how-to books where the focus is on accurately teaching skills rather than narrative abilities. This lowers the barrier to entry for would-be authors.
 
- Here is a summary:
+ 
 
 - The writer argues that while the internet has made traditional freelance writing like magazine articles and books tougher due to more competition, it has also created new opportunities for how-to writers. 
 
@@ -46,7 +46,7 @@ It also includes two appendices with further resources and examples, author info
 
 - Overall, the internet has both helped and hurt how-to writers by creating new formats and avenues for publishing while also increasing competition in traditional venues like magazines and reference books. Writers must adapt to publish across multiple media to be successful.
 
- Here is a summary:
+ 
 
 - Millions of out-of-print books are available online through services like Google Books, but they may still be copyrighted. Google plans to compensate authors for digitally downloaded books.
 
@@ -72,7 +72,7 @@ It also includes two appendices with further resources and examples, author info
 
 - Writing content in different formats and channels, like books, audio, video and seminars, allows you to reach more people with different learning preferences.
 
- Here is a summary:
+ 
 
 - Choosing the right niche is the most important decision for how-to writers, as it determines the topic/industry they will focus on and build an audience in. Specializing allows writers to become experts in a narrow field.
 
@@ -82,7 +82,7 @@ It also includes two appendices with further resources and examples, author info
 
 - The narrower the niche, the more in demand the writer's content will be and the higher prices they can charge. Specialized information is more valuable than general topics. Focusing a niche allows writers to maximize earnings from their work.
 
- Here is a summary:
+ 
 
 - Trade paperbacks are perceived as having slightly higher value than mass market paperbacks. 
 
@@ -186,7 +186,7 @@ The summary highlights that while subject knowledge helps, the writer's role is 
 
 In summary, based on the formal definition established by the International Astronomical Union in 2006, Pluto is no longer officially classified as a planet, but rather as a dwarf planet. While some objections remain, this is currently the scientific consensus classification.
 
- Here is a summary:
+ 
 
 The passage criticizes several common mistakes made by writers in how-to books and articles. It notes that writers should avoid referring readers to the internet or making them research prices/information themselves, as that is doing the writer's job for them. 
 
@@ -282,13 +282,13 @@ The key takeaways are researching appropriate markets well, maintaining ownershi
 
 The key steps are coming up with an idea, outlining it, writing a proposal to shop it to agents/publishers, negotiating a contract, and then writing the book if under agreement. Using this process increases the chance of getting the book published.
 
- Here is a summary:
+ 
 
 The contract should stipulate that if the book goes out of print, the rights revert back to the author. Additionally, the contract should give the author first right of refusal to purchase any remaining unsold copies (remainders) at either the best prevailing market rate or at cost plus a dollar when the book goes out of print. 
 
 This ensures that if the publisher stops printing and selling the book, the author regains control over the intellectual property rights. It also allows the author the opportunity to purchase any leftover inventory at a favorable price in order to continue selling the book themselves.
 
- Here is a summary:
+ 
 
 - The passage discusses publishing and marketing e-books rather than traditional printed books. E-books have certain advantages for writers and information marketers who want to self-publish and sell their own work. 
 
@@ -300,7 +300,7 @@ This ensures that if the publisher stops printing and selling the book, the auth
 
 - The passage provides tips on organizing book content using file folders to facilitate writing the e-book. It also discusses creating an "Amazon bestseller marketing campaign" to promote the e-book launch.
 
- Here is a summary:
+ 
 
 - E-book marketers are called "micro-publishers" as they produce niche or highly specialized e-books that traditional publishers would not take on due to the narrow audience. 
 
@@ -356,7 +356,7 @@ This ensures that if the publisher stops printing and selling the book, the auth
 
 - Consider updating editions when making substantial content changes. This can boost sales of existing customers and attract new ones.
 
- Here is a summary:
+ 
 
 - Consumers are more willing to purchase products from brands they trust and have experience with, rather than trying something new from an unknown brand. 
 
@@ -396,7 +396,7 @@ This ensures that if the publisher stops printing and selling the book, the auth
 
 - Newsletters in particular provide recurring revenue streams from subscriptions that can last years, unlike one-time product sales. Both free and paid newsletter models are discussed as effective ways to maximize income from content.
 
- Here is a summary:
+ 
 
 The article discusses what makes an ideal e-zine article that readers will be interested in. It notes that often the best read articles are not necessarily the most specialized ones targeted to a specific audience. 
 
@@ -416,7 +416,7 @@ Some key points on creating engaging e-zine content include:
 
 The article also provides tips on designing and formatting an e-zine, noting that a simple text-based format is easy to create and doesn't require technical expertise. Guidelines are given for layout, margins, article formatting and headlines to grab readers' attention. Overall it emphasizes keeping e-zines concise and focused on useful, practical content.
 
- Here is a summary:
+ 
 
 - The bottom of the e-zine or newsletter is where you make your closing/sign off. This is where you can softly promote your products or services while avoiding hard sells. Include full contact details like email, phone, fax in case readers prefer those methods over visiting your website. 
 
@@ -426,7 +426,7 @@ The article also provides tips on designing and formatting an e-zine, noting tha
 
 - Paid newsletters have a high failure rate. Keys to success are having a strong “Big Idea” unique value proposition, ensuring good fit with your audience's interests, making the newsletter indispensable, having in-depth editorial content, proving rapid return on investment for subscribers, and developing trust and authority as an editor. Testing different appeals can help refine your value proposition.
 
- Here is a summary:
+ 
 
 - Newsletter subscriptions are often more expensive per page than magazine subscriptions due to their higher costs from direct mail marketing. For example, a $20 annual subscription for a 100-page magazine works out to less than 2 cents per page, while a $100 annual subscription for a 12-page newsletter is over 69 cents per page. 
 
@@ -450,7 +450,7 @@ The article also provides tips on designing and formatting an e-zine, noting tha
 
 - Membership sites with paid access to a collection of content are a good alternative to newsletters for generating recurring revenue through ongoing subscriptions.
 
- Here is a summary:
+ 
 
 Membership sites offer paid access to exclusive content and resources like blogs, forums, video streaming, online calculators, archives, and other tools to their members. Membership is usually charged monthly but some sites offer annual plans or piecemeal purchasing of individual items. 
 
@@ -540,7 +540,7 @@ The key is to turn speaking gigs into ongoing marketing opportunities through pr
 
 - Alternative formats include teleseminars, webinars, podcasts, and radio/TV interviews to disseminate content remotely without traveling or public speaking.
 
- Here is a summary:
+ 
 
 - A tele-seminar involves a presentation over the phone to an audience who calls in to listen. It usually lasts 60-90 minutes. 
 
@@ -556,7 +556,7 @@ The key is to turn speaking gigs into ongoing marketing opportunities through pr
 
 - Tele-seminars are a good way for experts to share knowledge, drive traffic to their website/products, build relationships, and make money through various monetization models. Planning and scripting the presentation is important for success.
 
- Here is a summary:
+ 
 
 - The speaker rambles or speaks too fast, making it difficult to follow their points. They jump between different topics without proper transitions. 
 
@@ -570,7 +570,7 @@ The key is to turn speaking gigs into ongoing marketing opportunities through pr
 
 - Podcasting is a good medium for the speaker to consider, as listening to audio files on mobile devices is increasingly popular. The speaker should produce podcasts in MP3 format and upload them for listeners.
 
- Here is a summary:
+ 
 
 Podcasting has several advantages as a medium including its portability, personalization, entertainment value, accessibility, and reliance on voluntary listenership rather than paid advertising. Creating a podcast allows one to publish great content and spread messages to online audiences in an engaging format. 
 
@@ -578,7 +578,7 @@ Guest appearances on radio and TV are another effective way to reach potential c
 
 Proper preparation is key, such as researching one's area of expertise thoroughly. When appearing, it's best to focus on addressing listener questions and problems rather than explicitly promoting one's own products or services. While media appearances take work, they can generate leads and enhance one's reputation if handled professionally, even when things don't go exactly as planned.
 
- Here is a summary:
+ 
 
 To be successful selling yourself as a corporate trainer, it is important to understand the training department's role and process for buying training programs. While training directors are interested in your materials, their main job is to fill training requests from managers. 
 
@@ -632,7 +632,7 @@ In summary, the consulting market has become more saturated with competitors, wh
 
 - Look for opportunities to have events professionally recorded for free, then use the videos as information products. Extract short clips for your website.
 
- Here is a summary:
+ 
 
 - The user is prompted to click on the video to start viewing it. 
 
@@ -686,7 +686,7 @@ In summary, the consulting market has become more saturated with competitors, wh
 
 - The marketer is advised to rewrite the subject line to score higher on at least 2-3 of the U criteria, such as by making it more urgent, unique, or specifying the topic to make it more useful. This small change could substantially increase readership and response.
 
- Here is a summary:
+ 
 
 - Information products like customized advice or day-long workshops are more labor-intensive to produce than books or e-books, but they can be charged at much higher price points of 10-100x more. This offers better value and expert advice to customers.
 
@@ -712,7 +712,7 @@ In summary, the consulting market has become more saturated with competitors, wh
 
 - In the end, the author presents the 80/20 rule as a "very nice choice to have" in one's career as a how-to writer. It allows for profitable work in their niche while also keeping things interesting through some diversity in topics written about.
 
- Here is a summary:
+ 
 
 Six Flags invested $72 million in a marketing campaign featuring young women in makeup to promote their parks. However, after the expensive campaign, Six Flags saw no increase in attendance or revenue. Their return on investment was less than zero, costing the company $72 million with no financial benefit. This was deemed a major marketing failure and boondoggle for Six Flags.
 

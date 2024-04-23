@@ -36,7 +36,7 @@ BOOK LINK:
 
 - Dunford is considered a thought leader and expert in positioning, especially for technology companies, with a proven track record of helping organizations strengthen their positioning.
 
- Here is a summary:
+ 
 
 The passage argues that while positioning isn't new or trendy, it is still extremely important and forms the foundation for modern marketing and sales tactics. Strong positioning helps all marketing and sales efforts by clarifying for customers how a product or company fills their needs. Weak positioning hinders results. 
 
@@ -44,7 +44,7 @@ While the concept of positioning has been around since the 1980s, most companies
 
 The book is intended for founders, marketers, salespeople and executives who want to better connect their products to customers in an oversaturated market. With good positioning, customers can quickly understand a product's value. Without it, marketing and sales efforts will be less effective. Positioning therefore remains a crucial but often overlooked aspect of business strategy.
 
- Here is a summary:
+ 
 
 - Positioning provides important context that helps customers understand a product's value and who it's for. It creates a frame of reference for the product.
 
@@ -54,7 +54,7 @@ The book is intended for founders, marketers, salespeople and executives who wan
 
 - Products are exceptional only when customers understand them within their best frame of reference. It is critical for companies to provide clear positioning and context so customers perceive the product accurately and at its highest value. Positioning is worth the effort because it leads to happier customers and better business outcomes.
 
- Here is a summary:
+ 
 
 Product creators often fall into two traps when it comes to positioning their products. The first trap is being stuck on the original intended purpose of the product and not realizing it has become something else. Early ideas evolve through feedback and iterations, but the positioning is not updated to reflect this. The second trap is that markets change but the positioning does not, so the product is no longer well-aligned even if it was well-positioned originally. 
 
@@ -64,7 +64,7 @@ The example of a chocolate cake creator highlighted how choosing "cake" versus "
 
 To avoid these traps, product creators need to understand positioning is a deliberate choice that requires reviewing as the product and market evolve. There are likely multiple valid positioning options, not just one obvious "default." With awareness and a systematic process, creators can stay aligned even as contexts change around them.
 
- Here is a summary:
+ 
 
 - The author was pitching a new product he called "ted Cake 2.0" which is described as a small piece of cake on a stick, making it hand-held and eliminating the need for a fork. 
 
@@ -100,7 +100,7 @@ To avoid these traps, product creators need to understand positioning is a delib
 
 In essence, the company needs to focus on customers that invoice frequently as those customers will derive the most value from the product's invoicing functionality. Targeting customers with that specific characteristic increases the chances of closing deals by the deadline.
 
- Here is a summary:
+ 
 
 - Big consumer brands see companies like Amazon as a threat because they have large amounts of consumer behavior data that allows them to quickly gain dominance in new market categories. 
 
@@ -112,7 +112,7 @@ In essence, the company needs to focus on customers that invoice frequently as t
 
 - As a result of this adjusted positioning, Sampler now works with major brands like L'Oreal, Kimberly-Clark and Unilever to provide direct samples of products to consumers.
 
- Here is a summary:
+ 
 
 - Positioning a product and positioning a company are related but separate tasks. For a single-product company, it may make sense to position the product and company as the same thing for simplicity. 
 
@@ -122,7 +122,7 @@ In essence, the company needs to focus on customers that invoice frequently as t
 
 - Forming a cross-functional positioning team that includes leadership from key departments like marketing, sales, product, and customer success brings diverse perspectives that are important for buy-in and effective implementation of the new positioning. The business owner/leader should drive the team and process.
 
- Here is a summary:
+ 
 
 - The discussion should be facilitated by an experienced external facilitator. Having an outside perspective will make the discussion more productive and ensure all voices are heard. 
 
@@ -132,7 +132,7 @@ In essence, the company needs to focus on customers that invoice frequently as t
 
 So in summary, the facilitator recommends bringing in an experienced external facilitator to lead the positioning discussion. This will help make the conversation more balanced and productive by giving it an impartial perspective.
 
- Here is a summary:
+ 
 
 To understand how customers perceive a company's strengths and weaknesses compared to alternatives, it is important to understand what alternatives customers would consider if the company's product or solution did not exist. Simply understanding the customer's problem is not enough. 
 
@@ -222,7 +222,7 @@ The positioning story example illustrated how shifting from a Head to Head "data
 
 The key is to position your solution as the natural leader and enabler of a brand new market category you are defining proactively, not as a competitor within existing categories.
 
- Here is a summary:
+ 
 
 - Creating a new category positioning style involves the most "teaching" of customers as it starts with a blank canvas rather than leveraging existing category knowledge. 
 
@@ -280,7 +280,7 @@ The key is to position your solution as the natural leader and enabler of a bran
 
 The goal is for the team to agree on how to frame the problem, current solutions, the gap, and key purchase criteria to present a clear and coherent sales pitch. Consistent messaging and reevaluating positioning over time are also important.
 
- Here is a summary:
+ 
 
 The CIO was excited to show off a small appliance he had purchased from a startup, pointing out its "cool purple lights" - something different from the racks of non-descript server hardware from big companies. Within a year, all companies selling bundled hardware and software started packaging their products in stylish server boxes and talking about "design", showing how this startup had influenced the industry through its innovative design and presentation of technology. 
 

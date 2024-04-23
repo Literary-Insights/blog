@@ -38,7 +38,7 @@ BOOK LINK:
 
 - The summary focuses on how the performer introduces himself and his claimed abilities, and provides a sense of the exciting, entertaining nature of one of his shows through describing the opening scene and initial demonstrations.
 
- Here is a summary:
+ 
 
 - The passage describes a performance by Israeli mentalist Lior Suchard. He engages in banter with a volunteer from the audience, Shirley, pretending to read her mind. 
 
@@ -54,7 +54,7 @@ BOOK LINK:
 
 - In summary, the passage describes a performance of mentalism tricks and promises to share secrets about developing mental abilities through dedicated practice and understanding of psychology.
 
- Here is a summary:
+ 
 
 - The writer enjoyed exploring, climbing, and imagining as a child. They would often forget or lose their house keys, so they learned to break into their house by climbing a tree and jumping onto their bedroom window ledge. 
 
@@ -68,7 +68,7 @@ BOOK LINK:
 
 - Their mentalism skills became their career path and passion. They continue performing number guessing acts around the world today.
 
- Here is a summary:
+ 
 
 The passage describes the narrator's journey from a shy boy to a confident performer and mentalist. As a child, he was fascinated by Superman and felt most confident when performing magic tricks. He began doing shows for friends and local events from a young age. 
 
@@ -78,7 +78,7 @@ In school, the narrator excelled in math and sciences but struggled in other sub
 
 After high school and mandatory military service, the narrator was fully committed to pursuing a career as a mentalist. He got a manager and worked tirelessly to perform anywhere possible. The passage suggests he was successful in achieving his childhood dream of becoming one of the best mentalists in the world.
 
- Here is a summary:
+ 
 
 - The author was invited to perform at a private party in Israel. While there, he was asked to help with marketing for a new cell phone being launched by the host, who owned a large telecommunications company. 
 
@@ -94,7 +94,7 @@ After high school and mandatory military service, the narrator was fully committ
 
 So in summary, a chance request to help promote a new cell phone at a party launched the author into a new career in marketing products through entertaining performances at trade shows.
 
- Here is a summary:
+ 
 
 - The passage discusses the idea of a "sixth sense" and how the author believes they have developed certain mental skills and abilities through focused practice. 
 
@@ -136,7 +136,7 @@ So in summary, a chance request to help promote a new cell phone at a party laun
 
 - The shortcut that leads us wrong is assuming our first perceptions are correct, without conscious thought or verification. We must tell our minds who is in charge to avoid being misled.
 
- Here is a summary:
+ 
 
 The section discusses techniques of persuasion and influence used in mentalism performances. It describes doing an "open prediction" where the mentalist predicts something that hasn't happened yet, like predicting the word a talk show host will choose. The mentalist claims this works through influencing or persuading the future, rather than reading it. 
 
@@ -144,7 +144,7 @@ It discusses getting audiences to like the performer and feel an emotional conne
 
 Examples are given of influencing people to think of the same number through priming or interruption. Visual illusions are used to demonstrate how expectations can be shaped. The ability to persuade is discussed as an important mentalist skill, though the exact methods are difficult to analyze step-by-step. The goal is to give a sense of basic persuasive elements used in performances.
 
- Here is a summary:
+ 
 
 - Mirroring is unconsciously copying another person's body language, facial expressions, words, etc. It creates a sense of connection and liking between people. 
 
@@ -188,7 +188,7 @@ The key message is that mentalists can gain insights into people's minds through
 
 In summary, certain linguistic framing techniques can subtly influence emotions and decision-making in a way that bypasses logical objections and makes people more open to persuasion. Timing words well is an effective soft persuasion strategy.
 
- Here is a summary:
+ 
 
 - The passage discusses persuasive techniques for influencing others, like using the principles of relative value and relative size to make less desirable options seem more reasonable by comparison. 
 
@@ -228,7 +228,7 @@ In summary, certain linguistic framing techniques can subtly influence emotions 
 
 The key message is that the performer is able to perform mentalism tricks and demonstrations through harnessing and directing their "chi energy" or life force energy, both internally and to influence external objects and other people, aided by the positive energy from engaging audiences.
 
- Here is a summary:
+ 
 
 The performer draws energy from interacting with audiences during shows. This leaves them feeling very energized and creative afterwards, coming up with new ideas late at night. They try to leave audiences feeling positive as well. 
 
@@ -242,7 +242,7 @@ As a mentalist, they focus on breathing properly to replenish chi energy. They b
 
 They work hard to maintain a positive energy and mindset for their own performances and to connect with audiences. Laughter is contagious but they try to balance humor with serious mental acts that require focus and energy levels. Overall, their goal is energizing audiences and encouraging positive thinking.
 
- Here is a summary:
+ 
 
 - The performer needs to maintain a careful level of energy and engagement from the audience during a show. Unexpected events like cell phones ringing can disrupt the flow. 
 
@@ -256,7 +256,7 @@ They work hard to maintain a positive energy and mindset for their own performan
 
 - Research suggests humans have an innate optimism bias hardwired in the brain. The performer discusses strategies like changing one's language, body language and facial expressions to consciously shift thoughts in a positive direction.
 
- Here is a summary:
+ 
 
 - Serotonin and other "happy hormones" get boosted when we have a positive mindset. This results from higher activity in the left prefrontal cortex of the brain, which handles positive emotions like optimism. 
 
@@ -286,7 +286,7 @@ They work hard to maintain a positive energy and mindset for their own performan
 
 - In the end, the passage shifts to discussing how the author has been hired to use their mentalist skills to give feedback on people in business meetings by intuiting things about them.
 
- Here is a summary:
+ 
 
 The passage describes a mentalist and their process for using intuition. They are hired to assess business proposals by reading the people making the presentations. 
 
@@ -296,7 +296,7 @@ The mentalist believes intuition comes from carefully processing information wit
 
 Developing one's intuition requires believing in it, meditating, being open-minded, questioning decisions, listening to one's body, noting when intuition is correct, and being patient. The mentalist sometimes changes performances based on new intuitive insights about skeptics or spectators.
 
- Here is a summary:
+ 
 
 The passage describes how the mentalist uses intuition both in their performances and personal decisions. As a new mentalist, they learned to first confirm guesses with guests to avoid appearing wrong. Over time, they developed skills to use intuition to determine who would be honest and strategic in interactions. 
 
@@ -306,7 +306,7 @@ The mentalist believes intuition improves with practice. They provide exercises 
 
 In the final story, during a performance the mentalist has a participant hold a bill and scroll without touching either. Through intuition, the mentalist correctly wrote the participant's bill serial number on the scroll beforehand, amazing the audience.
 
- Here is a summary:
+ 
 
 - The mentalist was driving to a private performance when he had a series of mishaps like missing an appointment and losing his hotel key. 
 
@@ -320,7 +320,7 @@ In the final story, during a performance the mentalist has a participant hold a 
 
 - The story illustrates how focused thinking allows us to use our full mental abilities, while lack of focus results in only partial brain engagement and potential mistakes.
 
- Here is a summary:
+ 
 
 The author tried to get a document stamped but noticed the expiration date of 2006 was before the issuing date of 2007. When he pointed this out to the woman checking the document, she refused to acknowledge there was an error and wouldn't explain the discrepancy. 
 
@@ -334,7 +334,7 @@ The author believes continuously learning new skills and practicing routines hel
 
 The paragraph discusses using memory techniques like the Peg System to help remember lists. It explains how the Peg System works - you first memorize "peg words" like gun, shoe, tree, etc. and associate each item on your list with a peg word to create a vivid mental picture. For example, to remember notepad, pencil, spoon, you could imagine shooting a notepad with a gun, pencils pouring out of a shoe, and spoons raining from a tree. By creating exaggerated mental images that combine each item with its peg word, it helps you remember the items on the list. The technique works because it creates strong associations in your memory.
 
- Here is a summary:
+ 
 
 - The passage discusses how the two hemispheres of the brain (left and right) work together to interpret complex social and emotional situations. 
 
@@ -350,7 +350,7 @@ The paragraph discusses using memory techniques like the Peg System to help reme
 
 - Developing whole-brain thinking allows for more flexible, creative problem solving in complex real-world scenarios.
 
- Here is a summary:
+ 
 
 The passage discusses the importance of whole-brain or creative thinking in problem-solving and innovation. It argues that relying solely on logical, analytical left-brain thinking is no longer sufficient. Companies now need employees who can tap into both logical and creative/artistic right-brain skills. 
 
@@ -358,7 +358,7 @@ Some examples provided include how tech companies like Apple and Google delibera
 
 Overall, the passage advocates developing skills associated with both hemispheres of the brain to come up with novel solutions, seize new opportunities, and thrive in today's business environment which values innovation and inventiveness in addition to analysis. Fostering a culture where whole-brain thinking is supported seems key to success according to the examples.
 
- Here is a summary:
+ 
 
 - Scientists receive grants between $10,000 to $100,000 from a funding organization. 
 
@@ -366,6 +366,6 @@ Overall, the passage advocates developing skills associated with both hemisphere
 
 - This gives the scientists more resources to further their work and take on new projects. The funding is meant to support scientific innovation and progress.
 
- Here is a summary:
+ 
 
 The passage describes a performance by a mentalist that amazed and wowed the audience. Faces in the crowd were laughing, talking excitedly and expressing disbelief at what they were witnessing. People were shouting things like "no, that's impossible!" and repeating "oh my god" over and over in astonishment. Everyone was shaking their heads in disbelief and asking how the performer did what they just saw. The positive energy from the audience was radiating from their expressions and reactions. The passage notes the performer is happy about eliciting this response, as using persuasion and amazement is what they do. It says now that the audience has experienced a sample of the performer's abilities through this, they too can see they have some of the same mind reading skills. The piece is signed off by the performer, saying to always think happy thoughts.

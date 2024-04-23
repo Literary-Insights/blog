@@ -372,7 +372,7 @@ So in summary, the Genesis story parallels scientific views on how human intelli
 
 - IQ tests also exhibit some bias toward left hemisphere skills. Overall, the evidence points to a long evolutionary struggle that led to the dominance of the left hemisphere and right hand.
 
- Here is a summary:
+ 
 
 The preference for using the right hand over the left is not directly connected to speech centers being located in the left hemisphere of the brain. However, handedness is linked to brain lateralization more broadly. Left-handers may have some differences in left vs right hemisphere functions, like language vs creativity, though the data is mixed. There is some evidence for a genetic bias towards right-handedness. 
 
@@ -444,7 +444,7 @@ Blood evokes different reactions depending on cognitive processing. An instincti
 
 - Computer graphics and visualization technologies are enabling new forms of learning, especially for improving spatial reasoning skills.
 
- Here is a summary:
+ 
 
 The passage discusses the educational potential of computer graphics and interactive computer programs. It provides examples of computer games like Pong and Space War that help develop intuitive understanding of physics concepts. Other interactive programs allow personalized learning and experience applying concepts in subjects like statistics and economics. The author argues these programs can give students, even young children, hands-on experience that complements traditional classroom learning. They allow exploration and play with concepts in engaging ways. The author believes widespread availability of interactive computer programs in schools and homes could play an important role in improving science literacy and technological understanding among the general public. This could contribute to the continuation of our civilization, given society's profound influence by science and technology. The only objection is that calculators and computers may hinder development of mental calculation skills. But the author argues the benefits far outweigh this concern.
 

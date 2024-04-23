@@ -50,7 +50,7 @@ BOOK LINK:
 
 So in summary, positive psychology is interested in understanding positive emotions, their causes and impacts, as well as virtues that can facilitate deeper and more lasting well-being beyond momentary pleasure.
 
- Here is a summary:
+ 
 
 The passage discusses ending experiences and how they color our overall memory and willingness to repeat experiences. It notes that while an added final minute may increase total discomfort, it adds a more positive ending that makes the overall memory rosier. 
 
@@ -118,7 +118,7 @@ So in summary, based on available data and averages, most people spend over half
 
 So in summary, the passage describes how Marty's conversations with Ray Fowler and his daughter led him to envision a new approach to psychology focused on human strength and thriving, which became his mission to develop.
 
- Here is a summary:
+ 
 
 Evolution endowed us with emotional states like fear, sadness, and anger that strongly motivate our behaviors for survival purposes. Negative emotions like fear signal danger and trigger fight or flight responses. Sadness signals loss and leads to disengagement behaviors. Anger signals trespassing and mobilizes us to defend ourselves. 
 
@@ -132,7 +132,7 @@ Positive emotions also motivate approach behaviors that are beneficial for survi
 
 So in summary, the passage discusses how both positive and negative emotions evolved to strongly motivate survival-related behaviors, despite negative emotions traditionally receiving more attention from an evolutionary perspective. A person's level of positive/negative affectivity is also influenced by genetic factors.
 
- Here is a summary:
+ 
 
 The story is about a man who found ebullience and extroverted warmth very attractive in women. However, in his culture these traits were not highly valued. A decade ago, he asked the author for advice. The author suggested he move to Europe, where those traits are more appreciated. He took the advice and is now happily married to a European woman. 
 
@@ -156,7 +156,7 @@ The key positive affect terms in the passage are: enthusiastic, active, proud. T
 
 - Happy people tend to be more altruistic, empathetic and willing to help others according to studies. A positive mood makes people less self-focused and wanting to share good fortune.
 
- Here is a summary:
+ 
 
 - Our level of happiness (H) depends on our set range (S), circumstances (C), and voluntary factors under our control (V). 
 
@@ -220,7 +220,7 @@ In summary, while circumstances and wealth influence happiness, their effects ar
 
 - Deterministic views from Darwin, Marx, and Freud suggested our past, genes, class, etc. determine our future. But evidence suggests childhood events may be overrated in predicting adult lives. Thoughts and interpretations about the past have more influence than past events themselves.
 
- Here is a summary:
+ 
 
 - The passage argues that many psychologists and researchers have believed that childhood experiences have a major impact on adult development and personality. However, numerous large-scale studies have found little evidence to support this. 
 
@@ -232,7 +232,7 @@ In summary, while circumstances and wealth influence happiness, their effects ar
 
 - Moving past dwelling on the past and blaming events removes this sense of being imprisoned by one's history. The passage aims to be liberating by showing childhood impacts are smaller than commonly believed. People should not view their past as determining their future.
 
- Here is a summary:
+ 
 
 - Men tend to score lower than women on feelings of serenity, contentment and satisfaction. Older people also score higher than younger people on these measures. 
 
@@ -244,7 +244,7 @@ In summary, while circumstances and wealth influence happiness, their effects ar
 
 - How people feel about the past depends on their memories. Forgiveness, rewriting history through forgiveness, and suppressing bad memories can lessen their power to cause bitterness and increase feelings of satisfaction. Leaders like Mandela and Gowon tried to curb endless retaliation and move divided societies toward reconciliation.
 
- Here is a summary:
+ 
 
 forgiveness is meant as a gift to the transgressor. As Worthington
 
@@ -324,7 +324,7 @@ become a lasting habit. gain perspective on one's overall well-being over time.
 
 - By disputing our own thoughts using rational arguments rather than just trying to force positive thinking, we can learn to have a more accurate view of situations and avoid getting stuck in patterns of pessimism and negative self-talk.
 
- Here is a summary:
+ 
 
 - The passage discusses two types of happiness in the present - pleasures and gratifications. 
 
@@ -358,7 +358,7 @@ Sharing experiences with others enhances pleasure and prevents habituation. Buil
 
 - The piece distinguishes between pleasures, which produce raw feelings of enjoyment, and gratifications, which involve total absorption and flow rather than emotions. Gratifications are key to a deeply fulfilling life even without much positive affect.
 
- Here is a summary:
+ 
 
 - Mihaly Csikszentmihalyi is a renowned Hungarian-American psychologist known for his research on flow, or optimal experience. He studied what allowed some people to thrive even amid adversity after World War 2 in Italy. 
 
@@ -372,7 +372,7 @@ Sharing experiences with others enhances pleasure and prevents habituation. Buil
 
 - Csikszentmihalyi's research illuminated gratification as involving right action and virtue rather than just pleasure or emotions. It requires activities done for their own sake with noble purpose.
 
- Here is a summary:
+ 
 
 - Researchers had participants wear pagers and record what they were doing, thinking, feeling, and their level of engagement when beeped at random times throughout the day. Over a million data points were collected from thousands of people. 
 
@@ -402,7 +402,7 @@ Sharing experiences with others enhances pleasure and prevents habituation. Buil
 
 - The concepts of character and virtue were reframed in lighter, more scientific terms like "personality" but did not fully disappear as descriptors of human phenomena.
 
- Here is a summary:
+ 
 
 - The authors analyzed over 200 virtues catalogs from various religious/philosophical traditions spanning 3000 years from around the world. 
 
@@ -540,7 +540,7 @@ A doctor ushered his friend George into his study to show him a collection of le
 
 While average income in the United States has risen 16% over the past 30 years, the percentage of people describing themselves as "very happy" has fallen from 36% to 29%. This suggests that higher incomes do not necessarily translate to greater life satisfaction and happiness. Non-monetary factors like having a sense of purpose and using one's strengths at work may be stronger drivers of well-being and job fulfillment. Some trends indicate that personal satisfaction is becoming increasingly important to employees when choosing jobs and careers, leading to a potential shift away from work being solely defined and motivated by financial reward.
 
- Here is a summary:
+ 
 
 The summary discusses how jobs can be seen either as just a job to earn money, as a career to pursue a field of work, or as a calling that makes a positive impact. It explores how workers in various professions like cleaning, hairdressing, nursing, cooking, and social work have "recrafted" their jobs into callings by focusing on relationships, creativity, and serving others. 
 
@@ -548,7 +548,7 @@ Seeing one's work as a calling means using your strengths each day to contribute
 
 Overall, the summary discusses the difference between jobs, careers and callings, and how intentionally crafting one's work to use strengths and serve others can turn any job into a personally meaningful calling.
 
- Here is a summary:
+ 
 
 The passage discusses life choices around careers and relationships. It notes that today, many more young people continue their education after high school and have more choices about careers, which are often centered around vocational fields like business. Career choices were traditionally inherited from parents, but now people have more freedom and mobility. 
 
@@ -568,7 +568,7 @@ Positive psychology research finds lawyers experience high rates of depression, 
 
 - To counter unhappiness, lawyers can work on disputing catastrophic thoughts to be more optimistic in their personal lives while maintaining pragmatism professionally. They can also seek more autonomy and opportunities to utilize individual strengths at work.
 
- Here is a summary:
+ 
 
 - Flexible optimism can be taught in a group setting like a law firm or class. If firms and schools are willing to experiment, utilizing signature strengths and optimistic mindsets could boost the performance and morale of young lawyers. 
 
@@ -682,7 +682,7 @@ Positive psychology research finds lawyers experience high rates of depression, 
 
 - The key is creating a positive emotional atmosphere through unconditional love, clear limits, safety cues, conditional praise for accomplishments, and ensuring children have access to plenty of good experiences and attention from parents. This overall positive approach is suggested to be more effective than just trying to eliminate bad behaviors.
 
- Here is a summary:
+ 
 
 - Sibling rivalry is a natural phenomenon that arises when a child feels their sense of importance, trust, or special status is threatened, such as by the arrival of a new sibling. Parents can help combat sibling rivalry by making all children feel valued, praised, and needed. 
 

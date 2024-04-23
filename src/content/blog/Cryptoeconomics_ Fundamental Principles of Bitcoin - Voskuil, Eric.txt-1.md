@@ -34,7 +34,7 @@ BOOK LINK:
 
 So in summary, it outlines and explores the cryptoeconomic principles, properties, risks and tradeoffs involved in Bitcoin and digital currencies through analyzing a wide range of related topics. The focus is on understanding Bitcoin's economics rather than just its technical design.
 
- Here is a summary:
+ 
 
 - Cryptoeconomics applies economic principles rigorously to analyze cryptocurrencies like Bitcoin, hoping to improve understanding of both. It aims to expose flaws in common understandings and simplify complex concepts. 
 
@@ -76,7 +76,7 @@ So in summary, it outlines and explores the cryptoeconomic principles, propertie
 
 In summary, educed pooling refers to the emergent consensus process in Bitcoin where validity is judged implicitly through ongoing economic activity, rather than requiring explicit agreement from a predefined group of validators. The security comes from the size and breadth of the overall economy.
 
- Here is a summary:
+ 
 
 - Bitcoin operates without permission from any state as a decentralized system. However, states may attempt to suppress it through censorship since it undermine their control and taxation of currency. 
 
@@ -94,7 +94,7 @@ In summary, educed pooling refers to the emergent consensus process in Bitcoin w
 
 - Private keys secure individual units of bitcoin, not the system as a whole. Decentralized validation secures the overall consensus, even if some private keys are stolen.
 
- Here is a summary:
+ 
 
 - Distributed mining hash power secures transaction confirmation through proof of work, but private key security is the responsibility of individual key holders. 
 
@@ -108,7 +108,7 @@ In summary, educed pooling refers to the emergent consensus process in Bitcoin w
 
 - So in summary, while distributed hash power provides confirmation security, private keys remain the responsibility of individual users, and the ability of merchants to control miners is more limited than commonly believed due to economic and practical factors. Both decentralized mining and private key security are important for the overall security of the blockchain system.
 
- Here is a summary:
+ 
 
 - Bitcoin confirmation security depends on the number of miners and how evenly distributed the hash power is among them. The most secure/decentralized scenario is if all people in the world mined Bitcoin with equal hash power. 
 
@@ -124,7 +124,7 @@ In summary, educed pooling refers to the emergent consensus process in Bitcoin w
 
 - States may try to introduce "Fedcoin" alternatives that superficially mimic Bitcoin but preserve state controls like arbitrary inflation and transaction censorship. Resistance to such state-controlled forks is crucial for Bitcoin's continued value proposition.
 
- Here is a summary:
+ 
 
 - Rothbard argues in his book "What Has Government Done to Our Money" that inflation caused by seigniorage (money printing) leads people to prefer lower quality or less durable goods as prices rise. However, this presumption of objective value contradicts the subjective theory of value. There is no direct relationship between money supply and preferences for certain qualities in goods. 
 
@@ -140,7 +140,7 @@ In summary, educed pooling refers to the emergent consensus process in Bitcoin w
 
 - The idea that bitcoin could serve as a reserve currency while citizens use state-backed digital currencies is invalid, as it would not prevent inflation/censorship of the state-issued currency over time. For bitcoin to be secure, decentralized use by individuals is required, not just holding as a reserve.
 
- Here is a summary:
+ 
 
 - Central banks like the Federal Reserve can subsidize discounted loan rates through seigniorage, which is the profit earned from printing money. 
 
@@ -174,7 +174,7 @@ So in summary, central banks like the Fed subsidize bank lending and money creat
 
 The key ideas are critiques of common fallacies and misconceptions about the power dynamics, incentives, and economics of the Bitcoin system and mining activity.
 
- Here is a summary:
+ 
 
 The passage discusses several perceived flaws or fallacies related to proof-of-work blockchains like Bitcoin. 
 
@@ -184,7 +184,7 @@ It also argues that Bitcoin mining cannot truly become more energy efficient ove
 
 The level of security provided by proof-of-work is not actually wasted and is adjusted based on transaction demand and costs. Miners do not gain an advantage by including their own transactions since they forgo potential fees. In summary, it aims to rebut several perceived flaws or criticisms of proof-of-work blockchains.
 
- Here is a summary:
+ 
 
 - A portion of each block reward is unpaid fees. However, the actual cost to miners is the opportunity cost of what they could have earned otherwise. 
 
@@ -210,7 +210,7 @@ So in summary, the key points debated are around the impact of halvings, the rol
 
 So in summary, while side fees could affect analytics, they do not appear to undermine system security or harm other users as some theories have suggested.
 
- Here is a summary:
+ 
 
 - Bitcoin provides an on-chain fee mechanism so that transactions can compensate miners without identity, preserving privacy. If miners and merchants choose to sacrifice privacy by taking on additional tasks, that is not considered undesirable. 
 
@@ -224,7 +224,7 @@ So in summary, while side fees could affect analytics, they do not appear to und
 
 - The term "Bitcoin" is ambiguous and refers here specifically to the underlying cryptographic principles, not any particular implementation or community. Blockchains alone do not secure property claims against loss or third-party risks.
 
- Here is a summary:
+ 
 
 - The theory that immutable claims provide security against loss is invalid, as the owner must still prove ownership to the custodian, requiring secret knowledge that could still be lost. 
 
@@ -254,7 +254,7 @@ So in summary, while side fees could affect analytics, they do not appear to und
 
 - Proof-of-work provides probabilistic proof of work done, not direct proof of other claimed attributes like energy used, cost incurred or reward earned. In a competitive market, blocks imply market cost was covered, but not in a monopolistic system.
 
- Here is a summary:
+ 
 
 - Credit expansion refers to the multiplication of credit that results from fractional reserve banking and lending. It appears to create new money through bank loans, but this is sometimes seen as inflationary. 
 
@@ -268,7 +268,7 @@ So in summary, while side fees could affect analytics, they do not appear to und
 
 - True elimination of credit expansion would require eliminating credit and debt contracts altogether by only allowing equity-type investments, which is practically impossible in a modern economy. Bitcoin alone does not eliminate fractional reserve banking or credit expansion.
 
- Here is a summary:
+ 
 
 - Bank credit is presumed to be "risk-free" due to taxpayer insurance of credits like money market accounts. However, this presumption only arises due to state intervention and insurance, not from free banking itself. All businesses are subject to failure. 
 
@@ -282,7 +282,7 @@ So in summary, while side fees could affect analytics, they do not appear to und
 
 - The rate of wealth growth equals the interest rate minus the depreciation rate. All property depreciates over time. The economic depreciation rate can be derived by comparing observed interest and growth rates.
 
- Here is a summary:
+ 
 
 The passage critiques theories that claim fractional reserve banking is fraudulent or illegitimate. It argues that banks legitimately lend deposited funds, even demand deposits, as long as it is done voluntarily through contractual agreement. 
 
@@ -302,7 +302,7 @@ The key points made are:
 
 So in summary, the passage rejects theories that claim fractional reserve banking is inherently fraudulent or illegitimate on various conceptual and economic grounds.
 
- Here is a summary:
+ 
 
 - The theory that banks can only lend against fully-insured deposits is invalid, as full insurance makes lending economically equivalent to no lending at all. Insurance is only possible through taxpayer subsidies. 
 
@@ -314,7 +314,7 @@ So in summary, the passage rejects theories that claim fractional reserve bankin
 
 - Mises and others made errors in applying the valid Cantillon Effect of monopoly money seigniorage to theories of market money production. Their deductions become inconsistent and contradict the underlying money relation of supply and demand.
 
- Here is a summary:
+ 
 
 - Increased demand for goods results from money being dishoarded (traded for goods instead of being hoarded). Unlike mining, dishoarding does not create new money but transfers it from hoarders to early spenders who obtain higher exchange value. 
 
@@ -324,7 +324,7 @@ So in summary, the passage rejects theories that claim fractional reserve bankin
 
 - The value of commodity money also depends on production costs remaining constant. Changes in those costs would imply price increases/decreases not accounted for in the money relation, constituting speculative error.
 
- Here is a summary:
+ 
 
 The concept of a Pure Bank is used to demonstrate general lending behavior. A Pure Bank only borrows money, lends money, and hoards money as a reserve. It operates without state intervention or costs. 
 
@@ -339,7 +339,7 @@ Real banks differ from Pure Banks in having operational expenses that reduce ret
 
 The individual time preference that determines each person's capital ratio collectively sets the market interest rate through supply and demand for loanable funds in the economy. The interest rate represents the price premium of present goods over future goods.
 
- Here is a summary:
+ 
 
 - Interest or the price of time is determined by individual time preferences - how individuals value present vs future consumption of their savings. 
 
@@ -369,7 +369,7 @@ The individual time preference that determines each person's capital ratio colle
 
 - In summary, hoarding incurs opportunity costs while also being a necessary response to uncertainty about the future. Time preference expresses the balance between current vs future consumption/production based on this dynamic.
 
- Here is a summary:
+ 
 
 - There is a theory that modern fiat currency like the US dollar is not actually money, but rather a "money substitute" or debt owed by the government. The theory argues the currency represents a claim on future tax revenues or obligations owed to the government. 
 
@@ -381,7 +381,7 @@ The individual time preference that determines each person's capital ratio colle
 
 - In summary, fiat currency cannot be accurately characterized as a "debt loop" or money substitute. It functions as money itself once established as legal tender by the government. The theory presented is invalid due to misunderstandings about the nature of money and money substitutes.
 
- Here is a summary:
+ 
 
 - The term "Federal Reserve Note" on the U.S. dollar is anachronistic since the dollar is no longer redeemable for anything. 
 
@@ -399,7 +399,7 @@ The individual time preference that determines each person's capital ratio colle
 
 - Fiat money has no inherent use value, only utility because people accept it. Representative money is actually a money substitute as it represents something else.
 
- Here is a summary:
+ 
 
 - The US dollar is a fiat currency, which means it has no intrinsic value and derives its value from government decree. Bitcoin is also a fiat currency in this sense, as it has no intrinsic value but derives value from agreement on its use as a medium of exchange. 
 
@@ -411,7 +411,7 @@ The individual time preference that determines each person's capital ratio colle
 
 - The concept of a "risk-free rate of return" through lending Bitcoin while enforcing return of principal is invalid, as the loaned coins would have no value to the borrower due to guaranteed return to lender. True lending requires transfer of value.
 
- Here is a summary:
+ 
 
 - There is a theory that fractional reserve banking inherently allows banks to create money "out of thin air" at no cost through credit creation. Supporters claim this is a consequence of banking accounting practices. 
 
@@ -423,7 +423,7 @@ The individual time preference that determines each person's capital ratio colle
 
 - Therefore, the theory that fractional reserve banking allows creation of money out of thin air is invalidated. All lending, whether personal or banking, involves existing money and credit backed by savings. The debate about money creation is resolved.
 
- Here is a summary:
+ 
 
 - The debate between Plato and Aristotle regarding whether money is based on mining or credit is a false dichotomy, as money and credit are inherently dual concepts. 
 

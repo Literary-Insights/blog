@@ -21,7 +21,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 The key themes are the single-minded intensity and focus required for programming, the desire to avoid normal human schedules and responsibilities, and the appeal of low-level work close to the machine. The reflections give insight into why programming can be such an alluring and even addictive activity for some.
 
- Here is a summary:
+ 
 
 - According to the author, programmers and software engineers are valued more highly if their work is obscure and incomprehensible to most people. Code that is highly complex and low-level, like assembly language, is seen as more prestigious than code that is easier to understand.
 
@@ -35,7 +35,7 @@ The key themes are the single-minded intensity and focus required for programmin
 
 - In summary, the culture values and rewards programmers and engineers who are as incomprehensible and detached from normal human concerns as possible. The more “low-level” and obscure the work, the higher the status in this culture. Eccentricity and boorishness are seen as marks of a “real techie.” Diversity declines the closer one gets to the machine.
 
- Here is a summary:
+ 
 
 The narrator grew up next door to Eugene, an overweight ham radio operator who spent his evenings alone in the basement communicating with strangers over the radio. Eugene’s elaborate rooftop antenna cast an “electronic shadow” over the narrator’s house, allowing the narrator to overhear Eugene’s radio conversations on Saturday nights. The narrator describes hearing Eugene’s voice through the television set when Eugene’s radio signal would override the TV signal, replacing the picture with loud static and oscillating wave patterns. The narrator came to associate these electronic sounds and images with Eugene’s presence.
 
@@ -49,7 +49,7 @@ She connects to her email and finds a message from Karl, a colleague she works w
 
 In summary, the passage uses the memory of Eugene, the lonely amateur radio operator from the narrator's childhood, as a metaphor for the kind of technological connection and relationships she now has as an adult. Her brief late-night email exchange with Karl makes her realize they share this kind of lonely connection through technology, even as she remains unsure of who he really is behind his distant electronic persona. The passage suggests technology both enables human connection across distances but also obscures intimacy through the different personas we construct online.
 
- Here is a summary:
+ 
 
 - The author was a contractor hired to work with a team on a computing project. The team communicated extensively through an email system with multiple aliases that made it hard to know exactly who recipients were.
 
@@ -91,7 +91,7 @@ Overall, the passage explores how relationships can form and develop via online 
 
 - The author reflects that modern systems like Windows NT have “absorbed into themselves as many complications as possible” in order to seem easy to users, but this façade comes at the cost of distancing programmers from a real understanding of the systems. The open-source model avoids this problem.
 
- Here is a summary:
+ 
 
 - The author wanted to get rid of Windows NT on their computer and install Linux. This proved difficult and time-consuming. After many hours of searching through disks and trying various methods, they were finally able to uninstall Windows NT.
 
@@ -103,7 +103,7 @@ Overall, the passage explores how relationships can form and develop via online 
 
 - Overall, the experience revealed the PC as a palimpsest, built on layers of older technologies, and gave the author an appreciation for the control and simplicity of Linux in contrast with the authoritative and opaque nature of Windows.
 
- Here is a summary:
+ 
 
 - The passage discusses how modern programming tools like visual development environments, wizards, and code generators make programming easier by hiding complexity and automating code generation. However, this convenience comes at the cost of programmers not fully understanding the systems they are building. 
 - The author argues that while these tools increase productivity and allow programmers to build more complicated systems, they risk programmers becoming unable to debug or modify these systems when issues arise because they do not fully understand how they work under the hood. Programmers become reliant on the tools and unable to program without them.
@@ -114,7 +114,7 @@ Overall, the passage explores how relationships can form and develop via online 
 
 In summary, the key ideas are that visual programming tools and code generation sacrifice a deep understanding of systems for convenience and productivity; knowledge embedded in computer code can become opaque over time; and Linux represents a return to programming where engineers work with and understand code and systems at a low level.
 
- Here is a summary:
+ 
 
 - The speaker attended an event at Cisco Systems campus in San Jose. The room could seat 200 but was crowded with over twice that number to hear Linus Torvalds, the creator of Linux, speak. 
 
@@ -130,7 +130,7 @@ In summary, the key ideas are that visual programming tools and code generation 
 
 - The term "millennium bug" is a misnomer. Y2K was not happening at the turn of the millennium, and storing years as two digits was an intentional design choice, not a bug. It saved limited resources. Still, the turn of a century stirs apocalyptic fears, even regarding our "secular higher power," digital technology.
 
- Here is a summary:
+ 
 
 - Early computer programs were designed to represent years using two digits to save space, since memory and storage were limited. This convention continued even as technology improved and space constraints were alleviated. 
 - The year 2000 problem (Y2K) arises from this two-digit year convention. When the year changes from 1999 to 2000, the year will be represented as 00, which will be interpreted as 1900 by systems that use two-digit years. This can cause date-related errors and system crashes.
@@ -139,7 +139,7 @@ In summary, the key ideas are that visual programming tools and code generation 
 - The author reflects on the scale of the Y2K problem, considering the huge numbers of computers, programs, and lines of code that will be affected. Even a small proportion of failures could be hugely disruptive. The example code shows how a basic date comparison could cause a system to crash at the turn of the millennium.
 - In summary, the year 2000 problem stems from the outdated convention of representing years with two digits. Fixing this issue requires a massive, complex effort to review and update systems and software spanning many decades. Despite some progress, there are widespread concerns about potential technology failures at the start of the year 2000.
 
- Here is a summary:
+ 
 
 - The passage describes attending a conference on the Y2K computer problem in the year 1999. The keynote speaker blames programmers for not anticipating the Y2K issue, but the author argues that technology progresses in steps based on human desires and limitations, and programmers have to work within those constraints. 
 
@@ -151,7 +151,7 @@ In summary, the key ideas are that visual programming tools and code generation 
 
 - The overall perspective is that Y2K is a serious technical challenge, but the blame does not lie solely with programmers. Technology develops based on human demand and ingenuity, within the constraints of the current infrastructure and knowledge. Fixing the Y2K issue requires understanding these complex, embedded systems built up over decades. Simple fixes may work as temporary solutions, but comprehensive solutions take enormous effort.
 
- Here is a summary:
+ 
 
 The passage describes a test of a remote terminal unit (RTU) that monitors the flow rate of oil through pipelines. The test reveals that the RTU has a Y2K bug that causes it to malfunction at midnight on January 1, 2000, displaying incorrect dates and becoming unable to send data to the supervisory control and data acquisition (SCADA) system. 
 
@@ -163,7 +163,7 @@ The passage ends on December 31, 1999, with the author hosting a New Year’s Ev
 
 In summary, the passage recounts both optimistic and worrisome perspectives about Y2K at the turn of the millennium. Testing reveals potentially serious technological issues, but hard work appears to have limited major failures even as some expectations of disaster prove overblown. The transition to 2000 ultimately passes without the dreaded societal meltdowns that some had feared.
 
- Here is a summary:
+ 
 
 The author recounts an experience of watching two young boys try to describe playing a video game together, and finding that their experiences were so private and confusing that they couldn’t communicate effectively about it. She compares this to her experience helping two clients use the early World Wide Web for the first time in 1995, and finding that they had a similar inability to convey their experiences to each other in a coherent way. 
 
@@ -175,7 +175,7 @@ In her view, the ideas in technology spread into the wider culture. She worries 
 
 So in summary, the author traces her early optimism about the web, followed by growing concern over its commercialization and the concept of disintermediation. She worries about the web isolating individuals and altering reality through the elimination of intermediaries in an increasingly market-dominated world.
 
- Here is a summary:
+ 
 
 - The web did not cause the trend of disintermediation, or the elimination of middlemen in commerce. However, it enabled and accelerated this trend by making it easy for companies and consumers to cut out intermediaries. 
 
@@ -199,7 +199,7 @@ When the bar closes, the area becomes deserted, showing how San Francisco really
 
 The passage highlights the contrast between the frenetic energy, ambition and optimism of the era during the day and at night in bars and the empty, quiet darkness of the streets when all has shut down. It captures a moment in time when San Francisco was the center of the dot-com revolution and the dreams of its young inhabitants to make fortunes and change the world through technology.
 
- Here is a summary:
+ 
 
 - The narrator lives in San Francisco's South of Market (SOMA) neighborhood, where there is a lot of construction and digging up of the streets going on. The neighborhood is transforming rapidly, with many internet startups moving into old factories and warehouses. 
 - There are remnants of SOMA's industrial past, like a lithography factory, a sewing sweatshop, and a union hall. But they are disappearing as the startups take over. The skyline is filled with cranes, indicating rapid building. The narrator feels walled in by the new construction.
@@ -210,7 +210,7 @@ The passage highlights the contrast between the frenetic energy, ambition and op
 
 The key themes are the rapid transformation and tech dominance of SOMA, the disruptive impact of that change, and the narrator's complex reaction to being offered an opportunity that she feels unprepared for, at the center of that change. Overall, it seems a commentary on the culture of ambition and constant progress in Silicon Valley.
 
- Here is a summary:
+ 
 
 - The author attends the Computers, Freedom, and Privacy Conference in Toronto. The conference attendees are usually an eclectic mix of people, but this year the mood is subdued. The author attributes this to the lack of data privacy laws in the U.S. compared to Canada and crossing into the U.S. means losing some constitutional rights. 
 
@@ -222,7 +222,7 @@ The key themes are the rapid transformation and tech dominance of SOMA, the disr
 
 That covers the key points around the surprise, the dinner talk, Stephenson’s circles representing social structures, and the author’s interpretation. Let me know if you would like me to clarify or expand on any part of the summary.
 
- Here is a summary:
+ 
 
 - The speaker argues that cryptography alone is not enough to protect privacy and ensure security. It needs to be combined with social structures and agreements to be effective.
 
@@ -238,7 +238,7 @@ That covers the key points around the surprise, the dinner talk, Stephenson’s 
 
 - In summary, several key technologists expressed views that questioned the belief in technological solutions alone, and argued that legal, regulatory and social structures are also needed to enable privacy, security and autonomy. They suggested crypto needs a broader "sociopolitical context" to be effective.
 
- Here is a summary:
+ 
 
 - Twenty-four years ago, the author attended a conference and noticed the absence of major tech companies and investors. Despite discussions about the future of the web, they did not have much influence compared to large tech companies and venture capitalists. 
 
@@ -250,7 +250,7 @@ That covers the key points around the surprise, the dinner talk, Stephenson’s 
 
 - The Nasdaq index rose steadily from 1995 to 1998, reflecting enthusiasm for tech stocks, but the rise was not yet irrational. There were real reasons for tech companies to be valued, but this would change.
 
- Here is a summary:
+ 
 
 - The widespread adoption of graphical web browsers in the 1990s, especially Internet Explorer, drove the rise of the web by making it accessible to millions of ordinary people. This ignited an explosion in e-commerce and new internet startups. 
 
@@ -266,7 +266,7 @@ That covers the key points around the surprise, the dinner talk, Stephenson’s 
 
 The key factors in the rise and fall of the dot-com bubble were: the widespread adoption of web browsers, cheap money from the Fed, hype and irrational exuberance around internet stocks, the belief that profits didn’t matter, and the dynamics of a parabolic market rise and crash. The biggest losers were middle-class investors, while venture capitalists and startup insiders often made out well.
 
- Here is a summary:
+ 
 
 - In 2002, computer scientists met to discuss how to distinguish humans from software robots or “bots” in electronic communications. Though seemingly trivial, this problem reflects deeper questions about what separates humans from machines. 
 
@@ -316,7 +316,7 @@ In summary, the debate about what makes us human continues in philosophy and sci
 
 • Even proponents of emergence recognize its limits in explaining human intelligence. Computational metaphors for the mind and evolution may not adequately capture the essence of human sentience. There are aspects of human experience that emerge in a profound way, not just from interactions, but from consciousness itself.
 
- Here is a summary:
+ 
 
 1. Artificial life (ALife) research aims to create synthetic biology and life "in principle" by simulating the lowest-level interactions that produce life. However, there is a problem of determining what level of interactions must be simulated - cells, molecules, atoms, elementary particles? This raises the question of the "bottom of physics" - how deep must we go to understand and create life.
 
@@ -332,7 +332,7 @@ In summary, the debate about what makes us human continues in philosophy and sci
 
 That covers the key points on ALife research, its problems in determining what level of interaction to simulate, its disregard for the human body, and why that stance is limiting. The summary argues that intelligence and life cannot be disembodied or separated from their biological purposes and origins. Please let me know if you would like me to clarify or expand on any part of the summary.
 
- Here is a summary:
+ 
 
 - Sentience arises from our biological embodiment as mammals, not from something separable like machines or software. Our intelligence is fundamentally shaped by the details of our mammalian bodies and brains. 
 
@@ -344,7 +344,7 @@ That covers the key points on ALife research, its problems in determining what l
 
 - In summary, sentience arises from our embodied existence as social mammals, not from a separable mind or logical reasoning system. Emotions are essential to intelligence, not opposed to it. And rich emotional interchange begins at a very basic biological level.
 
- Here is a summary:
+ 
 
 The researchers working on social and emotional intelligence in robots realize they have a long way to go to achieve human-level abilities. They have hit upon many unsolved questions about learning, motivation, personality, and consciousness that they don’t fully understand. The biggest challenge is understanding consciousness and the sense of self. 
 
@@ -354,7 +354,7 @@ The author argues that a sense of self is critical for social creatures. While h
 
 Simulating a creature with a sense of self and identity would be extremely difficult, like simulating a complex system such as the weather. While simulations can do a reasonably good job in the short term, the complexity involved in simulating a self over a long period of time may prove too great. The researchers have a long way to go to achieve human-level social and emotional intelligence in robots. A sense of identity and mutual recognition seem to be key missing pieces that would be hard to program.
 
- Here is a summary:
+ 
 
 - The author adopts a cat named Sadie from an animal shelter. Sadie is initially two years old. 
 
@@ -374,7 +374,7 @@ Simulating a creature with a sense of self and identity would be extremely diffi
 
 The key themes are love and loss, the possibility of cross-species relationships, suffering and mortality, and gaining a sense of freedom mixed with guilt. The story explores the complex relationship between the author and her cat Sadie, especially toward the end of Sadie’s life.
 
- Here is a summary:
+ 
 
 - The author recently finished writing a book that took five years to complete. To reward herself, she decided to buy a new laptop computer, even though her old one was still functioning.
 
@@ -388,7 +388,7 @@ The key themes are love and loss, the possibility of cross-species relationships
 
 The key idea is that technology shapes our lives, relationships, and memories in complex ways. Even as new tools arrive, the old ones that have journeyed with us maintain a hold on our sense of identity and the narratives we construct about ourselves.
 
- Here is a summary:
+ 
 
 The author buys a new laptop with vastly more storage space than her old computer. When faced with transferring files from the old laptop to the new one, she is reluctant to bring everything over, as some files contain painful memories of her first marriage and divorce. She grapples with deciding what is truly necessary to transfer vs. what can be left behind.
 
@@ -396,7 +396,7 @@ She discusses how memory itself is unstable and constantly changing. Scientific 
 
 The central theme is the desire to escape the past by leaving some memories behind, but also the impossibility of truly doing so, as memory continually reshapes itself. The author grapples with managing the perpetually “present” nature of digital information and memory.
 
- Here is a summary:
+ 
 
 The author took a programming course early in her career where the instructor compared creating a computer program to baking a cake. The analogy appealed to her at the time, as she knew programming but little about cooking. Many years later, she encountered a butcher selling homemade beef filets at a gourmet market, and she bought one despite rarely cooking meat. Unsure how to prepare the filet, she turned to Julia Child’s The Art of French Cooking for guidance. 
 
@@ -404,7 +404,7 @@ Though the author had owned the cookbook for years, she had initially found its 
 
 The key distinction the author draws is between the corporeality of cooking and eating versus the disembodied nature of programming. Programming depends on abstract thinking and mathematical exactitude, divorced from physicality. In contrast, cooking, especially with meat, confronts us with the animal flesh we are preparing and consuming. The sensuality of cooking thus grounds us in our physical being in a way programming does not. Overall, the author implies that while programming and cooking can both be rigorous and formulaic acts, only the latter nourishes us in a fundamentally human way.
 
- Here is a summary:
+ 
 
 The author describes coming across a recipe for beef sautéed in a cream and mushroom sauce while reading a cookbook by Julia Child. Trying to imagine writing a computer program to produce this recipe leads the author to realize how impossibly complex such an endeavor would be. The recipe refers to many concepts—like entertaining important guests, a nice brown outside and rosy center, Stroganoff sauce, risotto, potato balls in butter—that would require a broad, culturally informed understanding to explain to a computer. 
 
@@ -429,7 +429,7 @@ The key ideas are:
 
 The summary outlines the issue of distressing thoughts, scenarios or memories becoming stuck in one's mind, though the specifics of the narrator's particular situation are still unclear at this point in the story.
 
- Here is a summary:
+ 
 
 The narrator comes across a newspaper story about a group of people born in a displaced persons camp in Bergen-Belsen after World War II. Though the story haunts the narrator, who does not understand why these people would want to commemorate such a terrible past, the narrator becomes obsessed with their story. The narrator begins imagining characters and a plot set in 1970s San Francisco, with characters who were born in Bergen-Belsen or are connected to that history in some way. 
 
@@ -439,7 +439,7 @@ The world outside fades away as the narrator immerses themselves in this story a
 
 The narrator invokes an imaginary Greek chorus, suggesting the narrator’s internal struggle and protests about the dark tale that is pursuing them. Though the narrator wants to escape thoughts of this grim story, they are compelled to continue unfolding it, even through the sinister-seeming professor character. The story seems inevitable, made up of elements from the narrator’s own life, though in a darker permutation. The story both pursues and hides from the narrator, who is in a kind of trap, experiencing a fluency in writing the tale that makes it hard to stop, despite the story’s grim and haunting nature.
 
- Here is a summary:
+ 
 
 - In 1981, the author decided she wanted experience programming mainframe computers, despite having no knowledge of how to do so. 
 - A headhunter got her an interview at a national retailing chain for a mainframe programming job, even though she lacked the required experience and technical skills. She got the interview possibly because the headhunter would get paid a lot if she was hired.
@@ -463,7 +463,7 @@ The narrator concluded that her job involved maintaining useless programs to pro
 
 So in summary, the passage describes the narrator's frustrating experience starting a new job as a programmer and discovering the work and management were incompetent and pointless.
 
- Here is a summary:
+ 
 
 The narrator faces failure and struggles in their job working on a Sales Analysis System that seems useless. They feel invisible and unfulfilled. To combat the boredom and meaninglessness, the narrator decides to work on fixing a bug in the system that has caused some sales numbers to display as zeros. 
 
@@ -471,7 +471,7 @@ Although the solution seems simple, the narrator has trouble finding and fixing 
 
 The narrator shows perseverance in the face of failure and frustration. Even when the task seemed pointless and impossible, they continued working at it. Their determination and patience eventually paid off, and they solved the problem that had stumped so many others. The moral is that persistence can lead to overcoming even the most difficult failures or setbacks. With enough grit and determination, any problem can be solved.
 
- Here is a summary:
+ 
 
 The narrator, a student at Cornell University, moves into an old farmhouse outside of Ithaca, New York, in 1970. The house has no heat, occasional hot water, and the narrator shares it with a motley group of people, including her Romantic Poetry classmate, his sister, the sister’s boyfriend, and another man. 
 
@@ -483,7 +483,7 @@ However, the narrator learns the Richards’ situation is dire. Their original f
 
 The narrator reflects that she and her housemates were like children, acting without thought of consequences. But their interactions with the Richards gave them their first understanding of true hardship and made their own struggles and discomforts in the farmhouse seem petty. The narrator moves on from the farmhouse but never forgets the kindness of Mrs. Richard’s first visit.
 
- Here is a summary:
+ 
 
 - The narrator is a 20-year-old woman who helps out at the Richards' farm. Mr. Richards is cranky and looks older than his age. Their son has an intellectual disability and cannot run the farm. 
 - The family and neighbors help the Richards with farm work as Mr. Richards’ health declines. The narrator even drives a tractor to help with haying at one point. 
@@ -498,7 +498,7 @@ The key events are:
 
 The themes are the difficulty of small family farming, the effects of technology and industry requirements on individuals, and community support for those in need.
 
- Here is a summary:
+ 
 
 - The author's father, an accountant, asked her to write a program for a variable-rate amortization schedule in 1980. Although she had just started her first programming job, she didn't know much about amortization or the client's computer system.
 
@@ -514,7 +514,7 @@ The themes are the difficulty of small family farming, the effects of technology
 
 The themes are perseverance in the face of obstacles, learning through struggle and failure, confidence in tackling the unknown, and strained relationships. The overall tone is one of hard-won triumph over self-doubt and difficult beginnings.
 
- Here is a summary:
+ 
 
 - The author found programming to be challenging but rewarding. Debugging code and fixing bugs gave her a thrill of accomplishment, like fixing a carburetor. 
 - She had a successful career as an ordinary programmer, writing code for business applications. She consulted on many projects, some successful and some not. She often felt like an imposter, aware of how much she didn’t know. But she found that many others, even highly trained engineers, felt the same way.
@@ -523,7 +523,7 @@ The themes are perseverance in the face of obstacles, learning through struggle 
 
 In summary, the author has had a long career writing code and working in technology. While personally rewarding, she worries about the influence wielded by tech companies and their largely privileged workforce. She fears the spread of algorithms and code into all aspects of life, even for those without access to technology. The words "fun" are used once in a paragraph describing errors and setbacks in programming. Overall, her view of technology seems more wary and critical than fun.
 
- Here is a summary:
+ 
 
 - The author advocates opening up knowledge about how algorithms and code work to the general public. She believes that increased technical literacy and an understanding of the biases in algorithms can help address issues created by technology. 
 
@@ -545,7 +545,7 @@ The key arguments are:
 
 The author’s perspective seems to be that achieving universal technical education will require addressing deeper issues around politics, economics, culture and access—not just providing more online courses. Simply making more technology and courses available will not necessarily promote the kind of critical, literate and civic-minded understanding that the author advocates. Overall, more work is needed to make technical knowledge accessible and relevant for people from all backgrounds.
 
- Here is a summary:
+ 
 
 The writer enrolls in an online Python programming course to observe the culture of programmers and recall her own experiences learning to code. The instructors, especially Warren and Scott Rixner, are passionate and encouraging, though their humor and references reveal a male-centric geek culture that may alienate some students.
 
@@ -557,7 +557,7 @@ The forums show students from around the world collaborating to solve problems a
 
 In summary, the writer portrays a programming culture that is often off-putting but also rewarding, especially when women and outsiders have a chance to join the conversation and community.  The online course offers an opportunity and warnings for aspiring programmers, as well as a view into why the writer continues to encourage learning to code despite facing exclusion and adversity. Programming’s pleasures, and helping others access them, make challenges worthwhile.
 
- Here is a summary:
+ 
 
 The online course "The Design and Analysis of Algorithms, Part 1" corresponds to half of a ten-week Stanford course required for a computer science degree. The instructor, Tim Roughgarden, introduces famous algorithms created over the last 50 years. Understanding them provides knowledge of core computer science and impresses employers. 
 
@@ -569,7 +569,7 @@ The online course is "in no way watered down" but has less demanding assignments
 
 The summary portrays the course as challenging yet intriguing, with a demanding instructor and high expectations but an automated grading system that likely discourages and confuses many students. The "beauty" of algorithms emerges for those who persevere, recalling and re-learning math from long ago.
 
- Here is a summary:
+ 
 
 • The author first studied algorithms and fell in love with their beauty around 5 years ago while reading Donald Knuth’s The Art of Computer Programming. The author is thrilled that Tim Roughgarden's online Coursera class allows more people to experience the beauty and creativity in algorithms. 
 
@@ -591,7 +591,7 @@ The key ideas are:
 
 4) The author hopes a class like "Programming for Everyone" may help open up opportunities in tech to more people.
 
- Here is a summary:
+ 
 
 - The author has lived in SOMA, San Francisco since 1996. At that time, it was an abandoned industrial area with some old Victorian houses. South Park, a nearby park, provided shade and escape. 
 - South Park remained largely unchanged for years after the dot-com bust of 2000-2001. It retained a wild, unkempt feel that provided respite from the developing neighborhood. 
@@ -603,7 +603,7 @@ The key ideas are:
 
 The summary condenses the key details about the changes in South Park and SOMA and the author's reaction to them, including a sense of nostalgia for the past and discomfort with rapid development and gentrification. However, the author also acknowledges that change is unavoidable and the new park may be valued by others. The summary touches on the themes of natural versus developed spaces, memory, and the pace of change in communities.
 
- Here is a summary:
+ 
 
 - The author returned to San Francisco after being away for a few months and found that the small playground in South Park, near where she lived, had been completely torn up and was enclosed by a tall fence. Most of the trees were gone and the park was mostly dirt. 
 - She learned that a “community group” had undertaken the renovation of the park without consulting or notifying most people who lived around the park. They had slipped notices under doors after starting the project.
@@ -614,7 +614,7 @@ The summary condenses the key details about the changes in South Park and SOMA a
 
 The key themes are loss of community, untrammeled development and gentrification destroying neighborhood character, the dismissal of citizens’ and small business owners’ concerns by an unresponsive planning process, and the power of personal relationships in building community. The author clearly feels a deep sense of loss and frustration over these changes in her city and neighborhood.
 
- Here is a summary:
+ 
 
 The author uses the example of a small local convenience store to illustrate how such modest businesses support families and the economy. Although the store itself is small, its profits from selling alcohol, lottery tickets, and cigarettes allow it to support the owner’s entire family.  
 
@@ -628,7 +628,7 @@ The author had predicted such a future back in 1998, foreseeing a society divide
 
 In summary, the author laments how the tech boom and influx of wealthy young professionals have transformed SOMA, making it unaffordable for most and eroding the traditional neighborhood community feel. The old neighborhood has been disrupted, but the new residents seem unconcerned with building a new one. Their lifestyles are centered around work over home. Meanwhile, the less affluent workers who support them are increasingly precarious.
 
- Here is a summary:
+ 
 
 - The author observes that many people in San Francisco now get their meals, groceries, and goods delivered rather than shopping themselves. Delivery people are often invisible, working for companies in the “gig economy.” The author talks to some delivery workers and finds that some are students happy for the flexibility but others struggle with difficult working conditions and low pay. 
 
@@ -638,7 +638,7 @@ In summary, the author laments how the tech boom and influx of wealthy young pro
 
 - In summary, the author portrays San Francisco as a city where the glamour of startup success masks economic inequality and struggle. Young tech entrepreneurs network and bond at events, sustaining hopes of glory that are unlikely to be realized. Meanwhile, many workers enable the comforts of tech elites through low-paying service jobs like delivery work. The author seems concerned about the “peonization of the working class” and the desire to replace human workers with automation. However, startup culture’s conformity and hubris may ultimately prove transient.
 
- Here is a summary:
+ 
 
 - Roger King, the founder of Bay Angels, thought the startup pitch event was unprofessional. He said the winners get nothing but maybe an interview. However, the event organizer claimed nearly 100% of the winners get funding. 
 
@@ -654,7 +654,7 @@ In summary, the author laments how the tech boom and influx of wealthy young pro
 
 In summary, the author provides a critical perspective on startup culture, pitch events, co-working spaces, and slogans. While startups claim noble goals of changing the world, the author argues the real motives are making money, disrupting existing systems, and concentrating wealth, often in harmful ways. The co-working spaces and pitch events spread and reinforce these ideals.
 
- Here is a summary:
+ 
 
 - The author visited one of WeWork's co-working spaces in San Francisco's Tenderloin neighborhood. 
 
@@ -670,7 +670,7 @@ In summary, the author provides a critical perspective on startup culture, pitch
 
 - The author marched in protest of Trump's presidency, finding it exhilarating to join so many like-minded people standing up against Trump's agenda. The diverse, witty crowd gave the author hope.
 
- Here is a summary:
+ 
 
 The speaker attended the Women's March in New York City and was heartened to see so many young women participating. She hoped they would learn from the history of the women's movement in the 1970s and avoid dividing over differences. The march was joyful, with clever chants and shouts moving through the crowd. 
 
@@ -682,7 +682,7 @@ The speaker also discussed the tech industry. The privileged members of the mill
 
 More broadly, the speaker laments how the internet has enabled constant surveillance by governments and companies, contrary to the early ideals of its creators. The speaker feels a need to warn the young tech workers of the damage the internet has caused and the failure of its promise. However, the speaker also recognizes that this new generation must find their own way forward and hopes they are able to balance tech's promises and perils. The future remains unwritten.
 
- Here is a summary:
+ 
 
 - The article describes a chess match between Kasparov and Deep Blue in which Kasparov initially thought the computer was showing signs of intelligence or “sentience.” However, Kasparov later realized Deep Blue was not actually sentient. Rather, Kasparov had projected the qualities of a mind onto the machine. Once Kasparov adjusted his strategy to match Deep Blue’s actual capabilities rather than the perceived sentient mind, Deep Blue’s play seemed less impressive. 
 

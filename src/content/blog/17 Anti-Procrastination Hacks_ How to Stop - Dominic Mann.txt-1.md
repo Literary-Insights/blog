@@ -41,7 +41,7 @@ To overcome procrastination:
 
 The key strategies are: break it down into small steps, build momentum through continuous action, make tasks appealing and achievable, use the two-minute rule, and set macro goals with micro quotas.  Apply these strategies to overcome procrastination and achieve your goals.
 
- Here is a summary:
+ 
 
 The key problems with procrastination are:
 

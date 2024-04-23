@@ -68,7 +68,7 @@ So in summary, it's about finding purpose-driven work aligned with your values o
 
 - Having a financial goal like making $1 million per year did not align with the author's values and led them to take on projects they did not find meaningful. True success comes from following paths that reflect one's values rather than chasing arbitrary benchmarks.
 
- Here is a summary:
+ 
 
 - The author realized designing websites just for money wasn't fulfilling. Focusing on work they love and are passionate about leads to greater success and happiness. 
 
@@ -84,7 +84,7 @@ So in summary, it's about finding purpose-driven work aligned with your values o
 
 The overall summary is the author advocates focusing on work you're passionate about, using money as a tool rather than an end goal, being guided by core values over rigid targets, and taking breaks to facilitate growth and improvements through new perspectives.
 
- Here is a summary:
+ 
 
 The passage discusses overcoming common obstacles that prevent people from starting on meaningful or creative projects. It advocates focusing on taking the initial steps now rather than worrying about future uncertainties. 
 
@@ -92,7 +92,7 @@ Some of the key excuses addressed include not having time, money or an audience.
 
 Creativity often requires sacrifice, whether that's spending rent money on a project or cutting other activities out of one's schedule. Side projects should be treated as experiments that can grow organically over time rather than expecting full-scale immediate results. The overall message is to stop making excuses and take the first step now towards one's goals and dreams.
 
- Here is a summary:
+ 
 
 The author was at a small coffee shop in a small town. They noticed some wooden puzzle boxes for sale where you have to fit puzzle pieces together so they fit back in the original box. They started working on one of the puzzles and tried fitting different pieces together until they almost had it fitting back in the box, but were missing a few pieces. Even after multiple attempts, it didn't quite fit until they kept experimenting with different combinations. 
 
@@ -116,7 +116,7 @@ The author notes that if they had only tried once or a few times, they would hav
 
 - Overcoming fears involves showing up to them through small acts of bravery added over time, even when uncomfortable. This is how true voice and alignment are found.
 
- Here is a summary:
+ 
 
 As a designer, the individual works on many different projects, some they are not proud of. However, with experience, their work improves and they reach a point where they are comfortable sharing it. Working consistently, even on days they don't feel inspired, allows them to produce their best work. Creating regularly increases the chances of success, as their best designs might not exist otherwise. 
 
@@ -140,7 +140,7 @@ Inner criticism is unhelpful and should be ignored. Creating for oneself without
 
 The key is combining passion with real skill development and making something of value to others, not just yourself. Ideas need to be validated through refinement, testing and proving demand in the market.
 
- Here is a summary:
+ 
 
 - Focus on finding the intersection between your interests/skills and what your target audience values and is willing to pay for. Your craft or passion alone may not be enough if the audience doesn't see value. 
 
@@ -168,7 +168,7 @@ The key is combining passion with real skill development and making something of
 
 - In the Internet age, there are fewer gatekeepers controlling who can share their work. Focus on creating and iteratively improving, rather than constant promotion.
 
- Here is a summary:
+ 
 
 - The creative process is often messy and ugly, involving many bad or failed ideas before arriving at something good. Finished creative works make the process seem easy, but it typically requires much hard work, iteration and editing.
 
@@ -180,7 +180,7 @@ The key is combining passion with real skill development and making something of
 
 - Finding inspiration and truly engaging in the creative process results in work the creator does not totally dislike. However, accessing that "genius mode" is difficult and fleeting. Enjoying the process itself, without concerning over failures or criticisms, allows one to be more present and in their true creative voice.
 
- Here is a summary:
+ 
 
 The passage discusses the struggle of starting creative work like writing or making music. It describes how in the moment before beginning, all the negative thoughts and doubts reach their peak. This is the most fearful moment, when you stare at a blank page or pick up an instrument. 
 

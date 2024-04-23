@@ -34,7 +34,7 @@ BOOK LINK:
 
 - Overall it provides a process to quickly generate and validate an initial business idea focused on customer needs, then take those first steps to get started.
 
- Here is a summary:
+ 
 
 - The speaker discusses the difference between a "founder first" approach and a "customer first" approach to starting a business. 
 

@@ -105,7 +105,7 @@ This sets up the first chapter, which will likely explain the cognitive basis of
 
 You're right - it's tempting to see the 990 out of 1000 with high self-esteem and conclude there is a connection. But without data on those with poor leadership, we are falling victim to confirmation bias and only looking for evidence that fits our hypothesis. We need full data to draw a solid conclusion. Nice job spotting the potential bias!
 
- Here is a summary:
+ 
 
 Confirmation bias can hurt individuals in two main ways:
 
@@ -207,7 +207,7 @@ In both cases, confirmation bias led people to develop false or exaggerated view
 
 - Stopping obsession over why unfortunate things happened can allow us to take a more distant view, potentially freeing us from negative emotions like remorse and regret. It may also enable more constructive problem-solving for the future.
 
- Here is a summary:
+ 
 
 The chapter discusses how vivid examples and anecdotes can be too powerful, leading us to violate important rational principles. For instance, people may be more persuaded by one or two anecdotes from people they know than by scientific evidence based on much larger samples. The main reason we are swayed by anecdotes is that most people do not fully understand statistics. The author highlights three key statistical concepts we need to understand to avoid irrational judgments:
 
@@ -333,7 +333,7 @@ The author provides examples of how learning about these principles through cont
 
 - Such biased interpretations can be harmful to ourselves and relationships. Being able to revise beliefs in light of new evidence is important for growth and learning.
 
- Here is a summary:
+ 
 
 The passage discusses how people can hurt others by making inaccurate assumptions and perpetuating stereotypes. It provides examples of studies showing gender and racial bias, including one where science professors rated an applicant named John as more competent than an identical applicant named Jennifer. Another study found participants were more likely to mistakenly "shoot" an unarmed Black target compared to an unarmed white target in a video game. The passage explains that even intelligent people can be susceptible to biased interpretations, as they are adept at finding ways to dismiss evidence that contradicts their existing beliefs. It describes a study where both supporters and opponents of the death penalty adjusted their views after reading short study summaries, but became even more entrenched in their original positions after reading the studies' full methodological details, which allowed them to critique the contradictory evidence. Overall, the passage demonstrates how people may cling to and even strengthen their biases by finding reasons to reject countervailing facts.
 

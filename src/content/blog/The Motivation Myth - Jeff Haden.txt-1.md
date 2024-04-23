@@ -92,7 +92,7 @@ The key message is that motivation is the result of doing the work, not a prereq
 
 - Hard work, preparation and patience lead to real, lasting success rather than short-term hacks or tricks.
 
- Here is a summary:
+ 
 
 The passage argues that having a routine and consistent effort is key to success, not just raw talent. It provides examples like Michael Ovitz, who worked extremely hard starting in the mailroom to become a top Hollywood agent. The passage advises not telling others about your goals, as that can give you a false sense of achievement. It also argues that extraordinary willpower is a learned skill, not an innate trait - successful people have systems to avoid relying on willpower. The passage concludes that you don't need to find your passion first in order to achieve great things through grit and perseverance. In short, success comes from hard work and resilience, not shortcuts.
 
@@ -176,7 +176,7 @@ The key is to forget the big goal, focus on your daily process, celebrate small 
 
 - The example given is a weight loss plan with specific daily diet and exercise steps.
 
- Here is a summary:
+ 
 
 The author was asked to speak longer at a business conference because the next speaker's flight was delayed. The audience voted for him to discuss how to lose 10 pounds in a month. While surprised, the author realized this goal resonates with many people who have struggled to lose weight. 
 
@@ -356,7 +356,7 @@ The key is choosing goals that make you happy by allowing you to meet basic need
 
 - Go the extra mile by always finding ways to do more than expected. Hard work and consistency differentiate success.
 
- Here is a summary:
+ 
 
 Jerry Seinfeld says success comes from work, thought, preparation, inspiration, execution, and obsessive detail. Inspiration is getting new ideas. Execution is implementing those ideas. Detail is perfecting the execution. Even if an idea seems to work, one small flaw can ruin it. 
 
@@ -482,7 +482,7 @@ The key points are to be generous with others, help them feel purpose in their w
 
 - You can use the gratification to motivate you to try the next strategy - finding a "pro" who can help you achieve something you didn't think was possible.
 
- Here is a summary:
+ 
 
 The author wanted to challenge himself by training for and competing in a grueling 107-mile cycling event organized by pro mountain biker Jeremiah Bishop. Though initially excited, the reality of the immense difficulty soon sank in. On their first training ride together, the author struggled up a hill while Jeremiah easily pedaled alongside him. 
 

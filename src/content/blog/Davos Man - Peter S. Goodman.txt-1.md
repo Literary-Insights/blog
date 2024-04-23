@@ -250,7 +250,7 @@ Davos Man is depicted as a predatory species that adopts a guise of allyship whi
 
 - In general, the Brexit referendum gave citizens a chance to vent their frustrations with austerity, lack of economic opportunities, and feeling ignored by elites. Resentment towards the EU and immigrants was channeled into the pro-Brexit vote.
 
- Here is a summary:
+ 
 
 George Osborne was a member of the British aristocracy who attended elite schools and rose to become chancellor of the exchequer in David Cameron's government at a young age. He gained a reputation as a ruthless ideologue intent on cutting social programs. In 2016, Osborne and Cameron faced a major threat - the upcoming Brexit referendum. They had called the vote expecting the public to reject leaving the EU, but the polls were tight. 
 
@@ -270,7 +270,7 @@ If Brexit passed, it posed risks to the British economy, especially the critical
 
 - Dimon built a reputation as a straight-talker but JP Morgan Chase profited from pre-crisis excesses and enabled Bernie Madoff's Ponzi scheme.
 
- Here is a summary:
+ 
 
 The bank JPMorgan Chase shielded its executives from criminal liability for the Ponzi scheme run by Madoff, despite employees warning of it, by arguing it was too disorganized to understand the scheme. JPMorgan paid a fine without admitting wrongdoing. 
 
@@ -644,7 +644,7 @@ Key points:
 
 - Smalls tried alerting authorities about the lack of protections but got no response. He felt Amazon was protecting white managers while putting lower-income minority workers at risk.
 
- Here is a summary:
+ 
 
 Christian Smalls, an Amazon warehouse worker, became concerned about Amazon's handling of COVID-19 cases at his facility. He demanded greater transparency and safety measures, but managers asked him not to raise alarms. Feeling Amazon was endangering workers, Smalls began informing coworkers of the risks. He led a protest demanding protective equipment and cleaning, but was fired by Amazon for violating quarantine. 
 
@@ -754,7 +754,7 @@ Shareholder attempts to have Amazon protect worker health were quashed. Whistleb
 
 - The unethical behavior and high drug pricing by the pharmaceutical industry has damaged trust in healthcare overall. The Davos panel focused on public relations rather than reforms.
 
- Here is a summary:
+ 
 
 The article discusses how global elites like the World Economic Forum and major corporations have responded to the COVID-19 pandemic, often in ways that exacerbate inequality. It criticizes Indian PM Narendra Modi for mishandling India's pandemic response while touting economic progress. It also discusses the US-China rivalry over medical supplies, with China being the main global supplier but the US trying to reshore production through protectionist policies. 
 

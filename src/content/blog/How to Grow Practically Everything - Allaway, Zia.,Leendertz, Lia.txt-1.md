@@ -46,7 +46,7 @@ In summary, the introduction outlines the comprehensive scope of the book in tea
 
 - pH testing determines soil acidity which impacts what plants will grow well based on their pH requirements. Proper testing is important for plant health.
 
- Here is a summary:
+ 
 
 The instructions say to wait until the soil test solution changes color, then match the color to the chart to determine the pH level of the soil. Adding organic matter like compost and manure helps improve soil quality regardless of the soil type. For clay soil, spreading horticultural grit and digging it in can help with drainage. When planning a garden, it's important to assess how much sun and shade different areas receive throughout the day to choose appropriate plants for each location. Factoring in practical needs like seating areas is also important when designing the layout. Grouping plants in masses and considering color themes can help achieve different styles like formal, cottage garden, or modern styles.
 
@@ -112,7 +112,7 @@ The key steps are preparing the soil properly, grouping plants attractively, pla
 
 So in summary, plant mock orange, daphne, mahonia and scented roses for the strongest fragrances, and include lavender, wallflowers and garden pinks for delightful smaller scents.
 
- Here is a summary:
+ 
 
 The passage describes how to create a shady rockery garden that is well-suited for shade-loving plants like ferns, ivies, and violas. The best time to start is in the autumn. Preparation involves creating a sloped area with topsoil if the site is flat. Large, attractive stones are placed on the slope and planted between with plants like bugle, creeping phlox, dog's-tooth violet, hardy ferns, hostas, and ivies. The rockery provides cool, moist but well-draining conditions for these types of plants and will be at its best in the springtime. Completion of preparation and planting is estimated at 6 hours.
 
@@ -130,7 +130,7 @@ The passage describes how to create a shady rockery garden that is well-suited f
 
 6. Water regularly, especially the first year, as plants establish themselves in the rock garden.
 
- Here is a summary:
+ 
 
 - 2 hours preparation time to improve the soil with organic matter.
 
@@ -240,7 +240,7 @@ So in summary, allow for good drainage by using pot shards on the bottom, fill a
 
 6. Water the plants as needed to keep the soil moist. The grasses and flowers will provide an attractive low-maintenance container garden through the summer months.
 
- Here is a summary:
+ 
 
 The passage discusses using cans singly or stacked to create creative plant containers. Single cans can be filled with soil and turf to make stepping stones or planted with grasses and flowers. Stacked cans can create taller containers. It recommends adding clay pot pieces to the bottom of cans for drainage before planting. Old wheelbarrows also make excellent containers when drainage holes are drilled and soil is added. Tiny succulents are suggested for use in small seashells. Drainage holes should be drilled in watering cans before using them to decorate trees with colorful sedums. A slate trough can be used as a container if prepared with drainage material, soil and alpine plants. Finally, patio roses or a modern mix of tropical plants in a contemporary container are presented as creative patio planting ideas.
 
@@ -267,11 +267,11 @@ Place the plants in their original pots in the windowbox and make sure they will
 
 To create a display on an outdoor ladder, stack pots of annuals on the steps of the ladder. Choose colorful plants like pansies, violas, and ornamental cabbage. Plant the containers with drainage holes and soil. Arrange the pots on the ladder, wedging the smaller pots between the steps. Water the containers daily and remove fading flowers regularly.
 
- Here is a summary:
+ 
 
 The passage provides instructions for braiding or twisting young bay plant stems together to create an attractive, textured structure. It recommends using 2-3 young bay plants or a plant with suckering stems. The first steps involve selecting straight stems, removing leaves from the lower parts, and planting the stems closely together in a large container. Then the stems are loosely braided, passing them left over right and vice versa. Once braided, the stems are secured with twine and trimmed for a compact shape. Over time as the tree grows, pruning is needed to encourage bushier growth. This technique produces an expensive, sculptural look using only young plants and time for them to develop. Proper planting and aftercare can yield an attractive garden feature.
 
- Here is a summary:
+ 
 
 - Tree ferns make good focal points in shady areas and can be underplanted with other shade-loving plants like ferns and hostas. 
 
@@ -345,7 +345,7 @@ Finally, it gives instructions for planting climbers such as installing horizont
 
 - The passage recommends vines as a way to add height, color and visual interest to gardens.
 
- Here is a summary:
+ 
 
 The passage describes how to create living screens and walls using willow or shrub plants. Some key points:
 
@@ -371,7 +371,7 @@ The passage provides instructions for making willow screens and tunnels as livin
 
 - Conifers provide colorful foliage and structure year-round. When choosing, consider mature size to ensure it will suit the space. Smaller varieties are good options for confined gardens.
 
- Here is a summary:
+ 
 
 - The project describes planting a productive patio garden in pots using vegetable and flower seeds or purchased young plants.
 
@@ -415,7 +415,7 @@ The passage provides instructions for making willow screens and tunnels as livin
 
 - Winter crops like leeks, parsnips and cabbage need to be started early to develop fully before cold weather arrives. Mulching helps protect cold-sensitive crops.
 
- Here is a summary:
+ 
 
 - Parsnips taste sweetest after a light frost, so don't harvest too early. Their leaves die down in winter, so mark the rows so the roots can be found. Dig up as needed; their taste improves through the winter. 
 
@@ -459,7 +459,7 @@ The passage provides instructions for making willow screens and tunnels as livin
 
 All the cultivars listed require full sun (AdE H12-1), which means a minimum of 6 hours of direct sun per day.
 
- Here is a summary:
+ 
 
 - Raspberries and blackberries can be grown to provide fruits in autumn. 
 
@@ -615,7 +615,7 @@ So in summary, mandarin, key lime and kumquat are some of the easiest citrus fru
 
 - Turn the pot regularly once in flower to prevent leaning. Enjoy the large, showy blooms through winter.
 
- Here is a summary:
+ 
 
 The passage discusses growing exotic orchids as houseplants. It recommends choosing orchids that can thrive in home conditions, such as moth orchids or Cymbidiums. Healthy orchids will have green roots and firm buds. Orchids prefer small clear plastic pots to allow their aerial roots to photosynthesize. Overwatering is a common cause of orchid death, so water once or twice a week in spring/summer and less in winter. Use warm water and wipe off excess moisture. Fertilize when plants are first acquired and follow package instructions. Provide warm mist instead of cold water spray. Proper care allows orchids to live long happily as home plants.
 
@@ -633,7 +633,7 @@ The passage discusses growing exotic orchids as houseplants. It recommends choos
 
 - Repot annually in spring if the plant has outgrown its pot. Use a bark-based potting mix.
 
- Here is a summary:
+ 
 
 This passage provides instructions for creating a cactus desert bowl scene. It will take about 1.5 hours to complete. Materials needed include a shallow planting bowl, crocks or pebbles for drainage, cactus soil, washed sand for a mulch, newspaper, a spoon, gloves, and a watering can. Suitable miniature cacti options are listed. 
 
@@ -693,7 +693,7 @@ So in summary, the key steps are assessing plant needs, providing proper growing
 
 - Slightly tender potted plants are best wrapped in horticultural fleece over winter. Also tie together strappy plant leaves like cordylines to protect crowns.
 
- Here is a summary:
+ 
 
 - Encourages pruning old shrubs and clearing away dead wood to encourage new healthy growth. Pruning in spring after flowering is recommended. 
 

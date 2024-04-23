@@ -30,7 +30,7 @@ BOOK LINK:
 
 - The book establishes JTBD and ODI as practical theories and processes for consistently creating innovative solutions that are aligned with customers' jobs-to-be-done.
 
- Here is a summary:
+ 
 
 - The author's failure with the IBM PCjr project inspired him to develop a way to better understand customers' needs and metrics for judging products early in the development process. 
 
@@ -42,7 +42,7 @@ BOOK LINK:
 
 - The author's 2002 HBR article and growing success of Strategyn spread awareness of ODI and customer-focused innovation management. This inspired him to write a book on the topic.
 
- Here is a summary:
+ 
 
 - The passage discusses the innovation method called Outcome-Driven Innovation (ODI), which is based on Jobs-to-be-Done Theory. 
 
@@ -76,7 +76,7 @@ BOOK LINK:
 
 - The matrix helps companies determine the most appropriate strategy based on market/customer insights and internal assessments to guide focused growth efforts.
 
- Here is a summary:
+ 
 
 - The ideas-first approach to innovation, where companies generate product ideas and then get customer feedback, is often flawed because customers cannot properly evaluate ideas they have not experienced. They may not see the connection between an idea and their actual needs. 
 
@@ -86,7 +86,7 @@ BOOK LINK:
 
 - As a result, companies end up innovating without truly understanding customer needs, which undermines their marketing, product development, and strategy. A clearer framework and shared understanding of needs is needed for successful needs-first innovation.
 
- Here is a summary:
+ 
 
 - The success of R&D, product development, sales, and innovation depends on understanding customer needs. However, fully understanding all customer needs is a major challenge. 
 
@@ -98,7 +98,7 @@ BOOK LINK:
 
 - Market research is needed to accurately identify segments and determine which needs are truly unmet rather than assumed. Understanding customer needs at this depth enables more effective product development, marketing, and innovation.
 
- Here is a summary:
+ 
 
 - Understanding the core functional job a customer is trying to get done is important for existing companies looking to improve their offerings or create new products and services in core existing markets. 
 
@@ -124,7 +124,7 @@ BOOK LINK:
 
 In short, it presents a framework to analyze products' strategies based on job-get-done performance and price in order to select the strategy that best fits the target customer segment. Segmentation is key to identifying the right segment to target.
 
- Here is a summary:
+ 
 
 - Companies can successfully move down market by lowering prices of older products and introducing newer, better products. They can also lower costs through operational innovations like Uber did with freelance drivers. 
 
@@ -154,7 +154,7 @@ In short, it presents a framework to analyze products' strategies based on job-g
 
 In summary, ODI provides a structured process starting with deep customer understanding to help companies identify opportunities and drive innovative new products, services and strategies.
 
- Here is a summary:
+ 
 
 The passage discusses segmenting customers based on their unique unmet needs, which it argues is the only truly valuable form of segmentation. Traditional methods like demographics often fail to capture why customers have different needs. 
 
@@ -218,7 +218,7 @@ The key is that these subsets encounter job difficulties that others do not, res
 
 The key is gaining a deep understanding of specific customer pain points and unmet needs in order to align all aspects of marketing, sales and product development accordingly.
 
- Here is a summary:
+ 
 
 - Microsoft was facing pressure to improve the value of its Software Assurance offering, as renewals were declining and customers were questioning the value. They took an ODI approach to better understand customer needs.
 
@@ -304,7 +304,7 @@ So in summary, using ODI helped Kroll Ontrack understand client needs in a new m
 
 - It shifted Hussmann's culture to be more customer-needs driven rather than technology-driven. ODI validated their innovation strategy and priorities.
 
- Here is a summary:
+ 
 
 - The passage provides an overview of what it takes to become an ODI (outcome-driven innovation) practitioner and effectively lead ODI projects within an organization. 
 
@@ -375,7 +375,7 @@ The key takeaway is that innovation should be driven by a small, specialized ODI
 
 - 2002 - HBR publishes Ulwick article bringing jobs theory mainstream attention.
 
- Here is a summary:
+ 
 
 The article outlines the development and adoption of Tony Ulwick's Outcome-Driven Innovation (ODI) process over several decades. Some key points:
 

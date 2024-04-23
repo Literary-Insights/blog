@@ -64,7 +64,7 @@ Chapter 7:
 
 The remaining chapters focus on objectives related to management accounting concepts like budgeting, decision-making, costing methods, investment analysis, and emerging issues. The overall aim is to provide knowledge of both financial and management accounting principles.
 
- Here is a summary:
+ 
 
 - The book aims to provide non-accounting students with an adequate understanding of accounting to effectively communicate with accountants and do their jobs more effectively, without overly technical details. 
 
@@ -240,7 +240,7 @@ preparing customer quotations. The learning objectives are also outlined.
 
 - In summary, accounting exists to measure and report on the financial activities and position of a business in a systematic, standardized way so that informed decisions can be made.
 
- Here is a summary:
+ 
 
 - Accounting began simply as people counting their assets like farm animals to track their wealth over time. 
 
@@ -252,7 +252,7 @@ preparing customer quotations. The learning objectives are also outlined.
 
 - Accounting continues to develop more sophisticated systems to meet the complex information needs of modern large businesses, governments, and other organizations. But it remains grounded in the core principles of double-entry bookkeeping established centuries ago.
 
- Here is a summary:
+ 
 
 - Accounting has evolved over time to include several branches beyond just financial accounting and cost accounting. There are now considered to be six main branches - financial accounting, management accounting, auditing, taxation, financial management, and insolvency. 
 
@@ -343,7 +343,7 @@ In general, rules and regulations aim to: ensure fairness, transparency and acco
 
 Accounting rules and regulations are more prescriptive than accounting principles (like GAAP). Rules lay out very specific requirements and guidelines that must be followed, whereas principles provide broad standards open to some interpretation. Non-compliance with accounting rules can result in regulatory sanctions, whereas principles allow for more professional judgment in application. Overall, both rules and principles aim to achieve the objectives of consistency, comparability, transparency and protection of stakeholders.
 
- Here is a summary:
+ 
 
 - The Companies Act 2006 is the key piece of legislation governing accounting requirements for limited liability companies in the UK. 
 
@@ -359,7 +359,7 @@ Accounting rules and regulations are more prescriptive than accounting principle
 
 - It covers formation, management, operations including accounting requirements, and financial reporting for limited liability companies. Accounting is in Part 15 but a relatively small section of the large and complex Act overall.
 
- Here is a summary:
+ 
 
 - Secondary legislation (SIs) allow the Secretary of State to make changes to primary/existing legislation without needing to introduce new bills to Parliament. This enables non-controversial changes to be made more efficiently when circumstances change. 
 
@@ -373,7 +373,7 @@ Accounting rules and regulations are more prescriptive than accounting principle
 
 - Until 2005, UK standards took priority over IASs/IFRSs but the two bodies worked closely together to improve financial reporting frameworks.
 
- Here is a summary:
+ 
 
 - The ASB in the UK used to set domestic accounting standards but adopted IFRS in 2005 when the EU mandated them. 
 
@@ -527,7 +527,7 @@ Let me know if you need any clarification or have additional questions!
 
 So in summary, this chapter provides important context for non-accountants on how and why profit is measured, the subjective elements involved, and why cash and profit differ - which are all critical considerations for managing a business.
 
- Here is a summary:
+ 
 
 - Profit is not simply the difference between cash received and cash paid. Accountants arrive at profit by making adjustments to the cash position. 
 
@@ -557,7 +557,7 @@ So in summary, this chapter provides important context for non-accountants on ho
 
 - Year-end adjustments involve allowing for opening/closing inventory, depreciation, adjusting receivables/payables, and provisions for bad debts. Depreciation charges the cost of non-current assets over their useful life using methods like straight-line or reducing balance. This matches the cost to the periods benefiting from the asset.
 
- Here is a summary:
+ 
 
 - Depreciation is charged equally over the asset's useful life under the straight-line method, resulting in the same depreciation expense each year. 
 
@@ -689,7 +689,7 @@ In terms of deficiencies, the passage provides a balanced overview but does not 
 
 So in summary, while limited liability clearly provides economic benefits, the model is not without critique and some argue additional safeguards could improve outcomes for all stakeholders over reliance on disclosure alone. A balanced assessment would weigh these issues.
 
- Here is a summary:
+ 
 
 - Bonds and debentures are debt instruments that are issued by companies to raise funds for a certain period of time at a specified interest rate. 
 
@@ -793,7 +793,7 @@ So in summary, the passage discusses the National Audit Office's view that gover
 
 - Market value of goods produced is the amount transferred to the trading account, which can be the manufacturing cost or cost plus manufacturing profit.
 
- Here is a summary:
+ 
 
 - Income and expenditure for a not-for-profit entity like a charity or social club are shown in a statement of financial activities rather than a statement of profit or loss. 
 
@@ -866,7 +866,7 @@ Regards,
 
 - In summary, the statements are interconnected and must tie together to provide a complete picture of the company's financial performance and position for a period from a cash flow perspective. The SCF brings together inputs from the other primary statements.
 
- Here is a summary:
+ 
 
 - The statement of cash flows summarizes the increases or decreases in opening and closing balances of current assets (receivables, prepayments, inventory) and current liabilities (payables, accruals) between the start and end of the reporting period. 
 
@@ -1002,7 +1002,7 @@ So in summary, the corporate governance section provides transparency around a c
 
 - Directors' remuneration reports disclose aggregate director pay, which is an important corporate governance issue for shareholders.
 
- Here is a summary:
+ 
 
 - Directors run companies on behalf of shareholders and determine their own pay, which is an expense that reduces company profits and shareholder dividends. 
 
@@ -1050,7 +1050,7 @@ report
 
 Independent auditor's report Independent auditor's report
 
- Here is a summary:
+ 
 
 - The passage assumes the company being discussed is incorporated in the UK but most points also apply to companies in other EU countries. 
 
@@ -1161,7 +1161,7 @@ So in summary, ratio analysis is a critical tool for evaluating financial statem
 
 So in summary, the Dragons use financial questioning and ratio analysis to understand start-ups and make informed investment decisions on whether to back potential entrepreneurs on the show.
 
- Based on the information provided, here is a summary:
+ Based on the information provided, 
 
 - Tal employed 100 employees as of the financial statements date. 
 
@@ -1181,7 +1181,7 @@ So in summary, the Dragons use financial questioning and ratio analysis to under
 
 So in summary, the passage discusses key financial ratios that can be used to evaluate the overall financial position and performance of a business, using Marks and Spencer as a case example.
 
- Here is a summary:
+ 
 
 - Ratio analysis is a useful way to interpret financial accounts, but ratios have limitations as they only look at past historic data and depend on how accurate the underlying accounting numbers are. 
 
@@ -1236,7 +1236,7 @@ Worldcom:
 
 In both cases, senior management were motivated by profit and stock performance targets to engage in fraudulent accounting practices that misled investors about the true financial position and performance of the companies. This allowed them to benefit while the companies were inflating profits and before the truth was discovered.
 
- Here is a summary:
+ 
 
 Accounting fraud, also known as false accounting fraud, refers to intentionally misrepresenting a company's financial records to mislead stakeholders. It involves overstating assets, understating liabilities, falsifying accounting records, or creating two sets of books. This is done to obtain loans, boost share prices, hide losses, or achieve performance bonuses. 
 
@@ -1278,7 +1278,7 @@ The passage discusses recent and pending changes to accounting standards by stan
 
 - Modern management accounting aims to provide both financial and non-financial information to managers within companies to aid decision-making and value creation. It has more flexibility than external financial reporting.
 
- Here is a summary:
+ 
 
 - The new industrial enterprises of the 19th century required more detailed and timely managerial control than could be provided by annual statutory accounts. 
 
@@ -1296,7 +1296,7 @@ The passage discusses recent and pending changes to accounting standards by stan
 
 In summary, the passage describes the historical evolution of management accounting from informal early systems to the formalized cost accounting and management reporting systems used widely today, beginning with19th century industrialization and progressing most rapidly in the early 20th century US.
 
- Here is a summary:
+ 
 
 - The passage discusses the role and responsibilities of management accountants in decision-making. 
 
@@ -1322,7 +1322,7 @@ In summary, the passage describes the historical evolution of management account
 
 - By tracking costs more precisely through cost accounting, managers aimed to gain better control over resources and production processes, as well as enhance decision making related to pricing, inventory management, and operational improvements.
 
- Here is a summary:
+ 
 
 - There are two main types of cost centers: production cost centers where products are manufactured or processed, and service cost centers where a service is provided to other cost centers. Cost centers can take various forms like departments, production lines, machines, products or sales areas. 
 
@@ -1420,7 +1420,7 @@ So in summary, direct labor cost is calculated based on employee time spent on a
 
 - The passage concludes that the most appropriate absorption method depends on individual circumstances, and labor-intensive cost centers should generally use direct labor hours while machine-intensive centers use machine hours.
 
- Here is a summary:
+ 
 
 - Traditionally, overhead costs are allocated to products based on a common cost driver like direct labor hours. However, this may not allocate costs accurately since it doesn't account for different resource consumption between products. 
 
@@ -1628,7 +1628,7 @@ So in summary, while absorption costing is suitable for inventory valuation and 
 
 So in summary, adding a general loading is inappropriate as it would make the evening course fees higher than their direct costs and gotoards day-to-day costs unrelated to the courses, contrary to normal costing practice.
 
- Here is a summary:
+ 
 
 - The examples show changes in profit at different levels of activity (units sold). They illustrate that profits increase as activity increases beyond the break-even point, as the additional contribution from extra sales exceeds the fixed costs. 
 
@@ -1708,7 +1708,7 @@ So in summary, the key point is that while contribution analysis and marginal co
 
 - Opportunity costs refer to the potential benefits lost from choosing one alternative over another. They are difficult to quantify but should be considered when assessing different options.
 
- Here is a summary:
+ 
 
 - Local government housing departments face the decision of whether to employ their own joiners to do necessary work, or contract outside firms (known as outsourcing). 
 
@@ -1804,7 +1804,7 @@ The key techniques discussed are payback period, discounted payback period, inte
 
 - In summary, the IRR method was used to calculate the maximum rate of return that would give a positive NPV for the new project, indicating it should be accepted.
 
- Here is a summary:
+ 
 
 - When a fixed asset is purchased in a given year, the amount of corporation tax payable for that year will be low as depreciation allowances can be claimed. However, in later years when fewer allowances are available, tax payments will likely be higher. Forecasting future tax liability is difficult due to potential changes in tax laws and rates. 
 
@@ -1840,7 +1840,7 @@ So in summary, the passage discusses the accountant's role in objectively assess
 
 So in summary, changes to the business environment drove the need for new management accounting practices to support more modern, flexible, customer-focused approaches to business.
 
- Here is a summary:
+ 
 
 - In recent years, both profit-seeking and not-for-profit entities have increasingly adopted outsourcing and privatization. This allows them to focus on core activities while outsourcing non-core functions. 
 
@@ -1880,7 +1880,7 @@ So in summary, changes to the business environment drove the need for new manage
 
 - The requirements outlined would represent an evolution from incremental budgeting to a more comprehensive strategic planning model, though change may take time to implement fully. Environmental, social and governance issues are increasingly important considerations for budgets and planning.
 
- Here is a summary:
+ 
 
 - The passage discusses product life cycle costing, which seeks to account for the costs of a product across its entire lifespan - from development through growth, maturity, and decline stages. 
 
@@ -2155,7 +2155,7 @@ Capital and reserves £84,000
 
 - The key accounting functions are collecting quantifiable data, translating it to monetary terms, storing the information and extracting/summarizing it for users. Financial accounting focuses on external users while management accounting focuses on internal users.
 
- Here is a summary:
+ 
 
 - A management accountant employed by a large manufacturing entity will be involved in collecting and storing financial and operational data, and providing information and advice to management for planning, control, and decision-making purposes. 
 
@@ -2165,7 +2165,7 @@ Capital and reserves £84,000
 
 - Tasks may range from routine data processing and cost calculations to higher-level advisory work supporting the entity's directors and managers in their decision-making.
 
- Here is a summary:
+ 
 
 The passage discusses whether it would be profitable for Temple Limited to accept two new contract offers (Contracts 1 and 2) given resource constraints of direct materials and direct labour hours. 
 
@@ -2201,7 +2201,7 @@ A careful assessment of more profitable alternative work that could be displaced
 
 - Sources of finance for companies include retained profits, share issues, loans and leases. Groups prepare consolidated accounts to show total performance.
 
- Here is a summary:
+ 
 
 This chapter discusses accounting rules and regulations that provide the framework for preparing accounting information. Some key points include:
 

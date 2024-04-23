@@ -32,7 +32,7 @@ BOOK LINK:
 
 - Appendices include sample training texts and exercises to build skills through practice over time. The goal is to help readers unlock their learning potential.
 
- Here is a summary:
+ 
 
 - The KeyToStudy System is a new methodology for faster learning, better retention and more efficient processing of the large amounts of information people are exposed to in the digital age. 
 
@@ -46,7 +46,7 @@ BOOK LINK:
 
 - Understanding the need for change is an important motivator for learning and implementing lessons from the KeyToStudy System.
 
- Here is a summary:
+ 
 
 - The KeyToStudy system aims to improve learning through techniques like visualization, reading stages, mind mapping, memorization, and analysis. It is based on research with thousands of students.
 
@@ -104,7 +104,7 @@ BOOK LINK:
 
 - Be persistent - building creativity takes sustained effort over weeks or months through an ongoing learning process. Combining different techniques regularly is recommended.
 
- Here is a summary:
+ 
 
 - Playing brain games and attending brain gyms can improve specific skills related to the games, but they do not necessarily improve overall intelligence. There is no evidence they increase IQ. 
 
@@ -114,7 +114,7 @@ BOOK LINK:
 
 - When learning new superlearning techniques, it is important to start small with easier tasks to build confidence, ritualize the learning routine, gradually increase the challenge level, and develop habits rather than focusing solely on results or test scores. Persistence and an optimized healthy lifestyle support long-term learning and skill development.
 
- Here is a summary:
+ 
 
 - The passage discusses Anna's success in training students in speed reading. Many students have problems like ADHD or dyslexia, but through rigorous training and help from teachers and other students, they achieve their goals. 
 
@@ -158,7 +158,7 @@ BOOK LINK:
 
 So in summary, convergent thinking draws from existing knowledge for a single answer, while divergent thinking bends and combines information creatively for varied possibilities. Both are important cognitive skills.
 
- Here is a summary:
+ 
 
 The passage discusses different methods for creating visual markers or mental images to help remember and understand information:
 
@@ -365,7 +365,7 @@ Will do, thanks again Dr Lev!
 
 The key aspects are breaking it down into simple individual markers, chunking those into grids for combined recall, and linking the grids into a structured narrative or image. Practicing recall of the entire structure would help commit it to long-term memory.
 
- Here is a summary:
+ 
 
 - Memory palaces, also called loci method, involve using familiar environments like apartments or buildings to store information through visualization. Chunking items into compartments makes them easy to remember. 
 
@@ -461,7 +461,7 @@ The key ideas are that true simultaneous multitasking is usually not effective, 
 
 - Calculating reading speed, saccade width, retention scores, working memory size and multitasking limitations can help analyze and improve reading and cognitive skills. Further research suggestions are provided.
 
- Here is a summary:
+ 
 
 - Prereading involves skimming and scanning a text before reading it in detail to better prepare and focus the reading. 
 
@@ -822,7 +822,7 @@ Differences:
 
 In summary, while Bitcoin and the Internet share some characteristics as decentralized open protocols, Bitcoin does not have the same single centralized governance structure as the Internet. Altcoins are also more separate from Bitcoin than alternative networks were from the Internet due to lack of technical interoperability. So Bitcoin is similar conceptually but has important architectural differences from the Internet.
 
- Here is a summary:
+ 
 
 - Astronomy played a key role in liberating modern thought from medieval concepts by showing Earth is not the center of the universe. This undermined the idea that the universe exists for humans.
 

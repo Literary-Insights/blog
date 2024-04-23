@@ -157,7 +157,7 @@ Pay attention to the small, subtle ways you each make bids for connection. Don't
 
 The key is balancing celebration of what's working with gentle honesty about what needs attention. Shine the light on the good, give and receive bids for connection, and you'll be able to weather the dents and repaint your best possible relationship.
 
- Here is a summary:
+ 
 
 Relationships inevitably experience challenges. To maintain a strong connection, be proactive about identifying and addressing potential issues before they escalate. If conflict emerges, handle it with care - fight fairly, listen generously, and aim for understanding over winning. Sometimes a reset is needed to recover from major clashes or adapt to changed circumstances. Approach resets openly and compassionately. If ending the relationship is necessary, do so with grace and appreciation when possible. Putting in the effort to repair, renew or respectfully release keeps bonds healthy.
 

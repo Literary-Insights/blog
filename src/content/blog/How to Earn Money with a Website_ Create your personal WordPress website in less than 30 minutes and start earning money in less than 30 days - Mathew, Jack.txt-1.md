@@ -72,7 +72,7 @@ BOOK LINK:
 
 The overall message is to focus on choosing a topic, setting up the website basics, producing quality content regularly around important keywords, and being consistent long-term to improve search rankings. Self-promotion and speeds are less important than helpful, optimized content.
 
- Here is a summary:
+ 
 
 - Focus on long-tail keywords with low search volumes as they have less competition. These are easier to rank for as a new site. 
 
@@ -86,7 +86,7 @@ The overall message is to focus on choosing a topic, setting up the website basi
 
 - In the early stages, focus on creating quality content regularly while naturally marketing it through relevant backlinks. This lays the foundation for steady organic traffic as the site ages without aggressive promotional tactics.
 
- Here is a summary:
+ 
 
 - Individuals who share your content on social media do so because they find it valuable, not because it contains keyword matches. Only 5% of links should contain the main keyword, 5% related keywords, and the rest should be generic phrases like "click here". 
 
@@ -98,7 +98,7 @@ The overall message is to focus on choosing a topic, setting up the website basi
 
 - Focus on quality content to drive organic traffic first before heavily promoting monetization tactics, which could damage perceptions of your site's motivations if done too soon. Grow traffic naturally over time through content and backlinks.
 
- Here is a summary:
+ 
 
 The passage describes how to make money online through affiliate marketing and having a blog/website. It recommends:
 

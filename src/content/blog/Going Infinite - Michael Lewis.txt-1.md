@@ -30,7 +30,7 @@ BOOK LINK:
 
 - FTX hired people quickly based more on talent than qualifications and grew rapidly, a contrast to other more appearance-focused crypto exchanges Natalie had worked for.
 
- Here is a summary:
+ 
 
 - When Natalie first joined Sam's company, he didn't believe in public relations or talking to journalists. Natalie had to persuade both Sam and journalists to talk to each other. 
 
@@ -42,7 +42,7 @@ BOOK LINK:
 
 - Forbes listed Sam's net worth at $22.5 billion in November 2021, cementing his fame. Sam realized PR's value, and Natalie's job expanded to managing Sam's busy schedule and mysterious whereabouts. She had to learn how to predict and influence his unpredictable behaviors.
 
- Here is a summary:
+ 
 
 - Natalie is Sam's public relations manager who handles his scheduling and manages the fallout from his unpredictable behavior. 
 
@@ -54,7 +54,7 @@ BOOK LINK:
 
 - Sam doesn't fully understand or care who Wintour is, but feels obligated to meet with important people. He uses games like Storybook Brawl to occupy his mind during meetings rather than focus on the conversations.
 
- Here is a summary:
+ 
 
 - Sam Bankman-Fried was playing an online battle game involving heroes and creatures while on a Zoom call. His hero, the Hoard Dragon, was being attacked by other players' heroes. 
 
@@ -68,7 +68,7 @@ BOOK LINK:
 
 - When Anna Wintour had obtained what she wanted from the call, she cordially ended it. Sam was relieved to get back to his online game and other activities without her distraction.
 
- Here is a summary:
+ 
 
 - Sam Bankman-Fried agreed to be a special guest at the 2022 Met Gala but wasn't enthusiastic about attending. FTX employees explored outfit designs from Louis Vuitton and Tom Ford but Sam remained disengaged. 
 
@@ -80,7 +80,7 @@ BOOK LINK:
 
 - The summary explores Sam's atypical childhood and disinterest in typical childhood activities. It notes his parents' concern that he may not fit in normally but their recognition that parenting him required a different approach. Sam himself realized around ages 8-10 that he was different from peers in how he thought about things like Santa Claus.
 
- Here is a summary:
+ 
 
 - Sam's parents did not observe traditional religious or cultural holidays and rituals like Hanukkah, birthdays, or Christmas with gifts. They took a more open, honest discussion-based approach to wants and needs instead of forcing cultural conventions. 
 
@@ -94,7 +94,7 @@ BOOK LINK:
 
 - At a prestigious private high school, Sam still felt bored and above his peers, who he saw as unambitious and not driven. He stood out by not socializing or fitting in with others.
 
- Here is a summary:
+ 
 
 - Sam was viewed as smart but not popular in school. He was the butt of jokes but didn't fit in with any social groups. He felt the other students' assessment of him as "smart and inoffensive" captured him accurately. 
 
@@ -106,7 +106,7 @@ BOOK LINK:
 
 - Through playing Magic, Sam made his only real childhood friend Matt. They competed together and bonded over rational gameplay without social demands. Matt understood Sam in a way few others did.
 
- Here is a summary:
+ 
 
 - Sam's early life was defined as much by what didn't happen as what did. He felt isolated from other kids and they didn't understand him. He defended his differences through a sense of shallow superiority. 
 
@@ -118,7 +118,7 @@ BOOK LINK:
 
 - These events marked a shift for Sam away from isolation and toward connecting with others through shared interests in unusual problems and a utilitarian mindset focused on broad social impacts rather than just individual concerns. Math camp and his puzzles revealed a community where his skills were valued.
 
- Here is a summary:
+ 
 
 - Sam was a physics major in college who started to become disillusioned with the academic path, feeling like it didn't focus enough on making real-world impact. 
 
@@ -134,7 +134,7 @@ BOOK LINK:
 
 - This impressed the Jane Street interviewers and indicated he had the kind of analytical, fast thinking required for high-frequency trading.
 
- Here is a summary:
+ 
 
 - Sam met with traders at Jane Street Capital, a high-frequency trading firm, for job interviews. They tested him with puzzles and problems meant to expose blind spots in his thinking. 
 
@@ -146,7 +146,7 @@ BOOK LINK:
 
 - Singer's essay launched debates but ultimately ordinary people ignored his radical view. However, it influenced Sam and Crouch's ideas about using their advantages to help others as much as possible. Crouch invited Sam to meet and potentially get involved in their group.
 
- Here is a summary:
+ 
 
 - Effective altruism started as an idea proposed by Peter Singer, but a group of young philosophers at Oxford put it into practice in 2009. Toby Ord donated part of his salary to charity and explained his reasoning, spurring a movement. 
 
@@ -160,7 +160,7 @@ BOOK LINK:
 
 So in summary, it outlines the origins and ideas of the effective altruism movement, how it appealed to Sam, and his internship at Jane Street Capital where social issues arose despite his talents in trading games.
 
- Here is a summary:
+ 
 
 - Asher Mellman proposed a bet to Sam about the amount of money any Jane Street intern would lose gambling that day, with a range between $0-100. 
 
@@ -174,7 +174,7 @@ So in summary, it outlines the origins and ideas of the effective altruism movem
 
 - The Jane Street trading floor was loud with game sound effects to alert traders, though some candidates found it distracting when interviewing by phone. Sam enjoyed being immersed in the environment while others found it stressful.
 
- Here is a summary:
+ 
 
 - The passage describes Sam Bankman-Fried's work as a trader at Jane Street Capital in 2014, where he specialized in trading international exchange-traded funds (ETFs). 
 
@@ -186,7 +186,7 @@ So in summary, it outlines the origins and ideas of the effective altruism movem
 
 - Overall, the passage provides context about Sam's job and responsibilities as an ETF trader at Jane Street in 2014.
 
- Here is a summary:
+ 
 
 - Trading Indian stocks through an ETF would require considering who the ultimate buyer is and whether other traders have better information. He'd also need to consider the possibility of other traders front-running the trade. Decisions had to be made quickly, often within 15 seconds.
 
@@ -200,7 +200,7 @@ So in summary, it outlines the origins and ideas of the effective altruism movem
 
 - Many profitable patterns arose from exploiting poorly designed trading algorithms or behaviors of other traders.
 
- Here is a summary:
+ 
 
 - Jane Street traders developed a plan to obtain election results faster than mainstream media sources like CNN by assigning traders to closely monitor data from key states. Their goal was to profit off market moves in response to election news. 
 
@@ -212,7 +212,7 @@ So in summary, it outlines the origins and ideas of the effective altruism movem
 
 - Jane Street strongly incentivized and retained employees like Sam through high pay, but he was personally unhappy despite outward success, feeling unfulfilled in his work.
 
- Here is a summary:
+ 
 
 - Sam worked at Jane Street as a trader but didn't feel much happiness or connection to others there. He acknowledged they had given him value but didn't feel gratitude. 
 
@@ -228,7 +228,7 @@ So in summary, it outlines the origins and ideas of the effective altruism movem
 
 - Caroline Ellison initially found Sam terrifying when she interned at Jane Street but later worked for him and regretted it, finding the work unsatisfying.
 
- Here is a summary:
+ 
 
 - Caroline was sponsored by Jane Street Trading to recruit math-minded young people to work there, similar to how she was recruited from college. She was attracted to effective altruism's quantitative, rigorous approach to doing good. 
 
@@ -242,7 +242,7 @@ So in summary, it outlines the origins and ideas of the effective altruism movem
 
 - The management team was in crisis and wanted to leave due to Sam's poor leadership despite his vision of being a central decision-maker. Caroline had doubts about joining Alameda after the difficulties she found there.
 
- Here is a summary:
+ 
 
 - Sam started a cryptocurrency trading company called Alameda Research with the goals of making a billion dollars and donating profits to effective altruism causes. 
 
@@ -256,7 +256,7 @@ So in summary, it outlines the origins and ideas of the effective altruism movem
 
 - Within a few weeks, the situation deteriorated as the other managers lost trust in Sam and convinced investors to pull their funding, leaving Alameda Research without money to trade.
 
- Here is a summary:
+ 
 
 - Nishad Singh was Sam Bankman-Fried's younger brother's best friend from high school. They both became effective altruists interested in donating earnings to help others.
 
@@ -270,7 +270,7 @@ So in summary, it outlines the origins and ideas of the effective altruism movem
 
 - They eventually settled on a strategy trading bitcoin and Ripple between the two markets, exploiting larger price premiums for Ripple in South Korea to generate profits. However, this strategy ran into issues when a large amount of Ripple went missing one day.
 
- Here is a summary:
+ 
 
 - Alameda Research was making 250,000 cryptocurrency trades per day, trading mainly Ripple and Bitcoin. 
 
@@ -286,7 +286,7 @@ So in summary, it outlines the origins and ideas of the effective altruism movem
 
 - After tense negotiations to buy Sam out failed, Nishad tried to mediate but felt both sides were acting extremely. The future of the company remained unclear.
 
- Here is a summary:
+ 
 
 - Ruists (presumably investors) were charging high interest rates of 50% on loans to Sam's company. Nishad described it as a "shark loan." 
 
@@ -308,7 +308,7 @@ So in summary, it outlines the origins and ideas of the effective altruism movem
 
 - Shortly after, Sam left for Hong Kong and informed the remaining employees he was not returning, effectively ending the company.
 
- Here is a summary:
+ 
 
 - The passage describes the early days of cryptocurrency and follows Zane Tackett, an early Bitcoin adopter. Tackett dropped out of college after learning about Bitcoin and moved to China to work for a cryptocurrency exchange. 
 
@@ -318,7 +318,7 @@ So in summary, it outlines the origins and ideas of the effective altruism movem
 
 - In 2016, the exchange Tackett worked for, Bitfinex, lost over $70 million worth of Bitcoin to hackers, demonstrating the lack of security and risk of trusting exchanges in the nascent cryptocurrency industry.
 
- Here is a summary:
+ 
 
 - Zane worked in cryptocurrency trading after an earlier firm he worked for, Bitfinex, lost $4.6 billion worth of bitcoin. This caused him to receive death threats and suicide notes from angry customers. 
 
@@ -332,7 +332,7 @@ So in summary, it outlines the origins and ideas of the effective altruism movem
 
 - Alameda remained profitable after the dispute. Sam saw this as vindicating his approach but recognized he needs to do better explaining himself to others. He worked on documentation to help current/future employees understand how to work with him.
 
- Here is a summary:
+ 
 
 - The person (likely Sam Bankman-Fried) was frustrated by criticism of his management style and not seeing value in management techniques. He decided the best approach was to be less off-putting and give a positive impression to others, even if he privately disagreed. 
 
@@ -340,7 +340,7 @@ So in summary, it outlines the origins and ideas of the effective altruism movem
 
 - He pitched the idea of an advanced crypto exchange to Binance CEO CZ, but CZ decided not to partner and instead built their own exchange. This motivated Sam to create an exchange himself, though he had doubts due to lack of experience with marketing, customers, etc. He began recruiting others to help. The goal was building the first professional crypto futures exchange to better serve big traders and generate more profits for charity donations.
 
- Here is a summary:
+ 
 
 - Ryan Salame was a freedom-loving Republican who had worked as a tax accountant but found more fun working in crypto trading at Circle. 
 
@@ -354,7 +354,7 @@ So in summary, it outlines the origins and ideas of the effective altruism movem
 
 - With money from the FTT sale, FTX grew rapidly in Hong Kong, hiring inexperienced people who were ambitious to work in crypto, as Sam focused on building an innovative crypto exchange.
 
- Here is a summary:
+ 
 
 - Ramnik Arora was looking for a more fulfilling job that didn't require a long commute from Berkeley to Facebook in Menlo Park. 
 
@@ -370,7 +370,7 @@ So in summary, it outlines the origins and ideas of the effective altruism movem
 
 - One of Ramnik's main focuses was helping FTX navigate unclear regulations around crypto licensing and oversight from different regulatory bodies.
 
- Here is a summary:
+ 
 
 - Cryptocurrencies like Bitcoin are regulated differently in the US depending on whether they are classified as a commodity or security. Bitcoin is regulated by the CFTC as a commodity.
 
@@ -402,7 +402,7 @@ So in summary, it outlines the origins and ideas of the effective altruism movem
 
 The potential positive arguments in favor were much briefer and centered around chemistry, shared interests, appreciation, and attraction between the two people.
 
- Here is a summary:
+ 
 
 - The crypto people started showing up to therapy in 2017 during the crypto boom. There were two main types - libertarians who didn't fit in companies due to their anti-government views, and younger people primarily interested in making money. 
 
@@ -412,7 +412,7 @@ The potential positive arguments in favor were much briefer and centered around 
 
 - After moving to the Bahamas, Sam suggested George move there too to serve as corporate psychiatrist to FTX, indicating his view of therapy as a practical rather than emotional issue. Caroline continued struggling with her feelings for Sam not being returned.
 
- Here is a summary:
+ 
 
 - Sam felt uncomfortable about publicly revealing his relationship with e due to worries about perceived bias, bad PR, and making others uncomfortable at work. 
 
@@ -424,7 +424,7 @@ The potential positive arguments in favor were much briefer and centered around 
 
 - At this time, Sam/Alameda's financial position was very strong due to returns on loans and investments in projects like Solana that greatly increased in value. FTX was also growing rapidly. Sam was considering a major funding round that could value him as the richest person in the world.
 
- Here is a summary:
+ 
 
 - CZ, the CEO of Binance, had settled in Dubai which has no extradition treaty with the US, useful given Binance's tendency to ignore regulations. 
 
@@ -440,7 +440,7 @@ The potential positive arguments in favor were much briefer and centered around 
 
  The largest shareholder of FTX after Sam was CZ, the founder of Binance. In mid-2021, Sam bought out CZ's stake in FTX for $2.275 billion, consisting of $2.2 billion for the shares CZ had paid $80 million for originally, plus an additional $75 million CZ insisted on at the last minute. This buyout occurred as Sam was facing more regulatory scrutiny and could not have both CZ as a major investor and also get on regulators' good side. It created a "cold war" between Sam and CZ going forward.
 
- Here is a summary:
+ 
 
 - Ian and Alfia were hired as architects to design a mini-city headquarters for crypto exchange FTX in the Bahamas. They were given little guidance and had to observe FTX employees to understand the company's structure and needs. 
 
@@ -454,7 +454,7 @@ The potential positive arguments in favor were much briefer and centered around 
 
 - Sam seemed unchanged from high school and just "winged it" during his speech, changing the topic rather than discuss the mini-city plans he knew nothing about.
 
- Here is a summary:
+ 
 
 - Ian, an architect working for Sam, had designed buildings for FTX around ideas like putting Sam's "Jewfro" on the side of a building or shipping in a one-ton tungsten cube, though these ideas were not serious. 
 
@@ -468,7 +468,7 @@ The potential positive arguments in favor were much briefer and centered around 
 
 So in summary, it outlines some of the disorganized structure and management issues at FTX from the perspectives of Ian the architect and George Lerner, as well as Sam's breakup with Caroline Ellison.
 
- Here is a summary:
+ 
 
 - Sam Bankman-Fried was considering helping to fund Elon Musk's $44 billion purchase of Twitter. Igor Kurganov, an advisor to Musk, reached out to Sam about bringing on additional investors to help finance the deal. 
 
@@ -478,7 +478,7 @@ So in summary, it outlines some of the disorganized structure and management iss
 
 - Nishad asked how involved they could actually get with Musk and whether it would lead to meaningful opportunities for effective altruism. Sam acknowledged Musk is "a weird dude" but didn't provide definitive answers to Nishad's questions.
 
- Here is a summary:
+ 
 
 - Sam was meeting with Nishad and Ramnik to discuss Elon Musk's request for funding to purchase Twitter. Sam believed investing would raise FTX's profile. 
 
@@ -492,7 +492,7 @@ So in summary, it outlines some of the disorganized structure and management iss
 
 - The story concludes with Sam meeting the author before meeting Mitch McConnell, but he had only brought a wrinkled suit without other necessary clothing items.
 
- Here is a summary:
+ 
 
 - Sam Bankman-Fried carries a suit with him only when traveling to Washington DC because the political stakes there justify the sacrifice of bringing formal wear. 
 
@@ -504,7 +504,7 @@ So in summary, it outlines some of the disorganized structure and management iss
 
 - Sam's political spending is aimed at both lobbying elected officials directly and putting supportive candidates into office, though he tries to hide the fact that the money comes from crypto to avoid negative associations. His goals are partly to help his own business but mainly to further causes like pandemic preparedness that he thinks are underfunded.
 
- Here is a summary:
+ 
 
 Sam spent tens of millions unsuccessfully trying to get Carrick Flynn elected to Congress in Oregon. Flynn's campaign was overwhelmed by negative ads from rivals funded by Sam. Voters realized Sam was trying to buy the election and turned against Flynn. Flynn acted erratically and finished second in the primary. 
 
@@ -512,7 +512,7 @@ Sam saw value in working with Mitch McConnell to influence Senate primaries. He 
 
 Effective altruists including Sam, Gary, Nishad and Caroline gathered at Albany resort in the Bahamas to discuss effective giving. They lived luxuriously in the penthouse of the Orchid building but filled it with computers, games and other items, turning the $30 million condo into a flophouse. In summary, Sam pursued political influence through vast spending but met challenges, while living lavishly with other EAs who did not focus strongly on luxury.
 
- Here is a summary:
+ 
 
 - The passage describes a meeting between members of FTX's philanthropic and business divisions. They discuss distributing large sums of money (potentially billions) to reduce existential risks to humanity like pandemics, asteroids, and advanced artificial intelligence. 
 
@@ -524,7 +524,7 @@ Effective altruists including Sam, Gary, Nishad and Caroline gathered at Albany 
 
 - As of late October 2022, not even a few weeks later, the plans are about to completely change due to unfolding events at FTX that will soon come to light.
 
- Here is a summary:
+ 
 
 - Stablecoins on platforms like FTX were supposed to have dollars held in insured bank accounts backing them 1:1, but there was no proof the dollars were actually there. The whole crypto system relied on a huge amount of trust. 
 
@@ -550,7 +550,7 @@ Effective altruists including Sam, Gary, Nishad and Caroline gathered at Albany 
 
 - The piece questions whether FTX truly didn't know the risks and full financial situation, or if they were unprepared despite possible warnings of issues. It remains unclear exactly what happened to the missing customer funds.
 
- Here is a summary:
+ 
 
 - FTX filed for bankruptcy after a liquidity crisis where customer deposits disappeared. CZ of Binance was initially willing to acquire FTX but backed out after inspecting their books. 
 
@@ -562,7 +562,7 @@ Effective altruists including Sam, Gary, Nishad and Caroline gathered at Albany 
 
 - By the end of the week, most key figures had fled, $450M in crypto was stolen from FTX wallets, and Sam remained in the Bahamas meeting with regulators and facing an uncertain legal situation.
 
- Here is a summary:
+ 
 
 - By Friday night after the FTX collapse, only two people remained at the Albany resort in the Bahamas where many FTX employees had been staying - Zane Tackett and Gary Wang. 
 
@@ -574,7 +574,7 @@ Effective altruists including Sam, Gary, Nishad and Caroline gathered at Albany 
 
 - By Monday, the only other signs of life were from Ryan Salame's house nearby where he and others had been staying. Zane and Gary were the last two employees remaining at the resort as everyone scrambled to understand what happened and deal with the fallout.
 
- Here is a summary:
+ 
 
 - Constance Wang, the COO of FTX, stayed in the Bahamas after the collapse to help obtain travel permits for her two cats, Lucky and Money, to bring them back to China. Her friend Quinn Li also stayed to help her. 
 
@@ -590,7 +590,7 @@ Effective altruists including Sam, Gary, Nishad and Caroline gathered at Albany 
 
 So in summary, Constance stayed to help her cats, understand what happened to FTX, and ensure Sam's well-being, while also investigating through internal documents she uncovered.
 
- Here is a summary:
+ 
 
 - Constance was the head of translation at FTX and helped uncover what happened with user funds. 
 
@@ -604,7 +604,7 @@ So in summary, Constance stayed to help her cats, understand what happened to FT
 
 - Sam's explanations failed to adequately account for the misuse of user deposits and lack of risk controls that contributed to FTX's collapse. Constance aimed to get more answers from him.
 
- Here is a summary:
+ 
 
 - In June, Caroline discovered that FTX's fiat account was showing $16 billion instead of the actual $8.8 billion. Gary discovered it was a software bug. 
 
@@ -620,7 +620,7 @@ So in summary, Constance stayed to help her cats, understand what happened to FT
 
 - Potential explanations like trading losses were not very persuasive given Alameda's claims of profitability. The crypto crash didn't fully explain where the hard dollars went.
 
- Here is a summary:
+ 
 
 - The Orchid penthouse apartments remained untouched after the collapse of FTX, preserving the occupants' states of mind. Caroline's room was messy like she left on vacation, Nishad's was clean like a hotel room. 
 
@@ -634,7 +634,7 @@ So in summary, Constance stayed to help her cats, understand what happened to FT
 
 - Police arrested Sam at the Orchid penthouse as he was sending congressional testimony about the FTX collapse. His family searched for things he might need in jail while he was taken away in handcuffs.
 
- Here is a summary:
+ 
 
 - John Ray is a veteran bankruptcy lawyer who was unexpectedly hired to take over as CEO of FTX after it filed for bankruptcy. He knew nothing about crypto or FTX beforehand. 
 
@@ -646,7 +646,7 @@ So in summary, Constance stayed to help her cats, understand what happened to FT
 
 - Ray's goals were to recover as many funds as possible for creditors through the bankruptcy process and to assist US authorities in investigating Sam and FTX for any criminal wrongdoing.
 
- Here is a summary:
+ 
 
 - John Ray was hired as the new CEO of FTX six days after it collapsed into bankruptcy. He described the financial situation as a complete failure of corporate controls and lack of trustworthy information. 
 
@@ -660,7 +660,7 @@ So in summary, Constance stayed to help her cats, understand what happened to FT
 
 - After months, Ray's team concluded FTX still owed customers $8.6 billion. Options to repay included continued investigations, selling remaining assets, and clawing back funds from those who received investments and donations from Sam.
 
- Here is a summary:
+ 
 
 - Ray, the bankruptcy trustee for FTX, was trying to claw back money from various people and entities that Sam Bankman-Fried had given money to while he was running FTX. 
 
@@ -672,7 +672,7 @@ So in summary, Constance stayed to help her cats, understand what happened to FT
 
 - Ray was suing Friedberg to claw back the value of the Serum tokens he had been granted, which Ray estimated was over $33 million at the time of FTX's bankruptcy based on Serum's market price. However, Friedberg was not able to freely sell the tokens due to vesting restrictions imposed by Sam.
 
- Here is a summary:
+ 
 
 - Soon after Serum's creation, its price skyrocketed unexpectedly. Sam had not anticipated this and now his employees felt rich in theory from their Serum holdings. 
 
@@ -684,7 +684,7 @@ So in summary, Constance stayed to help her cats, understand what happened to FT
 
 - So far Ray has recovered about $7 billion in liquid assets from FTX, with potential for more. But many questions remain about where the missing money went and Sam's full intentions and actions.
 
- Here is a summary:
+ 
 
 The passage suggests it is easier for people to give in to societal pressures and cave to popular opinion than it is for them to stay true to their own identities. 
 

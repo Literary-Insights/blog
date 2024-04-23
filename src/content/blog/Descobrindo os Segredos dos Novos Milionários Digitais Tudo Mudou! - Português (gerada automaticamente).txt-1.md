@@ -34,7 +34,7 @@ BOOK LINK:
 
 So in summary, it promotes a training event that claims to teach people how to become rich by leveraging artificial intelligence for global online marketing and sales without needing traditional business skills.
 
- Here is a summary:
+ 
 
 - The speaker is promoting a journey/course to teach people how to make money online and become digital marketers. 
 
@@ -68,7 +68,7 @@ So in summary, it promotes a training event that claims to teach people how to b
 
 - He wants to teach this method to help people understand what wastes money in Brazil and gain financial freedom outside the system. The summary focused on the professional experiences described rather than opinions shared.
 
- Here is a summary:
+ 
 
 - The production of wealth has changed over time. The first industrial revolution from 1760-1840 was powered by steam engines. The rich were those who owned machines and factories. 
 
@@ -84,7 +84,7 @@ So in summary, it promotes a training event that claims to teach people how to b
 
 So in summary, the production of wealth continually changes over time with new technologies. To succeed now requires using the latest methods like AI, rather than outdated individual skills-based approaches people often teach.
 
- Here is a summary:
+ 
 
 - It discusses the challenges of building a website and needing skills in areas like video, copywriting, traffic, etc. But learning all these skills takes a long time and is confusing. 
 
@@ -100,7 +100,7 @@ So in summary, the production of wealth continually changes over time with new t
 
 In summary, it discusses the challenges small digital entrepreneurs face due to lack of skills and high costs, and how intelligence artificial can help by making many tasks more efficient than human capabilities alone. It analyzes how the Brazilian market has matured over time.
 
- Here is a summary:
+ 
 
 - The speaker talks about how countries become more sophisticated through 5 phases of sophistication. In the 5th phase, the market starts to get "dirty" where people lie not just about promises but how promises will be fulfilled. 
 
@@ -114,7 +114,7 @@ In summary, it discusses the challenges small digital entrepreneurs face due to 
 
 - In summary, the speaker analyzes problems with the Brazilian market and how focusing their business globally helped find more success and stability compared to targeting Brazil alone. Examples of typical Brazilian issues are given around payment and inconsistent consumer behavior.
 
- Here is a summary:
+ 
 
 - The presentation focused on selling eBooks as a business opportunity. Some key points mentioned:
 

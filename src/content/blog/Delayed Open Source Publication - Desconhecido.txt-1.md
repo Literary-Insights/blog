@@ -32,7 +32,7 @@ BOOK LINK:
 
 In summary, the paper provides a survey of the history and examples of Delayed Open Source Publication licensing strategies, outlines common models, and identifies trends and open questions for further exploration.
 
- Here is a summary:
+ 
 
 - Qt and Ghostscript were early projects that used Delayed Open Source Publication (DOSP) to balance commercial and open source interests. Qt maintained separate proprietary and open source editions for a time. 
 
@@ -50,7 +50,7 @@ In summary, the paper provides a survey of the history and examples of Delayed O
 
 - Other models involve sponsor/bounty delays, making features available first to sponsors before the general public after a fixed time delay.
 
- Here is a summary:
+ 
 
 - The Business Source License (BUSL) is a delayed open source license created by MariaDB that initially restricts commercial use but requires the code to be released under an open source license after a set "Change Date". 
 
@@ -62,7 +62,7 @@ In summary, the paper provides a survey of the history and examples of Delayed O
 
 In summary, BUSL is a delayed open source license that initially restricts commercial use but requires later open sourcing, adopted by several prominent projects to balance open source and commercial interests but also attracting some criticism from open source advocates.
 
- Here is a summary:
+ 
 
 - BUSL and other projects like it adopt licenses with non-competition clauses that restrict commercial use of the software, especially providing competing services, for a set period of time (e.g. 2 years for the Functional Source License). 
 
@@ -74,7 +74,7 @@ In summary, BUSL is a delayed open source license that initially restricts comme
 
 - The key distinction is that delayed open source licenses aim to balance proprietary and open source rights, while BOSL balances non-reciprocal and reciprocal open source licensing models.
 
- Here is a summary:
+ 
 
 The passage discusses future research questions around delayed open source publication (DOSP) licensing models. It proposes studying the differences between using the AGPL versus DOSP licenses, the impact of DOSP on outside contributions, taxonomy of additional use grants in the Business Source License (BUSL), and relicensing projects under DOSP after initial open source publication. It also questions why a fork of the Terraform project called OpenTofu attracted significant interest and contributions compared to forks of other projects. Overall, the questions aim to better understand the tradeoffs, effects, and adoption of DOSP licensing over time compared to traditional open source licensing.
 

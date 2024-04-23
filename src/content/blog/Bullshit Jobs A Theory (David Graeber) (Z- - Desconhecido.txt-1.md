@@ -387,7 +387,7 @@ So in certain circumstances, bullshit jobs can offer some modest advantages. For
 
 - Lilian's story demonstrates the anxiety and demoralization that can come from having a meaningless job where you aren't allowed to talk about the lack of work.
 
- Here is a summary:
+ 
 
 The essay describes the misery that can result when someone's job is completely pointless. Even if the job conditions are decent, the knowledge that one's work has no meaningful impact can lead to intense frustration. The essay provides examples of people who gradually realized their jobs were bullshit - they were just being paid to do nothing of value. 
 

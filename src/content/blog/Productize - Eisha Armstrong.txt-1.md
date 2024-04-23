@@ -50,7 +50,7 @@ In summary, the endorsements praise Productize for providing an actionable bluep
 
 - The book aims to provide tools and templates to help firms implement strategies discussed and avoid common mistakes in transitioning to more product-led models.
 
- Here is a summary:
+ 
 
 - Developing products and services can help professional services firms improve profit margins, revenue visibility, and valuations compared to traditional consulting models. Products typically have gross margins of 60-90% vs 40% for services. 
 
@@ -160,7 +160,7 @@ So in summary, it presents the Productize Pathway as a framework for businesses,
 
 - As a starting point, 2-3% of revenue can be invested in exploring market needs and testing early product hypotheses. Successful companies fund product development primarily from profits.
 
- Here is a summary:
+ 
 
 - Companies adopting a productization strategy typically allocate 10-30% of revenue to their innovation budget. The size depends on how much digital disruption the company faces. 
 
@@ -222,7 +222,7 @@ Marketing strategies: Understanding effective content channels (e.g. email, soci
 
 The key steps described are: 1) Develop hypotheses about customer problems/needs, 2) Refine hypotheses by researching competitive landscape, and 3) Test hypotheses through interviews, advisory boards, surveys, and analytics to validate problems and gather feedback on potential solutions before launching products. Overall the focus is on deeply understanding problems from the customer perspective to develop valuable and usable solutions.
 
- Here is a summary:
+ 
 
 - Peers were benchmarking their own pandemic responses to increase survey response rates. It helps to clearly inform respondents how long a survey will take upfront.
 
@@ -270,7 +270,7 @@ Some key ways to generate and test new product ideas include:
 
 The overall idea is to use consumer insights, ranking systems and competition to motivate brands to continuously improve their cultural fluency and relevance for different audiences over time.
 
- Here is a summary:
+ 
 
 - When testing pricing, avoid directly asking customers what they would pay and instead ask what they pay for similar existing products. 12 concept testing interviews is usually enough to gather initial feedback. 
 
@@ -314,7 +314,7 @@ In other words, co-design and co-development require involving customers and dev
 
 Theodore Roosevelt advises against being a "cold and timid" soul who is unwilling to take risks or make difficult choices that involve either victory or defeat. Rather than avoiding challenging situations where one might fail or succeed, Roosevelt encourages embracing risk, daring greatly, and being willing to face both potential victory and potential defeat through courageous action. He sees avoiding risk as a sign of weakness and celebrating fearlessness as a virtue.
 
- Here is a summary:
+ 
 
 - The passage discusses the freemium business model, where a basic/limited version of a product or service is offered for free to attract customers. As customers' needs grow, they are upsold to paid premium versions. 
 
@@ -362,6 +362,6 @@ The key is to develop a clear and ongoing approach to educate the sales team and
 
 - The summary focuses on the importance of tracking key metrics and customer feedback to evaluate product hypotheses and understand what's driving success or lack thereof, in order to inform ongoing improvements and ensure the product continues meeting business goals.
 
- Here is a summary:
+ 
 
 The passage discusses principles to keep in mind when going on a productization journey. It suggests thinking big but starting small by taking a productize pathway rather than launching products that are too big or perfect. It also recommends focusing on creating a product-friendly culture before processes. Companies should also align to support innovation rather than favor core businesses. Products should solve urgent and expensive problems for customers by defining the right problem through co-design and development. Fears of cannibalization should not hinder bold launches and MVPs should be iterated on rather than just stopping there. Following these principles can help increase success on the productization journey.

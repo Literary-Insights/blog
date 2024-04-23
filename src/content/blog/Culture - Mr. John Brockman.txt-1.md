@@ -592,7 +592,7 @@ So in summary, Wikipedia shows the power of collective intelligence, but some de
 
 - Morozov criticizes focus on social media's impact on protest movements rather than other areas. The debate centers on the real-world impact of online coordination.
 
- Here is a summary:
+ 
 
 The authors debate the impact of the internet and social media on authoritarian regimes like China and Iran. 
 

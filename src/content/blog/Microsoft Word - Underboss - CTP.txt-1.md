@@ -505,7 +505,7 @@ In summary, it illustrates the complex web of deceit and violence that can arise
 
 - Castellano faced dissent within his own family but did not want to spark war by directly confronting the Bergin crew and Dellacroce. He was hoping the charges against Ruggiero would go away once the tapes had to be revealed.
 
- Here is a summary:
+ 
 
 - Castellano was indicted in connection with Roy DeMeo's murderous auto theft ring, which made him more tense and withdrawn. Though he seemed not guilty, he still had a problem since he took money from DeMeo and used him for hits. 
 
@@ -547,7 +547,7 @@ In summary, it illustrates the complex web of deceit and violence that can arise
 
 - They made lists of other potential threats in their own family who might need to be killed after Castellano.
 
- Here is a summary:
+ 
 
 - Some members of the Gambino crime family, including Paul Castellano's brother Tommy Bilotti, won't be happy about the hit on Castellano. 
 
@@ -629,7 +629,7 @@ Does this accurately summarize the key points? Let me know if you would like me 
 
 The key points focus on how Sammy treated his crew, which differed from how Gotti thought crews should be handled. Sammy rewarded generosity while Gotti wanted dependence. The FBI surveillance paints a picture of Sammy's leadership role.
 
- Based on the passage, here is a summary:
+ Based on the passage, 
 
 The FBI agents Spero and Tricorico conducted surveillance on Sammy Gravano at Tali's restaurant in Brooklyn on Tuesday nights. Tali's was where Sammy and other mobsters from various mafia families would meet and socialize. The agents observed the attendees, who included union officials, construction executives, contractors etc., to gather intelligence on Sammy's operations. However, they could not get too close without being noticed. Sammy's son Joey would keep watch for the agents. The agents considered bugging Tali's but it was too noisy to get clear recordings. 
 
@@ -637,7 +637,7 @@ After the murder of Robert DiBernardo, Sammy became the Gambino family's link to
 
 Sammy's biggest legitimate business was a stake in the Gem steel erection company. He decided to stop taking kickbacks and form his own company S&G Consulting to bid on construction contracts directly. He would still pay kickbacks to Gotti but often jacked up the contract price further for more profit. While the FBI saw Sammy as a gangster, he took pride in doing quality work on construction projects.
 
- Here is a summary:
+ 
 
 - Sammy had a good reputation in the construction business for doing quality work and staying with jobs even when they lost money. This built trust and brought him more business. 
 

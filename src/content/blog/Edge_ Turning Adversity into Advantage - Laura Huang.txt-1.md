@@ -42,7 +42,7 @@ BOOK LINK:
 
 - Stories will illustrate enriching, delighting, guiding perceptions away from stereotypes, and allocating effort plus hard work to face challenges and smooth success. The goal is to empower readers with understanding of perceptions and attributions to create their own edge.
 
- Here is a summary:
+ 
 
 - Mirai Nagasu's story exemplifies working hard through her upbringing of seeing her parents work tirelessly in their sushi restaurant. She developed a strong work ethic as a result.
 
@@ -66,7 +66,7 @@ BOOK LINK:
 
 - Rather than waiting for perfect systemic change, individuals need to assume bias exists and take steps to navigate disadvantage through influencing perceptions and creating new opportunities for themselves. The onus is on the individual as much as the system.
 
- Here is a summary:
+ 
 
 - The key to gaining an edge for yourself, your team or organization is to both bring value and enrich what would otherwise be, and have others recognize that you bring value. 
 
@@ -78,7 +78,7 @@ BOOK LINK:
 
 - Ultimately gaining an edge requires both truly enriching/adding value through your work, as well as guiding others' perceptions so they recognize the value you bring through things like branding, positioning yourself, and allowing your work to shine through. It's about connecting the two components of value and perception of value.
 
- Here is a summary:
+ 
 
 - In 1910, Henri Poincaré received 34 out of 58 nominations for the Nobel Prize in Physics, amounting to 59% of nominations, for his groundbreaking work in theoretical physics and mechanics. 
 
@@ -108,7 +108,7 @@ BOOK LINK:
 
 So in summary, the key message is to identify your real strengths and focus there rather than overlooking weaknesses or trying to do too much. Build from your core competencies over time through refinement rather than superficial growth.
 
- Here is a summary:
+ 
 
 - Bryan Scudamore dropped out of high school and struggled to complete college, attending and dropping out of multiple programs. 
 
@@ -120,7 +120,7 @@ So in summary, the key message is to identify your real strengths and focus ther
 
 - He advised others to grow where they are planted and make the most of any perceived weaknesses or hardships in their background rather than feel defined by them. His story shows how entrepreneurial success is possible despite educational gaps.
 
- Here is a summary:
+ 
 
 - Asus was an unknown company that noticed big tech companies were moving on from laptops to tablets, leaving the "laggard" consumers behind. 
 
@@ -134,7 +134,7 @@ So in summary, the key message is to identify your real strengths and focus ther
 
 - The scientists who questioned Theranos early on were proven right, showing the value of an educated skepticism and ability to detect "incongruity" or flaws that others miss due to being swept up in opportunity.
 
- Here is a summary:
+ 
 
 The passage describes two product failures - an advanced air-powered umbrella and a WiFi-enabled juicer - that failed because the creators did not properly consider user needs and constraints. 
 
@@ -156,7 +156,7 @@ The passage argues that having an atypical perspective allows one to see flaws a
 
 - The lesson is that by not focusing on constraints like $5 and thinking more broadly, greater opportunities can be uncovered that don't require using the initial resources at all. Seeing beyond limits leads to the highest achievements.
 
- Here is a summary:
+ 
 
 - A student team hosted a talent showcase where they taught various skills and talents. They charged $20 for participants to attend and had over 20 attendees, so they made a profit. 
 
@@ -166,7 +166,7 @@ The passage argues that having an atypical perspective allows one to see flaws a
 
 - Constraints like a lack of start-up capital or experience don't have to limit opportunities. These student teams found ways to leverage what resources they did have access to in order to identify problems on campus and provide services to solve them, making a profit in the process.
 
- Here is a summary:
+ 
 
 - Hairdressers and other beauty professionals in Illinois are now required to undergo domestic violence and sexual assault training. This is because victims often open up to their hairdressers, who develop close relationships with clients over time. 
 
@@ -192,7 +192,7 @@ The passage argues that having an atypical perspective allows one to see flaws a
 
 - Practicing bricolage, identifying shared pain points, and using inversion are ways to hone exponential thinking skills and come up with extraordinary ideas that can truly enrich lives.
 
- Here is a summary:
+ 
 
 The passage discusses the difference between viewing problems and solutions from different perspectives - problems in search of solutions versus solutions in search of problems. 
 
@@ -202,7 +202,7 @@ The passage also contrasts the narratives and financial numbers of two discount 
 
 In general, the passage discusses how focusing on solutions first rather than problems can lead to more unexpected connections and ideas. And it's important to examine whether the narrative and numbers of a situation are truly aligned or reveal incongruities. Viewing situations from different perspectives can provide deeper insights.
 
- Here is a summary:
+ 
 
 - The narrative and numbers presented by a company need to be congruent and align with each other for the story to make sense. Inconsistencies between the two can reveal flaws. 
 
@@ -228,11 +228,11 @@ So in summary, consistency between a company's narrative and numeric projections
 
 - His strategy was to unsettle Coldplay's perspective, make his request seem benign and safe, and emphasize how the song could be reclaimed and made beautiful for Asians rather than offensive. This convinced Coldplay to allow the song's use.
 
- Here is a summary:
+ 
 
 The passage discusses the importance of being "nearly ready" or prepared to delight and improvise when opportunities arise, rather than being completely unprepared or overplanned. It relates the story of an entrepreneur, Oussama Ammar, who was trying to get funding from an investor but kept failing. By chance, the investor gave his business card to Oussama's girlfriend after meeting her at a bar. Oussama realized it was the same investor and convinced his girlfriend to invite the man to dinner under false pretenses, just so Oussama could make his pitch. Though an unexpected situation, Oussama was knowledgeable enough about his business that he could still delight and persuade the investor, who became one of their most important backers. The ability to improvise through preparation, without being rigidly stuck to plans, allows one to capitalize on unexpected opportunities to connect with others.
 
- Here is a summary:
+ 
 
 - The passage discusses how Optical Distortion Inc. (ODI) developed contact lenses that can diminish a chicken's vision through reduced field of vision and distortion, especially when the lenses are colored red. 
 
@@ -254,7 +254,7 @@ The passage discusses the importance of being "nearly ready" or prepared to deli
 
 3. Shaping interactions within a given situation draws from flexibly understanding context clues and improvising accordingly, rather than relying solely on preplanned responses. This helps maximize opportunities to connect and impress others through conversation. True delight comes from appreciating nuances in the moment.
 
- Here is a summary:
+ 
 
 - The author was invited for a fly-out interview at the Wharton School for their job talk. She felt it was a long shot and only had a 3% chance of getting the job. 
 
@@ -266,7 +266,7 @@ The passage discusses the importance of being "nearly ready" or prepared to deli
 
 So in summary, the author felt it was an unlikely chance to get the job, but through authentic, casual conversation where she was truthful and engaged as an equal, she was able to make a strong positive impression on the key faculty members at the important pre-talk dinner.
 
- Here is a summary:
+ 
 
 - The passage discusses how to delight others in order to gain an advantage in professional situations like interviews or networking. 
 
@@ -280,11 +280,11 @@ So in summary, the author felt it was an unlikely chance to get the job, but thr
 
 - The overall message is to stay authentic, look for unexpected opportunities to shape conversations, and guide how others perceive your worth in order to influence career outcomes. Delighting others in an authentic way gives you influence over important levers like job opportunities.
 
- Here is a summary:
+ 
 
 The passage discusses the concept of "being yourself" and self-awareness. While self-awareness is important to understand one's own strengths and values, it is not enough on its own. One must also understand how others perceive you and how context affects perceptions. Tests like Myers-Briggs that aim to categorize personalities are problematic because they assume personality traits are static, when in reality personalities are fluid and adapt based on context. Truly understanding oneself requires balancing an internal sense of self with an awareness of external factors and others' perceptions. The goal should be presenting an authentic yet adaptive version of oneself tailored to different contexts and situations, rather than limiting oneself based on a static view of personality. Understanding both inner self-knowledge as well as outer contextual factors is key to guiding others' perceptions effectively.
 
- Here is a summary:
+ 
 
 The passage discusses the challenge of reconciling internal self-perception with external perceptions from others. While we start with a strong internal sense of self, this gets shaped by what others tell us about ourselves. We are inevitably affected by how others see us. 
 
@@ -294,7 +294,7 @@ The key is to understand our own self-perception first, then take an active role
 
 The story of Ashley Edwards is used as an example. She faced challenges having her tech nonprofit taken seriously due to her race and background. But by embracing all aspects of her identity, including her education, and guiding others' understanding of who she is, she was able to cultivate an edge for herself and her organization. The passage advocates empowering oneself through an integrated sense of self, rather than being defined solely by external perceptions.
 
- Here is a summary:
+ 
 
 - Ashton Kutcher explained his strategy of doing "one for them, and one for me" when choosing movie roles. He would do mainstream romantic comedies ("for them") to maintain his celebrity status and audience, while also doing more artistic, personal projects ("for me"). This allowed him to balance external demands with his own artistic ambitions. 
 
@@ -302,7 +302,7 @@ The story of Ashley Edwards is used as an example. She faced challenges having h
 
 - The key lessons are to balance external expectations with your internal ambitions, like Kutcher did, and to stick with challenging paths if you can't clearly identify better alternatives, as the author's father advised. Having a vague sense of directionality, rather than absolutes, allows you to guide others' perceptions while embracing multiple aspects of yourself.
 
- Here is a summary:
+ 
 
 - A science professor, Dr. Laura Bottomley, called a struggling engineering student into her office after an exam. Though the student didn't know the proper coding syntax, Dr. Bottomley recognized he understood the concepts and thinking processes. She gave him a C grade and encouragement. 
 
@@ -310,7 +310,7 @@ The story of Ashley Edwards is used as an example. She faced challenges having h
 
 - The professor encouraged the student to give himself a chance and embrace who he is, assuring him that we are all "diamonds that sparkle in different ways." Her support and belief in the student's abilities helped him continue pursuing engineering.
 
- Here is a summary:
+ 
 
 - Cyrus Habib is an Iranian immigrant who ran for lieutenant governor of Washington despite being blind from a young age and facing stereotypes about his abilities due to his disability. 
 
@@ -324,7 +324,7 @@ The story of Ashley Edwards is used as an example. She faced challenges having h
 
 - Research found no actual difference in communication abilities based on foreign accents. However, stereotypes subtly influenced promotion decisions as people with accents received lower ratings on vague attributes actually used to justify not promoting them.
 
- Here is a summary:
+ 
 
 - Researchers found that non-native English speakers and entrepreneurs with non-native accents faced disadvantages when seeking promotions or funding, as they were deemed less "interpersonally skilled."
 
@@ -334,7 +334,7 @@ The story of Ashley Edwards is used as an example. She faced challenges having h
 
 - Successful individuals like Dawn Fitzpatrick were able to guide perceptions by leveling power differences, emphasizing cooperative interdependence, and helping others see their qualifications rather than focusing on attributes like gender that typically face more discrimination. Being aware of how others see you allows you to then redirect them to a more beneficial view.
 
- Here is a summary:
+ 
 
 - Forming impressions of people is like putting together a jigsaw puzzle - we start with a vague idea and clarity comes as we get more information, but each new person provides a new "puzzle". 
 
@@ -358,7 +358,7 @@ The story of Ashley Edwards is used as an example. She faced challenges having h
 
 - His story shows how being authentic to one's strengths, rather than conforming to others' perceptions, can lead to enduring success in the long run despite initial biases. Focusing inward builds confidence vs constantly worrying about external validation.
 
- Here is a summary:
+ 
 
 - Getting an academic position after a PhD involves a strategic application process months in advance, including assembling materials, attending conferences, and setting up interviews. 
 
@@ -384,7 +384,7 @@ The story of Ashley Edwards is used as an example. She faced challenges having h
 
 So in summary, the passage discusses how articulating one's own trajectory can shape others' perceptions of you in a powerful way by guiding their understanding of your value and potential.
 
- Here is a summary:
+ 
 
 - Beatriz owned her language deficiency and kept practicing her German. She noticed interviewers would do most of the talking if she openly shared she was from Spain and her German was still developing. 
 
@@ -398,7 +398,7 @@ So in summary, the passage discusses how articulating one's own trajectory can s
 
 - Her trajectory of overcoming challenges through grit and risk-taking helped her communicate her strengths to employers and get opportunities. Focusing on the future rather than past struggles was key. Different people can convey different types of trajectories effectively depending on their background.
 
- Here is a summary:
+ 
 
 - The author used to walk from their office to the train station daily when first living in a big city. They missed trains multiple times by only budgeting 20 minutes. 
 
@@ -504,7 +504,7 @@ In conclusion, the article asserts that the synergies created through the startu
 
 - Additional concepts summarized include corporate incubators that support startups, the importance of intuition and gut feelings in innovation, examples of famous inventors and innovations, challenges faced by job seekers and women entrepreneurs, racial bias and stereotypes, and strategies for guiding perceptions and opportunities.
 
- Here is a summary:
+ 
 
 - The passage describes how bike riders in Taiwan would wrap banana peels around their handlebars to eat on the go, which is innovative but also somewhat disgusting. 
 
@@ -524,7 +524,7 @@ In conclusion, the article asserts that the synergies created through the startu
 
 - The origins of "PC" and early computer games being designed to teach mouse skills are noted.
 
- Here is a summary:
+ 
 
 - There is debate around whether "coolers" exist - people employed by casinos to disrupt gamblers on hot streaks and change the odds in the casino's favor. 
 

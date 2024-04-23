@@ -32,7 +32,7 @@ BOOK LINK:
 
 - The Age of Diminished Expectations: Examines the rise of "deficit obsession" in the US and argues it has contributed to slow economic growth and rising inequality since the 1970s. Advocates for more active fiscal and monetary policies.
 
- Here is a summary:
+ 
 
 - The chapter focuses on the impact of unemployment in the United States during and after the Great Recession. 
 
@@ -48,7 +48,7 @@ BOOK LINK:
 
 In summary, the chapter outlines how widespread and devastating persistent unemployment has been during and after the Great Recession in the United States. Both the economic and psychological toll on individuals and families is emphasized.
 
- Here is a summary:
+ 
 
 - Long-term unemployment is damaging to individuals and the economy. It can lead to loss of dignity, financial distress, anxiety, depression and being seen as unemployable. 
 
@@ -60,7 +60,7 @@ In summary, the chapter outlines how widespread and devastating persistent unemp
 
 - Prolonged weakness is hurting long-term economic potential through channels like long-term unemployment reducing the effective workforce, and low business investment decreasing manufacturing capacity.
 
- Here is a summary:
+ 
 
 - Business investment is low currently not because of uncertainty or fear, but because businesses simply aren't selling enough to use their existing production capacity. 
 
@@ -76,7 +76,7 @@ In summary, the chapter outlines how widespread and devastating persistent unemp
 
 - However, this ongoing depression does not need to be happening as the knowledge and tools exist to end it. Political will and overcoming ideological biases are needed to solve this problem. The future remains uncertain but recovery is possible if the right actions are taken.
 
- Here is a summary:
+ 
 
 - Many economists, including Keynes, argued that recessions and depressions are caused by a lack of aggregate demand in the economy - not enough spending by consumers, businesses, and governments combined. 
 
@@ -88,7 +88,7 @@ In summary, the chapter outlines how widespread and devastating persistent unemp
 
 So in summary, the babysitting co-op story provides a clear example to rebut the idea that aggregate demand cannot decrease, and supports Keynes' argument that recessions can be caused by a lack of overall spending in the economy.
 
- Here is a summary:
+ 
 
 - The story describes a babysitting co-op where members earned "coupons" for babysitting that could then be used to get babysitting services for themselves. 
 
@@ -104,7 +104,7 @@ So in summary, the babysitting co-op story provides a clear example to rebut the
 
 So in summary, it used the simple example of a babysitting co-op to illustrate key economic concepts like interconnected spending, demand-driven recessions, and the limits of monetary policy.
 
- Here is a summary:
+ 
 
 - The Fed tried to boost the economy by pushing more cash into banks to increase liquidity and drive down interest rates, making it cheaper to borrow and spend. However, interest rates cannot go below zero. 
 
@@ -116,7 +116,7 @@ So in summary, it used the simple example of a babysitting co-op to illustrate k
 
 - The solution is obvious - spending must increase to match reduced private sector spending. In the late 1930s, this came from increased government military spending before WWII, helping boost the economy out of depression. However, many refuse to see increased spending as the answer.
 
- Here is a summary:
+ 
 
 - As America entered WWII, military spending soared to replace equipment sent to allies through lend-lease and to house and equip millions of new military recruits. This spending created jobs and boosted incomes. 
 
@@ -130,7 +130,7 @@ So in summary, it used the simple example of a babysitting co-op to illustrate k
 
 - The 2008 crisis demonstrated Minsky's "financial instability hypothesis" - a crisis occurred due to high leverage levels after a long period of stability. His ideas are now seen as more relevant given recent events.
 
- Here is a summary:
+ 
 
 The economy finds itself in a situation of widespread debt trouble. Individual actions taken to get out of debt, such as homeowners selling houses or consumers reducing spending to pay off credit cards, end up being self-defeating. This is because they collectively drive down home prices, slow the economy, eliminate jobs, and make the debt burden even worse. 
 
@@ -152,7 +152,7 @@ The buildup of too much debt sets the stage for what Hyman Minsky called a "Mins
 
 So in summary, the passage discusses how deregulation and lack of regulatory updates allowed risky behaviors in the financial system that contributed to the crisis, in contrast to the more regulated environment after the Great Depression.
 
- Here is a summary:
+ 
 
 - In the past, goldsmiths began storing gold coins for people and issuing paper receipts that could circulate as a form of currency. This established the basis for modern banking. 
 
@@ -164,7 +164,7 @@ So in summary, the passage discusses how deregulation and lack of regulatory upd
 
 - However, deregulation beginning in the 1980s enlarged risks by allowing higher-risk activities and loosening lending restrictions. This contributed to financial problems in the savings and loan crisis and helped set the stage for greater instability.
 
- Here is a summary:
+ 
 
 - Shadow banking refers to financial activities that serve the same purposes as traditional banking (taking deposits, lending, etc.), but operate outside normal banking regulations. It includes money market funds, repo lending, and auction rate securities. 
 
@@ -176,7 +176,7 @@ So in summary, the passage discusses how deregulation and lack of regulatory upd
 
 - Even during periods of economic growth fueled by debt, problems were emerging, like the savings and loan crisis caused by earlier deregulation in the 1980s that cost taxpayers dearly. The good times were not as positive as they seemed due to growing risks from an increasingly deregulated system.
 
- Here is a summary:
+ 
 
 - In the early 2000s, hedge fund managers in Greenwich, CT were building enormous mansions, sometimes buying historic estates just to tear them down and build even bigger palaces, often 15,000+ square feet. 
 
@@ -188,7 +188,7 @@ So in summary, the passage discusses how deregulation and lack of regulatory upd
 
 - The explosion of incomes for the very rich, like hedge fund managers building mansions, may have led deregulation supporters to incorrectly believe everyone was experiencing extraordinary growth, when in fact it was limited to just a handful at the top. This inequality calls into question claims that deregulation unambiguously benefited the economy.
 
- Here is a summary:
+ 
 
 - The incomes of the richest one-tenth of one percent of Americans saw a 660% gain from 1979-2007, far outpacing overall economic growth and gains for middle-income Americans. 
 
@@ -204,7 +204,7 @@ So in summary, the passage discusses how deregulation and lack of regulatory upd
 
 - The proliferation of lavish homes, or "Taj Mahals," in places like Connecticut reflects the dramatic rise in incomes at the very top of American society in recent decades.
 
- Here is a summary:
+ 
 
 - The company was founded in 1870 and declared bankruptcy in 2009. 
 - It was Simmons, a furniture manufacturer based outside Atlanta. 
@@ -213,7 +213,7 @@ So in summary, the passage discusses how deregulation and lack of regulatory upd
 - However, the private equity firm Thomas H. Lee Partners that had bought Simmons in 2003 for $1 billion actually made a profit off the deal. They collected hundreds of millions in special dividends and fees from the company as its fortunes declined. 
 - So while investors and employees suffered greatly from the bankruptcy, the private equity owners managed to profit from the downfall of the company.
 
- Here is a summary:
+ 
 
 - Robert Lucas asserted in 2003 that depressions were a thing of the past and economists had learned enough since the 1930s to prevent them. However, as the global financial crisis showed, this turned out not to be true. 
 
@@ -237,7 +237,7 @@ So in summary, the passage discusses how deregulation and lack of regulatory upd
 
 - The influence of the wealthy upper classes likely colored academic economic discussions away from Keynesianism through donors, fellowships, jobs in a way basic lessons from the 1930s were forgotten. Financial markets came to be seen as perfectly rational despite evidence of bubbles and crashes.
 
- Here is a summary:
+ 
 
 - CAPM and modern finance theory became popular in business schools in the 1960s-70s as they were elegant, convenient, and lucrative for professors. However, evidence for theories like efficient markets hypothesis was limited. 
 
@@ -265,7 +265,7 @@ So in summary, certain influential economic theories became entrenched despite f
 
 So in summary, the passage critiques how ideological divides and resistance undermined the policy response to the crisis, arguing bolder action was needed from the beginning to properly address the scale of unemployment. Both supporters and critics of action showed flaws in their thinking and willingness to acknowledge shortcomings.
 
- Here is a summary:
+ 
 
 The article discusses the origins and unfolding of the 2008 financial crisis. It traces how the bursting of the housing bubble in the US led to large losses on mortgage-backed securities, undermining major financial institutions. This caused a credit crunch as banks became unwilling to lend. 
 
@@ -273,7 +273,7 @@ The failure of Lehman Brothers in September 2008 triggered a "run" on the shadow
 
 The government acted decisively to rescue the financial system, pumping huge sums into banks to ensure their stability. However, the stimulus provided for the real economy was inadequate. By late 2008, it was clear the economy faced a serious downturn as household wealth declined, despite the financial sector showing signs of recovery in early 2009. The article argues a much more forceful response was needed to promote economic growth and jobs.
 
- Here is a summary:
+ 
 
 - The US economy fell $13 trillion in value in 2008 due to the financial crisis, resulting in a sharp drop in consumer and business spending. 
 
@@ -317,7 +317,7 @@ In summary, the plan critiques the Obama administration for the inadequacy of it
 
 So in summary, the passage argues fears about deficits were overblown and did not recognize that standard economic theories did not necessarily apply in a depressed, low-inflation economy still needing fiscal stimulus. Deficit warnings ended further stimulus efforts despite poor jobs recovery.
 
- Here is a summary:
+ 
 
 - A liquidity trap occurs when even at a zero interest rate, people are unwilling to spend as much as businesses are willing to produce. In other words, there is excess savings relative to business investment. 
 
@@ -345,7 +345,7 @@ So in summary, the passage argues fears about deficits were overblown and did no
 
 - The debt from stimulus does not have the same negative effect as past household and private sector debt, because government debt is money owed to ourselves rather than an unsustainable private debt buildup. Borrowing by the government now can help remedy problems caused by past private borrowing excesses.
 
- Here is a summary:
+ 
 
 - The author argues that fears of high inflation in the U.S. have not materialized despite dire warnings from commentators and economists. Inflation has remained relatively low since 2009.
 
@@ -357,7 +357,7 @@ So in summary, the passage argues fears about deficits were overblown and did no
 
 - So fears of hyperinflation or a repeat of Weimar Germany have been unfounded given the economic conditions of high unemployment and weak demand in the U.S. and other Western nations after the financial crisis. Inflation fears have outweighed economic realities.
 
- Here is a summary:
+ 
 
 - When the Federal Reserve purchases assets from banks by crediting their reserve accounts, this increases the money supply. However, in normal times this extra money would be lent out by banks and lead to higher spending and demand in the economy, which could cause inflation.
 
@@ -369,7 +369,7 @@ So in summary, the passage argues fears about deficits were overblown and did no
 
 - So despite massive money printing, inflation did not accelerate significantly because the liquidity trap environment prevented the extra money from stimulating much higher spending and demand in the real economy. The risk of inflation remained low.
 
- Here is a summary:
+ 
 
 - In mid-2011, inflation rose due largely to higher commodity prices like gasoline, but core inflation measures excluding food and energy increased much less. Wage growth did not accelerate. 
 
@@ -411,7 +411,7 @@ So in summary, the passage argues fears about deficits were overblown and did no
 
 - In summary, the literature suggested Europe did not meet key optimal currency area criteria like labor mobility and fiscal integration. But these warnings were overlooked due to the political motives behind forming the eurozone.
 
- Here is a summary:
+ 
 
 - The author argues that Europe's belief that its crisis was caused by fiscal irresponsibility (excessive government debts and deficits) is a "Big Delusion", not entirely backed by facts. 
 
@@ -437,7 +437,7 @@ So in summary, the passage argues fears about deficits were overblown and did no
 
 - Beginning in 2010, many policymakers and economists embraced "austerian" views favoring immediate spending cuts and austerity even during high unemployment, contradicting textbook advice and historical lessons from the Great Depression era. This view came to rapidly dominate debate.
 
- Here is a summary:
+ 
 
 - The Organization for Economic Cooperation and Development (OECD) is seen as a bellwether of conventional economic wisdom. 
 
@@ -487,7 +487,7 @@ So in summary, austerity was found to contract economies and raise unemployment 
 
 So in summary, the passage questions the effectiveness of UK austerity policies and examines possible reasons beyond economic theory for their ongoing appeal, despite evidence they are worsening the economic situation.
 
- Here is a summary:
+ 
 
 - An influential 1943 essay pointed out that business lobbies effectively have veto power over government actions as long as restoring business confidence is seen as the only route to full employment. But more expansionary monetary and fiscal policies could make business confidence less important. 
 
@@ -511,7 +511,7 @@ So in summary, the passage questions the effectiveness of UK austerity policies 
 
 - More aggressive action is needed from both fiscal policy through increased government spending, and monetary policy from the Fed, to help boost the economy back to full strength according to the author.
 
- Here is a summary:
+ 
 
 - The author argues that the current economic depression is unnecessary and could be ended more quickly and easily than assumed if the right policies are pursued. 
 

@@ -39,7 +39,7 @@ Overall, Ball makes the case that the Metaverse represents the next major comput
 
 - In summary, Neal Stephenson coined the term "Metaverse," and his writing helped inspire several related technologies. But the foundations of the concept predate Stephenson in earlier science fiction, and his dystopian vision contrasts with more optimistic hopes today.
 
- Here is a summary:
+ 
 
 The visions of synthetic worlds portrayed in sci-fi works by authors like Gibson, Stephenson, Dick, Bradbury, and Weinbaum are often dystopian. However, the history of attempts to build virtual worlds over the past few decades reveals a more optimistic trajectory focused on collaboration, creativity, and self-expression. 
 
@@ -225,7 +225,7 @@ Pioneers of proto-metaverses have focused not on control or profit but on enabli
 
 - The Metaverse is often described as a successor to the mobile Internet, likely requiring new standards and infrastructure. It represents a new computing platform and shift in how we interact with technology and each other.
 
- Here is a summary:
+ 
 
 The Metaverse represents the next generation of the Internet and can potentially transform technology, business, and society profoundly. Just as past computing revolutions enabled new leaders to emerge and displace incumbents, the Metaverse will likely disrupt established technology giants and reshape entire industries. 
 
@@ -423,7 +423,7 @@ The summary highlights how game engines have evolved and simplified virtual worl
 
 - Economic gravity will pull the Metaverse toward greater openness and interoperation, just as with other industries. The opportunity is too significant for closed, walled gardens.
 
- Here is a summary:
+ 
 
 Creating game code that works across various hardware platforms and operating systems is difficult and costly. Game engines like Unity and Unreal Engine have emerged as a solution, allowing developers to publish games across platforms with minimal incremental cost. 
 
@@ -547,7 +547,7 @@ Cross-platform services like Discord also help connect gamers across hardware bo
 
 - Game platforms can't implement better payment rails due to restrictions from Apple and Google. This limits innovation in the virtual economy.
 
- Here is a summary:
+ 
 
 The virtual economy has increased, but the payment systems have become more expensive, cumbersome, and less competitive than the real world. Virtual payment systems like gaming platforms bundle many services beyond just processing payments. 
 
@@ -561,13 +561,13 @@ Entitlements also lock players into platforms. If you buy a PlayStation game, yo
 
 Unlike real-world payments, console platforms prohibit the direct use of standard rails. The billing system is bundled with other services. There are no discounts if a game doesn't need specific services. The high fees remain regardless.
 
- Here is a summary:
+ 
 
 Steam launched in 2003 as a PC game platform allowing users to manage, download, and update games easily. It provided many services like social features and matchmaking, improving the gaming experience. Though technologically outdated now, Steam maintains dominance because of its vast user base and bundling of distribution, payments, entitlements etc, like consoles do. Competitors like EA, Activision, and Amazon have failed to disrupt it. 
 
 Steam's success is partly due to outstanding service, policies requiring games to be played through Steam, and the possible use of MFN clauses. The Epic Games Store tried to compete by offering a more open model with lower fees. Though it forced a small fee cut, Steam still dominates. The gist is that Steam built an ecosystem with excellent service and policies that lock users in, and competitors have yet to manage to overcome that despite open PC platforms.
 
- Here is a summary:
+ 
 
 - Valve's Steam platform maintained its dominance in PC game distribution, while Epic's rival Epic Games Store (EGS) accumulated significant losses and showed little evidence of sustainable success beyond Fortnite players. 
 

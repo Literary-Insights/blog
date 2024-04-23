@@ -330,7 +330,7 @@ Ultimately, the passage raises interesting questions around fan culture, chart m
 
 - The band members, especially Styles and Tomlinson, have denied Larry is real and expressed frustration with the theory and invasive speculation into their personal lives. But some fans refuse to believe them.
 
- Here is a summary:
+ 
 
 The Larry Stylinson theory posits that One Direction members Harry Styles and Louis Tomlinson were in a secret romantic relationship. Despite lack of concrete evidence, some fans ("Larries") believe they fell in love on The X Factor in 2010 and have left clues about their relationship through jokes, gestures, living together briefly, and coded messages in outfits and accessories. Larries pore over photos, videos, and social media for "proof" of Larry, while other fans ("Antis") insist it is a baseless conspiracy theory. On Tumblr, the two sides waged an information war, debating what constituted homophobia or misogyny in analyzing the rumors. Larries were accused of harassing Styles and Tomlinson's girlfriends as "beards." Some fans took more moderate stances, enjoying Larry as fiction without insisting it was real. But the most vocal Larries and Antis allowed no uncertainty, epitomized by prominent figures like Skye, who runs anti-Larry sites, and Lexi, a passionate Larrie. Despite lack of resolution, the theory has persisted for over a decade, through the band's hiatus and Styles' solo career.
 

@@ -146,7 +146,7 @@ BOOK LINK:
 
 - Like Saul who encountered Jesus on the road to Damascus, removing distractions helps us see clearly for the first time. We gain the perspective we need from the only One who can truly help.
 
- Here is a summary:
+ 
 
 The passage emphasizes the importance of directing our attention towards God rather than getting distracted by worries, fears, and comparisons with others. It suggests that we can either attend to the things that are crushing us, or take up the light burden that is Christ. We need to make time for stillness and solitude with God, which is the foundation for changing our thought patterns. 
 
@@ -258,7 +258,7 @@ The main message is that we need real, deep community to overcome isolation and 
 
 - Letting her hurt out eased the author's pain. Beauty flooded in and penetrated her protective cynical walls. It reminded her of God's goodness and healed her doubting heart.
 
- Here is a summary:
+ 
 
 The author snapped at a new coworker and didn't initially apologize. She tried to justify her actions by thinking the coworker was in the wrong. The author realized that pride was causing her to avoid taking responsibility. She was reminded of 1 Peter 2:23, where Jesus endured reviling without retaliating. The author realized that even when wrongly accused, Jesus held his tongue, whereas she had lashed out when a coworker "sorta, kinda, maybe misspoke." This incident reveals the need to choose humble thoughts that reflect Christ's mindset rather than self-justifying thoughts. Throughout the book, the author has discussed choices we can make to interrupt toxic thinking - like remembering God's goodness instead of anxiously doubting, or reaching out to others instead of isolating ourselves cynically. Choosing humility requires deliberately thinking thoughts that esteem others above ourselves, as Christ did.
 

@@ -769,7 +769,7 @@ The key is making marketing a rigorous, analytical process integrated with produ
 
 - Hiring great product managers is hard because they need both technical chops and soft skills like storytelling and empathy. The best understand the full context and all the pieces that fit together to make a successful product.
 
- Here is a summary:
+ 
 
 Traditional sales commissions can breed unhealthy competition and short-term thinking. Instead, consider vesting commissions over time to incentivize long-term customer relationships. Other tips:
 

@@ -269,7 +269,7 @@ The arrival of a new baby illustrates this interplay. Even before birth, a baby 
 
 - Overall, the passage argues race is a social construct rather than a fixed biological reality, though essentialist racial thinking persists in American society.
 
- Here is a summary:
+ 
 
 Essentialist thinking - believing that social categories like race reflect innate, immutable essences - is common but needs to be revised. People readily shift their thoughts about the 'essence' of a group to fit changing social realities. For example, stereotypes of Asians have changed dramatically over time. 
 
@@ -367,11 +367,11 @@ In summary, technology and nation-states constrain our freedom and identities, t
 
 - Printing allowed the creation of mass communities like nation-states united by a shared story and identity. Our modern selves are shaped by close relationships and vast social systems enabled by communication technologies.
 
- Here is a summary:
+ 
 
 Nation-states strongly influence people's lives by shaping society's context and rules. They define who is a citizen and member of the national community. This grants rights and responsibilities, like paying taxes in exchange for access to social goods. Nation-states can use force to uphold laws but are most effective when citizens voluntarily follow the rules. States shape cultural values about appropriate behavior and relationships by controlling institutions like the legal system. For example, legalizing same-sex marriage signaled societal acceptance but put pressure on LGBTQ communities defined by a rejection of mainstream norms. When people identify with a nation, they may sacrifice for it because if the government persists, so does their sense of self. Countries operate like other social groups, relying on feelings of connection and shared identity, not just territory.
 
- Here is a summary:
+ 
 
 Throughout history, ethnic and cultural groups have sought self-determination and nationhood. In some cases, minorities within existing states pursue greater autonomy or independence, as with the Catalonians in Spain or the Tamils in Sri Lanka. Stateless peoples like the Romani, Tibetans, and Kurds also strive for nationhood. 
 

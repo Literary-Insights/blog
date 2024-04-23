@@ -221,7 +221,7 @@ In the end, mutual understanding and compassion are what enable people with dive
 
 The main message is that perspective profoundly shapes our thought, perception and behavior. We need to be mindful of our viewfinder setting and ready to adjust it when needed.
 
- Here is a summary:
+ 
 
 The author spoke with champion snooker player Ronnie O'Sullivan and Olympic runner Sebastian Coe about the benefits and drawbacks of intense focus and tunnel vision when preparing for elite competition. 
 

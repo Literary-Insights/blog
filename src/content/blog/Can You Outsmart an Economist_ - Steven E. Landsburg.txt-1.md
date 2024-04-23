@@ -49,7 +49,7 @@ In summary, the book uses puzzles and problems to train readers' ability to thin
 
 In summary, the author presents a range of economic concepts and puzzles from different perspectives to help illuminate human behavior and decision making, while also entertaining readers. Multiple modes of thinking are highlighted.
 
- Here is a summary:
+ 
 
 - The original problem of comparing fuel savings from upgrading a 12 mpg SUV to 15 mpg vs a 30 mpg car to 40 mpg could not be answered without more details on driving habits. 
 
@@ -99,7 +99,7 @@ So in summary, aggregate statistics can be misleading and additional controlled 
 
 - In summary, the key message is to be very careful about drawing conclusions from any type of statistics alone, as both aggregate and breakdown data can sometimes provide a misleading picture if not interpreted and analyzed critically.
 
- Here is a summary:
+ 
 
 - The passage discusses the idea that attractive teachers may be more effective not just because students find them attractive, but because attractiveness is correlated with other positive traits. 
 
@@ -111,7 +111,7 @@ So in summary, aggregate statistics can be misleading and additional controlled 
 
 - The overall point is that attractiveness alone does not necessarily make someone a better teacher, but it may be correlated with deeper traits like passion that do impact teaching quality, and statistics in any field need appropriate context and consideration of confounding factors to avoid misleading inferences.
 
- Here is a summary:
+ 
 
 - The passage discusses making predictions about the future and notes that predictions are often inaccurate. It provides examples of failed predictions from history.
 
@@ -125,7 +125,7 @@ So in summary, aggregate statistics can be misleading and additional controlled 
 
 So in summary, the passage discusses making logical predictions rather than relying on surface level assumptions, and provides examples predicting outcomes to puzzles involving pigs in a box, adoption requests, and family size/school performance.
 
- Here is a summary:
+ 
 
 - The passage discusses how the number of children in a family impacts the school performance of those children. It notes that children from larger families (4+ children) on average do worse in school than those from smaller families (3 or fewer children). 
 
@@ -135,7 +135,7 @@ So in summary, the passage discusses making logical predictions rather than rely
 
 - In conclusion, it is demographic characteristics correlated with large family size, rather than the size itself, that seem to primarily drive differences in school performance between children from smaller and larger families.
 
- Here is a summary:
+ 
 
 - According to sophomore-level economics textbooks, the law that a price increase must always lead to a fall in consumption may not be universal. Real-world examples can sometimes defy this rule. 
 
@@ -177,7 +177,7 @@ So in summary, the key idea is that fully explaining human behaviors, even simpl
 
 So in summary, the passage sets up several phenomena as puzzles, argues obvious explanations may be misleading, and invites readers to critically analyze potential explanations. However, it omits presenting any actual proposed explanations within the text.
 
- Here is a summary:
+ 
 
 - Many studies have found that following a divorce, women's living standards tend to fall while men's tend to rise. Some commentators have concluded divorce is unfair to women. 
 
@@ -283,7 +283,7 @@ So in summary, the key insight is that a functioning price system will minimize 
 
 - In summary, the passage uses hypothetical scenarios and quizzes to explore what kinds of choices or preference patterns might qualify as irrational from an economist's perspective, opening people up to "Dutch book" bets where others cannot lose.
 
- Here is a summary:
+ 
 
 - The questions present hypothetical choices between options with varying probabilities of rewards (e.g. winning $1,000 if drawn ball is red or blue vs. just blue). 
 
@@ -299,7 +299,7 @@ So in summary, the key insight is that a functioning price system will minimize 
 
 - The purpose is to highlight how rational choice theory in economics defines rationality based on logically consistent preferences, not subjective emotions or preferences that vary without reason.
 
- Here is a summary:
+ 
 
 - The passage discusses several hypothetical scenarios involving choices under uncertainty and whether preferences across similar scenarios should be consistent to be considered rational. 
 
@@ -341,7 +341,7 @@ So in summary, the passage examines how likelihood probabilities can determine w
 
 In summary, more information would be needed for a well-informed judgment. An open and intellectually rigorous analysis requires understanding the full context before making a definitive assessment of its effectiveness relative to alternatives during that period in history.
 
- Here is a summary:
+ 
 
 - Professor Leeson believes that trial by ordeal systems could have worked effectively in the past, as long as there was widespread superstitious belief that they yielded accurate verdicts from God. 
 
@@ -351,7 +351,7 @@ In summary, more information would be needed for a well-informed judgment. An op
 
 - Professor Leeson's conclusion is that no one wants ordeals back, but if the necessary beliefs existed, perhaps they could have worked after all. He presents this as a thought-provoking idea rather than an endorsement of returning to ordeals.
 
- Here is a summary:
+ 
 
 - There is a debate about the expected ratio of boys to girls in a population where families keep having children until they have a boy and then stop. 
 
@@ -381,7 +381,7 @@ In summary, while the 1:1 ratio intuitively seems correct, precise statistical r
 
 So in summary, the temptation for individual signaling can cascade into a collective unraveling of secrecy through the logical step-by-step process of backward induction reasoning.
 
- Here is a summary:
+ 
 
 The strategy of using backward induction to determine that a snake oil salesman would have no incentive to provide an honest product on any day of their lease will not work in the real world. This is because the strategy makes unrealistic assumptions. 
 
@@ -389,7 +389,7 @@ Specifically, it assumes the salesman's interactions are isolated and that their
 
 Backward induction itself is a valid logical technique when properly applied. The issue is not with backward induction, but with artificial scenarios that ignore real-world factors like long-term reputation effects. Real businesses do operate honestly because they plan to be in business indefinitely and their reputation matters beyond any single business interaction or lease period. So the isolated game assumption that undermines backward induction strategies does not apply in reality.
 
- Here is a summary:
+ 
 
 - Hamkins and his wife want to swap picking up their kids from school one day, but can't coordinate the plan via messages due to the problem of common knowledge. No matter how many messages they exchange, they can never be certain the other person has all the necessary information. 
 
@@ -447,7 +447,7 @@ So in summary, while a 96/1/1/0/1 allocation is one possible solution, it is inc
 
 - Stating the problem assuming everyone knows everyone else is rational is an oversimplification. This example highlights that this simplifying assumption can break down and lead to incorrect analysis if rationality is not common knowledge.
 
- Here is a summary:
+ 
 
 - The Best Friend Rule says to take just the Mystery (M) box, as your best friend would be happy to hear you got $1 million. 
 
@@ -461,7 +461,7 @@ So in summary, while a 96/1/1/0/1 allocation is one possible solution, it is inc
 
 - The author presents the "Amnesia Problem" as an analogy, arguing it is essentially identical to Newcomb's Problem and easy to decide - don't burn the $1,000 bill as it can't change what's in the attic, just as taking one or two boxes can't change what Zorxon has already done. This is meant to suggest Newcomb's Problem may also have an easy solution of two-boxing.
 
- Here is a summary:
+ 
 
 The passage discusses various thought experiments and scenarios involving life-or-death decision making, and how such decisions relate to philosophical and ethical questions. It brings up a classic trolley problem scenario involving diverting a runaway trolley to save lives by sacrificing one person. It also discusses how policymakers and economists face similar types of decisions when weighing factors like lives saved vs. spent on different programs. 
 
@@ -517,7 +517,7 @@ The key dilemma presented is that choosing the option with the higher chance of 
 
 - Unlike typical situations, the law of large numbers does not apply here to eliminate risk, so the economists' usual advice of diversifying bets does not help Alice.
 
- Here is a summary:
+ 
 
 - Albert is trying to drive home from work but gets lost at intersections due to his absent-mindedness. 
 
@@ -547,7 +547,7 @@ So in summary, it uses Albert's problem of navigating intersections as a thought
 
 - In summary, the passage presents Albert Mark Three as a more rationally consistent version of Albert that follows a single, predictable rule for updating his strategy at intersections, rather than behaving unpredictably like previous versions.
 
- Here is a summary:
+ 
 
 - Earl the electrician and Carla the carpenter want to rewire their houses and panel their dens. 
 

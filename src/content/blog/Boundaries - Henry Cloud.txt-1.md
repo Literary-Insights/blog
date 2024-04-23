@@ -250,7 +250,7 @@ The main point is that childhood experiences with parents who fail to set health
 
 The key points emphasize taking responsibility for yourself, respecting others' boundaries, being motivated by love in giving, and allowing natural consequences for others' irresponsible behaviors.
 
- Here is a summary:
+ 
 
 - Stan thought he was being loving by doing whatever anyone wanted, but this led to fatigue and depression. His motivations were often fear-based, not love. True love brings happiness.
 
@@ -500,7 +500,7 @@ In summary, Aries needs a partner who gives them space, keeps excitement in the 
 
 In summary, biblical discipline aims to teach in a loving relationship, allowing for mistakes so children can learn and grow. Boundaries are an essential component in raising responsible, relationally-healthy kids.
 
- Here is a summary:
+ 
 
 Babies are completely dependent on their caregivers for survival. As children grow, they need to develop skills to protect and care for themselves. Boundaries are an important part of self-protection. 
 

@@ -293,7 +293,7 @@ In summary, Spain's World Cup hopes were severely disrupted by the late change o
 
 - Even leaving out a big star like Gascoigne requires courage and conviction if the manager feels it's the right choice for team balance and tactics. Squad selection can define or destroy a World Cup campaign.
 
- Here is a summary:
+ 
 
 - Choosing the right balance of players for a tournament squad can be challenging. Managers must decide between taking too many stars who may become unhappy sitting on the bench versus having depth. 
 

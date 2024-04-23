@@ -72,7 +72,7 @@ BOOK LINK:
 
 - Our brains have evolved modules that process information in quirky ways, leading to biases and illusions about our own motives and perceptions. The unconscious plays a key role.
 
- Here is a summary:
+ 
 
 For a long time, psychologists and other social scientists did not fully accept the power of the unconscious in influencing human behavior. Economists in particular built theories assuming people make rational decisions in their own self-interest. However, a growing number of economists are now presenting evidence that unconscious factors exert a major influence on decision-making, requiring rethinking of traditional economic theories. 
 

@@ -42,7 +42,7 @@ It notes some of the key events, thinkers, and movements that advanced feminism 
 
 In summarizing the provided text, the key points covered include the historical roots of feminism, the three waves as a framework to understand its development over time, and some notable influences and contributors to the feminist movement throughout history. The passage seeks to provide historical context on the evolution of feminist ideas.
 
- Here is a summary:
+ 
 
 In 18th century Sweden, some of the earliest expressions of feminist ideas emerged through the work of journalist Margareta Momma and poet Hedvig Nordenflycht. They helped develop feminist themes in print media, advocating for women's education and rights. One of the first Swedish women to publicly argue for equal rights between men and women was Sophia Elisabet Brenner, an aristocrat who wrote poems in the 1690s asserting women's intellectual equality. In the 1730s, journalist Margareta Momma satirized critics who said women were incapable, instead promoting women's education and ability to debate. Poet Hedvig Nordenflycht also supported feminist messages. Their work was part of a progressive milieu in Sweden during the Age of Liberty in the 18th century, when some property and divorce rights were established for women in Swedish law. They helped advance early feminist thought in Scandinavia.
 
@@ -54,7 +54,7 @@ In 18th century Sweden, some of the earliest expressions of feminist ideas emerg
 
 - By writing and publishing in the native Swedish language instead of just French, these early Swedish feminist writers were able to promote new ideas about gender equality, women's rights, and intellectual recognition of women to a larger segment of Swedish society at a time when access to ideas was typically limited by language and social class.
 
- Here is a summary:
+ 
 
 This passage discusses the progress of the women's movement during the Enlightenment era in the 18th century. Known as the "Bluestockings", educated women began transforming from figures of social stability to rebels and radicals as they proved their intellectual equality to men through successful literary careers. figures like Elizabeth Montagu hosted salons that brought influential thinkers together. 
 
@@ -62,15 +62,15 @@ During this period, women sought ways to engage publicly in intellectual discuss
 
 However, full equality was still an ongoing fight. During the French Revolution, women's groups were formed but their petitions for equal rights were ignored. Writers like Olympe de Gouges and Mary Wollstonecraft advocated forcefully for women's rights through pamphlets and essays. Their words kept the discussion alive, though legal victories for women were still limited even after the revolutionary upheavals.
 
- Here is a summary:
+ 
 
 The political activism and writings of three women during the French Revolution - Olympe de Gouges, Madame Roland, and Charlotte Corday - temporarily deterred French women from openly expressing political views due to their executions. However, their examples and the debates around gender equality during the Enlightenment helped lay the foundation for modern feminism and helped women gain momentum in fighting for equal rights. While their actions had a discouraging effect at the time, the discussions around women's rights that emerged from these periods were hugely influential for feminist arguments going forward.
 
- Here is a summary:
+ 
 
 In the early 19th century, some feminist thinkers advocated for expanding women's rights and roles in society as industrialization was changing social and economic structures. Figures like Frances Wright, Harriet Martineau, and Margaret Fuller argued for legal and economic independence and autonomy for women through publishing articles, books, and giving speeches. They drew from the philosophies of Charles Fourier who believed in cooperative relationships between men and women with equal opportunities. While change came gradually, these writers helped spark discussion and debate that influenced the growing women's rights movement in the later 19th century.
 
- Here is a summary:
+ 
 
 Harriet Martineau worked as a journalist in the 19th century, despite being deaf. She advocated for women's education and rights. Women at this time faced limited opportunities for employment outside the home. Factory work, like at the Lowell Mills, provided one option but conditions were often exploitative with long hours and low pay. Sarah Bagley helped organize the Lowell Female Labor Reform Association, one of the earliest labor unions led by women, to demand better wages and a 10-hour workday. Women wanting to unionize faced resistance, but collective action like strikes helped improve conditions for some working women during this period of industrialization. While work outside the home provided greater independence and income, the promises of fulfilling employment were undermined by ongoing issues of low pay and status perceived as "women's work."
 
@@ -88,7 +88,7 @@ Harriet Martineau worked as a journalist in the 19th century, despite being deaf
 
 - Marxist feminism inspired movements like Wages for Housework that sought to value and compensate women's traditionally unpaid labor in the home. It remains an influential theoretical framework within feminist thought.
 
- Here is a summary:
+ 
 
 - Early Marxist feminists believed that women's oppression was linked to both capitalism and patriarchy. They viewed women as part of the working class and their emancipation as necessary for a classless society. 
 
@@ -100,7 +100,7 @@ Harriet Martineau worked as a journalist in the 19th century, despite being deaf
 
 - International Women's Day originated from socialist movements and commemorates working women's rights protests. Leading figures like Zetkin were influential in establishing it as an annual event to highlight women's issues.
 
- Here is a summary:
+ 
 
 - The convention was held in Seneca Falls, New York in 1848 to discuss women's rights. 
 
@@ -114,7 +114,7 @@ Harriet Martineau worked as a journalist in the 19th century, despite being deaf
 
 - This convention launched the women's rights movement in the US, demanding equal treatment under the law.
 
- Here is a summary:
+ 
 
 - Early suffrage organizations in the late 19th century were led by elite, educated women and did not focus on working-class women or include them in leadership. 
 
@@ -126,7 +126,7 @@ Harriet Martineau worked as a journalist in the 19th century, despite being deaf
 
 - The two movements of abolitionism and women's rights were closely linked and overlapping in their campaigns and shared causes throughout the 19th century before focus turned to the American Civil War.
 
- Here is a summary:
+ 
 
 - After the Emancipation Proclamation in 1863, abolitionist women worried it could be overturned and organized to petition for a Constitutional amendment abolishing slavery. Elizabeth Cady Stanton and Susan B. Anthony collected 400,000 signatures in support of the 13th Amendment. 
 
@@ -152,7 +152,7 @@ Harriet Martineau worked as a journalist in the 19th century, despite being deaf
 
 - Norton and Leigh Smith's campaigns were instrumental in dismantling the legal doctrine of coverture and establishing married women's right to independent legal status through acts like the Matrimonial Causes Act of 1857 and the Married Women's Property Acts of 1870 and 1882.
 
- Here is a summary:
+ 
 
 Elizabeth Blackwell was the first woman to earn a medical degree in the United States, graduating in 1849. She faced significant opposition from male colleagues and even some female patients who associated women doctors with abortionists. However, she was determined that women understood women's health issues better than men. 
 
@@ -246,7 +246,7 @@ Under the Pankhursts' leadership, the suffragettes were willing to risk arrest, 
 
 - In 1941, deeply depressed, Virginia committed suicide by drowning. She was a pioneering modernist writer and key figure in feminist literature.
 
- Here is a summary:
+ 
 
 During the second-wave feminist movement of the 1960s-1970s, feminist issues and theories were extensively explored by scholars, artists, and academics. Historians like Sheila Rowbotham highlighted the exclusion of women from historical accounts. Artists such as Judy Chicago created feminist art to promote women's perspectives and experiences. Film theorists like Laura Mulvey analyzed misogyny and the objectification of women within cinema. Simone de Beauvoir had provided an influential theoretical foundation for second-wave feminism with her 1949 book The Second Sex, which argued that femininity is a social construct rather than biological destiny, and that women are defined as the "Other" in relation to men. De Beauvoir believed women should seek autonomy, liberation, and equality through challenging social norms of femininity, intellectual pursuits, and political and social change. Her analysis of gender as a socially constructed role separate from sex was highly significant.
 
@@ -300,7 +300,7 @@ The National Black Feminist Organization was founded in New York City in 1973 to
 
 The introduction of the pill in 1960 liberated women socially and sexually by giving them unprecedented control over their fertility and ability to delay or limit childbearing to pursue careers and education. However, health concerns prompted feminist activism that improved the pill's formulation in the early 1970s. Overall, the pill marked a turning point in advancing women's autonomy and gender equality.
 
- Here is a summary:
+ 
 
 - The Female Eunuch by Germaine Greer, published in 1970, was a seminal text of second-wave feminism that argued women have been "castrated" socially, sexually, and culturally. 
 
@@ -312,11 +312,11 @@ The introduction of the pill in 1960 liberated women socially and sexually by gi
 
 - Germaine Greer became a prominent public figure and scholar for her radical feminist perspectives challenging social norms around women. The Female Eunuch remains an iconic text of the women's liberation movement.
 
- Here is a summary:
+ 
 
 Kate Millett received the Presidential Medal of Freedom, the highest US civilian honour. She was a noted American feminist and writer known for her 1970 book Sexual Politics, which analyzed patriarchy and how it oppresses women. Some of her other key works included Outrageous Acts and Everyday Rebellions (1983), Revolution from Within (1992), Moving Beyond Words (1994), and My Life on the Road (2015). Millett argued that patriarchy began in the family and was reinforced through education and socialization. She believed rape was one instance where patriarchal power relied on sexual force. While patriarchy was deeply embedded psychologically, Millett felt the gains of early feminism did not truly damage the system as political power remained in male hands.
 
- Here is a summary:
+ 
 
 In the 1970s, women's experience of sexual and reproductive health was rarely understood or discussed by women themselves. Doctors would typically only discuss medical issues with patients' husbands, not the women. Access to contraception was restricted and childbirth was often a medicated, surgical procedure with little input from women. 
 
@@ -328,7 +328,7 @@ Access to contraception was a major issue. The book advised on various birth con
 
 The movement promoted a woman-centered approach to pregnancy and childbirth, encouraging women's autonomy over these experiences. Figures like Sheila Kitzinger challenged the traditional doctor-patient power dynamic and medicalization of labor. Our Bodies, Ourselves incorporated women's personal stories and experiences to give them control over their bodies.
 
- Here is a summary:
+ 
 
 - Women's history was initially led by amateur historians in women's organizations in the late 19th century, who sought to record women's contributions to key events in US history. 
 
@@ -356,7 +356,7 @@ The movement promoted a woman-centered approach to pregnancy and childbirth, enc
 
 So in summary, prior to Roe v. Wade women faced danger seeking illegal abortions, and even after some legalization access remains a challenge due to political and socioeconomic barriers. The Jane Collective provided a clandestine but important service during a time when safe options were not available through legal and medical establishments.
 
- Here is a summary:
+ 
 
 In the late 1960s and early 1970s, women began sharing their personal experiences of domestic abuse in consciousness-raising groups. This allowed women to realize that domestic violence was not an individual problem but rather a systemic issue requiring political action. 
 
@@ -364,7 +364,7 @@ Erin Pizzey founded the first women's refuge in Chiswick, London in 1971 to supp
 
 Groups like the National Action Committee in Canada and the White Ribbon Campaign internationally have pressed governments to implement stronger legal protections against domestic violence. While domestic abuse remains a problem, it is now widely recognized globally rather than ignored privately as it had been previously. Pizzey's pioneering work in establishing the first women's refuge was instrumental in exposing and addressing the realities of domestic violence.
 
- Here is a summary:
+ 
 
 - In the 1970s, feminist writers like Susan Brownmiller challenged the view that rape was solely about male sexual desire and argued that it is fundamentally about power and control over women. 
 
@@ -378,11 +378,11 @@ Groups like the National Action Committee in Canada and the White Ribbon Campaig
 
 - However, rape and sexual violence remain enormous global problems that disproportionately impact women and some populations more than others. It is still normalized and obscured in many contexts.
 
- Here is a summary:
+ 
 
 Traditionally, it was believed that by entering into marriage, a woman consented to sex with her husband for life. However, in the 19th century, some early feminists like Elizabeth Cady Stanton and Lucy Stone argued that women should have autonomy over their own bodies and determine when they have sex with their husbands. Rape in marriage was not criminalized in the UK until 1991 and in the US until 1993, though some states criminalized it earlier. The UN established in 1993 that rape in marriage violates international human rights. Some key figures who advocated for recognizing and criminalizing rape in marriage include Elizabeth Cady Stanton, Lucy Stone, Victoria Woodhull, and British feminist Harriet Taylor Mill. It took until the late 20th century for these issues of marital rape and women's autonomy to gain broader legal and social recognition.
 
- Here is a summary:
+ 
 
 Belly dancers from the National Association to Advance Fat Acceptance convention in Boston promoted the fat positivity movement through their performance. At the convention, the belly dancers came together to do a belly dance routine, promoting positive body image and acceptance of all body sizes. Their performance was aimed at supporting the fat acceptance movement and encouraging people of all sizes to feel comfortable and confident in their own bodies.
 
@@ -398,7 +398,7 @@ Belly dancers from the National Association to Advance Fat Acceptance convention
 
 So in summary, Ensler's play sparked discussions but also led to the creation of the large-scale V-Day movement and worldwide efforts to end violence against women through annual performances that have spread her message globally.
 
- Here is a summary:
+ 
 
 Hélène Cixous was a French feminist philosopher who argued that women should pursue their underlying bisexual potential in order to create "multiplication of desire." She believed that if women embraced both their heterosexual and homosexual desires freely, it would help dismantle compulsory heterosexuality and the patriarchal social order. Cixous thought this "multiplication of desire" would empower women sexually and help subvert traditional gender and power dynamics. Her theories encouraged women to embrace and explore their full range of sexual interests and potentials rather than restricting themselves based on social norms. Overall, Cixous promoted a more liberated and fluid view of female sexuality as a way for women to gain agency over their own bodies and desires.
 
@@ -412,7 +412,7 @@ Hélène Cixous was a French feminist philosopher who argued that women should p
 
 - Colonial movements challenged the tendency of mainstream feminism to ignore the experiences of indigenous and women of color in former colonies, instead advocating perspectives that recognized their distinct oppressions under colonial patriarchal systems and cultural practices imposed by colonizers.
 
- Here is a summary:
+ 
 
 - Adrienne Rich argued that all women exist on a continuum of love and desire for other women, regardless of their sexual identity. This prompted debate among feminists about the meaning and coherence of the term "lesbian". 
 
@@ -436,7 +436,7 @@ Hélène Cixous was a French feminist philosopher who argued that women should p
 
 - The "feminist sex wars" highlighted divisions within feminism around balancing women's rights with acknowledging the role of consent, sexuality and relationships in women's lives. Differing views remain on these complex issues.
 
- Here is a summary:
+ 
 
 - Angela Davis explained that during slavery, black women were seen more as breeding animals to increase the slave workforce, rather than as mothers. Their main purpose, in the eyes of white enslavers, was their reproductive function. 
 
@@ -460,7 +460,7 @@ Hélène Cixous was a French feminist philosopher who argued that women should p
 
 - The camp provided a space for women activists to not only campaign against nuclear weapons, but also discuss their roles and situations as women. It enabled women to unite and find strength in solidarity.
 
- Here is a summary:
+ 
 
 - Womanism was needed instead of feminism because feminism failed to address the specific issues faced by black women, who experienced both racism and sexism. 
 
@@ -502,7 +502,7 @@ Hélène Cixous was a French feminist philosopher who argued that women should p
 
 - Her work highlighted how Third World women face "triple colonization" through colonialism, patriarchy, and Western feminism and advocated for more inclusive, global understandings of feminism.
 
- Here is a summary:
+ 
 
 - In 1974, the Native American women's group Women of All Red Nations (WARN) was formed to address issues particularly affecting women, such as healthcare and reproductive rights, that were lacking focus from other organizations. 
 
@@ -540,7 +540,7 @@ Hélène Cixous was a French feminist philosopher who argued that women should p
 
 - Ending harmful traditional practices like forced marriage requires addressing both legal issues and social/cultural factors within communities. Victim support groups are important for dismantling the secrecy and stigma that allows such abuses to persist.
 
- Here is a summary:
+ 
 
 The debate around sex-positivism remains ongoing, but it has undoubtedly gained more acceptance and ground in the 21st century. Most Western women now enjoy far greater sexual freedom and autonomy than just a few generations ago. However, sexual expression and speech remain among the most repressed and disdained forms of expression. 
 
@@ -562,7 +562,7 @@ Meanwhile, figures like Susie Bright have argued that sexual speech remains one 
 
 - Crenshaw is a prominent critical race theorist who coined the term "intersectionality" and has extensively written on how we must consider multiple marginalized identities and how systems of oppression intersect.
 
- Here is a summary:
+ 
 
 - In 1992, Rebecca Walker wrote an influential article for Ms. magazine titled "Becoming the Third Wave" declaring the emergence of a new wave of feminism. 
 
@@ -576,7 +576,7 @@ Meanwhile, figures like Susie Bright have argued that sexual speech remains one 
 
 - Conservative movements in the US and UK during the 1980s-90s fostered a broader backlash against progress on issues like civil rights, women's rights, and LGBTQ rights.
 
- Here is a summary:
+ 
 
 - The ACT UP organization was founded in 1987 to advocate for AIDS awareness and treatment. 
 
@@ -608,7 +608,7 @@ So in summary, it outlines some of the key feminist and LGBT rights organization
 
 - Her theories have been impactful for feminism by challenging notions of a shared female experience and questioning the constructions of what it means to be a woman.
 
- Here is a summary:
+ 
 
 - Foucault examined how sexuality became a subject of regulation and control through the medicalization and pathologization of certain sexual behaviors as "perversions" in the 19th century. This led to the emergence of a science of sexuality to govern sexuality on behalf of the state.
 
@@ -618,7 +618,7 @@ So in summary, it outlines some of the key feminist and LGBT rights organization
 
 - Foucault, feminists, and queer theorists all contributed to understanding how sexuality and gender are socially constructed and regulated in ways that enforce normativity and marginalize those who do not conform.
 
- Here is a summary:
+ 
 
 Naomi Wolf explored the concept of the "beauty myth" and its harms in her influential 1990 book The Beauty Myth. She argued that unrealistic societal beauty standards imposed pressures and limitations on women. Since then, feminists have expanded on her findings and worked to dismantle oppressive beauty norms. Critics have pointed out racial biases in mainstream beauty ideals and called out industries like fashion for promoting unhealthy body images. The plus-sized modeling industry has grown, and terms like "body positivity" have entered feminist discourse. However, beauty standards and their effects still impact women's self-worth. Overall, Wolf's work helped spark important discussions around women's objectification based on appearance.
 
@@ -628,7 +628,7 @@ The passage discusses the work of Italian feminist philosopher Adriana Cavarero 
 
 Cavarero argues that feminist philosophers should not reject Plato's work as patriarchal, but apply feminist insights to reclaim ancient philosophy. She challenges the exclusion of female views in ancient philosophy. The passage presents Cavarero as showing that feminist philosophers can take ancient philosophy and reform it from a feminist perspective. It discusses how she argues for analyzing female characters like Penelope through a lens of birth rather than Plato's emphasis on death. Overall, the summary explains Cavarero's argument for feminist reinterpretation of ancient philosophy like Plato's instead of outright rejection.
 
- Here is a summary:
+ 
 
 In the 1960s, liberation theology emerged in Latin America as a movement within the Roman Catholic Church that sought social change and liberation for the oppressed. Gustavo Gutierrez developed liberation theology and wrote "A Theology of Liberation" in 1971. Liberation theology asserts that God and the Bible prioritize the poor over the rich. 
 
@@ -636,7 +636,7 @@ In the following decades, liberation theology expanded to address the oppression
 
 In 2013, Jorge Mario Bergoglio became Pope Francis. As head of the Catholic Church, he addressed issues of poverty and inequality, reflecting some of the priorities of liberation theology. Overall, liberation theology emerged as a progressive movement within the Catholic Church seeking social justice and liberation for the oppressed, especially the poor and indigenous women, in Latin America.
 
- Here is a summary:
+ 
 
 - WfWI has worked in other conflict zones besides Afghanistan, including Colombia, Democratic Republic of Congo, Rwanda, and Sudan. 
 
@@ -646,11 +646,11 @@ In 2013, Jorge Mario Bergoglio became Pope Francis. As head of the Catholic Chur
 
 - Salbi quotes that "It appears easier to talk about protecting women than it is to fully include women at all decision-making levels in peace talks and post-conflict planning." This highlights the need to meaningfully involve women in conflict resolution and postwar governance.
 
- Here is a summary:
+ 
 
 Some third- and fourth-wave feminists have critiqued Levy's concept of "raunch culture" as promoting a form of sexual "freedom" that ultimately serves the interests of misogynistic culture. They argue Levy focuses too much on sex workers and fails to address the underlying inequality in sex industries. Queer feminist practices have provided an alternative critique, challenging the assumption that women's sexuality is always shaped by the "male gaze." Groups like Club Burlesque Brutal, a queer femme burlesque troupe, aim to depict diverse femininities and portray overt queer desire rather than catering to heterosexual male desire. Overall, these critiques question whether embracing certain sexualized aspects of popular culture actually empowers women or simply placates patriarchal interests.
 
- Here is a summary:
+ 
 
 The statement "being openly who I am... happy and thriving, is a political act" by Laverne Cox suggests that simply existing as one's authentic self, regardless of gender identity or expression, can be a powerful political statement. For marginalized groups, openly embracing who they are instead of feeling ashamed or hiding themselves pushes back against systemic oppression and social norms that seek to exclude or invalidate them. By finding happiness and fulfillment being true to who they are, individuals engage in grassroots activism and advocacy for greater acceptance and representation of all people. Their very presence and example promote the idea that everyone deserves to live freely without fear of discrimination or persecution based on characteristics over which they have no control.
 
@@ -668,7 +668,7 @@ The statement "being openly who I am... happy and thriving, is a political act" 
 
 So in summary, digital platforms were pivotal in the development of fourth-wave grassroots feminism but also enable new forms of online abuse against women activists.
 
- Here is a summary:
+ 
 
 Emma Holten had nude photos of her stolen and posted online without her consent. In response, she published her own series of nude photos in a project called "Consent" to reclaim control over her image. She has since done other activist work on issues of online privacy, data rights, and revenge porn. 
 
@@ -688,7 +688,7 @@ Jessica Valenti is a prominent American feminist writer and founder of the femin
 
 - The passage discusses how online debates in the 2000s brought renewed attention to feminist issues, though disagreements remained about feminism's goals and whether further battles were still needed.
 
- Here is a summary:
+ 
 
 - The stem of patriarchy refers to the underlying power structures in society that privilege men and oppress women. 
 
@@ -710,7 +710,7 @@ Jessica Valenti is a prominent American feminist writer and founder of the femin
 
 - Sheryl Sandberg's book "Lean In" urged women to "lean in" and reach for leadership positions. While popular, it also received criticism for putting responsibility on individual women and not addressing systemic barriers.
 
- Here is a summary:
+ 
 
 In her essay "Feminist Killjoys (and Other Willful Subjects)", Sara Ahmed explores feminism and emotion, in particular how feminists are seen as violating social norms by refusing to be happy in the face of women's oppression. 
 
@@ -734,7 +734,7 @@ Similarly, people of color responding to white racism are often painted as the k
 
 - Closing the gap further requires ongoing efforts to address biases, lack of family support policies, and fight discrimination in the workplace.
 
- Here is a summary:
+ 
 
 - The #MeToo movement began in 2006 when activist Tarana Burke used the phrase "Me Too" to promote solidarity among survivors of sexual abuse, especially young women of color. 
 
@@ -762,7 +762,7 @@ Similarly, people of color responding to white racism are often painted as the k
 
 - The passage discusses the argument that the #MeToo movement had started with valid goals but some felt it had progressed too far in a way that potentially infringed on liberties or due process. There was a backlash claiming it risked making all forms of male-female interaction too restricted.
 
- Here is a summary:
+ 
 
 The passage discusses the incremental victories for women's suffrage in Ireland in the early 20th century, culminating in 1922 when all Irish women over 21 were finally given the right to vote. This followed years of activism by Irish suffragettes seeking equal voting rights. Some key figures mentioned include Hanna Sheehy-Skeffington, who co-founded the Irish Women's Franchise League in 1908 and advocated for both women's suffrage and Irish independence. Overall the passage presents the gradual expansion of voting rights for women in Ireland as part of the broader global suffrage movement fighting for gender equality.
 
@@ -778,7 +778,7 @@ The passage discusses the incremental victories for women's suffrage in Ireland 
 
 - Overall, Joke Smit was an important early figure in launching the second-wave feminist movement in the Netherlands through her writing and activism in the late 1960s and 1970s. She advocated for expanding women's roles beyond just wives and mothers.
 
- Here is a summary:
+ 
 
 Patrisse Cullors is an American activist and co-founder of the Black Lives Matter movement. She entered political activism as a teenager focused on anti-police brutality and racial justice issues due to her own experiences with police brutality against her family members. 
 
@@ -786,7 +786,7 @@ In 2013, Cullors co-founded Black Lives Matter along with Alicia Garza and Opal 
 
 Cullors has won multiple awards for her activism work. She is also involved with other organizations like the Ella Baker Center for Human Rights that focus on issues like police misconduct, racial justice, and urban violence prevention. Overall, Cullors is a prominent Black activist and queer rights activist who helped launch the major Black Lives Matter movement through her early work around criminal justice reform and racial equality issues.
 
- Here is a summary:
+ 
 
 In 2014, 57 girls were abducted in Nigeria. Many escaped or were rescued, but as of 2018 over 100 girls remained missing and some are presumed dead. Kidnappings have continued.
 

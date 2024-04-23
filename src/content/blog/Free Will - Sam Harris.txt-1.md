@@ -16,7 +16,7 @@ BOOK LINK:
 
 
 
- Here is a summary:
+ 
 
 - The book argues that the belief in free will is an illusion despite how ingrained and intuitively convincing it feels. Free will touches on many aspects of human life like morality, law, relationships, and feelings of achievement. 
 
@@ -26,7 +26,7 @@ BOOK LINK:
 
 - Ultimately, the book contends that regardless of reported feelings or intentions, criminals cannot know why they are the way they are, nor can we account for why we are not like them. If placed in their circumstances from birth, we would become them. The problem of responsibility remains even if you believe in souls or immortal spirits.
 
- Here is a summary:
+ 
 
 The passage argues that free will is an illusion because our thoughts, intentions and actions are not consciously chosen or controlled by us, but are determined by unconscious physical and biological factors that we are unaware of. 
 
@@ -46,7 +46,7 @@ The passage also says the distinction between voluntary vs involuntary actions d
 
 - In the end, compatibilism amounts to an assertion that we are free because we embrace the causal determinism that shapes our thoughts and actions, even though we have no actual control over those determinative causes.
 
- Here is a summary:
+ 
 
 - Harris argues that the feeling of conscious agency and free will comes from our ignorance of the causal determinism operating in our brains. We are unaware of the unconscious brain processes that lead to our conscious thoughts and actions.
 
@@ -58,7 +58,7 @@ The passage also says the distinction between voluntary vs involuntary actions d
 
 - The distinction between voluntary, premeditated actions and accidents can be preserved without free will. This is crucial for morality and law. Feelings of intention, deliberation and choice arise from our ignorance of causal brain processes, not from free will.
 
- Here is a summary:
+ 
 
 The essay discusses the idea of free will and argues that it is an illusion. While conscious thoughts and deliberation seem to give the appearance of freely making choices, in reality thoughts simply arise unauthored in the mind. Our conscious awareness does not truly create or control the thoughts, desires, and intentions that arise. 
 
@@ -66,7 +66,7 @@ While conscious thinking is important for certain behaviors, the underlying proc
 
 While people's choices and efforts do matter and influence outcomes, they themselves are determined by prior causes and a person's inherited mind. Free will is confused with the ability to do otherwise after the fact, but this does not account for why certain choices were made to begin with. Ultimately, human choice and behavior are determined and remain somewhat mysterious, even to conscious awareness. While conscious deliberation plays a role, it does not provide true freedom or control over the processes of the mind.
 
- Here is a summary:
+ 
 
 - The passage discusses the concepts of free will and moral responsibility. It argues that while humans have the capacity for conscious decision making and choice, free will is an illusion because our desires, thoughts and actions are ultimately the product of prior factors outside of our control, like genetics, environment and life experiences. 
 
@@ -88,7 +88,7 @@ While people's choices and efforts do matter and influence outcomes, they themse
 
 - A scientifically informed justice system could still focus on risk while shifting from retributive to rehabilitative or deterrence logic, though psychological needs for vengeance are difficult to ignore. Overall, a causal understanding of human behavior challenges common views of moral responsibility and punishment.
 
- Here is a summary:
+ 
 
 - The passage discusses the idea that our desire for retribution in response to injustice stems from an illusion of free will. In reality, people's actions are influenced by many genetic and environmental factors outside of their control. 
 
@@ -100,7 +100,7 @@ While people's choices and efforts do matter and influence outcomes, they themse
 
 - The experience of free will may itself be an illusion - upon introspection, our choices do not feel freely determined but rather seem to arise out of our circumstances, thoughts and preferences over which we have no conscious control. The passage argues our sense of freedom is mistaken.
 
- Here is a summary:
+ 
 
 There are two main systems that govern human cognition, emotion, and behavior according to dual-process theories. One is evolutionarily older and operates unconsciously, automatically, and quickly. It is responsive but slow to learn. The other system evolved more recently and involves conscious thinking that is slower but quick to learn new associations. 
 

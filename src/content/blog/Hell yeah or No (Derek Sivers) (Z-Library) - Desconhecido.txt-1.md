@@ -25,7 +25,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 • It's easy to want something a little bit, but actions show what you want more. Your actual values and priorities are revealed by what you do.
 
- Here is a summary:
+ 
 
 • The author initially hated Tom Waits' music but later fell in love with it after hearing a cover version he liked. He then realized the performance he hated years ago was the same one he now loved. 
 
@@ -43,7 +43,7 @@ The key takeaway is that we should be open to changing our minds about things we
 
 Public comments about us aren't really about us. They're about the image of us that we've put out into the world. We can't define who we are in the future based on what strangers say about us online. Their reactions say more about them than about us.
 
- Here is a summary:
+ 
 
 • The premise is an auction for a $100 bill with an unusual rule: the second-highest bidder still has to pay their bid but gets nothing. 
 
@@ -153,7 +153,7 @@ In summary, this metaphor is about letting people freely shape spaces, rules, or
 
 88
 
- Here is a summary:
+ 
 
 The key idea is that unlearning and subtracting are crucial for growth and success. Things we learned in the past may need to be corrected or updated. Once true beliefs may now be false. Habits and ways of thinking that used to work may no longer be effective. The solution is deliberate unlearning:
 
@@ -197,7 +197,7 @@ The key lesson is that we project meaning onto things, connecting dots that aren
 
 In short, don't worry so much about finding your passion or life's purpose. Follow those small things that intrigue or excite you each day. Your love and sense may emerge gradually from there.
 
- Here is a summary:
+ 
 
 Whatever scares you, could you do it? According to the author Derek Sivers, this is a motto to live by. Doing things that scare you helps you grow as a person. It pushes you outside your comfort zone and enables you to gain confidence.
 

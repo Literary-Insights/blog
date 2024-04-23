@@ -50,7 +50,7 @@ BOOK LINK:
 
 So in summary, the key issues are defining consciousness in terms of subjective experience, exploring its origins early in development and in non-human animals, and relating phenomenology to brain mechanisms through an embodied perspective.
 
- Here is a summary:
+ 
 
 - Consciousness has often been confused with having language, intelligence or certain behaviors, but it does not depend on outward signs. Consciousness exists during dreaming and paralysis when there are no behaviors. 
 
@@ -64,7 +64,7 @@ So in summary, the key issues are defining consciousness in terms of subjective 
 
 - Functionalism, common in neuroscience, says consciousness depends on what a system does, not what it's made of. But terms like "information processing" assume brains work like computers, which is questionable. The nature of information is also unclear.
 
- Here is a summary:
+ 
 
 - The passage discusses various issues and challenges related to explaining consciousness within a physicalist framework. Physicalism holds that consciousness arises from physical processes in the brain and body. 
 
@@ -96,7 +96,7 @@ In summary, the passage critically discusses various positions on the relationsh
 
 So in summary, the passage presents consciousness as arising from physical processes in the brain/body, but acknowledges current limits in explaining this emergence - which the real problem approach ultimately aims to address through developing causal explanatory models.
 
- Here is a summary:
+ 
 
 - The philosophy of vitalism reached its peak in the 19th century and was supported by biologists like Johannes Müller and Louis Pasteur. It held that life requires a special "spark" or "elan vital".
 
@@ -112,7 +112,7 @@ So in summary, the passage presents consciousness as arising from physical proce
 
 - Eventually, with progress, the "hard problem" of consciousness may succumb and we can understand consciousness as continuous with the natural world without arbitrary "ism" views of its relationship to physics.
 
- Here is a summary:
+ 
 
 - Scientists in the 17th century were developing reliable thermometers and scales to measure temperature in order to understand the physical nature of heat. This required a precise, unchanging reference point for calibration. 
 
@@ -138,7 +138,7 @@ So in summary, the historical example shows the importance of measurement, scale
 
 - Their "complexity index" derived from this approach provides a single number quantifying conscious level, showing promise as a reliable consciousness meter.
 
- Here is a summary:
+ 
 
 - When the brain is zapped with TMS, it produces an initial strong response that quickly dies off, like ripples in still water. But during conscious states, the response is more complex, echoing widely across the cortical surface in intricate patterns over time and space. This implies different brain regions like the thalamocortical system communicate more sophistically during consciousness.
 
@@ -150,7 +150,7 @@ So in summary, the historical example shows the importance of measurement, scale
 
 - PCI and other emerging methods migrating from labs have potential to revolutionize diagnosing borderline cases and residual consciousness in injured brains, avoiding misdiagnoses based solely on inconsistent or absent behavior. One case showed PCI detecting consciousness the clinical team initially missed.
 
- Here is a summary:
+ 
 
 - Owen and his team repurposed a brain scanner to allow a patient diagnosed as being in a vegetative state to interact with her environment using her brain rather than her body. She was able to imagine playing tennis to answer yes and walking around her house to answer no, demonstrating that her original diagnosis was wrong and she was consciously aware. 
 
@@ -220,7 +220,7 @@ So in summary, the historical example shows the importance of measurement, scale
 
 - If correct, IIT claims any system with the right causal properties would have consciousness, regardless of composition. It leads to some unusual implications about consciousness distribution.
 
- Here is a summary:
+ 
 
 The passage discusses some implications of integrated information theory (IIT) that could lead to seemingly strange predictions, even though the scenarios described may never actually occur. 
 
@@ -230,7 +230,7 @@ Remarkably, new optogenetic technologies may allow experimentally preventing ina
 
 In summary, the key point is that IIT claims consciousness would change based on potential, not actual, neuronal states - states that in the examples given may never occur in reality. This leads to predictions that could be difficult to experimentally assess.
 
- Here is a summary:
+ 
 
 - The common view of perception is that the senses act as windows onto the world, detecting objective properties like color and shape and conveying this information to the brain to form perceptions. This is known as the "how things seem" view. 
 
@@ -242,7 +242,7 @@ In summary, the key point is that IIT claims consciousness would change based on
 
 - This suggests perceptions may be more of a "controlled hallucination" generated by the brain rather than a transparent reflection of objective reality captured by the senses. An alternative view to the "how things seem" perspective.
 
- Here is a summary:
+ 
 
 - Wittgenstein was driving at the idea that even with a greater scientific understanding of how things work, like the solar system being heliocentric, some aspects of perception remain the same on the surface. 
 
@@ -254,7 +254,7 @@ In summary, the key point is that IIT claims consciousness would change based on
 
 - The author describes perception as "controlled hallucination" - internally generated predictions constrained by sensory inputs. Both normal perception and hallucination involve predictions, differing by degree of constraint from external causes. This blurs the line between perception and hallucination.
 
- Here is a summary:
+ 
 
 - Colour perception depends not just on the light entering the eye, but on complex interactions between the light reflecting off surfaces and the ambient illumination. 
 
@@ -268,13 +268,13 @@ In summary, the key point is that IIT claims consciousness would change based on
 
 - Perception involves the brain making its best guess of causes from sensory inputs, based on past experience, rather than directly representing the physical properties of the world. Color exists where the brain and world interact through this process of perceptual inference.
 
- Here is a summary:
+ 
 
 The passage discusses examples that demonstrate how perception is influenced by top-down predictions rather than simply reflecting sensory signals. It describes a "Mooney image" which initially appears as scattered blobs but resolves into a coherent scene once the original image is seen, providing a prediction about the causes of the sensory input. Similarly, "sine wave speech" becomes intelligible once the original unprocessed speech is heard. 
 
 This shows that perception is an active, generative process where the brain builds interpretations of sensory signals based on its predictions, rather than passively receiving raw inputs. Even though the sensory signals don't change, seeing the original image or hearing the original speech provides new predictions that alter conscious perception. This reveals perception to be a "controlled hallucination" or "proactive, context-laden interpretation" guided by top-down predictions rather than a transparent representation of the world.
 
- Here is a summary:
+ 
 
 - Bayesian reasoning is a type of abductive reasoning that involves updating probabilities (beliefs) based on new evidence or data. It provides an optimal way to reach conclusions under uncertainty.
 
@@ -286,7 +286,7 @@ This shows that perception is an active, generative process where the brain buil
 
 - Reliability of data impacts updating - unreliable data has less influence. Bayesian inferences improve through continuous updating as new data becomes available in an endless cycle.
 
- Here is a summary:
+ 
 
 - Bayesian inference involves using prior information and new evidence to update beliefs and make predictions. Each new observation informs the next guess. 
 
@@ -296,7 +296,7 @@ This shows that perception is an active, generative process where the brain buil
 
 - Perception can be viewed as a Bayesian process, where the brain generates predictions and updates them based on sensory input and prior assumptions. Each new perception helps shape the next one. This allows the brain to continuously refine its understanding of the external world.
 
- Here is a summary:
+ 
 
 The controlled hallucination view is a theory that builds on predictive processing and Bayesian inference to account for conscious experiences. It proposes that perception is not a bottom-up processing of sensory data, but a top-down "controlled hallucination" generated by predictive models in the brain. 
 
@@ -334,7 +334,7 @@ Overall, perception and action are tightly coupled - perception evolves to guide
 
 - The concept emphasizes the experiential, qualitative nature of perception that gets lost in purely mechanistic explanations of predictive processing using probabilities, errors, etc. It offers a phenomenological perspective.
 
- Here is a summary:
+ 
 
 - The passage describes an experiment done by Yair Pinto, a former postdoc in the author's lab, to test how perceptual expectations can influence conscious perception. 
 
@@ -350,7 +350,7 @@ Overall, perception and action are tightly coupled - perception evolves to guide
 
 - The author's lab now uses VR/AR to study how perceptual priors generate experiences, building a "hallucination machine" that simulates overactive expectations through image algorithms.
 
- Here is a summary:
+ 
 
 - The author developed a "hallucination machine" that uses a deep dream algorithm to project perceptual predictions onto panoramic video frames in virtual reality. This gives the video an exaggerated hallucinatory quality by making the brain's top-down predictions more pronounced. 
 
@@ -364,7 +364,7 @@ Overall, perception and action are tightly coupled - perception evolves to guide
 
 - Experiments in VR further support the role of valid sensorimotor predictions in generating the experience of objecthood for virtual objects.
 
- Here is a summary:
+ 
 
 - Imotor predictions, or predictions about how our movements will affect sensory feedback, can influence conscious perception in measurable ways. 
 
@@ -374,7 +374,7 @@ Overall, perception and action are tightly coupled - perception evolves to guide
 
 - New research aims to create "substitutional reality" through VR/AR to study conditions under which people experience their environment as real versus not real, and investigate disorders involving loss of reality perception. The goal is a system where people believe simulated input is real. This explores the deep structure of how perception constructs reality.
 
- Here is a summary:
+ 
 
 - Wittgenstein argued that even when we understand perceptions like seeing the Earth revolve around the sun as controlled hallucinations, these perceptions will still seem veridical and to represent real properties of the external world. 
 
@@ -388,7 +388,7 @@ Overall, perception and action are tightly coupled - perception evolves to guide
 
 - The chapter then discusses several experiments providing evidence that perceptual experiences are influenced by top-down expectations and prior knowledge/beliefs.
 
- Here is a summary:
+ 
 
 - The author's mother experienced hospital-induced delirium while being treated for bowel cancer at a hospital in Oxford. Delirium is an acutely disturbed mental state characterized by restlessness, illusions, and incoherence. 
 
@@ -416,7 +416,7 @@ In summary, the passage describes the author's experience of his elderly mother 
 
 - The sense of a singular, immutable self is an intuitive bias but has been questioned by philosophers, psychologists, neuroscience showing the self can break down, and Eastern philosophies seeing no permanent self. Overall the passage aims to show the self is more multifaceted than it appears.
 
- Here is a summary:
+ 
 
 - The passage discusses different aspects of selfhood, including the perspectival self (based on one's first-person viewpoint), the volitional self (sense of free will and agency), and the narrative/personal self (based on autobiographical memories and sense of identity over time). 
 
@@ -432,7 +432,7 @@ In summary, the passage describes the author's experience of his elderly mother 
 
 - Similar virtual reality experiments can induce out-of-body experiences by manipulating visuo-tactile synchrony, suggesting the first-person perspective is also inferred rather than immutable.
 
- Here is a summary:
+ 
 
 - Some people report unusual out-of-body experiences during epileptic seizures or other neurological disruptions. These experiences are thought to arise from disrupted activity in brain regions involved in balance, movement and integrating sensory information. 
 
@@ -444,7 +444,7 @@ In summary, the passage describes the author's experience of his elderly mother 
 
 - Clinical conditions like phantom limb syndrome provide stronger evidence that embodiment is a construction of the brain, as they involve far greater alterations of self-experience. Higher-level aspects of personal identity and social self are also dissociable from low-level embodiment.
 
- Here is a summary:
+ 
 
 - Clive Wearing suffers from immense retrograde and anterograde amnesia, leaving him only able to recall events from around 7-30 seconds ago. 
 
@@ -460,7 +460,7 @@ In summary, the passage describes the author's experience of his elderly mother 
 
 So in summary, Clive suffers one of the most profound amnesias documented, which annihilated his narrative self and sense of personal identity by preventing formation of new memories or recall of past events and experiences.
 
- Here is a summary:
+ 
 
 - The experience of having a consistent self seems enduring even as the world around us changes. We feel like the "same old body" is always present. 
 
@@ -488,7 +488,7 @@ In summary, while we experience a consistent sense of self, our perceptions are 
 
 - William James and Carl Lange argued emotions stem from perceiving bodily changes, not the other way around (as traditionally thought). Later appraisal theories incorporated cognitive evaluation of context.
 
- Here is a summary:
+ 
 
 - The passage discusses appraisal theory, which proposes that emotions emerge from cognitive interpretations of bodily states. 
 
@@ -504,7 +504,7 @@ In summary, while we experience a consistent sense of self, our perceptions are 
 
 - Cybernetics provided insights about how biological systems can have internal "purposes" or goals, like homeostasis, providing a link between living and non-living systems.
 
- Here is a summary:
+ 
 
 - Central heating systems use simple feedback control - if temperature is too low, turn heating on, otherwise turn it off (System A). 
 
@@ -524,7 +524,7 @@ In summary, while we experience a consistent sense of self, our perceptions are 
 
 - Emotions don't feel like objects because their goal is regulating essential variables, not just finding out states of the world or body. Their experience reflects the conditional predictions and control needed for homeostasis.
 
- Here is a summary:
+ 
 
 - The core purpose of any living organism is to stay alive through physiological homeostasis. Brains evolved primarily to help regulate essential bodily variables and ensure survival. 
 
@@ -540,7 +540,7 @@ In summary, while we experience a consistent sense of self, our perceptions are 
 
 In summary, the theory proposes that conscious experience of self and world arise from the brain's predictive mechanisms for actively regulating and controlling the physical body to ensure survival as a living organism. All perception is ultimately grounded in this biological imperative.
 
- Here is a summary:
+ 
 
 - The author argues that consciousness is rooted in and arises from the physiology of living organisms, not as some separate immaterial entity. Conscious experiences are shaped by and related to the body's perceptions, internal states, and interactions with the world. 
 
@@ -564,7 +564,7 @@ In summary, the theory proposes that conscious experience of self and world aris
 
 In summary, the passage considers alternative views of the brainstem's role in consciousness and introduces the free energy principle as a way to understand how biological systems maintain their distinct identity over time.
 
- Here is a summary:
+ 
 
 - According to the second law of thermodynamics, all isolated physical systems trend toward maximum entropy/disorder over time. Living systems oppose this by maintaining a state of low entropy.
 
@@ -578,7 +578,7 @@ In summary, the passage considers alternative views of the brainstem's role in c
 
 - The Free Energy Principle is not directly testable but motivates and facilitates interpretation of theories like predictive processing that can be experimentally evaluated. It provides a conceptual framework rather than a falsifiable theory.
 
- Here is a summary:
+ 
 
 The passage argues that theories of embodied cognition and control-oriented perception, as well as the "beast machine" theory, can be understood through the lens of the free energy principle (FEP). The FEP provides three benefits:
 
@@ -600,7 +600,7 @@ However, the FEP is not a theory of consciousness per se. Like predictive coding
 
 So in summary, to encounter generally refers to coming into contact with or experiencing something or someone, whether planned or by chance. It often implies interaction, engagement, or having to deal with or confront what is encountered.
 
- Here is a summary:
+ 
 
 - The debate over determinism vs free will is not as important once we reject the idea of "spooky" free will that magically intervenes in the causal flow of events. Determinism does not preclude the experience of free will. 
 
@@ -610,7 +610,7 @@ So in summary, to encounter generally refers to coming into contact with or expe
 
 - This supports viewing experiences of volition as forms of self-perception rather than causal factors. We feel intentions match our desires even though we don't choose desires. We feel able to do otherwise even though given causes we may not be. Actions feel internal rather than imposed. So free will remains an experiential phenomenon even if not fundamental to causality.
 
- Here is a summary:
+ 
 
 - Voluntary actions feel voluntary when we perceive they are caused from within by our beliefs, goals and desires, rather than external factors, and that we could have potentially acted differently. 
 
@@ -634,7 +634,7 @@ So in summary, to encounter generally refers to coming into contact with or expe
 
 - In conclusion, it suggests exploring voluntary control and possibly consciousness in other animal species to better understand the origins and degrees of "free will" seen in humans.
 
- Here is a summary:
+ 
 
 - From the 8th century to the mid-1700s, European ecclesiastical courts would try and prosecute animals for their actions, such as pigs being hanged for eating children. This shows that medieval thinkers viewed animals as having conscious minds, unlike Cartesian dualism which viewed animals as machines lacking consciousness. 
 
@@ -648,7 +648,7 @@ So in summary, to encounter generally refers to coming into contact with or expe
 
 In summary, the passage discusses the history of attributing consciousness to animals, cautions against solely equating it with intelligence, and argues mammals likely possess consciousness based on shared brain and sleep mechanisms, while contents of consciousness vary greatly between species.
 
- Here is a summary:
+ 
 
 - The mirror self-recognition test developed by Gordon Gallup Jr. in the 1970s is used to test self-awareness in animals. It involves marking an anesthetized animal in a way it can't see, then seeing if it looks at the mark in a mirror rather than just the mirror image.
 
@@ -674,7 +674,7 @@ In summary, the passage discusses the history of attributing consciousness to an
 
 - This decentralized nature may mean experiences of embodiment are hazy for the whole octopus but potentially present even for detached arms. Their consciousness is likely more distributed and different from our own.
 
- Here is a summary:
+ 
 
 - The Cartesian view traces consciousness to physiological regulation and preservation of the organism. This suggests looking for evidence of awareness in how animals respond to painful events. 
 
@@ -690,7 +690,7 @@ In summary, the passage discusses the history of attributing consciousness to an
 
 - Studying animal minds humbles human assumptions and motivates minimizing all forms of suffering wherever they appear in nature. Consciousness is more about being alive than intelligence.
 
- Here is a summary:
+ 
 
 - The assumption that machines could become conscious stems from two unsupported claims: 1) functionalism, which says consciousness depends only on input-output functions and not physical substrate, and 2) the idea that intelligence and consciousness are intrinsically linked and consciousness will emerge with advanced intelligence. 
 
@@ -704,7 +704,7 @@ In summary, the passage discusses the history of attributing consciousness to an
 
 - While conscious AI cannot be ruled out, the common assumptions that it is imminent or that we know how it might arise are not well-justified given our current understanding of consciousness. More caution is needed in these claims and their implications.
 
- Here is a summary:
+ 
 
 - The figure depicts consciousness and intelligence as separate, multidimensional concepts. Current AI systems are low on the intelligence scale and lack consciousness. 
 
@@ -716,7 +716,7 @@ In summary, the passage discusses the history of attributing consciousness to an
 
 - Even without conscious machines, advanced AI that appears conscious could still raise concerns. Films like Ex Machina show how tests of machine consciousness say more about how humans perceive and relate to machines than about the machines themselves. Sophisticated human-machine interactions may elicit feelings of the machine's sentience without it actually being conscious.
 
- Here is a summary:
+ 
 
 The passage discusses the challenge of ascribing consciousness to artificial intelligence. It notes that while chatbots have passed simple versions of the Turing test by fooling humans, truly demonstrating human-level intelligence remains difficult. 
 
@@ -728,7 +728,7 @@ While some thinks limits exist, the passage argues convincingly passing tests fo
 
 Finally, the passage notes the rise of AI sparks ethics discussions, from economic impacts to risks of bias and control. Discussions of machine consciousness ethics are important preemptively to shape how humanity views and treats sophisticated non-human agents in the future.
 
- Here is a summary:
+ 
 
 - The prospect of machine consciousness is alluring but also raises significant ethical concerns that need consideration. Simply pursuing it blindly for purposes of recreation or progress could be misguided. 
 
@@ -740,7 +740,7 @@ Finally, the passage notes the rise of AI sparks ethics discussions, from econom
 
 - The possibility of machine consciousness does not necessarily contradict a view of consciousness as grounded in biological organisms. Understanding it rightly places us more within, not apart from, nature. Preventative ethics are needed to guide any research in this area.
 
- Here is a summary:
+ 
 
 - Humberto Maturana developed the theory of autopoiesis, which describes how biological systems can maintain and reproduce themselves through internal production of physical components. 
 
@@ -758,7 +758,7 @@ Finally, the passage notes the rise of AI sparks ethics discussions, from econom
 
 - Many emerging technologies involving AI, robotics, synthetic biology raise difficult questions about how to ensure they are developed and applied safely, ethically and for the benefit of humanity. Ongoing discussion and debate are important to help guide research responsibly.
 
- Here is a summary:
+ 
 
 - The author had the opportunity to observe brain surgery on a child. They were in awe at the complexity and intricacy of the brain tissue visible through the microscope. It gave them a visceral understanding of how little we can comprehend from abstract knowledge alone. 
 

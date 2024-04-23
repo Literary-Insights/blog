@@ -42,7 +42,7 @@ BOOK LINK:
 
 - Over all, these French theorists of the 1970s helped define and debate accelerationism as a strategy, even if they disagreed on its viability and implications.
 
- Here is a summary:
+ 
 
 - Each theoretical accelerationist position (Deleuze/Guattari, Lyotard, Baudrillard) is accused of not fully accepting their immersion in capitalism and trying to hold on to a point of escape through concepts like desire, libido, or death. 
 
@@ -54,7 +54,7 @@ BOOK LINK:
 
 - There is a fusion of Marx and Nietzsche - taking the desire to destroy from Nietzsche but also Marx's view that progress comes through the 'bad side' like capitalism and its creative destruction. This positions acceleration as the vehicle for disenchanted redemption rather than struggle.
 
- Here is a summary:
+ 
 
 - The point of accelerationism is that it records and reflects two contradictory trends in capitalism - real economic deceleration but acceleration of financialization driven by new technologies. 
 
@@ -66,7 +66,7 @@ BOOK LINK:
 
 - The chapter then examines Italian Futurism as an early form of accelerationism that celebrated speed, technology and violence. The Futurists depicted acceleration as a force that could transform and surpass the human, depicted through their contempt for women and glorification of war.
 
- Here is a summary:
+ 
 
 - The passage discusses Marinetti's "Qualitative Imaginative Futurist Mathematics" manifesto from 1941, which proposed a new "antistatic" mathematics focused on non-linear acceleration and chance/randomness. 
 
@@ -92,7 +92,7 @@ BOOK LINK:
 
 - Some Bolsheviks saw War Communism as a "degree zero" site to radically rearrange capitalism starting from nothing, using intensified human labor to gain control over production.
 
- Here is a summary:
+ 
 
 - This period saw many experiments and proposals for restarting production in the devastated Soviet economy following the Russian Civil War and transition to the New Economic Policy (NEP) in 1921-1928. 
 
@@ -120,7 +120,7 @@ So in summary, this period saw debates around new forms of socialist production 
 
 - In contrast to hopes of liberating labor through technology, the Soviet system actually "hoarded" labor to meet production targets, showing the failure to fully integrate living labor with machinery as envisioned.
 
- Here is a summary:
+ 
 
 - Theodor Tausk analyzed the delusions of schizophrenic patients who believed they were being controlled by mysterious "influencing machines". These machines consisted of vague mechanical components like boxes, levers, wheels, etc. 
 
@@ -132,7 +132,7 @@ So in summary, this period saw debates around new forms of socialist production 
 
 - However, the influencing machine reveals anxiety around human-machine integration and our own "machinic nature." It interrupts the smooth valorization of integration that D&G proposed. Tausk's focus on libidinal alienation is important for understanding this fraught relationship between body and machine.
 
- Here is a summary:
+ 
 
 The passage discusses themes of metaphysical mobility and integration of the human soul/identity with machines from the works of Paul Virilio and Thomas Pynchon. 
 
@@ -142,7 +142,7 @@ The novel explores fantasies of complete integration with machines, represented 
 
 While some see this as a postmodern form of accelerationism that explodes identity, Virilio is more critical - arguing it risks occluding living bodies by viewing them simply as interchangeable with technological systems. Overall the passage examines metaphysical desires for both human-machine integration and dispersion, and their relationship to technology, war and capitalism.
 
- Here is a summary:
+ 
 
 - The passage discusses cyberpunk fiction, Detroit techno music, and their synthesis in cybertheory as examples of "cyberpunk phuturism" - a mutated form of accelerationism and futurism that emerged in response to the slackened pace of postmodernity. 
 
@@ -168,7 +168,7 @@ So in summary, the passage examines cyberpunk and techno as artistic responses t
 
 - In summary, it envisioned an integrated acceleration of different cultural forms toward a realized future of fully actualized market deterritorialization through cybernetic dissolution of selfhood.
 
- Here is a summary:
+ 
 
 Nick Land proposes that industrial machines are deployed to dismantle the actuality of the proletariat by displacing labor and realizing the plasticity of labor power through cyborg hybridization. This integrated plasticity reshapes the proletariat from the subject of history into a disappearing vector of acceleration. Labor will not disappear through communism or accelerationism, but through capitalism's own dynamic, painting a "fate of labor...to be processed as if in a meat plant." 
 
@@ -176,7 +176,7 @@ Land later explored experimental non-standard numeric and alphabetic anti-system
 
 The bursting of the dot-com bubble in 2000 didn't wreck Land's program, but made it more frantic and intense as it tried to extract remaining dynamism from economic shocks. Contemporary capitalism sees stasis replacing human agency. Accelerationism dreams of reinserting agency through human-computer merging. Apocalyptic desires emerge in times of crisis as both consoling fantasies and potential spurs to radical change, but can also justify repression of dissent.
 
- Here is a summary:
+ 
 
 The passage discusses different forms of apocalyptic and accelerationist thinking in radical political theory today. It analyzes how some thinkers call for intensifying or accelerating the ongoing crises of capitalism in hopes of precipitating its breakdown. 
 
@@ -186,7 +186,7 @@ The passage then examines how this relates back to Marxist concepts of "tendency
 
 It also discusses how Badiou critiqued what he saw as the "deviation" in Deleuze/Guattari's notion of tendency - their emphasis on multiplicity and flowing changes risks merely reflecting capital's accelerating logic rather than transcending it. In summary, it analyzes different philosophical approaches to tendency and their relationship to apocalyptic and accelerationist political thinking.
 
- Here is a summary:
+ 
 
 Badiou suggests balancing between a static logic of trajectories and a dynamic logic of tendencies. Those emphasizing trajectories prevent rushing revisions detached from reality, while dynamicists provide a sense that risks must be taken. 
 
@@ -228,7 +228,7 @@ The passage examines terminal accelerationism finding potential in capitalism's 
 
 - Their work focused on reworking and interrupting capitalist production and progress, challenging views like Jameson's that see capitalism as solely driving futurity and change.
 
- Here is a summary:
+ 
 
 The passage discusses Brecht and Benjamin's views on destruction and production in relation to capitalism. It makes the following key points:
 
@@ -244,7 +244,7 @@ The passage discusses Brecht and Benjamin's views on destruction and production 
 
 - The "Angelic Locomotive" represents technological acceleration that must be interrupted to channel its energies productively rather than destructively. Brecht and Benjamin saw interruption as key to refunctioning capitalism's ruins and technologies for new production.
 
- Here is a summary:
+ 
 
 - Benjamin and Brecht adopt positions that can loosely be described as accelerationist in embracing new technologies, but they also disrupt the accelerationist fantasy of fully tapping into capitalist productive forces. 
 
@@ -258,7 +258,7 @@ The passage discusses Brecht and Benjamin's views on destruction and production 
 
 - Interruption does not mean giving up on the new, but considering production as itself an interruption and experiment that has often failed. Their thinking reimagines production and progress outside of capitalist acceleration and destruction.
 
- Here is a summary:
+ 
 
 - Williams and Srnicek criticize traditional accelerationism for uncritically endorsing speed and acceleration within capitalism without direction or purpose. They argue for an "accelerationism which is also navigational."
 
@@ -270,7 +270,7 @@ The passage discusses Brecht and Benjamin's views on destruction and production 
 
 - In conclusion, accelerationism's attraction lies in immersing in real capitalist forces, but "one more effort" is always needed to truly become accelerationist. Many are skeptical of fully merging with technologies given capitalism's contradictions.
 
- Here is a summary:
+ 
 
 The passage discusses the widespread sensibility of acceleration and speed in contemporary theoretical and activist positions. While these positions don't strictly adhere to notions of accelerating capitalism or technological media, they converge on the need for speeding up struggles. 
 

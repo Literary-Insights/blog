@@ -34,7 +34,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 Those are the first two characteristics covered in the excerpts. The key points are that value-driven professionals have a growth mindset, take responsibility for their outcomes, and are focused on creating value for others.
 
- Here is a summary:
+ 
 
 - Successful people know how to de-escalate drama and keep their cool. This makes them respected and able to move up. 
 - Unnecessary drama exists when someone wants attention. It sucks energy from others. While appropriate in acting, it kills careers in business.
@@ -175,7 +175,7 @@ To summarize, a productive and value-driven professional focuses on priorities, 
 
 -   The key takeaway is that all businesses share a few key parts, and understanding how those parts work together determines business success or failure. Grasping these fundamentals gives you important business acumen.
 
- Here is a summary:
+ 
 
 To lead a growing business, you must understand how a business really works. A business operates like an airplane - it needs balanced and proportional parts to fly and avoid crashing. 
 
@@ -270,7 +270,7 @@ Does this summary cover the key points? Let me know if you would like me to clar
 
 The key takeaway is that sales funnels are a foundational marketing tool that all businesses should use. They build trust, allow you to pivot your messaging, and keep you connected with customers. Knowing how they work will make you a more competent professional.
 
- Here is a summary:
+ 
 
 A sales funnel is a systematic process that leads customers through the stages of awareness, interest, desire, and action. It helps build trust and relationships with customers to ultimately drive sales or donations. 
 
@@ -350,7 +350,7 @@ In summary, give your presentation a clear plot by stating the problem you will 
 
 - Practice pacing, vocal variety, and movement. How you deliver your message is as important as the message itself.
 
- Here is a summary:
+ 
 
 When selling, think of yourself as a guide leading customers through a process to solve their problem. You do this by:
 
@@ -377,7 +377,7 @@ To be an effective sales guide:
 
 If you approach each customer interaction with the mindset of a guide, you’ll find your close rate start to rise. People will see you as someone who can lead them out of frustration and into resolution. And that is the very definition of a good guide.
 
- Here is a summary:
+ 
 
 1. A great sales professional is confident when calling customers to action. They don’t fear rejection and don’t make the sales process “heavy.” 
 
@@ -411,7 +411,7 @@ So in summary:
 
 The key is having a strategic framework for successful negotiating. Without it, you’re likely to lose. But with it, you can dramatically increase your value.
 
- Here is a summary:
+ 
 
 - A good manager establishes clear priorities for their team. 
 - They have a crystal clear understanding of their division's priorities and goals.
@@ -437,7 +437,7 @@ The key is having a strategic framework for successful negotiating. Without it, 
 
 That covers the key highlights and main takeaways from the summary on defining division priorities, goals, and key performance indicators as a manager. Please let me know if you have any other questions!
 
- Here is a summary:
+ 
 
 To be an effective manager:
 
@@ -511,7 +511,7 @@ Only celebrate actual wins, not near wins or non-wins. Learn from losses instead
 
 Celebrating wins in these ways builds morale, motivates the team, helps individuals see their own progress, and drives future performance and success. Leaders should implement routines to celebrate wins frequently and consistently.
 
- Here is a summary:
+ 
 
 enlightening, 113: Helping customers gain a deeper understanding or new perspective. 
 
@@ -631,7 +631,7 @@ leadership, 31–51: The ability to motivate, guide and organize a group of peop
 
 losing face, 23: Experiencing a loss of status, reputation, or credibility due to embarrassment or failure. The desire to avoid losing face can negatively impact decision making and behavior. It is better to focus on objective facts and desired outcomes rather than appearances.
 
- Here is a summary:
+ 
 
 With:
 Sales, 140–55:

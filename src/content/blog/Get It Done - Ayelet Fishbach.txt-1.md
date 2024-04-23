@@ -142,7 +142,7 @@ In summary, putting a quantifiable number on your goals makes them more concrete
 
 In sum, well-designed incentives require rewarding the right behaviors, in moderation, and aligning outer incentives with inner motivational needs.
 
- Here is a summary:
+ 
 
 - Mark Lepper conducted a study in the 1970s where children were given art activities to do. Some were offered an award for their art, while others were not. Later, when the awards were removed, the children who had originally been offered awards were less motivated to continue the art activities. This demonstrated the "overjustification effect" where added external incentives can reduce internal motivation. 
 
@@ -330,7 +330,7 @@ The key distinction is between consistency versus balancing dynamics and between
 
 The key is to renew your purpose, celebrate progress, add variety, get support, and keep the end goal in sight to maintain motivation during the middle stage.
 
- Here is a summary:
+ 
 
 The beginning and end of goal pursuit tend to be celebrated with parties and events, while the long middle part usually passes without fanfare. Motivation and enthusiasm are highest at the start, decline during the middle, and increase again as the end draws near. The motivation to get something done differs from the motivation to do it right - taking the proper time and care to uphold standards. Doing it right signals positive traits about yourself to others and yourself. 
 

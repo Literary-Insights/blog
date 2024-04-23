@@ -28,13 +28,13 @@ BOOK LINK:
 
 - The book will provide examples of bullshit and techniques for questioning dubious quantitative claims or detecting flaws in data visualizations, statistics, studies, and causal arguments. The goal is to educate citizens and help politics be grounded in facts rather than misinformation.
 
- Here is a summary:
+ 
 
 - Bullshit has its origins in deception which has existed in the animal kingdom for hundreds of millions of years. Certain marine crustaceans like mantis shrimp engage in bluffing behavior, waving their claws during molting when they are vulnerable even though they cannot punch full force. However, this is an instinctual behavior rather than sophisticated deception. 
 
 - Corvids like ravens and crows are among the most intelligent non-human animals and show signs of having a theory of mind. They are cautious about caching food where others can see due to risk of theft. When being observed, they will quickly cache food or fake-cache by pretending to stash food but keeping it concealed. Faking caching only qualifies as bullshitting if the corvid understands the impression it creates in the observer's mind, indicating they have a theory of mind about what others can see/know.
 
- Here is a summary:
+ 
 
 - Ravens have been shown to exhibit deception when caching food, hiding treats from other ravens by considering what those ravens can and cannot see. This suggests ravens have a basic "theory of mind" of understanding what others know.
 
@@ -48,7 +48,7 @@ BOOK LINK:
 
 - While some bullshit aims to deceive, others are indifferent to truth, focusing on self-regarding signals about the communicator rather than objective claims.
 
- Here is a summary:
+ 
 
 - People often tell stories and spread information to create impressions of themselves and convey things about who they want to be seen as. This can lead to a lot of "bullshit" being produced and spread. 
 
@@ -60,7 +60,7 @@ BOOK LINK:
 
 - Bullshit and falsehoods spread much faster than the truth can catch up, as captured by Jonathan Swift's saying. Social media provides an environment where rumors and bullshit can spread widely and be analyzed at scale.
 
- Here is a summary:
+ 
 
 - Chapter 2 discusses how changes in media and technology have contributed to the proliferation of misinformation. 
 
@@ -88,7 +88,7 @@ So in summary, the chapter looks at how new media technologies like smartphones 
 
 So in summary, while the internet has democratized information, it has also enabled the spread of misinformation due to changes in how content is produced, shared, and financially incentivized on digital platforms. Quality is increasingly lost amid a deluge of low-effort, attention-grabbing but shallow content.
 
- Here is a summary:
+ 
 
 - Headlines on social media often appeal to emotions and avoid conveying facts to drive more clicks and shares. Emotional experiences like "will make you cry" perform better than headlines about facts. 
 
@@ -98,7 +98,7 @@ So in summary, while the internet has democratized information, it has also enab
 
 - Algorithms personalize feeds based on preferences and activity, amplifying agreeing views and suppressing dissent, further isolating people in separate information bubbles and tribal epistemologies not based on facts. This fragmented partisan media landscape makes nationwide discussion more difficult.
 
- Here is a summary:
+ 
 
 - Social media facilitates the spread of misinformation and disinformation. Fact-checking takes time so publishers rush to be first, cutting fact-checking in the process. 
 
@@ -114,7 +114,7 @@ So in summary, while the internet has democratized information, it has also enab
 
 - Governments use social media for surveillance and manipulation of public opinion. However, most fake news is created for profit, not propaganda, with some sites making thousands monthly from advertising.
 
- Here is a summary:
+ 
 
 - During the 2016 US election, a fake news story that Pope Francis endorsed Donald Trump went viral on Facebook, garnering almost 1 million engagements - more than a top NY Times article. The pope denounced "coprophagia" or obsession with scandals in the media. 
 
@@ -124,7 +124,7 @@ So in summary, while the internet has democratized information, it has also enab
 
 - However, society can still discern truth by cross-checking multiple independent sources and considering context. While technology and regulation aim to tackle misinformation, an arms race is likely and censorship concerns remain. Individual discernment remains important.
 
- Here is a summary:
+ 
 
 - The passage discusses the nature of bullshit and how it differs from lies. Bullshit aims to persuade or impress through rhetorical techniques rather than convey the truth. It can involve exaggerated details, meaningless language, or disregard for factual accuracy. 
 
@@ -136,7 +136,7 @@ So in summary, while the internet has democratized information, it has also enab
 
 - Effective bullshit can act like black boxes, shielding claims from fact-checking through complexity or appealing to established authority rather than objective truth. An example of an easily disputable claim about cat and dog people's salaries is given.
 
- Here is a summary:
+ 
 
 - The passage discusses an example of someone making unfounded claims about a link between pet ownership (cats vs dogs) and personality/career success. They start embellishing the claims with made-up details to make it sound more credible. 
 
@@ -196,7 +196,7 @@ The key point is that correlation only indicates association, not causation. Cla
 
 So in summary, the key issue is media and others inferring causation from correlations in a premature or unwarranted way, when more research is needed to establish causative relationships. Correlation does not equal causation.
 
- Here is a summary:
+ 
 
 - Studies have found an association between poor sleep and Alzheimer's disease, but the direction of causality is unclear - poor sleep could cause Alzheimer's or vice versa. 
 
@@ -220,7 +220,7 @@ So in summary, the key issue is media and others inferring causation from correl
 
 So in summary, the key points are how spurious correlations often arise by chance when unrelated variables are compared, and that experiments are a stronger approach than observational studies alone for determining causal relationships.
 
- Here is a summary:
+ 
 
 - Numbers are widely used to quantify and analyze the world, but they can be misused to spread misinformation if not properly understood and presented. 
 
@@ -234,7 +234,7 @@ So in summary, the key points are how spurious correlations often arise by chanc
 
 So in summary, the passage cautions that numbers are not as objective as they seem and must be carefully evaluated and placed in context to avoid being misled, as sampling and other factors can introduce errors or biases.
 
- Here is a summary:
+ 
 
 Summary statistics and percentages can be used to mislead if presented without proper context. Politicians may cite an average tax cut amount to make a tax plan sound beneficial when it actually only helps the wealthy. Similarly, percentages are commonly used in marketing to persuade consumers without providing all relevant details. 
 
@@ -242,7 +242,7 @@ Speed and other quantities like whale populations are sometimes inferred indirec
 
 When communicating numbers, it's important to choose appropriate summary statistics, provide necessary context, and present data in a way that allows for meaningful comparisons. Simply citing numbers alone does not remove them from context, as the choices in representation set an implicit framing. Honest and transparent reporting of quantitative information requires judges discretion in presentation for clarity and to avoid misleading the audience.
 
- Here is a summary:
+ 
 
 - The passage discusses how percentages, numbers, and relative risks can be used in ways that obscure meaningful comparisons or fail to provide proper context. 
 
@@ -270,7 +270,7 @@ The key point is that statistics like numbers, percentages and relative risks ca
 
 - This discusses Goodhart's Law - that quantitative metrics can inadvertently influence the behaviors they intend to measure, like the unintended consequences of a rat bounty program in colonial Vietnam.
 
- Here is a summary:
+ 
 
 The passage discusses the concept of "mathiness" - the use of mathematical formulas and expressions that have the appearance of rigor but disregard logical coherence and formal mathematical principles. 
 
@@ -296,7 +296,7 @@ The passage defines "mathiness" as the use of mathematical expressions in this w
 
 In summary, the passage critiques using equations to quantify complex human relationships and attributes when the equations don't reflect reality and lack proper units or context. It warns about unfounded statistics spreading without verifying their original sources.
 
- Here is a summary:
+ 
 
 - The chapter discusses the concept of selection bias, where the samples used for analysis are not truly representative of the overall population. 
 
@@ -320,7 +320,7 @@ In summary, the passage critiques using equations to quantify complex human rela
 
 - For research to be useful, the results must be carefully evaluated for how broadly they can be generalized beyond the specific studied sample/population.
 
- Here is a summary:
+ 
 
 - Internet users are more likely to be young males who drive more miles recklessly. But one insurance company found a huge difference in claim rates between people who provided email addresses vs those who didn't. 
 
@@ -348,7 +348,7 @@ In summary, the passage critiques using equations to quantify complex human rela
 
 In summary, the passage uses Berkson's paradox and ideas of selection bias to explain why some have the perception that attractive people tend to be worse partners, even if attractiveness and personality may not actually be correlated.
 
- Here is a summary:
+ 
 
 - The graph showing musicians dying at younger ages in rap/hip-hop than other genres is misleading due to right-censoring of the data. 
 
@@ -364,7 +364,7 @@ In summary, the passage uses Berkson's paradox and ideas of selection bias to ex
 
 So in summary, the graph is misleading due to right-censoring of data biasing results for newer music genres that are still establishing longer track records over time.
 
- Here is a summary:
+ 
 
 - The article discusses the problem of selection bias in studies of workplace wellness programs. Previous studies found benefits, but they did not use randomized designs and likely suffered from selection bias. 
 
@@ -376,7 +376,7 @@ So in summary, the graph is misleading due to right-censoring of data biasing re
 
 - Previous non-randomized studies likely found benefits because healthier employees opted into wellness programs to begin with. The program itself may not have caused the observed differences. Randomization is important to minimize selection biases in evaluations.
 
- Here is a summary:
+ 
 
 - The passage discusses the history and evolution of data visualization, from its early uses in the 18th century by scientists like William Playfair and Johann Heinrich Lambert, to its limited adoption in popular media through the 20th century. 
 
@@ -388,7 +388,7 @@ So in summary, the graph is misleading due to right-censoring of data biasing re
 
 So in summary, the passage traces the history of data visualization from its scientific origins to its proliferation and increasing sophistication in modern media, enabled by advances in digital technologies.
 
- Here is a summary:
+ 
 
 - The passage criticizes the increasing prevalence of "data visualization ducks" - visualizations that prioritize form over function by using clever or eye-catching graphical elements that make it harder to understand the underlying data. 
 
@@ -402,7 +402,7 @@ So in summary, the passage traces the history of data visualization from its sci
 
 - In summary, the passage criticizes trendy or clever visualizations that prioritize form over function, making the data harder rather than easier to understand.
 
- Here is a summary:
+ 
 
 The passage discusses how certain types of visualizations like periodic tables, subway maps, Venn diagrams, and labeled schematics are often misused as metaphors when displaying data that does not actually fit those structures. 
 
@@ -450,7 +450,7 @@ The key point is that visualizations work best when the structure genuinely refl
 
 So in summary, the key message is to be skeptical of unnecessary 3D effects in graphs and check if they accurately represent the raw numbers or distort the story being told. Simpler 2D designs are often better.
 
- Here is a summary:
+ 
 
 - In 1958, an article in the New York Times described a new "embryo of an electronic computer" called the perceptron, which was envisioned as being able to walk, talk, see, write, reproduce itself and be conscious. This was the work of Frank Rosenblatt at Cornell. 
 
@@ -474,7 +474,7 @@ So in summary, the key message is to be skeptical of unnecessary 3D effects in g
 
 - Training data is critical—garbage in leads to garbage out. While the Postal Service's data is high quality, sampling bias can still impact performance if the training data isn't fully representative. Overall, machine learning has helped automate address reading at huge scale for the Postal Service.
 
- Here is a summary:
+ 
 
 - An AI study from Stanford claimed it could detect someone's sexual orientation from their facial photo alone, with accuracy above chance. This garnered media attention focused on ethical implications. 
 
@@ -514,7 +514,7 @@ In summary, understanding how machines make opaque decisions is an important cha
 
 So in summary, gender-skewed professional organizations, hobbies or memberships refer to groups where the participation or leadership is heavily dominated by one gender over the other due to social or cultural factors influencing expected gender norms.
 
- Here is a summary:
+ 
 
 - Science is a human invention that allows us to understand the universe beyond human scales of time and space. However, science is still a human practice and relies on human cognition, so it is not an absolute pathway to truth. 
 
@@ -526,7 +526,7 @@ So in summary, gender-skewed professional organizations, hobbies or memberships 
 
 - Scientists compete for priority and recognition of discoveries. Findings can be overturned if not replicated by other researchers. High-profile cases like cold fusion claims show how flawed findings can still enter the scientific literature initially. Overall, science self-corrects through replication and skepticism, but is not flawless.
 
- Here is a summary:
+ 
 
 - Researchers claimed to have achieved "cold fusion" by generating excess heat from deuterium molecules in palladium metal, which would provide a new source of clean energy. However, many labs tried and failed to replicate their findings. Within a year, the scientific community concluded that cold fusion was not real.
 
@@ -568,7 +568,7 @@ So in summary, it focuses on the correct vs. incorrect interpretation and repres
 
 - Ioannidis argued this bias towards publishing only positives means most published research findings may actually be false due to these selection biases and pressures, not accurate representations of reality.
 
- Here is a summary:
+ 
 
 - Ioannidis argues that most published research findings may be false due to issues like publication bias, where negative results often go unpublished. His analogies compare this to interpreting medical tests.
 
@@ -584,7 +584,7 @@ So in summary, it focuses on the correct vs. incorrect interpretation and repres
 
 - This "iceberg effect" makes the true picture obscured if relying only on published literature without considering unpublished results. More work is needed to quantify the extent of the problem.
 
- Here is a summary:
+ 
 
 - Public distrust in evolution and climate change can be attributed to deliberate misinformation campaigns by industries like tobacco and oil. Religious groups also attempt to sow doubts about evolution. 
 
@@ -614,7 +614,7 @@ So in summary, it focuses on the correct vs. incorrect interpretation and repres
 
 So in summary, the passage discusses how false information in science can spread due to the rise of predatory open-access journals seeking fees over quality, taking advantage of the inability of peer review to catch all errors.
 
- Here is a summary:
+ 
 
 - Evaluating the legitimacy of published scientific papers is important but difficult. The best one can usually do is determine if a paper was conducted in good faith, using appropriate methodologies, and is taken seriously by the relevant scientific community.
 
@@ -638,7 +638,7 @@ So in summary, the passage discusses how false information in science can spread
 
 - When evaluating new claims or studies, it's important to consider the source and potential biases or agendas. Questions like who is presenting the information, how they obtained it, and what they may want you to believe can help identify bullshit and misleading claims. Rigorous fact-checking, looking for independent replication, and applying healthy skepticism to all claims regardless of political alignment are important critical thinking skills.
 
- Here is a summary:
+ 
 
 - The passage discusses how headlines, lists, and comparisons can sometimes be misleading or unfair if they ignore important context or definitions. 
 
@@ -690,7 +690,7 @@ So in summary, the passage promotes the use of approximate reasoning and order-o
 
 The passage emphasizes the importance of individual vigilance in verifying claims seen online before sharing to avoid spreading misinformation. It provides concrete techniques like source verification, corroboration, tracing claims back to origins, and image searches to fact check suspicious information.
 
- Here is a summary:
+ 
 
 - The chapter introduces the concept of "calling bullshit" as a way to refute and repudiate things like bullshit, lies, trickery, and injustice. 
 
@@ -702,7 +702,7 @@ The passage emphasizes the importance of individual vigilance in verifying claim
 
 So in summary, the chapter introduces the concept of "calling bullshit" as a way to actively refute problematic information through performative language, not just detect it, as part of addressing the proliferation of bullshit. It draws on the idea of performative utterances from philosophy of language.
 
- Here is a summary:
+ 
 
 - The passage discusses calling out bullshit or false claims, which is known as a performative utterance since it directly refutes or rejects an idea rather than just reporting skepticism. 
 
@@ -738,7 +738,7 @@ So in summary, the chapter introduces the concept of "calling bullshit" as a way
 
 - When debunking, keep things simple, fill in knowledge gaps with alternative explanations, don't overemphasize the original myth, and find opportunities for common ground. Maintaining humility and correctness are also important principles.
 
- Here is a summary:
+ 
 
 - When calling out incorrect information, make sure to thoroughly research the facts yourself first before asserting anything. Double and triple check sources. 
 

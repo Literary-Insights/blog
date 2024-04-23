@@ -44,7 +44,7 @@ Chapter 11 presents developing letter of credit applications on Hyperledger.
 
 So in summary, the book progresses from basic blockchain concepts to building various real-world applications across platforms like Bitcoin, Ethereum and Hyperledger. It covers topics from cryptocurrencies, payments, smart contracts to business use cases.
 
- Here is a summary:
+ 
 
 - Blockchains solve the problem of having a centralized authority to manage trust and prevent fraud in payment systems. However, early decentralized systems lacked trust without a central authority. 
 
@@ -58,7 +58,7 @@ So in summary, the book progresses from basic blockchain concepts to building va
 
 - The guide then demonstrates setting up bitcoin clients and constructing a basic transaction to store a "hello world" message in the blockchain, as one way data can be embedded within bitcoin transactions.
 
- Here is a summary:
+ 
 
 - The summary explains how to set up a Bitcoin testnet node using Bitcoin Core and Electrum clients without needing to download the entire blockchain. 
 
@@ -146,7 +146,7 @@ const response = await fetch('https://api.../pushtx', {
 
 This demonstrates the basic flow to create, sign and broadcast a raw bitcoin transaction with OP_RETURN and standard outputs programmatically in Node.js.
 
- Here is a summary:
+ 
 
 - The post describes building a basic Bitcoin payment system and smart contract using Node.js, bitcore-lib, BitcoinJ, and Rootstock.
 
@@ -198,7 +198,7 @@ So in summary, it provides an introduction to getting started technically with t
 
 So in summary, it outlines building a Bitcoin payment gateway to enable easy checkout payments from a customer's wallet directly to a merchant site using the Bitcoin Payment Protocol standard.
 
- Here is a summary:
+ 
 
 - The code is setting up an HTTPS server using Node.js and Express to handle Bitcoin payment requests using the Payment Protocol (BIP70/BIP72). 
 
@@ -218,7 +218,7 @@ So in summary, it outlines building a Bitcoin payment gateway to enable easy che
 
 So in summary, it demonstrates implementing a basic Bitcoin payment server handling the Payment Protocol standard on the merchant side.
 
- Here is a summary:
+ 
 
 - The code is implementing a Bitcoin payment system that allows customers to pay for online purchases with Bitcoin using the Bitcoin Payment Protocol (BIP70).
 
@@ -236,7 +236,7 @@ So in summary, it demonstrates implementing a basic Bitcoin payment server handl
 
 So in summary, it shows how to build a full-stack Bitcoin payment system using the Bitcoin Payment Protocol for online purchases. Both backend server implementations and basic frontend UI are covered.
 
- Here is a summary:
+ 
 
 The steps to set up and run a Java client using BitcoinJ to communicate with a Node.js server that supports BIP70 payments are:
 
@@ -334,7 +334,7 @@ The process involved taking the Bitcoin 0.15 source code as a base, removing tie
 
 The key steps focus on replacing SAToshi's hardcoded genesis block values with the new customized ones defined through the genesis block generation. This establishes a independent initial state for the new blockchain.
 
- Here is a summary:
+ 
 
 - The blockchain reward halving mechanism is defined by the GetBlockSubsidy function. It determines the reward amount based on the block height and a halving interval parameter. 
 
@@ -386,7 +386,7 @@ The key steps focus on replacing SAToshi's hardcoded genesis block values with t
 
 - Key considerations in creating an altcoin include having a useful purpose/idea and not just doing it for financial motives. The goal should be improving on existing blockchain technology.
 
- Here is a summary:
+ 
 
 The chapter provided an introduction to building a basic cryptocurrency by cloning Bitcoin. It aimed to increase understanding of the Bitcoin protocol and source code at a beginner level. A GitHub repository was shared that contains the code for a simple cryptocurrency called Readercoin. 
 

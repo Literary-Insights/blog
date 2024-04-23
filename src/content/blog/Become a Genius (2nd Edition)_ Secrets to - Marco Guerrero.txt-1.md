@@ -72,7 +72,7 @@ The key goal of both speed reading and memorization techniques is to maximize th
 › Get plenty of sleep: Sleep is essential for your brain and body to function properly. Aim for 7 to 9 hours of sleep per night to allow your brain to consolidate memories and recover from mental fatigue. 
 › Practice mindfulness: Spending time each day focusing your awareness on your thoughts and breathing. Strengthens connections between areas of the brain involved in memory, sense of self, and stress regulation.  Improves focus and concentration.
 
- Here is a summary:
+ 
 
 • Thinking involves making proper decisions based on skills like fairness, clarity and incorporating facts, intelligence and intuition. 
 

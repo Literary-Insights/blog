@@ -28,7 +28,7 @@ BOOK LINK:
 
 - They criticize social democracy as impossible and neoliberalism as a failure. A new alternative vision is needed to achieve universal prosperity and emancipation, which is the fundamental task of the left today according to the authors.
 
- Here is a summary:
+ 
 
 - Grassroots movements generate lots of enthusiasm and large participation initially, but often fade away without achieving meaningful change. Participants feel defeated in the end. 
 
@@ -42,7 +42,7 @@ BOOK LINK:
 
 - While state repression and corporate power play a role, the contemporary left cannot solely blame external factors for its weakness. An honest reckoning is needed to understand what has gone wrong internally with modern protest movements and strategies.
 
- Here is a summary:
+ 
 
 The article defines and critiques the concept of "folk politics" as a common way of thinking on the contemporary left. Folk politics emphasizes immediacy over abstraction, preferring the local, small-scale, direct and familiar over the large-scale, complex, mediated and future-oriented. It argues this renders leftist movements unable to challenge capitalism on a global scale. 
 
@@ -50,7 +50,7 @@ Key aspects of folk politics include reactiveness rather than initiative, focusi
 
 While acknowledging folk politics arises from necessary starting points, the article argues it remains insufficient for transforming capitalism. It qualifies that folk politics can work for smaller-scale issues but not challenges to neoliberalism globally. The rise of folk politics is understood as a response to increasingly complex systems outpacing human comprehension, and as a reaction to failures of 20th century communism and social democracy. The article aims to outline an alternative approach for the left.
 
- Here is a summary:
+ 
 
 - Globalization, international politics, and climate change operate on scales that are beyond direct human perception, making them difficult to understand and situate our own experiences within. 
 
@@ -64,7 +64,7 @@ While acknowledging folk politics arises from necessary starting points, the art
 
 - These folk-political tendencies reflect understandable reactions to challenges faced by the left since the breakdown of the postwar social democratic order starting in the 1960s-70s. But a post-capitalist vision will require expanding human capacities to comprehend and steer complexity, not reducing it.
 
- Here is a summary:
+ 
 
 - Social democracy was capable of gains but remained authoritarian, exclusive of minorities, and dependent on Fordist capitalism that generated social cohesion. 
 
@@ -78,7 +78,7 @@ While acknowledging folk politics arises from necessary starting points, the art
 
 - Neoliberalism expanded its common sense as social democratic parties accepted its terms. Cynicism grew as party politics resembled PR and mass participation declined.
 
- Here is a summary:
+ 
 
 The passage discusses the critique of contemporary leftist politics, focusing on their folk-political assumptions and strategic limitations. It analyzes horizontalism, the dominant approach in recent movements, which emerged from 1970s social movements and was prominent in the anti-globalization and Occupy movements. 
 
@@ -86,7 +86,7 @@ Horizontalism rejects states, institutions, and the project of hegemony. It advo
 
 While understandable given past left failures, the passage argues horizontalism limits strategic potential. By focusing on the local and spontaneous through prefigurative politics, horizontal movements fail to achieve significant change against global capitalism. Their reactive politics and folk-political assumptions preclude building counter-hegemonic power needed to transform the overall political status quo. This diagnosis informs the alternative vision proposed in later chapters.
 
- Here is a summary:
+ 
 
 - The essay discusses direct action as a tactic used by horizontalist social movements that aim to directly challenge domination and create alternative societies without hierarchical mediating structures. 
 
@@ -98,7 +98,7 @@ While understandable given past left failures, the passage argues horizontalism 
 
 - The Occupy movement is discussed as a prime example that demonstrated both the empowering aspects of direct action but also its strategic limitations without larger goals or coordination to exert real power against global capitalism.
 
- Here is a summary:
+ 
 
 The Occupy movements, particularly Occupy Wall Street, used occupations/encampments as a way to draw media attention to issues of economic injustice and spark wider discussions. However, the occupations also had some limitations and failures. They tended to exclude people based on race, gender, income and availability of free time. 
 
@@ -108,7 +108,7 @@ Additionally, the rejection of any vertical organizational structures meant miss
 
 Overall, the prefigurative political approach of embodying an alternative society in the present through occupations/encampments was inherently temporary and lacked efforts toward sustained, concrete changes or becoming competitive alternatives to the existing system. This constrained the impact and goals that could realistically be achieved.
 
- Here is a summary:
+ 
 
 - The passage discusses the transitory nature of prefigurative spaces like Occupy encampments and the difficulties of expanding and sustaining them long-term. 
 
@@ -120,7 +120,7 @@ Overall, the prefigurative political approach of embodying an alternative societ
 
 - Worker-controlled factories provided in Argentina, but challenges emerged incorporating collective interests into the assembly model without overwhelming it. Organizational limitations were revealed even when joined inter-neighborhood.
 
- Here is a summary:
+ 
 
 - The passage discusses two popular variants of localism - local food movements like slow food and locavorism, and economic localism. 
 
@@ -130,7 +130,7 @@ Overall, the prefigurative political approach of embodying an alternative societ
 
 - The key problem with localism is it denies the systemic, interconnected nature of global problems today. While well-meaning, localist approaches are insufficient to address issues like global exploitation, climate change, and capitalism's crises that require large-scale, systemic solutions rather than just local actions.
 
- Here is a summary:
+ 
 
 The passage critiques the ideology of localism as a simplistic way to address complex global problems like environmental issues and economics. 
 
@@ -140,7 +140,7 @@ On economics, the idea that moving money to small local banks can change the fin
 
 Overall, the passage argues localism reduces complex, global issues to an oversimplified "local good, global bad" view. What's needed instead is a systemic analysis accounting for interconnections across scales. No single scale of action, like the local, can adequately address problems that operate globally. Transformational change requires coordinated efforts beyond any individual's control or preferences.
 
- Here is a summary:
+ 
 
 The passage criticizes certain folk-political tendencies on the contemporary left as being inadequate for transforming capitalism. It identifies movements focused on horizontalism, localism, nostalgia, resistance and withdrawal as embodying folk-political intuitions. 
 
@@ -170,7 +170,7 @@ It concludes folk politics is partial and insufficient on its own. Some elements
 
 So in summary, the passage examines how neoliberalism went from a fringe idea to a global hegemonic ideology through strategic long-term thinking and carefully constructing an ideological infrastructure and network over many years.
 
- Here is a summary:
+ 
 
 The passage discusses the adoption of neoliberal ideas in Germany after WWII. The ordoliberals, who had participated in early neoliberal discussions at the Walter Lippmann Colloquium, began taking government positions to implement their ideas in Germany. Ludwig Erhard was appointed to a key economics role, where he drastically deregulated prices, wages, incomes and capital taxes. This provided an early policy experiment for neoliberalism. 
 
@@ -178,7 +178,7 @@ While the ordoliberals lacked a clear distinction between legitimate and illegit
 
 The passage also discusses the role of think tanks in consolidating neoliberal ideology. Figures like Antony Fisher played a key role in establishing think tanks internationally to influence elites and reshape common sense views over the long term. Groups like the Institute of Economic Affairs in the UK aimed to subtly transform economic discourse and naturalize neoliberal policies among rising political figures. This ideological consolidation through think tanks was an important innovation for spreading neoliberal ideas.
 
- Here is a summary:
+ 
 
 - Neoliberal thinkers aimed to establish their ideology as the dominant framing of political and economic issues through extensive infrastructure and advocacy efforts over decades. 
 
@@ -192,7 +192,7 @@ The passage also discusses the role of think tanks in consolidating neoliberal i
 
 - By the 1990s, neoliberalism had become the dominant ideology accepted across parties and economics due to this long-term infrastructure building and exploitation of crises to establish political traction.
 
- Here is a summary:
+ 
 
 - Neoliberalism successfully constructed a new dominant worldview over the past 50 years that co-opted terminology like "modernization" and "freedom." These words now primarily invoke neoliberal capitalist ideas. 
 
@@ -208,7 +208,7 @@ The passage also discusses the role of think tanks in consolidating neoliberal i
 
 - Some argue the left can learn from this and build its own long-term counter-hegemonic vision and strategies instead of focusing just on election cycles or isolated protests. It must offer alternative policy proposals and shape political common sense over the long run.
 
- Here is a summary:
+ 
 
 The passage argues that the left needs to reclaim and redefine the concept of modernity. While modernity originally referred to conceptual ideals like progress, reason, freedom and democracy, it has come to be conflated with capitalist institutions. However, modernity also animated many anti-capitalist struggles. 
 
@@ -216,7 +216,7 @@ The left should contest what modernity means rather than rejecting it altogether
 
 However, with the rise of neoliberalism, capitalist visions of modernization co-opted this rhetoric of progress and the future. Postmodern thinkers then resisted the idea of progress and the future, accepting the neoliberal framing. But the passage argues the left must reclaim modernity and build an alternative vision of progress oriented toward emancipation and universal ideals.
 
- Here is a summary:
+ 
 
 - The concept of "ring resistance" refers to skepticism of grand visions and narratives of historical progress promoted by both the radical and social democratic left. Their ability to envision alternative futures has deteriorated due to years of neglect. 
 
@@ -228,7 +228,7 @@ However, with the rise of neoliberalism, capitalist visions of modernization co-
 
 - Any alternative vision will need to propose universal values to compete with capitalism's expansionary universalism. But universalism is problematic given its association with colonialism and erasure of differences. A new type of universalism is needed.
 
- Here is a summary:
+ 
 
 The passage discusses the concept of universalism and argues for a revised understanding. It acknowledges that universalism has historically been used to assert the superiority of Western culture and dismiss other perspectives as particular. However, rejecting universalism altogether risks problematic implications like cultural relativism. 
 
@@ -238,7 +238,7 @@ From this view, universal claims can have an emancipatory function by highlighti
 
 It is also argued that universals must incorporate rather than erase differences. Any vision of modernity must recognize non-Western agency and allow different voices in building global futures. Overall, the universal is a concept that can further left goals if understood as a political product rather than a transcendent standard, and if oriented toward substantive freedom incorporating means and capacities rather than just negative freedom from interference.
 
- Here is a summary:
+ 
 
 - The passage argues for a concept of "synthetic freedom" that goes beyond traditional liberal or social democratic notions of freedom. It involves actively expanding human capacities and options through collective action and resources.
 
@@ -264,7 +264,7 @@ It is also argued that universals must incorporate rather than erase differences
 
 -Growing precarity, jobless recoveries, urban slums, and other emerging issues signal cracks in the traditional management of surplus populations that may lay the conditions for a shift to a post-work world.
 
- Here is a summary:
+ 
 
 There are three main mechanisms that can lead to increasing surplus populations:
 
@@ -286,7 +286,7 @@ The global surplus population can be divided into four groups:
 
 In total, estimates suggest the surplus population significantly outnumbers the formal working class. The crisis for capitalism is a lack of jobs for this growing proletarian population, undermining the social basis of the employer-employee relationship.
 
- Here is a summary:
+ 
 
 - Surplus populations put downward pressure on wages and job quality as more workers compete for fewer jobs. This gives more power to employers. 
 
@@ -302,7 +302,7 @@ In total, estimates suggest the surplus population significantly outnumbers the 
 
 - In developing countries, surplus populations have swelled unsafe slums and informal settlements as migrants flood cities but stable work remains elusive due to weak labor protections and lack of housing. This represents dual expulsion from land and formal economy.
 
- Here is a summary:
+ 
 
 - Informal economies in the developing world typically involve low-paid, insecure work organized outside capitalist forms of production. However, production is still directed at commodity markets rather than individual use, distinguishing them from pre-capitalist subsistence economies. 
 
@@ -314,7 +314,7 @@ In total, estimates suggest the surplus population significantly outnumbers the 
 
 - Capitalism both needs and is threatened by surplus populations. Surpluses lower wages but resist disposability. Maintaining full employment traditionally stabilized this, but economic and technological changes undermine full employment's viability as a solution.
 
- Here is a summary:
+ 
 
 - The management of "surplus populations" (those outside formal employment) has increasingly turned to coercive and punitive measures. Workfare programs force the unemployed to work for minimal benefits in order to repress wages and threaten existing jobs. 
 
@@ -324,7 +324,7 @@ In total, estimates suggest the surplus population significantly outnumbers the 
 
 - The crisis of work under neoliberalism refers to insufficient jobs and growing surplus populations living in poverty and precarity. Automation risks worsening this by eliminating more jobs. Coercive social controls over surplus populations will likely intensify through more restrictive workfare, immigration policies, limited population movement, and mass incarceration.
 
- Here is a summary:
+ 
 
 The passage outlines some broad demands and proposals for building a post-work society as automation increases and fewer jobs are available. The key points are:
 
@@ -340,7 +340,7 @@ The passage outlines some broad demands and proposals for building a post-work s
 
 - Achieving this vision will take decades of work rebuilding leftist power and collective action, not just hopes for future revolution or electoral cycles. A post-work society is both necessary and attainable given material conditions and technological trends.
 
- Here is a summary:
+ 
 
 - Ne' jobs refer to routine manual and cognitive jobs that can be easily automated through coding tasks into a series of steps. This has led to a polarization of the labor market over past decades. 
 
@@ -354,7 +354,7 @@ The passage outlines some broad demands and proposals for building a post-work s
 
 - There are technical, economic and ethical barriers to full automation, but investments in research and policies like minimum wage increases could help overcome these barriers over time across many domains of the economy and society.
 
- Here is a summary:
+ 
 
 - There has been a long history of workers struggling to reduce working hours, starting with efforts to get weekends off and reduce the standard work week from over 60 hours to around 30-35 hours. However, since the 1930s there has been little progress in further reducing hours. 
 
@@ -366,7 +366,7 @@ The passage outlines some broad demands and proposals for building a post-work s
 
 So in summary, it makes the case that reducing standard working hours to around 30 hours per week would have significant economic, social and environmental benefits while empowering workers. A 3-day weekend should be a key goal of the modern labor movement.
 
- Here is a summary:
+ 
 
 - A universal basic income (UBI) could liberate significant free time without reducing economic output or significantly increasing unemployment. However, free time is of little value if people struggle to make ends meet. 
 
@@ -380,7 +380,7 @@ So in summary, it makes the case that reducing standard working hours to around 
 
 - A UBI increases class power by reducing pressure in the labor market and making work voluntary. It transforms precarity into voluntary flexibility by providing basic security. It could also redefine values attributed to different types of work.
 
- Here is a summary:
+ 
 
 - Under a universal basic income (UBI) program, workers would no longer be forced to take low-paying, dangerous, or demeaning jobs. They could reject such work, putting upward pressure on wages for unattractive jobs. 
 
@@ -396,7 +396,7 @@ So in summary, it makes the case that reducing standard working hours to around 
 
 - The main challenges to implementing UBI are strong political opposition and overcoming a pervasive cultural work ethic that views work as central to identity and worth. Religious and secular ideologies enforce the notion that remuneration requires suffering through work.
 
- Here is a summary:
+ 
 
 - Achieving a meaningful post-work society requires changing the current political conditions, as there are powerful forces invested in maintaining the status quo. 
 
@@ -430,7 +430,7 @@ In summary, the chapter argues a meaningful post-work society will require funda
 
 The overall approach emphasizes building new power structures and ideological frameworks gradually from grassroots up, rather than pursuing an insurrectionary overthrow of the existing system. It requires strategic coordination across many levels of society.
 
- Here is a summary:
+ 
 
 - The Overton window refers to the range of policies that are deemed politically feasible or "realistic" at any given time. It emerges from various social, political and economic factors like media influence, power structures, and current political leadership. 
 
@@ -458,7 +458,7 @@ The overall approach emphasizes building new power structures and ideological fr
 
 - Transforming intellectual hegemony, like through education, is also key. Projects could pluralize economics teaching, reinvigorate leftist economics studies, and expand public economic literacy.
 
- Here is a summary:
+ 
 
 - In the 1960s-70s, there was more pluralism and open debate in economics, with non-neoclassical ideas like Marxian economics being discussed in mainstream journals. The Cambridge capital controversy brought heterodox and mainstream thinkers together in a seminal debate. 
 
@@ -474,13 +474,13 @@ The overall approach emphasizes building new power structures and ideological fr
 
 In summary, the passage discusses the past openness in economics, current dominance of neoclassicism, signs of pluralism revival, need to further develop heterodox alternatives, and importance of repurposing existing technology for non-capitalist goals rather than destruction or postponement.
 
- Here is a summary:
+ 
 
 This passage discusses two strategies for addressing technological hegemony. The first is focusing on developing new technologies that can enable change, with democratic control over their design and implementation. This includes resisting technologies that intensify working conditions and struggling over what tech is used in the workplace. At the state level, democratic control is also important given most innovations come from public funding. 
 
 The second strategy discussed is repurposing existing technologies and resources towards new ends. Two historical examples are provided. The Lucas Plan in the UK saw aerospace workers develop proposals to redirect skills and equipment from military to products like medical devices and renewable energy. It aimed to reorganize technological development towards socially useful goals. In Chile, the Cybersyn project under Salvador Allende sought to build a decentralized planning system using existing tech like telex machines to connect factories and enable democratic, worker-managed socialism. Both projects showed how repurposing productive forces could transform technology's direction in society.
 
- Here is a summary:
+ 
 
 The passage discusses the concept of repurposing technologies and infrastructure for postcapitalist ends. It notes examples like Cybersyn in Chile, which aimed to link economic planning to grassroots organizations and worker control. While those were immediate political projects, more speculative visions of a postcapitalist future are also possible. 
 
@@ -492,7 +492,7 @@ The passage outlines criteria for determining which technologies could have a pl
 
 Overall, repurposing is just one element of a broader counter-hegemonic strategy needed to transform societal common sense, revive utopian thinking, reimagine economics, and eventually redirect infrastructure. Concrete actions are important but not sufficient without also shifting dominant ideas to support postcapitalist change.
 
- Here is a summary:
+ 
 
 This chapter argues that building a mass populist movement, developing a healthy ecosystem of organizations, and identifying leverage points are necessary to construct power and implement an inter-hegemonic strategy in the real world. 
 
@@ -504,7 +504,7 @@ Building organizational strength through a network of groups provides leadership
 
 In summary, the chapter examines populism, organizations and leverage points as key factors for rebuilding leftist power in the face of its historical weaknesses, to implement an alternative hegemonic strategy.
 
- Here is a summary:
+ 
 
 - Populism refers to a type of political logic where different identities are united against a common opponent in pursuit of change, not a particular political ideology. 
 
@@ -520,7 +520,7 @@ In summary, the chapter examines populism, organizations and leverage points as 
 
 - While class remains important, populism responds to the need to mobilize a broad spectrum of society as an active force through common slogans, demands and identities rather than just class interests alone.
 
- Here is a summary:
+ 
 
 The passage argues against relying on a single organizational form and in favor of an "ecology of organizations" or a diverse range of organization types working together. It says political change requires different groups to take on roles like advocacy, legal support, media, policy development, and leadership. No single group can perform all these functions or enact large-scale change alone. 
 
@@ -530,7 +530,7 @@ Key elements of such an ecology include: spontaneous protests; direct democracy 
 
 The overall structure is decentralized but includes centralized groups. The goal is strategic interventions that attract both organized and non-organized people in a complementary way to mutually reinforce each other's impact. Diversity of groups and unity of purpose are both important.
 
- Here is a summary:
+ 
 
 The passage discusses the need for unions to adapt to changing economic and social conditions in order to remain relevant. Traditional unions focus too narrowly on workplace issues and dues-paying members. 
 
@@ -540,7 +540,7 @@ As precarious work becomes more common, unions also need to shift away from a fo
 
 The relationship between unions and political parties/the state is also addressed. A multi-pronged strategy is advocated that brings together social movements, unions, communities, and progressive political parties/state policies. Neither sectoral organization nor parliamentary politics alone are sufficient - an ecology or ecosystem of complementary organizations is needed for transformative change.
 
- Here is a summary:
+ 
 
 Workers have historically found leverage and militancy from occupying strategic positions in the capitalist economy's infrastructure and production processes. Dockworkers and coal miners, for example, controlled chokepoints that were difficult to replace. 
 
@@ -550,7 +550,7 @@ Going forward, new leverage points may emerge from automation trends and concent
 
 As mass unemployment grows, disruptive tactics may need to shift away from workplaces toward movements of the unemployed, protests around social issues, and new forms of leverage outside the traditional worker-employer relationship. Experiments with different tactics will be needed to keep up with constantly changing systems and counter-adaptations by capitalism.
 
- Here is a summary:
+ 
 
 - Traditional tactics of labor struggle like work stoppages are less effective today due to factors like automation and precarity. However, disruption is still possible through tactics like freeway blockades, rent strikes, port blockades, etc. as seen in places like Ferguson. 
 
@@ -576,7 +576,7 @@ As mass unemployment grows, disruptive tactics may need to shift away from workp
 
 - The left needs to build a new type of "hegemony" to construct an alternative future rather than remaining in the present or looking to the past. This involves engaging in politics of scale and expansion rather than withdrawal or purity. The goal is shaping the future in a planned way rather than being subject to unintended consequences of capitalism.
 
- Here is a summary:
+ 
 
 - The passage argues that a new form of universal action will be needed to supplant neoliberal capitalism, rather than tabulae rasae or miracles. 
 
@@ -738,7 +738,7 @@ So in summary, it discusses emerging automating technologies, debates around the
 
 - Sources emphasize arguments that reduced hours could benefit the environment, individual well-being, gender equality and challenges posed by new technologies/precarious work.
 
- Here is a summary:
+ 
 
 The summary discusses how a left political programme would ideally involve transforming the existing welfare state. Key points include:
 

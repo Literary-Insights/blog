@@ -364,7 +364,7 @@ So intangible investments differ substantially from tangible assets. Their scala
 
 - So the slowdown in intangible investment and capital accumulation, possibly combined with decreasing spillovers, helps explain the TFP slowdown since the Great Recession. This is a potential contributor to secular stagnation.
 
- Here is a summary:
+ 
 
 Smartphones had previously been difficult to use and unappealing to consumers. The introduction of the iPhone changed that by making a smartphone with an intuitive touchscreen interface. This benefited not only Apple but also other smartphone makers like Samsung and HTC, who could now reach a much larger market of smartphone users. So the iPhone's innovations had positive spillovers for the whole industry.
 

@@ -16,7 +16,7 @@ BOOK LINK:
 
 
 
- Here is a summary:
+ 
 
 - The dedication is dedicated to money, describing both the wonderful and terrible things it does for and to us respectively. 
 
@@ -52,7 +52,7 @@ In summary, the passage uses George's casino experience to illustrate how psycho
 
 - This tendency leads to flawed thinking and mistakes in personal finance. It is the primary reason people fail to manage their money optimally over the long run. Framing choices in terms of clear opportunity costs could help improve decision making.
 
- Here is a summary:
+ 
 
 - People often assess value incorrectly based on relativity rather than true value. We compare things to other options rather than assessing intrinsic value. 
 
@@ -66,7 +66,7 @@ In summary, the passage uses George's casino experience to illustrate how psycho
 
 So in summary, the story highlights how people tend to assess value incorrectly based on relative comparisons rather than true worth, and marketers seek to exploit this through pricing strategies that manipulate perceived discounts and deals.
 
- Here is a summary:
+ 
 
 - Relativity refers to comparing things to other alternatives rather than their absolute or intrinsic value. We tend to use relativity in everyday financial decisions without considering all opportunity costs. 
 
@@ -90,7 +90,7 @@ So in summary, the story highlights how people tend to assess value incorrectly 
 
 So in summary, the key point is that relative comparisons allow marketers to manipulate how people assess value in a way that encourages purchases without real consideration of whether something is worth the cost from an absolute perspective. Recognizing how relative thinking can be exploited is important for making truly informed choices.
 
- Here is a summary:
+ 
 
 - Jane likes putting on events for her job as a college event coordinator, but dislikes all the paperwork, regulations and budget approvals she has to deal with. 
 
@@ -102,7 +102,7 @@ So in summary, the key point is that relative comparisons allow marketers to man
 
 - Mental accounting can be useful but often leads to poor decision making, especially when we are not aware we are doing it. Jane's extreme approach to compartmentalizing finances at home contrasts with how she feels about the rules and regulations at her job.
 
- Here is a summary:
+ 
 
 Even though theoretically all money has the same value and is interchangeable (the principle of fungibility), in practice people often mentally categorize or "account" for their money differently depending on how they envision spending it. This is known as mental accounting. 
 
@@ -112,7 +112,7 @@ Mental accounting is an example of how human financial behavior, like that of co
 
 Overall, mental accounting is problematic from a rational perspective but can provide cognitive benefits to budgeting. The challenge is finding ways to use it wisely rather than in ways that negatively influence spending behavior. It is an example of the tension between rational and human factors in financial decision making.
 
- Here is a summary:
+ 
 
 - Mental accounting allows us to simplify and compartmentalize our spending decisions by putting money into mental categories or "accounts" with different rules. This helps manage the complexity and limits of human cognition. 
 
@@ -124,7 +124,7 @@ Overall, mental accounting is problematic from a rational perspective but can pr
 
 - While useful, mental accounting can also enable self-deception and irrational behaviors if we are not careful. We may engage in similar "accounting tricks" to justify spending in ways that harm our long-term financial goals and well-being. Overall moderation and awareness of these biases is important when using mental accounting approaches.
 
- Here is a summary:
+ 
 
 - We are our own auditors when it comes to managing our personal finances and budgets. Just like companies that audit themselves have conflicts of interest, we also have conflicts when auditing our own spending. 
 
@@ -136,7 +136,7 @@ Overall, mental accounting is problematic from a rational perspective but can pr
 
 - While mental accounting can help with budgeting if used properly, the self-auditing nature means rules are not strictly enforced. We will find ways to creatively interpret or tweak the rules to indulge present wants. So we end up inadvertently "cheating" ourselves.
 
- Here is a summary:
+ 
 
 - Jeff and his wife Anne went to a resort in Antigua for their honeymoon after planning a stressful wedding. They opted for an all-inclusive package to make things simple. 
 
@@ -158,7 +158,7 @@ Overall, mental accounting is problematic from a rational perspective but can pr
 
 - In summary, the ending airport hassles, bill disputes and awkward dinner conversation left Jeff with an overall less positive recollection of the vacation, despite enjoying most of it, showing how endings impact memories and perceptions. Better endings could enhance the remembered experience.
 
- Here is a summary:
+ 
 
 - Jerry Seinfeld draws an analogy between wearing plastic helmets to continue risky head-cracking activities and using financial services like credit cards to lessen the pain of spending and paying without addressing the underlying issue. 
 
@@ -184,7 +184,7 @@ Overall, mental accounting is problematic from a rational perspective but can pr
 
 - In summary, the pain of paying looms larger when payment coincides with use/consumption, influencing our choices and enjoyment, while prepayment reduces this pain and results in greater spending and better experiences overall. The timing of payment matters greatly.
 
- Here is a summary:
+ 
 
 - In the late 90s, America Online (AOL) introduced unlimited internet access plans, eliminating hourly usage thresholds. They underestimated how this would affect user behavior.
 
@@ -198,7 +198,7 @@ Overall, mental accounting is problematic from a rational perspective but can pr
 
 - Paying after consumption, as with credit cards, lessens the pain of payment since future costs have lower perceived value. This makes people more willing to spend and consume more. AOL's plan change had a similar effect.
 
- Here is a summary:
+ 
 
 - Restricted payment methods like gift cards make spending easier by limiting our options and removing critical decision making. We are more likely to mindlessly spend the full amount within that category. 
 
@@ -242,7 +242,7 @@ So in summary, the passage discusses how people's judgments tend to be anchored 
 
 - Anchoring affects diverse contexts like salary negotiations, stock prices, consumer product discounts, and even influences like manufacturer suggested prices when car shopping. Initial reference values have lasting impacts on our future valuations.
 
- Here is a summary:
+ 
 
 - Anchoring effects occur when initial values, like prices, set expectations that influence subsequent judgments and decisions. Even arbitrary or irrelevant numbers can anchor perceptions of value. 
 
@@ -272,7 +272,7 @@ So in summary, the passage discusses how people's judgments tend to be anchored 
 
 In summary, the fictional couple wants to list their home too high based on emotional attachment rather than objectively assessing the current market value based on needed repairs/updates as the real estate agent advises. This demonstrates the cognitive bias of overvaluing what one owns due to ownership bias.
 
- Here is a summary:
+ 
 
 - The Bradleys put a lot of time, money and effort into renovating their house, including an open floor plan and a bike rack above the kitchen table. 
 
@@ -288,7 +288,7 @@ In summary, the fictional couple wants to list their home too high based on emot
 
 - Ownership alone can increase perceived value, even without effort, as shown in experiments with lottery tickets and free mugs. Simply having an item makes people value it more.
 
- Here is a summary:
+ 
 
 - Researchers have found that briefly holding or interacting with an object can make people feel a sense of ownership over it, even if they don't actually own it. This is known as the endowment effect. Simply touching a mug for 30 seconds can make people value it more and willing to pay more for it. 
 
@@ -300,7 +300,7 @@ In summary, the fictional couple wants to list their home too high based on emot
 
 - Loss aversion also plays a role, as people are more impacted by potential losses than potential gains of the same amount. This exacerbates the endowment effect - people don't want to give up what they own because they overvalue it due to not wanting to experience the loss. This can influence many financial decisions.
 
- Here is a summary:
+ 
 
 - In the first experiment, participants were given a $60,000 annual salary and employer matches retirement contributions up to 10% of salary. Few participants maximized contributions due to other expenses. 
 
@@ -314,7 +314,7 @@ In summary, the fictional couple wants to list their home too high based on emot
 
 - Sunk costs bias causes people to continue investing in failing projects just to not lose initial investments, rather than objectively assessing future prospects. This wastes money by throwing good money after bad.
 
- Here is a summary:
+ 
 
 - James attends a long and tedious presentation by consultants his company hired. They go through extensive details of their work over many slides. 
 
@@ -328,7 +328,7 @@ In summary, the fictional couple wants to list their home too high based on emot
 
 The key points are how James questions the value and fairness of paying large consulting fees without clear benefits, as well as price increases during times of need. It shows concerns about ensuring effort and costs are reasonably justified.
 
- Here is a summary:
+ 
 
 - James gets locked out of his house when his car breaks down and he has to wait for a locksmith. The locksmith unlocks the door quickly but charges $200, which James feels is unfair given how little time it took. 
 
@@ -352,7 +352,7 @@ The key points are how James questions the value and fairness of paying large co
 
 - The stories illustrate how our focus on fairness and effort can lead us to irrational decisions that do not maximize our true value and interests.
 
- Here is a summary:
+ 
 
 - The pay-what-you-want model was tried at a half-empty movie theater, where patrons could pay whatever they wanted after the movie. However, customers likely felt they didn't deserve to pay much since the theater incurred no extra costs by having them in otherwise empty seats. 
 
@@ -366,7 +366,7 @@ The key points are how James questions the value and fairness of paying large co
 
 - Perception of effort and fairness also applies to housework, where each partner sees their own effort more clearly than their spouse's, leading to an asymmetry and feeling of unfair division of labor.
 
- Here is a summary:
+ 
 
 - The passage contrasts Cheryl's experiences with food and drink at her office versus at a fancy restaurant on the weekend with friends. 
 
@@ -380,7 +380,7 @@ The key points are how James questions the value and fairness of paying large co
 
 The key point is that language has the power to change our perception and valuation of experiences, like food, by influencing what we focus on and how much we enjoy them.
 
- Here is a summary:
+ 
 
 - Language has the power to influence how we value and experience goods and services through the use of descriptive terms and storytelling. 
 
@@ -426,7 +426,7 @@ So in summary, descriptive language can significantly impact perceived value and
 
 In summary, the passage examines how strongly holding positive expectations of reputable, expensive brands and experiences can lead one like Vinny to dismiss or undervalue cheaper alternatives, due to an overreliance on branding, image and reputation over objective quality or value.
 
- Here is a summary:
+ 
 
 Vinny participates in a negotiation with Gloria. He goes into it expecting Gloria to be an easier negotiation than Von Strong, a man he had expected to be tougher. This lowered expectation causes Vinny to counter with a higher offer than he had planned to with Von Strong. 
 
@@ -434,7 +434,7 @@ Though Vinny gets the deal, the terms are less favorable than he hoped for from 
 
 This story shows how our expectations can distort our judgments of value and outcomes. Vinny paid more than he needed to because he underestimated Gloria based on her gender. Expectations not only shape our perceptions but can actually influence real experiences and performance.
 
- Here is a summary:
+ 
 
 - Teacher expectations can influence student performance through a self-fulfilling prophecy effect. When teachers expect some students to do better or worse, their behavior shapes those expectations in the students which then affects their actual performance. 
 
@@ -446,7 +446,7 @@ This story shows how our expectations can distort our judgments of value and out
 
 - Paying for something before consuming it reduces the pain of payment by spreading it out over time. It also fosters anticipation and excitement which enhances the experience beyond just the product itself when it is finally consumed. Timing of payment impacts expectations.
 
- Here is a summary:
+ 
 
 - The passage discusses how expectations impact how we value experiences and products. Expecting something to be enjoyable makes us enjoy it more. 
 
@@ -460,7 +460,7 @@ This story shows how our expectations can distort our judgments of value and out
 
 - High expectations, regardless of origin, increase how much we're willing to pay and how much we believe we'll value a product or experience. Expectations often impact experiences more than objective quality.
 
- Here is a summary:
+ 
 
 - We struggle with self-control because we value immediate rewards much more than future rewards. Something good now seems more valuable than something better in the future. 
 
@@ -476,7 +476,7 @@ This story shows how our expectations can distort our judgments of value and out
 
 - Immediate thrills like texting while driving seem worthwhile in the moment despite knowing the real risks, showing how emotions can override logical decision making.
 
- Here is a summary:
+ 
 
 The passage discusses the concept of temptation and self-control in the context of consumption and personal finance. It uses the example of Rob, who immerses himself in tempting possessions like entertainment equipment and bike gear, finding it difficult to save money each month due to a lack of self-control. 
 
@@ -486,7 +486,7 @@ Mechanisms that diminish the "pain of paying", like credit cards, make it easier
 
 The passage notes examples like Muhammad Ali and damaged health from boxing despite immediate rewards, as well as how many professional athletes and lottery winners lose their wealth quickly due to poor financial self-control after a large financial windfall. A sudden influx of money can paradoxically make financial management more challenging.
 
- Here is a summary:
+ 
 
 - This passage discusses how people overemphasize the importance of money and price when evaluating products and services due to lack of other information.
 
@@ -498,7 +498,7 @@ The passage notes examples like Muhammad Ali and damaged health from boxing desp
 
 So in summary, the key points are that people over-rely on price when making judgments due to lack of other metrics, and price alone does not necessarily correlate with true quality or value, but impacts perceived quality.
 
- Here is a summary:
+ 
 
 - Money is easy to measure and compare, so we often overemphasize it in decision-making at the expense of harder-to-quantify factors like happiness, quality of life, etc. 
 
@@ -526,7 +526,7 @@ So in summary, the key points are that people over-rely on price when making jud
 
 So in summary, both Candy Crush and Instagram modeling businesses leverage psychological techniques to keep users engaged and occasionally spending money, for better or worse depending on one's perspective.
 
- Here is a summary:
+ 
 
 - Language, rituals, and expectations can influence how we experience things like wine, but we should be in control of when and how we allow those factors to impact our valuations. 
 
@@ -540,7 +540,7 @@ So in summary, both Candy Crush and Instagram modeling businesses leverage psych
 
 - The goal is not perfection but individual and collective improvement in decision-making over time through greater self-awareness of irrational influences.
 
- Here is a summary:
+ 
 
 - The passage discusses ways to improve self-control when it comes to making financial decisions. Lack of self-control can undermine rational decision making. 
 
@@ -554,7 +554,7 @@ So in summary, both Candy Crush and Instagram modeling businesses leverage psych
 
 - The overall message is that strengthening identification with one's future self is key to overcoming short-term temptations and lack of willpower that undermine rational financial decision making and savings.
 
- Here is a summary:
+ 
 
 The passage discusses using empathy and caring for our future selves as a way to encourage better financial decision-making. It imagines being able to interact visually with an older version of ourselves to drive home the impact of current choices. 
 
@@ -564,7 +564,7 @@ Other tactics discussed include defaulting people into savings plans so inertia 
 
 The key idea is that creatively limiting our future options and choice can paradoxically lead to better long-term decision-making by circumventing flaws in human reasoning and behavioral biases. Precommitments allow present-day selves to outsmart future temptations.
 
- Here is a summary:
+ 
 
 - It's difficult to make good financial decisions due to our own mental biases and an environment designed to exploit those weaknesses. Mortgage brokers, for example, intentionally make comparisons more complex to generate mistakes. 
 
@@ -574,7 +574,7 @@ The key idea is that creatively limiting our future options and choice can parad
 
 - To combat these issues, people need to understand their own flaws and educate themselves. But societies also need financial systems designed with human psychology in mind, not just to maximize short-term profits by exploiting weaknesses. It is an ongoing challenge to balance individual responsibility with supportive environments.
 
- Here is a summary:
+ 
 
 - The passage discusses how new payment technologies like Apple Pay and Android Pay make spending easier and less thoughtful, fueling overspending. 
 
@@ -588,7 +588,7 @@ The key idea is that creatively limiting our future options and choice can parad
 
 The overall message is that by understanding human psychology better, we can design financial tools, environments and social norms that help people save more wisely rather than fuel overspending through technology defaults and invisible savings. Physical reminders and social pressure may paradoxically be most effective.
 
- Here is a summary:
+ 
 
 The passage discusses how making savings and good financial behaviors more visible could encourage more people to participate. It suggests ideas like stickers or trophies for hitting savings milestones. While some ideas may not be practical, the key principle is to start conversations about reasonable savings goals and make savings less invisible and secret. 
 
@@ -596,7 +596,7 @@ It then expands this idea to other domains like environmentalism. Vehicles like 
 
 Other suggestions to "trick" oneself into saving more include automatically depositing some money into hard-to-access savings accounts to artificially lower one's perceived balance and constrain spending. Research also found that hands-off investors who forgot about their portfolios altogether tended to do the best financially. Finally, framing costs in long-term rather than short-term terms (years vs months) can encourage more saving behavior. The key is exploiting cognitive biases and habits to subtly encourage better financial habits.
 
- Here is a summary:
+ 
 
 - The passage discusses how understanding cognitive biases and psychological quirks related to numbers and money can help design better systems and environments to improve financial outcomes. Systems that frame savings and spending in different time periods (yearly vs monthly) or split lump sums into smaller envelopes can encourage better financial behaviors. 
 
@@ -604,7 +604,7 @@ Other suggestions to "trick" oneself into saving more include automatically depo
 
 - Not every small financial decision needs to be over-analyzed, as that would be psychologically overwhelming. But identifying areas that could cause long-term harm, like recurring expenses, and occasionally re-evaluating them can help shape decision-making habits for the better over time. Understanding incentives, psychology and our own behaviors can empower us to make wiser financial choices.
 
- Here is a summary:
+ 
 
 - Dan and Jeff discuss issues with how people relate to and think about money. Our psychology often leads us to make poor financial decisions that don't maximize well-being. 
 
@@ -670,6 +670,6 @@ Article 2: Sudden wealth can leave you broke
 
 - Anchoring effects, relativity, and other psychological factors form the basis for pricing and retail practices even if they don't always reflect economically rational behavior.
 
- Here is a summary:
+ 
 
 This includes contact information for HarperCollins publishers in the UK and US. It then discusses some hypothetical scenarios and examples to illustrate concepts like decoy pricing, loss aversion, credit card spending behavior, real estate market differences over time, sports superstitions. It provides tips for saving money like loading a discretionary spending card on Monday rather than Friday. References are made to previous chapters that discussed topics like self-trust. Throughout are joking asides and fictional scenarios used to lightly explain behavioral economics concepts.

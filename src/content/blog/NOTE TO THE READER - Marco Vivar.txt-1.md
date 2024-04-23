@@ -46,7 +46,7 @@ In summary, the note sets up the book as a forceful rebuttal of conservative Chr
 
 The passage outlines certain protections for female slaves who were sold by their fathers, especially if they became concubines of their master or his son. It allows for them to go free without payment if their basic rights to food, clothing and conjugal relations are not upheld by their master.
 
- Here is a summary:
+ 
 
 - The passage criticizes Christian conservatives for prioritizing issues like opposing abortion and restricting sexual behaviors over directly alleviating human suffering, like fighting genocide or promoting stem cell research and vaccines. 
 
@@ -58,7 +58,7 @@ The passage outlines certain protections for female slaves who were sold by thei
 
 - In summary, it strongly criticizes placing religious doctrines over direct efforts to reduce concrete human suffering and prioritizing addressing issues like premarital sex over public health issues.
 
- Here is a summary:
+ 
 
 - The passage criticizes the view that religious faith is the sole basis for morality. It argues that atheists are often just as moral, if not more so, than religious believers. Organizations of atheists in the US do not commit crimes at higher rates than the general population. 
 
@@ -102,7 +102,7 @@ The passage outlines certain protections for female slaves who were sold by thei
 
 So in summary, the passage questions religious faith by pointing to its inability to explain massive human suffering and lack of truly prophetic knowledge in scripture that could only come from divine authorship.
 
- Here is a summary:
+ 
 
 The passage critiques the Bible for not containing scientific insights that were discoverable at the time, such as accurate values for pi or knowledge about electricity, DNA, cancer cures, the size and age of the universe. It argues this shows the Bible is a merely human document rather than divinely inspired. 
 
@@ -112,7 +112,7 @@ As an example, it discusses the recent debate in the Catholic church around the 
 
 The passage asserts that faith is defined as believing without evidence, which is considered madness in any domain except religion. It concludes by arguing that the fact of evolution is as well-established as gravity or other scientific facts, and doubting evolution due to religious faith is akin to doubting gravity or that the sun is a star.
 
- Here is a summary:
+ 
 
 - The passage argues that students in the US underperform compared to other developed nations in science and math, showing that the US is building "a civilization of ignorance."
 

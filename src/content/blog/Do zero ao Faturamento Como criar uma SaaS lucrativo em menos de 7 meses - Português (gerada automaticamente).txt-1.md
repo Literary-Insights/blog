@@ -66,7 +66,7 @@ So in summary, the speaker aims to help attendees overcome barriers to starting 
 
 - To generate ideas constantly, investigate problems in society and how businesses work. Look at what successful startups are doing differently. Discuss ideas with others and get outside inspirations from stories and documentaries. Practicing these idea generation techniques will help develop more ideas over time.
 
- Here is a summary:
+ 
 
 The letter talks about how consistently doing a business podcast and moving around a lot (watching YouTube, documentaries, talking to people) will generate more and more ideas. 
 
@@ -80,7 +80,7 @@ Good ideas come from movement - writing, watching, conversing. But good executio
 
 Research competitors and adjacent markets to evaluate ideas before committing to them. The goal is to balance complexity, return and urgency when choosing what to execute.
 
- Here is a summary:
+ 
 
 - The speaker discusses how it's important to find adjacent niches related to your business idea, using the example of pet care being adjacent to child care. 
 
@@ -96,7 +96,7 @@ Research competitors and adjacent markets to evaluate ideas before committing to
 
 - People will often suggest extra features for the MVP like an app, but it's better to start simple with a web version before adding complexities. Validate the core idea first.
 
- Here is a summary:
+ 
 
 - The person understands how the web works and that nowadays it is not possible to do everything through complicated web or WhatsApp solutions. 
 
@@ -114,7 +114,7 @@ Research competitors and adjacent markets to evaluate ideas before committing to
 
 In summary, the discussion focuses on the importance of testing assumptions quickly and pragmatically with real users before building full products, in order to validate problems and business models. Starting simply and leveraging existing tools is recommended over overengineering initially.
 
- Here is a summary:
+ 
 
 - The person referenced getting approved simply for that, so they don't really remember it. People like to recommend things they find good, so they recommended Nubank to around 20-30 people when it first started. 
 
@@ -134,7 +134,7 @@ In summary, the discussion focuses on the importance of testing assumptions quic
 
 - Common mistakes include focusing too much on non-essentials like branding and technology decisions before validating customer fit and value. Start simple and keep iterating based on what helps reach customers.
 
- Here is a summary:
+ 
 
 - The person developed a SaaS (software as a service) project together with a friend in August 2022. They started by doing interviews to understand the problem and come up with initial hypotheses. 
 
@@ -152,7 +152,7 @@ In summary, the discussion focuses on the importance of testing assumptions quic
 
 In summary, it outlines the process one founder went through in developing their SaaS project from initial idea to early growth over the past months. Key aspects discussed are timing, features, pricing experiments, and running a small startup.
 
- Here is a summary:
+ 
 
 - The person recommends focusing on building a native mobile app only if there is no other choice, as it is difficult and there are few reasons to do so. Otherwise, it's better to start with a web app.
 
@@ -172,7 +172,7 @@ In summary, it outlines the process one founder went through in developing their
 
 - The next step is to learn more about their Simpleus methodology for generating, prioritizing and executing ideas in a structured way through practical exercises.
 
- Here is a summary:
+ 
 
 - The mentorship program aims to help programmers develop and execute their best ideas by prioritizing them in an organized way. It will teach techniques for mitigating risks and errors when executing ideas.
 
@@ -186,7 +186,7 @@ In summary, it outlines the process one founder went through in developing their
 
 - Key points covered include idea generation, prototyping techniques, prioritization methods, development best practices, and selling the product or service both domestically and internationally. The goal is to help participants take an idea from conception to execution and sales.
 
- Here is a summary:
+ 
 
 - The mentorship program aims to help participants launch their own SAS projects by providing technical training, support, feedback and accountability over multiple sessions. 
 
@@ -220,7 +220,7 @@ In summary, it outlines the process one founder went through in developing their
 
 - In general, the speaker advises focusing on low-complexity ideas that can start quickly rather than worrying too much about the most lucrative niche, as opportunities can be found anywhere. Testing different approaches is important.
 
- Here is a summary:
+ 
 
 - RP or role playing is important to integrate with rather than fight against, as it is difficult for them to change games. The best thing is to integrate and not argue. 
 
@@ -270,7 +270,7 @@ In summary, it outlines the process one founder went through in developing their
 
 - In general emphasis is on starting simple, testing ideas empirically, understanding customer pain points, and improving over time through feedback and experimentation. Sales and marketing skills are also highlighted as important for any business.
 
- Here is a summary:
+ 
 
 - The speaker discusses launching a dating app and the importance of marketing, sales, and validating the idea with potential customers before building out a full product. 
 
@@ -286,6 +286,6 @@ In summary, it outlines the process one founder went through in developing their
 
 - Being involved in a paid program like Simpleus keeps people more committed than free options. It pushes one to actively build something of value to justify the cost.
 
- Here is a summary:
+ 
 
 The speaker apologized for their voice breaking. They said it was nice to share a little more about the topic and it was cool that their last drawing partner could join. They said it's good to leave the live recording so they can look back on what they did. They thanked everyone from the bottom of their heart and said to send messages that they will help with. They will also share links in WhatsApp groups. They encouraged people to like and comment after the live, and to bombard the comments section. They asked people to write about their lesson from the live in the comments under the video when it's posted on YouTube. They want to share good things and see people's learnings in the comments, which will make them very happy. Finally, they said they will see everyone in the Simpleça group or in the next video, and thanked everyone with a good rest.

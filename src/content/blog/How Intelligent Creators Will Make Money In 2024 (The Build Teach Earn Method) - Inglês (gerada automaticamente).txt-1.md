@@ -16,7 +16,7 @@ BOOK LINK:
 
 
 
- Here is a summary:
+ 
 
 - The creator economy is growing rapidly and will continue to grow exponentially as more jobs become obsolete due to technology and the future of work shifts toward content creation. 
 
@@ -28,7 +28,7 @@ BOOK LINK:
 
 - The goal is to be 90% liked and 10% disliked to maintain engagement, like in good relationships. Content creation is about bringing one's full self and perspective to solve problems for others in an authentic way.
 
- Here is a summary:
+ 
 
 - The passage discusses several pieces of advice for writing engaging content, including embracing changing opinions and providing novel perspectives. 
 
@@ -40,7 +40,7 @@ BOOK LINK:
 
 - The passage recommends monetizing from the start on social media by using one's content and skills to self-educate, build authority, and eventually offer products or services to that following. Developing a wide range of business skills through one's online content career makes one valuable to other companies as well.
 
- Here is a summary:
+ 
 
 - Top of funnel activities like content creation, newsletters, direct messages help nurture and build an audience. 
 

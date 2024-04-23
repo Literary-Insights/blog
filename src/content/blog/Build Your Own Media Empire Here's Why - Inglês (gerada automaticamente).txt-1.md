@@ -16,7 +16,7 @@ BOOK LINK:
 
 
 
- Here is a summary:
+ 
 
 - The video discusses how SaaS companies can grow to $5-10M+ in ARR by building an internal media company to dominate their niche through content creation. 
 
@@ -28,7 +28,7 @@ BOOK LINK:
 
 - Options are hiring an agency, building an internal team (e.g. hiring SDRs initially), or partnering with content creators. The goal is to generate attention at scale through quality content in order to drive sales.
 
- Here is a summary:
+ 
 
 - Building an inbound marketing engine through content is one of the most effective ways for companies to generate leads and sales. Successful companies like Trainual dedicate significant resources to building social media followings and producing content. 
 

@@ -44,7 +44,7 @@ BOOK LINK:
 
 So in summary, the passage discusses how experts wildly missed predicting the large 1990s crime decline and its actual causes, including the significant influence of legalized abortion through the Roe v. Wade decision decades prior.
 
- Here is a summary:
+ 
 
 - The passage discusses incentives for real estate agents when selling their own homes versus when selling clients' homes. It notes that agents' commission is typically split between the seller's and buyer's agents.
 
@@ -56,7 +56,7 @@ So in summary, the passage discusses how experts wildly missed predicting the la
 
 - By analyzing races where the same two candidates run against each other spending different amounts in consecutive elections, the data shows spending makes almost no difference - a 1% shift at most. Non-monetary factors like candidate appeal matter far more.
 
- Here is a summary:
+ 
 
 The passage discusses an experiment conducted by economists to test the effect of incentives on reducing late pickups at daycare centers. Ten daycares in Israel tracked the number of late pickups over 20 weeks. In the first 4 weeks, the average was 8 late pickups per week per center. In the 5th week, the economists introduced a $3 fine for every late pickup over 10 minutes. 
 
@@ -64,7 +64,7 @@ Contrary to expectations, the number of late pickups doubled after the fine was 
 
 The passage suggests that while economists love incentives and believe incentives can fix many problems, this experiment shows incentives do not always have the desired effect. Introducing a fine for late pickups perversely increased rather than decreased the rate of late pickups at these daycare centers.
 
- Here is a summary:
+ 
 
 - Incentives are small objects or acts that can powerfully change a situation. People learn from an early age to respond to both positive and negative incentives. 
 
@@ -78,7 +78,7 @@ The passage suggests that while economists love incentives and believe incentive
 
 - Cheating is a way for people to get more benefit with less cost, so all human systems see attempts to circumvent incentives, from small everyday infractions to massive tax cheating or other frauds. Maintaining effective incentives requires constant adjustment.
 
- Here is a summary:
+ 
 
 The passage discusses the incentives that high-stakes testing creates for teachers to potentially cheat on standardized tests administered to their students. With schools and teachers facing consequences like probation, funding loss, or job loss based on poor student test scores, teachers now have a reason to inflate their students' scores through illegitimate means. The passage outlines some subtle ways a teacher could potentially cheat, like erasing wrong answers and filling in correct ones after students complete the test. It then analyzes test data from Chicago public schools using an algorithm designed to detect unusual answer patterns that may indicate teacher cheating occurred. Two sample classrooms' test results are presented, but it is stated to be difficult to visually determine which shows evidence of cheating without further analysis.
 
@@ -106,7 +106,7 @@ In the early 2000s, the new CEO of Chicago Public Schools, Arne Duncan, wanted t
 
 So in summary, the algorithm creators helped design an effective controlled retesting approach to strengthen the evidence against suspected cheating teachers.
 
- Here is a summary:
+ 
 
 The passage discusses data on sumo wrestling matches in Japan that suggests match rigging is occurring. Wrestlers with a record of 7-7 have a much higher win rate (around 80%) against opponents with a record of 8-6 when the 7-7 wrestler needs an eighth win to advance, compared to their predicted win rate of around 50% based on past matches. This indicates wrestlers may be throwing matches to help their opponent in return for future favors. Further data shows the win rates revert to expected levels when rematches occur without the incentive of needing an eighth win. The passage analyzes various angles of the data to conclude it is difficult to argue sumo wrestling is not rigged to some extent through pre-arranged match outcomes.
 
@@ -122,7 +122,7 @@ The passage discusses data on sumo wrestling matches in Japan that suggests matc
 
 - The story examines the interplay between morality and economics, as most people (87%+) do the honest/moral thing and pay despite no oversight, contradicting predictions of economists influenced by theories of pure self-interest.
 
- Here is a summary:
+ 
 
 - The Ku Klux Klan emerged in the Reconstruction era in the Southern states to target former slaves and opponents of racism. Their goals were to prevent Black political participation, deny Black civil rights like voting and gun ownership, suppress Black education, and return Black people to a condition similar to slavery. 
 
@@ -132,7 +132,7 @@ The passage discusses data on sumo wrestling matches in Japan that suggests matc
 
 - Stetson Kennedy, despite coming from a prominent Southern family, went undercover to infiltrate and expose the Ku Klux Klan from within in the 1940s. He gathered intelligence on their operations, rituals, codes and leadership to undermine their activities.
 
- Here is a summary:
+ 
 
 - Lynchings of African Americans declined significantly over the decades from the late 19th to mid-20th century, even as KKK membership boomed in the 1920s. This suggests the KKK was not responsible for as many lynchings as commonly believed. 
 
@@ -144,7 +144,7 @@ The passage discusses data on sumo wrestling matches in Japan that suggests matc
 
 - When episodes aired exposing the KKK, their membership meetings saw angry members and applications dropped to zero, showing the effectiveness of Kennedy's strategy in weakening the KKK through USE of their own information against them. This helped prevent a larger postwar revival of the KKK.
 
- Here is a summary:
+ 
 
 - The passage discusses how the Ku Klux Klan and other groups derived power from hoarding secret information. Once that information is exposed, it diminishes their power and advantage. 
 
@@ -154,7 +154,7 @@ The passage discusses data on sumo wrestling matches in Japan that suggests matc
 
 - While not eliminating informational advantages entirely, the widespread availability of information online has shifted power away from those who previously controlled access to important facts and data toward everyday individuals. Sunlight in the form of accessible information acts as a disinfectant against abuse of asymmetric information.
 
- Here is a summary:
+ 
 
 - The manager is saying that if an invasive cardiologist tells referring physicians (like internist Joe Smith) that their patients don't need an invasive procedure, then those doctors will stop referring patients to that cardiologist. This creates implicit leverage through potential lost business. 
 
@@ -182,7 +182,7 @@ The passage discusses data on sumo wrestling matches in Japan that suggests matc
 
 So in summary, it uses anonymized data from online dating profiles and messaging to examine self-presentation strategies and implicit preferences around characteristics like income, physical appearance, race, etc.
 
- Here is a summary:
+ 
 
 - 28% of women on a dating site said they were blonde, which is far above the national average, indicating many are likely dying their hair blonde or lying about their hair color. 
 
@@ -192,7 +192,7 @@ So in summary, it uses anonymized data from online dating profiles and messaging
 
 - David Duke, former Grand Wizard of the KKK, was able to raise hundreds of thousands of dollars from supporters by claiming he was broke and needing donations, when in reality he had profited from selling his house and was using most of the donations for gambling.
 
- Here is a summary:
+ 
 
 - Sudhir Venkatesh was a PhD student studying poverty who was sent by his advisor to conduct surveys in impoverished Chicago neighborhoods. 
 
@@ -204,7 +204,7 @@ So in summary, it uses anonymized data from online dating profiles and messaging
 
 So in summary, Venkatesh's chance encounter with local drug dealers in a housing project led to him developing a rapport that provided valuable empirical data on the underground economy, contrary to conventional assumptions.
 
- Here is a summary:
+ 
 
 - Venkatesh, a sociologist, was taken hostage by a gang called the Black Disciples after interrupting them with a poorly thought out survey. 
 
@@ -218,7 +218,7 @@ So in summary, Venkatesh's chance encounter with local drug dealers in a housing
 
 - The gang's structure and operations resembled that of large corporations more than a traditional concept of a gang. This provided valuable new economic data on the inner workings of criminal enterprise.
 
- Here is a summary:
+ 
 
 - J.T.'s gang brought in $32,000 per month in revenue from drug sales and extortion. 
 
@@ -232,7 +232,7 @@ So in summary, Venkatesh's chance encounter with local drug dealers in a housing
 
 - While the top leaders earned a lot, for most members the pay was meager and the conditions bad, similar to low-wage legitimate jobs. But it was seen as one of the only paths to better pay in their communities.
 
- Here is a summary:
+ 
 
 - Prostitution has a relatively small supply of potential workers due to the risks involved, including violence and forfeiting family life. The demand side is also skewed, as architects are more likely to hire prostitutes than vice versa. 
 
@@ -244,7 +244,7 @@ So in summary, Venkatesh's chance encounter with local drug dealers in a housing
 
 - The introduction of crack cocaine mirrored the introduction of nylon stockings, bringing an elite drug to the masses. An abundant cocaine supply and street gang distribution networks helped crack become a phenomenon and dramatically alter American history.
 
- Here is a summary:
+ 
 
 - In the 1920s, Chicago had over 1,300 street gangs from different ethnicities and criminal activities. Many gangs engaged in mayhem more than making money. Some tried to be commercial enterprises, with the mafia being somewhat successful. But most gangsters were small-time. 
 
@@ -256,7 +256,7 @@ So in summary, Venkatesh's chance encounter with local drug dealers in a housing
 
 - After improvements in the postwar decades, crack hit black communities hard and undid social gains. It increased issues like infant mortality, crime, homicide, and black-white gaps in things like test scores and incarceration rates. The violence associated with crack wars made some urban areas as dangerous as cities in drug-producing countries.
 
- Here is a summary:
+ 
 
 - Nicolae Ceausescu, the communist dictator of Romania, banned abortion in 1966 in an effort to rapidly increase Romania's population. This led to a doubling of the birth rate within one year. 
 
@@ -266,7 +266,7 @@ So in summary, Venkatesh's chance encounter with local drug dealers in a housing
 
 - The Romanian abortion story served as a "reverse image" of the falling crime rates seen in the US starting in the early 1990s. A key factor contributing to the rise in US crime rates dating back to the 1960s was a more lenient justice system with shorter prison sentences. Increased reliance on imprisonment helped reverse this trend and contributed to the drop in US crime rates in the 1990s.
 
- Here is a summary:
+ 
 
 - Between 1980 and 2000, there was a fifteenfold increase in the number of people sent to prison for drug offenses and other crimes. Overall sentence lengths also increased, especially for violent crimes. 
 
@@ -280,7 +280,7 @@ So in summary, Venkatesh's chance encounter with local drug dealers in a housing
 
 So in summary, the largest factors leading to lower crime in the 1990s were increased imprisonment, expanded police forces, and new community-oriented policing models, rather than alternative theories like lowering imprisonment or increased use of the death penalty.
 
- Here is a summary:
+ 
 
 - Bill Bratton, the new police commissioner of NYC in the 1990s, demanded accountability and introduced data-driven policing strategies like CompStat to address crime hot spots. 
 
@@ -302,7 +302,7 @@ So in summary, the largest factors leading to lower crime in the 1990s were incr
 
 - Two demographic trends are cited as possible explanations for the crime drop - aging of the population, and legalized abortion in the US beginning in the early 1970s. The data does not support the aging theory, but legal abortion may have reduced the number of "unwanted children" who studies have found are more likely to become involved in criminal activity.
 
- Here is a summary:
+ 
 
 - The Supreme Court's Roe v. Wade decision legalizing abortion in 1973 gave women the right to choose not to have a child for various personal reasons. 
 
@@ -324,7 +324,7 @@ So in summary, the largest factors leading to lower crime in the 1990s were incr
 
 - As a result, parents end up scared of the wrong things and impose rules like not allowing their daughter to play at a friend's house just because the family owns a gun, despite guns being much less risky than other everyday hazards like swimming pools. Experts induce unnecessary fear in parents.
 
- Here is a summary:
+ 
 
 The passage compares the risks of childhood deaths from swimming pools versus guns. It cites data showing that a child is about 100 times more likely to die from drowning in a pool (1 in 11,000 chance) than from a gun (1 in 1 million chance). However, most parents vastly overestimate the risk of guns and underestimate the risk of pools. 
 
@@ -346,7 +346,7 @@ In the end, the passage questions how much impact parents truly have on shaping 
 
 - In general, the data suggests that while school choice is important to parents, it had little direct impact on student outcomes. Motivation and other pre-existing factors mattered more than the school itself. This challenges the idea that getting into the "right" school is crucial.
 
- Here is a summary:
+ 
 
 - A study of a job skills program found it helped some struggling students prepare for solid careers by giving them practical skills, but did not necessarily make students smarter overall. 
 
@@ -376,7 +376,7 @@ In the end, the passage questions how much impact parents truly have on shaping 
 
 So in summary, the school environment may be a key driver of the re-emerging test score gap beyond early grades, more so than specific parenting behaviors. socioeconomic background remains very important.
 
- Here is a summary:
+ 
 
 This passage discusses findings from the Early Childhood Longitudinal Study (ECLS) on factors correlated or not correlated with children's school test scores. It notes that having highly educated, high socioeconomic status parents is positively correlated, while being adopted or having a young or unmarried mother is negatively correlated. Simply attending Head Start, getting spanked, or watching TV does not seem to affect scores. 
 
@@ -546,7 +546,7 @@ In summary, the article presents evidence from New York City that the emergence 
 
 - 133-34: Summarizes the book "More Guns, Less Crime" by John R. Lott Jr.
 
- Here is a summary:
+ 
 
 This document outlines the contents of the book "Freakonomics" by Steven D. Levitt and Stephen J. Dubner. It lists the cover, table of contents, introduction, 5 chapters, epilogue, notes, acknowledgments, index, author bios, credits, and copyright information. 
 

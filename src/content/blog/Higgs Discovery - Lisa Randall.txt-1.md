@@ -32,7 +32,7 @@ BOOK LINK:
 
 - The author uses analogies like searching for a friend in a noisy stadium to describe the challenge of making this elusive particle discovery amid quantum background fluctuations.
 
- Here is a summary:
+ 
 
 - The Higgs mechanism is what gives elementary particles their mass. It relies on the existence of the Higgs field, which exists throughout space. 
 
@@ -46,7 +46,7 @@ BOOK LINK:
 
 - This confirmed the existence of a new particle associated with the Higgs field and mass generation, providing strong evidence that the Higgs mechanism is realized in the Standard Model. But further data is still needed to fully understand the Higgs particle's properties.
 
- Here is a summary:
+ 
 
 - The dark energy associated with empty space contributes to the gravitational influence of the universe. This nonzero energy, known as dark energy, gives empty space its own intrinsic energy density. 
 
@@ -60,7 +60,7 @@ BOOK LINK:
 
 - The Higgs decays most to bottom quarks and antiquarks as they are the heaviest particles light enough for the decay to conserve energy and momentum.
 
- Here is a summary:
+ 
 
 - The Higgs boson decays can produce other particles without violating conservation laws, like decaying into a bottom quark and antiquark which have opposite charges and cancel out. 
 
@@ -76,7 +76,7 @@ BOOK LINK:
 
 - By summer 2012, both experiments had collected enough data to announce the discovery of a new Higgs-like particle with a mass around 125 GeV.
 
- Here is a summary:
+ 
 
 - The Moriond conference in March discussed possible "faster than light neutrinos" and modest updates on the Higgs boson, but there was no definitive discovery to report at that time. Most did not expect a discovery by March. 
 
@@ -92,7 +92,7 @@ BOOK LINK:
 
 - Both CMS and ATLAS experiments reported 5 sigma evidence of a discovery, pointing to a particle connected to the Higgs mechanism. Its properties provided opportunities to study multiple decay modes.
 
- Here is a summary:
+ 
 
 - Scientists at the LHC have discovered a new particle that has properties consistent with the predicted Higgs boson. However, more data is needed to confirm if it is definitively the Higgs boson or part of a more complex theory. 
 
@@ -104,7 +104,7 @@ BOOK LINK:
 
 - Whatever is found, it will help guide the path forward for particle physics as more fundamental questions about mass and the hierarchy problem remain open. Both experimental and theoretical work will continue to build upon this discovery.
 
- Here is a summary:
+ 
 
 - Theorists will continue pursuing solutions to the hierarchy problem of why the Higgs boson mass is so much lower than the Planck scale. 
 
@@ -118,7 +118,7 @@ BOOK LINK:
 
 - In general, modified theories will require different search strategies than standard models at the LHC, to ensure all possible signatures are explored in the enormous data. The LHC will also search for dark matter and new heavier particles.
 
- Here is a summary:
+ 
 
 - The Higgs mechanism is an elegant theoretical idea that allows elementary particles like quarks and leptons to acquire mass, without which all particles would have to be massless. 
 
@@ -132,7 +132,7 @@ BOOK LINK:
 
 - The Higgs mechanism acknowledges both the required internal symmetry of the weak force, and the necessity of this symmetry being spontaneously broken, in order to explain massive particles consistently at all energies.
 
- Here is a summary:
+ 
 
 - Gauge bosons can have three possible polarizations if they are massive, but only two if they are massless. This poses a problem for theories of massive gauge bosons.
 
@@ -146,7 +146,7 @@ BOOK LINK:
 
 So in summary, the Higgs mechanism introduces a Higgs field that acquires a vacuum value, spontaneously breaking the symmetry at low energies and reconciling the requirements for a theory of massive gauge bosons.
 
- Here is a summary:
+ 
 
 - The Higgs field permeates all of space, giving it a weak charge. This weak charge acts like a "fog" or "paint" that blocks the weak gauge bosons from traveling long distances.
 
@@ -160,7 +160,7 @@ So in summary, the Higgs mechanism introduces a Higgs field that acquires a vacu
 
 - When one of the two Higgs fields takes a non-zero value, it spontaneously breaks the weak force symmetry that treats the two Higgs fields as equivalent. This is necessary to give particles associated with the weak force (weak gauge bosons, quarks, leptons) their masses.
 
- Here is a summary:
+ 
 
 - In the 1960s, physicists developed the electroweak theory which unified the weak and electromagnetic forces. This theory proposed that at very high energies in the early universe, there were four weak gauge bosons, not including the photon. 
 
@@ -172,7 +172,7 @@ So in summary, the Higgs mechanism introduces a Higgs field that acquires a vacu
 
 - Ultimately, experiments at the Large Hadron Collider aim to discover new particles like the Higgs boson that can help explain how electroweak symmetry breaking occurs and particles acquire their masses as predicted by the Standard Model.
 
- Here is a summary:
+ 
 
 - Without a Higgs mechanism, elementary particles in the Standard Model would not be allowed to have mass. Their masses would be a mystery according to E=mc^2. 
 
@@ -190,7 +190,7 @@ So in summary, the Higgs mechanism introduces a Higgs field that acquires a vacu
 
 So in summary, the Higgs mechanism is needed to explain how elementary particles can have the masses observed while respecting the underlying symmetries of force-carrying fields in the Standard Model.
 
- Here is a summary:
+ 
 
 - The Higgs mechanism explains why some elementary particles like photons have zero mass, while others like the W and Z bosons have non-zero mass. 
 
@@ -208,7 +208,7 @@ So in summary, the Higgs mechanism is needed to explain how elementary particles
 
 - Evidence for the Higgs mechanism would be observation of the Higgs boson particle, which results from excitations in the Higgs field. Experiments at the LHC seek to discover this missing particle.
 
- Here is a summary:
+ 
 
 - Fluctuations in the Higgs field can produce Higgs bosons, just as fluctuations in the electromagnetic field produce photons. 
 
@@ -228,7 +228,7 @@ So in summary, the Higgs mechanism is needed to explain how elementary particles
 
 - Once produced, the Higgs boson immediately decays into the particles it interacts with most, like bottom quarks, making its decays hard to identify.
 
- Here is a summary:
+ 
 
 - The Higgs mechanism gives mass to particles that interact with the Higgs field. For a particle to be produced from Higgs boson decay, it must weigh less than half the Higgs boson mass to conserve energy. 
 
@@ -240,7 +240,7 @@ So in summary, the Higgs mechanism is needed to explain how elementary particles
 
 - Finding the Higgs boson is important but not the end goal - it is hoped the LHC will shed light on the hierarchy problem of why mass scales differ so greatly in fundamental particle interactions. New physics may be needed to explain this.
 
- Here is a summary:
+ 
 
 - Gravitational interactions depend inversely on the Planck mass, which is extremely large. This explains why gravity is much weaker than the other fundamental forces. 
 

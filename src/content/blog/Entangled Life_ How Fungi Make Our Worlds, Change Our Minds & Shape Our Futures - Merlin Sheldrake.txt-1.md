@@ -46,7 +46,7 @@ BOOK LINK:
 
 So in summary, fungi continue to play a vital role in enabling plant life through various symbiotic relationships that have evolved over hundreds of millions of years. Both organisms depend on each other for growth and survival.
 
- Here is a summary:
+ 
 
 - Fungi play a vital yet underappreciated role in human societies and ecosystems. They produce many important medicines like penicillin and statins through their diverse metabolisms. Around 60% of industrial enzymes and 15% of vaccines are fungal-derived. 
 
@@ -58,7 +58,7 @@ So in summary, fungi continue to play a vital role in enabling plant life throug
 
 - Fungal technologies also offer solutions to environmental problems like declining bee populations and pollution cleanup. Despite fungi's importance, they remain vastly understudied compared to plants and animals. More research is needed to comprehend their full roles and potential.
 
- Here is a summary:
+ 
 
 The passage describes how the author's understanding of life has changed through studying fungi. Fungi challenge typical categories and present open questions that are uncomfortable. Two areas of research have helped the author navigate this. 
 
@@ -68,7 +68,7 @@ Second, new insights from microbial research showing that humans and other organ
 
 Fungi trick us out of expectations in the same way as magic tricks, loosening our preconceptions and allowing us to see with new eyes. This challenges typical hierarchies and categorizations, which could change attitudes toward the natural world.
 
- Here is a summary:
+ 
 
 - The passage discusses the complexity of relationships between different organisms and how it can be difficult to determine influences and dependencies. Who domesticates who? 
 
@@ -80,7 +80,7 @@ Fungi trick us out of expectations in the same way as magic tricks, loosening ou
 
 - The key ideas are the complex, ambiguous nature of relationships between organisms and ecosystems, and how imagination and personal experience shape scientific understanding, even if findings must be carefully communicated.
 
- Here is a summary:
+ 
 
 The passage discusses truffle fungi and how they lure animals through their powerful smells. Truffles produce underground fruiting bodies that contain spores. To disperse their spores, truffles evolved intense scents that can travel through soil and attract animals. Their scents match animal preferences through evolutionary adaptations. 
 
@@ -88,7 +88,7 @@ The author travels to Italy to experience truffle hunting by following dogs that
 
 Truffle smells have long been associated with sex and excitement in humans. Their scents produce emotive memories and even "olfactory flashbacks." Pungent truffle smells evolved to stimulate animals into eating and dispersing fungal spores. However, the high market value of truffles also leads to illegal poaching, dog theft, and violence between truffle hunters.
 
- Here is a summary:
+ 
 
 - Truffles are a highly prized and expensive delicacy that can sell for thousands per kilogram. Their strong aroma attracts animals like pigs and dogs to find them underground.  
 
@@ -102,7 +102,7 @@ Truffle smells have long been associated with sex and excitement in humans. Thei
 
 - The narrator accompanies two truffle hunters, Paride and Daniele, into the oak forests near their homes to observe their truffle hunting methods and experience the aroma of truffles firsthand.
 
- Here is a summary:
+ 
 
 - The passage describes a truffle hunting expedition led by Paride in Italy. They are joined by another hunter named Daniele and their dogs. 
 
@@ -116,7 +116,7 @@ Truffle smells have long been associated with sex and excitement in humans. Thei
 
 - The fluid and dynamic nature of these fungal-plant partnerships makes domestication of truffle fungi difficult.
 
- Here is a summary:
+ 
 
 - Truffle cultivation is challenging because truffles have complex relationships with trees and bacteria in the soil that are not fully understood. Success rates for planting truffle seedlings vary widely from year to year, even for experienced cultivators. 
 
@@ -128,7 +128,7 @@ Truffle smells have long been associated with sex and excitement in humans. Thei
 
 - The author discusses truffle hunting with experts in Oregon and finds new truffle species continue to be discovered, showing how much remains unknown, while human land use changes over centuries have unintentionally supported truffle cultivation.
 
- Here is a summary:
+ 
 
 - Truffle production requires mature forests with certain tree species, not woodlands that have been cleared for agriculture or abandoned and grown into forests. 
 
@@ -152,7 +152,7 @@ Truffle smells have long been associated with sex and excitement in humans. Thei
 
 - Different fungal species form unique mycelial networks with varying structures, thickness, foraging behaviors, and ability to penetrate tough materials in search of nutrients.
 
- Here is a summary:
+ 
 
 - Mycelium, the main part of a fungus, grows through hyphal tips at the advancing edge. New cellular materials arrive and fuse with the tip, allowing it to grow at up to 600 new units per second. 
 
@@ -190,7 +190,7 @@ Truffle smells have long been associated with sex and excitement in humans. Thei
 
 - The studies raise philosophical questions about what constitutes intelligence and cognition. Some argue network-based organisms like fungi exhibit problem-solving and decision-making, even without brains or minds. Others see them as having a "minimal" or "basal" form of cognition.
 
- Here is a summary:
+ 
 
 - Lichens are composed of a symbiotic relationship between a fungus and another organism like algae or cyanobacteria. This dual nature of lichens was first proposed in 1869 and challenged existing ideas of what constituted an individual organism. 
 
@@ -228,7 +228,7 @@ So in summary, it traces the dual hypothesis theory for lichens, the initial con
 
 So in summary, it discusses key early pioneers like Lederberg and Margulis who advanced understanding of horizontal gene transfer, symbiosis and their implications for evolution through important discoveries and theories.
 
- Here is a summary:
+ 
 
 - Lichens are symbiotic organisms composed of fungi and photosynthetic bacteria or algae. They can survive extreme environmental conditions like heat, cold, dryness, radiation, etc. making them well-suited to space travel. 
 
@@ -240,7 +240,7 @@ So in summary, it discusses key early pioneers like Lederberg and Margulis who a
 
 - Lichens' ability to survive varied extreme conditions as multicellular symbiotic organisms makes them interesting for astrobiology. Intact lichens could potentially travel between planets encapsulating a complete ecosystem. However, they would need to withstand ejection from meteorite impact and space travel stresses.
 
- Here is a summary:
+ 
 
 - Lichens are able to withstand extreme conditions like shock waves, heat, and arid environments due to their symbiotic nature. Researchers have shown that lichens can survive shock pressures much greater than the deepest parts of the ocean floor. 
 
@@ -252,7 +252,7 @@ So in summary, it discusses key early pioneers like Lederberg and Margulis who a
 
 - Recent discoveries have shown lichen partnerships are more complex than previously believed, with multiple fungal and bacterial partners playing roles beyond just the classic fungus-algae duo. The identity of partners is less important than their functional compatibility and ability to form a stable symbiosis.
 
- Here is a summary:
+ 
 
 - The passage discusses how lichens are no longer viewed as simply the dualistic interaction of a fungus and algae, but rather as complex symbiotic systems composed of multiple partners - fungi, algae, and various bacteria. 
 
@@ -266,7 +266,7 @@ So in summary, it discusses key early pioneers like Lederberg and Margulis who a
 
 So in summary, the passage discusses how recent research finds lichens to be even more complex systems than previously thought, composed of multiple microbial partners. It draws parallels to how all organisms exist interdependently with microbes and cannot be viewed as purely distinct individuals.
 
- Here is a summary:
+ 
 
 - The passage describes the experience of taking LSD as part of a clinical trial and getting lost in thought about how fungal chemicals can alter human experiences and consciousness. 
 
@@ -278,7 +278,7 @@ So in summary, the passage discusses how recent research finds lichens to be eve
 
 - The author recounts first learning about mind-altering plants and mushrooms from ethnobotanist Terence McKenna as a child in Hawaii. Many psychoactive substances have long been an intimate part of human cultures and spirituality.
 
- Here is a summary:
+ 
 
 - Certain fungi have the ability to manipulate the behavior of their insect hosts in order to facilitate their own reproduction and transmission. 
 
@@ -290,7 +290,7 @@ So in summary, the passage discusses how recent research finds lichens to be eve
 
 - Parasitic manipulation of host behavior has evolved independently in multiple fungal lineages and represents an adaptive strategy to facilitate transmission and reproduction. The mechanisms can involve neurochemical as well as immunosuppressive and physical manipulation of the host.
 
- Here is a summary:
+ 
 
 - The passage discusses how some traditional cultures believe in composite creatures and fluid boundaries between organisms. Shamans in indigenous societies believe they can inhabit the minds and bodies of animals and plants. 
 
@@ -304,7 +304,7 @@ So in summary, the passage discusses how recent research finds lichens to be eve
 
 - While appearing to support materialism, participants interpret psychedelic experiences non-mechanistically, emerging with convictions of a transcendent "beyond." This poses a riddle for prevailing scientific views.
 
- Here is a summary:
+ 
 
 - Psilocybin mushrooms induce mystical and spiritual experiences through biochemical effects on the brain. Psilocybin is converted to psilocin, which mimics serotonin and activates receptors in the brain. 
 
@@ -314,7 +314,7 @@ So in summary, the passage discusses how recent research finds lichens to be eve
 
 - Some argue the altered experiences induced by psilocybin mushrooms could be considered part of their "extended phenotype" - how they influence other organisms to promote their genes. However, unlike fungi that directly parasite other species, psilocybin mushrooms do not live within humans and it is unclear if inducing "better" experiences leads to greater reproductive success. So they likely do not meet Richard Dawkins' stringent criteria for an extended phenotype.
 
- Here is a summary:
+ 
 
 - Psilocybin mushrooms have been producing psilocybin for millions of years before humans evolved. It's unclear what benefit it provided to the fungi initially.
 
@@ -326,7 +326,7 @@ So in summary, the passage discusses how recent research finds lichens to be eve
 
 - Figures like Richard Evans Schultes, Gordon Wasson, and Timothy Leary played key roles in the 20th century discovery and popularization of psilocybin mushrooms in Western culture through their field research and written accounts. Leary in particular promoted psychedelics widely in the 1960s.
 
- Here is a summary:
+ 
 
 - Timothy Leary advocated for psychedelic drugs in the 1960s, fueling the countercultural movement. He addressed a huge gathering in 1967 called the Human Be-In. 
 
@@ -340,7 +340,7 @@ So in summary, the passage discusses how recent research finds lichens to be eve
 
 - Over 200 species of psilocybin mushrooms have now been described worldwide, found in many environments, dispersed in part by humans finding and spreading them. Their effects profoundly alter human consciousness in ways not fully explained.
 
- Here is a summary:
+ 
 
 - There is a global community of DIY mycologists (fungus enthusiasts) who cultivate mushrooms in their homes for food and as a hobby. Some see mushrooms as having potential benefits for the world. 
 
@@ -352,7 +352,7 @@ So in summary, the passage discusses how recent research finds lichens to be eve
 
 - Overall there is growing enthusiasm among some for cultivating and studying mushrooms, both for their culinary and perceived environmental benefits as well as their psychoactive compounds and ability to alter human consciousness. However, the claims of figures like McKenna are controversial.
 
- Here is a summary:
+ 
 
 - Mycorrhizal fungi form extensive networks of hyphae (filaments) in the soil, with a total length estimated to be around half the width of the Milky Way galaxy. If this hyphae was ironed out flat, it would cover the land surface of Earth 2.5 times over. 
 
@@ -364,7 +364,7 @@ So in summary, the passage discusses how recent research finds lichens to be eve
 
 - The extensive mycelial networks of mycorrhizal fungi continue to profoundly influence the cycling of carbon and other nutrients in ecosystems today and have shaped the evolution of life on Earth over hundreds of millions of years.
 
- Here is a summary:
+ 
 
 - Mycorrhizal fungi form symbiotic relationships with plant roots, supplying nutrients like nitrogen, phosphorus, zinc and copper in exchange for carbohydrates from the plant. This relationship is essential for plant growth and survival.
 
@@ -376,7 +376,7 @@ So in summary, the passage discusses how recent research finds lichens to be eve
 
 So in summary, the passage discusses the evidence that mycorrhizal fungi can influence plant properties and growth, and explores the idea that plants and fungi navigate their symbiotic relationship through complex, brainless decision-making and social behaviors.
 
- Here is a summary:
+ 
 
 - The researcher, Eve Kiers, conducted an experiment where she exposed a single mycorrhizal fungus to an unequal supply of phosphorus across its network. One part had abundant phosphorus, the other had scarce phosphorus.
 
@@ -386,7 +386,7 @@ So in summary, the passage discusses the evidence that mycorrhizal fungi can inf
 
 - The study provides insights into the intricacies of plant-fungal nutrient exchanges and how cooperative solutions can emerge within fungal networks in response to local supply and demand conditions. However, the precise mechanisms and control of these behaviors are still unknown.
 
- Here is a summary:
+ 
 
 - Two species of palm trees on Lord Howe Island, Australia have diverged into different habitats - one grows on acidic volcanic soil, the other on alkaline chalky soil. 
 
@@ -400,7 +400,7 @@ So in summary, the passage discusses the evidence that mycorrhizal fungi can inf
 
 - Sustainable agriculture that supports diverse mycorrhizal fungal communities in the soil is important for soil and plant health, according to numerous studies. Intensive farming practices often disrupt these fungal communities.
 
- Here is a summary:
+ 
 
 - Mycorrhizal fungi form symbiotic relationships with the roots of most plants, exchanging nutrients and carbon compounds. 
 
@@ -412,7 +412,7 @@ So in summary, the passage discusses the evidence that mycorrhizal fungi can inf
 
 - Most plants engage in relationships with multiple mycorrhizal fungi, and separate fungal networks can fuse together. This results in potentially vast underground networks connecting different plants. These complex interconnected systems are called "wood wide webs" and demonstrate how organisms can interact in net-like, entangled fashions through mycorrhizal relationships.
 
- Here is a summary:
+ 
 
 - Fungal networks form physical connections between plants known as common mycorrhizal networks (CMNs). This embodies the principle of interdependence in ecology - organisms are inextricably linked in relationships. 
 
@@ -422,7 +422,7 @@ So in summary, the passage discusses the evidence that mycorrhizal fungi can inf
 
 - While more studies found CMNs transfer important resources like carbon and nutrients, others found no transfer. Their ecological importance remains debated, as behavior likely varies by fungus and environment. However, CMNs undoubtedly form widespread connections between plants in nature.
 
- Here is a summary:
+ 
 
 - Monotropa plants are known as mycoheterotrophs - they are fully dependent on mycorrhizal fungi for nutrients and don't photosynthesize themselves. They serve as evidence that nutrient transfer between plants via shared fungal networks can support life. 
 
@@ -450,7 +450,7 @@ So in summary, the passage discusses the evidence that mycorrhizal fungi can inf
 
 - Networks provide highways for bacteria movement and interactions, with some bacteria farming by fungi. Plant communication signals could potentially pass underground between plants via fungi.
 
- Here is a summary:
+ 
 
 - Researchers conducted an experiment connecting broad bean plants via a shared mycorrhizal network, while preventing connection for other plants using mesh. 
 
@@ -464,7 +464,7 @@ So in summary, the passage discusses the evidence that mycorrhizal fungi can inf
 
 - Understanding the architecture and pathways of natural fungal networks would help interpret the ecological roles and impacts of underground communication between plants. Few studies have attempted to map actual networks in ecosystems.
 
- Here is a summary:
+ 
 
 - Susanne Simard studied a 30x30 meter plot of forest and mapped the genetic connections between individual trees and fungi using a DNA fingerprinting technique. 
 
@@ -478,7 +478,7 @@ So in summary, the passage discusses the evidence that mycorrhizal fungi can inf
 
 - Mycorrhizal networks are complex adaptive systems that are dynamic and self-organizing rather than static things. Their behavior is difficult to predict and they can adapt in response to changes.
 
- Here is a summary:
+ 
 
 - Radical mycology is an emerging field that views fungi as potential partners for humans to help adapt to environmental disruption. 
 
@@ -492,7 +492,7 @@ So in summary, the passage discusses the evidence that mycorrhizal fungi can inf
 
 In summary, the passage discusses the historical role of fungi in the carbon cycle, the radical capabilities of white rot fungi, and the emerging field of radical mycology which sees potential symbiotic roles for fungi in coping with environmental disruption.
 
- Here is a summary:
+ 
 
 The passage discusses om wood that has not yet been burned by fungi or combusted through burning. It notes that when we burn coal, we are thermally decomposing material that fungi were unable to decompose chemically through their enzymatic processes. 
 
@@ -502,7 +502,7 @@ The passage advocates for empowering "amateur" mycologists to help address this 
 
 In summarizing a keynote by the movement's founder Peter McCoy, it discusses how fungi can help address waste issues by growing on agricultural and other byproducts. It provides examples of fungi breaking down materials like used diapers and cigarette butts. The passage explores the adaptive and metabolic abilities of fungi to encounter new substances. In short, it advocates for a grassroots popularization and application of mycology to address various challenges.
 
- Here is a summary:
+ 
 
 - Paul Stamets is a pioneering mycologist (expert in fungi) who has worked to popularize fungi through his research, books, videos, and company Fungi Perfecti. 
 
@@ -516,7 +516,7 @@ In summarizing a keynote by the movement's founder Peter McCoy, it discusses how
 
 - Groups are conducting local experiments using fungi to help clean up oil spills, wildfire debris, and other pollution. While challenges remain, fungi show promise as a more sustainable alternative to current remediation methods.
 
- Here is a summary:
+ 
 
 - Termites like Macrotermes termites in Africa cultivate fungi within their large termite mounds to help break down wood materials they cannot digest themselves. They farm a white rot fungus called Termitomyces which digests wood for them. 
 
@@ -528,7 +528,7 @@ In summarizing a keynote by the movement's founder Peter McCoy, it discusses how
 
 - Termites and their fungi have also had impacts on human property and structures. Their radical chemistry can consume large amounts of wood and materials. Indigenous groups also use termite mound earth for nutritional and medicinal benefits.
 
- Here is a summary:
+ 
 
 - In early 20th century West Africa, locals secretly released termites to destroy the buildings of a colonizing French army outpost. The ferocious termites ate through the structures and papers, forcing the French to abandon the outpost. 
 
@@ -540,7 +540,7 @@ In summarizing a keynote by the movement's founder Peter McCoy, it discusses how
 
 - The goal is to disrupt polluting industries and provide sustainable solutions. Projects are underway to use mycelium for housing, fashion, electronics, and more. While killing the fungi, the process spreads their spores globally.
 
- Here is a summary:
+ 
 
 - Paul Stamets is a famous mycologist who advocates for partnerships between humans and fungi. He believes fungi can help solve many environmental problems.
 
@@ -554,7 +554,7 @@ In summarizing a keynote by the movement's founder Peter McCoy, it discusses how
 
 - Stamets has an optimistic vision where fungi repeatedly save humanity from environmental crises, though more research is still needed to fully validate his bee-saving approach in real-world conditions.
 
- Here is a summary:
+ 
 
 - The passage discusses humans' long history of interaction with fungi, particularly yeasts. Yeasts have lived on and inside human bodies for thousands of years and played a role in early agricultural transitions. 
 
@@ -568,7 +568,7 @@ In summarizing a keynote by the movement's founder Peter McCoy, it discusses how
 
 In summary, the passage explores humanity's deep intertwined history with yeasts and fungi, from early agriculture to modern biotechnology, highlighting yeast's transformative powers and how that led to it being revered in ancient cultures.
 
- Here is a summary:
+ 
 
 - The author discusses their experience experimenting with brewing historical ales and meads. Fermentation involves domesticating decomposition through yeast cultures, and the outcome is always surprising due to uncertainties in the fermentation process. 
 
@@ -582,7 +582,7 @@ In summary, the passage explores humanity's deep intertwined history with yeasts
 
 - Analogies used to describe symbiotic relationships like lichens project human social values onto more-than-human interactions in nature. The politics of microbiology and symbiosis are complex and ideologically fraught.
 
- Here is a summary:
+ 
 
 - Historically, narratives around evolution emphasized competition and the "survival of the fittest" view famously described by Thomas Huxley as "Nature, red in tooth and claw." Cooperation and mutualism were downplayed. 
 
@@ -596,7 +596,7 @@ In summary, the passage explores humanity's deep intertwined history with yeasts
 
 - Some still frame debates in political terms by labeling perspectives as "biological left" or "right," which some view as artificially dichotomizing complex relationships in nature.
 
- Here is a summary:
+ 
 
 - The passage discusses how the study of symbiotic relationships requires crossing disciplinary boundaries, as symbioses span species boundaries. Early scientists neglected symbioses due to increasing specialization of disciplines. 
 
@@ -608,7 +608,7 @@ In summary, the passage explores humanity's deep intertwined history with yeasts
 
 - The passage closes by recounting the apocryphal story of Isaac Newton conceiving his theory of gravity after observing an apple fall, and notes how this story inspires the propagation of descendant apple trees around Cambridge.
 
- Here is a summary:
+ 
 
 - Newton observed an apple fall from a tree and wondered why it fell straight down rather than sideways or up. This led him to think about gravity and a universal "drawing power" in matter.
 
@@ -620,7 +620,7 @@ In summary, the passage explores humanity's deep intertwined history with yeasts
 
 - With help, he presses the apples, ferments the juice, and bottles the resulting cider. To his surprise, it tastes delicious despite claims the apples were very bitter. The author enjoyed the effects of the cider and became intoxicated by the story of Newton and the apple.
 
- Here is a summary:
+ 
 
 - The passage discusses the author's growing fascination with fungi and decomposition. They recognize that without decomposers like fungi breaking things down, there wouldn't be raw materials for new growth and creation. 
 
@@ -648,7 +648,7 @@ So in summary, the passage discusses the cycling roles of fungi in nature, the a
 
 - Leaf-cutter ants cultivate fungi in their nests and produce antibiotics to protect their fungal crops, demonstrating a coevolved mutualism between ants and fungi.
 
- Here is a summary:
+ 
 
 - Leaf-cutter ant colonies cultivate fungi for food. Their cultivated fungus is boosted by domesticated bacteria that live symbiotically with the ants and produce antibiotics that inhibit parasitic fungi and promote growth of the cultivated fungus. 
 
@@ -662,7 +662,7 @@ So in summary, the passage discusses the cycling roles of fungi in nature, the a
 
 - Fungal melanins show potential for radiation-resistant materials. Our understanding of fungal diversity, intelligence and role in ecosystems is growing as we investigate them further. Classification systems have reflected human biases that are now being re-examined.
 
- Here is a summary:
+ 
 
 - A study in 2007 found that a virus living within a fungus determines the fungus' ability to tolerate high temperatures. The fungus associates with a tropical grass and enables the plant's survival at high temperatures, but neither the fungus nor plant can survive without the virus. 
 
@@ -688,7 +688,7 @@ So in summary, microbes living within fungi can determine important traits and f
 
 - References are provided on fungal navigation of mazes, marine/dust fungi, fungal memory and remodeling of networks in response to environmental changes. The scale and complexity of fungal networks challenges our understanding.
 
- Here is a summary:
+ 
 
 - Mycelial networks of fungi can fuse together, sharing cellular contents across large interconnected "guilds." It is difficult to define where one fungal cell or network ends and another begins. 
 
@@ -706,7 +706,7 @@ So in summary, microbes living within fungi can determine important traits and f
 
 - Fungal structures like mushrooms emerge mysteriously from hyphal networks, challenging explanations of form that rely on differentiated cell types. Field theories propose biochemical or physical fields guide development across tissues.
 
- Here is a summary:
+ 
 
 - Hyphae, the threadlike cells that make up fungal mycelium, have the ability to coordinate their growth and development in a decentralized, non-hierarchical way. However, the mechanisms by which thousands of hyphal tips synchronize their behavior remains a mystery. 
 
@@ -752,7 +752,7 @@ So in summary, microbes living within fungi can determine important traits and f
 
 - Studies suggest lichens could withstand launching into space and potentially survive interplanetary travel, making them promising candidates for survival in extreme off-Earth conditions.
 
- Here is a summary:
+ 
 
 - Lichens are symbiotic partnerships between fungi and photosynthetic partners like algae or cyanobacteria. There is debate about what constitutes a lichen and how to define them. 
 
@@ -764,7 +764,7 @@ So in summary, microbes living within fungi can determine important traits and f
 
 - Psychoactive substances were potentially involved in ancient religious mystery cults like the Eleusinian Mysteries in Greece, though their exact nature is uncertain. Speculation includes ergot fungi, psilocybin mushrooms, or opium. Mushroom use may also be linked to ancient spiritual practices in central Asia.
 
- Here is a summary:
+ 
 
 - The identity of the potion consumed in ancient Greek religious rituals like the Eleusinian Mysteries is unknown. Some scholars have suggested it contained psychedelic mushrooms or cannabis. 
 
@@ -774,7 +774,7 @@ So in summary, microbes living within fungi can determine important traits and f
 
 - Psychedelic experiences seem to enhance well-being, spirituality, and openness. They may help by inducing a dissolved ego state and sense of interconnectedness. However, fully understanding their therapeutic mechanisms and the human-fungal relationship is challenging. Speculation on the evolutionary origins of psychedelic fungi also remains limited.
 
- Here is a summary:
+ 
 
 - Early land plants evolved symbiotic relationships with fungi in order to colonize land. Fungi helped the plant ancestors access water and nutrients in the soil before roots evolved. 
 
@@ -784,7 +784,7 @@ So in summary, microbes living within fungi can determine important traits and f
 
 - Now, the below-ground networks of mycorrhizal fungi extend the functional root surface area of plants tremendously. It is estimated that fungi represent as much as a third to half of total soil biomass and their mycelial networks in just the top 10 cm of soil exceed over 380,000 km in length. So plant-fungal symbiosis has been crucial to the colonization and thriving of plant life on land.
 
- Here is a summary:
+ 
 
 - Mycorrhizal fungi form symbiotic relationships with plant roots, helping plants absorb water and nutrients from soil in exchange for carbohydrates. 
 
@@ -802,7 +802,7 @@ So in summary, microbes living within fungi can determine important traits and f
 
 - There are still many unknowns about how plant-fungal nutrient exchange is controlled and how the symbiosis impacts ecosystem and global processes over long time scales.
 
- Here is a summary:
+ 
 
 - EM fungi tend to compete with free-living decomposers and slow the rate of carbon cycling through soil. AM fungi promote the activity of decomposers and increase carbon cycling. 
 
@@ -834,7 +834,7 @@ So in summary, microbes living within fungi can determine important traits and f
 
 - Research has mapped out some network architectures and shown certain trees can form scale-free networks highly reliant on well-connected hubs, making the system vulnerable to disruption. Different fungal species may form separate network modules between plants.
 
- Here is a summary:
+ 
 
 - The passages discuss ecosystems as complex adaptive systems and the dynamic nonlinear behavior of ecosystems. They also discuss Simard's work drawing parallels between fungal mycorrhizal networks and neural networks. 
 
@@ -858,7 +858,7 @@ So in summary, microbes living within fungi can determine important traits and f
 
 - Yeasts were likely domesticated by humans before the development of agriculture through the practice of brewing. Yeasts have since domesticated humans through our reliance on foods and beverages they facilitate. Our relationships with fungi are complex and culturally variable over history.
 
- Here is a summary:
+ 
 
 - The Wassons observed that ancient Greek writings contained no "enthusiastic words" about mushrooms, suggesting the Greeks were generally mycophobic (afraid of mushrooms). 
 

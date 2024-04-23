@@ -65,7 +65,7 @@ The crypto narrative emerged from the 2008 financial crisis. Deregulation and lo
 
 - Cryptocurrencies seemed like the latest manifestation of naturally occurring Ponzi schemes - dependent on luring in new investors to prop up asset prices. The author foresaw this bubble inevitably bursting.
 
- Here is a summary:
+ 
 
 The author initially thought Ponzi schemes required a central figure coordinating the fraud, but later realized they can form naturally during bubbles as price increases entice more investors, fueling further price rises. During bubbles, fraud is rampant. The author started betting against suspicious companies during the pandemic. His friend then encouraged him to buy Bitcoin, but the author was skeptical due to past bad investment advice. 
 
@@ -379,7 +379,7 @@ The summary highlights the failed Bitcoin rollout, Bukele's authoritarian abuses
 
 - Do Kwon faced investigations in South Korea but fled to Singapore and Serbia, largely avoiding responsibility. He expressed little remorse while seeking to relaunch his projects.
 
- Here is a summary:
+ 
 
 The collapse of TerraLuna brought down several major crypto companies that were overexposed and overleveraged, including Three Arrows Capital (3AC). 3AC was a Singapore hedge fund run by two former Credit Suisse employees, Kyle Davies and Su Zhu. At its peak, 3AC managed $18 billion in assets, but it invested heavily in TerraLuna and collapsed after that ecosystem imploded. 3AC had borrowed billions from lenders like Genesis Trading and Voyager Digital, spreading contagion throughout the crypto industry. The 3AC founders disappeared after the collapse. 
 
@@ -687,7 +687,7 @@ These failures revealed the massive risks, leverage, and lies pervasive in the c
 
 - Politicians like the "Blockchain Eight" congressional group had lobbied against regulation and received donations from FTX. The crypto lobby now hypocritically blamed lack of regulation for not preventing the collapse.
 
- Here is a summary:
+ 
 
 Senator Pat Toomey appeared on a podcast to defend crypto regulation despite previously praising the industry. His comments came after the FTX collapse exposed massive fraud. Meanwhile, Senator Kirsten Gillibrand hired a former Coinbase executive as counsel. 
 

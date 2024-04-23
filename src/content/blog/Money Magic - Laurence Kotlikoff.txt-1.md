@@ -178,7 +178,7 @@ In summary, weigh salaries, job duties, career longevity, taxes, location, and t
 
 - With the right strategies, you can turn Social Security into a "personal gold mine" and get the most out of the system. But you have to be proactive and treat it like any other financial asset.
 
- Here is a summary:
+ 
 
 The Social Security system is extremely complex, and the staff are underpaid, overworked, and undertrained. As a result, they often provide inaccurate or misleading information. To get the benefits you deserve, you need to educate yourself, be persistent, and not take no for an answer. Shop around between different offices and staffers. You can appeal if they deny you benefits you believe you qualify for. Avoid the Social Security Administration's own benefit calculators, as they can significantly over- or underestimate. The best strategy is often to delay claiming benefits until age 70, as this can substantially increase lifetime benefits. But beware - the SSA may try to scam you into taking benefits earlier with a retroactive lump sum payment that results in lower benefits long-term. Overall, you need to be very proactive to get the most out of the system. The staff mean well but are not always competent.
 
@@ -590,7 +590,7 @@ The key is to think through college borrowing very carefully, as student debt ca
 
 - Some elite schools may provide value through specialized training or recruiters' preferences. But most students pay high tuition at elite schools primarily for prestige, which does not guarantee career success. There are ways to attend elite schools affordably through financial aid or transferring.
 
- Here is a summary:
+ 
 
 The key points are:
 
@@ -726,7 +726,7 @@ The key ideas are to spend cautiously, diversify holdings, reduce debts/obligati
 
 In summary, your optimal asset allocation depends on your total resources, not just your financial assets. As your resources and life situation change, your optimal asset mix will as well. Following standard age-based allocation rules can lead to suboptimal investing.
 
- Here is a summary:
+ 
 
 You have upside and downside risks related to your company's performance. You can't directly insure against your company failing, since that would create bad incentives. But you can take steps to protect yourself:
 

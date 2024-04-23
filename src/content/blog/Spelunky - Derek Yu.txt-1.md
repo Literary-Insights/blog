@@ -31,7 +31,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 That covers the key highlights from the beginning of the chapter on the origins and development of Spelunky Classic. Let me know if you would like me to clarify or expand on any part of the summary.
 
- Here is a summary:
+ 
 
 - The author and his friend Alec worked together for two years to create their first commercial game, Aquaria, which was released in 2007. Aquaria was a success and won several awards, validating them as game developers. 
 
@@ -43,7 +43,7 @@ That covers the key highlights from the beginning of the chapter on the origins 
 
 - In summary, after the intense experience of developing Aquaria, the author wanted to return to smaller, more personal projects. Game Maker provided an outlet for that, allowing him to make short but creative games - his “gardens.” This return to smaller projects was a return to his roots, reminiscent of his early days using Klik & Play.
 
- Here is a summary:
+ 
 
 - The author grew up playing games on old floppy disks he found from his parents’ graduate school days. Among these games were roguelikes like Hack and NetHack. 
 
@@ -149,7 +149,7 @@ Each player's feedback tested and shaped the developer's vision for the game. A 
 
 In summary, the shopkeeper AI uses simple rules to seem complex. Public feedback, especially negative, is hard to take but important for improvement. Interpreting feedback requires determining underlying causes, not just surface issues. A game's vision develops and strengthens over time with audience and creator interactions.
 
- Here is a summary:
+ 
 
 The author discusses their lifelong passion for video games, which began in the 1980s with Nintendo and arcade games. They were particularly inspired by The Legend of Zelda and its sense of exploration and discovery. However, the author feels that recent entries in the Zelda series lack that sense of mystery and feel too engineered, comparing them to theme parks. 
 
@@ -171,7 +171,7 @@ The key ideas are:
 
 5) Like Miyamoto, exploring virtual worlds and real worlds as a child inspired the author’s game design.
 
- Here is a summary:
+ 
 
 - Arcade games were often violent, strange, and sexualized. The author visited arcades as a child and played violent games like The Punisher and Mortal Kombat. 
 
@@ -211,7 +211,7 @@ The key ideas are:
 
 - The Chain was designed to feel integrated into the world, not like an obvious sequence of secrets. This makes its discovery more meaningful. The designer focused on integrating the secrets, not on how many players would find them.
 
- Here is a summary:
+ 
 
 - The Moai statue and Ankh in Spelunky require skill, luck and dedication to obtain. 
 - Obtaining the Hedjet by sacrificing the Ankh at the Moai shows mastery of the game. 
@@ -271,7 +271,7 @@ Early on in the development of Spelunky, Derek Yu made several key decisions to 
 
 In summary, Yu stayed true to the spirit of the original Spelunky but essentially remade the game to take full advantage of the Xbox 360's capabilities and appeal to a wider audience. The end result was a massive improvement over the first version of Spelunky.
 
- Here is a summary:
+ 
 
 - The pixel art style of the original Spelunky was outdated and didn’t suit modern HD displays. The developer wanted to update the graphics to HD for the reboot. 
 
@@ -315,7 +315,7 @@ In summary, Yu stayed true to the spirit of the original Spelunky but essentiall
 
 - In summary, the key to finishing and releasing Spelunky was avoiding perfectionism, redundant rework, and feature creep; keeping the scope limited; and maintaining steady progress toward completion. Releasing the initial game provided motivation to continue improving it.
 
- Here is a summary:
+ 
 
 The designer aimed to make the multiplayer experience accessible for players of all skill levels. He introduced two main features to accomplish this:
 
@@ -331,7 +331,7 @@ The designer received criticism about the damsel mechanic reinforcing sexist ste
 
 In summary, the designer made several choices to facilitate an accessible multiplayer experience. However, the damsel mechanic received justified criticism for employing a sexist stereotype, even if done in a lighthearted way. The designer took this criticism seriously in aiming to add more diversity to later versions of the game.
 
- Here is a summary:
+ 
 
 The author decided to add more character diversity to Spelunky for diversity’s sake. This included adding new player characters of different genders and races, like a Sikh character and a female character inspired by Marion Ravenwood from Indiana Jones. For the damsel in distress, the author added options to rescue a “hunky” man or a pug dog instead of a woman. These additions were generally well-received, especially the pug damsel.  
 
@@ -359,7 +359,7 @@ In the end, the author says that the last 10% of work takes 90% of the time. Fix
 
 In summary, finishing and releasing a game is an enormous amount of work that almost always takes longer than expected. But some amount of unrealistic optimism at the start of a project can be helpful, as long as you commit to doing whatever it takes to complete your vision. Success is hard to guarantee, but giving players a polished, compelling experience at launch is the best way to build an audience.
 
- Here is a summary:
+ 
 
 - Spelunky sold only 17,818 copies in its first week and 33,107 copies in its first month on Xbox Live Arcade. This was significantly less than comparable indie games like Limbo, which sold 78,044 copies its first month, and Fez, which sold 76,312 copies its first month. 
 
@@ -375,7 +375,7 @@ In summary, finishing and releasing a game is an enormous amount of work that al
 
 - Steam was an attractive platform for Spelunky’s PC release due to the lack of strict requirements, easy updating process, and reports of strong sales from other indie developers. The Spelunky team was optimistic about finding success on PC after a modest debut on Xbox Live Arcade.
 
- Here is a summary:
+ 
 
 - The author dislikes rigid boss battles with patterns that must be solved. They prefer bosses that feel like upgraded enemies and can be dealt with creatively. Spelunky’s mini-bosses like the giant spider and Yeti King are examples of this. 
 
@@ -405,7 +405,7 @@ The key points are that the author aimed to make more creative boss fights, adde
 
 - Though Hell seems very challenging, it may not be as hard as it appears, especially coming at the end of the game. The difficulty is meant to test the player's emotions and decision making rather than just their reflexes.
 
- Here is a summary:
+ 
 
 - The mystery box in Spelunky costs $8,000 but contains a random item that could either be very valuable or worthless. However, if you carry an unopened mystery box to an altar of Kali, you will receive a purple eggplant and unlock a secret song. 
 
@@ -441,7 +441,7 @@ The key points are:
 
 - The run involved a lot of skill and close calls to complete. Rex was ultimately able to get the eggplant to Hell in an incredible feat.
 
- Here is a summary:
+ 
 
 - Spelunky is filled with secrets, Easter eggs and details that give the game personality and connect players. Creator Derek Yu added many secrets, even though few players would discover them.
 

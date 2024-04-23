@@ -62,7 +62,7 @@ The book ends with acknowledgments and information about the author's other work
 
 In summary, committing to honesty even in small matters builds trust and understanding in relationships, while lies – even well-intended white lies – can unintentionally mislead or harm people by denying them an accurate view of reality. Speaking the hard truths with empathy and care for the other person is preferable.
 
- Here is a summary:
+ 
 
 - Lying to reassure a friend about their appearance is not helpful, as it prevents them from making changes that could lead to fulfillment. 
 
@@ -80,7 +80,7 @@ In summary, committing to honesty even in small matters builds trust and underst
 
 - Insincere praise is not helpful and treats others like children, failing to prepare them for honest evaluations from others not invested in their feelings. Frank feedback, while difficult, can prevent wasted efforts and point to needed changes.
 
- Here is a summary:
+ 
 
 - Being honest with friends, even if it means giving criticism, builds real trust and shows you respect their talents. When you praise their work later, they'll know it's sincere. 
 

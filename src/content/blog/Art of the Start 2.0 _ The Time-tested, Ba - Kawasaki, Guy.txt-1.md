@@ -125,7 +125,7 @@ The key is not to wait but to launch when you have an imperfect but promising pr
 
 The main ideas are to focus on social media and online word-of-mouth, adapt to how the market responds, market systematically to different adopter groups, reach out widely in the era of perfect information, and tell compelling stories that generate faith in you and your product. More than facts and information is needed.
 
- Here is a summary:
+ 
 
 To make technology accessible to everyone, innovators often face an uphill battle against established players with vast resources. Like David versus Goliath, the underdog can succeed through ingenuity and determination. Examples are Southwest Airlines, Etsy, and Pinterest challenging bigger competitors. 
 

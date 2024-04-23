@@ -30,7 +30,7 @@ BOOK LINK:
 
 - The chapter sets the stage to define SaaS by explaining how the classic model's limitations drove the need for an alternative like SaaS that prioritizes operational efficiency, agility and a standardized experience over customization.
 
- Here is a summary:
+ 
 
 - The traditional model of separate, customized versions of software for each customer undermines agility, speed, innovation, and the ability to rapidly rollout new features or react to market changes. It's difficult and slow to support so many different versions. 
 
@@ -46,7 +46,7 @@ BOOK LINK:
 
 - While shared infrastructure maximizes efficiencies, the core principles of SaaS like agility, scale and value-based pricing can still apply even without complete infrastructure sharing.
 
- Here is a summary:
+ 
 
 - In SaaS, the success depends not just on the application services but also the surrounding shared services that support onboarding, identity, deployment, management, billing, etc. 
 
@@ -60,7 +60,7 @@ BOOK LINK:
 
 - For this book, multi-tenant is defined more broadly as any environment that onboards, deploys, manages and operates tenants through shared services, regardless of infrastructure sharing. The focus is on shared operations not purely shared infrastructure.
 
- Here is a summary:
+ 
 
 - The term "single-tenant" is avoided as it implies something corresponding to "multi-tenant" but doesn't fit well with the SaaS model. Even if infrastructure is not shared, an environment can still be considered multi-tenant if running the same version and managed collectively. 
 
@@ -98,7 +98,7 @@ BOOK LINK:
 
 - There is no one-size-fits-all SaaS architecture. Different patterns and tradeoffs exist. The right approach depends on an application's unique requirements and goals. But multi-tenancy considerations are fundamental to any SaaS architecture.
 
- Here is a summary:
+ 
 
 - A SaaS environment can be conceptualized as having two main parts - the control plane and the application plane. 
 
@@ -114,7 +114,7 @@ BOOK LINK:
 
 - Understanding these high-level control and application planes, and the typical control plane components, provides a foundational model for SaaS architecture.
 
- Here is a summary:
+ 
 
 - Onboarding is a foundational concept that sits at the front door of the SaaS experience and introduces tenants, users, identity, and application resources. It establishes the multi-tenant environment foundation. 
 
@@ -142,7 +142,7 @@ BOOK LINK:
 
 In summary, tenant context, isolation, routing and data partitioning are key architectural considerations for conveying tenant information and ensuring resources are securely separated across shared multi-tenant systems. Flexible strategies are needed to support diverse deployment footprints.
 
- Here is a summary:
+ 
 
 - Multi-tenant application deployment requires considering how tenant resources are shared or dedicated. Deployment automation needs to understand this configuration and potentially deploy services multiple times for dedicated resources. 
 

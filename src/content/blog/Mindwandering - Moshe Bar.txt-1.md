@@ -190,7 +190,7 @@ BOOK LINK:
 
 - Overall, inner communication and understanding others is complex, prone to bias and distortion, and we have limited insight into our own minds. This makes interpersonal communication challenging.
 
- Here is a summary:
+ 
 
 The subconscious mind plays an important role in our thoughts and decisions, even when we believe we are acting consciously and rationally. There is a limit to how much we can understand our own subconscious impulses. Plato spoke of the charioteer (conscious mind) trying to control two horses (the rational and instinctual parts of the subconscious). 
 

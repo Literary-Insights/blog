@@ -28,7 +28,7 @@ BOOK LINK:
 
 - The overall goal is to bridge the gap between recognizing inequality is a problem and identifying practical policy solutions that can be implemented to reduce its extent.
 
- Here is a summary:
+ 
 
 The introduction outlines the structure and main topics covered in the book. It discusses the meaning of inequality and outlines how inequality will be examined from an economic perspective, focusing on inequality of outcomes rather than opportunities. 
 
@@ -72,7 +72,7 @@ So in summary, the passage discusses both the concepts of equality of opportunit
 
 - Economists have historically ignored inequality, but it should be central to economics according to the author. Distribution matters both for individuals and how the economy functions overall.
 
- Here is a summary:
+ 
 
 - The passage examines trends in economic inequality in the US and UK over the past 100 years based on data on income distribution and the Gini coefficient.
 
@@ -138,7 +138,7 @@ So in summary, the passage discusses both the concepts of equality of opportunit
 
 - It notes the analysis so far has not distinguished inequality among different groups like by gender, location or ethnicity. More detailed consideration is given to horizontal dimensions of inequality.
 
- Here is a summary:
+ 
 
 - The ratio of women's average earnings to men's average earnings has increased over time in many OECD countries, rising from 60% in 1960 to 78% by 2013 in the US. However, men still earn on average one-fifth more than women. 
 
@@ -152,7 +152,7 @@ So in summary, the passage discusses both the concepts of equality of opportunit
 
 - Globally, inequality within countries rose initially while between-country inequality widened, but more recently within-country inequality has risen again while between-country differences have narrowed.
 
- Here is a summary:
+ 
 
 - Household surveys are the principal source of data on income inequality today. Many countries conduct regular household surveys that collect information on household income. 
 
@@ -164,7 +164,7 @@ So in summary, the passage discusses both the concepts of equality of opportunit
 
 So in summary, household surveys are the main data source but have issues with comparability and coverage. Understanding their limitations is important for properly evaluating evidence on inequality trends.
 
- Here is a summary:
+ 
 
 - Participation in surveys is usually voluntary, so there is non-response which means information is missing for some people. 
 
@@ -182,7 +182,7 @@ So in summary, household surveys are the main data source but have issues with c
 
 - Wealth data sources include surveys and lists of large wealth holders, as well as indirect information from taxes, but none fully overcome non-response issues.
 
- Here is a summary:
+ 
 
 - Data on inequality comes from a variety of sources like household surveys, tax records, and wealth/inheritance records. All data has imperfections but provides a window into economic trends. 
 
@@ -194,7 +194,7 @@ So in summary, household surveys are the main data source but have issues with c
 
 - World War I on its own did not lead to widespread inequality reduction, but World War II and the ensuing period had more profound redistributive impacts across countries. The interwar period saw some decreases but also complexity with counteracting economic trends.
 
- Here is a summary:
+ 
 
 - During World War 2, inequality fell widely across countries as incomes were compressed. This included both occupied/defeated countries as well as those that remained neutral or allied. 
 
@@ -210,7 +210,7 @@ So in summary, household surveys are the main data source but have issues with c
 
 - High progressive income tax rates also helped contain the impact of rising pre-tax earnings inequality on postwar household disposable incomes in the US until around 1980.
 
- Here is a summary:
+ 
 
 - In the postwar decades, income inequality declined significantly in several European countries, as measured by falling Gini coefficients and top income shares. 
 
@@ -224,7 +224,7 @@ So in summary, household surveys are the main data source but have issues with c
 
 So in summary, the postwar expansion of welfare states and progressive taxation in Europe significantly reduced income inequality for decades, but this trend started reversing in later decades as welfare states faced increasing challenges.
 
- Here is a summary:
+ 
 
 - In the decades after WWII, the welfare state was generally successful in reducing inequality through redistributive policies like taxes and transfers. This helped offset rising inequality in market incomes. 
 
@@ -234,7 +234,7 @@ So in summary, the postwar expansion of welfare states and progressive taxation 
 
 - Data shows the wage share (portion of national income from wages) increased significantly between the 1950s and 1970s in many countries, before declining in most places from the 1970s-2000s as the capital share rose. A higher wage share is associated with lower overall inequality.
 
- Here is a summary:
+ 
 
 - One mechanism that reduced inequality in postwar decades was the rising share of wages in national income. This trend was subsequently reversed. 
 
@@ -246,7 +246,7 @@ So in summary, the postwar expansion of welfare states and progressive taxation 
 
 So in summary, rising wages, declining capital concentration, and reduced earnings dispersion helped reduce inequality in postwar decades, but these trends were subsequently reversed after the 1980s, contributing to rising inequality.
 
- Here is a summary:
+ 
 
 - Unemployment rates increased substantially in many OECD countries from the 1960s-1970s to the 1990s-1995 period. Rates rose from around 1-5% to 6-11% on average across countries like the US, France, UK and Germany. 
 
@@ -258,7 +258,7 @@ So in summary, rising wages, declining capital concentration, and reduced earnin
 
 - In summary, unemployment rose substantially in wealthy nations from the 1960s-1970s to 1990s-1995, contributing to but not solely explaining rising income inequality. Meanwhile, Latin America witnessed a significant reduction in inequality over the 2000s driven by factors like wages and social policies rather than economic growth.
 
- Here is a summary:
+ 
 
 - Globalization and technological change are often cited as contributing factors to rising income inequality. 
 
@@ -272,7 +272,7 @@ So in summary, rising wages, declining capital concentration, and reduced earnin
 
 - However, the assumptions of perfect competition and exogenous market forces can be questioned, as globalization and tech change are driven by decisions that are open to political influence. More analysis of underlying power dynamics is needed.
 
- Here is a summary:
+ 
 
 Technological progress in information and communication technologies is often argued to be "skill-biased," meaning it increases the productivity and demand for skilled/educated workers more than unskilled workers. However, whether this widens income inequality depends on the elasticity of substitution between skilled and unskilled labor. If skilled and unskilled workers can easily substitute for each other, technological progress will continue to increase demand for skilled labor over time. 
 
@@ -294,7 +294,7 @@ Widening inequality also depends on broader economic factors like interest rates
 
 - An economy can exist in different equilibria with either high or low wage differentials/pay dispersion depending on adherence to social norms of fair pay at that point in time. Shocks can trigger shifts between these equilibria.
 
- Here is a summary:
+ 
 
 - The distribution of pay is influenced by market forces and capital markets. As governments privatized state enterprises, it attenuated their leverage to influence pay levels and distributions through public sector employment. This has contributed to a more spread out wage distribution. 
 
@@ -306,7 +306,7 @@ Widening inequality also depends on broader economic factors like interest rates
 
 - While wealth is now widely distributed, capital that controls productive activities is more concentrated. Rising capital per worker generally leads to falling profit shares, but technological change bias toward capital can increase profit shares instead. Most studies find capital-labor substitution is less than one, but technological change matters too.
 
- Here is a summary:
+ 
 
 - Technological progress and labor substitution can happen across different skill categories over time. In the long run, the elasticity of substitution between capital and labor is greater than in the short run, so past trends may not predict the future. 
 
@@ -318,7 +318,7 @@ Widening inequality also depends on broader economic factors like interest rates
 
 - Firms have considerable market power rather than being perfectly competitive. Recognizing firms' market power changes the analysis, as bargaining power can affect how much firms exploit pricing power. Understanding the general equilibrium across labor, capital and product markets is important for analyzing income distribution.
 
- Here is a summary:
+ 
 
 - National income (GDP) includes household income but also incorporates income retained by intervening institutions like the state, companies, and financial services sectors. 
 
@@ -358,7 +358,7 @@ Widening inequality also depends on broader economic factors like interest rates
 
 - Government and policies have a role to play in influencing the direction of technological change to better absorb labor and consider social factors like consumer preferences for human services in some products.
 
- Here is a summary:
+ 
 
 - Maximizing sellers would locate in the middle of the beach to be equidistant from all buyers. However, this is not optimal for minimizing the total distance walked by buyers. 
 
@@ -374,7 +374,7 @@ Widening inequality also depends on broader economic factors like interest rates
 
 - The government has levers to influence the direction of technological change through funding scientific research, patent policy, procurement practices, and other policies. It should explicitly consider the distributional implications of these choices.
 
- Here is a summary:
+ 
 
 - The passage discusses technological change and its impact on different sectors, especially labor-intensive public sector work. It argues that the direction of technological change is not predetermined, but subject to influence through decisions about where to pursue innovation. 
 
@@ -386,7 +386,7 @@ Widening inequality also depends on broader economic factors like interest rates
 
 - In summary, it connects earlier discussions of technology and productivity to the need for balanced power relations between economic actors to support equality goals. Governments should guide technological progress and empower disadvantaged groups through market and policy levers.
 
- Here is a summary:
+ 
 
 - Competition policy should explicitly consider distributional consequences and not just focus on consumer welfare/economic efficiency. Interventions could influence which products firms make available and to whom, impacting lower-income consumers. 
 
@@ -398,7 +398,7 @@ Widening inequality also depends on broader economic factors like interest rates
 
 - While not returning entirely to pre-1980 frameworks, countries should reconsider the appropriate balance of power between labor and capital in their 21st century economies. Strongly limiting unions is unlikely to be the right outcome.
 
- Here is a summary:
+ 
 
 - Colin Crouch highlighted the total absence of UK trade unions in discussions of social policy reform, unlike in other European countries where unions have a formal role in schemes like pensions, sickness insurance and unemployment benefits. 
 
@@ -408,7 +408,7 @@ Widening inequality also depends on broader economic factors like interest rates
 
 - This aims to better balance power among stakeholders and establish a framework where unions can effectively represent workers, bringing the UK more in line with other EU approaches to social partnership. It would require substantial new legislation but build on existing EU policies supporting competition and the social partners' role.
 
- Here is a summary:
+ 
 
 - Retirement as a discrete event separate from work was not a feature of pre-industrial economies, where older workers would gradually work less but continue as long as able. 
 
@@ -420,7 +420,7 @@ Widening inequality also depends on broader economic factors like interest rates
 
 - The intrinsic goal of full employment needs to be distinguished from the instrumental goals, like using employment as an anti-poverty measure or for equality. Political targets and accountability also need to be updated to reflect these complexities.
 
- Here is a summary:
+ 
 
 - The author argues that the goal of government employment policy should be to minimize involuntary unemployment, not maximize total employment. This captures the realities of the 21st century labor market better. 
 
@@ -434,7 +434,7 @@ Widening inequality also depends on broader economic factors like interest rates
 
 - This combines an ambitious unemployment target with a concrete policy mechanism to work towards achieving that target through guaranteed public employment.
 
- Here is a summary:
+ 
 
 - The proposal is for a UK job guarantee scheme that would provide a job to anyone unemployed for over 12 months. It aims to address long-term unemployment. 
 
@@ -446,7 +446,7 @@ Widening inequality also depends on broader economic factors like interest rates
 
 - The proposal advocates for a national pay policy in addition to the job guarantee, including setting a statutory minimum wage at a living wage level and establishing guidelines for pay above minimum through a social dialogue process. The goal is to distribute economic growth more fairly.
 
- Here is a summary:
+ 
 
 - Most OECD countries have adopted a statutory minimum wage to address issues like "sweated trades" where workers receive less than a living wage. 
 
@@ -474,7 +474,7 @@ So in summary, it discusses the rationale for minimum wages, debates the appropr
 
 - To share capital more broadly, the author proposes expanding employee ownership, financing new business through public investment banks, broadening pension savings, incentivizing social ownership models, and taxing inheritances more heavily on large estates. The goal is to offset the tendency toward unequal distribution of wealth when r > g through redistributive policies and expanded access to wealth creation.
 
- Here is a summary:
+ 
 
 - The rate of return on capital (r) can exceed the rate of economic growth (g) even when interest rates are low for individual savers. This is because r reflects returns at the corporate/production level, not what gets passed on to households. 
 
@@ -486,7 +486,7 @@ So in summary, it discusses the rationale for minimum wages, debates the appropr
 
 - Overall, differences between r and g at a societal level, combined with individual investment choices and family dynamics, all influence the distribution of wealth over time and across generations. Policy proposals would need to consider the r side of the equation.
 
- Here is a summary:
+ 
 
 - The Right to Buy program in the UK allowed public housing (council houses) tenants to purchase their homes at heavily discounted prices, with the discounts rising over time. By 2003 over 2.8 million homes had been sold under Right to Buy, generating £36.8 billion for the UK government. 
 
@@ -500,7 +500,7 @@ So in summary, it discusses the rationale for minimum wages, debates the appropr
 
 - High interest rates on loans like payday loans and credit cards allow extraordinary profits in the sector at the expense of borrowers. Debt increases the wealth inequality between households.
 
- Here is a summary:
+ 
 
 - The passage discusses household debt and declining net worth in the US according to studies. In 2007, 18.6% of US households had zero or negative net worth. 
 
@@ -514,7 +514,7 @@ So in summary, it discusses the rationale for minimum wages, debates the appropr
 
 - The passage argues for a universal minimum inheritance or "capital endowment" paid to all at adulthood, drawing on ideas from Thomas Paine and other thinkers. Key questions around implementing such a policy are raised.
 
- Here is a summary:
+ 
 
 - The passage discusses the intergenerational distribution of income and the risk of growing inequality between generations if future household income growth is slower than expected in the past. 
 
@@ -564,7 +564,7 @@ The passage evaluates whether revenue could be maximized by increasing top tax r
 
 - Based on these factors, the author proposes returning the UK top personal income tax rate to 65%, up from the current 45%, while broadening the tax base by removing certain investor reliefs and taxing employer pension contributions.
 
- Here is a summary:
+ 
 
 - Taxable income is worth 50% of Z. This means that for every $1 of taxable income, an individual receives 50 cents in benefits. Stanley S. Surrey called this "upside-down assistance", where higher-income individuals receive more benefits proportionally. 
 
@@ -580,7 +580,7 @@ The passage evaluates whether revenue could be maximized by increasing top tax r
 
 - The author then discusses taxing inheritance and wealth transfers, noting the modest revenue currently from Inheritance Tax in the UK and examining possible reforms.
 
- Here is a summary:
+ 
 
 - The tax on inheritance in the UK had declined from 14% 50 years ago to 5% more recently. However, inheritance is becoming a more important factor in society again. 
 
@@ -606,7 +606,7 @@ The passage evaluates whether revenue could be maximized by increasing top tax r
 
 - Piketty argues for a progressive global tax on capital as the ideal tool to reduce inequality, coupled with high financial transparency standards. A regional step could be a wealth tax above a threshold set by country groups like the EU.
 
- Here is a summary:
+ 
 
 - The chapter discusses expanding social security and welfare state programs to help reduce inequality. Additional tax revenue raised from proposals in Chapter 7 could help finance this. 
 
@@ -628,7 +628,7 @@ The passage evaluates whether revenue could be maximized by increasing top tax r
 
 It argues means-testing is the wrong approach due to these disincentive and complexity issues. In summary, it outlines the three common forms of social security and debates the shifting balance toward means-tested assistance in the UK.
 
- Here is a summary:
+ 
 
 - Welfare forms that require complicated form filling and large amounts of personal information can pose challenges for those with limited literacy or time constraints. The UK child tax credit form in 2013 was 10 pages long with 18 pages of accompanying notes, requiring employer and childcare provider info.
 
@@ -652,7 +652,7 @@ It argues means-testing is the wrong approach due to these disincentive and comp
 
 So in summary, the proposal discusses introducing a universal basic income for adults that would complement rather than replace existing social benefits, paid based on participation rather than just citizenship to address some limitations of using citizenship alone.
 
- Here is a summary:
+ 
 
 This section discusses renewing and reforming social insurance systems as an alternative to basic income proposals. It addresses this in two parts:
 
@@ -670,7 +670,7 @@ The needed reforms could vary by country depending on their existing social prot
 
 In summary, this advocates restoring broad-based social insurance as the main income protection system but adapting it to modern labor market realities, using the UK's recent state pension reforms as one example of how this could work in practice.
 
- Here is a summary:
+ 
 
 - The new state pension system introduced in 2016 offers both simplification and higher pensions over time. However, the increases will be gradual and existing pensioners are not affected. 
 
@@ -756,7 +756,7 @@ So in summary, the passage is providing a theoretical argument for how policies 
 
 So in summary, efficiency wage theories introduce nuance but do not definitively prove that a minimum wage has no negative employment effects. The overall impact depends on the specific context and equilibrium effects. Alternatives to a mandated minimum may also achieve efficiency wage goals.
 
- Here is a summary:
+ 
 
 - Means-tested unemployment assistance in some countries is paid to the family unit and based on total family income. This can disincentivize work for the unemployed person's partner, as their work may provide little additional income. 
 
@@ -770,7 +770,7 @@ So in summary, efficiency wage theories introduce nuance but do not definitively
 
 - Empirically, countries with lower inequality, like Germany and Austria, have experienced growth rates similar to or higher than countries with higher inequality, like the UK and US. So the data does not suggest a clear trade-off between equity and growth. The "proof is in the eating."
 
- Here is a summary:
+ 
 
 - There is a view that globalization today prevents OECD countries from pursuing policies to reduce inequality, like a stronger welfare state, progressive taxation, etc. 
 
@@ -786,7 +786,7 @@ So in summary, efficiency wage theories introduce nuance but do not definitively
 
 - In summary, while globalization forces cannot be dismissed, history shows redistribution can co-exist with it, countries have agency, and cooperation could help manage its effects. So pessimism about reducing inequality due to globalization may be overstated.
 
- Here is a summary:
+ 
 
 - In the late 19th/early 20th century, many European countries established social insurance programs like unemployment insurance, health insurance, pensions to provide protections for workers against risks like unemployment, injury, sickness, old age. 
 
@@ -798,7 +798,7 @@ So in summary, efficiency wage theories introduce nuance but do not definitively
 
 - Whether countries can still afford extensive welfare states in the 21st century global economy is debated, with arguments on both sides around issues like governments' tax-raising abilities in a globalized world.
 
- Here is a summary:
+ 
 
 - The data shows that the total (public + private) social spending in some countries like Mexico and Turkey is similar to the US, even though their public social spending is lower. This suggests private spending may increase to offset decreases in public spending. 
 
@@ -810,7 +810,7 @@ So in summary, efficiency wage theories introduce nuance but do not definitively
 
 - The key issue is maintaining living standards, not competitiveness. Reduced redistribution may lower real incomes of higher-income groups through higher taxes to finance welfare. Global constraints do not mean nothing can be done - there are policy levers within government control.
 
- Here is a summary:
+ 
 
 - The passage discusses real estate investment funds that purchase property, including housing, overseas. This led to public backlash in some cases as tenants lacked protections under the new ownership. 
 
@@ -822,7 +822,7 @@ So in summary, efficiency wage theories introduce nuance but do not definitively
 
 - In summary, while globalization faces challenges, governments still have scope to shape policies and regulate in the public interest. Growing international cooperation also provides avenants to address some issues collectively.
 
- Here is a summary:
+ 
 
 - This chapter aims to analyze whether the proposals to reduce inequality in the UK can be financially affordable. It uses economic models of taxes and benefits to assess the budgetary impact. 
 
@@ -834,7 +834,7 @@ So in summary, efficiency wage theories introduce nuance but do not definitively
 
 - The models also allow investigating the impact on inequality and poverty reduction. However, not all proposals can be quantified - only the direction of their effects can be predicted. Overall fiscal feasibility is demonstrated, not complete distributional analysis.
 
- Here is a summary:
+ 
 
 - Tax-benefit models were used to assess the potential costs and impacts of proposals to reform the tax and benefit system in the UK in a more sophisticated way than previous "back of the envelope" calculations. 
 
@@ -876,7 +876,7 @@ So in summary, tax-benefit models provide a sophisticated tool for policy analys
 
 So in summary, while both options show benefits, the proposals centered around introducing a participation income appear to more significantly reduce income inequality and poverty according to the analyses and targets provided.
 
- Here is a summary:
+ 
 
 - The proposals are intended to reduce both the extent and depth of poverty in the UK. The depth of poverty is measured by the poverty gap, which shows the average shortfall from the poverty threshold. 
 
@@ -894,7 +894,7 @@ So in summary, while both options show benefits, the proposals centered around i
 
 - However, the calculations do not fully account for behavioral changes, so impacts may differ in reality. And more is needed to directly reduce pre-tax income inequality through employment and ownership policies.
 
- Here is a summary:
+ 
 
 - The question is how significant reductions in inequality can be achieved. The book outlines proposals rather than describing an ultimately desirable end state, as addressing current issues rather than proposing utopian ideals. 
 
@@ -906,7 +906,7 @@ So in summary, while both options show benefits, the proposals centered around i
 
 - Bold measures are needed to meaningfully reduce high inequality, not just tweaks. Political will and leadership is crucial due to the relationship between inequality and influence. Past examples show reductions are possible without utopian thinking.
 
- Here is a summary:
+ 
 
 - The passage discusses the need for a holistic, multi-level approach to combatting inequality and poverty across different levels of government - from local to international. 
 
@@ -1122,7 +1122,7 @@ So in summary, detailed figure sources are provided to allow tracing of the data
 
 - The ECB coordinates with other central banks and international institutions like the IMF and is part of the global network of central banks that cooperated during the 2008 financial crisis.
 
- Here is a summary:
+ 
 
 - Dividends: As a percentage of national income, dividends were around 100-104% from 100, 101, 161. Dividends are also compared to GDP, which was 102, 147%. 
 
@@ -1170,7 +1170,7 @@ So in summary, the key points are that Horatio Levy and Christine Luetz argue ba
 
 - Specific proposals discussed are a participation income benefit (Proposal 13), a Child Benefit (Proposal 12), and a Minimum Pension Guarantee.
 
- Here is a summary:
+ 
 
 - UK has seen increases in economic inequality over time, though it reduced inequality in the past through programs like the National Health Service. 
 

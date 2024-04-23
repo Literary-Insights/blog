@@ -26,7 +26,7 @@ BOOK LINK:
 
 - The book aims to use different foods to reveal insights into economics and challenge ingrained assumptions. Just as the Koreans' love of garlic contrasts with British suspicion of it, the book will use examples from around the world to shake up established economic thinking.
 
- Here is a summary:
+ 
 
 The author moved from Korea to Britain in 1982, which was an extremely long trip at the time. Flights from Korea could not fly over communist countries, so he flew to Alaska, then Europe, before finally reaching London - a 24 hour journey. 
 

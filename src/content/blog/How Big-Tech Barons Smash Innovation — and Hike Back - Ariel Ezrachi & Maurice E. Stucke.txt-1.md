@@ -194,7 +194,7 @@ Does this help summarize the key ideas about how Tech Barons can use exclusion f
 
 - To foster competition, policymakers should examine how Tech Barons leverage scale for self-preferencing and limiting genuine consumer choice. More transparency is needed.
 
- Here is a summary:
+ 
 
 The text discusses how dominant technology companies like Google can steer users away from adopting innovations that threaten their business models, while promoting technologies that reinforce their power. It describes various tactics they use:
 

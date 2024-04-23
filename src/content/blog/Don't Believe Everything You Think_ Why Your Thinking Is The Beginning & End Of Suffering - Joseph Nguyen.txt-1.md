@@ -90,7 +90,7 @@ The summary emphasizes that while pain is inevitable, suffering stems from our r
 
 - We don't need to think positive, we just need to think less and be present to access our innate joy, love, and peace. Reducing thinking connects us to our true nature.
 
- Here is a summary:
+ 
 
 It is not possible to completely stop thinking, but we can reduce the time we spend caught up in thinking. When we become aware that thinking is the root cause of our suffering, it helps us detach from it and let it settle on its own. 
 

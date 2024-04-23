@@ -206,7 +206,7 @@ BOOK LINK:
 
 - Imprecise use of terms like "self-driving" and "autonomous" has fueled unrealistic hopes about the imminent availability of fully autonomous cars. In reality, significant technical hurdles remain.
 
- Here is a summary:
+ 
 
 Self-driving cars require stable environments to operate safely and effectively. While automation has been successful in aviation, driving a car is more complex due to the proximity of other vehicles, cyclists, and pedestrians. The "stable world" principle suggests that for A.I., like self-driving cars, to work well, the environment and human behavior must be adapted to be more predictable. This means redesigning cities and roads to create the stable conditions algorithms need, such as banning human drivers from specific areas. 
 
@@ -654,7 +654,7 @@ In summary, technology companies utilize persuasive techniques grounded in psych
 
 - Still, many companies must rigorously measure ad effectiveness and waste budgets on questionable campaigns due to internal conflicts of interest and lack of accountability.
 
- Here is a summary:
+ 
 
 The article discusses how even professionals and elite students need help evaluating online sources' trustworthiness. It describes an experiment in which professional fact checkers, history professors, and Stanford students were asked to assess the credibility of a website about the minimum wage. The fact checkers were most skilled at detecting the website's hidden agenda, using strategies like quickly leaving the site to research the organization behind it. In contrast, many professors and students focused only on analyzing the content on the site itself. 
 

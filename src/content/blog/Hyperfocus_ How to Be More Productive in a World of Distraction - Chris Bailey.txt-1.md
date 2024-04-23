@@ -118,7 +118,7 @@ The key point is that our attention is a precious, limited resource. We need to 
 
 - Check in with yourself when feeling overwhelmed to assess what is occupying your attention. Simplifying can help avoid attentional overload.
 
- Here is a summary:
+ 
 
 - Ace teaches us to maintain just enough space in our attention to work and live intentionally throughout the day. This allows us to spend more time on what's important and meaningful in the moment. 
 

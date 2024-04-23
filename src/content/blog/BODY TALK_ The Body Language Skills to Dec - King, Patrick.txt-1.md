@@ -11,7 +11,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 ---
 
 
- Here is a summary:
+ 
 
 - Body language refers to the unspoken signals people send through physical behaviors, gestures, and expressions. 
 - Professor Mehrabian found that physical signals comprise 55% of communication, vocal tone 38%, and words only 7%. Body language is mostly universal and innate.
@@ -127,7 +127,7 @@ In summary, body language provides many clues to someone's emotional and mental 
 
 In summary, while certain signals may indicate deception, all of these behaviors could also have innocent explanations. The only way to determine if someone is lying with high confidence is to look for clusters of these signals, consider the overall context, and look for changes in the person's normal behavior and communication style. But there is always a possibility of misreading someone, so these signs should not be considered definitive proof of deception on their own.
 
- Here is a summary:
+ 
 
 - In general, males and females differ in how they express attraction. Males tend to be more direct while females tend to be more subtle. 
 
@@ -145,7 +145,7 @@ In summary, while certain signals may indicate deception, all of these behaviors
 
 So in summary, look for confident and engaged body language and behavior, eye contact, physical closeness and subtle feminine sensuality in females. But be aware signals may be mixed or subtle. For males, look for nervous and excited behavior, eye contact, laughter, leaning in and a straighter, more confident posture. Their signals are often more direct. But again, context is key. 
 
- Here is a summary:
+ 
 
 • Eye contact that lingers a bit too long, especially paired with a smile, is a sign of interest. Dilated pupils also indicate comfort and attraction. Lack of emotion in the eyes during eye contact may signal only basic interest. 
 
@@ -161,7 +161,7 @@ So in summary, look for confident and engaged body language and behavior, eye co
 
 • People aren’t naturally good liars. Lying causes confusion in the body, resulting in “tells” like changes in tone of voice or eye contact, facial expressions, posture changes, and hand gestures that seem out of place. With practice, liars can control their words but often not their body language.
 
- Here is a summary:
+ 
 
 • Allergy season often brings anxiety or deception. Covering eyes, avoiding eye contact are signs. Too much or too little eye contact can also indicate lying.
 

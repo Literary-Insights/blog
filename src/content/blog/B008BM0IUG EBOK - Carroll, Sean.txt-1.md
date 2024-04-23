@@ -28,7 +28,7 @@ BOOK LINK:
 
 - After decades of anticipation and theorizing, particle physicists like Hewett were finally able to test their ideas against real data from particle collisions at the highest energies ever achieved in a laboratory. This marked the beginning of a new era of discovery with the LHC.
 
- Here is a summary:
+ 
 
 - Physicists at CERN announced the discovery of a new particle on July 4, 2012 through experiments conducted at the Large Hadron Collider. The particle showed properties consistent with the theoretical Higgs boson particle. 
 
@@ -40,7 +40,7 @@ BOOK LINK:
 
 - The discovery marked the beginning of a new era in physics and provided clues about unknown realms yet to be explored through continued study of subatomic particles like the Higgs. It was a triumph and turning point for the field.
 
- Here is a summary:
+ 
 
 - All matter in the real world, from small particles to large objects, is made up of combinations of elementary particles. Ancient cultures proposed that everything was made of combinations of basic "elements" like earth, air, fire and water. 
 
@@ -52,7 +52,7 @@ BOOK LINK:
 
 - Basic particle physics research may not have immediate practical applications but drives fundamental understanding of nature and has repeatedly led to enormous technological benefits through spin-offs of that basic knowledge over time.
 
- Here is a summary:
+ 
 
 - The term "God Particle" became popularly used to refer to the Higgs boson due to physicist Leon Lederman coining the phrase in his 1993 book about the particle. 
 
@@ -64,7 +64,7 @@ BOOK LINK:
 
 - Though the name implies a religious significance it does not have, Lederman's catchy phrase helped raise public awareness and interest in the complex world of particle physics and the scientific quest to understand fundamental forces and particles.
 
- Here is a summary:
+ 
 
 - Physicists generally dislike the nickname "God Particle" for the Higgs boson, which was popularized by the book of that title by physicist Leon Lederman and Dick Teresi. Lederman said the publisher wouldn't let them call it the "Goddamn Particle." 
 
@@ -74,7 +74,7 @@ BOOK LINK:
 
 - The nickname draws attention but also offends some believers and non-believers. While attention-grabbing, Lederman and Teresi intended to convey the importance of discovering the Higgs in understanding nature, not to imply a relationship to God. Finding it would not prove or disprove the existence of God.
 
- Here is a summary:
+ 
 
 - The Higgs boson is described as being at the "explanatory end" of our understanding of particle physics, rather than spatially at the end of the universe. It is the final piece needed to complete the Standard Model.
 
@@ -88,7 +88,7 @@ BOOK LINK:
 
 So in summary, the Higgs boson was predicted to be essential to complete our theoretical framework for understanding matter and forces at the most fundamental level.
 
- Here is a summary:
+ 
 
 - There are two main "nuclear" forces - the strong nuclear force and the weak nuclear force. 
 
@@ -104,7 +104,7 @@ So in summary, the Higgs boson was predicted to be essential to complete our the
 
 So in summary, it outlines the key differences between the strong and weak nuclear forces, their force-carrying particles, and how the Higgs field helps explain the odd properties of the weak force.
 
- Here is a summary:
+ 
 
 - Matter is made up of atoms, which are the smallest units that retain the chemical properties of an element. 
 
@@ -120,7 +120,7 @@ So in summary, it outlines the key differences between the strong and weak nucle
 
 In summary, through systematic experimentation and theoretical developments, physics has identified a small number of elementary particles that underlie all of chemistry and the vast variety we observe in nature.
 
- Here is a summary:
+ 
 
 - The traditional cartoon model of an atom depicts electrons orbiting a central nucleus. In reality, electrons exist as probabilistic "clouds" or wave functions rather than having a definite position and velocity. 
 
@@ -134,7 +134,7 @@ In summary, through systematic experimentation and theoretical developments, phy
 
 So in summary, it outlines the traditional atomic model, discoveries of antimatter and neutrinos that expanded the standard model, and notes quantum mechanics provides a more accurate description of electrons than definite orbits.
 
- Here is a summary:
+ 
 
 - Neutrons were originally thought to decay via an unknown "weak nuclear force" as their decay was not well explained by known forces of gravity, electromagnetism, or the strong nuclear force. 
 
@@ -146,7 +146,7 @@ So in summary, it outlines the traditional atomic model, discoveries of antimatt
 
 - Forces arise from the exchange of boson particles between fermions like leptons and quarks. The four main forces are electromagnetism, weak force, strong force, and gravity. The Higgs is a unique scalar boson not directly related to symmetries like the other boson force carriers.
 
- Here is a summary:
+ 
 
 - The Higgs boson interacts more strongly with more massive elementary particles like quarks, leptons, and W/Z bosons. The more mass a particle has, the more it couples to the Higgs field.
 
@@ -158,7 +158,7 @@ So in summary, it outlines the traditional atomic model, discoveries of antimatt
 
 - Collisions at high energy allow the conversion of energy into mass via E=mc2. Colliding particles can generate new, heavier particles if their total energy exceeds the mass of the new particles. This process underlies the creation of new particles in accelerators.
 
- Here is a summary:
+ 
 
 - The electron volt (eV) is a common unit used in particle physics to measure energy. It represents the amount of energy needed to move one electron across a voltage of one volt. 
 
@@ -172,7 +172,7 @@ So in summary, it outlines the traditional atomic model, discoveries of antimatt
 
 - The LEP collider precisely collided electrons and positrons for precision measurements, while hadron colliders like the LHC use protons for discovery potential despite less precise collisions.
 
- Here is a summary:
+ 
 
 - SLAC, Brookhaven, and Fermilab have all contributed significantly to particle physics experiments and discoveries in the US, alongside CERN's efforts in Europe. 
 
@@ -184,7 +184,7 @@ So in summary, it outlines the traditional atomic model, discoveries of antimatt
 
 - These three US labs have been important contributors to the Standard Model alongside CERN's efforts, through accelerators, experiments, and discoveries made over decades of work.
 
- Here is a summary:
+ 
 
 - The Tevatron particle collider at Fermilab was the last major high-energy collider in the US. It was shut down in 2011 as its energy was surpassed by the newly operational LHC. 
 
@@ -198,7 +198,7 @@ So in summary, it outlines the traditional atomic model, discoveries of antimatt
 
 - With the SSC canceled, US physicists successfully lobbied for greater involvement in the Large Hadron Collider (LHC) project in Europe, helping to move it forward as the new flagship particle collider.
 
- Here is a summary:
+ 
 
 - In September 2008, just 9 days after successfully circulating the first protons, the Large Hadron Collider (LHC) experienced an explosion. A faulty connection in a superconducting magnet joint caused an electrical arc that ruptured a helium vessel. Over 50 magnets had to be replaced. 
 
@@ -210,7 +210,7 @@ So in summary, it outlines the traditional atomic model, discoveries of antimatt
 
 - The LHC shows how large-scale international collaboration on "Big Science" projects can achieve remarkable results, pushing the boundaries of human knowledge. Its success is a testament to scientific ingenuity and perseverance.
 
- Here is a summary:
+ 
 
 - The LHC project was conceived as a less ambitious alternative to the canceled SSC project in the US. It would reuse the existing LEP tunnel at CERN but have a higher target energy of 14 TeV compared to LEP's 4 TeV. 
 
@@ -222,7 +222,7 @@ So in summary, it outlines the traditional atomic model, discoveries of antimatt
 
 - The LHC accelerates protons around its 27km ring using electric fields to give small boosts to their speed each turn, like nudging a ball around a pole. Its two beams each contain around 500 trillion protons when operating at full capacity.
 
- Here is a summary:
+ 
 
 - Protons are accelerated in the LHC to speeds very close to the speed of light using a series of preliminary accelerators before entering the main ring. They are grouped into bunches and tightly focused into a thin beam. 
 
@@ -234,7 +234,7 @@ So in summary, it outlines the traditional atomic model, discoveries of antimatt
 
 - Luminosity measures the rate of collisions and improved greatly from 2010-2012, enabling new discoveries like the Higgs boson ahead of schedule. Careful operation is needed due to the large energies involved.
 
- Here is a summary:
+ 
 
 - Particle physicists discover new particles by colliding other particles like protons together at high speeds in large detectors at facilities like the Large Hadron Collider (LHC). 
 
@@ -246,7 +246,7 @@ So in summary, it outlines the traditional atomic model, discoveries of antimatt
 
 - Identifying particles from collision data is a combination of science, technology and interpretation that is crucial for discovering new subatomic particles.
 
- Here is a summary:
+ 
 
 - ATLAS and CMS are the two main particle detector experiments at the LHC, located on opposite sides of the ring. They are much larger than previous experiments, weighing over 7,000 and 13,000 tons respectively. 
 
@@ -260,13 +260,13 @@ So in summary, it outlines the traditional atomic model, discoveries of antimatt
 
 - While ATLAS and CMS compete to make discoveries first, they also verify each other's results due to the importance of confirmation in high-energy physics. This system of competition and collaboration has enabled top-quality science.
 
- Here is a summary:
+ 
 
 The passage describes the process of colliding protons at the Large Hadron Collider (LHC) experiments like CMS and ATLAS. When protons collide at high energies, they are contracted into pancake shapes due to relativity. Inside the protons are quarks, antiquarks, and gluons called partons. It's these partons that actually interact during collisions, not the protons as a whole. 
 
 Collisions produce a messy spray of particles, often over 100 hadrons from a single event. This pileup makes it hard to distinguish what happened. Detectors must detect and identify the various particles that could be produced, like quarks/gluons appearing as jets, electrically charged electrons/photons, heavy particles decaying before detection, and neutrinos which are not detected. Missing transverse momentum calculations accounting for invisible neutrinos are important. Muons are also highlighted as they leave detectable tracks but can penetrate detectors unlike electrons. Working together, CMS and ATLAS aim to precisely measure collisions to discover new particles like the Higgs boson.
 
- Here is a summary:
+ 
 
 - The Khafre and Khufu pyramids sit next to each other outside Cairo. Khufu's is larger but erosion has made Khafre's slightly larger now. 
 
@@ -278,7 +278,7 @@ Collisions produce a messy spray of particles, often over 100 hadrons from a sin
 
 - The layers work together to identify particles emerging from collisions before they decay or escape. However, the enormous data from the LHC poses huge storage and processing challenges given how much information is produced. Most data must be discarded in real-time to focus on interesting collision events.
 
- Here is a summary:
+ 
 
 - The chapter discusses the Insane Clown Posse's song "Miracles" and their wonder at phenomena like magnets and how they work. While magnetism is scientifically understood, their questioning highlights how magnetic force at a distance can seem mysterious. 
 
@@ -304,7 +304,7 @@ In summary, the chapter uses the Insane Clown Posse's song to illustrate how mag
 
 So in summary, fields were a breakthrough in conceptualizing forces as arising from local properties of space, helping unify disparate phenomena, and in understanding how particles emerge from deeper underlying continuous fields.
 
- Here is a summary:
+ 
 
 - Physicists wondered if gravity, like electromagnetism, propagates as waves. General Relativity predicts gravitational waves that could be produced by binary star systems. 
 
@@ -314,7 +314,7 @@ So in summary, fields were a breakthrough in conceptualizing forces as arising f
 
 - Quantum mechanics brought together the concept of particles and fields. Fields exist everywhere but appear particulate at short distances or high energies. This helped explain phenomena like the quantization of light and electron behavior. Efforts to detect ever smaller scales require higher particle energies, explaining the large size of experiments like the LHC.
 
- Here is a summary:
+ 
 
 - The photoelectric effect kicked off the development of quantum mechanics as Einstein realized light acts as discrete packets of energy (photons) rather than a continuous wave. This helped explain experimental observations.
 
@@ -326,7 +326,7 @@ So in summary, fields were a breakthrough in conceptualizing forces as arising f
 
 - Matter is best described not as particles but as quantum fields that vibrate. When observed closely enough, fields appear as discrete particles like electrons, photons, etc. This explained phenomena like radioactivity and particle creation/annihilation.
 
- Here is a summary:
+ 
 
 The passage discusses the Higgs boson and Higgs field through various analogies and explanations. It notes that the Higgs field permeates all of space and gives mass to other fundamental particles like electrons. 
 
@@ -336,7 +336,7 @@ The Higgs boson is a unique particle in that it arises from a field that fills a
 
 The passage provides the analogy that the Higgs field is like the air or water that particles interact with everywhere. It is always present even if not directly noticed. Finally, it describes how a group of CERN physicists won a bottle of champagne for providing then-UK science minister William Waldegrave with a simple one-page explanation of the Higgs boson that he could understand, showing how important clear communication of these concepts is.
 
- Here is a summary:
+ 
 
 - Five people got bottles of champagne, suggesting they were celebrating something. 
 
@@ -350,7 +350,7 @@ The passage provides the analogy that the Higgs field is like the air or water t
 
 - While giving a simplified explanation, it summarizes the key points about the Higgs field and how it is thought to give other elementary particles their mass through interaction.
 
- Here is a summary:
+ 
 
 - Mass is a measure of how much matter is in an object or how difficult it is to accelerate the object. A larger mass object like a car requires more energy to move than a smaller mass object like a bicycle. 
 
@@ -364,7 +364,7 @@ The passage provides the analogy that the Higgs field is like the air or water t
 
 - The Higgs field breaks symmetry by making particles that would otherwise be identical (like electrons, muons and taus) have different masses depending on their interaction strength with the Higgs.
 
- Here is a summary:
+ 
 
 - Symmetries are transformations that leave an object looking the same, such as rotating or reflecting a geometric shape. 
 
@@ -380,7 +380,7 @@ The passage provides the analogy that the Higgs field is like the air or water t
 
 So in summary, deeper underlying symmetries are crucial in physics because they directly relate to fundamental forces via necessary connection fields. More symmetric systems have stronger constraints and simpler descriptions.
 
- Here is a summary:
+ 
 
 - The four fundamental forces of nature - gravity, electromagnetism, strong nuclear force, and weak nuclear force - are all based on underlying symmetries in physics. 
 
@@ -398,7 +398,7 @@ So in summary, deeper underlying symmetries are crucial in physics because they 
 
 So in summary, fundamental forces arise from underlying symmetries and connection fields, even if the symmetries are hidden, broken or approximate in nature.
 
- Here is a summary:
+ 
 
 - The underlying laws of physics often have symmetries, but the environment can break these symmetries by picking out a preferred state or direction. This is called spontaneous symmetry breaking. 
 
@@ -428,7 +428,7 @@ So in summary, fundamental forces arise from underlying symmetries and connectio
 
 So in summary, it involves theoretical understanding of production mechanisms, experimental detection and measurement, and rigorous statistical analysis to identify Higgs candidates and rule out alternative explanations.
 
- Here is a summary:
+ 
 
 - Feynman diagrams provide a visual way to represent interactions between particles in quantum field theory. They correspond to calculations of probability for interactions. 
 
@@ -442,7 +442,7 @@ So in summary, it involves theoretical understanding of production mechanisms, e
 
 So in summary, Feynman diagrams represent particle interactions probabilistically, gluon fusion is a key Higgs production mechanism, and detecting Higgs decays requires separating its signature from large backgrounds.
 
- Here is a summary:
+ 
 
 - The Higgs boson can decay into several different particle combinations, including Z boson pairs, tau lepton pairs, photons, and others. These decay processes are all relatively rare but detectable at large particle collider experiments like the LHC.
 
@@ -454,7 +454,7 @@ So in summary, Feynman diagrams represent particle interactions probabilisticall
 
 - Different Higgs decay channels are studied as different "search channels" at the LHC, defined by the detectable final state particles. The goal is to see a small signal excess above large comparable background in at least one channel.
 
- Here is a summary:
+ 
 
 - At the Large Hadron Collider, proton collisions produce a variety of particle events that can be detected and analyzed. The total energy of outgoing particles is measured. 
 
@@ -472,7 +472,7 @@ So in summary, Feynman diagrams represent particle interactions probabilisticall
 
 - Both experiments scheduled major seminars in July to announce a potential discovery of the Higgs boson or other new result.
 
- Here is a summary:
+ 
 
 - In July 2012,CMS and ATLAS experiments at CERN separately announced findings of a new particle consistent with the Higgs boson at around 125 GeV, with a statistical significance of over 5 sigma when channels were combined. This constituted a discovery.
 
@@ -484,7 +484,7 @@ So in summary, Feynman diagrams represent particle interactions probabilisticall
 
 - The discovery was a confirmation of the Brout-Englert-Higgs mechanism and a major milestone, but also left questions to be answered about the precise nature and properties of the new particle.
 
- Here is a summary:
+ 
 
 - Announcing new particle physics results from large experiments like ATLAS and CMS is a complex process, not like publishing a typical peer-reviewed paper. 
 
@@ -502,7 +502,7 @@ So in summary, Feynman diagrams represent particle interactions probabilisticall
 
 - Eventually results are published or publicly announced if they pass this rigorous multi-stage internal review.
 
- Here is a summary:
+ 
 
 - An experimental physicist may get an idea for a new analysis from a student and bring it to their working group (focused on topics like top quarks, Higgs, exotic particles) for review. 
 
@@ -526,7 +526,7 @@ Another example is an internal ATLAS memo suggesting a possible Higgs signal bei
 
 Overall, the comment argues large collaborations now face challenges from rumors spreading online before results are finalized. While new technologies enable sharing, they also mean collaborations lose some control over internal discussions and preliminary findings.
 
- Here is a summary:
+ 
 
 - Hollywood is often interested in science and uses consultants to help portray science accurately in films. The production company behind Angels & Demons consulted the author about particle physics for the film. 
 
@@ -536,7 +536,7 @@ Overall, the comment argues large collaborations now face challenges from rumors
 
 - The project, called Particle Fever, aimed to convey the high stakes of the LHC program for the future of particle physics and science. It received significant support from funding organizations and renowned filmmakers to help complete the documentary.
 
- Here is a summary:
+ 
 
 - The story relates how Niels Bohr hid Nobel Prize medals from Nazis during WWII by dissolving them in acid, preserving the gold atoms. 
 
@@ -548,7 +548,7 @@ Overall, the comment argues large collaborations now face challenges from rumors
 
 - The chapter explores the history behind the Higgs boson and search for it in more technical detail than previous chapters, to better understand how the idea developed over time through many contributions, not just a few individuals. Who might win Nobels is not as important as understanding the science.
 
- Here is a summary:
+ 
 
 - In the late 1940s and early 1950s, physicists like Julian Schwinger argued that forces based on symmetries must be carried by massless particles. However, Schwinger later realized this argument had a loophole allowing gauge bosons to potentially gain mass.
 
@@ -560,7 +560,7 @@ Overall, the comment argues large collaborations now face challenges from rumors
 
 So in summary, theories of superconductivity inspired the concept of spontaneous symmetry breaking, which was later developed and applied to the weak force, allowing the W and Z bosons to gain mass while still preserving the underlying electroweak symmetry.
 
- Here is a summary:
+ 
 
 - When a global symmetry is spontaneously broken, normally there would be N scalar bosons with equal masses. After symmetry breaking, all but one become massless Nambu-Goldstone bosons, while the remaining one is massive. 
 
@@ -570,7 +570,7 @@ So in summary, theories of superconductivity inspired the concept of spontaneous
 
 - Englert and Brout's paper was the first to appear. It had two kinds of fields - a gauge boson and symmetry-breaking scalar fields that take on a value in empty space. They showed the gauge field becomes massive through its interaction with the scalar fields.
 
- Here is a summary:
+ 
 
 - In 1964, Guralnik, Hagen, and Kibble were collaborating on a paper about spontaneous symmetry breaking in gauge theories at Imperial College London. 
 
@@ -598,7 +598,7 @@ So in summary, theories of superconductivity inspired the concept of spontaneous
 
 - Glashow's model represented early progress toward what became known as electroweak unification theory, but his boson mass proposal was still ad hoc and the theory was not renormalizable. Further developments were still needed.
 
- Here is a summary:
+ 
 
 - Abdus Salam and John Ward were frequent collaborators, working together on unifying theories of the fundamental forces. Both were highly accomplished physicists individually. 
 
@@ -614,7 +614,7 @@ So in summary, theories of superconductivity inspired the concept of spontaneous
 
 - While many contributed to the theory, it became known as the "Higgs mechanism" and "Higgs boson" due to historical factors like influential talks, even though Higgs was not alone in developing the ideas.
 
- Here is a summary:
+ 
 
 - Vera Rubin was a pioneer in astronomical research who faced obstacles due to gender discrimination. She was interested in studying galaxy dynamics rather than just their central regions. 
 
@@ -626,7 +626,7 @@ So in summary, theories of superconductivity inspired the concept of spontaneous
 
 - Rubin's work overcame prejudices against women in science and helped reveal the prevalence of invisible dark matter throughout the universe. Her persistence and willingness to look beyond the norm led to a pivotal astronomical discovery.
 
- Here is a summary:
+ 
 
 - Astronomical observations show there is more matter in the universe than just the "ordinary" matter we can see (atoms, stars, galaxies). This "missing" matter is known as dark matter. 
 
@@ -650,7 +650,7 @@ So in summary, theories of superconductivity inspired the concept of spontaneous
 
 - The Standard Model has unnatural fine-tuning problems with the Higgs field vacancy expectation value and vacuum energy being much smaller than predictions based on quantum effects involving virtual particles. This points to possible new physics beyond the Standard Model.
 
- Here is a summary:
+ 
 
 - The hierarchy problem refers to the huge numerical difference between the observed Higgs field value (246 GeV) and the Planck scale of gravity (1018 GeV). Quantum effects should drive the weak scale up to the Planck scale, so this difference is puzzling. 
 
@@ -660,7 +660,7 @@ So in summary, theories of superconductivity inspired the concept of spontaneous
 
 - While speculative, supersymmetry has desirable theoretical properties. It is currently the most popular proposal for new physics beyond the Standard Model, but no direct evidence supports it yet. Its parametric freedom makes specific predictions difficult.
 
- Here is a summary:
+ 
 
 - Supersymmetry predicts that there should be superpartners for all standard model particles like quarks, electrons, photons, etc. 
 
@@ -672,7 +672,7 @@ So in summary, theories of superconductivity inspired the concept of spontaneous
 
 So in summary, supersymmetry makes specific predictions about new particles like charginos, neutralinos and multiple Higgs bosons that experiments like the LHC can search for to test this theory.
 
- Here is a summary:
+ 
 
 - String theory predicts the existence of extra dimensions beyond the usual 3 spatial dimensions and 1 time dimension. However, these extra dimensions must be "compactified" or curled up into an extremely small scale in order to agree with experimental observations that only see 3+1 dimensions.
 
@@ -684,7 +684,7 @@ So in summary, supersymmetry makes specific predictions about new particles like
 
 So in summary, string theory predicts extra dimensions but knowing how they are compactified is key to making testable predictions, and the large number of compactifications complicates connecting string theory to experiments. The multiverse idea was proposed but also makes clean predictions difficult.
 
- Here is a summary:
+ 
 
 - Basic scientific research like that done at the Large Hadron Collider (LHC) costs billions of dollars in taxpayer funding. Scientists have an obligation to convincingly explain the value of this investment. 
 
@@ -694,7 +694,7 @@ So in summary, string theory predicts extra dimensions but knowing how they are 
 
 - While LHC discoveries may not enable technologies like warp drive or levitation as some speculate, particle physics research does often lead to "spinoffs" - new technologies developed to solve experimental challenges that have broader applications, like the World Wide Web. Investing in basic science provides knowledge about the universe and stimulates unanticipated innovation.
 
- Here is a summary:
+ 
 
 - The passage discusses the future of particle physics and potential next steps after the Large Hadron Collider (LHC). One option is upgrading the LHC to higher energies, but a more permanent solution is needed. 
 
@@ -706,7 +706,7 @@ So in summary, string theory predicts extra dimensions but knowing how they are 
 
 - The passage ends by discussing inspiration from science - building projects like the LHC inspire curiosity in young people, as demonstrated by the excitement around the Higgs boson discovery. Particle physics traces back to ancient Greek philosophers' fundamental inquiries into nature.
 
- Here is a summary:
+ 
 
 - Ancient Greek philosophers like the Epicureans grappled with defining ethics and finding meaning in life given their atomic view of the universe. Epicurus located value in experiencing pleasure in moderation and cherishing friendship. 
 
@@ -716,7 +716,7 @@ So in summary, string theory predicts extra dimensions but knowing how they are 
 
 - Spin is a fundamental property in quantum mechanics. Angular momentum comes only in discrete units of Planck's constant divided by 2pi. Elementary particles can have intrinsic spin even without literal rotation. The Higgs field breaks symmetries that otherwise would forbid particle masses given their spin properties.
 
- Here is a summary:
+ 
 
 Angular momentum refers to the classical phenomenon of an object moving around another object, also known as orbital angular momentum. 
 
@@ -746,7 +746,7 @@ The number of possible spin measurement outcomes corresponds to the number of "d
 
 So in summary, the behavior of the weak force requires a relationship between helicity and mass that is only resolved by the Higgs mechanism breaking electroweak symmetry and generating fermion masses.
 
- Here is a summary:
+ 
 
 - The passage discusses different force-carrying particles (bosons) in particle physics. 
 
@@ -760,7 +760,7 @@ So in summary, the behavior of the weak force requires a relationship between he
 
 - Gluons carry the strong force between quarks and are massless. The passage notes that once again, gluons are related by an unbroken symmetry, so they don't need specific labels, just like photons which also don't interact directly with themselves.
 
- Here is a summary:
+ 
 
 - Diagrams can show virtual particles that don't directly obey mass-energy conservation as long as they decay back into particles below the parent particle's mass. For example, a muon can emit a heavier W boson virtually that then decays into lighter particles. 
 

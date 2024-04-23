@@ -71,7 +71,7 @@ Does this summary accurately capture the essence of the concepts and arguments p
 
 Does this help summarize the key ideas? Let me know if you have any other questions. I’m happy to clarify or reinforce any part of this summary. The most important thing is starting wherever you are and practicing taking in the good each day. Over time, it can make a meaningful difference.
 
- Here is a summary:
+ 
 
 To cultivate comfort, joy and inner peace in your daily life:
 
@@ -91,7 +91,7 @@ To cultivate comfort, joy and inner peace in your daily life:
 
 • This is an ongoing practice. But each time you recognize the positive, enrich and absorb an uplifting experience, or infuse positivity into negative material, you build neural structure to support your wellbeing and happiness. Repeated practice will make positive states progressively easier to access and sustain.
 
- Here is a summary:
+ 
 
 • Relaxation techniques like resting, rocking gently, and releasing tension in your face can decrease stress and increase productivity. Focus on the feelings of relaxation and let go of negative thoughts. Remind yourself to relax throughout the day.
 
@@ -122,7 +122,7 @@ The practices build distress tolerance by:
 
 Does this summary cover the key points accurately? Let me know if you would like me to clarify or expand on any part of the summary.
 
- Here is a summary:
+ 
 
 To cultivate self-compassion and feel cared for:
 
@@ -154,7 +154,7 @@ To rest in love:
 
 The overall message is that self-compassion, assertiveness, and love can fulfill core needs and ease distress. The practices help integrate these positive experiences into your being for well-being, healthy relating, and resilience.
 
- Here is a summary:
+ 
 
 - Focus your attention on feeling love, breathing with love, acting with love. Let love saturate your being. 
 - Soften reactions by imagining living from a place of love. Feel love healing hurt places within you. 

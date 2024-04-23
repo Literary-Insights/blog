@@ -47,7 +47,7 @@ After six weeks, continue practicing to reach at least 700 words per minute with
 
 The key message is that with consistent practice of effective learning techniques, you can become a "super learner" and greatly improve your reading speed, comprehension, and memory. But mastery requires patience and persistence.
 
- Here is a summary:
+ 
 
 Our goal is to become a SuperLearner. We will break old learning habits and learn new skills.
 
@@ -496,7 +496,7 @@ None of the above.
 
 
 
- Here is a summary:
+ 
 
 The speaker never:
 

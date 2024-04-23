@@ -47,7 +47,7 @@ Chapter 5: Acting on Your Vision
 
 Conclusion: Applying the law of attraction requires ongoing effort and commitment. Continue strengthening your belief, maintaining a positive mindset, attracting new opportunities, and taking action to achieve the life you truly want. Success is a journey, not a destination. Stay dedicated and you will manifest your vision.
 
- Here is a summary:
+ 
 
 To strengthen your belief in your vision and goals, you can apply the following techniques:
 
@@ -72,7 +72,7 @@ Night:
 
 A positive mindset is key to the Law of Attraction. Staying positive attracts positive outcomes.
 
- Here is a summary:
+ 
 
 Before adopting a positive mindset, you need to understand why it is important. Maintaining a positive attitude despite negative circumstances helps counter the effects of those circumstances and keeps you moving towards your goals. The Law of Attraction states that like vibrations attract like things. Positive thoughts have a positive vibration and attract more positive things. Negative thoughts attract negative things. 
 
@@ -100,7 +100,7 @@ To attract opportunities:
 
 5. Take action. Do small things each day that move you closer to your goals. Take opportunities as they arise. Action creates momentum and attracts more opportunities.
 
- Here is a summary:
+ 
 
 - Do your research and gain knowledge about the industry you want to excel in. Take formal classes if needed. Success requires knowledge in addition to the right mindset and attitude. 
 

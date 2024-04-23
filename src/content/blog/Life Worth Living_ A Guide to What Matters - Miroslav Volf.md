@@ -11,7 +11,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 ---
 
 
- Here is a summary:
+ 
 
 - Human agency and control are limited. We depend on many factors outside our control. But we each occupy a privileged position in our own lives that comes with responsibility. We should seek help from others while taking ownership of how we live.
 
@@ -47,7 +47,7 @@ The key points are:
 
 Please let me know if this summary reflects the key ideas and points around moral worth, suffering, struggle, virtue, and rights as expressed in the original information. I can clarify or expand the summary if needed.
 
- Here is a summary:
+ 
 
 The passages discuss the importance of considering the welfare of all people, including future generations and those distant from us. They argue the following:
 

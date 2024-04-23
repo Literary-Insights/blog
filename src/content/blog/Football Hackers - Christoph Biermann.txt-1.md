@@ -210,13 +210,13 @@ In summary, Benham and Anderson represent attempts to bring an analytical, data-
 
 - Tuchel's innovative approaches were enabled by Mainz's general manager, Christian Heidel, who broke tradition by hiring inexperienced managers like Tuchel and Jürgen Klopp based on potential rather than experience.
 
- Here is a summary:
+ 
 
 Thomas Tuchel and Pep Guardiola brought innovative approaches to football tactics and formations when they became managers. Tuchel had great success at Mainz by constantly changing personnel and shapes to keep the opposition guessing. Meanwhile, Guardiola's Barcelona team pioneered aggressive pressing and relentless possession play. Guardiola moved Messi to 'false 9' with tremendous success, while other players like Busquets took on hybrid roles that defied conventional positions. 
 
 Both managers thought deeply about creating numerical superiority and occupying space dynamically. They focused less on rigid formations and more on principles and patterns of play adapted to specific situations. Although sometimes accused of over-intellectualizing the game, their granular understanding of positioning and space opened up new possibilities in football tactics. Small details like exact foot positioning and 40cm differences could be significant. The key was guiding players' decision-making to exploit weaknesses in the opposition, not choreographing the team's moves. Their innovations influenced many other top managers and changed football tactics significantly.
 
- Here is a summary:
+ 
 
 Football tactics have historically overlooked set pieces like corners, free-kicks, and throw-ins. However, they account for a significant proportion of goals scored. Some teams, like Stoke City under Tony Pulis, have specialized in exploiting set-pieces. Pulis focused on long throw-ins and other dead-ball situations to help a section with less talent compete. Other notable examples are Midtjylland, Atletico Madrid, and Iceland. The perception is that relying on set pieces is an unsophisticated approach, but top teams like Bayern Munich and Juventus also excel at them. Coaches are dedicating more time to practicing set-pieces, which paid off at the 2018 World Cup, where a record 28% of goals came from dead-ball situations. Set-pieces represent a significant opportunity for teams to gain an edge if they can execute them well.
 

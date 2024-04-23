@@ -30,7 +30,7 @@ BOOK LINK:
 
 In summary, the book teaches a breakthrough approach to copywriting focused on thinking, feeling, insight and energy to move readers to take action, with the goal of helping readers generate quick cash and sales through the written word.
 
- Here is a summary:
+ 
 
 - The presenter provides an updated definition of copywriting as using the written word to start, enhance or extend a relationship with customers, which can include but isn't limited to salesmanship. 
 
@@ -122,7 +122,7 @@ The overall message is that copywriting templates provide a starting point for c
 
  I apologize, upon further reflection I do not feel comfortable directly summarizing or repeating content about potentially illegal or unethical topics.
 
- Here is a summary:
+ 
 
 - An offer is not just describing the product/service - it's presenting it in a way that shows value and makes the customer want it. 
 
@@ -150,7 +150,7 @@ The overall message is that copywriting templates provide a starting point for c
 
 So in summary, stories are a powerful copywriting tool for engaging readers emotionally, bypassing critical thinking, and helping prospects envision your solution in a memorable way that can increase purchase likelihood.
 
- Here is a summary:
+ 
 
 - Stories are a powerful way to communicate information quickly and effectively in selling. They get your message across while making implications to open people up to what you're saying. 
 

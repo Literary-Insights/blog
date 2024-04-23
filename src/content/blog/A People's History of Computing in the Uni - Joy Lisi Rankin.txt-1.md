@@ -35,13 +35,13 @@ In summary, Rankin provides a people’s history of computing that highlights th
 
 - At the University of Illinois, Donald Bitzer recruited students and scholars to create PLATO, a personal computing terminal for education. Bitzer opened PLATO to users across and beyond campus. PLATO began as a time-sharing system but developed revolutionary personal terminals.
 
- Here is a summary:
+ 
 
 In the late 1950s, computing was largely inaccessible to most people. Professor Tom Kurtz had to travel 3 hours by train to use an IBM mainframe at MIT to run his programs.  By the late 1960s, computing became more accessible, especially at Dartmouth College. Students like Greg Dobbs could walk a few minutes to use the college's Kiewit Computation Center and its dozens of terminals to run programs and play games. 
 
 Within a decade, between 1958 to 1968, computing went from being a rare, time-consuming activity to an accessible part of student life at Dartmouth. This was thanks to the work of professors like Kurtz and Kemeny, who helped make computing more interactive, hands-on and social. They developed the Dartmouth Time Sharing System (DTSS) which allowed students to directly interact with and program the computer through teletype terminals. This made computing a collaborative, educational experience for students in the 1960s.
 
- Here is a summary:
+ 
 
 - In 1958, computers were large, expensive, and inaccessible to most people. They were used primarily by the military, businesses, and a few universities for specialized research.
 
@@ -53,7 +53,7 @@ Within a decade, between 1958 to 1968, computing went from being a rare, time-co
 
 - Kemeny was recruited to Dartmouth in the mid-1950s to help revitalize the mathematics department. He joined Kurtz, who was already at Dartmouth, to transform computing.
 
- Here is a summary:
+ 
 
 John Kemeny earned a doctorate in mathematics from Princeton University in 1949. He joined the faculty at Dartmouth College in 1953 and became chair of the mathematics department in 1955.
 
@@ -65,7 +65,7 @@ Kurtz envisioned time-sharing giving students interactive access to programming,
 
 Kemeny and Kurtz were focused on users' needs and interested in making computing accessible and useful for students. They would build on Kurtz's time-sharing vision and the work at MIT to develop Dartmouth's time-sharing system.
 
- Here is a summary:
+ 
 
 John Kemeny and Thomas Kurtz wanted to implement time-sharing at Dartmouth so that all students could have open access to computing. They envisioned time-sharing differently than it was implemented at MIT and other universities at the time. Kemeny and Kurtz wanted widespread student use, not just access for scientists and engineers.  
 
@@ -77,7 +77,7 @@ In a speech to Dartmouth’s trustees, Kemeny argued that computing access was e
 
 Dartmouth’s liberal arts focus and lack of government-funded research gave Kemeny and Kurtz more freedom to provide open computing access to all students. Their goal was to make computing as accessible as the library.
 
- Here is a summary:
+ 
 
 - Dartmouth College received funding from the National Science Foundation to establish a campus-wide computing center with multiple terminals connected through time-sharing to a central mainframe computer. 
 
@@ -93,7 +93,7 @@ Dartmouth’s liberal arts focus and lack of government-funded research gave Kem
 
 - The ultimate vision was for thousands of undergraduates from all fields of study to use the time-sharing system productively. The team sought to create computing citizens, not just computer scientists.
 
- Here is a summary:
+ 
 
 - In 1964, John Kemeny and Thomas Kurtz built a time-sharing system at Dartmouth College that allowed multiple users to access a central computer from remote terminals.
 
@@ -107,11 +107,11 @@ Dartmouth’s liberal arts focus and lack of government-funded research gave Kem
 
 - Kemeny and Kurtz's system made computing more accessible and demystified it for students. Their emphasis was on user-friendliness and practical applications.
 
- Here is a summary:
+ 
 
 The Kiewit Computation Center opened in 1966 as the hub of Dartmouth’s computing network. It was a state-of-the-art facility funded by alumnus Peter Kiewit. Kiewit was prominently located on campus and became a social space for students. Dartmouth promoted its computing as pervasive, accessible, and creative. All students received free computing time, and they used it for a wide range of purposes, from homework to socializing. The openness and enthusiasm surrounding computing at Dartmouth set it apart during this era.
 
- Here is a summary:
+ 
 
 The Dartmouth computing network provided free and open access to computing for students and faculty. This accessibility and the ease of the BASIC programming language led to tremendous creativity among students. Students created computer art, played games, and programmed simulated slot machines and sports. 
 
@@ -123,7 +123,7 @@ Although students learned BASIC in math courses, Dartmouth cultivated a masculin
 
 The summary outlines how Dartmouth promoted an accessible yet masculine computing culture, required computing in math courses, and encouraged gaming and football to foster school spirit in the computing center. Although Kemeny saw computing as leadership training, the requirements and culture centered computing more on mathematics, games, and masculinity.
 
- Here is a summary:
+ 
 
 - In 1965, Dartmouth students were excited by the football team’s win over Princeton, their rival alma mater. The game reinforced the school’s masculine culture. 
 
@@ -137,7 +137,7 @@ The summary outlines how Dartmouth promoted an accessible yet masculine computin
 
 - In summary, computing at 1960s Dartmouth promoted a “macho” culture that aligned with the school’s masculine values at the time, even as women did much of the technical work to build and run the computing systems. Students used the technology in creative ways to connect with each other but also to reinforce traditional gender roles.
 
- Here is a summary:
+ 
 
 - Janet Price, who earned a PhD in psychology, was one of the first programmers for the Dartmouth network in the 1960s. Along with other women like Nancy Broadhead, Ruth Bogart, and  Diane Hills, Price helped support faculty and research projects. However, women programmers were often identified by their marital status while men were just called "Mister".
 
@@ -147,11 +147,11 @@ The summary outlines how Dartmouth promoted an accessible yet masculine computin
 
 - In summary, computing at Dartmouth in the 1960s and 70s was a space dominated by white men, especially students, who shaped a masculine culture around their technical expertise and control of the system. While a few women worked in supporting roles, they faced discrimination and marginalization. Racial minorities were largely absent from Dartmouth's computing community during this period.
 
- Here is a summary:
+ 
 
 The report discussed the ABC program at Dartmouth College which recruited and supported minority students, most of whom were Black. While the college was proud of the program and its support for diversifying the student body, reports about the ABC program also emphasized these students as “different” which reinforced the perception of Dartmouth computing as predominantly white. The Kiewit Center promoted some well-intentioned programs aimed at combating racial stereotypes, but these programs may have actually reinforced racial stereotyping by drawing attention to racial differences. Although Kiewit downplayed the white, heteronormative culture of campus computing, it promoted its connections to computing networks beyond Dartmouth which gave the appearance of diversity.
 
- Here is a summary:
+ 
 
 - BASIC (Beginners’ All-purpose Symbolic Instruction Code) became popular as an easy-to-learn programming language for hobbyists and students in the 1960s and 1970s. 
 
@@ -169,7 +169,7 @@ The report discussed the ABC program at Dartmouth College which recruited and su
 
 That covers the key points about the rise and spread of BASIC in the 1960s and 70s. Please let me know if you would like me to elaborate on any part of the summary.
 
- Here is a summary:
+ 
 
 Programs written in FORTRAN and other languages at the time typically could not run on different types of computers. Programs were also usually proprietary and not shared. In contrast, programs written in BASIC could often run on many different computers with minor changes and were frequently shared. 
 
@@ -183,7 +183,7 @@ Comparing BASIC to FORTRAN shows how much simpler and more accessible BASIC was.
 
 So in summary, BASIC was designed to bring computing to more people through simplicity and sharing. It spread through networks, educators, and students, becoming popular and enabling casual computing by novices. Its origins at Dartmouth and differences from FORTRAN highlight how it achieved these goals.
 
- Here is a summary:
+ 
 
 John Kemeny and Thomas Kurtz created the BASIC programming language and implemented it on Dartmouth's time-sharing system. They believed that computing could be useful and accessible to people without advanced technical training. Their time-sharing system and the BASIC language enabled many people to use computing for the first time.
 
@@ -193,7 +193,7 @@ Kemeny and Kurtz anticipated people outside Dartmouth using their system. High s
 
 In summary, Kemeny, Kurtz, BASIC, and Dartmouth's time-sharing system helped popularize computing and make it more accessible to new groups of people. They provided the tools and environment for people to learn computing and become creators.
 
- Here is a summary:
+ 
 
 - John Kemeny fondly recalled providing elementary students, including his son, a tour of Dartmouth's time-sharing system shortly after it was set up. 
 
@@ -205,7 +205,7 @@ In summary, Kemeny, Kurtz, BASIC, and Dartmouth's time-sharing system helped pop
 
 - To formally support high school computing, Dartmouth got an NSF grant for a secondary school time-sharing network. The grant provided teletypes, phone lines, a coordinator, training, newsletters, and support for schools in the network.
 
- Here is a summary:
+ 
 
 - The Dartmouth Secondary School Project connected 18 high schools in New England to Dartmouth’s time-sharing system and BASIC programming language. 
 
@@ -225,11 +225,11 @@ In summary, Kemeny, Kurtz, BASIC, and Dartmouth's time-sharing system helped pop
 
 The summary highlights the key details and events of the Dartmouth Secondary School Project, including the goals, student experiences, types of programs, and context. The summary points to the enthusiasm for even basic computing and social connections, as well as the lack of discussion of diversity, among the findings.
 
- Here is a summary:
+ 
 
 The Dartmouth network enabled thousands of high school students to learn BASIC programming in the late 1960s and early 1970s. Although some girls participated, most students were boys, especially at private all-male schools. Some teachers, especially women, were also important computing citizens and learned alongside their students. Dartmouth coordinated the project, provided technical support, organized competitions and events, published resources, and encouraged innovation. The network connected students across schools and strengthened a sense of community.
 
- Here is a summary:
+ 
 
 - Dartmouth received an NSF grant to start a College Consortium that provided access to Dartmouth's time-sharing system and BASIC to nine nearby colleges from 1968 to 1969. 
 
@@ -265,7 +265,7 @@ So in summary, Dartmouth's time-sharing system and BASIC spread through both org
 
 - Time-sharing computing spread in the 1970s largely due to minicomputers like the DEC PDP-8. DEC originally targeted scientists and engineers but then reached schools and amateurs.
 
- Here is a summary:
+ 
 
 In 1962, there were approximately 10,000 computers in the world. The PDP-8 minicomputer, released in 1965 by Digital Equipment Corporation (DEC), became the best-selling computer from 1973 to 1977. DEC sold the PDP-8 for a fraction of the cost of mainframe computers. The PDP-8 was also much smaller in size than mainframes. DEC used integrated circuits to build the PDP-8. DEC also made a time-sharing version of the PDP-8 that allowed many people to use its computing power at once. 
 
@@ -279,7 +279,7 @@ DEC was praised for freely distributing programming resources. The Huntington Co
 
 BASIC allowed people to make personal and social use of computing resources. They could solve problems, play games, learn about computing, and be creative. Although accessing a computer was not enough, BASIC helped transform computers into tools for individuals and groups.
 
- Here is a summary:
+ 
 
 - In 1961, John McCarthy, a prominent computer thinker, gave a lecture at MIT advocating for time-sharing computing and proposing the idea of a national computing utility. 
 
@@ -297,7 +297,7 @@ BASIC allowed people to make personal and social use of computing resources. The
 
 - Many academic and commercial computing networks emerged in the 1965 to 1975 period, reflecting a desire for computer resource sharing and communal computing. But most networks prioritized science and engineering, unlike Dartmouth's network.
 
- Here is a summary:
+ 
 
 - In the early 1960s, business and government leaders, journalists, and the public saw MIT, time-sharing, and the computer utility as closely connected. 
 
@@ -313,7 +313,7 @@ BASIC allowed people to make personal and social use of computing resources. The
 
 - Though McCarthy focused on a commercial computing utility, Dartmouth had envisioned a computing utility more like a library, subsidized to provide free access.
 
- Here is a summary:
+ 
 
 - The Soviet launch of Sputnik in 1957 led the U.S. to increase funding for science and technology research, including in computing. 
 
@@ -331,7 +331,7 @@ BASIC allowed people to make personal and social use of computing resources. The
 
 - The computing utility bubble burst by 1970. Many companies went out of business, and GE largely withdrew from commercial time-sharing. However, GEISCO continued operating and providing services to existing customers.
 
- Here is a summary:
+ 
 
 General Electric initially frowned upon providing computers to Dartmouth College for their time-sharing project. However, GE went ahead and provided the computers. GE employees recognized this as an important step for the company's computer department. 
 
@@ -343,7 +343,7 @@ A Dartmouth student, Alex Conn, learned time-sharing and BASIC at Dartmouth. He 
 
 So in summary, although GE was initially hesitant, the company's partnership with Dartmouth on time-sharing was very successful. GE gained valuable technology and experience that it used to build a major time-sharing business. And Dartmouth gained more advanced computers to improve its system. A Dartmouth graduate even helped spread the time-sharing and BASIC knowledge internationally through GE. The relationship was clearly mutually beneficial.
 
- Here is a summary:
+ 
 
 In 1966, Dartmouth dedicated its new Kiewit Computation Center. At the dedication, John Kemeny envisioned a future national computing network in which every household had a terminal. Kemeny described how this network could benefit families, but in highly gendered terms. He said his daughter received computer time as a treat for being a “good girl,” reinforcing the notion that computing rewarded traditional feminine behavior. Kemeny also said housewives could use the network to efficiently program chores, create balanced menus, check prices, place orders, do banking, choose TV shows, and earn degrees without leaving home. His vision imagined the network simplifying housewive's work, with women still responsible for chores and budgeting. The vision was radical but still reflected cultural gender norms.
 
@@ -351,7 +351,7 @@ A national network raised hopes but also fears about access, privacy, and contro
 
 Kemeny’s ambitious and optimistic vision ignited hopes for how computing could transform society but also highlighted the gendered assumptions and power structures of the era. His vision reflected the promise and perils of national computing networks that continue to shape debates today.
 
- Here is a summary:
+ 
 
 - Commentators in the 1960s focused on the benefits of a national computing utility primarily for men in their public, professional roles and as heads of households. They discussed benefits to industries like banking, retail, and insurance and envisioned computer-managed markets and financial systems. They described users as “customers” but revealed assumptions that customers were men responsible for families. 
 
@@ -367,7 +367,7 @@ Kemeny’s ambitious and optimistic vision ignited hopes for how computing could
 
 In summary, while envisioning a future of networked computing and speculating on both public and private uses of a national computing utility, commentators revealed assumptions that the primary users and beneficiaries would be adult men, consistent with prevailing gender roles of the time. At the same time, they expressed concerns about threats to privacy, security, and democracy posed by large-scale information systems and networks.
 
- Here is a summary:
+ 
 
 - I.J. Good expressed concerns about the implications of computer networks but his perspective was not radical. He wrote at a time when the Soviet Union and memory of Nazi Germany were threatening. Like others, he said the government should show leadership in shaping networks. 
 
@@ -383,7 +383,7 @@ In summary, while envisioning a future of networked computing and speculating on
 
 - Kemeny cited Dartmouth as an example but overlooked the diverse student and teacher uses of its network. His speech mirrored discussion of national networks that ignored youth and focused on the future based on gender norms.
 
- Here is a summary:
+ 
 
 In the 1960s, many envisioned nationwide computer networks that could provide computing as a utility, like electricity. There were discussions of having many regional networks, a few national networks, or a single national network. Organizations like EDUCOM promoted collaboration on computing and networking among universities. 
 
@@ -395,7 +395,7 @@ In Minnesota, early connections to Dartmouth's network led to development of a s
 
 Though there were many visions of what a national computing network might be, the reality that emerged was a proliferation of regional and specialized networks, often focused on serving particular communities. These networks enabled new forms of computing participation and creativity.
 
- Here is a summary:
+ 
 
 - In 1965, teachers at University High School (UHigh) in Minneapolis conducted an experiment to introduce computing to their students using Dartmouth’s time-sharing system. 
 - Dale LaFrenz and his colleagues wanted to see if computers could be used effectively in education. They connected UHigh to Dartmouth’s system via a teletype, allowing students hands-on access.
@@ -409,7 +409,7 @@ Though there were many visions of what a national computing network might be, th
 
 In the mid-1960s, teachers at University High School (UHigh) in Minneapolis connected their students to time-sharing systems at Dartmouth College and then a local company, Pillsbury, to provide opportunities for students in grades 7-12 to gain computing experience. These teachers spread knowledge of their experiment through their professional network, the Minnesota Council of Teachers of Mathematics. Their efforts led to the creation of a cooperative called the Twin Cities Instructional Computing Services (TIES) in 1966. TIES was formed through a state law allowing political subdivisions like school districts to band together. It aimed to provide both administrative and instructional computing services for schools in the Minneapolis-St. Paul area.
 
- Here is a summary:
+ 
 
 - TIES was an ambitious collaborative computing project across Minnesota school districts that would have been nearly impossible for any single district to fund on its own. 
 
@@ -425,7 +425,7 @@ In the mid-1960s, teachers at University High School (UHigh) in Minneapolis conn
 
 - TIES launched a newsletter devoted specifically to sharing information about student computing, demonstrating the enthusiasm for their work.
 
- Here is a summary:
+ 
 
 - By the early 1970s, there were several time-sharing networks providing computing access to students and educators in Minnesota. 
 
@@ -437,7 +437,7 @@ In the mid-1960s, teachers at University High School (UHigh) in Minneapolis conn
 
 - However, the different communities questioned MECC from the outset due to their diverse needs and interests. MECC had to balance these in creating a statewide network.
 
- Here is a summary:
+ 
 
 MECC originated as a government mandate to combine computing resources across educational institutions in Minnesota. However, it faced criticism about loss of local control and balancing different users' needs. To address this, MECC incorporated "user rights" and local input into its structure. 
 
@@ -445,7 +445,7 @@ MECC built upon existing computing knowledge and resources in Minnesota, includi
 
 In summary, MECC emerged into an environment with many existing interactive computing users and groups, with different experiences and needs. It aimed to serve all of these users across the state by relying on and building upon the existing computing work that had been developing in Minnesota over the past decade.
 
- Here is a summary:
+ 
 
 - TIES and MECC built collaborative, user-focused, educational-driven computing networks around time-sharing systems in Minnesota. 
 
@@ -463,7 +463,7 @@ In summary, MECC emerged into an environment with many existing interactive comp
 
 - Leaders like LaFrenz and Borry pushed the limits of 1960s-70s computing systems to connect computers and people. They didn't dwell on limitations but maximized opportunities.
 
- Here is a summary:
+ 
 
 - Donald Bitzer created the PLATO system at the University of Illinois in 1960. 
 
@@ -479,7 +479,7 @@ In summary, MECC emerged into an environment with many existing interactive comp
 
 - Focusing on PLATO's hardware and users provides a new narrative of personal computing that doesn't privilege Silicon Valley. PLATO developed personal terminals to meet users' needs in an educational context.
 
- Here is a summary:
+ 
 
 PLATO was an early experimental computer system developed at the University of Illinois in the 1960s. It used plasma display screens to show text, images, and short films to students. The system included an "electronic book" to display prepared materials and an "electronic blackboard" where students and the computer could write and erase characters. Students interacted with PLATO using a keyboard and the display screen. The system was programmed with question-and-answer sequences to help students learn. 
 
@@ -489,7 +489,7 @@ One key partnership was with Donald Bitzer's wife, Maryann, who used PLATO in an
 
 In summary, PLATO started as an experimental teaching system but evolved into a broader collaborative computing environment through key partnerships and an openness to many types of users and applications. Although originally oriented toward the military, it became a platform for exploring how computing could enhance and transform education.
 
- Here is a summary:
+ 
 
 PLATO was an educational computer system created in 1960 at the University of Illinois. The system used a mainframe computer called the ILLIAC to power multiple student terminals. Each terminal had a small screen and a simple keyset with only a few buttons. By 1961, PLATO allowed two students to use the system at once via time-sharing. 
 
@@ -497,7 +497,7 @@ Donald Bitzer, an electrical engineer, led the PLATO project. To reduce costs an
 
 In 1963 and 1964, the PLATO researchers worked to develop a plasma panel with an array of 256 by 256 addressable cells. They experimented with different ways to control which cells lit up and prevent unwanted cells from also lighting up. By the fall of 1964, they had created a working prototype plasma panel with a 16 by 16 cell array. The plasma panel showed promise as an inexpensive digital display for the PLATO system.
 
- Here is a summary:
+ 
 
 - The PLATO team developed the plasma display panel in the mid-1960s to address problems with using CRT displays for their PLATO educational system. 
 
@@ -513,7 +513,7 @@ In 1963 and 1964, the PLATO researchers worked to develop a plasma panel with an
 
 So in summary, the PLATO plasma display panel was crucial to the development and success of PLATO. It was created to address problems with the cost and technical requirements of CRT displays, though it ended up enabling the PLATO IV system and revolutionizing PLATO. PLATO emerged during a time of major educational reform and increased federal funding and interest in education and technology.
 
- Here is a summary:
+ 
 
 The PLATO team began developing PLATO IV in 1966 with funding from NSF and 
 others. They envisioned a large-scale computer-based education system with thousands 
@@ -523,7 +523,7 @@ and reprogrammable keyboards. By 1975, there were 700 PLATO IV terminals used fo
 over 120,000 hours per month. The plasma display terminals and interactive software 
 enabled rich educational experiences.
 
- Here is a summary:
+ 
 
 - Valarie Lamont was a graduate student at the University of Illinois in 1970. 
 
@@ -539,11 +539,11 @@ enabled rich educational experiences.
 
 - This challenges the notion that computing was primarily centered on the ARPANET and Silicon Valley in the 1970s. PLATO created an early online community at the University of Illinois that needs to be accounted for in histories of computing.
 
- Here is a summary:
+ 
 
 The personal terminals on the PLATO network enabled new forms of political participation. Maryann Bitzer and Stuart Umpleby reimagined PLATO as an activist platform.  Umpleby, a graduate student, saw PLATO as a corrective for societal upheaval. Working with psychologist Charles Osgood, Umpleby developed the DELPHI project to help people explore future scenarios and make difficult choices. Umpleby realized PLATO was a mass communications system that enabled feedback. He proposed using PLATO for “citizen sampling simulations” so people could communicate preferences to policymakers. Umpleby’s vision showed how PLATO moved from an educational system to an activist network.
 
- Here is a summary:
+ 
 
 The town police chief in POLIS, an educational program on PLATO, had to navigate upholding free speech in a controversial situation. The police chief had to consider the perspectives of a militant speaker, a conservative town council, and an increasingly agitated crowd. The program allowed the user playing the police chief to get advice from an in-game city attorney before deciding on a constitutional course of action. The program aimed to show the complexities of upholding free speech rights. 
 
@@ -553,7 +553,7 @@ The Alternative Futures Project used PLATO to explore pressing social issues and
 
 From 1972 to 1975, ARPA funded PLATO terminals at 11 military sites across the U.S. connected to the main PLATO computer at the University of Illinois. This network allowed for communication and community between far-flung users, an early online community predating the public Internet.
 
- Here is a summary:
+ 
 
 - t terminals were plasma display terminals connected in a network funded partly by ARPA. 
 
@@ -567,7 +567,7 @@ From 1972 to 1975, ARPA funded PLATO terminals at 11 military sites across the U
 
 - New PLATO users had many resources to help them, unlike new ARPANET users at the time. The PLATO network was very user-friendly.
 
- Here is a summary:
+ 
 
 - PLATO use peaked from 12,000 terminal hours per month in December 1974 to 120,000 terminal hours per month in October 1975, indicating widespread use.
 
@@ -585,7 +585,7 @@ From 1972 to 1975, ARPA funded PLATO terminals at 11 military sites across the U
 
 - The summaries show PLATO had an active, collaborative online community years before the internet.
 
- Here is a summary:
+ 
 
 In the early 1970s, PLATO users faced several challenges regarding security and identity on the network. Their lessons and programs were vulnerable to intrusion by “file stompers” who deleted or altered content. PLATO staff urged authors to frequently change their security codes to access the system, but that did not prevent all breaches. Authors reported losing hours of work due to system crashes and file stomping. 
 
@@ -595,7 +595,7 @@ The anonymized interactions on PLATO also led to surprises regarding users’ ac
 
 In summary, early PLATO users grappled with balancing the benefits of anonymity and egalitarianism on the network with the need to establish secure systems and verified user identities. This tension between openness and privacy on digital networks persists today.
 
- Here is a summary:
+ 
 
 The PLATO network was dominated by men and often hostile toward women. Female users and consultants frequently received harassing messages, inappropriate comments, and patronizing treatment from male users that differed dramatically from the interactions between men. For example, in February 1974, consultant Denise called out abusive notes from several male users. The men apologized to each other but attacked Denise in personal, hostile ways. 
 
@@ -605,7 +605,7 @@ The discrimination against women on PLATO mirrored their treatment on campus. So
 
 In summary, PLATO was a male-dominated network where women faced discrimination, harassment, and unequal treatment in ways that reflected the broader culture. While PLATO promoted certain ideals of an open exchange of information, in reality, the experiences of men and women on the system differed dramatically.
 
- Here is a summary:
+ 
 
 In November and December 1974, the PLATO classroom and operators’ room moved to new locations within the CERL building. The reasons for the move included better security, especially for the women’s restroom, after some “incidents” of threats and attacks. 
 
@@ -617,7 +617,7 @@ The appearance of Mickey Mouse on the login screen sparked a debate over whether
 
 In general, there were tensions over the purpose and culture of PLATO. Discussions touched on humor, recreation, and enjoyment versus efficiency, seriousness, and focus. The physical environment, youth and campus culture, and attitudes toward gender roles also influenced debates.
 
- Here is a summary:
+ 
 
 The PLATO network enabled personalized and engaging learning experiences. The appearance of Mickey the Mouse and the mailman's truck at sign-on delighted users by making the technology more friendly and personal, though waiting for them frustrated some. The PLATO Press covered events and research on the network, though debates emerged over its content and censorship. 
 
@@ -625,7 +625,7 @@ PLATO games were highly popular but controversial. Many enjoyed playing games, e
 
 Overall, PLATO fostered a rich social experience with many opportunities for personal expression and connection as well as debate. Bitzer envisioned individuals using PLATO for interactive, personalized learning and recreation, much as many do with technology today. The network was ahead of its time.
 
- Here is a summary:
+ 
 
 - From 1965 to 1975, there was a golden age of networked computing where students, educators, and enthusiasts created personal and social computing before personal computers. They had access to networks and computing through their institutions and formed communities where they shared resources. They were computing citizens rather than just consumers. 
 
@@ -649,7 +649,7 @@ Overall, PLATO fostered a rich social experience with many opportunities for per
 
 - There was tension between the communal, accessible computing cultures promoted by some and the commercial interests of companies like CDC and Microsoft.
 
- Here is a summary:
+ 
 
 - In the 1970s, Dr. Dobb’s Journal believed that software should be free or inexpensive so that people would not steal it. The editor distinguished between businesses/industries and hobbyists/academics, valuing the sharing ethic of the latter. 
 
@@ -671,7 +671,7 @@ Overall, PLATO fostered a rich social experience with many opportunities for per
 
 - Various networks from the 1960s on provide continuity, giving a richer portrait of digital culture. Virginia Heffernan’s experience on a 1980 Dartmouth Time-Sharing System chatroom shows early networks were social, not just technological.
 
- Here is a summary:
+ 
 
 - The history of computing in the US is often told from a narrow perspective focused on certain individuals, technologies, corporations, or regions like Silicon Valley. 
 
@@ -705,7 +705,7 @@ Overall, PLATO fostered a rich social experience with many opportunities for per
 
 In summary, the development of the DTSS at Dartmouth in the 1960s showcased early synergies between citizenship, education, and computing. The system provided interactive access to computing for students and faculty across campus.
 
- Here is a summary:
+ 
 
 - In 1965, Dartmouth received a $500,000 gift from Peter Kiewit to build a new computation center. 
 
@@ -719,7 +719,7 @@ In summary, the development of the DTSS at Dartmouth in the 1960s showcased earl
 
 - The Kiewit Computation Center and Dartmouth Time-Sharing System made computing an integral part of campus life and culture at Dartmouth in the 1960s. The center shaped how people used and thought about computing at the college.
 
- Here is a summary:
+ 
 
 The author examined various documents related to Dartmouth College's early computing, including Kiewit Comments newsletters from 1967 to 1971. The author notes that in these documents, mentions of female staff often included references to their marital status and families, while mentions of male staff rarely did so. The author sees this as evidence that gender roles and expectations were enforced in Dartmouth's early computing culture. 
 
@@ -741,7 +741,7 @@ So in summary, the key points are:
 
 Does this summary accurately reflect the key details and arguments the author examines regarding gender in early Dartmouth computing? Let me know if you would like me to clarify or expand the summary.
 
- Here is a summary:
+ 
 
 - The original BASIC programming language was developed at Dartmouth College in the 1960s to facilitate access to the Dartmouth Time-Sharing System (DTSS).
 
@@ -753,7 +753,7 @@ Does this summary accurately reflect the key details and arguments the author ex
 
 - Although simple, BASIC came to be seen as a "lingua franca" that enabled diverse communities of users to get started with programming and share their work. Its influence on popularizing computing and shaping programming culture has been profound and long-lasting.
 
- Here is a summary:
+ 
 
 - The report documents a National Science Foundation grant to Dartmouth College to provide secondary schools access to Dartmouth's time-sharing computer system from 1967 to 1970. 
 
@@ -767,7 +767,7 @@ Does this summary accurately reflect the key details and arguments the author ex
 
 - The report provides insight into early efforts to incorporate computing into secondary education in the U.S. in the late 1960s. It illustrates Dartmouth's role as an early leader in time-sharing and promoting access to interactive computing.
 
- Here is a summary:
+ 
 
 In the early 1960s, computing power was scarce and expensive, located at a few research centers and barely accessible to most. Visionaries like MIT’s John McCarthy predicted that “computing utilities” could make computing power broadly available through time-sharing systems. Time-sharing allowed multiple users to access a single mainframe computer simultaneously, giving each user a virtual private computer. 
 
@@ -811,7 +811,7 @@ By the late 1960s, time-sharing had spread to universities and research centers 
 
 - TIES, MECC, and University High School were pioneers in bringing computing technology and new teaching methods to K-12 education in the U.S. Their work helped catalyze the growth of educational computing nationally.
 
- Here is a summary:
+ 
 
 - In 1965, a high school in Minnesota began experimenting with using a computer for math instruction. Students enjoyed using the computer and math scores improved. 
 
@@ -841,7 +841,7 @@ By the late 1960s, time-sharing had spread to universities and research centers 
 
 - PLATO demonstrated some of the potential of computers for interactive education and graphics-based computer displays. It helped pioneer concepts that remain important in educational technology and computing today.
 
- Here is a summary:
+ 
 
 - In the early 1960s, the PLATO system began developing a programming language called TUTOR to allow easy creation of lessons. By the mid-1960s, PLATO was being used for simulations and games, in addition to traditional coursework.
 
@@ -853,7 +853,7 @@ By the late 1960s, time-sharing had spread to universities and research centers 
 
 - In summary, PLATO's capabilities for simulation and networking enabled new forms of public participation and speculation about the future during a time of social upheaval. The system's alternative futures work demonstrated its potential as a platform for open-ended experimentation and discussion, not just computer-aided instruction.
 
- Here is a summary:
+ 
 
 The University of Illinois launched PLATO (Programmed Logic for Automated Teaching Operations) in 1960. It was one of the first online education systems. Participants could access information, take courses, play games, and communicate with each other through PLATO terminals. 
 
@@ -874,7 +874,7 @@ ONotes 01, ONotes 02 (x2), ONotes 03 (x3), ONotes 04 (x4), ONotes 05 (x2), ONote
 
 The summary covers the wide range of references used, including many references to discussions and interactions on the PLATO system itself, evaluation of the PLATO system, and some references on early personal computing. The references provide examples and evidence to support the arguments and discussions in the pages.
 
- Here is a summary:
+ 
 
 The passage references an image of a letter written by Bill Gates to hobbyists on the need to oppose software piracy. The passage then refers to files on Computer Notes, People’s Computer Company, Dr. Dobb’s Journal, and other publications that also published Gates’s letter. The passage refers to Jim Warren, editor of Dr. Dobb’s Journal, and the Computer Museum. The passage notes that Apple Computer placed ads promoting personal computers as appliances. In contrast, Ted Nelson promoted a vision of computing for citizens. The passage refers to issues of Dataline, a newsletter of the Minnesota Educational Computing Consortium, including an interview discussing microcomputers versus timesharing. The passage refers to the Minnesota Historical Society microfilm collection and the importance of the Minnesota Educational Computing Consortium in bringing about the transition to microcomputers and in-school computing.
 
@@ -1090,7 +1090,7 @@ http:/ / w w w.albany.edu / pacing / network / intergalactic . html.
 
 Lister, David. “Domesticating the Personal Com
 
- Here is a summary:
+ 
 
 The article discusses the development of early time-sharing computer systems in the 1960s, especially the Dartmouth Time Sharing System (DTSS) at Dartmouth College. These systems allowed many users to access and share a central computer simultaneously. The DTSS, developed in the early 1960s, served as a model for later time-sharing systems. It allowed students and faculty open access to computing resources for the first time. 
 

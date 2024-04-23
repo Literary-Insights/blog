@@ -498,7 +498,7 @@ The key is to integrate sex and emotional intimacy, so your physical union reaff
 
 - Sex and touch are key ways we communicate attachment and love. Emotional connection is needed for deeply satisfying sex.
 
- Here is a summary:
+ 
 
 - Caressing and physical touch are important for emotional development and intelligence, especially for males. Men often receive less physical affection and touch compared to girls, leading to "touch hunger" in adulthood. 
 

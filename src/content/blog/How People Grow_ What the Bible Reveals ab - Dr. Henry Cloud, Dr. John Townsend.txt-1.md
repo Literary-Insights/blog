@@ -260,7 +260,7 @@ In summary, Jesus is essential for spiritual growth through his indwelling prese
 
 - Overall, Jesus is the perfect model of living a human life in total reliance on and obedience to God. We are called to identify with him so we can walk as he walked, overcoming temptation and living for God's purposes.
 
- Here is a summary:
+ 
 
 The Holy Spirit plays a key role in the process of spiritual growth. He initiates growth by drawing us to Christ, and he completes the work of making us like Christ. The Holy Spirit gives us security in our relationship with God by sealing us when we believe in Jesus. He then comes alongside us as a Counselor to help in many ways, including searching our hearts, giving abilities, leading and guiding, teaching truth, counseling, helping live rightly, filling and controlling, convicting, changing, and giving gifts to build up the church. We are to partner with the Holy Spirit in the growth process by asking for and depending on his work in our lives. Knowing the Spirit's role provides assurance that growth is not up to us alone but happens through his power.
 
@@ -380,7 +380,7 @@ In summary, God's plan is for people to grow through deep connection to Him and 
 
 - The church has a role to play in mentoring and guiding people in all aspects of their lives, including their careers. This provides character development and integration between work and spiritual life. Leaving career mentoring solely to companies leads to a split between work and faith.
 
- Here is a summary:
+ 
 
 We need supportive relationships to help us through difficult times like grief and loss. In a church community, people can find healing by sharing their pain with others who understand and care. This is better than trying to numb the pain through unhealthy behaviors. Through relationships we can experience healing, confront issues, gain accountability, and see positive examples. The body of Christ is designed to gently restore people caught in sin or addiction, not judge them. We need to see modeling of healthy conflict resolution and forgiveness. God designed us for community because we need each other for support, growth, and healing.
 
@@ -624,7 +624,7 @@ The section also distinguishes between "true guilt" and "false guilt" - feeling 
 
 - Tony avoided dealing with criticism from girlfriends by becoming defensive. Even if the criticism was unfair, his reaction was immature. To grow, he had to face the pain of the criticism without withdrawing or retaliation. Embracing the suffering of staying engaged is key for growth.
 
- Here is a summary:
+ 
 
 - The author explains that he was counseling a man named Tony who had a pattern of getting defensive and withdrawing from relationships when conflicts arose. 
 
@@ -948,7 +948,7 @@ So in summary, a balanced biblical view affirms human responsibility alongside a
 
 In summary, God uses truth in many vital ways to facilitate our spiritual growth and maturity in him. Truth is an essential tool God gives us on the path of growth.
 
- Here is a summary:
+ 
 
 The passage discusses several important truths for spiritual growth. First, people need to know the truth of God's design - his plan for their growth and prosperity. Second, they need the truth about their own condition - that everyone has weaknesses and areas needing growth. Third, they need to know the resources available for growth, like relationships and time. Fourth, they need to understand the tasks required for growth, such as self-examination and change. Fifth, they should be aware of obstacles like spiritual resistance. 
 

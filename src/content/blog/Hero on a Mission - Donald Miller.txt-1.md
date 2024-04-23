@@ -67,7 +67,7 @@ The journey of personal growth is challenging but rewarding. These ideas encoura
 
 - We can see ourselves as victims or agents of our stories. The heroic transformation begins when we accept responsibility for our lives.
 
- Here is a summary:
+ 
 
 The author believes that individuals have a tremendous capacity for agency in determining the course of their lives. He reflects on his own life and how he fell into a victim mentality as a child after being bullied, which held him back for many years. However, he realized the power he had to change his story. He discusses philosopher Viktor Frankl as an inspiration, describing how Frankl maintained a sense of meaning and purpose even when subjected to horrendous suffering in Nazi concentration camps. The author explains how Frankl's ideas on finding meaning helped him overcome his victim mindset and take charge of his life. Though the author experienced setbacks, he kept trying and steadily improved his life by accepting personal agency. The core message is that we all have the power within us to stop seeing ourselves as victims and become the heroes of our own stories if we choose to accept responsibility for our lives.
 

@@ -161,7 +161,7 @@ The key is finding the right balance between focused concentration and diffuse r
 
 - Getting adequate sleep after learning allows memory traces to consolidate and strengthen. Review key points before bed.
 
- Here is a summary:
+ 
 
 - Many students mistakenly think that passive studying techniques like highlighting and rereading are effective, but research shows they are not. These techniques provide an illusion of learning. 
 

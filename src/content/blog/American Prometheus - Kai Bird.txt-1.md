@@ -591,7 +591,7 @@ In summary, Oppenheimer supported the New Deal and opposed fascism, but his poli
 
 - Oppenheimer quickly grasped the potential applications of fission, including both power generation and atomic bombs. He was excited yet also saw the deadly possibilities of this breakthrough discovery.
 
- Here is a summary:
+ 
 
 Oppenheimer interrogated Weinberg when he arrived at Berkeley about working with Breit in Wisconsin. Though Weinberg was evasive at first, he admitted he had worked independently from Breit. Oppenheimer welcomed him to join the physics department. Weinberg met famous physicists like Lawrence and Pauling and Oppenheimer's students. They speculated about building a bomb using nuclear fission. 
 

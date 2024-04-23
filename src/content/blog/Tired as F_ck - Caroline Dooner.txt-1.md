@@ -285,7 +285,7 @@ In summary, while parts of The Secret had value, the dogmatic and perfectionist 
 
 - When home to be a confirmation sponsor, Birdie had a panic attack in the church and realized she was having a nervous breakdown from the stress of her voice issues and avoiding dealing with her problems.
 
- Here is a summary:
+ 
 
 Caroline was home for the weekend to serve as a Catholic confirmation sponsor for her young cousins, despite no longer being religious herself. She was already in a bad mood about having to participate in the Catholic rituals and wear uncomfortable church clothes. Her mother then suggested she switch college majors for her senior year, away from acting, since she didn't seem happy pursuing acting anymore. This suggestion devastated Caroline, who had built her whole identity around being an actor. She broke down sobbing uncontrollably for hours, unable to stop, which further damaged her already strained voice. Caroline felt trapped and like a failure, believing she had to succeed at acting because of expectations from others. Though her mother tried to reassure her that no one cared what she did with her life, Caroline couldn't accept quitting acting. Despite being miserable, she felt unable to change course at that point. The incident represents a low point in her struggles with her acting career ambitions and mental health.
 

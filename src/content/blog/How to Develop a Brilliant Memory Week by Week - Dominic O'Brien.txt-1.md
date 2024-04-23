@@ -58,7 +58,7 @@ The key takeaway is that using vivid mental associations between list items and 
 
 - Exercises are provided to spark associations through free writing, connect words to locations, and practice using imagination to embellish dull memories into vivid images for improved recall. The point is to flex creative thinking muscles for stronger memory formation.
 
- Here is a summary:
+ 
 
 The Journey Method incorporates the three keys of memory - association, location, and imagination - into a complete technique for memorizing lists of information. It involves choosing a familiar location and imagining taking a journey through it, with stops that correspond to the items on the list. 
 
@@ -144,7 +144,7 @@ The key is using active imagination techniques to visualize and emotionally enga
 
 - An exercise is suggested to have the reader create their own mind map on a topic of their choosing. They are instructed to use colors, images and words in a diagrammatic spatial format to represent the information in a visual way that utilizes both analytic and intuitive thinking styles. The goal is to present information absorbed from reading or lectures in a summarized yet visually engaging format.
 
- Here is a summary:
+ 
 
 - To remember speeches and presentations effectively, it is best to map out all your key ideas and points on a mind map. This gives you confidence knowing you have your whole speech mapped out in your head in a familiar visual format. 
 
@@ -296,7 +296,7 @@ In summary, the passage recommends playing memory games from a young age and des
 
 - It concludes by emphasizing the importance of memory and encourages passing on these skills to others. It recommends the Journey Method as an effective daily practice and hints that the reader may have potential for memory championships if they continue training.
 
- Here is a summary:
+ 
 
 The passage congratulates the reader on completing 52 memory improvement steps and enjoying the rewards this will bring. It references that the reader will now be ready to battle for the title of World Memory Champion head-to-head. 
 

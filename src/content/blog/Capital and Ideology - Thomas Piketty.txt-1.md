@@ -313,7 +313,7 @@ It analyzes electoral patterns, arguing the left vote initially corresponded to 
 
 So in summary, the decline reflects a complex mix of state policy, noble family strategies, socioeconomic change, and long-run ideological shifts. The sources make it hard to precisely weigh all the factors.
 
- Here is a summary:
+ 
 
 The clergy and nobility maintained dominance in pre-revolutionary France through their control of symbolic, patrimonial, and political resources, despite being a small percentage of the population. They owned a significant share of land - around 40-45% by 1780. The Revolution radically redistributed this, virtually eliminating ecclesiastical holdings and cutting noble holdings approximately in half. Estimates of noble share of the largest fortunes in Paris fell from around 50% in 1780 to 25% in 1810, then rose back to 40-45% during the 1830-1850 monarchies with property qualifications for voting, before gradually falling again to 10% by 1900-1910. The abrupt declines and increases reflect the redistribution of the Revolution, exile of nobles, and return of nobles after defeat of Napoleon. Though shrinking before the Revolution, the nobility remained economically powerful, and political and ideological factors drove key shifts in their status and wealth.
 
@@ -329,7 +329,7 @@ The clergy and nobility maintained dominance in pre-revolutionary France through
 
 In summary, the nobility enjoyed substantial financial compensation for property lost during the Revolution, favorable treatment by the legal system, and ongoing political influence in the decades following Napoleon's defeat. This allowed the aristocracy to maintain privilege despite the challenges of the Revolutionary era.
 
- Here is a summary:
+ 
 
 In the early centuries of the Christian era, the Church was forced to confront questions about wealth and property as Christianity spread among wealthy Romans. While Jesus taught that it was difficult for the rich to enter heaven, once wealthy families embraced Christianity the Church accumulated great wealth. This required new thinking about acceptable forms of ownership compatible with Christianity. 
 
@@ -669,7 +669,7 @@ In summary, 19th century discourse justified inequality less through meritocracy
 
 - Popular mobilization, political parties, and reformist programs play an important role in transforming inequality regimes. Sweden illustrates how rapid, radical legal transformation can occur without violence.
 
- Here is a summary:
+ 
 
 The historical systems for allocating political power based on property ownership, such as the British censitary system, had relatively straightforward ways of dividing citizens into active vs passive based on wealth thresholds. These systems privileged the wealthiest but did not make voting power strictly proportional to wealth. Over time, more complex multi-tiered systems emerged, such as in France and Prussia. The Swedish system took this furthest by allowing the richest citizens up to 100 votes. These historical experiences are relevant for contemporary debates about limiting the power of money in politics. Though explicit wealth-based voting is not proposed today, issues like unlimited campaign contributions, private arbitration, university admissions preferences for donor families, and influence via public debt all raise similar concerns about the political power granted to private wealth. The forms of property rights and relations have always depended on the broader legal and social systems in which they are embedded, so analyzing 21st century neo-proprietarianism requires examining its historical roots and development.
 
@@ -775,7 +775,7 @@ The historical systems for allocating political power based on property ownershi
 
 - So both the Haitian and 1848 abolitions maintained economic control over former slaves through debt and low-wage work requirements. The burden was put on the former slaves rather than compensating them.
 
- Here is a summary:
+ 
 
 The Emancipation Act of 1848 in France abolished slavery but did not provide real freedom for former slaves. Slaveowners were compensated while former slaves received nothing. Laws were passed that forced freed slaves to sign long-term work contracts with plantation owners or face arrest. This ensured they remained under planter control. Imported immigrant workers faced similar conditions. Courts were biased towards employers, allowing exploitation. Though slavery was abolished, forced labor persisted. 
 
@@ -799,7 +799,7 @@ This illustrates the power of sacralized private property rights in the 19th cen
 
 - France also struggles with how to address its history with slavery and respond to calls for reparations related to Haiti and other former colonies.
 
- Here is a summary:
+ 
 
 The number of slaves in the US South, Brazil, and the Caribbean reached around 6 million by 1860. Slavery in the British and French Caribbean peaked at around 1.3 million in 1780-1790 before declining due to the Haitian revolt and abolition laws. Meanwhile, the balance of power in the US was shifting. In 1800 the North and South had equal populations, but by 1860 the non-slaveholding North had grown much faster and made up over 60% of the total population. 
 
@@ -847,7 +847,7 @@ The 13th Amendment abolished slavery with no compensation to slaveowners or slav
 
 - Russia emancipated serfs in 1861, coinciding with the U.S. Civil War. Serf owners were compensated, though the process was chaotic due to the weak Russian state.
 
- Here is a summary:
+ 
 
 The emancipation of serfs in Russia in 1861 was an incomplete reform that did little to transform power relations in the countryside. The imperial government lacked capacity to guarantee property rights, establish an independent legal and fiscal system, or limit the power of local elites. As a result, former serf owners maintained control over the peasantry, whose mobility remained restricted. The government required serfs to compensate landlords over 49 years rather than providing monetary redemption through public debt. Further reforms were attempted but failed to progress before the Bolshevik revolution of 1917. The failed emancipation in Russia shows that transitioning away from serfdom requires a centralized state able to limit local elite power through an autonomous bureaucracy and fiscal system. Without this, subaltern classes remain dependent. Russia transitioned directly to a communist society rather than completing the shift to an ownership society.
 
@@ -985,7 +985,7 @@ The emancipation of serfs in Russia in 1861 was an incomplete reform that did li
 
 - Overall, the colonial inequality regime was founded on inequalities of status and racial/ethnic identity, with sweeping consequences.
 
- Here is a summary:
+ 
 
 The French colonies had a complex system of laws governing relationships between Europeans and natives. Interracial marriages were discouraged, and there was a separate legal system for natives that often contradicted principles of French law. One example was the legal framework for forced labor from 1912-1946. The colonial administration demanded unpaid labor from natives as a form of tax payment. In reality, the demanded labor often far exceeded the legal limits and occurred under brutal conditions, as in the building of the Congo-Ocean Railway where many workers died. The International Labor Organization criticized France's use of forced labor as similar to servile labor, but France rejected this, defending the labor as "services" and conscription. Forced labor continued until after World War II when France sought to preserve its empire. Apartheid in South Africa from 1948-1994 was an extreme system separating colonizers and colonized.
 
@@ -1853,7 +1853,7 @@ In summary, the social-democratic societies of postwar Europe demonstrated it wa
 
 - No country has fully equal access to education. The expansion of higher education poses challenges to equality everywhere. But the US system appears particularly stratified compared to other developed countries.
 
- Here is a summary:
+ 
 
 The advent of mass higher education in the late 20th century posed new challenges for educational equality compared to earlier expansions of primary and secondary education. With tertiary education, it became unrealistic to think every student would pursue advanced degrees, and the variety of fields and aspirations lent itself more to hierarchical organization. This influenced social and professional hierarchies after graduation. Even with Europe's more egalitarian systems compared to the US, educational investment stagnated at around 5-6% of GDP from 1990-2015, rather than increasing to account for rising college attendance. This likely contributed to rising inequality and slowing growth. The US saw growth halve from 2.2% in 1950-1990 to 1.1% in 1990-2020 as inequality rose and top tax rates fell. Europe saw a similar pattern. Strongly progressive taxes and lower inequality are not obstacles to growth, as the mid-20th century showed, contrary to claims that pre-WWI inequality was necessary for growth. The conservative revolution of the 1980s failed to raise growth. Egalitarian educational investment, which gave the US an advantage over Europe in the 19th and early 20th centuries, illustrates the importance of policies that promote equal opportunity.
 
@@ -3593,7 +3593,7 @@ The key ideas are that unilateral actions by states are possible, further politi
 
 - Similar logic could apply to taxing wealthy individuals and carbon emissions. The goal is to establish inclusive cooperation, not heighten tensions. Progress may be gradual, but some countries could lead the way.
 
- Here is a summary:
+ 
 
 Social democratic capitalism, which developed in the 1980s, is in crisis as rising inequality has made lower and middle classes wary of economic liberalism. This has fueled nationalist and authoritarian movements that could challenge the current trade system. Nationalist ideology will likely intensify competition between states, leading to fiscal and social dumping while encouraging anti-immigrant policies to unite native populations against foreign enemies. This is already happening in Europe, the US, India, Brazil, and China. To overcome these contradictions, we must move toward participatory and internationalist socialism based on social-federalist structures and a new cooperative world economy. While not answering every question, some solutions could gradually enable progress, demonstrating societies' capacity to imagine new ideological and institutional arrangements. The future will require transnational ideologies, but no society can live without an ideology to justify its inequalities.
 

@@ -118,7 +118,7 @@ For Nietzsche, power is poetic - it produces ever new forms and perspectives, ra
 
 - Disciplinary power focuses on the economy and efficiency of movements, rather than the language of the body. But it also describes the body, taking possession of it by inscribing it into a network of meanings.
 
- Here is a summary:
+ 
 
 - Foucault argues that the freer people are in their relationships, the more they enjoy exerting power over others through unpredictable "games" and directing others' behavior. In contrast, in societies with little scope for such games, the desire for power diminishes. 
 
@@ -174,7 +174,7 @@ For Nietzsche, power is poetic - it produces ever new forms and perspectives, ra
 
 - Hegel sees religion in terms of power. But religion may open a space beyond power, representing a different form of continuity not aimed at return-to-self.
 
- Here is a summary:
+ 
 
 The section discusses Carl Schmitt's concept of sovereignty as the power to decide on the state of exception, suspending legal norms for the sake of self-preservation. Schmitt cites Kierkegaard's view that the exception reveals more than the general. But Hegel, who focuses on the normal case, also illuminates sovereignty through his idea that the monarch merely needs to say "yes" to validate laws. This "yes" expresses the same unconditional self-affirmation as the "no" by which the sovereign suspends the law in a state of exception. Both express the sovereign will's determination to realize itself, its subjectivity. 
 

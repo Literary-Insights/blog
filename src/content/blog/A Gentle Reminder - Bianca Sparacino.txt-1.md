@@ -25,7 +25,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
     - Chase the things that ignite your passion 
 - The overall tone is one of encouragement, empowerment and inspiration for "deep feelers" and idealists
 
- Here is a summary:
+ 
 
 - Have the courage to believe in genuine connection and open yourself up to it. Do not approach relationships wearing a mask or playing it cool. Have the courage to fully connect with people. 
 
@@ -43,7 +43,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - It is beautiful how you continue to show up openly and hopeful despite life’s defeats. The way you turn losses to lessons and find courage each day is brave. Your continued healing and growth are courageous.
 
- Here is a summary:
+ 
 
 Forgive yourself for changing and becoming a different person. Change means you are growing and learning. Do not fear change; wish for it. 
 
@@ -55,7 +55,7 @@ Forgive yourself for the way you treated yourself in the past. Forgive the way y
 
 The key message is to be gentle with yourself, learn from your experiences, and make choices that nourish you. Protect your peace and know your worth.
 
- Here is a summary:
+ 
 
 • Forgive yourself for not pursuing the things you wanted or needed in life because you didn’t feel worthy or deserving of them. Forgive yourself for not reaching your full potential or taking up space due to self-doubt and lack of confidence. Forgive yourself for not showing up for yourself in the ways you could have. 
 
@@ -75,7 +75,7 @@ The key message is to be gentle with yourself, learn from your experiences, and 
 
 • Do not settle for "almost" in a relationship. You deserve certainty, effort, and to be someone's favorite, not almost happy or almost valued.
 
- Here is a summary:
+ 
 
 • You deserve to be in a loving relationship where your partner values you, commits to you, and cares for your wellbeing. You deserve someone who wants the same things as you and treats you as a priority. 
 
@@ -113,7 +113,7 @@ The key message is to be gentle with yourself, learn from your experiences, and 
 
 • Ultimately, believe in your ability to be okay. You have an indomitable will to survive and thrive. Hard times never last, but strong people do. You can endure.
 
- Here is a summary:
+ 
 
 - Stand up for yourself and pursue the life you truly want. Believe in yourself and keep going no matter how difficult things are. Nothing can defeat you unless you let it.
 
@@ -129,7 +129,7 @@ The key message is to be gentle with yourself, learn from your experiences, and 
 
 - In a world pushing cool over connectedness, choose to be someone who cares deeply without fear of being too much. The right people will understand and nurture you.
 
- Here is a summary:
+ 
 
 Do not silence or diminish the parts of yourself that are capable of deeply loving other people. Embrace all of who you are. 
 
@@ -141,7 +141,7 @@ If you pour yourself into others, remember that you deserve love and care too. D
 
 Those who give the most also feel the most. Don't forget that you need rest and you cannot save everyone. Take the love you give to others and give it to yourself too. You do not have to always be the strong one. Ask for help when you need it. Take a step back to care for yourself. Your heart needs nurturing too.
 
- Here is a summary:
+ 
 
 • It is okay to want love and connection. Humans are social creatures and desire relationships. 
 
@@ -161,7 +161,7 @@ Those who give the most also feel the most. Don't forget that you need rest and 
 
 • Do not settle. Keep searching for love and connection that truly fulfills you.  Follow your heart.
 
- Here is a summary:
+ 
 
 • Love involves small but meaningful moments, like late night grocery runs, stolen moments together in public, and curling up with someone after a long day. These moments appear small but are profoundly fulfilling. 
 
@@ -177,7 +177,7 @@ Those who give the most also feel the most. Don't forget that you need rest and 
 
 • When letting go of someone who cannot love you well, remember what you deserve - someone who chooses you, reciprocates your love, supports you, sees you fully, and stands by your side. You deserve real love and connection.
 
- Here is a summary:
+ 
 
 - You deserve to find someone who genuinely loves and cares for you. Someone who shows up for you and wants to share life's moments, both big and small, with you. Release anyone who cannot give you their full love and support.
 
@@ -193,7 +193,7 @@ Those who give the most also feel the most. Don't forget that you need rest and 
 
 - It's okay to feel many things at once—both tender and tired, hopeful and haunted. Life contains beauty and hardship. Give yourself grace to feel the full range of emotions. True bravery is finding the strength and courage to face life each day, even when it's difficult, and to continue growing into your best self. Your worth isn't defined by any one person or experience.
 
- Here is a summary:
+ 
 
 Do not let someone else’s inability to love you or choose you define your self-worth. Do not abandon who you are or question yourself because of how others treat you. Remember to love yourself, because you have value and worth. Do not let being misunderstood or unappreciated by others cause you to see yourself through their eyes. You have always been worthy and deserving of love. 
 
@@ -209,7 +209,7 @@ Choose to remain open-hearted, even when it is difficult. Choose to keep going, 
 
 Remember that energy cannot be destroyed. The love you shared with someone you lost still exists in the world, even if they are no longer with you physically. They live on in your memories and in the transformation of their energy. Finding comfort in this idea can help ease the grieving process.
 
- Here is a summary:
+ 
 
 The passage is apologizing to the reader for the difficult experiences and hardships they have endured in life. The writer expresses sorrow that the world and the people in it have not always been kind. Specifically:
 
@@ -225,7 +225,7 @@ The passage is apologizing to the reader for the difficult experiences and hards
 
 - Ultimately, the passage is conveying regret for the suffering the reader has experienced and empathy for their hardships.
 
- Here is a summary:
+ 
 
 - The speaker expresses pride in the person they have become despite facing difficult life experiences. 
 - They are proud of the way they chose to love deeply and make themselves vulnerable. 

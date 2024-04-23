@@ -11,7 +11,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 ---
 
 
- Here is a summary:
+ 
 
 - Exponential technologies like computing, AI, biotech and digital networks are enabling rapid change that threatens slow-moving companies. However, they also enable entrepreneurs to solve big problems and achieve ambitious goals.
 
@@ -35,7 +35,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 That's a high-level summary of the key concepts and ideas presented in the introduction and preview. Please let me know if you would like me to clarify or expand on any part of this summary.
 
- Here is a summary:
+ 
 
 - Exponential technologies like AI, robotics, biotech, and 3D printing are moving beyond hype and disillusionment into disruptiveness. They are becoming increasingly sophisticated, affordable, and widespread.
 
@@ -227,7 +227,7 @@ That covers the key highlights and process for running a successful crowdfunding
 
 Does this summary accurately reflect the key points? Let me know if you would like me to clarify or expand on any part of the summary.
 
- Here is a summary:
+ 
 
 - Incentive competitions or prizes can attract unconventional solvers to problems by tapping into a wide range of expertise. They draw in new money, players, and cross-disciplinary solutions. Because you only pay the winner, prizes can generate a lot of innovation for little upfront cost.
 
@@ -243,7 +243,7 @@ Does this summary accurately reflect the key points? Let me know if you would li
 
 In summary, incentive competitions attract unconventional solutions to challenges by tapping diverse expertise and risk-taking. With the right design and oversight, prizes can achieve breakthrough innovation and accelerate progress.
 
- Here is a summary:
+ 
 
 - Thinking big is required to drive real-world solutions, launch new industries, and benefit humanity. Success requires bold thinking. 
 - Set bold goals. Specific, challenging goals motivate higher performance. Entrepreneurship demands bold goals and action.  
@@ -264,7 +264,7 @@ Strategies for thinking big:
 
 In summary, thinking big is essential to drive breakthroughs. Bold visionaries set audacious goals, give teams the freedom to fail, learn quickly, and scale their ideas exponentially. Despite facing doubters and obstacles, they persevere through passion and belief in their mission. The strategies discussed can apply at any scale to achieve outsized goals that benefit the world.
 
- Here is a summary:
+ 
 
 - Think at massive scale. Set hugely ambitious goals to drive progress, even if they seem impossible. Scale is needed to solve major problems. 
 

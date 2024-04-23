@@ -114,7 +114,7 @@ BOOK LINK:
 
 In summary, Aristotle had a much broader, more life-oriented conception of happiness than just subjective feelings of enjoyment. It meant fulfilling our nature through virtuous rational activity and living well.
 
- Here is a summary:
+ 
 
 - Pyrrho was a Greek philosopher who was one of the earliest and most radical proponents of skepticism. He questioned whether anything could truly be known with certainty. 
 
@@ -128,7 +128,7 @@ In summary, Aristotle had a much broader, more life-oriented conception of happi
 
 - Pyrrho's approach illustrated how taking skepticism to its logical extreme through one's actions could potentially endanger oneself, relying on others to intervene and avoid accidents. His life demonstrated how far one could take doubting rational beliefs and perceptions.
 
- Here is a summary:
+ 
 
 - Pyrrho was an ancient Greek philosopher who visited India and was influenced by mystical traditions there of extreme physical deprivation to achieve inner stillness. 
 
@@ -168,7 +168,7 @@ In summary, Aristotle had a much broader, more life-oriented conception of happi
 
 In summary, Augustine grappled with reconciling God's qualities of omnipotence and goodness with the existence of moral evils like murder that God has the power to prevent but does not, which posed philosophical problems he sought rational answers for.
 
- Here is a summary:
+ 
 
 The problem of evil questions why an all-powerful and all-good God would allow evil and suffering to exist. Augustine struggled with this problem throughout his life. As a young follower of Manichaeism, he believed good and evil were equally powerful forces constantly battling for dominance. This explained why evil occurred without blaming God. 
 
@@ -176,7 +176,7 @@ Later, Augustine rejected this dualistic view and believed God was truly all-pow
 
 Augustine believed free will, while allowing evil, was better than humans being programmed to only do good against their will. This allows for moral responsibility and the use of reason to choose right from wrong. So while God permits evil through free will, evil is an indirect result of human choice rather than God directly causing it. This reconciles God's power and goodness with the existence of suffering in the world.
 
- Here is a summary:
+ 
 
 - Boethius finds that worldly things like honor and riches are ultimately meaningless and will be lost at death. True happiness can only be found in God or goodness. 
 
@@ -192,7 +192,7 @@ Augustine believed free will, while allowing evil, was better than humans being 
 
 So in summary, it discusses Boethius' view of where true happiness lies, reconciles God's foreknowledge with free will, and outlines Anselm and Aquinas' philosophical arguments for proving God's existence.
 
- Here is a summary:
+ 
 
 - Niccolò Machiavelli argued that political leaders need not concern themselves with moral virtues like honesty, keeping promises, or kindness. The most important thing is maintaining power. 
 
@@ -206,7 +206,7 @@ So in summary, it discusses Boethius' view of where true happiness lies, reconci
 
 - The ends, of maintaining political control, justified questionable means for Machiavelli. He was more concerned with what worked pragmatically than worrying over morality. This perspective shocked many readers.
 
- Here is a summary:
+ 
 
 Machiavelli believed that openly approving Cesare Borgia's extreme brutality against potential enemies, as described in The Prince, would have been disastrous - both for Borgia personally and for the stability of the state. While Machiavelli advocated realism and cunning in a leader, outright cruelty tends to undermine rather than reinforce their power. According to Hobbes, in Machiavelli's view human nature is fundamentally selfish and driven by fear and self-interest. However, taking this view to an extreme, as Borgia did, risks provoking widespread opposition that threatens political control. So for Machiavelli pragmatism was preferable to overt ruthlessness, since it is better to be feared and respected than purely feared through acts of violence alone.
 
@@ -246,7 +246,7 @@ Machiavelli believed that openly approving Cesare Borgia's extreme brutality aga
 
 - Overall, critics argue Pascal's Wager is problematic because believing for self-interested reasons is not true faith, it does not account for choosing the wrong religion, and it may not be possible to talk oneself into genuine belief through imitation alone. The argument does not convincingly establish religious belief.
 
- Here is a summary:
+ 
 
 - John Locke grappled with the question of what makes a person the same over time, given that people change physically and mentally as they age. 
 
@@ -260,7 +260,7 @@ Machiavelli believed that openly approving Cesare Borgia's extreme brutality aga
 
 - In general, Locke introduced an influential philosophical analysis of personal identity that focused on the role of consciousness and memory, rather than just bodily continuity, in determining what makes a person the same over time.
 
- Here is a summary:
+ 
 
 - John Locke believed that our ideas or perceptions represent the real world, but we only perceive our ideas, not things directly. Ideas of primary qualities like shape resemble the real objects, but qualities like color are just ideas produced by light. 
 
@@ -288,7 +288,7 @@ Machiavelli believed that openly approving Cesare Borgia's extreme brutality aga
 
 - Voltaire felt there was too much evil and suffering in the world to support the view that this was the best of all possible worlds, as the Lisbon earthquake showed. He was skeptical of philosophical systems that claimed to have all the answers.
 
- Here is a summary:
+ 
 
 - Voltaire championed philosophical causes like defending the wrongly accused. One example was Jean Calas, who was wrongly executed for supposedly murdering his son, when the son actually committed suicide. Voltaire got the judgment overturned. 
 
@@ -304,7 +304,7 @@ Machiavelli believed that openly approving Cesare Borgia's extreme brutality aga
 
 So in summary, Voltaire used his wealth to champion causes, while believing in God, and Hume critically analyzed and undermined common arguments for believing in God's existence based on nature and reported miracles.
 
- Here is a summary:
+ 
 
 - Jean-Jacques Rousseau was a major 18th century Swiss philosopher and writer who had a significant impact on political philosophy. 
 
@@ -318,7 +318,7 @@ So in summary, Voltaire used his wealth to champion causes, while believing in G
 
 - Rousseau's ideas influenced revolutionary thought but his approval of enforcement is at odds with modern understanding of political freedom as individual choice. He spent much of his life fleeing persecution of his unconventional religious and political views.
 
- Here is a summary:
+ 
 
 - Kant believed that morality is based on reason and duty, not feelings or emotions. Helping someone just because you feel sorry for them is not a truly moral action according to Kant. 
 
@@ -332,7 +332,7 @@ So in summary, Voltaire used his wealth to champion causes, while believing in G
 
 - Kant believed emotions should not factor into morality at all. An action is moral if a reasonable person concludes it is their duty to do it, setting aside personal feelings.
 
- Here is a summary:
+ 
 
 - Jeremy Bentham was a British philosopher who developed the moral philosophy of utilitarianism. He believed that the morally right action is the one that produces the greatest happiness for the greatest number of people.
 
@@ -344,7 +344,7 @@ So in summary, Voltaire used his wealth to champion causes, while believing in G
 
 - Bentham left very clear instructions about how to display his auto-icon, or preserved remains, after his death at University College London. His notion of utilitarianism as a guide for law and policy reform had a major influence on philosophy and political thought.
 
- Here is a summary:
+ 
 
 - Georg Wilhelm Friedrich Hegel believed that wisdom and understanding about history can only truly come at the end, when looking back on what has already happened. This is represented by his saying that "The owl of Minerva flies only at dusk."
 
@@ -356,7 +356,7 @@ So in summary, Voltaire used his wealth to champion causes, while believing in G
 
 - Hegel moved from obscurity to fame as a philosopher, starting as a tutor and eventually becoming a renowned professor in Berlin, though his works are still debated as to their meaning and value.
 
- Here is a summary:
+ 
 
 - Hegel believed that history has an underlying structure and purpose - it is progressing towards the "gradual and inevitable coming to self-awareness of Spirit through the march of reason." Spirit represents the collective mind or consciousness of humanity. 
 
@@ -370,7 +370,7 @@ So in summary, Voltaire used his wealth to champion causes, while believing in G
 
 - This overview of Hegel's philosophy of history highlights his controversial ideas about progress, reason, and the goal or end point of history being a fully self-aware Spirit/Mind. Schopenhauer rejected these core claims.
 
- Here is a summary:
+ 
 
 - John Stuart Mill was subjected to an educational experiment by his father James Mill, who aimed to raise Mill to be a genius by having him learn from an early age through intense studying with tutors rather than playing with other children. 
 
@@ -386,7 +386,7 @@ So in summary, Voltaire used his wealth to champion causes, while believing in G
 
 So in summary, Mill accepted utilitarianism but developed his own qualified version that distinguished higher from lower forms of pleasure or happiness. This departed from Bentham's simpler view but aimed to give a richer account of human well-being and morality.
 
- Here is a summary:
+ 
 
 Mill believed that there is no objective way to compare higher and lower pleasures. Utilitarianism seeks to maximize happiness, but different individuals may find different things pleasurable. Mill argued that it is impossible to definitively say that one type of pleasure is intrinsically higher or lower than another. This complicates the utilitarian goal of determining what will maximize pleasure for society. 
 
@@ -432,7 +432,7 @@ Mill applied his utilitarian philosophy broadly to issues of individual liberty 
 
 - William James took a pragmatic approach, focusing on practical consequences rather than absolute truths. In discussing whether a hunter circling a tree was circling the squirrel too, James noted it depends on intended meaning and consequences, not discovering an objective truth.
 
- Here is a summary:
+ 
 
 - The statement "God is dead" was famously uttered by the German philosopher Friedrich Nietzsche in the late 19th century. 
 
@@ -444,11 +444,11 @@ Mill applied his utilitarian philosophy broadly to issues of individual liberty 
 
 - His declaring "God is dead" was a provocative statement meant to highlight how modernity and scientific rationalism were eroding traditional religious worldviews and authority in Europe in the late 19th century. It represented his perspective on the "death" of religious faith and meaning in the modern world.
 
- Here is a summary:
+ 
 
 Sigmund Freud significantly altered human understanding by discovering the unconscious mind. He realized that much of human behavior is driven by unconscious desires and wishes that people are unaware of. These unconscious factors have a profound influence on people's lives and on society, for better and worse. Through his work with patients experiencing hysteria and other neuroses, Freud became convinced that the underlying causes were repressed memories or desires residing unconsciously in their minds. This challenged the view that humans had full insight into themselves. Freud's theories revolutionized how psychology understands human behavior and development in similar fashion to how Copernicus and Darwin previously transformed perceptions of humanity's place in the natural world. However, his ideas remain controversial and debated today.
 
- Here is a summary:
+ 
 
 - Freud introduced the concept of the unconscious mind through his development of psychoanalysis. By allowing patients to freely discuss their thoughts and recount dreams, he found this "talking cure" unlocked unconscious thoughts and relieved symptoms. Simply talking seemed to release pressure built up from ideas people did not consciously confront. 
 
@@ -498,7 +498,7 @@ While existentialist philosophy deals with important questions about human condi
 
 - Wittgenstein saw his role as a philosophical therapist, using examples to make confuse dissolve rather than directly addressing problems. He aimed to show importance assumed of issues that were actually not problems.
 
- Here is a summary:
+ 
 
 - Wittgenstein used the metaphor of family resemblance to explain how concepts like "games" work in language. Rather than having one essential common feature, concepts relate to one another through overlapping resemblances. Different family members may share some features but not others. 
 
@@ -510,7 +510,7 @@ While existentialist philosophy deals with important questions about human condi
 
 - Though Jewish, Wittgenstein's extended family escaped the Holocaust. Eichmann organized mass transportation of Jews to concentration camps, playing a key role in the genocide but claiming just to follow orders.
 
- Here is a summary:
+ 
 
 - The philosopher Hannah Arendt attended the trial of Nazi bureaucrat Adolf Eichmann in Jerusalem and wrote about it. 
 
@@ -524,7 +524,7 @@ While existentialist philosophy deals with important questions about human condi
 
 - Her account emphasized how totalitarian systems can prevent independent thinking and moral responsibility, leading otherwise normal people to engage in extreme wrongdoing. It highlighted the dangers of unquestioningly following authority.
 
- Here is a summary:
+ 
 
 - The passage discusses two philosophers, Philippa Foot and Judith Jarvis Thomson, and their use of thought experiments to explore moral thinking.
 
@@ -556,7 +556,7 @@ While existentialist philosophy deals with important questions about human condi
 
 So in summary, it examines a classic trolley problem-style thought experiment and variations to probe philosophical questions around sacrificing one life to save others and principles of morality, autonomy, and unintended consequences.
 
- Here is a summary:
+ 
 
 - John Rawls proposed a thought experiment called the "original position" to theorize a just society in a way that removes biases. People designing society wouldn't know their position in it. 
 
@@ -568,7 +568,7 @@ So in summary, it examines a classic trolley problem-style thought experiment an
 
 - Rawls sought to use philosophy to stimulate meaningful social change, not just debate, influencing many later philosophers writing on justice and cooperation in society.
 
- Here is a summary:
+ 
 
 - Turing proposed what came to be known as the Turing Test for artificial intelligence. It involves a tester having a conversation with either another person or a computer without knowing which. If the tester cannot distinguish between a person and the computer, then the computer has passed the test and can be considered intelligent. 
 
@@ -580,7 +580,7 @@ So in summary, it examines a classic trolley problem-style thought experiment an
 
 - The debate touches on issues like whether computer-based minds could survive death by being uploaded, and whether computers may one day contribute philosophical ideas, though for now we rely on human philosophers.
 
- Here is a summary:
+ 
 
 - Peter Singer is one of the most well-known living philosophers due to his challenging of widely held views. He doesn't believe in the absolute sanctity of human life - he argues mercy killing may be acceptable in some cases like irreversible vegetative states. 
 

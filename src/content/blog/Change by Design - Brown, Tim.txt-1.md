@@ -319,7 +319,7 @@ In summary, applying design thinking to innovation processes and organizational 
 
 - Design thinking engages audiences over time through effective storytelling. This helps new ideas propagate by turning audiences into storytellers. Skillful narratives convince people to try new ideas and share them.
 
- Here is a summary:
+ 
 
 The article discusses how effective storytelling is an important part of design thinking. It provides examples of how companies like BMW, Panasonic, and the American Red Cross have used storytelling and design challenges to market their products and services in more creative and human-centered ways. 
 
@@ -447,7 +447,7 @@ In summary, design thinking evolved as a innovation methodology and helps large 
 
 - Overall, design thinking with its human-centered and systems-level perspective can promote the "massive change" needed for environmental and economic sustainability.
 
- Here is a summary:
+ 
 
 The work of visual artists like Chris Jordan and Edward Burtynsky uses scale and imagery to convey the impact of human activity on the environment in a visceral, emotional way. Design thinkers like Dr. Chris Luebkeman have also created tools like the Drivers of Change cards that present environmental issues clearly without being overwhelming. Companies like Pangea Organics and Amory Lovins' Rocky Mountain Institute are rethinking business models and product design to be more sustainable from start to finish. But changing supply is not enough - consumer demand and behavior must also shift to be more conservation-focused. Efforts like the Department of Energy's Shift Focus program recognized this and targeted messaging to connect with people's values rather than assuming they already cared about efficiency. 
 

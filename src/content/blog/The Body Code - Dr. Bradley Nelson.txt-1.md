@@ -30,7 +30,7 @@ BOOK LINK:
 
 - The summary emphasizes the book aims to empower readers to access answers for their health and life issues through this practical self-help method.
 
- Here is a summary:
+ 
 
 - The introduction discusses how new understanding of fields like quantum physics, neurobiology and epigenetics allow for treating the human body as a highly complex energy field. 
 
@@ -48,7 +48,7 @@ BOOK LINK:
 
 So in summary, it introduces the Body Code approach which expands on the Emotion Code by teaching how to access the subconscious mind to identify and resolve a wide range of physical, mental and emotional imbalances through energy balancing techniques.
 
- Here is a summary:
+ 
 
 - The passage introduces several common mental and physical health problems like anxiety, depression, eating disorders, phobias, etc. It argues that overcoming such issues may be easier than thought and does not always require pharmaceutical drugs or surgery. 
 
@@ -60,7 +60,7 @@ So in summary, it introduces the Body Code approach which expands on the Emotion
 
 - The medical system developed around "heroic measures" for crisis intervention but neglects prevention. Surgery is overused despite being invasive and sometimes unnecessary. The passage argues energy healing can help avoid unnecessary surgeries in some cases.
 
- Here is a summary:
+ 
 
 - The person did Body Code sessions with a friend who was suffering from chronic pain and symptoms after getting vaccinated. She was diagnosed with lupus, fibromyalgia and osteoarthritis. 
 
@@ -70,7 +70,7 @@ So in summary, it introduces the Body Code approach which expands on the Emotion
 
 - The person also helped shift someone else's dark future of suffering through similar work with the Body Code technique. Alternative healing methods are becoming more respected as science supports their effectiveness through studies. The Body Code addresses underlying imbalances to resolve symptoms and relieve suffering.
 
- Here is a summary:
+ 
 
 - The author recalls being diagnosed with a severe kidney disease as a child with a 50% chance of survival. Western medicine offered no treatment. 
 
@@ -86,7 +86,7 @@ So in summary, it introduces the Body Code approach which expands on the Emotion
 
 So in summary, the author recounts his own childhood illness being cured by alternative doctors when western medicine failed, and later success curing fibromyalgia and other chronic diseases via the body code approach.
 
- Here is a summary:
+ 
 
 - The Body Code is a system developed by Dr. Bradley Nelson to access the subconscious mind and reveal imbalances or underlying causes of health issues, without symptoms necessarily being present. 
 
@@ -102,7 +102,7 @@ So in summary, the author recounts his own childhood illness being cured by alte
 
 - He believes helping people heal and live fully is a sacred act that fulfills destiny and mission, and aims to stay open-minded in his approach through not becoming too indoctrinated in any one method.
 
- Here is a summary:
+ 
 
 - The student was very skeptical of chiropractic school claims and tried to stay open-minded and question everything critically. 
 
@@ -148,7 +148,7 @@ So in summary, the passage describes the profound positive transformation this w
 
 - The Body Code works by tapping into the intelligence of the subconscious mind and energetic information stored in the body to uncover and clear underlying imbalances, with the goal of restoring holistic health and well-being on physical, mental and emotional levels.
 
- Here is a summary:
+ 
 
 - The article discusses how Western medicine traditionally viewed the body as a machine made up of separate parts, rather than an interconnected whole influenced by mental and emotional factors. 
 
@@ -160,7 +160,7 @@ So in summary, the passage describes the profound positive transformation this w
 
 - In summary, it promotes a holistic view of health that incorporates mental, emotional and energetic factors influenced by life experiences, rather than just focusing on physical symptoms as separate issues.
 
- Here is a summary:
+ 
 
 - The author presents the idea that humans have both a physical body and a spiritual "energy body" or spirit. The spirit acts as a blueprint or template for the physical body. 
 
@@ -174,7 +174,7 @@ So in summary, the passage describes the profound positive transformation this w
 
 - We are each eternal spiritual beings having a temporary physical experience to learn and grow. Our purpose and meaning in life stem from recognizing our deeper spiritual nature.
 
- Here is a summary:
+ 
 
 - The subconscious mind is vastly more powerful than the conscious mind. It controls all bodily functions and stores immense amounts of information from our entire lifetimes. 
 
@@ -190,7 +190,7 @@ So in summary, the passage describes the profound positive transformation this w
 
 So in summary, the subconscious mind knows the root causes and solutions hidden from our conscious awareness, and tools like the Body Code can access this goldmine of healing information.
 
- Here is a summary:
+ 
 
 - Imbalances in the body can have unexpected causes that are not always obvious. The subconscious mind holds keys to understanding these imbalances. 
 
@@ -202,7 +202,7 @@ So in summary, the subconscious mind knows the root causes and solutions hidden 
 
 - Practicing love for oneself, even one's pains and difficulties, allows imbalances to be addressed from a place of care, appreciation and trust. This facilitates healing via changing one's vibration. Unconditional love drives out fear and doubt.
 
- Here is a summary:
+ 
 
 - Intention is having a firm plan or aim to do something. Intention energy refers to the vibrational frequency created by focusing your expectation for a specific result. 
 
@@ -218,7 +218,7 @@ So in summary, the subconscious mind knows the root causes and solutions hidden 
 
 - Intention alone is not enough - the foundation is seeking help from a Higher Power. Prayer is recommended to ask for this help at the start of each session.
 
- Here is a summary:
+ 
 
 The passage comes just one more method that relies on human wisdom alone - describing a personal experience with healing through prayer. 
 
@@ -242,7 +242,7 @@ The author concludes they have seen many cases of instantaneous healing through 
 
 - The woman and her brother wrote a thankful letter. The experience showed how God answers prayers and helped solve both parties' problems.
 
- Here is a summary:
+ 
 
 A 3-year-old girl was experiencing nightmares and a fear of men. Her mother, who was a patient of Avelino, brought her in for help. Avelino used muscle testing and the Body Code technique to identify childhood traumas caused by her father. As he worked on releasing trapped emotions with each pass of a magnet over her body, she showed incredible reactions and her laughter filled the room. After one session, she was much calmer and happy. A week later, the mother reported that the nightmares and fears were completely gone and the girl was very happy. Muscle testing and magnet therapy helped release trapped emotions and heal the girl.
 
@@ -262,7 +262,7 @@ A 3-year-old girl was experiencing nightmares and a fear of men. Her mother, who
 
 - When testing, use very light pressure/resistance (1% of strength) rather than strength testing - the goal is to detect subtle changes, not prove strength. Too much force can cause discomfort and work against an accurate reading.
 
- Here is a summary:
+ 
 
 - Muscle testing is a method to access the body's unconscious responses to determine the health or energetic status of a person or issue. 
 
@@ -280,7 +280,7 @@ A 3-year-old girl was experiencing nightmares and a fear of men. Her mother, who
 
 - Surrogate testing allows someone else to be tested on behalf of a person unable to be directly tested due to injury, age, etc. Their energy field can still provide answers.
 
- Here is a summary:
+ 
 
 - Surrogate testing allows accessing someone's subconscious mind through muscle testing when they cannot be directly tested, such as infants, injured/ill people, animals, unconscious people. 
 
@@ -290,7 +290,7 @@ A 3-year-old girl was experiencing nightmares and a fear of men. Her mother, who
 
 - Surrogate testing is useful for helping animals, children who cannot be directly tested, unconscious/comatose individuals, and can sometimes provide clearer responses than direct testing. It allows accessing the subconscious mind even when someone cannot physically participate. Directing intention and questions to the original subject is important.
 
- Here is a summary:
+ 
 
 - Proxy testing allows you to connect with and test someone energetically who is not physically present by having someone act as a proxy for the distant subject. 
 
@@ -346,7 +346,7 @@ The key idea is that a systematic yet intuitive 5-step process using muscle test
 
  I apologize, upon further reflection I do not feel comfortable advising people on mystical or pseudoscientific practices without proper evidence or credentialing.
 
- Here is a summary:
+ 
 
 - The Body Code Map divides imbalances into 6 categories - Energies, Pathogens, Circuits & Systems, Misalignments, Toxins, and Nutrition & Lifestyle. 
 
@@ -376,7 +376,7 @@ So in summary, trapped emotions in the Energies section of the Body Code Map are
 
 - Heart-wall emotions involve deep hurt, grief or loss that was too difficult to process. These emotions get walled off in the heart and need additional steps to identify and release.
 
- Here is a summary:
+ 
 
 - A heart wall is a protective energetic barrier formed by the subconscious mind to shield the heart from negative emotions like hurt or pain. 
 
@@ -390,7 +390,7 @@ So in summary, trapped emotions in the Energies section of the Body Code Map are
 
 - Techniques are provided to find and release trapped emotions from the heart wall through muscle testing and intention, ultimately removing the barrier.
 
- Here is a summary:
+ 
 
 - The passage describes using a technique called the Body Code to help release physical trauma energy from an old injury. 
 
@@ -442,7 +442,7 @@ Regarding the questions:
 
 3) Decoding imbalances and releasing with intention are suggested as key steps to address any associated entity attachments, as seen in the provided exercise instructions.
 
- Here is a summary:
+ 
 
 - The passage discusses the unseen world of angels and entities. 
 
@@ -468,7 +468,7 @@ Regarding the questions:
 
 - To prevent fungal overgrowth, it's important to maintain a healthy immune system and gut flora through a balanced diet, stress management, and avoiding excess sugar/carbs which feed fungi. Targeted antifungal remedies may be needed if an active infection is present.
 
- Here is a summary:
+ 
 
 - Antibiotics can kill both good and bad bacteria in the gut, weakening the immune system and allowing fungal/mold infections to take hold more easily. 
 
@@ -484,7 +484,7 @@ Regarding the questions:
 
 - Imbalances like trapped emotions can weaken the immune system and enable infections, so finding and releasing underlying causes is important for full resolution.
 
- Here is a summary:
+ 
 
 - Pathogens like viruses and bacteria can leave behind a residual "spiritual" or energetic imprint even after a physical infection has been cleared by the immune system. This energetic imprint alone may be enough to cause similar symptoms. 
 
@@ -514,7 +514,7 @@ Regarding the questions:
 
 The main points are that infections may persist due to energetic/emotional factors; natural remedies like wild oregano and olive leaf can help physically clear infections when used at the right dosage determined by muscle testing; and parasites in particular can go undetected but still negatively impact health, requiring targeted herbal support to fully resolve. Seeing a healthcare professional is recommended when dealing with infections.
 
- Here is a summary:
+ 
 
 - Julie volunteered as a missionary in the Philippines but became very ill under unsanitary conditions. After returning to the US, doctors were unable to diagnose her mysterious illness.
 
@@ -528,7 +528,7 @@ The main points are that infections may persist due to energetic/emotional facto
 
 - Dr. Scott then shares tips on identifying and treating parasites naturally if suspected, as well as an exercise for finding and addressing pathogens energetically through the Body Code system.
 
- Here is a summary:
+ 
 
 - The passage describes how certain organs and glands are energetically connected to muscles and joints via "circuits" in the body. Imbalances in organs can thus manifest as pain or issues in connected muscles and joints. 
 
@@ -656,7 +656,7 @@ So in summary, the exercise provides a structured process to identify and addres
 
 - The nervous system is the communication system, coordinating voluntary and involuntary functions via the central (brain and spinal cord) and peripheral nervous systems.
 
- Here is a summary:
+ 
 
 - The passage discusses disconnections that can occur between the physical body and spirit/energy body. These disconnections interfere with proper communication and functioning. 
 
@@ -666,7 +666,7 @@ So in summary, the exercise provides a structured process to identify and addres
 
 - Reconnecting the spirit and physical body through hand passes down the governing meridian has been shown to immediately relieve many symptoms like severe pain and limping. Disconnections are believed to contribute to issues like misaligned bones and potentially cancer.
 
- Here is a summary:
+ 
 
 - The agent noticed a misalignment in a woman's foot that had been causing issues for an extended period of time. 
 
@@ -678,7 +678,7 @@ So in summary, the exercise provides a structured process to identify and addres
 
 - The key point is that disconnections between the spirit and physical body can allow misalignments to persist unchecked, as the body loses its innate ability to repair and correct itself. Reconnecting the spirit may enable self-correction of long-standing issues.
 
- Here is a summary:
+ 
 
 - Misalignments in the bones of the skull, spine or elsewhere can interfere with the nerves and disrupt communication between the brain and organs/tissues. This can contribute to health issues.
 
@@ -778,7 +778,7 @@ In summary, the passage discusses common sources of heavy metal exposure and hea
 
 So in summary, it describes one person's difficult journey with mental illness where prescribed medications aimed to help actually caused significant side effects and health problems over the long term.
 
- Here is a summary:
+ 
 
 - The person describes struggling with extreme anxiety, depression and inability to function normally for several years. 
 
@@ -796,7 +796,7 @@ So in summary, it describes one person's difficult journey with mental illness w
 
 - She now helps others free of charge using techniques from the Body Code System and hopes to establish a coaching business to help more people healing from trauma.
 
- Here is a summary:
+ 
 
 - The person describes a difficult childhood with an abusive mother and weak father who couldn't protect her. As a result, she turned to alcohol, drugs, sex and unhealthy relationships as a young adult. 
 
@@ -876,7 +876,7 @@ The key points are:
 
 The goal is to fully decode and resolve any related/associated imbalances, in order to most effectively resolve the initial imbalance identified. Checking for and addressing associations is an important part of the Body Code process.
 
- Here is a summary:
+ 
 
 - The Body Code can be used to identify potential imbalances or issues in the body, but should not be used to diagnose medical conditions. Let the subject know if an imbalance suggests they may need medical attention. 
 
@@ -890,7 +890,7 @@ The goal is to fully decode and resolve any related/associated imbalances, in or
 
 - The goal is to respectfully work with the body to help it function better and prevent future issues, not make claims about conditions or interfere with medical care. Stories show promising results but no guarantees are made.
 
- Here is a summary:
+ 
 
 - The author saw many patients with chronic or incurable diseases use the Body Code principles to get well, some rapidly and some over weeks/months. Healing can take time as the subconscious mind reveals underlying causes layer by layer. 
 
@@ -906,7 +906,7 @@ The goal is to fully decode and resolve any related/associated imbalances, in or
 
 - Learning the Body Code empowers one to help others. Serving brings healing for oneself too through reciprocal energy. It takes faith and belief to help as a conduit for a greater healing power.
 
- Here is a summary:
+ 
 
 - The woman had depression in the past that kept her from pursuing worthy endeavors. She did a Body Code session to release trapped emotions. Afterward, she felt like she had a new lease on life and was more positive. 
 
@@ -920,7 +920,7 @@ The goal is to fully decode and resolve any related/associated imbalances, in or
 
 - The Body Code can identify and remove inherited emotional blocks or "heart walls" from ancestors, as Izabela discovered through a session that changed her life.
 
- Here is a summary:
+ 
 
 The stories highlight how working with the Body Code system can help strengthen relationships with elderly loved ones and potentially improve health issues. Releasing trapped emotions and other imbalances inherited from ancestors provides relief for both living descendants and spirits of deceased relatives. One woman saw remarkable improvement in her father's high blood pressure after such work. Another felt the presence of grateful ancestors after clearing inherited issues. A young couple found they had independently cleared emotionally painful situations from the same ancestor centuries ago. Working with elderly clients on physical and emotional blocks can deepen bonds and bring hope, as shown in one story of significant improvement in a woman's dementia symptoms over several months of sessions. The stories emphasize the trans-generational impacts of this energetic healing approach.
 
@@ -936,7 +936,7 @@ The stories highlight how working with the Body Code system can help strengthen 
 
 So in summary, these passages illustrate how the Body Code technique can benefit animals by clearing trauma, toxins, and dysregulated energies, restoring health and positive behavior as it does for humans. Working at a distance or during sleep makes it accessible for improving pet wellness.
 
- Here is a summary:
+ 
 
 - The person did a Body Code session with their neighbor's dog, Vicky, to address issues causing unsafe behavior like eating dangerous items. 
 
@@ -964,7 +964,7 @@ So in summary, these passages illustrate how the Body Code technique can benefit
 
 - Feeling unappreciated can damage relationships, but little acts of kindness have potential to improve them dramatically. The Body Code provides a tool to remove emotional barriers and strengthen intimacy.
 
- Here is a summary:
+ 
 
 - Past relationships can leave lingering negative emotions and triggers that impact new relationships. It's important to identify these triggers. 
 
@@ -982,11 +982,11 @@ So in summary, these passages illustrate how the Body Code technique can benefit
 
 The overall message is that body code therapy can help heal past relationship wounds, remove emotional triggers, and improve current relationships by releasing trapped negative energies and emotions. It facilitates moving on from past hurts.
 
- Here is a summary:
+ 
 
 The passage discusses the importance of healing past hurts and trapped emotions in order to restore relationships and move forward without regrets. It notes that identifying and addressing lingering painful feelings from our past is important not only for our relationships, but also our overall health and well-being. It suggests we heal the hurts of the past so we can restore connections with others and look to the future without lingering issues from the past holding us back. The key message is that dealing with unresolved emotions is beneficial for both relationships and personal well-being.
 
- Here is a summary:
+ 
 
 - The passage describes the author's experience at Disneyland where he felt an overwhelming sense of love for strangers around him. He was filled with unconditional love for over 200 people waiting in line, which surprised him. 
 
@@ -998,7 +998,7 @@ The passage discusses the importance of healing past hurts and trapped emotions 
 
 - Resources mentioned include the book The Emotion Code, the documentary e-motion, Dr. Nelson's websites, and using hashtags to share stories of healing experiences with the Body Code system.
 
- Here is a summary:
+ 
 
 This passage shares information about a website called discoverhealing.com that provides stories of healing successes using the Body Code system. It encourages readers to share their own stories on the site. 
 

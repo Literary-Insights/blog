@@ -374,7 +374,7 @@ So in summary, HBO built a strong brand with bold, prestigious programming but s
 
 - Strauss's lifelong mission has been to make watching TV more customizable and on-demand. His personal journey tracks how the industry has evolved from broadcasting to on-demand streaming.
 
- Here is a summary:
+ 
 
 Matt Strauss had a vision for on-demand programming at Comcast that went beyond pay-per-view. He convinced Comcast to produce original content and package it in an on-demand service to differentiate their offerings. This ushered in a period of innovation at Comcast, with Strauss overseeing projects like the Xfinity cable system that integrated Netflix and other streaming apps. 
 

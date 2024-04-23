@@ -24,7 +24,7 @@ BOOK LINK:
 
 - The essay summarized covers several chapters about the rise of artificial intelligence and machine learning. It discusses how Google's AlphaGo system was able to master the game of Go by using deep neural networks and tree search to learn strategies from analyzing millions of past games, rather than having to explicitly program human expertise. This was a breakthrough as past Go programs struggled due to our inability to fully articulate our own tacit knowledge, known as Polanyi's Paradox. AlphaGo achieved strong victories over both the European Go champion and Lee Sedol, the top-ranked human player in the world.
 
- Here is a summary:
+ 
 
 - Goodwin described companies like Uber, Airbnb, Alibaba, and Facebook as an "indescribably thin layer" since they own minimal physical assets and infrastructure compared to traditional companies in their industries. 
 
@@ -36,7 +36,7 @@ BOOK LINK:
 
 - FirstBuild was a "co-creation community" GE had launched with the University of Louisville to change how products reach the market by enabling online collaboration and rapid prototyping.
 
- Here is a summary:
+ 
 
 - An entrepreneur at GE Appliances wanted to develop an easier way for people to access "nugget ice" - small, porous ice cubes that are easier to chew on than normal ice cubes. 
 
@@ -60,7 +60,7 @@ BOOK LINK:
 
 - During the electrification period, over 40% of large industrial trusts formed in the late 19th/early 20th centuries failed by the 1930s. While new technologies may provide efficiencies, sound economic principles like adaptability and anticipation of disruptions are vital for long-term success during periods of significant technological change. Flexible approaches to tasks, products, and business models are important to capitalize on innovations' full potential value.
 
- Here is a summary:
+ 
 
 - A study found that the average market share of dominant manufacturing firms declined significantly from 1905 to 1929, from 69% to 45%. This suggests the competitive environment in the US became more challenging in the 20th century. 
 
@@ -86,7 +86,7 @@ BOOK LINK:
 
 So in summary, the passage explicitly discusses Kahneman's dual process theory of thinking in which people have an intuitive, automatic System 1 and a deliberate, effortful System 2 mode of reasoning. It provides examples of how both systems can be developed.
 
- Here is a summary:
+ 
 
 - Traditional models propose a "standard partnership" between human intuition/judgment and machines, with humans focusing on complex decision making and machines handling calculations. 
 
@@ -98,7 +98,7 @@ So in summary, the passage explicitly discusses Kahneman's dual process theory o
 
 - While human intuition still has a role, companies are increasingly relying less on expert judgments and predictions and more on data-driven approaches due to their superior performance. The conclusion is we need to rely less on expert judgments alone.
 
- Here is a summary:
+ 
 
 - The passage discusses the increasing adoption of data-driven decision making and its performance benefits as observed in a large survey of manufacturing plants. While algorithmic models have achieved success, they have limitations as well. 
 
@@ -108,7 +108,7 @@ So in summary, the passage explicitly discusses Kahneman's dual process theory o
 
 - In summary, the passage examines both the performance gains seen from increased use of data-driven decision making, but also acknowledges the difficulties and limitations in replacing human judgment with algorithms in all cases. A balanced partnership of humans and machines may provide the best outcomes.
 
- Here is a summary:
+ 
 
 - Dan Wagner saw how the Obama 2012 reelection campaign used machine learning models and extensive voter data to precisely target voters, moving beyond traditional demographic-based advertising targeting. 
 
@@ -122,7 +122,7 @@ So in summary, the passage explicitly discusses Kahneman's dual process theory o
 
 - The challenge is to minimize biases and errors in decision systems, while allowing for quick correction. The best approaches may involve a combination of machine and human intelligence.
 
- Here is a summary:
+ 
 
 The story proposes that in the future, companies may adopt a hybrid model of human and AI collaboration instead of humans solely making decisions. It uses an exaggerated example of a factory where one human feeds a dog and the dog prevents the human from touching machines as a mock scenario of how jobs could look. 
 
@@ -134,7 +134,7 @@ Some companies are now inverting the model by having human judgment serve as inp
 
 In summary, the future likely involves collaborative human-AI models rather than either making solo decisions. Humans provide strengths like broad context and oversight, while algorithms aim to reduce biases if properly optimized with performance tracking over time. An inverted arrangement with human input to algorithms may be most effective.
 
- Here is a summary:
+ 
 
 - Computers making decisions pushes people to the margins and diminishes their decision-making role. While uncomfortable, relying solely on human judgment can lead to poor outcomes. 
 
@@ -150,7 +150,7 @@ In summary, the future likely involves collaborative human-AI models rather than
 
 - In summary, human judgment is flawed and algorithms often outperform even experts. Decisions should increasingly rely on data and testing over predictions and subjective judgment where possible.
 
- Here is a summary:
+ 
 
 - Decision-making processes should focus on producing the best outcomes based on clear goals and metrics, rather than making decision-makers feel good. 
 
@@ -162,7 +162,7 @@ In summary, the future likely involves collaborative human-AI models rather than
 
 The questions posed ask about tracking performance of human and algorithmic judgments over time; where HiPPOs are most common and potential opportunities to incorporate more data; whether algorithms or humans are generally more biased; preferences for generalists vs specialists; and characteristics of projects typically undertaken.
 
- Here is a summary:
+ 
 
 - In the 1950s, researchers like Frank Rosenblatt created one of the first machine learning systems called the Perceptron, which could classify simple images. However, it had limitations and research in neural networks declined after a critique in 1969. 
 
@@ -172,7 +172,7 @@ The questions posed ask about tracking performance of human and algorithmic judg
 
 So in summary, early machine learning systems showed promise but had limitations, research declined, but persistence by some led to advances enabling the recent powerful applications of neural networks and deep learning for artificial intelligence tasks.
 
- Here is a summary:
+ 
 
 - Deep learning and neural networks are now the dominant form of artificial intelligence, fulfilling some of the early promises of AI. 
 
@@ -184,7 +184,7 @@ So in summary, early machine learning systems showed promise but had limitations
 
 - The technology is spreading rapidly both within large companies and in unexpected areas like a Japanese family farm, where a son automated cucumber sorting using Google's TensorFlow and achieving 70% accuracy. The widespread availability of tools and cloud resources is enabling more widespread application of deep learning.
 
- Here is a summary:
+ 
 
 - Makoto is excited to try new machine learning software that can perform image analysis and other tasks in the cloud. Kaz Sato from Google says the potential uses of machine learning are only limited by our imagination. 
 
@@ -210,7 +210,7 @@ So in summary, early machine learning systems showed promise but had limitations
 
 The key idea is that Eatsa demonstrated how transactions between businesses and customers can be virtualized by moving them entirely online and eliminating in-person interactions, thanks to technologies like touchscreen ordering, automated order preparation, and smart cubby pickup systems. This virtualization of processes is becoming more common across different industries.
 
- Here is a summary:
+ 
 
 - Virtualization is accelerating as digital technologies become more ubiquitous. Banking has greatly virtualized through ATMs, online banking, mobile apps, etc. reducing the need for in-person tellers. 
 
@@ -222,7 +222,7 @@ The key idea is that Eatsa demonstrated how transactions between businesses and 
 
 - Automation is also expanding to food preparation as robot technology improves in handling irregular objects through advanced vision and touch. Early automated restaurants and robotic chefs show the potential for highly automated food production in the future through a "Cambrian explosion" of robotics capabilities.
 
- Here is a summary:
+ 
 
 - The "Cambrian Explosion" was a period of rapid evolution in life on Earth where most major animal phyla appeared. 
 
@@ -238,7 +238,7 @@ The key idea is that Eatsa demonstrated how transactions between businesses and 
 
 - Roles that are well-suited for robots include tasks that are dull, dirty, dangerous and/or expensive for humans, like construction site monitoring, precision agriculture and other applications discussed.
 
- Here is a summary:
+ 
 
 - Drones are being used increasingly in agriculture to monitor crop growth and health over time, enabling more precise application of water, fertilizer and pesticides based on drone imaging data. This supports the trend toward precision agriculture. 
 
@@ -266,7 +266,7 @@ The key idea is that Eatsa demonstrated how transactions between businesses and 
 
 So in summary, the passage uses the example of an AI designing new types of heat exchangers to argue that machines are proving capable of creative ideation, challenging the view that creativity is uniquely and immutable human. More work remains but computational creativity shows promise.
 
- Here is a summary:
+ 
 
 - Generative design software can automatically design complex objects like heat exchangers without human input by exploring design possibilities computationally. 
 
@@ -306,7 +306,7 @@ So in summary, computers are increasingly aiding and augmenting human creativity
 
 - In summary, these industries were thriving prior to the emerging disruption from new Internet technologies and the decline of existing business models they would bring about within one generation.
 
- Here is a summary:
+ 
 
 - In the mid-1990s, music was mainly consumed through physical albums purchased at stores like Tower Records or through mail-order album clubs. Major artists like Michael Jackson saw huge crowds line up for new album releases. 
 
@@ -318,7 +318,7 @@ So in summary, computers are increasingly aiding and augmenting human creativity
 
 - The combination of digital goods being free to copy/distribute, perfectly reproducible, and instantly transferable over networks like the internet made it very difficult for traditional industries to compete against digital/online rivals.
 
- Here is a summary:
+ 
 
 - Platforms are digital environments that have near-zero marginal costs of access, reproduction and distribution due to their abilities to be free, perfect and instant. Examples include the internet and World Wide Web. 
 
@@ -330,7 +330,7 @@ So in summary, computers are increasingly aiding and augmenting human creativity
 
 - Amazon created the Amazon Web Services platform by standardizing interfaces between its internal systems and offering excess computing resources to other businesses, helping to launch the cloud computing industry.
 
- Here is a summary:
+ 
 
 - AWS grew dramatically for Amazon, contributing 9% of revenue and over half of operating income by 2016. It was considered the fastest growing enterprise tech company due to its success. 
 
@@ -362,7 +362,7 @@ Questions:
 
 The key takeaways are that digitization allows for new business models based on free and perfect sharing of information. Organizations should look for opportunities to apply these digital economics internally and in their offerings. They should also consider how digital platforms and cloud computing can transform their industry and customer offerings. Bundling, unbundling or rebundling products/services may better meet evolving customer needs. Network effects also promise to reshape industries so considering these dynamics is important.
 
- Here is a summary:
+ 
 
 - Initially, Steve Jobs did not want to allow third-party apps on the iPhone, wanting to maintain control over the user experience. Others at Apple argued external developers should be allowed. 
 
@@ -390,7 +390,7 @@ The key takeaways are that digitization allows for new business models based on 
 
 - Apple retained control over the app approval process to ensure quality while allowing external development, balancing openness and control. Platform owners have discretion over curating their platforms.
 
- Here is a summary:
+ 
 
 - Powerful platforms like Apple's App Store prompted others to build their own platforms for mobile devices and apps. 
 
@@ -404,7 +404,7 @@ The key takeaways are that digitization allows for new business models based on 
 
 The lesson is that powerful platforms can influence companies within their sphere, and being early as well as differentiating on user experience are keys to platform success.
 
- Here is a summary:
+ 
 
 - Stripe saw an opportunity to build a payments platform that was easy for online and app-based merchants to use, handling all the complexity of accepting different payment methods in different currencies. 
 
@@ -418,7 +418,7 @@ The lesson is that powerful platforms can influence companies within their spher
 
 - Stripe continues adding valuable complementary services like fraud detection that increase overall demand for the platform. Patrick Collison's goal is for Stripe to grow the economy of the internet.
 
- Here is a summary:
+ 
 
 - ClassPass originally offered an "Unlimited" membership where users could take an unlimited number of classes each month for a flat fee. However, this proved unsustainable for the business. 
 
@@ -432,7 +432,7 @@ The lesson is that powerful platforms can influence companies within their spher
 
 So in summary, the Unlimited model proved unsustainable, and revenue management was key to ClassPass balancing the interests of users and studios in its marketplace for physical fitness classes with finite capacity.
 
- Here is a summary:
+ 
 
 - ClassPass and Postmates are examples of online-to-offline (O2O) platforms that bridge the online and physical worlds. ClassPass provides access to in-person workout classes, while Postmates delivers goods from local stores and restaurants.
 
@@ -444,7 +444,7 @@ So in summary, the Unlimited model proved unsustainable, and revenue management 
 
 - Emerging examples show O2O platforms are also spreading from consumer-facing to business-to-business applications, connecting excess supply like warehouse space or freight hauling needs between companies online.
 
- Here is a summary:
+ 
 
 - Upwork provides tools for project management and payment. By 2016 it was facilitating over 3 million projects annually worth over $1 billion.
 
@@ -484,11 +484,11 @@ So in summary, the Unlimited model proved unsustainable, and revenue management 
 
 - Platforms have significant advantages over product-focused companies in industries they enter, through network effects, access to users, and ability to capture bulk of profits from ecosystems.
 
- Here is a summary:
+ 
 
 Platforms are able to overcome significant information asymmetries that previously prevented certain transactions from occurring. By collecting data from transactions and allowing both sides to rate each other, platforms increase transparency and trust. This has enabled new markets like ridesharing and homesharing that were previously hampered by lack of information about strangers. While not perfect, ratings systems and reviews significantly reduce risks and uncertainty. This reduction of information asymmetries is a major reason platforms have been able to grow rapidly in various industries. However, platforms also threaten traditional companies by building their own brands and reducing pricing power over time. As platforms curate larger selections under their brand, individual sellers risk becoming commoditized and losing control over their reputation and pricing.
 
- Here is a summary:
+ 
 
 - Platforms like ClassPass want to attract both prestigious brands and a large consumer base. But as they grow, they want to capture more of consumers' spending. 
 
@@ -504,7 +504,7 @@ Platforms are able to overcome significant information asymmetries that previous
 
 - Giving away products or services for free, or even paying users, can be profitable for platforms due to increased demand across the network from cross-side effects. This is a sustainable strategy for two-sided markets like credit cards.
 
- Here is a summary:
+ 
 
 - Platforms like credit card networks and Uber can drive adoption by initially offering low, zero, or negative prices to consumers on one side of the market. This increases use which attracts merchants/drivers who want more customers, even if costs are a bit higher. 
 
@@ -542,7 +542,7 @@ So in summary, Airbnb has disrupted parts of the hotel industry but not complete
 
 - The lack of hierarchy in the crowd also means some individuals misbehave or engage in harmful speech. While concerning, most crowd participants create and contribute content in good faith. Moderation techniques aim to address bad actors without compromising the freedom and benefits of the crowd.
 
- Here is a summary:
+ 
 
 - The passage discusses how markets and decentralized crowd behavior can spontaneously generate valuable new knowledge through emergent processes like price signals. This is known as a "kind of magic."
 
@@ -554,7 +554,7 @@ So in summary, Airbnb has disrupted parts of the hotel industry but not complete
 
 - Other crowd-based solutions have since emerged to harness emergent knowledge, though organizing a crowd deliberately remains challenging due to coordination problems. The passage emphasizes Hayek's foundational work on the surprising knowledge-generating powers of dispersed, decentralized systems.
 
- Here is a summary:
+ 
 
 - Linus Torvalds started the Linux operating system as an open-source hobby project in 1991 and asked for community contributions and suggestions. 
 
@@ -582,7 +582,7 @@ So in summary, Airbnb has disrupted parts of the hotel industry but not complete
 
 - These "geeky" approaches to collaboration are now gaining more acceptance beyond open source within mainstream business via tools like Slack that facilitate open, fluid collaboration across organizations.
 
- Here is a summary:
+ 
 
 - Researchers conducted an experiment on Topcoder, an online platform, to solve the difficult problem of sequencing human white blood cell genes faster and more accurately. 
 
@@ -596,7 +596,7 @@ So in summary, Airbnb has disrupted parts of the hotel industry but not complete
 
 - The core is often mismatched to today's complex, fast-changing problems, while the crowd's diversity allows it to consider novel solutions outside typical expertise and blind spots. When properly engaged, the crowd can beat experts by thinking differently.
 
- Here is a summary:
+ 
 
 - The core (internal R&D teams) can become misaligned and out of date as new knowledge is constantly created in many disciplines. Advances like CRISPR gene editing have changed fields rapidly. 
 
@@ -608,7 +608,7 @@ So in summary, Airbnb has disrupted parts of the hotel industry but not complete
 
 - Well-designed systems that divide work, verify quality, and provide incentives can harness the crowd's collective abilities, similar to open source projects like Linux. The crowd is becoming a viable way to outsource work and gain insights.
 
- Here is a summary:
+ 
 
 - Crowdfunding reverses the traditional model of bringing a product to market only after spending a lot of money developing it. With crowdfunding, people can pre-buy or pledge support for an idea, providing pre-funding and validation. 
 
@@ -648,7 +648,7 @@ So in summary, Airbnb has disrupted parts of the hotel industry but not complete
 
 - Crowdsourcing and online sharing allowed for fast, widespread distribution of affordable prosthetics through a decentralized network.
 
- Here is a summary:
+ 
 
 Satoshi Nakamoto published a paper in 2008 proposing a new digital currency called Bitcoin. The key ideas were:
 
@@ -664,7 +664,7 @@ Satoshi Nakamoto published a paper in 2008 proposing a new digital currency call
 
 Nakamoto's design created robust incentives for individual miners and users to participate without coordination, allowing the system to operate independently and survive changes over time. Many saw Bitcoin as a feasible new digital currency and payment system with economic and technical merits.
 
- Here is a summary:
+ 
 
 - The global financial crisis of 2008 led some to doubt the stability and fairness of the existing financial system, making alternative currencies more appealing. Bitcoin emerged during this time as a new digital currency independent of governments. 
 
@@ -678,7 +678,7 @@ Nakamoto's design created robust incentives for individual miners and users to p
 
 - Early examples of blockchain applications included recording student transcripts, tracking diamonds and goods to prevent fraud, and facilitating finance of international trades and stock offerings. Nasdaq launched a blockchain project for private stock markets.
 
- Here is a summary:
+ 
 
 - In June 2016, the Republic of Georgia announced a project to design and pilot a blockchain-based system for land title registry. Moving elements of the land registry process to the blockchain was expected to reduce costs for homeowners and reduce possibilities for corruption by making the records unalterable on the blockchain. 
 
@@ -700,7 +700,7 @@ Nakamoto's design created robust incentives for individual miners and users to p
 
 - While some saw potential for undermining large companies, others were more skeptical that blockchain alone could replace existing institutional structures and business models. Decentralization raised many open questions about practical implementation and governance.
 
- Here is a summary:
+ 
 
 The DAO and Bitcoin/blockchain efforts show that while crowd-based and decentralized models have potential advantages, they also face significant challenges that companies are better structured to address. 
 
@@ -740,7 +740,7 @@ Both examples demonstrate that while crowds and decentralized models offer innov
 
 - Highly decentralized structures like Bitcoin, blockchains, and The DAO struggle because they can't address problems of incomplete contracts and lack of oversight that firms are designed to handle through ownership and management.
 
- Here is a summary:
+ 
 
 - Smart contracts and decentralization don't fully address why companies exist - contracts can never be truly complete due to unforeseen contingencies. 
 
@@ -784,7 +784,7 @@ So in summary, Cameron was able to show external evaluators could do the same qu
 
 - In summary, Holmström's initial paper established the principal-agent framework, while his later work with Milgrom emphasized how firms function as incentive systems - providing the foundation for lots of follow-on research on incentives in economic organizations.
 
- Here is a summary:
+ 
 
 The passage discusses how new technologies are enabling more sustainable, inclusive and higher-paying jobs. It provides two examples:
 

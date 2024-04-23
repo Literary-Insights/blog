@@ -16,7 +16,7 @@ BOOK LINK:
 
 
 
- Here is a summary:
+ 
 
 - The passage discusses how astronomers visualize all celestial objects such as stars, planets, and the moon as points on an imaginary sphere surrounding Earth called the celestial sphere. 
 
@@ -28,7 +28,7 @@ BOOK LINK:
 
 So in summary, the passage explains the concept of the celestial sphere and how Earth's motions create the illusion of movement among celestial objects as viewed from our planet.
 
- Here is a summary:
+ 
 
 - The passage describes various celestial objects that can be seen from Earth, either with the naked eye or with additional equipment like binoculars or telescopes. 
 
@@ -42,11 +42,11 @@ So in summary, the passage explains the concept of the celestial sphere and how 
 
 - Additional magnification tools like binoculars and telescopes reveal greater details and more celestial objects beyond what the naked eye alone can see.
 
- Here is a summary:
+ 
 
 Stars twinkle because of changes in the density and temperature of Earth's atmosphere that cause starlight to change direction slightly as it passes through the atmosphere. This effect is more noticeable for stars than planets because stars appear as point sources of light from far away. Twinkling is also more prominent for stars lower on the horizon because their light has to pass through more of the atmosphere to reach our eyes. The farther away and higher in the sky a star appears, the less it will seem to twinkle.
 
- Here is a summary:
+ 
 
 - The passage discusses different types of telescopes used to observe objects in space, including optical, radio, submillimeter, infrared, and ultraviolet telescopes. 
 
@@ -62,7 +62,7 @@ Stars twinkle because of changes in the density and temperature of Earth's atmos
 
 The signal travels through the feed horn which increases the signal strength. Then the signal is either processed on the receiver located at the center of the dish or sent to a computer for analysis using sophisticated software. Astronomical interferometry combines light or radio signals from multiple telescopes to examine celestial objects at higher detail, as if observed by larger mirrors or antennas. The signals are processed by a digital correlator which accounts for time delays between telescopes.
 
- Here is a summary:
+ 
 
 - Meteoroids that enter Earth's atmosphere are divided into two groups: pallasites and mesosiderites. Pallasites form through mixing between metallic nickel-iron cores and silicate mantles, while mesosiderites form through collisions between asteroids. 
 
@@ -100,7 +100,7 @@ The signal travels through the feed horn which increases the signal strength. Th
 
 - During periods of high solar activity like solar maximum, more sunspots, solar flares, and coronal mass ejections occur, with consequences for space weather near Earth.
 
- Here is a summary:
+ 
 
 - The Moon is Earth's natural satellite and formed from debris ejected during a giant impact between Earth and a Mars-sized planet called Theia. 
 
@@ -126,7 +126,7 @@ The signal travels through the feed horn which increases the signal strength. Th
 
 - Venus's atmosphere circulates in the opposite direction to its rotation via a phenomenon called "super-rotation" where atmospheric winds move faster than the planetary rotation.
 
- Here is a summary:
+ 
 
 - The solar day on Venus is 117 Earth days, but the equatorial atmosphere super-rotates, circulating in just 4 days due to atmospheric pressure variations caused by solar heating. The exact causes of the super-rotation are not fully understood. 
 
@@ -148,7 +148,7 @@ The signal travels through the feed horn which increases the signal strength. Th
 
 - Space probes like Dawn have orbited and studied large asteroids Ceres and Vesta, revealing differences in their structures and compositions that hint at how they formed.
 
- Here is a summary:
+ 
 
 - Jupiter has the moon Io, which has intense volcanic activity due to tidal heating from Jupiter's strong gravity. Io's surface stretches up to 100 m every 1.5 days as it orbits Jupiter. This causes magma to churn underneath and erupt through Io's thin crust, creating lava lakes and volcanoes up to 250 km wide. 
 
@@ -182,7 +182,7 @@ The signal travels through the feed horn which increases the signal strength. Th
 
 - Titan, Saturn's largest moon, has a dense nitrogen-methane atmosphere and is the only moon known to have stable liquid on its surface, in the form of methane and ethane lakes and seas.
 
- Here is a summary:
+ 
 
 - Neptune is slightly smaller than Uranus, with 14 known moons and at least five rings. Storms frequently appear on its surface. Inside, it likely has an ocean of super-hot water under clouds of gas. 
 
@@ -248,7 +248,7 @@ The signal travels through the feed horn which increases the signal strength. Th
 
 - Our solar system's status as a stable sextenary system over billions of years suggests the presence of five or six similarly-sized objects can lead to a long-lived planetary architecture, something exoplanet scientists are exploring.
 
- Here is a summary:
+ 
 
 - The four key ingredients for life are water, organic molecules, energy, and time. Water is essential for chemical reactions and life processes. Organic molecules like carbon are needed to form the building blocks of life. 
 
@@ -260,7 +260,7 @@ The signal travels through the feed horn which increases the signal strength. Th
 
 - Organic molecules are abundant in space and found in meteorites, indicating they are common throughout the universe. So with the right ingredients and conditions, life could exist beyond Earth. The universe is vast so it is possible similar conditions that created life here also exist elsewhere.
 
- Here is a summary:
+ 
 
 - When low- and medium-mass stars like the Sun run out of hydrogen in their cores, they enter the red giant phase late in their lives. 
 
@@ -282,7 +282,7 @@ The signal travels through the feed horn which increases the signal strength. Th
 
 - White dwarfs slowly cool over billions of years as they radiate away their thermal energy into space. Some have been observed destroying orbiting planets via their intense gravity over timescales of days to weeks.
 
- Here is a summary:
+ 
 
 - Stars with approximately 1.4 times the mass of the Sun or greater will eventually collapse and explode as a supernova after they have exhausted their nuclear fuel. 
 
@@ -316,7 +316,7 @@ The signal travels through the feed horn which increases the signal strength. Th
 
 - It contains between 100-400 billion stars held together by gravitational attraction within clouds of gas and dust.
 
- Here is a summary:
+ 
 
 - Spiral galaxies make up about two-thirds of all observed galaxies. 
 
@@ -330,7 +330,7 @@ The signal travels through the feed horn which increases the signal strength. Th
 
 - Interactions with neighboring galaxies can distort spiral structure through tidal forces. Mergers may transform spiral galaxies into elliptical galaxies over time.
 
- Here is a summary:
+ 
 
 - Spiral galaxies contain yellow stars in a broad, spherical halo and in globular star clusters located in the halo. They also contain stars forming spiral arms that rotate around the central nucleus. 
 
@@ -344,7 +344,7 @@ The signal travels through the feed horn which increases the signal strength. Th
 
 - Dwarf galaxies are much smaller than the Milky Way, typically containing less than a few billion stars, and orbit larger galaxies. Many have irregular shapes rather than defined spiral or elliptical structures.
 
- Here is a summary:
+ 
 
 - Some dwarf galaxies move independently while others are found in isolation between galaxy clusters. 
 
@@ -356,7 +356,7 @@ The signal travels through the feed horn which increases the signal strength. Th
 
 - Galaxy collisions are common in galaxy clusters and can stimulate star formation while also playing a role in galaxy evolution through gravitational disruption and pulling material into central black holes.
 
- Here is a summary:
+ 
 
 - Galaxy collisions are key to the transformation of galaxy types through mergers and interactions. Collisions can distort galaxies beyond recognition or cause one galaxy to engulf another. 
 
@@ -368,7 +368,7 @@ The signal travels through the feed horn which increases the signal strength. Th
 
 - Galaxies are often found in groups, clusters, and superclusters due to gravitational attraction. Collisions and mergers in clusters lead to larger galaxies and a predominance of elliptical galaxies over time.
 
- Here is a summary:
+ 
 
 The passage describes how we may be surrounded by a "sea" of WIMPs (Weakly Interacting Massive Particles), which are a proposed type of particle that could make up dark matter. Some key points:
 
@@ -382,7 +382,7 @@ The passage describes how we may be surrounded by a "sea" of WIMPs (Weakly Inter
 
 So in summary, it speculates that dark matter could be composed of countless very low-interaction particles called WIMPs that permeate the universe but are nearly impossible to detect directly with current technology.
 
- Here is a summary:
+ 
 
 - According to Einstein's general theory of relativity, spacetime is warped or curved by massive objects. The more mass an object has, the more it warps spacetime. 
 
@@ -398,7 +398,7 @@ So in summary, it speculates that dark matter could be composed of countless ver
 
 - The early, opaque universe became transparent to light around 380,000 years after the Big Bang, allowing the cosmic microwave background radiation to travel freely - this provides a window into the oldest observable era.
 
- Here is a summary:
+ 
 
 - When astronomers plot the velocity of galaxies away from Earth against their distance, it produces a straight line. The slope of this line gives the Hubble constant, which measures the rate of expansion of the Universe.
 
@@ -418,7 +418,7 @@ So in summary, it speculates that dark matter could be composed of countless ver
 
 - There was initially an equal amount of matter and antimatter created. However, for an unknown reason, there was a slight excess of matter over antimatter. The matter and antimatter largely annihilated each other, leaving a small residue of matter which now makes up the visible universe.
 
- Here is a summary:
+ 
 
 - The future of the universe depends on whether the gravitational attraction between celestial objects can be overcome by dark energy. 
 
@@ -472,7 +472,7 @@ So in summary, it speculates that dark matter could be composed of countless ver
 
 So in summary, the first satellite to orbit Earth was Sputnik, launched by the Soviet Union in 1957, which paved the way for the development of satellites for a wide range of applications. The idea of using satellites for communications specifically was first proposed by Arthur C. Clarke.
 
- Here is a summary:
+ 
 
 - Satellites carry a wide variety of sensors like spectrometers, radar, infrared cameras, etc. to study Earth's atmosphere, oceans, geology, land use, archaeology, and more. 
 
@@ -502,7 +502,7 @@ So in summary, the first satellite to orbit Earth was Sputnik, launched by the S
 
 So in summary, the Hubble Space Telescope has transformed astronomy through its unique position and ability to observe in non-visible wavelengths, obtaining extremely detailed images through multiple upgrade and servicing missions. Its data is carefully managed and analyzed to maximize scientific insights.
 
- Here is a summary:
+ 
 
 Crewed spaceflight involves spacecraft that carry astronauts and must keep them alive during missions. Key components include life support systems to provide breathable oxygen, drinkable water, and remove carbon dioxide waste. The spacecraft also needs pressure vessels, thermal protection, and other safety equipment for launch, time in space, and the hazardous re-entry process when temperatures can reach over 1500°C. 
 

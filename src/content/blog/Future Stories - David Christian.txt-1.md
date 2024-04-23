@@ -314,7 +314,7 @@ In summary, though sessile and passive in motion, plants actively manage their f
 
 - These abilities give humans immense power but also responsibility for stewardship of the planet and wise management of the future. Other animals adapt to the world; humans can adapt the world to themselves, for better or worse. Our future thinking makes us "Dragon-kings" - creatures of outsized impact on our environment.
 
- Here is a summary:
+ 
 
 Humans have exceptionally large brains compared to other animals. Evolutionary biologists believe this rapid brain expansion was driven by positive feedback loops between brain size, sociability, and collective learning. Larger brains gave humans enhanced abilities to imagine and compare alternative futures. Collective learning through language allowed accumulation of knowledge across generations, enabling cultural evolution. This transformed humans' abilities to manipulate their environments. Key trends unleashed by collective learning include accumulating knowledge, increasing societal complexity, and accelerating rates of innovation. Together these changes gave humans exceptional power over other species and planetary systems.
 

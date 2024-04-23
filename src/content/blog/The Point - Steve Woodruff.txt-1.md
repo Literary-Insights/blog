@@ -52,7 +52,7 @@ So in summary, the gaps, noise, and fog are identified as the three main barrier
 
 - Beyond business impacts, individuals also suffer misunderstandings that waste time and money. Clear communication requires addressing the massive challenge of noise - the never-ending stream of distractions competing for people's limited attention.
 
- Here is a summary:
+ 
 
 - The average professional receives between 75-200 emails per day and faces 10-20 interruptions per hour at work, making it difficult to focus. 
 
@@ -94,7 +94,7 @@ In summary, it advocates for clear, concise communication that gets to the main 
 
 - Long-winded, overloaded messages that require extra cognitive effort are less likely to get through and be remembered due to the brain's biases toward conserving resources and avoiding additional work. Less is more when it comes to effective communication.
 
- Here is a summary:
+ 
 
 This section outlines four key prohibitions or "sins" when it comes to effective communication:
 
@@ -126,7 +126,7 @@ The four steps are:
 
 The overall goal is to become a skilled communicator by following these brain-friendly rules for planning and presenting information. Having a clear point and sequencing information effectively are emphasized as important for keeping the audience engaged.
 
- Here is a summary:
+ 
 
 The passage emphasizes the importance of clearly communicating the main point in an orderly, logical way that engages the audience. It recommends using a specific sequencing or structure in communications:
 
@@ -158,7 +158,7 @@ Overall, the key messages are to get to the point quickly without forcing the au
 
 The challenge of effective communication is simplifying complex ideas while ensuring shared meaning and understanding, given human cognitive limitations and different perspectives. Visual aids, repetition and reinforcement of core points can help overcome this.
 
- Here is a summary:
+ 
 
 The passages discuss the importance and effectiveness of using summaries to communicate clearly and get people on the same page. Summaries allow leaders to distill complex information down to its most essential elements in a way that is memorable and actionable. Leaders need to assume their audience does not have all the context or implications and provide verbal and written summaries to increase understanding and alignment. The most effective way to do this is through written summaries, such as executive summaries, purpose statements, job descriptions, and project plans, which solidify agreements and clarity. Specific examples are provided of how summaries could be effectively used in scenarios like board meetings, project planning, and sales messaging. The key is to have a point, get to the point, communicate the point clearly, and get everyone on the same page through the use of well-crafted summaries.
 
@@ -218,7 +218,7 @@ In summary, the passage emphasizes that storytelling is hardwired in the human b
 
 - The goal of clarity best practices is to concisely but powerfully convey your most important messages through various communication channels like writing, speaking and leading, in a way that is easy for others to comprehend and retain.
 
- Here is a summary:
+ 
 
 The chapter provides practical tips for creating clear and effective presentations. It emphasizes having a clear roadmap and purpose upfront to engage the audience. Some key points:
 
@@ -266,7 +266,7 @@ The overall message is to have clarity of purpose and benefit upfront, stratify 
 
 - Clear purpose drives people forward and makes decision making easier by starting with the end goal or "why" in mind, rather than just discussing tactics or "what" is being done.
 
- Here is a summary:
+ 
 
 - A company's purpose statement is one of the most important things they can define, as it lays out exactly why the company exists and what it aims to accomplish. 
 

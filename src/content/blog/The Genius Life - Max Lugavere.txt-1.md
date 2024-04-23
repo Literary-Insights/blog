@@ -106,7 +106,7 @@ BOOK LINK:
 
 - Planning and buying in bulk can make healthy eating affordable. Focus on basic whole foods and ingredients versus packaged goods.
 
- Here is a summary:
+ 
 
 Salt has become overly processed and stripped of its natural mineral content. For better health, choose minimally processed salts like Himalayan pink salt or sea salt, ensuring the latter is free of microplastics. Protein is an essential nutrient for building muscle mass, controlling appetite, boosting metabolism, and supporting brain health. Prioritize high-quality protein sources like eggs, meat, fish, and legumes. Aim for 1.2-1.6 grams of protein per kg of body weight (0.54-0.7 g per lb), adjusting for your goal weight if overweight. Not all proteins are equal; choose whole food sources and balance methionine-rich muscle meats with glycine-rich collagenous cuts and bones. Higher protein intake is safe for most people, but moderate intake if you have kidney disease. Pair higher protein with strength training for optimal results.
 
@@ -366,7 +366,7 @@ In summary, adequate vitamin D appears important for proper immune regulation an
 
 - New chemicals are often not rigorously tested before widespread exposure. The "innocent until proven guilty" notion is dangerous here. Advocate for more thorough safety testing before approval.
 
- Here is a summary:
+ 
 
 Modern life exposes us to concerning chemicals like PFAS, PBDEs, phthalates, and BPA that are found in countless everyday products. These chemicals are endocrine disruptors that can negatively impact development, fertility, cognition, and health. While complete elimination of exposure is nearly impossible, there are steps we can take to reduce our contact with them, such as avoiding nonstick cookware, stain-resistant fabrics, and fast food wrapping papers. Children are particularly vulnerable, so choosing flame retardant-free clothes and furniture is wise. Improving ventilation and using air purifiers can also cut down on household dust containing these chemicals. Ultimately, the pervasiveness of questionable compounds means we should apply greater scrutiny before exposing ourselves to new products or chemicals. There are too many historical examples where substances were wrongly assumed safe. The burden of proof for safety should be high, especially for newer products.
 

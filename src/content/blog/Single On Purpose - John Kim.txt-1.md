@@ -173,7 +173,7 @@ The key is to become more conscious of our thinking patterns and make an effort 
 
 Overall, the key message is that intentionally feeding your mind and soul, not just your body, is crucial for growth, presence, and happiness. Practices like meditation, enriching media, and time in nature help achieve this.
 
- Here is a summary:
+ 
 
 You grew up in the city without much connection to nature or the outdoors. Your parents worked a lot, so you never learned traditional outdoor skills like tying ropes or making fires. You spent your childhood skateboarding on concrete. As an adult, you are uncomfortable and afraid of the wilderness and animals. You've only gone camping twice in your life, and you brought a hair dryer both times. 
 

@@ -190,7 +190,7 @@ In summary, the author makes a case that modern scientific knowledge has rendere
 
 - Overall, the evidence does not support divine intervention in nature or miraculous creation of life. The tendency to see purpose and design in the universe seems more attributable to human vanity and wishful thinking.
 
- Here is a summary:
+ 
 
 The human eye is often cited by proponents of intelligent design as evidence of a creator. However, the evolution of the eye actually shows the opposite - that it developed gradually over time through natural selection, not instantaneous creation. The human eye has many imperfections that point to redundant evolutionary stages and unintelligent design. Eyes have evolved independently in various species through parallel pathways, further demonstrating evolution rather than creation. Charles Darwin himself initially found evolution of the eye by natural selection hard to accept, but came to see the abundant evidence for it. The evolution of complex organs like the eye may seem improbable but it is explained by gradual development over eons through natural selection. Rather than pointing to an intelligent designer, the human eye bears the marks of inefficient, haphazard evolution. Overall, the evolution of eyes across species powerfully demonstrates evolution by natural selection rather than divine creation.
 

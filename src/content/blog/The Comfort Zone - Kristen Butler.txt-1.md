@@ -133,7 +133,7 @@ The key is examining your beliefs about the Comfort Zone so you can release limi
 
 - The solution offered is to find a middle way of effort that honors your natural energy, emotions, and need for rest. This allows you to thrive rather than just survive.
 
- Here is a summary:
+ 
 
 - Er hit rock bottom, which was crushing for him as a sensitive, introverted person. However, some personalities may be able to survive long periods in the volatile Survival Zone. 
 
@@ -549,7 +549,7 @@ The key is increasing awareness, finding outlets for expression, and using tools
 
 - The key is to stretch yourself to level up, not step completely outside your comfort zone. Take small steps to expand your boundaries bit by bit through acclimation.
 
- Here is a summary:
+ 
 
 The concept of acclimation explains why providing appropriate assistance and scaffolding can greatly improve someone's ability to learn and perform new tasks. Having a teacher, coach, or mentor speeds up the process of expanding one's comfort zone. 
 

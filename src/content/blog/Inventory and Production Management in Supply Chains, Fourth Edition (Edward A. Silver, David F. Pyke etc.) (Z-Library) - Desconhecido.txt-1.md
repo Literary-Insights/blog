@@ -108,7 +108,7 @@ So in summary, it presents a heuristic for determining replenishment quantities 
 
 - The book is intended for business, engineering, and operations research students and is also useful for practitioners and researchers.
 
- Here is a summary:
+ 
 
 - The passage discusses the importance of inventory management and production planning and scheduling. 
 
@@ -136,7 +136,7 @@ So in summary, it presents a heuristic for determining replenishment quantities 
 
 - The passage advocates approaches in the book to strengthen economies by helping firms implement better manufacturing, logistics and inventory management methods. This can add value and benefit the overall economy.
 
- Here is a summary:
+ 
 
 - Inventory management and production planning impact corporate finance in several ways. Inventories are classified as current assets on the balance sheet. Reducing inventory levels lowers assets and can improve liquidity ratios like the current ratio. 
 
@@ -146,7 +146,7 @@ So in summary, it presents a heuristic for determining replenishment quantities 
 
 - In general, the finance function is concerned with how inventory and production strategies impact key financial metrics like assets, liquidity, revenue, expenses and overall corporate performance and profitability. Effective coordination is needed between operations/production and finance.
 
- Here is a summary:
+ 
 
 - A company wanted to reduce inventory levels by ordering inventory in smaller lots and producing less. This led to smaller inventory levels initially but then caused service issues and stockouts as inventory depleted. 
 
@@ -158,7 +158,7 @@ So in summary, it presents a heuristic for determining replenishment quantities 
 
 So in summary, narrowly focusing on inventory turnover without considering other factors like production lot sizes, service levels and costs can undermine profits and shareholder value over time according to this description. Inventory management links to the broader financial picture of the company.
 
- Here is a summary:
+ 
 
 - In the 1950s-1970s, low cost was the primary objective for most U.S. manufacturing firms. Quality rose in importance in the mid-1970s-1980s due to Japanese competition. 
 
@@ -208,7 +208,7 @@ So in summary, it outlines the evolution of operations objectives, defines the o
 
 - Sections 2.3-2.5 discuss classification schemes, operational tools, and foundational inventory models that serve as frameworks to help address this complexity.
 
- Here is a summary:
+ 
 
 Inventory management and production planning decisions are complex problems that involve many interconnected factors. No single decision maker can rationally conceive of all the relevant details. Therefore, frameworks and conceptual aids are needed to help simplify and systematize these decisions. 
 
@@ -216,7 +216,7 @@ Specifically, inventories can be functionally classified into categories like cy
 
 Meanwhile, individual inventory items can be grouped into more manageable organizational categories. And theories should focus on identifying the most important variables to consider rather than attempting to account for all minor factors. Overall, the goal is to design decision systems that help complement, not replace, managers' existing capabilities and approaches for dealing with these multifaceted production and inventory problems.
 
- Here is a summary:
+ 
 
 - Land's End, Dell, and other direct mail companies have negligible pipeline inventory because they deliver directly to consumers. Pipeline inventory will be discussed further in Chapters 11, 15, and 16. 
 
@@ -230,7 +230,7 @@ Meanwhile, individual inventory items can be grouped into more manageable organi
 
 - The A-B-C classification forms the basis for designing individual item decision models, with Class A receiving the most attention and resources.
 
- Here is a summary:
+ 
 
 - The passage discusses frameworks for inventory management and production planning, including A-B-C classification of inventory items and a product-process matrix for classifying production systems.
 
@@ -274,7 +274,7 @@ In summary, the key factor is that process industries have defined capacity limi
 
 - The product-process matrix, alignment of products and processes, and appropriate planning systems provide a strategic framework. Understanding relevant costs informs tactical inventory and scheduling decisions.
 
- Here is a summary:
+ 
 
 - Inventory holding costs (GE) include the opportunity cost of capital tied up in inventory and the opportunity cost of warehouse space used for inventory. These costs are difficult to measure with traditional accounting systems.
 
@@ -298,7 +298,7 @@ In summary, the key factor is that process industries have defined capacity limi
 
 - It is important to incorporate important factors into models while keeping them as simple as possible to avoid costly erroneous decisions from incorrect modeling.
 
- Here is a summary:
+ 
 
 - As inventory and production models become more complex, they require more managerial time, undergo longer design and maintenance periods, and have higher system control costs due to issues like personnel turnover. Considerable judgment is needed in developing appropriate models. 
 
@@ -308,7 +308,7 @@ In summary, the key factor is that process industries have defined capacity limi
 
 - Cost measurement can be imperfect in practice. Cost accounting systems allocate fixed and overhead costs across inventory in various arbitrary ways. Job order costing tracks individual order costs more precisely but is more expensive than process costing. Valuation methods like actual, predetermined, and standard costing also involve allocation assumptions.
 
- Here is a summary:
+ 
 
 - Variances between standard and actual costs arise because standards may not accurately reflect ideal or normal rates, or they have not been adjusted for process improvements. Positive variances can artificially inflate costs. 
 
@@ -338,7 +338,7 @@ In summary, the key factor is that process industries have defined capacity limi
 
 In summary, it outlines a structured process for production planning system development including problem scoping, data analysis, mathematical modeling, alternative evaluation, and ongoing system management.
 
- Here is a summary:
+ 
 
 - Inventory and production management systems should allow for sensitivity analysis to see how changes in input data might affect results. This gives managers a sense of how robust the decision is.
 
@@ -424,7 +424,7 @@ In summary, these later sections discuss:
 
 They address practical issues in applying different forecasting techniques for different situations, as well as leveraging subjective human input.
 
- Here is a summary:
+ 
 
 - Egression refers to the time period t in a multiple regression model. Multiple regression includes two or more exogenous (external/independent) variables to predict the dependent variable. 
 
@@ -436,7 +436,7 @@ They address practical issues in applying different forecasting techniques for d
 
 - Individual-item short-term forecasting often uses simple models like simple/exponential smoothing that are inexpensive and practical for high-volume forecasts compared to more complex techniques. Common underlying models assumed include level, trend, and multiplicative seasonal models.
 
- Here is a summary:
+ 
 
 - Exponential smoothing is a technique for forecasting time series data that changes gradually over time. It places more emphasis on recent data points compared to older ones. 
 
@@ -516,7 +516,7 @@ The example uses data for item EDM-617 to illustrate the initialization and fore
 
 - Measures of bias (average error), dispersion (standard deviation of errors), and accuracy (MSE, MAD, MAPE) are discussed for evaluating forecast performance and identifying opportunities for improvement.
 
- Here is a summary:
+ 
 
 - The estimate of the mean absolute deviation (MAD) for one-period ahead forecasts is calculated as the average of the absolute errors over n periods. 
 
@@ -530,7 +530,7 @@ The example uses data for item EDM-617 to illustrate the initialization and fore
 
 So in summary, it presents a method to estimate σL from σ1 through an empirical coefficient c, to account for the difference between the forecast update period and lead time when calculating safety stock.
 
- Here is a summary:
+ 
 
 - The standard deviation of L-period-ahead forecasts (σL) relative to the 1-period forecast standard deviation (σ1) is computed for lead times L = 2, 3, 4, 5, 6. 
 
@@ -578,7 +578,7 @@ So in summary, the relationship between forecast error standard deviations at di
 
 - Statistical accuracy of different forecasting methods can be compared using measures like mean squared error, mean absolute deviation, etc. However, correlated forecast errors limit the ability to make strong statistical claims about relative performance. Combining forecasts can potentially outperform individual methods.
 
- Here is a summary:
+ 
 
 - Research has shown that simple methods like equal-weighted forecast combinations perform as well or better than more complex optimal combination methods. 
 
@@ -650,7 +650,7 @@ Many of the other papers discuss forecasting models, techniques, theory and appl
 
  This summary analyzes key papers on extrapolation (time series) forecasting methods from major forecasting competitions and journals. It discusses the results and implications of the M2, M3 and other forecasting competitions run by Spyros Makridakis that compared various extrapolation methods. It also summarizes several of Makridakis' publications on forecasting frameworks, methods and applications. Overall, it provides an overview of the literature on evaluating and comparing extrapolation forecasting techniques based on time series data.
 
- Here is a summary:
+ 
 
 - Section 4.1 introduces the assumptions of the basic EOQ model, such as constant deterministic demand, no quantity restrictions, no cost changes over time, etc. These assumptions are later relaxed in the chapter. 
 
@@ -664,7 +664,7 @@ Many of the other papers discuss forecasting models, techniques, theory and appl
 
 - In summary, the chapter introduces the basic EOQ model and its assumptions, then gradually relaxes the assumptions to incorporate more real-world considerations and complexity. It emphasizes both optimizing given current parameters and also "changing the givens" through process improvement to further reduce costs.
 
- Here is a summary:
+ 
 
 - The EOQ (economic order quantity) model considers determining the optimal order quantity when demand is deterministic, replenishment lead time is zero, and backorders are not allowed. 
 
@@ -728,7 +728,7 @@ So in summary, accounting for inflation involves discounting future costs to det
 
 - If replenishment occurs at a finite rate rather than all at once, the economic production quantity (EPQ) model is more appropriate than the EOQ model.
 
- Here is a summary:
+ 
 
 - The derivation from Figure 4.1 is modified to account for finite replenishment rates, as shown in Figure 4.7. The average inventory level is now Q(1 - D/m)/2, where D is demand rate and m is production/replenishment rate. 
 
@@ -879,7 +879,7 @@ So in summary, it introduces more complex methods to deal with time-varying dema
 
 - The key point made is that as demand information becomes more uncertain over a longer time horizon, the less accurate any replenishment decisions based on that information are likely to be. Rolling schedules that maintain a constant horizon are preferable in practice.
 
- Here is a summary:
+ 
 
 - The company uses a fixed EOQ approach for production planning when demand is approximately constant. This means ignoring time variability and using the same EOQ quantity for all replenishments. 
 
@@ -897,7 +897,7 @@ So in summary, it introduces more complex methods to deal with time-varying dema
 
 So in summary, it outlines different approaches for production planning when demand varies over time, from a simple fixed EOQ to the optimal Wagner-Whitin method.
 
- Here is a summary:
+ 
 
 The passage describes the Wagner-Whitin algorithm for determining optimal lot sizes for inventory with time-varying demand. While it provides the lowest total costs, it has some drawbacks that limit its practical application. 
 
@@ -905,7 +905,7 @@ Specifically, the algorithm requires defining an end point for the demand patter
 
 As a result, simpler heuristic approaches are often preferable, as they can capture much of the potential cost savings with lower implementation and control costs. The passage then introduces several heuristic methods that have been proposed as practical alternatives to the Wagner-Whitin algorithm for inventory lot sizing with variable demand.
 
- Here is a summary:
+ 
 
 - The passage discusses various commonly used heuristics for lot sizing with time-varying demand, since fixed EOQ may not perform well in that setting.  
 
@@ -965,7 +965,7 @@ So in summary, the LUC heuristic is an alternative to Silver-Meal that focuses o
 
 So in summary, it poses a lot sizing problem for a transportation system where inventory accumulation follows supply processes rather than demand depletion, with the goal of minimizing holding and dispatching costs.
 
- Here is a summary:
+ 
 
 A dispatching policy is needed to determine in each time period whether to dispatch or not dispatch in that period. The goal is to develop a decision procedure, such as the Silver-Meal heuristic, that minimizes the relevant costs per unit time between dispatch moments. 
 
@@ -1007,7 +1007,7 @@ The fixed cost of dispatching a train to destination W is $800. The procedure sh
 
 So in summary, it introduces the key challenge of probabilistic demand and previews the chapter's coverage of approaches and models for inventory control under uncertainty.
 
- Here is a summary:
+ 
 
 - Inventory management policies need to address four key questions: how important is the item, how often should stock status be reviewed, what form should the inventory policy take, and what cost/service objectives should be set. 
 
@@ -1075,7 +1075,7 @@ Managers need to select classification, review method, and policy form to optimi
 
 - The goal is to find the optimal safety stock allocation among items to minimize total costs, given a fixed total amount of safety stock available. This provides a practical approach that management may find easier to implement than more complex analytical models.
 
- Here is a summary:
+ 
 
 - The passage describes a process for determining the optimal reorder point (s) in a continuous-review inventory system with a fixed order quantity (Q) and probabilistic demand. 
 
@@ -1107,7 +1107,7 @@ So in summary, it lays out the common assumptions and framework for determining 
 
 - The general approach is to determine the safety factor k first, then calculate the reorder point s using the relationships s = forecast demand + safety stock and safety stock = k * σL.
 
- Here is a summary:
+ 
 
 - The total expected annual cost when using a B1 cost model (fixed dollar amount per unit shortage) has three components: carrying cost, ordering cost, and shortage cost. 
 
@@ -1351,7 +1351,7 @@ So in summary, simultaneous determination provides a more optimal solution for s
 
 - A numerical example is provided to illustrate applying the sequential approach. The simultaneous approach is described but no example is worked through.
 
- Here is a summary:
+ 
 
 - The revised power approximation is a heuristic method for determining values of the (R, s, S) parameters for inventory control systems when there is a fractional charge (B3) per unit short at the end of each review period. 
 
@@ -1515,7 +1515,7 @@ So in summary, the order-up-to level approach provides a practical way to set an
 
 - Where usage data is unavailable, a "dust test" of storage facilities can help identify slow-moving excess stock by appearance. Managing Class C inventory is an ongoing process involving periodic reviews.
 
- Here is a summary:
+ 
 
 The section discusses rules and factors to consider for disposing of slow-moving or excess inventory. Any stock that is overly dusty, deteriorated, or occupying valuable storage space is a candidate for disposal. Two approaches to the disposal decision are presented:
 
@@ -1601,7 +1601,7 @@ So in summary, it involves periodic replenishment up to a decreasing target inve
 
 3. Toy manufacturer product run - A "fad" toy shows strong potential sales. The question is how many units to produce in the initial run. This is a newsvendor problem with uncertainty around demand. Overproducing risks left-over inventory that may not sell later. Underproducing risks lost sales. The optimal order balances the costs of overage and underage.
 
- Here is a summary:
+ 
 
 - The newsvendor model aims to determine the optimal order quantity (Q*) that maximizes expected profit for goods facing uncertain demand. 
 
@@ -1674,7 +1674,7 @@ Some key details:
 
 So in summary, it is analyzing the inventory costs and expected profits of a single product using a standard newsvendor model, and comparing it to a "postponed product differentiation" approach where the specific product type is determined later, showing the flexibility benefit of postponing differentiation.
 
- Here is a summary:
+ 
 
 - The parameters of the demand probability distribution are initially unknown. Prior knowledge is encoded using probability distributions over possible parameter values. 
 
@@ -1794,7 +1794,7 @@ So in summary, this chapter develops models and heuristics for optimally coordin
 
 So in summary, the section extends the basic coordinated replenishment model to incorporate quantity discount or freight rate incentives for larger total order quantities.
 
- Here is a summary:
+ 
 
 - This section considers coordinated inventory replenishments for multiple items when group discounts are offered based on the total quantity or value of items ordered. 
 
@@ -1806,7 +1806,7 @@ So in summary, the section extends the basic coordinated replenishment model to 
 
 - This allows a reasonable compromise without explicitly modeling the increased complexity of scenarios where replenishment cycles differ depending on whether discounts are achieved.
 
- Here is a summary:
+ 
 
 - The paper discusses coordinating order quantities when it is possible to take a discount on some replenishments but not others. This additional flexibility can yield significant savings. 
 
@@ -1814,7 +1814,7 @@ So in summary, the section extends the basic coordinated replenishment model to 
 
 - The key idea is that by allowing discounts to be taken on some replenishments but not others, it provides more flexibility that can lead to overall cost savings compared to always taking discounts or never taking discounts. The paper outlines an procedure to determine the optimal strategy that balances these trade-offs.
 
- Here is a summary:
+ 
 
 - The algorithm allocates a major setup cost A across multiple products in a family to determine economic order quantities (EOQs) and time supplies. 
 
@@ -1832,7 +1832,7 @@ So in summary, the section extends the basic coordinated replenishment model to 
 
 - This ensures each family order accounts for the full setup cost and products are replenished in balanced cycles.
 
- Here is a summary:
+ 
 
 - Miltenburg models demand for inventory items as independent diffusion processes, which implies the total demand over an interval has a normal distribution. 
 
@@ -1846,7 +1846,7 @@ So in summary, the section extends the basic coordinated replenishment model to 
 
 - Production environments also involve coordination but are more complex due to capacity constraints. Methods can still apply in certain settings like continuous flow processes. The economic lot scheduling problem aims to optimally schedule production runs considering changeover times.
 
- Here is a summary:
+ 
 
 - The economic lot scheduling problem (ELSP) aims to find an optimal production schedule that minimizes total inventory and setup costs while meeting demand and production capacity constraints. 
 
@@ -1858,7 +1858,7 @@ So in summary, the section extends the basic coordinated replenishment model to 
 
 - Research has looked at more complex ELSP variants that allow varying batch sizes and cycle times over time, aiming to find truly optimal schedules rather than heuristic solutions. Overall, the ELSP aims to coordinate production to minimize costs while meeting demand.
 
- Here is a summary:
+ 
 
 - The capacitated lot sizing problem (CLSP) involves determining the production schedule for multiple items over multiple time periods, taking into account time-varying demand and production capacity constraints. 
 
@@ -1990,7 +1990,7 @@ The papers proposed and evaluated methods addressing different variations of pro
 
 The summary highlights the key considerations around modeling and analyzing inventory management across multiple locations in a supply chain as presented in the introduction to the chapter.
 
- Here is a summary:
+ 
 
 - This section discusses deterministic demand in a multiechelon inventory system, where demand rates are known with certainty. This is an idealized case but useful for establishing basics. 
 
@@ -2038,7 +2038,7 @@ The summary highlights the key considerations around modeling and analyzing inve
 
 So in summary, it discusses the key challenges in modeling inventory management across multiple stages of a supply chain due to cost and service interactions between stages.
 
- Here is a summary:
+ 
 
 - Decentralized control systems involve independent decision making at separate locations, often with a "pull" approach where locations pull stock from suppliers based on their own needs. 
 

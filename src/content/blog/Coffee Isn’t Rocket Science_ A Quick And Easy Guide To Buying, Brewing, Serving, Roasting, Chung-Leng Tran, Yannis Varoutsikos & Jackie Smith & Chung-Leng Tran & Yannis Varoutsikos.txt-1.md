@@ -32,7 +32,7 @@ BOOK LINK:
 
 Coffee traditions vary widely around the world based on culture and taste preferences.
 
- Here is a summary:
+ 
 
 - NS and independent coffee shops are springing up all over the place, providing alternatives to large chains.
 
@@ -78,7 +78,7 @@ In summary, while the evidence is still limited and mixed for some cancers, regu
 
 So in summary, the roast level determines how much the natural flavors of the coffee bean are retained or developed into deeper roasted flavors, and consequently impacts the brightness, balance, and acidity of the espresso taste. Lighter roasts make for a brighter espresso while darker roasts produce a richer, fuller-bodied shot.
 
- Here is a summary:
+ 
 
 - The term "espresso" refers specifically to a short (1 fl oz), high-pressure coffee beverage prepared by forcing hot water through finely ground coffee. 
 
@@ -112,7 +112,7 @@ So in summary, the roast level determines how much the natural flavors of the co
 
 - Heat exchanger, single, and double boiler designs aim to maintain consistent temperature for shots.
 
- Here is a summary:
+ 
 
 - Thermoblock machines heat water quickly through a narrow coil but lack thermal stability, only suitable for entry-level machines. 
 
@@ -180,7 +180,7 @@ The summary focuses on the key learnings around ratios, extraction, temperature 
 
 - The goal is to slowly and evenly saturate all the grounds with water in order to optimize flavor extraction from all areas and avoid over-extracting some grounds while under-extracting others. Uniform wetting is important for filter coffee quality.
 
- Here is a summary:
+ 
 
 The passage discusses different coffee brewing methods, including pouring techniques like the Chemex and Kalita Wave as well as pot methods like the Moka pot and electric coffee maker. 
 
@@ -204,7 +204,7 @@ Additional topics covered include cold brewing techniques, iced coffee variation
 
 So in summary, convection through hot air is a key mechanism for transferring heat evenly throughout coffee beans during roasting to properly develop flavors at each stage.
 
- Here is a summary:
+ 
 
 - A blend is a combination of coffees from different origins/regions that are mixed together. Blending allows companies to achieve consistency in taste and harmonize flavors. Well-done blends can be better than the individual coffees. 
 
@@ -246,7 +246,7 @@ So in summary, convection through hot air is a key mechanism for transferring he
 
 - Coffee is a seasonal crop with harvest periods varying by country. Freshness is important for quality but green beans can be frozen to extend shelf life. Year of harvest is not always specified on packaging.
 
- Here is a summary:
+ 
 
 - Een beans can decline in quality over time if not stored properly. The lipids break down, moisture levels fluctuate, and the coffee develops a woody or burlap-like flavor. This is called having an "old crop" flavor profile. 
 
@@ -258,7 +258,7 @@ So in summary, convection through hot air is a key mechanism for transferring he
 
 - After drying, the coffee is cleaned, sorted by size and color, and packaged for shipping. Defective beans may be sold for uses like instant coffee instead of being discarded.
 
- Here is a summary:
+ 
 
 Low-grade coffee batches undergo a mechanical or manual separation process to sort the beans by density and size. They are then sorted by color on conveyor belts using color detectors to identify defective beans like unripe or fermented beans. The beans undergo a final manual color sorting before being packaged. 
 
@@ -276,7 +276,7 @@ Once sorted, the coffee is bagged in various container types like jute bags, vac
 
 - Characteristics of coffees from different countries are discussed like low acidity and sweetness in Brazil, body and balance in Colombia, acidity and sweetness in Costa Rica, and complex flavors possible from Panamanian Geisha.
 
- Here is a summary:
+ 
 
 - The passage discusses coffee production and flavor profiles in Guatemala, Honduras, El Salvador, Nicaragua, and Mexico. 
 
@@ -300,6 +300,6 @@ Once sorted, the coffee is bagged in various container types like jute bags, vac
 
 - Information on kopi luwak briefly discusses the practice of harvesting partially digested coffee beans from civet cat droppings and controversies around the product.
 
- Here is a summary:
+ 
 
 The chapter describes a unique type of coffee from India that is exposed to monsoon air during processing. Green coffee beans are stored in open warehouses, where they absorb moisture from the humid air. The swollen beans lose their natural acidity and pale in color. The resulting brew has an earthy flavor without acidity, but with a full body. Recipes are provided for popular coffee shop foods like carrot cake, financiers (almond cake), and chocolate cookies. Useful coffee event information and addresses of coffee shops around the world are also included. The chapter acknowledges contributors and provides brief biographies of the authors and illustrator.

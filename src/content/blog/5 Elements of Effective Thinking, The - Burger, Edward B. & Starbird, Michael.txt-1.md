@@ -224,7 +224,7 @@ The key insight is that framing good questions, even if you know the answers, fo
 
 The key is recognizing that today's ideas have roots in the past, and future ideas will build on the present. Tracing this flow of concepts over time aids understanding.
 
- Here is a summary:
+ 
 
 Calculus is an idea that has been extraordinarily fruitful and influential across many fields, yet it originated from just a few key concepts laid out in a 6-page essay by Leibniz in 1684. Today's calculus textbooks contain over 1,300 pages elaborating on variations and applications of those founding ideas. Effective learning involves seeing the interconnected flow of ideas rather than just memorizing disjointed facts. Looking back on previous concepts helps clarify new material and reveals how each idea builds on what came before. Making guesses about what will come next also connects ideas into an integrated whole. Every new discovery is just a small variation on existing knowledge. Pushing any concept further can uncover unforeseen applications and unintended consequences. Just as Edison built on previous innovations to create the lightbulb, the implications of any new idea are limitless if we continue to think creatively about extensions and variations. The most successful students and innovators take small steps to uncover consequences beyond an idea's original purpose.
 

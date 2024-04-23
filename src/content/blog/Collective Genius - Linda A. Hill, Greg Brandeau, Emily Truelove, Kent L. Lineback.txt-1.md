@@ -798,7 +798,7 @@ The leaders balance paradoxical traits that allow them to foster innovation comm
 
 - Acumen believes developing leaders is core to its mission of tackling poverty through business approaches. Its leadership programs help create networks of innovation leaders.
 
- Here is a summary:
+ 
 
 Sung-joo Kim, chair and chief visionary officer of Sungjoo Group and MCM Products AG, overcame gender discrimination and patriarchal business culture in South Korea to build an innovative global luxury brand. She hired and empowered women at all levels, fostering a horizontal, communicative culture. Kim brought together diverse teams across continents, providing development opportunities for employees. Through her inclusive leadership, Kim transformed MCM into a twenty-first century luxury brand appealing to independent, global women. The case shows how empowering marginalized talent can enable innovation and illustrate
 

@@ -138,7 +138,7 @@ Let me know if any part of the process needs more clarification or if you have a
 
 The key points focus on setting up an Amazon affiliate website business by choosing profitable keywords, finding products to promote for those keywords, creating a review/discussion site, optimizing it for traffic, and earning commissions by publishing reviews and recommendations that drive sales.
 
- Here is a summary:
+ 
 
 - The author recommends focusing on long tail buyer keywords related to solving problems or fulfilling needs, rather than broad informational keywords. 
 

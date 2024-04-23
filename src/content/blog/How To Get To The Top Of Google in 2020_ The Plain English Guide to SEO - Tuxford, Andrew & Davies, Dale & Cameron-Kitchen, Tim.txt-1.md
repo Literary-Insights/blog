@@ -32,7 +32,7 @@ BOOK LINK:
 
 So in summary, the book teaches proven SEO strategies and tactics for getting websites to the top of Google search through optimization, content, and link building - backed by real case studies of major successes achieved through these methods.
 
- Here is a summary:
+ 
 
 - The book aims to share real-world SEO strategies and optimization techniques that work today based on analyzing thousands of website reviews. 
 
@@ -48,7 +48,7 @@ So in summary, the book teaches proven SEO strategies and tactics for getting we
 
 So in summary, the book aims to educate on real-world SEO best practices and share case studies demonstrating how optimization and promotion can significantly improve websites, traffic and business results when done correctly.
 
- Here is a summary:
+ 
 
 - The passage offers a free expert review of a website's SEO by a marketing consultant, which will provide quick tips to improve rankings and sales. 
 
@@ -102,7 +102,7 @@ In summary, Google aims to rank sites highest that provide the best user experie
 
 So in summary, while increasing content may provide temporary boosts, the priority should be optimizing the site for both users and search engines by ensuring the content is of high quality, complete, factually accurate and answers people's needs - not just increasing pages for the sake of it. User experience and authority on the topic are also important Ranking factors.
 
- Here is a summary:
+ 
 
 - Steps 5 through 8 outline how to identify location-based keywords, find the most profitable keywords based on search volume, competition, and CPC, sanity check keywords by searching them on Google, and identify key pages on the website to target for SEO. 
 
@@ -142,7 +142,7 @@ The goal is to understand what competitors are doing well in SEO to rank highly,
 
 - The goal is to analyze competitors' link profiles, anchor text strategies, and get an idea of keywords to target along with variations and modifiers. Understanding competitors' on-page and off-page optimizations provides insights to improve one's own SEO approach.
 
- Here is a summary:
+ 
 
 - The website domain/URL can significantly impact SEO rankings and branding. Historically, exact match domains (EMDs) that exactly matched search terms provided a big ranking boost, but Google changed their algorithm in 2012 to diminish this effect. 
 
@@ -156,7 +156,7 @@ The goal is to understand what competitors are doing well in SEO to rank highly,
 
 - Avoid using hyphens in the domain name.
 
- Here is a summary:
+ 
 
 - Hyphens in URLs are preferable to underscores for SEO purposes. Google sees hyphens as separating words, but does not interpret underscores the same way. 
 
@@ -184,7 +184,7 @@ The goal is to understand what competitors are doing well in SEO to rank highly,
 
 - It is important to have a logical directory structure and submit an XML sitemap to search engines to ensure they can comprehensively crawl the whole website.
 
- Here is a summary:
+ 
 
 - Google uses machine learning to judge website quality, based on answers from human testers to 23 questions about websites. This allows algorithms to develop an "understanding" of what makes a high-quality site. 
 
@@ -210,7 +210,7 @@ The goal is to understand what competitors are doing well in SEO to rank highly,
 
 The overall message is that websites need highly optimized yet original, user-focused content in order to rank well in search engines and drive conversions through clear calls to action and addressing user needs at each stage.
 
- Here is a summary:
+ 
 
 - Knowledge bases and frequently asked question (FAQ) pages are an effective way for websites to generate useful content and increase traffic from search engines like Google. 
 
@@ -284,7 +284,7 @@ The overall message is that websites need highly optimized yet original, user-fo
 
 - In summary, it's a valuable free tool to understand search performance and diagnose any issues affecting visibility on Google search.
 
- Here is a summary:
+ 
 
 - The Manual Actions tab in Search Console allows you to check if your site has received any manual penalties from Google's webspam team, which are rare but can severely impact visibility. 
 
@@ -312,7 +312,7 @@ The overall message is that websites need highly optimized yet original, user-fo
 
 - Be wary of spammy directories that allow automated mass listings as these provide low quality links.
 
- Here is a summary:
+ 
 
 - Irrelevant websites like directories that list various unrelated businesses together like viagra suppliers and roofing companies are considered "junk directories" by Google. They usually have low quality content and no unique categories. 
 
@@ -336,7 +336,7 @@ The overall message is that websites need highly optimized yet original, user-fo
 
 - In summary, businesses can leverage surveys as a source of leads, backlinks and publicity by researching topics relevant to their industry, generating survey data, and then pitching that data to various outlets for coverage. This is an effective low-cost strategy.
 
- Here is a summary:
+ 
 
 - The Financial Conduct Authority launched an advertising campaign featuring Arnold Schwarzenegger to promote the deadline for PPI (payment protection insurance) claims.
 
@@ -354,7 +354,7 @@ The overall message is that websites need highly optimized yet original, user-fo
 
 - Blogger and influencer outreach focused on relevant micro-influencers who write blogs and reviews can also be effective for promoting products if done properly by identifying the right targets and communities.
 
- Here is a summary:
+ 
 
 - Journalists who write for major publications are under tight deadlines and pressure to find quality sources for their articles. 
 

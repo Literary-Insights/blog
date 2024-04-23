@@ -693,7 +693,7 @@ In summary, deeply understand your users by observing them directly, expect crea
 
 - The product should not change much after PMF in terms of core value provided to users. But the business model, scalability, etc. will continue evolving.
 
- Here is a summary:
+ 
 
 There are clear metrics to measure if you have reached product-market fit (PMF): conversion rate and retention rate. Conversion rate measures the percentage of first-time users who find value in your product. Retention rate measures the percentage of users who continue using the product over time. 
 

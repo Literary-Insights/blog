@@ -426,7 +426,7 @@ BOOK LINK:
 
 - China is building new cities and infrastructure tailored for autonomous vehicles, unlike the US which adapts them to existing roads. This will further accelerate China's progress.
 
- Here is a summary:
+ 
 
 The article discusses the emerging competition between the United States and China in artificial intelligence (AI). It describes four "waves" of AI technology: internet AI, business AI, perception AI, and autonomous AI. 
 

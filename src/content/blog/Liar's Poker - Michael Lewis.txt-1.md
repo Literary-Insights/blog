@@ -28,7 +28,7 @@ BOOK LINK:
 
 - The chapter establishes Meriwether as the "king" of Liar's Poker and Gutfreund as an outsider, suggesting his challenge was a risky gambit to prove his courage and status as a trader.
 
- Here is a summary:
+ 
 
 - The author was invited to dine at St. James's Palace in London through a distant cousin who had married a German baron. It turned out to be a fundraiser with hundreds of insurance salesmen, not a close encounter with royalty as advertised. 
 
@@ -38,7 +38,7 @@ BOOK LINK:
 
 - This chance encounter eventually led to the author receiving a job offer to work on the trading floor at Salomon Brothers in New York, launching his career in investment banking.
 
- Here is a summary:
+ 
 
 - The passage describes an awkward social situation at a party in St. James's Palace where the wife of a Salomon Brothers managing director intervened loudly to alleviate discomfort. 
 
@@ -52,7 +52,7 @@ BOOK LINK:
 
 - In the early 1980s, most college graduates pursued analyst roles for corporate finance rather than considering careers in trading, which had a lower prestige. The author almost became trapped in this path himself.
 
- Here is a summary:
+ 
 
 - Economics became the most popular major at Princeton in the 1980s, driven by the demand from Wall Street investment banks looking to recruit. 
 
@@ -64,7 +64,7 @@ BOOK LINK:
 
 - Ultimately, the author recognized he was not ready for a job in investment banking despite the pressure to join that career path coming out of college in the 1980s. Economics had become a default path primarily to get recruited by Wall Street firms.
 
- Here is a summary:
+ 
 
 - The author recalls their first day arriving at Salomon Brothers investment bank in the mid-1980s. They felt jittery but also excited, not truly believing they were starting a job. 
 
@@ -76,7 +76,7 @@ BOOK LINK:
 
 - The generous salary the author received came directly from Salomon's big profits in the booming bond market, where it faced little competition from other banks at that time. However, the author did not deeply examine where the money came from at the time.
 
- Here is a summary:
+ 
 
 - Bonds were traditionally an unfashionable and unglamorous investment on Wall Street. Bond traders received little attention or respect. 
 
@@ -90,7 +90,7 @@ BOOK LINK:
 
 - The passage describes the author's first day arriving for training at Salomon Brothers. It focuses on cultural differences observed between the highly competitive and brash trading floor culture versus the author's initial expectations.
 
- Here is a summary:
+ 
 
 - The passage describes the arrival of a new trainee class (Class of 1985) at the investment bank Salomon Brothers, which was going through a period of rapid growth and hiring large trainee classes. 
 
@@ -100,7 +100,7 @@ BOOK LINK:
 
 - Overall, the passage paints a picture of an overly large, diverse trainee class that is less committed to long careers at Salomon Brothers compared to past classes. It suggests this influx of new people ultimately contributed to the firm's decline.
 
- Here is a summary:
+ 
 
 - The essay describes the culture and dynamics that emerged within the Salomon Brothers training program. Trainees were pitted against each other for a limited number of jobs. 
 
@@ -128,7 +128,7 @@ BOOK LINK:
 
 - The training aimed to impress on trainees that they started at the bottom but that standing at Salomon was higher than other firms. It was a form of brainwashing to shape employees in the company's image.
 
- Here is a summary:
+ 
 
 - The article describes the intense training program new hires went through at Salomon Brothers investment bank. Even three months in, trainees were uniformly dedicated to the firm. 
 
@@ -140,11 +140,11 @@ BOOK LINK:
 
 - In general, the article provides insights into the demanding onboarding process at Salomon Brothers and tensions around high Wall Street pay despite trainees' lack of experience.
 
- Here is a summary:
+ 
 
 Jim Massey, a senior executive at Salomon Brothers known as the firm's "hatchet man", comes to speak to the trainee class. The trainees are nervous and afraid of Massey, who is stern and serious. When he asks for questions, there is silence from the trainees out of fear. Finally, one overly eager trainee asks if the firm has considered opening an office in Prague. The question gets some mocking reactions from other trainees due to its cluelessness. However, Massey answers the question formally without acknowledging how silly it was. The visit reinforces the trainees' intimidation of Massey and senior management.
 
- Here is a summary:
+ 
 
 The passage discusses two speakers who addressed the Salomon Brothers trainees - Dale Horowitz and John Gutfreund. 
 
@@ -156,7 +156,7 @@ The trainees felt management's behavior reflected how they had greatly profited 
 
 In summary, the passage discusses the trainees' lack of meaningful engagement with Salomon Brothers' top management and hints at complacency among managers who had profited immensely from recent financial conditions but failed to recognize growing underlying risks.
 
- Here is a summary:
+ 
 
 - The passage describes the environment and culture of the equity (stock trading) department at Salomon Brothers in the late 1970s. 
 
@@ -172,7 +172,7 @@ In summary, the passage discusses the trainees' lack of meaningful engagement wi
 
 - In the end, the cultural divide between the number-focused recruits and the experience-focused equity traders made it difficult for the latter to attract new talent.
 
- Here is a summary:
+ 
 
 - An MBA trainee named Franky stumps an equities specialist from Salomon Brothers by asking a technical question about options hedging that the specialist cannot answer. This is an embarrassment for the specialist. 
 
@@ -182,13 +182,13 @@ In summary, the passage discusses the trainees' lack of meaningful engagement wi
 
 - The protagonist concludes they are ill-suited to be a trader based on interactions. They see sales as only marginally more plausible. Transitioning to a career is proving difficult and wall street culture is intimidating and narrow.
 
- Here is a summary:
+ 
 
 The passage describes two colorful characters, the Human Piranha and Sangfroid, who came to speak to trainees. The Human Piranha was a government bond salesman known for his abrasive manner of speaking, littered with profanity. He derided the French government's bond decisions. His abrasive style made trainees in the front row nervous but those in the back row giggled. 
 
 Sangfroid, from the corporate bonds department, took a more intimidating approach. In silence, he stared at the trainees then called on one to state the LIBOR rate, which the trainee correctly answered. He continued down the aisle, grilling another trainee on the TED spread, which the trainee did not know. This confrontation showed trainees were unprepared, disappointing given the expectations of the trading floor. While abusive, these characters were deemed brutally honest by the narrator. Their intimidating styles aimed to prepare trainees for the pressures of the trading floor.
 
- Here is a summary:
+ 
 
 - Richard O'Grady, a young bond salesman, shares his experience interviewing and eventually working at Salomon Brothers. 
 
@@ -204,7 +204,7 @@ Sangfroid, from the corporate bonds department, took a more intimidating approac
 
 So in summary, O'Grady shares his experience navigating a hostile work environment at Salomon Brothers and advises trainees to aggressively confront difficult traders in order to survive on the trading floor.
 
- Here is a summary:
+ 
 
 - Matty Oliva was a new trader joining the mortgage desk at Salomon Brothers. As a trainee, he would be hazed by the senior traders. 
 
@@ -218,7 +218,7 @@ So in summary, O'Grady shares his experience navigating a hostile work environme
 
 So in summary, the senior traders played a prank on Matty, pretending he was being investigated by the SEC for a small cafeteria theft, to welcome him to the trading desk in a humiliating way.
 
- Here is a summary:
+ 
 
 The passage describes the origins of mortgage-backed securities on Wall Street in the late 1970s. At the time, mortgages were seen as small and insignificant compared to corporate bonds. Savings and loans handled the majority of home loans. 
 
@@ -228,7 +228,7 @@ The passage uses a skit performed by Salomon salesmen to spoof the stereotype of
 
 By pooling mortgages into homogenous bond-like instruments, individual mortgages could be removed from the local savings and loans and traded anonymously on Wall Street. This innovation helped grow the mortgage market and connect homeowners to a much larger pool of capital. It heralded the securitization of mortgages that would transform Wall Street in the decades to come.
 
- Here is a summary:
+ 
 
 Bill Simon tried to get Ginnie Mae to address the prepayment risk for mortgage bond investors, but they ignored his objections. This gave Simon a distaste for the home mortgage market. 
 
@@ -238,7 +238,7 @@ Dall saw potential in the mortgage security market and created the first private
 
 Dall needed a trader and financier to lead the new department. He chose Stephen Joseph as the financier and Lew Ranieri as the trader. Dall selected Ranieri because he was a strong, tough-minded dreamer with a quick mind, and Dall believed these qualities were needed to create a new market.
 
- Here is a summary:
+ 
 
 - Lewie Ranieri was a top trader in Salomon Brothers' corporate bond department. In 1978, he was abruptly transferred to lead their new embryonic mortgage security department, which he saw as an exile. 
 
@@ -250,7 +250,7 @@ Dall needed a trader and financier to lead the new department. He chose Stephen 
 
 - By 1985, Ranieri had grown the mortgage department tremendously through his energy and expanding their scope. However, he remained a brash and forceful character focused intensely on profits and business.
 
- Here is a summary:
+ 
 
 - Bob Dall helped build Salomon's mortgage securities business but was eventually replaced by Lew Ranieri without being formally notified. He felt he was "left hanging" as his role diminished. 
 
@@ -262,7 +262,7 @@ Dall needed a trader and financier to lead the new department. He chose Stephen 
 
 - They struggled for years to gain traction in the difficult early mortgage market until eventually finding success under Ranieri's leadership in the following years.
 
- Here is a summary:
+ 
 
 - The mortgage department at Salomon Brothers had a distinct culture compared to other departments like corporate and government bond trading. It was led by Lew Ranieri and had two main groups - Italian Americans who started it and Jewish traders who later joined. 
 
@@ -278,7 +278,7 @@ Dall needed a trader and financier to lead the new department. He chose Stephen 
 
 - Ranieri intentionally kept the mortgage department separate from other areas due to the lack of support and willingness to help from others at Salomon Brothers.
 
- Here is a summary:
+ 
 
 - In 1981, the US savings and loan industry was facing collapse due to rising interest rates. Congress passed tax breaks to help thrifts, but it required them to sell off mortgage loans. 
 
@@ -290,7 +290,7 @@ Dall needed a trader and financier to lead the new department. He chose Stephen 
 
 - However, the situation greatly benefited Salomon overall as volumes and profits soared. It transformed their small mortgage department into the dominant force in the market during this crisis period for the thrift industry.
 
- Here is a summary:
+ 
 
 - Lewie Ranieri started a mortgage bond trading department at Salomon Brothers in the early 1980s, seeing an opportunity to securitize and trade whole home loans purchased from savings and loans (thrifts). 
 
@@ -314,7 +314,7 @@ Dall needed a trader and financier to lead the new department. He chose Stephen 
 
 - The thrift industry became heavily reliant on Ranieri's advice and became very active traders, with Salomon profiting immensely from the other side of their speculative trades. This boom in mortgage bonds transformed the roles of thrifts and traders.
 
- Here is a summary:
+ 
 
 - In the early 1980s, interest rates peaked at around 21.5% for prime rates and 17.5% for bills. Long-term rates peaked in October 1981 at around 15.25%. 
 
@@ -330,7 +330,7 @@ Dall needed a trader and financier to lead the new department. He chose Stephen 
 
 So in summary, Salomon's mortgage bond traders capitalized on Kaufman's interest rate forecast, the subsequent bond rally, and inefficiencies in the market to realize huge trading profits through the early 1980s.
 
- Here is a summary:
+ 
 
 - Mortgage bond trader Lew Ranieri closely monitored homeowners' repayment behaviors to predict which mortgages were likely to be prepaid. He would then profit by informing traders like Stanley Jaffee, who would buy those mortgages. However, homeowners were unaware they were being watched. 
 
@@ -342,7 +342,7 @@ So in summary, Salomon's mortgage bond traders capitalized on Kaufman's interest
 
 - In summary, sophisticated math models drove profits, but traders' unprofessional behavior devolved, reflecting Ranieri's encouragement of brazen risk-taking and pranks over collaboration with the wider firm.
 
- Here is a summary:
+ 
 
 - Lewie Ranieri, a top trader at Salomon Brothers, was pressured by John Gutfreund to change his appearance and image as he was being promoted. He was taken shopping against his will and outfitted in suits, ties, and shirts. 
 
@@ -352,7 +352,7 @@ So in summary, Salomon's mortgage bond traders capitalized on Kaufman's interest
 
 - Gutfreund struggled to balance acknowledging top performers like Rubin with the firm's view that it was Salomon creating the opportunities, not individual traders. This led to talented traders being poached by other firms.
 
- Here is a summary:
+ 
 
 - John Gutfreund led Salomon Brothers and his attitudes were shaped in the era when it was a partnership, requiring loyalty and wealth sharing. But it changed when sold in 1981. 
 
@@ -368,7 +368,7 @@ So in summary, Salomon's mortgage bond traders capitalized on Kaufman's interest
 
 - Gutfreund tried persuading talent to stay, claiming anyone leaving must be an idiot, but could not compete with outside offers given his refusal to share firm profits fairly with younger traders.
 
- Here is a summary:
+ 
 
 - After Andy Stone left Salomon Brothers in 1986 demanding a large pay raise, other talented mortgage traders began leaving for competitors as well. This depleted Salomon's monopoly on the mortgage trading business.
 
@@ -378,7 +378,7 @@ So in summary, Salomon's mortgage bond traders capitalized on Kaufman's interest
 
 - By 1987-1988, the period discussed in this chapter, the mortgage trading business at Salomon had significantly deteriorated. Profitability peaked in 1985 but declined as the staff defects undermined Salomon's monopoly position.
 
- Here is a summary:
+ 
 
 - Salomon Brothers' mortgage bond trading desk, led by Lew Ranieri, had dominated the market for years due to the inefficiency and lack of buyers for mortgage bonds. 
 
@@ -390,7 +390,7 @@ So in summary, Salomon's mortgage bond traders capitalized on Kaufman's interest
 
 - As the market grew more complex with new CMO varieties, younger traders at Salomon Brothers took over management of risks from older analysts who struggled to keep up with innovations. Ranieri lost influence and control of the trading desk.
 
- Here is a summary:
+ 
 
 The traders played a prank by raising Ranieri's chair so he banged his knees on the desk drawer when sitting down. When asked who did it, D'Antona lied and blamed Mortara, even though he wasn't there yet. In retaliation, Ranieri dumped all the nearby trash cans on Mortara's desk. When Mortara asked who did it, D'Antona admitted it was Ranieri. 
 
@@ -398,7 +398,7 @@ The mortgage trading desk was losing a lot of money, estimated at $35-65 million
 
 Gutfreund created new management roles to try to control costs, including an Office of the Chairman with Ranieri, Voute and Strauss. However, they did not get along and were seen as continuing the divisions between their respective departments. Strauss and Voute wanted to dismantle the mortgage department. A corporate bond director, Mark Smith, was placed in the mortgage department, seen as a "spy" or "Trojan horse" to weaken Ranieri's control. D'Antona swore ignorance about who was behind the various pranks and disputes.
 
- Based on the passage, here is a summary:
+ Based on the passage, 
 
 Mark Smith was a trader at Salomon Brothers who was known for taking big speculative bets. After Merrill Lynch trader Howard Rubin experienced a huge loss from an unauthorized trade in mortgage bonds, Smith saw an opportunity. He convinced Salomon to issue its own mortgage bond securitization, called IOPOs, to take advantage of Merrill's distress. 
 
@@ -416,7 +416,7 @@ To recover his losses, Smith then claimed the profitable IO positions held by Sa
 
 - So in summary, Ranieri had been fired by Gutfreund, and in the months following, the rest of the mortgage trading department that had been established and led by Ranieri was fired as well in a purge of the "Ranieri family."
 
- Here is a summary:
+ 
 
 The passage describes Michael Lewis's experience as a new trader starting work at Salomon Brothers in London in 1985. He sees London as a place to gain more independence compared to the strict culture of the New York headquarters. 
 
@@ -426,7 +426,7 @@ Lewis struggles in his early calls as a trainee, having trouble pronouncing a na
 
 Over time, Salomon steadily expands its London office as part of an ambitious plan by Gutfreund to make Salomon a major global investment bank. However, the different cultural styles between the American management and European employees creates tensions. Lewis finds himself caught between these two worlds as a new "geek" or junior trader.
 
- Here is a summary:
+ 
 
 - The narrator was assigned to work in Dick Leahy's bond options and futures sales department at Salomon Brothers after completing a training program. 
 
@@ -440,7 +440,7 @@ Over time, Salomon steadily expands its London office as part of an ambitious pl
 
 - The narrator is trying to learn the ropes from Dash and others by observing conversations and getting explanations later. Dash gives cryptic advice that the narrator has to interpret on his own.
 
- Here is a summary:
+ 
 
 The narrator describes his early days as a bond salesman (called a "geek") at Salomon Brothers. He was given little training and relied heavily on his colleagues for advice and feedback. Another salesman, Dash, felt the narrator was easily influenced by whoever he had last spoken to and changed his opinions frequently. 
 
@@ -470,7 +470,7 @@ The trading desk was fast-paced, with constant phone calls and rumors moving the
 
 - The author felt like a charlatan in those early days as he didn't really know much but was holding himself out as a finance expert. He struggled to stay ahead of embarrassment through rapidly learning from others.
 
- Here is a summary:
+ 
 
 - Dash Riprock and Alexander were bond traders at Salomon Brothers with very different styles. Dash did small trades to make money off minor price discrepancies. Alexander had a more big-picture view of global markets and how different events could impact different sectors. 
 
@@ -480,7 +480,7 @@ The trading desk was fast-paced, with constant phone calls and rumors moving the
 
 - Examples are given of how Alexander profited from contrarian plays during crises as well as how he connected events like Chernobyl to unrelated market impacts on oil and potatoes before others saw it. Playing "what if" scenarios was another method Alexander used to gain an edge.
 
- Here is a summary:
+ 
 
 - The passage describes investing strategies during an economic downturn in Japan following an earthquake. It suggests buying shares of stable Japanese insurance companies and government bonds, which would increase in value as interest rates fall. 
 
@@ -494,7 +494,7 @@ The trading desk was fast-paced, with constant phone calls and rumors moving the
 
 - Closing a very large trade of $86 million in bonds transformed the salesperson's reputation within the firm from a "geek" to a "Big Swinging Dick," suggesting successful completion of a high-profile, challenging deal.
 
- Here is a summary:
+ 
 
 Tom Strauss was an investment banker at Salomon Brothers. One day, he was struggling to sell some risky bonds called Olympia & York (O&Y) bonds. His colleague Alexander suggested selling them to a large Arab investor who wanted to unload them cheaply. 
 
@@ -518,7 +518,7 @@ Strauss was praised and celebrated within Salomon for making the sale. However, 
 
 - This caused an internal rivalry and power struggle at Salomon Brothers over who deserved recognition for the lucrative new financial product.
 
- Here is a summary:
+ 
 
 - The narrator and his colleague Alexander helped arrange an important deal for their company, Salomon Brothers, with a client. However, an opportunistic vice president, referred to as "the opportunist", took all the credit for the deal in a memo. 
 
@@ -530,7 +530,7 @@ Strauss was praised and celebrated within Salomon for making the sale. However, 
 
 - The opportunist then angrily confronted the narrator, threatening his job. But the narrator outmaneuvered him, drawing further admissions, and feeling he had gotten the better of the opportunist in their confrontation.
 
- Here is a summary:
+ 
 
 - Syndicate managers on Wall Street coordinate all investment banking deals in a similar role to chiefs of staff or general managers. They have much power and influence over decisions. 
 
@@ -546,7 +546,7 @@ Strauss was praised and celebrated within Salomon for making the sale. However, 
 
 - The author meets an investor controlling just $86 million who has dealt with 285 different investment banks, showing the fragmented global market. Small firms can now compete through low prices.
 
- Here is a summary:
+ 
 
 - The author and other managers in Salomon Brothers' London office were under pressure as their global strategy was flawed and not working in local market conditions. The offices were struggling and losing money. 
 
@@ -572,7 +572,7 @@ Strauss was praised and celebrated within Salomon for making the sale. However, 
 
 - The passage sets the scene of the hectic trading floor culture at Salomon Brothers and introduces the narrator's relationship and daily interactions with his coworker Dash Riprock as they go about their bond sales work. It hints at a significant market disruption taking place but does not provide details. The focus is more on describing the work environment and routine.
 
- Here is a summary:
+ 
 
 - Hostile raider Ronald Perelman, backed by Drexel Burnham, was making a bid to acquire a large stake in Salomon Brothers investment bank. His advisers were Joseph Perella and Bruce Wasserstein from First Boston. 
 
@@ -586,7 +586,7 @@ Strauss was praised and celebrated within Salomon for making the sale. However, 
 
 - While a takeover by Perelman may not have been the best outcome long-term, it offered a chance to examine Salomon as a business rather than an empire run by Gutfreund.
 
- Here is a summary:
+ 
 
 - In 1986, Drexel Investment Bank had replaced Salomon Brothers as Wall Street's most profitable firm, making $545.5 million in profits on $4 billion in revenues. 
 
@@ -598,7 +598,7 @@ Strauss was praised and celebrated within Salomon for making the sale. However, 
 
 - Unlike most traders, Milken had both trading skills and the ability to focus and think about companies and industries for the long term. This allowed him to truly understand companies and credit in a way that transformed Wall Street.
 
- Here is a summary:
+ 
 
 - Michael Milken, working at Drexel Burnham Lambert, completely reassessed how to evaluate corporate creditworthiness and investing opportunities. He focused on smaller, growing companies and large companies with problems that banks wouldn't lend to. 
 
@@ -612,11 +612,11 @@ Strauss was praised and celebrated within Salomon for making the sale. However, 
 
 - This drove huge growth in Drexel's business and allowed Milken to finance many growing companies. However, it also exposed some investors like savings & loans to more risk than they could handle.
 
- Here is a summary:
+ 
 
 The passage describes the rise of the junk bond market and corporate takeovers in the 1980s, fueled by Michael Milken and Drexel Burnham Lambert. It discusses how Milken's early presentations pitching junk bonds to savings and loans received no orders, as those customers had been told by Milken's competitor at Drexel not to believe the Salomon Brothers team. As demand for junk bonds grew rapidly in the mid-1980s, Milken realized he needed to find more ways to use the capital. This led to the use of junk bonds to finance hostile takeovers, with Milken funding many prominent raiders like Boone Pickens. The takeover activity created huge business opportunities for investment banks. It also led to a dramatic increase in corporate restructurings, management buyouts, and leveraged buyouts as companies responded to the threat of hostile bids. Young bankers aggressively targeted companies they saw as undervalued. Within a industry could suddenly be disrupted as multiple firms became takeover targets.
 
- Here is a summary:
+ 
 
 - Investment banks like Drexel Burnham and Wasserstein Perella made huge sums of money from advising on mergers and acquisitions in the 1980s, reaching fees of over $100 million for single deals. 
 
@@ -626,7 +626,7 @@ The passage describes the rise of the junk bond market and corporate takeovers i
 
 - The deal gave Buffett a profitable security while only requiring a safe investment, not full ownership. It allowed Gutfreund to position himself as acting in shareholders' interests but was largely self-serving given he would have lost his job to Perelman.
 
- Here is a summary:
+ 
 
 - In the mid-1970s, there was a discussion about potentially taking Salomon Brothers public or selling the firm. William Salomon preferred keeping it a private partnership, while John Gutfreund initially agreed but later changed his mind. 
 
@@ -638,7 +638,7 @@ The passage describes the rise of the junk bond market and corporate takeovers i
 
 - In October 1987, amid the stock market crash, Salomon faced a series of blows over eight days including rumors of layoffs, losses, and eventual involvement in an illegal activity involving U.S. Treasury securities. This was a traumatic period that hurt many at the firm.
 
- Here is a summary:
+ 
 
 - The head of Salomon Brothers' London office promised that no jobs would be at risk from an upcoming review. However, two entire departments in New York (municipal bonds and money markets) consisting of around 500 people were suddenly fired. 
 
@@ -650,7 +650,7 @@ The passage describes the rise of the junk bond market and corporate takeovers i
 
 - By day five, a major storm hit London, underscoring the already tense atmosphere as staff waited to learn their employment fate following the chaos of the unplanned mass layoffs.
 
- Here is a summary:
+ 
 
 The passage describes the aftermath of mass layoffs at Salomon Brothers during the stock market crash of October 1987. Over 170 people in the London office lost their jobs after struggling through treacherous conditions to get to work, only to be individually called into meetings and fired. Most were embarrassed at having failed. Others tried to transfer to different departments that weren't cutting jobs. Management took the easiest route and fired the newest, youngest employees who lacked influence. A disproportionate number of women were also let go. As people were fired, there was weeping and comfort on the normally stoic trading floor. The author witnessed similar scenes in New York, where empty desks and motivational signs remained from those suddenly laid off from the money market department. It was an unsettling time of upheaval and uncertainty during a major market collapse.
 
@@ -668,7 +668,7 @@ The passage describes the aftermath of mass layoffs at Salomon Brothers during t
 
 So in summary, it describes the fallout from the 1987 crash through the lens of traders at Salomon Brothers and actions taken both internally at the firm and externally in dealing with the crash consequences.
 
- Here is a summary:
+ 
 
 - The speaker gave a presentation to Salomon Brothers trainees, but they showed little interest and were more concerned about job security and opportunities in the London office. 
 

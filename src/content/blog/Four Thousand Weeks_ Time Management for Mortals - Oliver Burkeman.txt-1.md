@@ -66,7 +66,7 @@ Overall, the brevity of life defines the human condition. But time management as
 
 - The author realized time management systems could not provide the sense of security and self-worth he wanted. He decided to explore a new approach to time focused on presence, meaning, and embracing life's fluidity.
 
- Here is a summary:
+ 
 
 The author struggled with using productivity systems and time management techniques as a way to avoid confronting difficult questions and realities in his life. He came to realize these strategies were actually hindering him, by preventing him from making major life changes like committing to relationships and starting a family. 
 
@@ -220,7 +220,7 @@ The key insight is to acknowledge human finitude, make wise choices within our l
 
 The main point is that distraction stems from an attempt to avoid confronting the painful limitations of the human condition. But turning toward these limitations with curiosity can free us from needing to be distracted.
 
- Here is a summary:
+ 
 
 The article explores the unpleasant feeling of lacking control that underlies boredom. Boredom is not just disinterest, but discomfort with confronting our limited agency. This explains why common solutions like digital detoxes fail - they don't address the root urge toward distraction. 
 

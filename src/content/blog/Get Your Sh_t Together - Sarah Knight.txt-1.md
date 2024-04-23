@@ -49,7 +49,7 @@ Mental decluttering is a solo activity. You have control over your own mind. Nee
 
 The author provides an example of wanting to take a ski vacation but lacking the actual money to do it. Another example is wanting a deep soaking tub but lacking the motivation and ability to organize the required bathroom renovation. Simply wanting something isn't enough - you need to have your "shit together".
 
- Here is a summary:
+ 
 
 • The author has a lot of experience with getting her shit together and now wants to share what she's learned with others. 
 
@@ -65,7 +65,7 @@ The author provides an example of wanting to take a ski vacation but lacking the
 
 • The overarching message is that getting your shit together is a skill that can be learned. The author aims to teach readers the tools and techniques she has developed to become more organized, disciplined, and balanced in life.
 
- Here is a summary:
+ 
 
 - The author was feeling unwell and nauseous at work. She initially thought it might be a hangover, pregnancy, or poisoning. After tests, it turned out to be a panic attack. This was a wake-up call that she needed to change her busy lifestyle.  
 
@@ -85,7 +85,7 @@ The author provides an example of wanting to take a ski vacation but lacking the
 
 In summary, the key message is that achieving big life goals starts with breaking them into smaller, more manageable steps, focusing on one step at a time, and following through with commitment and consistency. This allows progress without feeling overwhelmed or sacrificing your health and well-being.
 
- Here is a summary:
+ 
 
 - The author compares metaphorical tools for getting your life together - your keys, phone and wallet - to actual life accessories. 
 - Keys represent the ability to strategize and unlock next steps.
@@ -135,7 +135,7 @@ In summary, the key message is that achieving big life goals starts with breakin
 
 That covers the key highlights about Usain Bolt, the greatest sprinter of all time. Let me know if you would like me to elaborate on any part of the summary.
 
- Here is a summary:
+ 
 
 - To improve your time management, time yourself doing daily tasks like getting ready for work or leaving the office for a week. This will give you an accurate sense of how long things actually take. Then you can add padding to avoid being late.
 
@@ -161,7 +161,7 @@ The author gives an example of a busy working parent with two kids who feels ove
 
 The overall message is that by becoming aware of how you procrastinate and prioritizing your responsibilities, you can focus on what really matters and get your shit together.
 
- Here is a summary:
+ 
 
 The key points are:
 
@@ -231,7 +231,7 @@ Some strategies to improve the situation:
 
 The key is really developing better habits and discipline around time management, focus, and work-life balance. Starting with small changes and building on them can lead to big improvements over time. But ultimately, committing to the goals and following through consistently is what will make the difference.
 
- Here is a summary:
+ 
 
 - Crossing things off your to-do list and leaving work on time can give you a sense of accomplishment and joy. The author calls this “Happy Hour.”
 
@@ -303,7 +303,7 @@ To end an unwanted relationship, the author recommends strategizing how to disso
 
 In summary, the author advocates using strategy, focus and commitment to both maintain valuable relationships as well as end unhealthy ones. The specific tactics may differ but the approach is the same.
 
- Here is a summary:
+ 
 
 - Break down complex situations into smaller, manageable chunks. Set a time frame and focus on one chunk at a time. Then commit to addressing each chunk.
 
@@ -317,7 +317,7 @@ In summary, the author advocates using strategy, focus and commitment to both ma
 
 The key takeaways are focusing your efforts, not feeling obligated to meet arbitrary social expectations, projecting confidence, directly asking for and clarifying career growth strategies, properly preparing for and disconnecting from work on vacation, and consistently demonstrating competence and a positive work ethic. Developing these skills and mindsets will help in gaining more control and advancement in your career and life.
 
- Here is a summary:
+ 
 
 - Your job is to get your own work done, not worry about everyone else’s tasks or responsibilities. Let go of things you can’t control. 
 - Delegating your work to others is a good way to reduce stress and declutter your mind. This could be assigning work to an assistant, asking coworkers for help in exchange for helping them later, accepting offers of help from others, or simply not volunteering to take on more work. 
@@ -347,7 +347,7 @@ The author discusses several aspects of getting your physical life in order:
 
 The overall message is that getting into good physical shape requires setting concrete goals, developing realistic routines and habits, summoning willpower, and maintaining consistency over the long haul. Make gradual progress through small, sustainable changes to your daily practices and environment. Staying on top of exercise, diet, sleep, and household responsibilities yields huge benefits for both physical and mental health.
 
- Here is a summary:
+ 
 
 Many people go through cycles of decluttering and tidying their homes, only for the mess and chaos to return again. The key to maintaining a clean and tidy home is developing sustainable habits and a mindset focused on organization and decluttering. Some tips for developing these habits:
 
@@ -409,7 +409,7 @@ In summary, the key to getting your shit together is prioritizing what matters t
 
 - The bottom line is that anxiety is manageable if you face it head-on with realistic strategies and self-compassion. Don't beat yourself up over feeling anxious—just get to work improving the situation. With practice, you can clear away much of the "anxiety-dust."
 
- Here is a summary:
+ 
 
 The message 'Come see me when you have a second. Thanks.' is a simple request to meet and talk. There is no need to read deeply into it or have an anxious internal dialogue about it. 
 
@@ -431,7 +431,7 @@ Some tips to avoid anxiety in these situations:
 
 In summary, try to maintain a balanced perspective, address issues directly, and avoid perfectionism or fear of failure. Focus on practical solutions and self-acceptance. Failure and imperfection are parts of life, so try not to let anxiety about them hold you back.
 
- Here is a summary:
+ 
 
 • The author struggled with body image issues and bullying as a child, which led to an eating disorder in her teens. 
 
@@ -443,7 +443,7 @@ In summary, try to maintain a balanced perspective, address issues directly, and
 
 • The key takeaway is that acknowledging you have a problem and asking for help from someone who cares about you can be an important first step to getting your shit together.
 
- Here is a summary:
+ 
 
 The author describes how talking to others about your struggles, like her mother, can help provide accountability and motivation to improve your situation. She says that while making big life changes is often a solo effort, it does not have to be - you can bring in others to provide support. The author then describes how big life changes are made through small, manageable steps. She gives examples like moving to a new city, improving your health, and changing your mindset. Each of these big goals can be accomplished by starting small and building up over time through planning, focus and commitment. 
 
@@ -512,6 +512,6 @@ And if you’re still tempted to keep spinning your wheels in a job or relations
 
 Believe me, the other side is totally worth it. Come on over. You know you want to.
 
- Here is a summary:
+ 
 
 The author expresses gratitude for her team at Little, Brown and Quercus publishing companies, who have helped sell her books. She specifically names several individuals at each company who have supported her work. She also thanks Ben Loehnen, Kate Whicher, Patrick Smith, Terry, and Manu for various contributions. Finally, she expresses appreciation for her husband, Judd Harris, who provides constant support.

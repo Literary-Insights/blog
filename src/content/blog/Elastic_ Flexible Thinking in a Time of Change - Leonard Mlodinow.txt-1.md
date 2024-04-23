@@ -32,7 +32,7 @@ BOOK LINK:
 
 It lists the author Leonard Mlodinow's other books, including both non-fiction and children's books on a variety of topics like physics, neuroscience, randomness, and geometry. The section provides context about Mlodinow's background and areas of writing expertise.
 
- Here is a summary:
+ 
 
 - The challenges of modern life due to rapidly changing technology require new ways of thinking and adapting to constant change and uncertainty. 
 
@@ -46,7 +46,7 @@ It lists the author Leonard Mlodinow's other books, including both non-fiction a
 
 So in summary, it introduces the concept of "elastic thinking" as a cognitive style needed to adapt to modern life, discusses how it differs from other thought processes, and previews exploring its neurological basis and strategies to enhance it.
 
- Here is a summary:
+ 
 
 - Elastic thinking evolved in humans hundreds of thousands of years ago as a way to solve problems and overcome challenges in unpredictable, changing environments. It allowed for social cooperation and innovation. 
 
@@ -58,7 +58,7 @@ So in summary, it introduces the concept of "elastic thinking" as a cognitive st
 
 - Psychological factors like neophilia (affinity for novelty), imagination, idea generation, and integrative thinking play a role in elastic thinking. Understanding these bottom-up thought processes can help cultivate the ability to adapt.
 
- Here is a summary:
+ 
 
 - In the decade between 2004-2014, publishers had to create over 5,000 new scientific journals to accommodate the growing amount of new research being published. Major industries also now rely on vast amounts of specialized expertise across many topics that no single person could master. 
 
@@ -68,7 +68,7 @@ So in summary, it introduces the concept of "elastic thinking" as a cognitive st
 
 - The pace of change has accelerated dramatically in recent decades due to advances like the internet, smartphones, and social media. People are now more open to and eager for novelty compared to the past. While change once posed risks, today changing habits and embracing new technologies is often necessary to thrive socially and professionally.
 
- Here is a summary:
+ 
 
 - Around 135,000 years ago, human population was decimated by environmental changes, dropping to just 600 individuals. 
 
@@ -98,7 +98,7 @@ So in summary, it introduces the concept of "elastic thinking" as a cognitive st
 
 - Pioneering neurologist Thomas Willis contributed greatly to understanding the connection between brain structure/damage and behavior through his autopsies and studies of the human brain in the 17th century.
 
- Here is a summary:
+ 
 
 - Solving a problem can potentially qualify as thinking, depending on how it's done. The key aspects of thinking according to definitions are evaluating circumstances, generating ideas or responses, and those responses not simply being automatic or pre-programmed.
 
@@ -110,7 +110,7 @@ So in summary, it introduces the concept of "elastic thinking" as a cognitive st
 
 So in summary, solving a problem could be thinking, but much of our everyday behavior, including in problem-solving, operates without real conscious thought according to pre-programmed habits and scripts. Mindfulness aims to increase awareness of this to allow for more flexible, conscious thinking.
 
- Here is a summary:
+ 
 
 - Initially, early AI researchers believed that by getting experts together, they could develop a computer with human-level intelligence through logical reasoning and symbol manipulation. This was based on viewing the brain as analogous to computers.
 
@@ -118,7 +118,7 @@ So in summary, solving a problem could be thinking, but much of our everyday beh
 
 - Later work also failed to develop computers that can perform elastic thinking - generating novel ideas and solutions. While computers excel at specific, well-defined tasks, flexible, creative thought remains elusive. Even today's most advanced AI systems are like "really smart calculators" - able to solve particular problems but requiring extensive human input and setup. The gap between analytical and elastic thinking has not been bridged.
 
- Here is a summary:
+ 
 
 - The passage discusses the differences between human and computer thinking, specifically elastic versus linear thinking. Elastic thinking involves non-algorithmic, bottom-up processing that allows for novel insights and solutions. 
 
@@ -130,7 +130,7 @@ So in summary, solving a problem could be thinking, but much of our everyday beh
 
 - In summary, the passage argues that elastic, non-sequential thinking is a unique strength of the human brain that has not been matched by modern computer technology and algorithms. This type of thinking underlies human creativity and flexibility in problem-solving.
 
- Here is a summary:
+ 
 
 - The passage describes the case of a patient, referred to as Patient EVR, who underwent brain surgery to remove a benign tumor. 
 
@@ -142,7 +142,7 @@ So in summary, solving a problem could be thinking, but much of our everyday beh
 
 - The case provides insight into what a person would be like without a functioning reward system to guide thinking and decision making. EVR shows how critical the reward system is for performing even basic tasks that require thought and choice.
 
- Here is a summary:
+ 
 
 - Researchers conducted experiments on a man named EVR who had undergone brain surgery that removed part of his frontal lobe called the orbitofrontal cortex. This structure is part of the brain's reward system.
 
@@ -156,13 +156,13 @@ So in summary, solving a problem could be thinking, but much of our everyday beh
 
 - The article draws a parallel between EVR's condition and the potential effects of too many choices overwhelming modern individuals and depleting mental resources through excessive decision-making.
 
- Here is a summary:
+ 
 
 Experiments with rats in the 1950s showed they would obsessively and continuously press a lever that stimulated a reward center in their brain. This led to neglect of other activities like eating and drinking. The rats were unable to stop due to the constant reward feedback without any diminishing satiation. 
 
 Similarly in humans, activities like problem solving and creative/artistic pursuits stimulate the brain's reward system to encourage those behaviors. As progress is made on a problem or idea, subtle positive feelings encourage further thinking. However, monetizing creative output can disrupt this process by creating an "extrinsic reward" and shifting the motivation to "the wrong reasons." Artists may experience "writer's block" when trying to be creative just for money rather than intrinsic enjoyment. In general, intrinsically rewarding behaviors through feedback better leads to innovation than controlling behavior with extrinsic rewards alone. Original thinking requires idea generation which our brain has evolved to find pleasurable.
 
- Here is a summary:
+ 
 
 - Evolutionary psychologists hypothesized that artistic talent could signal reproductive fitness in humans, similar to how creative displays attract mates in other animals. 
 
@@ -176,7 +176,7 @@ Similarly in humans, activities like problem solving and creative/artistic pursu
 
 - While ADHD is often outgrown, people vary in their tendencies to explore novelty vs exploit routines. This was captured in theories of "adaptors" who prefer refinement vs "innovators" with more flexible thinking styles.
 
- Here is a summary:
+ 
 
 - Individuals have different cognitive styles based on a spectrum from rule-following to rule-breaking proposed by Michael Kirton. 
 
@@ -194,7 +194,7 @@ This ability to group diverse elements into unified concepts and hierarchies is 
 
 This concept does not consist of just a single image, but a collection of features - visual, contextual and personality-based - that represent her holistically. Remarkably, the same neural network activates whether one sees, hears or thinks of their grandmother, showing how brains form rich internal models that transcend mere sensory inputs. By finding meaningful patterns like concepts, human and animal brains impose symbolic order on a complex, unpredictable world.
 
- Here is a summary:
+ 
 
 - Scientists now believe humans have networks of "concept cells" or "concept neurons" in our brains that represent different people, places, things, and ideas. Each concept is represented by a network of about a million neurons. 
 
@@ -238,7 +238,7 @@ In summary, the brain and some organizations can benefit from a balance of botto
 
 So in summary, Wallerstein uncovered a key insight about consumption behavior, but it took a long time for the paradigm in the food industry to truly shift to accept larger portion sizes as the new normal.
 
- Here is a summary:
+ 
 
 - The passage discusses the importance of being able to reframe or restructure one's thinking in order to solve problems and adapt to changing circumstances. This involves questioning assumptions and considering alternative perspectives that contradict existing beliefs or paradigms. 
 
@@ -250,7 +250,7 @@ So in summary, Wallerstein uncovered a key insight about consumption behavior, b
 
 So in summary, the key point is that mental flexibility to reframe problems is important for success in both intellectual pursuits and navigating changing business and social conditions. Questioning assumptions allows for innovative solutions.
 
- Here is a summary:
+ 
 
 - The passage discusses how framing or restructuring problems in new ways is essential to creative and effective problem-solving. This is illustrated through examples like the dog and bone problem. 
 
@@ -262,7 +262,7 @@ So in summary, the key point is that mental flexibility to reframe problems is i
 
 - Cultural differences likely affect levels of innovation across societies since culture shapes underlying thought processes and problem-solving approaches. Rankings of countries' innovation have remained relatively stable over time.
 
- Here is a summary:
+ 
 
 - The study compared the number of inventions patented per capita over 1971-1980 in the US and 13 similar European countries. 
 
@@ -272,7 +272,7 @@ So in summary, the key point is that mental flexibility to reframe problems is i
 
 - This suggests countries tend to maintain their relative innovation performance levels over long periods of time compared to similar wealth peers. The country rankings for inventions patented per capita were quite stable within the studies.
 
- Here is a summary:
+ 
 
 - Hans Berger was a German psychiatrist and neurologist in the early 20th century who invented the electroencephalogram (EEG), a tool for measuring electrical activity in the brain. 
 
@@ -288,7 +288,7 @@ So in summary, the key point is that mental flexibility to reframe problems is i
 
 - Though the EEG transformed neuroscience, Berger's career was hindered by his ideas being ahead of their time and eventually ended when he was fired by the Nazis in 1938. He took his own life in 1941, despondent that his life's work was not fully recognized.
 
- Here is a summary:
+ 
 
 - Niels Andreasen decided to go to medical school to study neuropsychiatry after realizing she could have a greater impact on people's lives than through writing a book on John Donne. This was a radical career change for her as an English professor.
 
@@ -300,7 +300,7 @@ So in summary, the key point is that mental flexibility to reframe problems is i
 
 - Association cortices in the brain allow for abstract associations and meaning-making by connecting different concepts and experiences. This ability to form associations is a key source of human intelligence and creativity.
 
- Here is a summary:
+ 
 
 The passage discusses the importance of idle time and an unoccupied mind for creativity and problem-solving. It explores the concept of the "default mode network" in the brain, which is active when the mind is at rest and allows for random associations and mental wandering. 
 
@@ -308,11 +308,11 @@ It uses the example of Patient J, who lost this function due to a stroke, to sho
 
 This constant stimulation alters brain reward pathways and conditions people to seek constant activity, undermining the default mode. Without time for the mind to wander freely, people have fewer opportunities to make random connections that lead to new ideas and insights. So while technology enables connectivity, it may also curb creative and integrative thinking by occupying the mind constantly.
 
- Here is a summary:
+ 
 
 The passage discusses how taking breaks from constant stimulation and focused work can promote "elastic thinking" and creativity. It suggests incorporating short disconnects like going for a jog or shower without your phone to allow your mind to wander. Work breaks like doing mundane tasks or procrastinating can also give the unconscious time to process problems. Figures like Leonardo da Vinci took purposeful breaks while working to enable unconscious consideration. The example is given of how submarine captain Francis Low had an unlikely but pivotal insight to launch bombers from aircraft carriers to bomb Japan after Pearl Harbor when conventional wisdom said it was impossible. His idea ultimately succeeded due to breaking out of standard paradigms and recognizing circumstances had changed. The passage advocates embracing the ability to question assumptions and think outside the box, as change can make previously unthinkable solutions feasible. Regular breaks may aid this flexible, innovative kind of thinking.
 
- Here is a summary:
+ 
 
 - Roger Sperry conducted experiments splitting the brains of animals by severing the corpus callosum, revealing that the left and right hemispheres can function independently. His work challenged the prevailing view that the right hemisphere was "relatively retarded."
 
@@ -324,7 +324,7 @@ The passage discusses how taking breaks from constant stimulation and focused wo
 
 - Kounios's own work studying language processing with brain imaging technologies led him to a new association about the origins of ideas, continuing the exploration into how the brain generates novel insights.
 
- Here is a summary:
+ 
 
 - Sentences can be puzzling like intellectual puzzles, as words have multiple meanings and it takes integrative thinking to choose the right definitions based on context. 
 
@@ -338,7 +338,7 @@ The passage discusses how taking breaks from constant stimulation and focused wo
 
 So in summary, it discusses how sentences and problems can be puzzling like intellectual puzzles, and how Kounios and Beeman pioneered using neuroscience to understand the brain mechanisms behind insightful solutions and language comprehension.
 
- Here is a summary:
+ 
 
 - Researchers Kounios and Beeman studied the brain processes underlying insight (aha moments) using word puzzles called CRAs (compound remote associate problems). 
 
@@ -368,7 +368,7 @@ In summary, they showed insight is a long unconscious process involving remote r
 
 So in summary, the two passages discuss the brain mechanisms and environmental/mental factors that influence whether logical or insightful, unexpected ideas arise when solving problems. The right hemisphere and adopting the right mindset or conditions are keys to generating original solutions.
 
- Here is a summary:
+ 
 
 - Jonathan Franzen originally had grand plans to become a renowned literary writer and professor by his 30s, living a comfortable literary life. However, his first two books were only modestly successful. 
 
@@ -392,7 +392,7 @@ So in summary, the two passages discuss the brain mechanisms and environmental/m
 
 - The Yom Kippur War provides an example where Israel failed to sufficiently question its assumptions in the face of mounting warnings from neighboring countries, and was caught off guard by their surprise attack due to frozen thinking.
 
- Here is a summary:
+ 
 
 - Psychologists conducted an experiment using chess board positions to test how expertise can hamper flexible thinking when faced with unusual situations. 
 
@@ -416,7 +416,7 @@ So in summary, the two passages discuss the brain mechanisms and environmental/m
 
 - While those most prone to dogmatic thinking may resist dissent, exposing oneself to contradictory opinions in a respectful manner can help broaden one's thinking style over time, even if done reluctantly.
 
- Here is a summary:
+ 
 
 - Our unconscious mind quickly filters ideas to focus on the most promising ones and discard unhelpful ones, like considering marble tiles but not Peppermint Patties. 
 
@@ -428,7 +428,7 @@ So in summary, the two passages discuss the brain mechanisms and environmental/m
 
 - To overcome filters and think more innovatively, we must perform mental transformations to redraw boundaries, as with the larger box, and open ourselves to unusual but potentially useful ideas.
 
- Here is a summary:
+ 
 
 Scientists can now use transcranial stimulation to study the brain structures involved in cognitive filtering and idea generation. By targeting specific areas of the brain with electric currents, they can temporarily disrupt those regions in healthy volunteers. 
 
@@ -464,7 +464,7 @@ The author argues that innovative ideas often sound "nutty" at first. Scientists
 
 So in summary, a tendency towards loose cognitive filtering and schizotypy appears genetically and neurologically linked to both eccentric behavior and a capacity for the divergent, elastic thinking involved in generating original ideas. The relationship seems strongest in fields emphasizing improvisation.
 
- Here is a summary:
+ 
 
 - The passage discusses the excessive risk-taking and substance abuse common among many pioneering jazz musicians, such as Charlie Parker consuming large amounts of alcohol and drugs. 
 
@@ -476,7 +476,7 @@ So in summary, a tendency towards loose cognitive filtering and schizotypy appea
 
 - The passage argues we all have two distinct thinkers - a logician and a poet - within us, and our ability to shift between these modes impacts our success. Creative works emerge from the struggle between these two thinkers.
 
- Here is a summary:
+ 
 
 - Carl Sagan experimented with marijuana in college and wrote anonymously about his experiences, noting similarities to schizotypal thinking like unusual associations and enhanced artistic appreciation. 
 
@@ -488,7 +488,7 @@ So in summary, a tendency towards loose cognitive filtering and schizotypy appea
 
 - However, both drugs can negatively impact cognition if overused by exceeding thresholds into impeded or incoherent thinking. Moderation seems key to potential benefits while managing risks, similar to traits like schizotypy versus schizophrenia.
 
- Here is a summary:
+ 
 
 - Psychedelic drug research is making a comeback after being largely banned in the 1970s. Scientists are studying the effects of drugs like LSD and psilocybin on the brain.
 
@@ -502,7 +502,7 @@ So in summary, a tendency towards loose cognitive filtering and schizotypy appea
 
 So in summary, the passage discusses recent psychedelic drug research and how drugs and mental fatigue can impact different thinking modes in the brain. More research is still needed to understand these effects.
 
- Here is a summary:
+ 
 
 - Researchers found handwritten essays written by young Catholic nuns in 1930 describing their lives and influences. 180 of those nuns were later subjects in a longevity study.
 
@@ -516,11 +516,11 @@ So in summary, the passage discusses recent psychedelic drug research and how dr
 
 - Positive psychology teaches maintaining good mood through pleasurable activities, focusing on positives, and disputing negative thoughts to relax filters and think more creatively. Happiness improves mental productivity and problem solving.
 
- Here is a summary:
+ 
 
 The passage tells a story about the author's mother and her independent and determined spirit. When her blender broke after buying it online, she refused help and figured out a way on her own to return the broken one and get a refund by exchanging it for a new one at Best Buy. This stemmed from her lifelong motto of "where there's a will, there's a way," which helped her survive a Nazi slave labor camp and build a new life after the Holocaust. The story illustrates her resourcefulness and problem-solving ability even in her 90s, showing how people can find creative solutions when motivated to address challenges, no matter their age. It's presented as an example of "elastic thinking" and the human ability to overcome obstacles through determination and imagination.
 
- Here is a summary:
+ 
 
 - A boy saves himself from being killed by coming up with an imaginative story when questioned by SS officers at a factory. The officers are convinced by his storytelling abilities. 
 
@@ -580,7 +580,7 @@ The passage tells a story about the author's mother and her independent and dete
 
 - Insight problems like the nine-dot puzzle become easier with strategy hints, removing implied boundaries, or adding dots to reduce mental blocks hindering new perspectives.
 
- Here is a summary:
+ 
 
 - In 2012, researchers Richard P. Chi and Allan W. Snyder published a study showing that applying transcranial direct current stimulation (tDCS) to the prefrontal cortex helped subjects solve insight problems that they had previously been unable to solve. 
 

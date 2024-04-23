@@ -30,7 +30,7 @@ BOOK LINK:
 
 So in summary, the introduction argues that ethics do influence foreign policy decisions in meaningful ways, but defining and judging a "moral" policy is complex and requires looking at intentions, means, consequences, and context of different presidents' actions and choices over the postwar period.
 
- Here is a summary:
+ 
 
 This passage discusses American moralism and exceptionalism in foreign policy. It argues that while all nations see themselves as exceptional, the U.S. and France believe their values are universal. Only the U.S., due to its power after WWII, could develop foreign policies reflecting exceptionalism. 
 
@@ -40,7 +40,7 @@ Religious roots of being a "chosen people" and Puritan anxieties about virtue al
 
 Finally, America's vast size and location, protected by oceans, allowed focus on domestic expansion until becoming a global power in the 20th century. This size and power gave the U.S. both opportunity and incentive to shape the global order, for good or ill, according to its beliefs. Debates continue over how moral and exceptional America's foreign policy should be.
 
- Here is a summary:
+ 
 
 - Woodrow Wilson tried to combine American liberal values with its growing status as a great power in the early 20th century. He promoted the idea of an international league of nations based on collective security rather than alliances in the balance of power system. 
 
@@ -82,7 +82,7 @@ In summary, it outlines the debate on morality in foreign policy, discusses how 
 
 The passage discusses the complexity of moral decision-making and foreign policy evaluations, emphasizing the need to consider multiple dimensions rather than single factors like intentions or character alone. Practical leadership often requires pragmatism as well as principled stances.
 
- Here is a summary:
+ 
 
 This passage discusses different ethical approaches in Western moral philosophy - rule-based or deontological ethics associated with Kant, consequentialist or utilitarian ethics associated with Bentham and Mill, and virtue ethics associated with Aristotle. It notes how these traditions emphasize different moral dimensions - intentions, means, and consequences. 
 
@@ -106,7 +106,7 @@ Some key points:
 
 - Realist, cosmopolitan and communitarian views offer different perspectives on presidents' moral obligations to their own citizens vs the international community.
 
- Here is a summary:
+ 
 
 - Realists argue that in dire situations of national survival, leaders may need to pursue ruthless policies and violate morality to ensure the survival of their country. Some cite Churchill's actions in World War 2 as justified examples of this. 
 
@@ -142,7 +142,7 @@ In summary, the key perspectives discussed involve realist acceptance of potenti
 
 The passage advocates a multidimensional approach (3D ethics) that incorporates insights from realism, liberalism, and cosmopolitanism. It emphasizes intentions/values, means, and consequences as important factors for judging presidential foreign policy decisions in an ethical manner. Prudence, balancing risks and opportunities, and considering diverse cultural/political contexts are seen as especially important virtues.
 
- Here is a summary:
+ 
 
 - The presidents who created the American order after WWII like FDR and Truman did not enter office with a grand strategy for an American or liberal international order. Foreign policy was not a top priority, especially during the Great Depression. 
 
@@ -152,7 +152,7 @@ The passage advocates a multidimensional approach (3D ethics) that incorporates 
 
 - While FDR and Truman laid some foundations, their plans were missing parts for a postwar world that became bipolar instead of cooperating. The key was establishing that "we have learned to be citizens of the world." Their early focus developed later into a broader vision of an American-led international order as cooperation with the Soviet Union broke down.
 
- Here is a summary:
+ 
 
 - FDR was initially cautious in foreign policy due to strong isolationist sentiment among Americans. He focused on the Western Hemisphere and trade policy. 
 
@@ -164,7 +164,7 @@ The passage advocates a multidimensional approach (3D ethics) that incorporates 
 
 - FDR was a skilled politician and actor who relied heavily on deception with the public, allies and enemies to advance his foreign policy goals and mask his disability from polio. He was also a compromiser who left people uncertain of his true beliefs.
 
- Here is a summary:
+ 
 
 - FDR wanted to remain in control while also gathering multiple lines of information from staff competing with each other, an approach echoed by later presidents like Kennedy and Trump. 
 
@@ -178,7 +178,7 @@ The passage advocates a multidimensional approach (3D ethics) that incorporates 
 
 - FDR's leadership in entering WWII and establishing post-war international institutions had enormous ethical consequences for global security and order, though he was less successful in educating public opinion and Truman on cooperating with the Soviets.
 
- Here is a summary:
+ 
 
 - Truman had a strong moral vision shaped by lessons from the 1930s about confronting aggression. He initially underestimated Soviet intentions but came to view them as malevolent. 
 
@@ -198,7 +198,7 @@ The passage advocates a multidimensional approach (3D ethics) that incorporates 
 
 - Truman wanted to appeal to Congress by naming the plan after the well-respected general, thinking it would have a better chance of passing and gaining support that way. Naming programs after popular military figures was seen as an effective political strategy at the time.
 
- Here is a summary:
+ 
 
 - Eisenhower avoided land wars in Korea and Vietnam that may have trapped the US. He cut overseas spending to support the domestic economy and strengthened alliances with Europe and Japan. 
 
@@ -214,7 +214,7 @@ The passage advocates a multidimensional approach (3D ethics) that incorporates 
 
 - Overall, Eisenhower avoided disaster through prudent crisis management and emotional self-control, but his covert interventionism damaged the US reputation in some parts of the world.
 
- Here is a summary:
+ 
 
 - Eisenhower pursued nuclear weapons as a key part of deterrence, wanting them to seem normal but controlled by the president. He threatened nuclear use for coercion but advisers doubted he would actually use them. 
 
@@ -226,7 +226,7 @@ The passage advocates a multidimensional approach (3D ethics) that incorporates 
 
 - All three founders exhibited good moral reasoning, considering alternatives like preventive war but pursuing peaceful containment instead. Their imperfect grand strategy nonetheless created a more stable postwar environment.
 
- Here is a summary:
+ 
 
 - The paranoid period of McCarthyism in the early 1950s led to bitter domestic debates over who "lost China to communism." Each subsequent president feared shouldering the political blame for losing Vietnam. 
 
@@ -260,7 +260,7 @@ The passage advocates a multidimensional approach (3D ethics) that incorporates 
 
 - While initially reluctant to expand the war, Johnson gradually bought into recommendations for escalation from 1964-1965 and ramped up bombings and troop deployments, becoming "a prisoner of his own propaganda" as the war spiraled out of control.
 
- Here is a summary:
+ 
 
 - Lyndon Johnson deeply personalized the Vietnam issue due to his personal insecurities and fears of being seen as a coward. This complicated his decision-making and policy choices. 
 
@@ -274,7 +274,7 @@ The passage advocates a multidimensional approach (3D ethics) that incorporates 
 
 - Johnson's ethical scorecard is mixed - his stated intentions were similar to Kennedy's but were compromised by personal motives. His means and resulting consequences earned poor marks in terms of discrimination, respect for rights, minimizing damage to others, and credibility with the public.
 
- Here is a summary:
+ 
 
 - Richard Nixon was born in 1913 in California and raised in a Quaker tradition that emphasized moral values. However, Gergen argues Nixon did not bring a moral framework to politics himself. 
 
@@ -352,7 +352,7 @@ In summary, Ford inherited serious economic and political challenges resulting d
 
 However, Carter struggled to present a coherent foreign policy and manage tensions between diplomatic vs military advisors. His foreign policy was ultimately undermined by the 1979 Iranian Revolution, which he was unable to influence through support of the Shah despite warnings. Overall, Carter had successes but faced challenges in explaining and promoting his foreign policy vision.
 
- Here is a summary:
+ 
 
 - In the late 1970s, the US was depressed due to economic problems, the hostage crisis in Iran, and perceptions that the Soviet Union was growing in power. 
 
@@ -364,7 +364,7 @@ However, Carter struggled to present a coherent foreign policy and manage tensio
 
 - Under Reagan and Bush, the US regained confidence and went on the offensive against the Soviet Union. But the real credit goes to misperceptions in the 1970s underestimating the internal weaknesses of the Soviet system. By the late 1980s, the Soviet Union collapsed, ending the Cold War.
 
- Here is a summary:
+ 
 
 - The passage discusses Ronald Reagan's background, ideology, and presidency. It notes he came from a modest family in Illinois and had a career in Hollywood before entering politics as a Republican. 
 
@@ -388,7 +388,7 @@ However, Carter struggled to present a coherent foreign policy and manage tensio
 
 - Reagan had mixed record in terms of means used - some actions like Iran-Contra undermined domestic and international legal norms, while his rhetoric did help broaden moral discourse. Overall, he advanced US interests but some actions like in Central America raised ethical issues.
 
- Here is a summary:
+ 
 
 - George H.W. Bush presided over the end of the Cold War and dissolution of the Soviet Union in 1991 in a prudent, risk-averse manner. There were some misunderstandings around NATO expansion verbally but no formal promises were broken. 
 
@@ -400,11 +400,11 @@ However, Carter struggled to present a coherent foreign policy and manage tensio
 
 - Though a middling president overall, Bush excelled in foreign policy by presiding over the end of the Cold War and German reunification successfully without catastrophe. His prudent, restrained style helped manage major global transformations.
 
- Here is a summary:
+ 
 
 The uncharacteristic intervention by the US to broker peace talks in Haiti set the scene for the first major crisis for President Bill Clinton. While Clinton represented a new generation that did not experience WWII or Vietnam, he still had to navigate American foreign policy during an unprecedented period of unipolar dominance following the collapse of the Soviet Union. Critics argue this opened the door for American hubris and overreach without the constraints of bipolar competition, though others note the American public and foreign policy establishment were not universally eager for an expansion of US hegemony. Clinton, the first president of the post-Cold War era, had to find his footing amid these complex dynamics as he pursued American interests abroad during this unipolar moment.
 
- Here is a summary:
+ 
 
 - Bill Clinton was both one of the smartest and dumbest presidents in some ways. He wanted the most ethical administration but was impeached over his affair with Monica Lewinsky. 
 
@@ -418,7 +418,7 @@ The uncharacteristic intervention by the US to broker peace talks in Haiti set t
 
 - Clinton embraced engaging former enemies and expanding free markets and democracy globally. He relied on economic initiatives and globalization rather than military might alone. Policies included NAFTA, WTO, and managing the Asian financial crisis with the IMF.
 
- Here is a summary:
+ 
 
 - Clinton pursued an engagement policy toward China, hoping to integrate it into the international liberal order through trade and economic growth. Some argue he was naive to think this would lead to political liberalization. 
 
@@ -434,7 +434,7 @@ The uncharacteristic intervention by the US to broker peace talks in Haiti set t
 
 - Overall, Clinton combined prudent application of military force with a preference for diplomacy and strengthening international institutions. His foreign policy achieved many US interests and left international relations in a reasonably stable position at the end of his term.
 
- Here is a summary:
+ 
 
 - Clinton was criticized by Brzezinski for failing to fully articulate a vision for the post-Cold War world. 
 
@@ -448,7 +448,7 @@ The uncharacteristic intervention by the US to broker peace talks in Haiti set t
 
 So in summary, it evaluates Clinton positively overall despite flaws, while being quite critical of Bush's management failures and the impacts of decisions like the Iraq war.
 
- Here is a summary:
+ 
 
 - The invasion of Iraq in 2003 without UN approval and poor postwar planning is considered a major foreign policy disaster on par with the Vietnam War. Over 4,500 US soldiers died and costs have exceeded $5 trillion. 
 
@@ -478,7 +478,7 @@ So in summary, it evaluates Clinton positively overall despite flaws, while bein
 
 - All three presidents struggled to maintain control over issues crossing borders outside of state control in the context of growing transnational networks and diffusion of power.
 
- Here is a summary:
+ 
 
 - While the actual number of people killed by terrorists is small, public fear of terrorism far exceeds the real threat. Terrorism aims to shock nations into counterproductive actions through violence. Al Qaeda succeeded in capturing attention and influencing the agenda with the 9/11 attacks. 
 
@@ -504,7 +504,7 @@ So in summary, it evaluates Clinton positively overall despite flaws, while bein
 
 So in summary, the passage discusses debates around Obama's strategic approach, criticisms of being too cautious or lacking clear priorities, and both successes and struggles he faced, particularly with complex Middle East conflicts.
 
- Here is a summary:
+ 
 
 - Obama pursued ambitious foreign policy goals of maintaining US primacy and promoting liberal international order through diplomacy and multilateral cooperation. He led efforts at the UN and G-20 to sanction Iran over its nuclear program and negotiated the Iran nuclear deal. 
 
@@ -516,7 +516,7 @@ So in summary, the passage discusses debates around Obama's strategic approach, 
 
 - Overall, Obama's intentions appear principled and aimed at maintaining international order. His means respected liberal values and institutions. The consequences of his foreign policy are mixed but generally seen as furthering US interests in a challenging global environment.
 
- Here is a summary:
+ 
 
 - Trump utilized an unpredictable style and populist messaging in his 2016 campaign that got extensive media coverage and helped him win unexpectedly against Hillary Clinton despite losing the popular vote. 
 
@@ -530,7 +530,7 @@ So in summary, the passage discusses debates around Obama's strategic approach, 
 
 - Critics argued Trump and Obama both supported a form of retrenchment, though they differed in style, while neoconservatives saw this consensus as dangerous and limiting America's role.
 
- Here is a summary:
+ 
 
 - While Trump took some actions that upheld democracy and human rights, like punishing Syria for chemical attacks, his rhetoric did not strongly embrace these values like previous presidents. He praised authoritarian leaders and attacked the free press. 
 
@@ -580,7 +580,7 @@ In summary, the analysis finds Trump's foreign policy to be largely driven by na
 
 - Context shapes the moral choices available to a president. Judging failures to foresee consequences is tricky. Overall, contextual intelligence separated presidents like Johnson, Bush Jr., and Trump from others. Survival is the primary duty, but post-survival choices impacted morality ratings.
 
- Here is a summary:
+ 
 
 - While providing humanitarian aid to Somalia in 1992 likely did not require anticipating later problems, George W. Bush should have foreseen the enormous long-term costs of invading Iraq in 2003. Presidents must exercise due diligence to avoid disproportionate unintended consequences of military interventions. 
 
@@ -594,7 +594,7 @@ In summary, the analysis finds Trump's foreign policy to be largely driven by na
 
 - A president's secrecy, interventions, and trustworthiness deeply impact moral discourse and public opinion over the long run. Excessive covert actions and later revelations corrode trust in government.
 
- Here is a summary:
+ 
 
 - William Casey's CIA conducted covert actions in Central America during the Reagan administration that were controversial. 
 
@@ -608,7 +608,7 @@ In summary, the analysis finds Trump's foreign policy to be largely driven by na
 
 - U.S. foreign policy attitudes have always oscillated between internationalism and isolationism in reaction to previous eras. Moralism in policy does not make Americans more moral but affects self-perception and sometimes policies. Support for interventionism wanes over time as costs rise. Credibility issues create moral dilemmas for presidents around the use of military and non-military means to promote values.
 
- Here is a summary:
+ 
 
 - Two major power shifts are challenging the post-WW2 liberal global order. The first is the rise of new economic powers like Japan, Southeast Asian nations, China, and India. This has increased economic interdependence globally. 
 
@@ -620,7 +620,7 @@ In summary, the analysis finds Trump's foreign policy to be largely driven by na
 
 - However, the US still maintains advantages in geography, energy independence, military spending, and the role of the US dollar that will endure. Successful management is needed to avoid conflict arising from misperceptions of China's rise.
 
- Here is a summary:
+ 
 
 - China lacks honest government, rule of law, and these will not be developed quickly. However, China also risks damaging its own economy if it divests from US dollars.
 
@@ -634,7 +634,7 @@ In summary, the analysis finds Trump's foreign policy to be largely driven by na
 
 - Maintaining Asian alliances will help balance Chinese power regionally. The future may involve more issue-by-issue cooperation and competition between the US and China rather than rigid blocs. But careful management will be needed to avoid miscalculation.
 
- Here is a summary:
+ 
 
 Technological change is shifting power away from governments and toward non-state actors. Issues like financial stability, climate change, terrorism, cybercrime and pandemics are now global issues that governments have difficulty controlling due to factors like decentralized technologies empowering diverse non-state groups. 
 
@@ -658,7 +658,7 @@ Developing successful cybersecurity and information norms will be challenging an
 
 So in summary, presidents will face complex moral questions around balancing technological progress with accountability, safety, transparency and international cooperation as autonomous systems increasingly impact geopolitics, security and sovereignty. Careful governance approaches will be needed.
 
- Here is a summary:
+ 
 
 - The US will continue to face temptations to intervene in other countries due to global crises like terrorism, refugees and humanitarian issues. However, attempts at invasion and occupation or coercive democracy promotion have often backfired. 
 
@@ -686,7 +686,7 @@ So in summary, presidents will face complex moral questions around balancing tec
 
 - Nativist politics that narrow the US's moral vision at home may threaten foreign policy success more than the rise of other powers abroad. Cooperation with foreign partners based on soft power will be important as the US faces new transnational problems.
 
- Here is a summary:
+ 
 
 - The passage discusses Francis Fukuyama's article "Against Identity Politics" in Foreign Affairs. 
 

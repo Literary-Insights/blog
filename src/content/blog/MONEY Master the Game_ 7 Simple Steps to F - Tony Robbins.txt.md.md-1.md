@@ -79,7 +79,7 @@ In summary, achieving wealth and independence is not about radical changes or an
 
 Does this summary accurately reflect the key principles around achieving financial freedom through continuous improvement? Let me know if you would like me to clarify or expand my summary further. I'm happy to provide additional details and examples.
 
- Here is a summary:
+ 
 
 • Sir John Templeton was an optimistic investor who believed in embracing maximum pessimism in the markets and focusing on global opportunities. He felt spiritual and personal growth came from facing challenges, constant self-improvement, and an attitude of gratitude.
 
@@ -99,7 +99,7 @@ Does this summary accurately reflect the key principles around achieving financi
 
 Does this summary accurately reflect the key highlights and main conclusions from the discussion? Let me know if you would like me to clarify or expand on any part of the summary.
 
- Here is a summary:
+ 
 
 - Technology and abundance will improve lives in exponential ways beyond most expectations. The future looks incredibly optimistic.
 

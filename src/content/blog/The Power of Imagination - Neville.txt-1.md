@@ -1171,7 +1171,7 @@ The key overall message is that by controlling our inner conversations through i
 
 - The goal is to wake the sleeping imagination to experience spiritual rebirth and see the kingdom of heaven, the ideal reality within.
 
- Here is a summary:
+ 
 
 The story illustrates the mystical meaning behind the Biblical phrase "water and blood" as representing spiritual truth (water) that must be actively applied (blood) to transform lives. It tells of a school teacher who was challenged to test this principle. She chose to radically change her attitude and perception of a problem student who was to be expelled. By imagining and acting as if the student was friendly and well-behaved, the teacher effected an actual transformation in the student's behavior. This demonstrates the power of changing one's consciousness to transform outer conditions, fulfilling the esoteric meaning of being born again by "water and blood." The story emphasizes applying spiritual truths in action, not just knowing them intellectually. It shows how changing our perception of others can transform them, based on the esoteric truth that we see in others what we have the capacity to see within ourselves.
 
@@ -1249,7 +1249,7 @@ The story illustrates the mystical meaning behind the Biblical phrase "water and
 
 - The past can be recreated and revised in imagination. This alters the present and future. Revision is the first act of correction. By testing imagination against results, confidence grows in its creative power.
 
- Here is a summary:
+ 
 
 The passage illustrates the idea that imagination creates reality through several examples. It starts by recounting how in 1898 author Morgan Robertson wrote a novel about a fictional luxury ocean liner named the Titan that sank after hitting an iceberg. This closely matched the real-life story of the Titanic 14 years later. This demonstrates that Robertson's imaginary story became fact. 
 

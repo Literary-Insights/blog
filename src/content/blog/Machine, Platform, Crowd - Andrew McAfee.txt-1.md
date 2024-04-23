@@ -260,7 +260,7 @@ BOOK LINK:
 
 - Increased virtualization and automation will transform many jobs and industries, potentially requiring adjustments like retraining programs. But history suggests the long-term outcome is broadly positive for prosperity and standards of living.
 
- Here is a summary:
+ 
 
 The Cambrian Explosion was a brief period when most major forms of life on Earth appeared. Today, we may be on the cusp of a similar explosion in robotic innovation driven by advances in data, algorithms, networks, the cloud, and hardware. 
 
@@ -314,7 +314,7 @@ Together these advancements are fueling a robotic Cambrian Explosion as innovato
 
 - As digital creativity advances, computers may be capable of novel innovations and "Eureka!" moments in science and engineering. But some argue AI art lacks depth compared to human creations. The boundaries between natural human creativity and artificial creativity continue to blur.
 
- Here is a summary:
+ 
 
 Aesthetics - our sense of beauty and appeal - are complex but can be understood through principles like the golden ratio. This knowledge is being used in technology, like The Grid's customized websites and IBM's AI-generated recipes. Architects employed computers to design the energy-efficient Shanghai Tower. 
 
@@ -583,7 +583,7 @@ In summary, platforms subsidize the side of the market that is most price sensit
 
 In summary, platforms aim to rapidly scale networks through low pricing. This disrupts incumbents used to higher prices but with higher marginal costs. However, legacy companies in some sectors endure despite platforms, slowing disruption through various strategies. The spread of platforms is powerful but not unlimited.
 
- Here is a summary:
+ 
 
 Airbnb rentals represented 12% of all lodging, indicating the company has made significant inroads into the hotel industry. However, Airbnb is not likely to completely displace hotels because lodging is a differentiated market, unlike ride-hailing which offers a more commoditized service. Factors that limit Airbnb's disruption of hotels include:
 

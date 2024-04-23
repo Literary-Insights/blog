@@ -44,7 +44,7 @@ So in summary, the book presents a design thinking process tailored for technolo
 
 So in summary, the key message is to supplement words with visuals like pictures, sketches and diagrams when possible, as visuals often convey ideas more clearly and stimulate understanding better than words alone.
 
- Here is a summary:
+ 
 
 - The author Bruce Gay argues that Design Thinking is needed for the technology community and anyone interested in thinking and doing things smarter. 
 
@@ -56,7 +56,7 @@ So in summary, the key message is to supplement words with visuals like pictures
 
 - Design Thinking helps deliver value incrementally and earlier than traditional approaches. This provides benefits like navigating challenges faster, arriving at the finish line sooner, and gaining value earlier in the project life cycle.
 
- Here is a summary:
+ 
 
 - The book is organized into five parts that follow the phases of a Design Thinking model: Understanding Broadly, Thinking Differently, Delivering Value, and Iterating for Progress. 
 
@@ -72,7 +72,7 @@ So in summary, the key message is to supplement words with visuals like pictures
 
 In summary, the book aims to provide practical guidance for applying Design Thinking techniques and exercising at each phase of a project to help organizations solve problems more effectively and deliver value through an iterative process.
 
- Here is a summary:
+ 
 
 This book will be useful for a wide variety of technology roles, including product owners, project managers, architects, developers, analysts, consultants, and more. It will also appeal to business leaders, executives, students, and others interested in Design Thinking. 
 
@@ -80,7 +80,7 @@ The book aims to strike a balance in depth and breadth to provide value to both 
 
 The book is structured in five parts that cover Design Thinking basics, broad understanding, different thinking, delivering value, and iterating for progress. It explains that Design Thinking involves slowing down to think through problems in order to deliver faster solutions, especially for complex problems. Various techniques and real-world examples are presented to illustrate how Design Thinking can be applied.
 
- Here is a summary:
+ 
 
 - Describes how successful projects were able to course-correct fast enough rather than striving for perfection from the start. Fast iteration and getting directionally right was more important than being perfect initially. 
 
@@ -98,7 +98,7 @@ The book is structured in five parts that cover Design Thinking basics, broad un
 
 - Discusses "best practices", "common practices" and Design Thinking practices to deliver solutions faster with less risk when facing complex or changing environments.
 
- Here is a summary:
+ 
 
 - Common practices strike a more cost-effective balance between what is best and what is acceptable. While not as effective as best practices, common practices are significantly less expensive to implement. 
 
@@ -110,7 +110,7 @@ The book is structured in five parts that cover Design Thinking basics, broad un
 
 - Design Thinking benefits technology professionals of all roles by providing a collaborative way to tackle complex problems through empathy, problem definition, and prototyping solutions. It helps transform organizations to be more resilient and future-focused.
 
- Here is a summary:
+ 
 
 - The passage discusses a model for organizing the Design Thinking process called the Design Thinking Model for Tech. 
 
@@ -126,7 +126,7 @@ The book is structured in five parts that cover Design Thinking basics, broad un
 
 The key takeaways are that the passage outlines a 4 phase model for Design Thinking and emphasizes the importance of broad understanding, creative thinking, prototyping solutions, and ongoing iteration in solving problems through this approach.
 
- Here is a summary:
+ 
 
 - Satish needs help organizing OneBank's dozen initiatives according to the Design Thinking model. The initiatives are in different stages of their lifecycles and Design Thinking phases. 
 
@@ -152,7 +152,7 @@ The key takeaways are that the passage outlines a 4 phase model for Design Think
 
 The key takeaway is that Design Thinking offers a toolkit of techniques that can benefit individuals, teams and groups in their work by facilitating learning, creative thinking, problem solving and effective execution, regardless of role.
 
- Here is a summary:
+ 
 
 - Design Thinking provides several techniques and exercises to help cope with ambiguity, including modular thinking, building to think, MVP thinking, cover story mockups, and premortems. These approaches allow teams to break problems down, prototype solutions, envision future successes/failures, and gain clarity.
 
@@ -196,7 +196,7 @@ The key message is that Design Thinking provides various techniques for building
 
 - Using an inclusive "How might we?" format can help develop guiding principles for teamwork by creating a collaborative, solution-focused mindset.
 
- Here is a summary:
+ 
 
 The article discusses five techniques and practices that are important for building sustainable teams using design thinking:
 
@@ -240,7 +240,7 @@ The article argues these techniques can help build teams that work well together
 
 - Share meeting notes and next steps via the agreed communication channel promptly.
 
- Here is a summary:
+ 
 
 - This hour discusses making teamwork visible and visual through techniques like Visual Thinking and Design Thinking exercises. Visual Thinking replaces words with pictures and diagrams to create shared understanding. 
 
@@ -288,7 +288,7 @@ The key aspects of concluding a Design Thinking exercise according to this summa
 
 - The summary recaps the focus on listening, understanding context, and assessing the environment, culture and value proposition before connecting with stakeholders.
 
- Here is a summary:
+ 
 
 The article discusses various techniques for active listening and understanding others' perspectives through design thinking. This includes actively listening without distractions, reflecting what is heard, and asking clarifying questions. 
 
@@ -300,7 +300,7 @@ A technique called "supervillain monologuing" encourages stakeholders to openly 
 
 Overall, the key is to get diverse viewpoints through various listening and conversation techniques. This helps empathize with different experiences and builds a shared understanding needed for positive change.
 
- Here is a summary:
+ 
 
 - Probing for understanding involves asking questions to gain a deeper insight into a situation and avoid mistakes. It helps clear up uncertainty. 
 
@@ -346,7 +346,7 @@ Together, these three dimensions provide a framework for assessing an organizati
 
 - Connecting with the right people early on sets the stage for deeper empathy and understanding covered in the next hour.
 
- Here is a summary:
+ 
 
 - Stakeholder+ mapping is a Design Thinking exercise that expands on a traditional stakeholder map by including thought bubbles and speech bubbles to represent what each stakeholder is thinking and saying. This helps gain empathy for different stakeholders. 
 
@@ -358,7 +358,7 @@ Together, these three dimensions provide a framework for assessing an organizati
 
 - Stakeholders are rated on power and interest scales and placed on the grid. Those with high power/interest require close management, while others need different levels of involvement based on their grid placement. Both maps help understand stakeholders to improve project planning and outcomes.
 
- Here is a summary:
+ 
 
 - Customers are the main external stakeholders. They need to be communicated with regularly about updates, timelines, issues, and resolutions. Communication should be clear, concise and through their preferred channels. Their needs and satisfaction should be top priority. 
 
@@ -434,7 +434,7 @@ Together, these three dimensions provide a framework for assessing an organizati
 
 - Identifying the right problem is crucial for effective design thinking and creating solutions that address real customer needs.
 
- Here is a summary:
+ 
 
 The key value of a problem framing exercise is that it allows a team to properly define and prioritize a problem. Some key benefits include:
 
@@ -489,7 +489,7 @@ Some key actions could include:
 
 - The case study warns against remaining too convergent when a situation demands divergent thinking to break free from mental constraints holding back better solutions. Filling the Ideation Funnel requires alternating between divergence to explore many options and convergence to evaluate them.
 
- Here is a summary:
+ 
 
 - The passage discusses divergent and convergent thinking. Divergent thinking generates many ideas, while convergent thinking helps arrive at the best solution. 
 
@@ -611,7 +611,7 @@ So in summary, Running the Swamp employs time pressure, visual aids and divergen
 
 - The goal is to minimize risks and make steady progress through uncertain journeys one intentional step at a time.
 
- Here is a summary:
+ 
 
 The techniques discussed focus on reducing uncertainty by sequencing thought exercises in a customized way. Possible Futures Thinking uses a wheel analogy to model different future scenarios based on trends, allowing one to identify opportunities, risks, and strategic considerations. Aligning Strategy to Time Horizons visually aligns long-term goals, mid-term initiatives, and near-term projects/tasks to help prioritize and sequence work. Backporting into the Past leverages existing skills, experiences, team strengths, and past work to creatively adapt to current constraints and limitations. Adjacent Space Exploration explores lower-risk next steps that are similar but not identical to the current situation, providing a potential time-saving or decision-making intermediate path forward. Together, these techniques essentially create a customized approach to systematically thinking through uncertainties.
 
@@ -657,7 +657,7 @@ The techniques discussed focus on reducing uncertainty by sequencing thought exe
 
 The text concludes by warning against skimping on brainstorming as this can limit the exploration of solutions, and previews a case study will be provided to apply these techniques.
 
- Here is a summary:
+ 
 
 The passage discusses using Brainstorming and SCAMPER techniques to address problems in an effective way. Some key points:
 
@@ -673,7 +673,7 @@ The passage discusses using Brainstorming and SCAMPER techniques to address prob
 
 The overall message is that Brainstorming and SCAMPER can help converge and problem solve in a structured yet creative way, especially when combined with other design thinking methods.
 
- Here is a summary:
+ 
 
 - Working backwards from requirements to see if development could start earlier in the process through more engagement in pre-development requirements gathering. 
 
@@ -773,7 +773,7 @@ The key is crafting stories intentionally around themes that bring people togeth
 
 In summary, the key takeaways are around using prototyping and iterative solutioning to externalize ideas, build shared understanding, and make steady planned progress towards solutions rather than trying to solve entire problems at once.
 
- Here is a summary:
+ 
 
 The passage discusses the importance of prototyping and gaining early feedback before fully developing and deploying solutions. Prototyping helps validate that the team is heading in the right direction and helps make progress instead of trying to completely solve complex problems all at once. 
 
@@ -787,7 +787,7 @@ Some key prototyping and feedback techniques mentioned include:
 
 The goal is to gain early feedback from teams as well as intended users to help iterate the solution before major investment and deployment. Prototyping in various forms is presented as a key part of the design thinking process.
 
- Here is a summary:
+ 
 
 - It is better to model our ideas in 3D or create tangible artifacts that can be held and manipulated, as this gets our thoughts out of our heads and into the real world faster. This allows us to more quickly find gaps and iterate on our ideas. 
 
@@ -799,7 +799,7 @@ The goal is to gain early feedback from teams as well as intended users to help 
 
 In summary, the passage advocates getting ideas out of our heads and into tangible prototypes/models early through techniques like building to think. Some planning is later needed, but significant learnings come from doing versus over-planning initially. Structured techniques can then help ensure planned progress.
 
- Here is a summary:
+ 
 
 - When teams are given unlimited time, urgency and progress often decrease. With no deadlines, uncertainty increases and progress decreases. 
 
@@ -829,7 +829,7 @@ So in summary, these techniques help incrementally learn through doing while pla
 
 The EC is looking for guidance on applying agile and lean methodologies at program/portfolio level to help them successfully navigate significant changes occurring across multiple intersecting projects and communities. They want to ensure organizational change management is predictable and the impacts of changes are well understood.
 
- Here is a summary:
+ 
 
 - OKRs (Objectives and Key Results) provide a framework for defining and measuring organizational value and progress. The Objective defines what will be achieved, while the Key Results are specific and measurable metrics to track progress towards the Objective. 
 
@@ -933,7 +933,7 @@ In summary, thorough performance testing early helps characterize expected behav
 
 - Solution Interviewing should also be used before deploying MVPs and pilots to confirm plans prior to pre-production testing. This allows for earlier learning and iteration.
 
- Here is a summary:
+ 
 
 - Feedback helps teams and individuals improve in many ways, from big-picture improvements to specific design and delivery enhancements. 
 
@@ -961,7 +961,7 @@ In summary, thorough performance testing early helps characterize expected behav
 
 - In summary, the hour focuses on progressive deployment strategies and techniques to keep projects moving forward rather than getting stuck pursuing unattainable perfection. The key is developing solutions incrementally based on prioritizing what will deliver the most value or learning.
 
- Here is a summary:
+ 
 
 The key techniques discussed for making progress when deployments are challenged are backward invention and balancing the essential vs accidental. 
 
@@ -985,7 +985,7 @@ Overall, these edge case techniques aim to deploy value even when complexity is 
 
 - The "What Not To Do" section cautions against prioritizing features over scaling, as scaling to serve broader communities should usually take priority over new features for pilot audiences.
 
- Here is a summary:
+ 
 
 The passage describes two operational resiliency techniques borrowed from disaster recovery and risk management: Buddy System Pairing and Slaying the Hero. 
 
@@ -1139,7 +1139,7 @@ Techniques like Cover Story Mockup (Hours 3, 16), Active Listening (Hour 6), and
 
 The summary emphasizes these four techniques for problem validation through approaches like verbatim description, focused questioning, root cause analysis, and pattern recognition. It suggests the executive committee may be incorrectly applying design thinking principles meant for ideation and solution development to the problem validation stage.
 
- Here is a summary:
+ 
 
 The Design Thinking techniques covered in hours 23 and 24 that could help the OneBank initiative leaders improve governance, manage scope and schedule, enhance quality, and improve communications include establishing Simple Rules and Guiding Principles, running stakeholder mapping exercises, using timeboxing and pacing techniques, running journey mapping and prioritization exercises, applying quality-focused techniques like premortem and worst case ideation, employing communication techniques like cover story mockups, active listening and inclusive storytelling. Specific techniques highlighted were stakeholder+ mapping, power/interest grid, boats and anchors, snaking the drain, and establishing simple rules and principles to provide structure and clarity across the initiatives.
 
@@ -1155,7 +1155,7 @@ The Design Thinking techniques covered in hours 23 and 24 that could help the On
 
 - The overall goal of using these techniques is to employ structured questioning, documentation, and network architectures to more effectively connect with stakeholders, understand their needs, and facilitate collaboration across distributed teams. This aims to surface insights and foster communication to support the design thinking process.
 
- Here is a summary:
+ 
 
 Cise is a visual tool for organizing stakeholders into concentric circles overlaid on a grid. The circles represent different priorities and communication cadences, while the grid shows key communication channels. This allows the right information to be shared with the right people at the right times.
 
@@ -1181,7 +1181,7 @@ Cise is a visual tool for organizing stakeholders into concentric circles overla
 
 - Trusting environment - Team members feel safe sharing ideas, taking risks and providing feedback without repercussions. They genuinely care about one another's success.
 
- Here is a summary:
+ 
 
 These are various techniques and methods used in problem solving and product development processes. Some key ones mentioned include:
 

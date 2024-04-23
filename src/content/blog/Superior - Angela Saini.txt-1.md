@@ -16,7 +16,7 @@ BOOK LINK:
 [CLICK HERE](https://amzn.to/47sJdNa)
 
 
- Here is a summary:
+ 
 
 For the author's parents, the only ancestors that matter are them. The author uses the British Museum as an example of how race and history have been classified arbitrarily. The British Empire built the museum's collection to frame itself as the heir of great civilizations like Greece and Rome. However, historical discoveries have shown that other civilizations like the Indus Valley, were just as sophisticated. Early categorizations of human races were simplistic and euro-centric. People, including the author, fall through the cracks of these racial definitions. What matters is not where the lines define races, but what they mean and imply about power hierarchies. While some like to think history has revealed the inherent superiority of Europeans, the author argues that history is never over and more complicated than it seems. Ancient artifacts in the museum reveal truths that challenge simplistic racial narratives, showing that racial hierarchies have varied across time and place. For the author, the only ancestors that matter are her parents.
 

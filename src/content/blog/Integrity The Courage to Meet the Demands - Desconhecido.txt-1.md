@@ -409,11 +409,11 @@ In summary, an orientation toward truth is about humility, openness, curiosity, 
 
 - Readying oneself is also key - growing in needed capacities. Character flaws versus strengths determine growth and readiness.
 
- Here is a summary:
+ 
 
 The section discusses the importance of leaders being willing to make hard calls and decisions, even if they may upset or hurt people. It uses an anecdote about a woman who was too afraid to fire her nanny directly, so she and her husband had to hire someone else to do it for them. The author argues that the inability to make hard decisions that may adversely affect people will limit a person's success and ability to accomplish things. Leaders often have to make choices for the greater good that will disappoint some. The more responsibility one has, the harder the decisions become. While being uncaring is bad, nothing erodes respect more than an inability to make tough calls. Leaders who can make difficult decisions gain loyalty and trust, as people know they will do what is necessary even if unpopular. The section emphasizes that integrated character involves the moral strength and resolve to make hard choices for the right reasons when required.
 
- Here is a summary:
+ 
 
 The ability to persevere in the face of obstacles is a key character trait for success. Dr. Cloud gives an example from when he was starting his first company at age 29 - he had a vision to create an ideal psychiatric hospital but faced numerous roadblocks in finding a facility. After setbacks and almost giving up, he finally secured a hospital through perseverance and creativity. Though the journey was difficult, the hospital succeeded and led to further opportunities. 
 
@@ -489,7 +489,7 @@ Dr. Cloud argues that learning to "lose well" is equally important. Everyone wil
 
 - Leaders must take responsibility for results, not just be "order followers." This empowers improvement, not cripples it through blame.
 
- Here is a summary:
+ 
 
 Confronting problems productively is an essential aspect of character integrity. Both failing to confront issues and confronting in a destructive manner lead to negative outcomes. Integrated people confront problems directly while preserving relationships and caring about positive results. They "go hard on the issue and soft on the person." After resolving problems, integrated people let go of negativity and forgive, instead of holding on to grudges. This allows relationships and people to move forward in a healthy way. Overall, confronting with care and letting go with forgiveness demonstrate integrity and lead to better personal and professional outcomes.
 
@@ -527,7 +527,7 @@ Confronting problems productively is an essential aspect of character integrity.
 
 - Growth is natural with use and connection. Without drive, growth stops and decay begins. This man's unrelenting curiosity fueled continual increase.
 
- Here is a summary:
+ 
 
 - Growth and development require an innate drive and hunger. This drive can be stimulated and encouraged, allowing talents to flourish. Or it can be criticized, injured and stifled, causing talents to wither. 
 

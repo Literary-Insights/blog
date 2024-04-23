@@ -38,7 +38,7 @@ The author expresses gratitude to several administrative assistants who aided in
 
 Finally, the author dedicates the book to all his students from over the years, dating back to his first course in 1974. He sees "student" broadly to include those influenced by his work who were not formally in his classes. Teaching has been an important learning experience for him, having to organize big topics clearly for lectures. Interacting with students, especially in seminars, has often led him to rethink aspects of course material. Overall, teaching has helped shape his thinking on international politics reflected throughout the book. For that influence, he is forever grateful.
 
- Here is a summary:
+ 
 
 - In the early 1990s after the Cold War ended, there was widespread optimism that liberalism had triumphed globally and liberal democracies would spread peacefully. Fukuyama argued history had ended with liberalism as the dominant ideology. 
 
@@ -48,7 +48,7 @@ Finally, the author dedicates the book to all his students from over the years, 
 
 - Contrary to expectations, a liberal foreign policy has led to more instability and conflict, not cooperation and peace. The book will examine US foreign policy under Clinton, Bush, and Obama during the period of pursuing liberal hegemony from 1993-2017. It will assess the assumptions and foundations of liberalism itself.
 
- Here is a summary:
+ 
 
 - The author provides definitions of key concepts like political liberalism, modus vivendi liberalism, and progressive liberalism to frame the discussion. 
 
@@ -60,7 +60,7 @@ Finally, the author dedicates the book to all his students from over the years, 
 
 - The book will analyze how political liberalism operates within countries versus internationally. The author believes liberalism is good domestically but that ambitious liberal foreign policies can undermine peace and liberalism itself. Future chapters will examine these arguments in more depth.
 
- Here is a summary:
+ 
 
 The chapter discusses human nature and its implications for politics and theories like liberalism. It makes two main points about human nature:
 
@@ -98,7 +98,7 @@ Politics and power matter both within societies and between independent social g
 
 - In many areas concerned with ethics and justice, human reason has failed to establish widespread consensus, pointing to the limitations of reason in resolving foundational social and moral questions. Disagreement persists despite ongoing discussion and debate.
 
- Here is a summary:
+ 
 
 - Some legal scholars argue judges should make decisions based on economic efficiency rather than widely agreed upon moral principles. This is a utilitarian approach that aims to benefit as many people as possible. However, judges may disagree on the economically efficient outcome in a given case. 
 
@@ -112,7 +112,7 @@ Politics and power matter both within societies and between independent social g
 
 - The good life is shaped by socialization, innate sentiments, and reason. But reason alone cannot provide universal answers, and the other factors influencing preferences are often resistant to reason and outside conscious awareness. This contributes to the difficulty agreeing on moral principles.
 
- Here is a summary:
+ 
 
 - Reasoning is a process of analyzing problems logically and systematically while trying to eliminate biases and emotions from the thought process. It requires careful construction and evaluation of arguments. 
 
@@ -136,7 +136,7 @@ Culture plays a huge role in shaping identity and behavior. People are heavily i
 
 While culture gives societies cohesion, it is not enough on its own. Individuals vary in their commitment levels. Sometimes divisions or sudden changes undermine key beliefs and threaten to tear societies apart. Political institutions are needed to exert control and power to maintain order when centrifugal forces emerge. Together, the biological and psychological needs for social interaction, the formation of shared cultural identities, and political authority help explain how and why human societies are able to form and persist over time.
 
- Here is a summary:
+ 
 
 - Social groups require political institutions to govern interactions between members and establish rules and mechanisms for dispute resolution. This helps move groups beyond anarchy and establishes hierarchy. 
 
@@ -150,7 +150,7 @@ While culture gives societies cohesion, it is not enough on its own. Individuals
 
 - While voluntary merging of groups is possible, expansion is usually the result of coercion or conquest given fundamental cultural differences. There are limits to how much territory can be absorbed and controlled through force alone.
 
- Here is a summary:
+ 
 
 The passage discusses some key challenges to global domination or the formation of a global society. It notes that:
 
@@ -218,7 +218,7 @@ So in summary, liberalism is founded on ideas of individual rights and reason bu
 
 - The essay critiques both forms of progressivism. Unbounded is overly optimistic about consensus through reason, while bounded overstates tolerance without empirical support and does not fully explain its origins. Both ultimately fail to persuasively argue their positions.
 
- Here is a summary:
+ 
 
 - Modus vivendi and progressive liberals differ in their views of rights and the role of the state. 
 
@@ -234,7 +234,7 @@ So in summary, liberalism is founded on ideas of individual rights and reason bu
 
 - Both agree that reason alone cannot determine truths about the good life. But progressive liberals have more faith in instrumental rationality and the state's ability to act rationally through social engineering.
 
- Here is a summary:
+ 
 
 - The key difference between the two variants of political liberalism is how they view rights and the role of the state. Modus vivendi liberalism favors a limited state that protects civil and political rights but does not promote social and economic rights, while progressive liberalism supports an interventionist state that actively promotes positive rights. 
 
@@ -244,7 +244,7 @@ So in summary, liberalism is founded on ideas of individual rights and reason bu
 
 - In both the US and UK, progressive liberalism came to define mainstream politics in the early 20th century. Though modus vivendi ideas still have influence, in practice governments have embraced the interventionist state model. The Libertarian Party stands alone in genuinely advocating modus vivendi principles in the US.
 
- Here is a summary:
+ 
 
 - Three major forces have contributed to the dominance of progressive liberalism: popular pressure, the modern military-industrial complex, and the changing nature of warfare.
 
@@ -258,7 +258,7 @@ So in summary, liberalism is founded on ideas of individual rights and reason bu
 
 - In short, national security considerations force liberal states not only to engage in large-scale social engineering but also to promote individual rights, both of which promote progressive liberalism over time.
 
- Here is a summary:
+ 
 
 - Liberal idealism is a liberal theory founded by T.H. Green that emphasizes society over the individual. It sees humans as fundamentally social beings defined by their relationships and interdependence. 
 
@@ -274,7 +274,7 @@ So in summary, liberalism is founded on ideas of individual rights and reason bu
 
 So in summary, liberal idealism diverged from political liberalism in seeing individuals as defined by their social relationships more than their rights, and prioritized moral progress through reason over individual pursuit of happiness.
 
- Here is a summary:
+ 
 
 The passage criticizes two core aspects of political liberalism: its emphasis on individualism and its view of inalienable rights. 
 
@@ -288,7 +288,7 @@ The passage also raises the possibility that liberal democracies may be intrinsi
 
 In summary, the passage critiques liberalism's assumptions around individualism and rights, arguing they underestimate the power of nationalism and collective identities in shaping society.
 
- Here is a summary:
+ 
 
 - Before nations emerged, social groups in Europe were more fluid and identities were more malleable. Groups like the Goths or Vandals could rise and fall quickly over generations. 
 
@@ -314,7 +314,7 @@ Sovereignty shifted from divine monarchs to "the people." While autocrats may ru
 
 In summary, as nations emerged, literate cultures solidified group identities. Countries emphasized uniqueness and bolstered pride through historical myths while fiercely guarding sacred lands. The principle of sovereignty also transferred to citizens, giving nations authority over their political destiny.
 
- Here is a summary:
+ 
 
 - Historically, governing elites (e.g. dynastic rulers) did not see themselves as servants of the populations they controlled. Instead, they acted to serve their own interests or what they perceived as the state's interests. 
 
@@ -326,7 +326,7 @@ In summary, as nations emerged, literate cultures solidified group identities. C
 
 - For a nation to thrive and fulfill its essential functions, having its own independent state is ideal. This allows for exclusive control over territory and self-governance free from external interference.
 
- Here is a summary:
+ 
 
 The newly emerging nations placed great importance on developing their own nation-states. Each nation wanted to control its own political institutions and determine its own fate, which is best achieved through having an independent state. Nations also wanted their own states to ensure their long-term survival and preservation of their culture. Being a minority within a multinational state presented risks like having their culture suppressed or being targeted in civil wars. States also had incentives to cultivate nationalism to boost economic competitiveness and military strength during the industrial era. Nationalism created cohesive fighting forces and mass popular support for wars. In addition, governing elites fostered nationalism to increase popular allegiance and unity within otherwise fractious societies. This development of nationalism and pursuit of independent nation-states by both nations and states drove the emergence of the modern nation-state system.
 
@@ -356,7 +356,7 @@ In short, nation-states emerge from states' efforts to mold heterogeneous popula
 
 So in summary, the passage argues nationalism dominates over liberalism because it is more aligned with human psychology and needs for community, identity and attachment to land, whereas liberalism focuses too much on individualism.
 
- Here is a summary:
+ 
 
 - Liberals claim that certain rights are universal and inalienable, but this view is problematic for a few theoretical reasons. First, there is no universal agreement on what constitutes "the good life," so there can be no global consensus on individual rights. Liberalism is fundamentally particularist, not universalist. 
 
@@ -370,7 +370,7 @@ So in summary, the passage argues nationalism dominates over liberalism because 
 
 So in summary, the author argues that the liberal concept of universal, inalienable rights faces both theoretical problems and challenges in real-world implementation given nationalism, conflict, existential threats and historical contingencies.
 
- Here is a summary:
+ 
 
 - Liberalism aims to establish universal individual rights, but this is difficult due to competing factions within societies. Each faction wants to gain power to shape society according to its views. 
 
@@ -396,7 +396,7 @@ So in summary, the author argues that the liberal concept of universal, inaliena
 
 - Nationalism and realism, not liberalism, have largely shaped the international system and will continue to do so given anarchy among sovereign states.
 
- Here is a summary:
+ 
 
 - Liberals believe liberal democracy should be promoted globally as a foreign policy goal to advance individual rights and facilitate peace. This would involve regime change and social engineering to transform non-liberal states into liberal democracies. 
 
@@ -436,7 +436,7 @@ So in summary, it outlines the goals of liberal foreign policy but argues realis
 
 - Realism is a timeless theory applicable beyond modern states to anytime violence is possible between autonomous actors without a higher authority, like drug cartels or lawless frontiers. It explains the decline of violence as the reach of states has expanded.
 
- Here is a summary:
+ 
 
 - Liberalism assumes that individuals have inalienable rights, but these rights cannot be protected in the international system due to anarchy (lack of a global authority). 
 
@@ -450,7 +450,7 @@ So in summary, it outlines the goals of liberal foreign policy but argues realis
 
 So in summary, liberal principles are difficult to apply in international relations without a global authority, forcing even liberal states to behave more like realists when dealing with other sovereign entities in an anarchic system.
 
- Here is a summary:
+ 
 
 - Nationalism tends to overcome liberal ideals when considering foreign policy, as people feel a stronger attachment to their own nation and view outsiders as different and less deserving of rights. 
 
@@ -462,7 +462,7 @@ So in summary, liberal principles are difficult to apply in international relati
 
 - A foreign policy based on modus vivendi liberalism would be less interventionist and opposed to social engineering abroad due to concerns about nationalism, self-determination, and slippery slopes toward overextension. It would favor restraint and non-interference more than progressive liberalism.
 
- Here is a summary:
+ 
 
 The modern international system of sovereign nation-states emerged over the last 500 years from a heterogeneous collection of political entities like empires, city-states, and principalities that existed before. Two main forces drove this transformation - nationalism and realism. 
 
@@ -472,7 +472,7 @@ Nationalism also contributed significantly. As nations began forming in Europe, 
 
 Together, nationalism and realism created powerful incentives for political units to take the form of nation-states. Over centuries, this spread globally and led to the current international system dominated by sovereign nation-states. Realism and power politics helped the state system arise initially, while nationalism reinforced it and drove the transition to nation-states in particular. This transformation, more than liberalism or other ideologies, defines the modern political world.
 
- Here is a summary:
+ 
 
 - Central governments cultivate national identities and nation-states for reasons beyond just security, such as economic and administrative benefits. It is easier to govern a country with a unified culture and strong bonds between citizens and the state. 
 
@@ -484,7 +484,7 @@ Together, nationalism and realism created powerful incentives for political unit
 
 - Without a world state, international anarchy will persist, forcing nations to act according to realist principles of self-help and power balancing for security. Liberal internationalism is unlikely to succeed under anarchy. Its pursuit may backfire by fostering instability.
 
- Here is a summary:
+ 
 
 The passage discusses the concept of "liberal militarism" which refers to liberal states that are willing to use military force to actively promote liberal democratic values and human rights around the world. 
 
@@ -502,7 +502,7 @@ Some key points made:
 
 So in summary, the passage argues that liberal values combined with military power can lead states to take an interventionist and militaristic approach to actively spreading liberal ideals around the world through threat or use of force.
 
- Here is a summary:
+ 
 
 The passage discusses how liberalism and the pursuit of liberal hegemony can undermine respect for sovereignty and increase the likelihood of war with illiberal states. Some key points:
 
@@ -518,7 +518,7 @@ The passage discusses how liberalism and the pursuit of liberal hegemony can und
 
 So in summary, the passage argues liberalism's emphasis on rights and democracy promotion undermines respect for sovereignty and increases likelihood of war with illiberal states that are seen as intolerable opponents rather than legitimate rivals.
 
- Here is a summary:
+ 
 
 - The author argues that pursuing a liberal foreign policy of promoting democracy and human rights has undermined state sovereignty and made it easier for powerful states like the US to intervene militarily in other countries. 
 
@@ -530,7 +530,7 @@ So in summary, the passage argues liberalism's emphasis on rights and democracy 
 
 - The author argues social engineering of other societies is beyond the capacity of even powerful liberal states and often does more harm than good.
 
- Here is a summary:
+ 
 
 - The US fought prolonged wars in Afghanistan and Iraq to try to stabilize those countries and install democratic governments, but achieved little success. Both countries remain fractured and unstable, with ongoing conflicts. 
 
@@ -544,7 +544,7 @@ So in summary, the passage argues liberalism's emphasis on rights and democracy 
 
 - These failed efforts show the limits of social engineering and nation-building in complex foreign societies, especially through military means like occupation which tend to breed resentment and instability rather than democracy.
 
- Here is a summary:
+ 
 
 - Imposing democracy on another country through intervention is unlikely to work unless certain favorable internal conditions exist in the target country, such as ethnic/religious homogeneity, strong central government, economic prosperity, prior experience with democracy. These conditions are rare in countries where the costs of intervention are low for great powers like the US. 
 
@@ -556,7 +556,7 @@ So in summary, the passage argues liberalism's emphasis on rights and democracy 
 
 - NATO expansion was the most threatening part of the Western strategy to integrate Ukraine. Russia strongly opposed further expansion towards its borders but these concerns were ignored by the US and NATO. The Ukraine crisis resulted from this strategic miscalculation by the West.
 
- Here is a summary:
+ 
 
 - Russia viewed Western policies like NATO expansion, EU expansion, and democracy promotion in neighboring countries as hostile to its interests and aimed at integrating those countries into the Western sphere of influence. 
 
@@ -568,7 +568,7 @@ So in summary, the passage argues liberalism's emphasis on rights and democracy 
 
 - Western elites were surprised by Russian actions because they had a flawed view of international politics, believing geopolitics no longer mattered and they could build a "Europe whole and free" based solely on liberal principles like democratization. Their policies inadvertently turned Russia into an enemy.
 
- Here is a summary:
+ 
 
 - In the post-Cold War period, Western liberal democracies sought to promote democracy and economic integration in Eastern Europe by expanding NATO membership and embedding those countries in international institutions like NATO and the EU. The ultimate goal was to transform the region to look more like Western Europe. 
 
@@ -580,7 +580,7 @@ So in summary, the passage argues liberalism's emphasis on rights and democracy 
 
 - Over time, an interventionist foreign policy empowers the security state in ways that erode civil liberties, individual rights and the rule of law - the very liberal principles being promoted abroad. Frequent warfare and national emergencies are exploited to curtail speech and monitor citizens.
 
- Here is a summary:
+ 
 
 The passage discusses how democratic governments often prioritize security over civil liberties during perceived times of crisis. It gives examples from US history like Lincoln's policies during the Civil War and McCarthyism. 
 
@@ -594,7 +594,7 @@ It argues the Bush and Obama administrations pursued policies that diminished ci
 
 The passage concludes by connecting these policies to James Scott's notion of "high-modernist ideology," where liberal democracies pursue utopian social engineering schemes abroad with overconfidence in their designs and ability to reshape other societies, often with coercive means, leading to disastrous failures when applied in foreign contexts with weak civil societies.
 
- Here is a summary:
+ 
 
 - Liberal theories argue that increasing liberal democracies, facilitating open trade, and building international institutions will lead to peace. However, these theories have significant flaws and do not provide a clear formula for peace.
 
@@ -634,7 +634,7 @@ So in summary, while liberal theories aim to diminish realist priorities, they u
 
 In summary, the passage critiques democratic peace theory by highlighting historical counter-examples and arguing its explanations fail to account for democratic military behavior. This undermines the core claims and statistical significance of the theory.
 
- Here is a summary:
+ 
 
 The passage discusses some key criticisms of the argument that liberal democratic norms significantly reduce the likelihood of war between liberal democracies (the democratic peace theory). 
 
@@ -646,7 +646,7 @@ Empirically, liberal democracies have interfered in each other's politics and br
 
 Liberal democracies also do not necessarily fight "virtuous" wars and often disregard rights and harm civilians when necessary militarily. Backsliding is also possible as no democracy is guaranteed to remain democratic permanently. In summary, realist strategic interests are a more compelling explanation for relations between liberal democracies than liberal democratic norms alone.
 
- Here is a summary:
+ 
 
 The theory of economic interdependence argues that states will avoid war even over intense political differences if they are economically interdependent. Starting a war would have disastrous economic consequences that outweigh any potential political or strategic benefits from war. The theory assumes that states prioritize prosperity over security or survival concerns. 
 
@@ -656,7 +656,7 @@ Scholars debate which exact aspects of economic interdependence are most importa
 
 However, critics argue economic interdependence does not always deter war. The costs of war may be underestimated or some wars can be fought with limited economic impact. Politics often overrides economics, especially regarding core security issues where states prioritize survival over prosperity. There is also little empirical evidence economic interdependence reliably prevents conflict. While it sometimes deters war, it does not guarantee peace between states.
 
- Here is a summary:
+ 
 
 - Liberal institutionalism argues that international institutions can help promote cooperation between states by establishing rules and organizations to facilitate cooperation. However, it acknowledges institutions have limited impact and cannot compel states.  
 
@@ -668,7 +668,7 @@ However, critics argue economic interdependence does not always deter war. The c
 
 - In general, liberal institutionalism makes modest claims about what institutions can do and acknowledges their limited influence, especially regarding security issues and great power conflicts where political and strategic factors often outweigh economic or institutional pressures.
 
- Here is a summary:
+ 
 
 - Liberal institutionalist theories like neoliberal institutionalism claim that international institutions can help facilitate cooperation among states by reducing uncertainty, increasing transparency, and creating mechanisms for monitoring and enforcing agreements. 
 
@@ -680,11 +680,11 @@ However, critics argue economic interdependence does not always deter war. The c
 
 - While institutions can help cooperation in areas of common interest, they do not solve the underlying "anarchy problem" in international relations or discourage states from pursuing self-help through balancing power when security is at stake. This is why realism better explains state behavior related to war and peace.
 
- Here is a summary:
+ 
 
 In the international system, there is no overarching authority to protect states from defeat in war. States must rely on themselves in a self-help world where the best way to survive is to amass as much power as possible, even if that requires ruthless policies. While not a pleasant scenario, this realist perspective recognizes the realities of international politics - states prioritize their own survival above all else. According to this view, the alternative of abandoning realism for moral notions like liberal hegemony will not work and is more likely to embroil powerful states in costly, losing wars as they overreach abroad. In essence, the most prudent path for great powers is to practice restraint in foreign policy rather than pursue ambitious goals of remodeling the international system in their image through regime change and institution building.
 
- Here is a summary:
+ 
 
 - During the Cold War, US policymakers worried that any country governed by communists would help spread communism to neighboring states (domino theory). 
 
@@ -700,7 +700,7 @@ In the international system, there is no overarching authority to protect states
 
 - In retrospect, a policy more respectful of nationalism would have been wiser and avoided damaging relations and regional instability.
 
- Here is a summary:
+ 
 
 - The Domino Theory of the Cold War overstated the danger of communism spreading and underestimated the power of nationalism. Nationalism is a stronger force than ideologies like communism or liberalism. 
 
@@ -778,7 +778,7 @@ In the international system, there is no overarching authority to protect states
 
 - This shifts politics from facilitation of modus vivendi to inculcation of a comprehensive moral worldview. It transforms liberalism from a mere guarantee of negative liberty to an agent of moral and cultural transformation.
 
- Here is a summary:
+ 
 
 Rawls shows a reluctance to focus on states in his book The Law of Peoples, purposefully avoiding discussing states which are usually seen as the main actors in international politics. Instead, he talks mainly about peoples, which are typically given less attention in international relations scholarship. This displays Rawls's hesitance to fully embrace the power and role of the modern state.
 
@@ -788,7 +788,7 @@ The passage discusses liberalism and communitarianism. It notes that the communi
 
 It then provides quotes and discussions of works by philosophers like T.H. Green, Dewey, and Hegel related to topics like natural rights, the relationship between the individual and society, and the state. It analyzes how liberal idealists viewed integrating liberalism and nationalism. The passage also references other works exploring topics like nationalism, internationalism, the state, and how different theorists like Green, Bosanquet, Dewey and Zimmern viewed related issues. Overall, it examines the philosophical underpinnings and debates within liberalism and between liberalism and communitarianism on issues of the individual, society, and the state.
 
- Here is a summary:
+ 
 
 - The primary loyalty of residents in the Roman Empire was to their social group and local territory, not to a singular Roman identity. People identified more with class, occupation or city than an overarching Roman ethnicity. 
 
@@ -798,7 +798,7 @@ It then provides quotes and discussions of works by philosophers like T.H. Green
 
 - Nationalism later played a key role in destroying the remnants of that loosely-knit imperial system in the 19th century by promoting stronger exclusive national identities over local or multi-national affiliations.
 
- Here is a summary:
+ 
 
 - Xi Jinping said China will never allow any territory to split off from China. He said China will not accept any harm to its national sovereignty, security, or development interests. 
 

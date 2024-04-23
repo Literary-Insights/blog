@@ -116,7 +116,7 @@ In summary, the pandemic profoundly disrupted our normal conception of time as l
 
 - Even if the rules didn't change much, Freedom Day was symbolic in declaring the government was getting out of people's business and individuals could make their own choices. This desire for reengagement made the day popular, despite public health concerns.
 
- Here is a summary:
+ 
 
 The arrival of Covid-19 vaccines in late 2020 initially raised hopes that the pandemic would soon end. However, it became clear that the vaccines alone were not enough to end the crisis. Countries entered an extended liminal period where restrictions continued but the end was uncertain. 
 
@@ -126,7 +126,7 @@ Prolonged liminality bred restlessness and a desire to declare the pandemic over
 
 Meanwhile, some policy experts advocated using the crisis to enact long-sought policy goals, like universal healthcare or a child allowance. This attitude was embraced by Democrats including President Biden, who after taking office pushed through large stimulus packages with lasting programs, signalling a desire to remake the social safety net.
 
- Here is a summary:
+ 
 
 The Biden administration's "Build Back Better" plan was a $1.75 trillion infrastructure and climate change proposal. However, by the time it was introduced in 2021, the COVID-induced economic crisis had passed - unemployment was falling rapidly and the stock market was hitting record highs. As a result, the public saw little need for massive new stimulus spending. 
 
@@ -136,7 +136,7 @@ Historically, societies have tended to accept even massive mortality events as p
 
 Ultimately, the inability to satisfy the public's desire for closure and declare a decisive end to the COVID emergency may have undermined support for ongoing COVID measures and programs like Build Back Better.
 
- Here is a summary:
+ 
 
 The lifting of COVID restrictions in some places provided a sense of closure and transition out of the pandemic for many people. This symbolic "Freedom Day" allowed them to mentally move past COVID fears. There was also hope that crime rates, which had spiked during the pandemic, might start to decline as society returned to normal. 
 
@@ -428,7 +428,7 @@ In summary, the author advocates a hands-off index fund approach, especially for
 
 - Auto manufacturers were unable to obtain parts with supply chains disrupted. This contributed to vehicle shortages once demand rebounded.
 
- Here is a summary:
+ 
 
 The COVID-19 pandemic caused major disruptions to global supply chains and international travel. This led many countries and companies to pursue more localized and resilient supply chains, a trend known as "friendshoring." While globalization had delivered efficiency, the pandemic revealed how fragile these interconnected systems were. 
 
@@ -452,7 +452,7 @@ For cosmopolitan elites, deglobalization meant a shrinking world. The author rel
 
 - There are parallels to how monkeys exclude outsiders to stay healthy. The fear of disease underlies irrational anti-immigration views, but is based on ancient intuitions that long predate modern humans.
 
- Here is a summary:
+ 
 
 The COVID-19 pandemic changed how we interact with and perceive other people. Proximity to others has long been seen as dangerous, as evidenced by historical plague responses like 40-day quarantines in Venice. Modern technology allowed us to connect remotely during lockdowns, with group messaging apps becoming critical tools for maintaining relationships. Physical touch also took on new meaning, becoming an expression of trust and comfort between loved ones, while professional cuddling services declined. Although in-person interactions will rebound post-pandemic, the trauma of isolation will linger, altering how we experience crowds and personal space. Digital connections forged during lockdown may strengthen relationships long-term. Overall, the pandemic made us more aware of our conflicting needs for social connection and personal space.
 

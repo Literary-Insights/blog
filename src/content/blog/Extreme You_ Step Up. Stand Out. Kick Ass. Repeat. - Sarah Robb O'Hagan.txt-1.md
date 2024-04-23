@@ -168,7 +168,7 @@ In summary, the key message is that true drive comes from seeking progress towar
 
 In summary, true grit involves finding work you're passionate about, not just forcing yourself to work hard. Setting your own subjective goals and standards, rather than blindly following others, can fuel greater motivation and drive.
 
- Here is a summary:
+ 
 
 The passage discusses when extremers come out of the "extreme closet" and reveal more of themselves, it can intensify their drive and motivation. This happened for the author when she pushed herself to get an interview with Air New Zealand, despite failing their aptitude test. Revealing herself and explaining why she was a good fit increased her drive to prove herself and perform well. 
 

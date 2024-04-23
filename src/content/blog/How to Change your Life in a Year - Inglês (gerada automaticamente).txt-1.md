@@ -16,7 +16,7 @@ BOOK LINK:
 
 
 
- Here is a summary:
+ 
 
 - The video discusses three methods for changing your life in a year from now (point A to point B).
 
@@ -47,7 +47,7 @@ So in summary, the video presents Dreamlining and the Odyssey Plan as two method
 
 The core message seems to be that envisioning different futures through exercises like the Odyssey Plan can help people realize they aren't stuck on their current path and have more options to design a life they find truly fulfilling. Boiling bigger dreams down to specific 12-month goals increases the chances of achieving them.
 
- Here is a summary:
+ 
 
 - The main goal of the YouTube channel and business started was financial freedom, not wanting to be "shackled to a job they didn't enjoy." 
 

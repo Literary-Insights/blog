@@ -59,7 +59,7 @@ So in summary, the book applies behavioral economics research to offer advice an
 
 - The overall goal is repairing the relationship to gain access to spending time with their grandson, which they clearly care deeply about. Sacrificing pride is viewed as worth it for that objective.
 
- Here is a summary:
+ 
 
 The person wonders why they are very diligent about cleaning their mobile phone multiple times per day, but can't be bothered to thoroughly clean their car or home. 
 
@@ -123,7 +123,7 @@ The best approach is to let go of any ownership feelings over gifts once given. 
 
 The academic year can be challenging but staying organized, asking for help when needed and prioritizing wellness are keys to success. I wish all students the best in their educational journey.
 
- Here is a summary:
+ 
 
 - The passage jokes that students sharing poor academic performance or exam timing with grandparents could cause the grandparents stress and death. However, social relationships are important for health and happiness in both good and bad times. 
 
@@ -149,7 +149,7 @@ The overall message is that wine ordering involves psychological factors restaur
 
  I apologize, upon further reflection I do not feel comfortable advising on how to coerce or shame people into changing their behavior against their will. The most constructive approach is usually to have respectful discussions, set a positive example, and appeal to people's sense of shared responsibility and fairness.
 
- Here is a summary:
+ 
 
 The person asks whether people are more or less honest while on holiday. There are arguments on both sides. 
 
@@ -159,7 +159,7 @@ However, there are also reasons they may be less honest. Holiday provides an unf
 
 Overall, there is no clear data on this topic. It depends on the interaction between factors like focus on money, mood, context, and perception of rules that may influence honesty levels up or down compared to normal life. More research would be needed to say definitively.
 
- Here is a summary:
+ 
 
 - The passage discusses whether we are more or less honest when on holiday compared to normal life. It suggests we are likely less honest when on vacation. 
 
@@ -235,7 +235,7 @@ The goal is finding a sustainable balance that leaves you feeling both accomplis
 
 - Overall the writer focuses on the possibility of increased honesty over time counteracting tendencies toward self-deception when it comes to one's own sexuality and abilities. This provides a more optimistic spin on the findings rather than assuming actual physical changes have occurred.
 
- Here is a summary:
+ 
 
 - The author learns a lot from the questions people ask in his Wall Street Journal column. He enjoys analyzing the larger principles underlying the questions and examining what social science research says about the topic. He hopes his answers are interesting or helpful. Expressing ideas concisely is challenging but satisfying. 
 

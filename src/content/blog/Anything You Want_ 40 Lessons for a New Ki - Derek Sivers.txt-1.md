@@ -57,7 +57,7 @@ Laws/rules:
 
 Does this summary cover the main points? Let me know if you would like me to clarify or expand on any part of the summary.
 
- Here is a summary:
+ 
 
 - Start small and solve real problems for real people. This lets you change quickly based on customer feedback and avoids big infrastructure costs. For example, CD Baby started as a basic list of CDs people could buy, and grew from there based on customer feedback.
 
@@ -115,7 +115,7 @@ In summary, start small, focus on execution, avoid unnecessary costs and complex
 
 • The overall theme is that personal, humane touches in business—especially in electronic communications—can have a disproportionately positive impact. Though technology allows distance and scale, person-to-person kindness should not be forgotten. Small acts of clarity, care, and whimsy help to forge human connections that ultimately benefit both businesses and their customers.
 
- Here is a summary:
+ 
 
 1. It’s OK to be casual. Don’t worry about impressing others or following standard business practices. Do what feels right for your company and goals. 
 
@@ -129,7 +129,7 @@ In summary, start small, focus on execution, avoid unnecessary costs and complex
 
 The key message is to build a business in a way that is authentic to you. Focus on learning, developing your skills, and finding meaning and purpose rather than just rapid growth or profits. Design a company and systems that align with your values and can sustain significant expansion. Don’t worry about meeting other’s expectations or standards of how you should operate.  Do what feels right for your unique situation and goals.
 
- Here is a summary:
+ 
 
 - In 2003, Derek Sivers attended a meeting where Steve Jobs tried to convince independent music distributors to provide their catalogs to iTunes. Derek volunteered to handle the process for $40 per album. 
 - Derek invested $200,000 to upgrade his systems and hire more staff to handle the workload.
@@ -141,7 +141,7 @@ The key message is to build a business in a way that is authentic to you. Focus 
 - Derek's friend told him he needed to delegate or he would die. Derek analyzed which tasks to delegate and started training employees to handle more responsibility. 
 - Within a year, Derek was only working 30 hours a week, with 15 employees running the company. Revenues and profits were up. Derek learned that letting go of control leads to growth.
 
- Here is a summary:
+ 
 
 - A customer placed two orders and wants them shipped together to save on shipping costs. He wants a refund for the shipping cost savings.
 
@@ -161,7 +161,7 @@ The key message is to build a business in a way that is authentic to you. Focus 
 
 - Derek was trying to delegate more but took it too far. He told employees to choose whatever they wanted for office layout, health plans and profit sharing. Six months later he learned they had set up a profit sharing plan giving most profits to employees.
 
- Here is a summary:
+ 
 
 - The author had a profit-sharing program that made him very unpopular when he canceled it. His employees turned against him and he felt unable to repair the relationships. 
 

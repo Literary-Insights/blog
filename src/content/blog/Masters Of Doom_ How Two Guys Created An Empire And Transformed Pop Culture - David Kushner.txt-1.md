@@ -30,7 +30,7 @@ BOOK LINK:
 
 In summary, it provides biographical context on Carmack and Romero as well as the historical significance of their collaboration and high-profile split, setting up the intriguing dynamic between the "Two Johns" at the center of the story.
 
- Here is a summary:
+ 
 
 - Romero was intrigued by the text-based adventure game Colossal Cave being played on computers at his local college. He loved similar pen-and-paper roleplaying games like Dungeons & Dragons.
 
@@ -40,7 +40,7 @@ In summary, it provides biographical context on Carmack and Romero as well as th
 
 - For his first game, Romero programmed a basic text adventure on the college mainframe computers. But after his punch cards spilled on the way home, he decided to move to the more accessible Apple II home computer. This marked the beginning of Romero's career as a pioneering game programmer.
 
- Here is a summary:
+ 
 
 - Steve Jobs and Steve Wozniak (the Two Steves) co-founded Apple in 1976 out of a passion for computers and gaming. Jobs's experience at Atari influenced him. 
 
@@ -52,13 +52,13 @@ In summary, it provides biographical context on Carmack and Romero as well as th
 
 - Romero won programming contests and gained recognition for his skills. By the late 1980s, he was achieving commercial success through magazine publications and working at Burger King while attending college. His early career foreshadowed his future success in game development.
 
- Here is a summary:
+ 
 
 Romero was a skilled game developer by his late teens, having published 10 games. In 1987 at age 19, he was taking on a family after getting married to his wife Kelly. He saw an opportunity at the Applefest convention to showcase his skills and potentially land a job in the gaming industry. 
 
 At the convention, Romero impressed with a game demo that had enhanced graphics. He was offered a job by Jay Wilbur at Origin. Two years later after some job instability, Romero moved his family to Shreveport, Louisiana to take a job at Softdisk with Jay Wilbur. It was a gamble but Romero was pursuing his dream of being a game developer to support his growing family.
 
- Here is a summary:
+ 
 
 - Carmack was a gifted student who loved computers, but his family situation changed frequently, leaving him feeling alone and without access to good computer programs. 
 
@@ -72,7 +72,7 @@ At the convention, Romero impressed with a game demo that had enhanced graphics.
 
 - He began living independently in his own apartment where he dedicated himself to making video games, inspired by sci-fi shows like Star Trek that featured immersive virtual reality environments.
 
- Here is a summary:
+ 
 
 Carmack tried to access his trust fund after high school but his mother had transferred the money to her account in Seattle and refused to let him use it for making computer games. He reluctantly enrolled in college at his mother's insistence but dropped out after two semesters, finding the classes pointless. 
 
@@ -80,7 +80,7 @@ He devoted himself to developing his second game Wraith and self-published it, e
 
 Carmack accepted, seeing it as an excuse for a long drive. Softdisk was founded in 1981 by Al Vekovius, a former math professor, as a subscription software service mailing disks of programs to hobbyists each month. It grew successful with 100,000 subscribers by 1987. However, competition and growth led to challenges in managing the large company. In 1989, Al contacted Jay Wilbur from a competitor asking him to join and help run the Apple division, mentioning he knew two skilled game programmers.
 
- Here is a summary:
+ 
 
 - John Romero had just experienced some setbacks in his career and personal life and was looking for a fresh start. He bonded well with other potential employees Lane and Jay on the road trip to Shreveport. 
 
@@ -90,7 +90,7 @@ Carmack accepted, seeing it as an excuse for a long drive. Softdisk was founded 
 
 - Romero confronted the owner Al about not being able to focus on games as promised. He threatened to leave for Lucas Arts if things didn't change. Romero had become a valuable employee but was growing frustrated at Softdisk.
 
- Here is a summary:
+ 
 
 - John Romero was tasked with leading a new monthly PC games subscription called Gamer's Edge at Softdisk. He proposed doing it every other month instead of monthly due to tight development deadlines. 
 
@@ -104,7 +104,7 @@ Carmack accepted, seeing it as an excuse for a long drive. Softdisk was founded 
 
 - Working on the ports, Carmack and Romero realized they worked best with Carmack focusing on game engine programming and Romero on game tools and level design.
 
- Here is a summary:
+ 
 
 - John Romero and John Carmack wanted to recruit new talent to their fledgling game development efforts outside of their normal work at Softdisk. 
 
@@ -116,7 +116,7 @@ Carmack accepted, seeing it as an excuse for a long drive. Softdisk was founded 
 
 - Romero and Carmack convinced Adrian to join them by showcasing their passion and vision for ambitious game projects beyond what Softdisk was producing at the time. This marked the beginnings of a team that would go on to found id Software and create hugely influential early 3D shooter games.
 
- Here is a summary:
+ 
 
 - Carmack had figured out how to create side scrolling and animated tiles/blocks in games on PC. This was a significant feat as PCs were much slower than arcade or console machines. 
 
@@ -128,7 +128,7 @@ Carmack accepted, seeing it as an excuse for a long drive. Softdisk was founded 
 
 - Tom was excited by these discoveries as they opened up new possibilities for PC game design, incorporating scrolling and animated tiles like in popular arcade titles. This laid important groundwork for id Software's later hit games.
 
- Here is a summary:
+ 
 
 - John Carmack added a feature to the game engine he was developing that allowed for smooth side-scrolling movement by pre-drawing extra tiles off-screen in memory. This was called "adaptive tile refresh." 
 
@@ -138,11 +138,11 @@ Carmack accepted, seeing it as an excuse for a long drive. Softdisk was founded 
 
 - Romero convinced their friend Jay Wilbur that they should create a full demo to pitch directly to Nintendo, hoping to secure a deal to develop PC ports of Nintendo games. However, they did not have the computers needed to work on the demo at the office without their employer knowing, so they faced a challenge of how to continue development at home.
 
- Here is a summary:
+ 
 
 Romero and his team had made a demo of a Super Mario Bros game using computers they borrowed from their office over the weekend. They were disappointed when Nintendo responded that they had no interest in licensing Mario for PC. However, Romero had an idea of who might appreciate their work - Scott Miller, who he had contacted previously due to some fake "fan letters" Miller had sent. When Romero finally reached out to Miller, Miller was very excited about their Mario demo and wanted to publish it as shareware. Shareware involved distributing software for free but asking for a payment if users liked it, which had proven successful for other programmers. Miller saw an opportunity to make money distributing Romero's game this way. They had come up with a way to get them.
 
- Here is a summary:
+ 
 
 - Scott Flynn was a game developer who had tried releasing his games as full shareware but didn't make much money, as gamers would just take the games for free without paying. 
 
@@ -158,7 +158,7 @@ Romero and his team had made a demo of a Super Mario Bros game using computers t
 
 - John Carmack and John Romero programmed the game, refining Carmack's improved engine, while Tom Hall designed gameplay elements and directed the project. They worked on it in nights and weekends to meet Scott's deadline to release by Christmas.
 
- Here is a summary:
+ 
 
 - Adrian was recruited to help work on Commander Keen but hated the project because it had a cute, kid-focused style, which he disliked. 
 
@@ -172,7 +172,7 @@ Romero and his team had made a demo of a Super Mario Bros game using computers t
 
 - Carmack and Romero had a close working relationship and pushed each other to improve. A rainstorm isolated Carmack at the lake house one night to work alone.
 
- Here is a summary:
+ 
 
 - Romero was diverse and talented in many aspects of game development beyond just coding. He was also an artist, designer, businessman and fun personality. 
 
@@ -182,7 +182,7 @@ Romero and his team had made a demo of a Super Mario Bros game using computers t
 
 - Id Software was formed on February 1, 1991 after Carmack, Romero and others left Softdisk. There was initially an agreement for them to work with Softdisk but it fell through due to employee objections. Carmack did not care about upsetting the Softdisk staff with their departure.
 
- Here is a summary:
+ 
 
 - Carmack had been developing a pen-and-paper roleplaying game called Dungeons & Dragons (DD) for years. He had detailed worlds, characters, items, and rules. 
 
@@ -210,7 +210,7 @@ Romero and his team had made a demo of a Super Mario Bros game using computers t
 
 - Early developers focused on removing barriers between the user and the virtual experience to create a feeling of being transported to another place. This gave inhabitants the sensation of entering another digital world.
 
- Here is a summary:
+ 
 
 - id Software moved from Shreveport to Madison, Wisconsin in September 1991. They found their new apartments to be much worse than described by Romero and Tom. 
 
@@ -222,7 +222,7 @@ Romero and his team had made a demo of a Super Mario Bros game using computers t
 
 - Overall, the move was difficult as reality didn't match the hype, but the team remained dedicated to finishing their games while Carmack pursued technical innovations for future projects. Adrian remained frustrated and unhappy in Madison.
 
- Here is a summary:
+ 
 
 - The id guys were growing unhappy living in Madison, as the weather grew cold and their neighbors caused problems. They spent most of their time inside working on their games.
 
@@ -250,7 +250,7 @@ Romero and his team had made a demo of a Super Mario Bros game using computers t
 
 - The package caught the attention of Sierra On-Line heads Roberta and Ken Williams, who requested a meeting, excited by Id's ambitions andperfect timing as they were finishing development.
 
- Here is a summary:
+ 
 
 - id Software showed Sierra a demo of their upcoming game Wolfenstein 3D. Sierra offered to acquire id for $2.5 million but wouldn't provide upfront cash, so the deal fell through. 
 
@@ -262,7 +262,7 @@ Romero and his team had made a demo of a Super Mario Bros game using computers t
 
 - Romero grew tired of the cold Wisconsin weather. He convinced the others to move the company to Dallas, Texas for its warmer climate and lack of state income tax. They urgently contacted Kevin not to sign a lease yet so they could relocate.
 
- Here is a summary:
+ 
 
 - Id Software moves into an apartment complex called La Prada Apartments in Mesquite, Texas near their publisher Apogee. 
 
@@ -276,7 +276,7 @@ Romero and his team had made a demo of a Super Mario Bros game using computers t
 
 - Tom wants secret "push walls" added where hidden rooms can be found, but Carmack refuses, seeing it as an "ugly hack" and wanting to keep the code simple and optimized. This causes the first creative conflict within the team.
 
- Here is a summary:
+ 
 
 - The id Software team were working extremely long hours, 7 days a week, to develop Wolfenstein 3D. Kevin and Jay helped somewhat by assisting with character work, packaging, and marketing designs. 
 
@@ -290,7 +290,7 @@ Romero and his team had made a demo of a Super Mario Bros game using computers t
 
 - The shareware episode was uploaded to BBS systems. The first month's royalty check was $100,000, far more than expected. Wolfenstein 3D became a sensation spreading through gamers on BBSs and early online services.
 
- Here is a summary:
+ 
 
 - Wolfenstein 3D was an incredibly popular and immersive game when it was released in 1992. Employees at Microsoft were often overheard playing it in their offices. Press praised its ability to make the player feel like they were in a threatening virtual environment. 
 
@@ -306,7 +306,7 @@ Romero and his team had made a demo of a Super Mario Bros game using computers t
 
 - Carmack focused more on technical improvements while Romero played the game obsessively, becoming the world record holder for speedruns. Their differing personalities and roles at the company were humorously documented.
 
- Here is a summary:
+ 
 
 - Carmack was experimenting with building a first-person racing game using images of Hitler from Wolfenstein to create roads. This led to work on the Shadowcaster game engine for Raven Software.
 
@@ -320,7 +320,7 @@ Romero and his team had made a demo of a Super Mario Bros game using computers t
 
 - id relocated to a new dark office building called the Town East Tower in Mesquite, setting the scene to develop their new demon-themed first-person shooter.
 
- Here is a summary:
+ 
 
 - id Software was growing quickly and seeing success with games like Wolfenstein 3D. However, they were still publishing through Apogee and only getting 40% of sales. 
 
@@ -338,7 +338,7 @@ Romero and his team had made a demo of a Super Mario Bros game using computers t
 
 - Carmack's technology innovations like diminished lighting were key to the look and feel of Doom. This required difficult programming choices with limited resources.
 
- Here is a summary:
+ 
 
 - Romero and Carmack began working on a new game, Doom, that would have free-form level design unlike their earlier games which used square tile-based graphics. Carmack was working on technology for arbitrary polygon shapes and dynamic lighting effects. 
 
@@ -352,7 +352,7 @@ Romero and his team had made a demo of a Super Mario Bros game using computers t
 
 - For Doom, Adrian and Kevin designed frightening monsters with clay sculptures that were scanned into the game for animated characters.
 
- Here is a summary:
+ 
 
 - Kevin and Adrian had fun scanning themselves and objects into Doom to use as textures and in-game images. This helped shape the emerging world of the game. 
 
@@ -362,7 +362,7 @@ Romero and his team had made a demo of a Super Mario Bros game using computers t
 
 - Tom became increasingly unhappy and marginalized as his contributions were rejected. The others eventually voted to remove Tom as owner and he resigned, feeling ashamed though also relieved to no longer be so miserable. This marked the end of Tom's involvement with id Software and Doom.
 
- Here is a summary:
+ 
 
 - Carmack wanted to modify his Ferrari to make it faster but most mechanics didn't want to mess with a Ferrari. Romero recommended Bob Norwood, a racer and mechanic known for modifying Ferraris. Norwood installed a turbo system on Carmack's car, improving its acceleration significantly. 
 
@@ -376,7 +376,7 @@ Romero and his team had made a demo of a Super Mario Bros game using computers t
 
 - The success of the puzzle adventure game Myst on CD-ROM showed the potential of that new format which could store more data than floppy disks for better sound and video.
 
- Here is a summary:
+ 
 
 - Doom was being developed by id Software as a fast-paced first-person shooter, in contrast to slower adventure games like Myst. It featured graphic violence, demons, gore, and big guns. 
 
@@ -388,7 +388,7 @@ Romero and his team had made a demo of a Super Mario Bros game using computers t
 
 - An early multiplayer test between Romero and Carmack demonstrated the exciting potential of playing against another human in virtual space. This helped cement Doom's status as a groundbreaking and massively successful game.
 
- Here is a summary:
+ 
 
 - id Software was developing Doom and nearing completion in late 1995. Employees stayed at the office for days, sleeping under desks to focus on finishing the game. 
 
@@ -404,7 +404,7 @@ Romero and his team had made a demo of a Super Mario Bros game using computers t
 
 - Once uploaded, over 10,000 gamers flooded the server, crashing the University's network in the process. Doom's release was a watershed moment, unprecedented in its online impact.
 
- Here is a summary:
+ 
 
 Over the decades, various new forms of media and entertainment have been accused of corrupting youth and promoting harmful behaviors. In the 1920s, motion pictures were seen as problematic. In the 1950s, Elvis Presley caused concern. In the 1970s, the role-playing game Dungeons & Dragons was associated with satanism. In the 1980s, heavy metal music was blamed for suicide. 
 
@@ -416,7 +416,7 @@ The 1993 release of the hugely popular first-person shooter Doom reignited contr
 
  This passage summarizes the success of Doom and its impact on id Software and the employees. It describes how Doom led to huge commercial success for the company and allowed the employees to spend money freely. It also outlines how a deal was reached with Good Times Interactive to publish a retail version of Doom II, taking the franchise mainstream.
 
- Here is a summary:
+ 
 
 - John Carmack took his Ferrari to a shop called Norwood Autocraft to modify it, installing twin turbos and nitrous oxide to triple its 400 horsepower engine. For Carmack, cars were now engineering projects to modify rather than just toys. 
 
@@ -428,7 +428,7 @@ The 1993 release of the hugely popular first-person shooter Doom reignited contr
 
 - The success of Doom mods attracted interest from Hollywood and other game studios. Microsoft used an early Doom demo to help promote Windows at an event. Doom was growing into a multimedia phenomenon.
 
- Here is a summary:
+ 
 
 - Brad Chase from Microsoft said games were one of the largest and most important multimedia categories. 
 
@@ -440,7 +440,7 @@ The 1993 release of the hugely popular first-person shooter Doom reignited contr
 
 - Romero enjoyed the fame and attention, becoming more outgoing and competitive when playing Doom against fans in tournaments. He saw the fans as his peers and friends who shared his passion for games.
 
- Here is a summary:
+ 
 
 - John Carmack was focused on developing technology and his programming skills. He wanted to improve the 3D engine for their next big game. 
 
@@ -454,7 +454,7 @@ The 1993 release of the hugely popular first-person shooter Doom reignited contr
 
 - Tensions grew as Romero continued giving interviews about Quake while Doom II was still in development, which others felt risked disappointing fans if plans changed. They wanted Romero to keep future projects private until closer to release.
 
- Here is a summary:
+ 
 
 - Romero had found an Easter egg in the game and left one of his own. Adrian and Kevin used rockets to defeat the final boss in the game while hearing demonic sounds from a hidden room. 
 
@@ -478,7 +478,7 @@ The 1993 release of the hugely popular first-person shooter Doom reignited contr
 
 - However, Carmack felt Romero was too distracted by deathmatching and other activities instead of focusing on making new games. He set up a prank where Shawn could kill Romero easily in a deathmatch to get back at him.
 
- Here is a summary:
+ 
 
 - John Carmack and id Software were pioneering 3D virtual worlds and online multiplayer gaming in the 1990s with games like Doom and Wolfenstein. 
 
@@ -508,7 +508,7 @@ The 1993 release of the hugely popular first-person shooter Doom reignited contr
 
 - Judgment Day was a splashy Halloween-themed event designed to generate excitement for Windows 95 as a gaming platform before the 1995 holiday season. It featured sections by top game developers including id.
 
- Here is a summary:
+ 
 
 - Alex St. John organized a Halloween party at Microsoft to showcase id Software's upcoming game Quake. He persuaded Bill Gates to record a video message for the event where Gates pretends to play Quake and uses a shotgun to kill a monster. 
 
@@ -518,7 +518,7 @@ The 1993 release of the hugely popular first-person shooter Doom reignited contr
 
 - Carmack was fully immersed in programming Quake and working 80+ hour weeks, drifting away from normal conversations and interactions with colleagues. Tensions were rising regarding Romero's leadership of the Quake project.
 
- Here is a summary:
+ 
 
 - Carmack was struggling to create the 3D world for Quake as it required essentially reinventing everything from scratch compared to Doom. The world was filled with "blue voids" or holes as his engine couldn't render a complete world. 
 
@@ -530,7 +530,7 @@ The 1993 release of the hugely popular first-person shooter Doom reignited contr
 
 - Carmack could see merits to both sides but ultimately sided against Romero given he had not delivered on his design after a year of work while others had made progress on Doom-style levels. He felt they needed to change course rather than blindly pushing forward with a flawed idea.
 
- Here is a summary:
+ 
 
 The development of Quake was becoming increasingly fractured and tense. Romero's original vision for the game had been rejected in favor of a more Doom-like shooter designed by Carmack. In the rewrite process, Romero felt Carmack had lost faith in taking creative risks. To make matters worse, Carmack was now showing more appreciation for Tim Willits' level designs over Romero and American McGee's work. 
 
@@ -538,7 +538,7 @@ The pressure and crunch was intensified when Carmack had the offices renovated i
 
 Meanwhile, id was also in conflict with their publisher GT Interactive over shareware rights and profits from Quake. Id sought greater independence by pioneering a new self-publishing model for Quake through shareware. But internally, the creative vision and leadership at id was fracturing during one of their most challenging development periods yet.
 
- Here is a summary:
+ 
 
 - Romero had been feeling distant from the Quake project since id decided to change the game's direction away from his more creative vision. 
 
@@ -554,7 +554,7 @@ Meanwhile, id was also in conflict with their publisher GT Interactive over shar
 
 - Romero had already been in contact with a publisher to start a new company with Hall. When confronted, Carmack forced Romero to resign from id.
 
- Here is a summary:
+ 
 
 - Adrian didn't want to be at id Software anymore and felt there was no way out, despite both Carmack and Romero having some justification in their perspectives. 
 
@@ -568,7 +568,7 @@ Meanwhile, id was also in conflict with their publisher GT Interactive over shar
 
 - Stevie and her clan Impulse 9 ultimately defeat _fo0k and the Ruthless Bastards. This cements Impulse 9 as the undisputed champions. Stevie feels powerful and resolves to pursue her passion for gaming rather than her previous career goals.
 
- Here is a summary:
+ 
 
 - John Romero left id Software after clashes with Carmack over the direction of the company. Romero wanted a larger, more ambitious company while Carmack wanted a smaller, developer-focused model. 
 
@@ -580,7 +580,7 @@ Meanwhile, id was also in conflict with their publisher GT Interactive over shar
 
 - Undeterred by the costs, Romero pitched Dream Design to publishers as a company that would license engines but focus on making multiple games across genres quickly with large teams, in contrast to id's smaller model. He aimed to create an "entertainment company" with loud, bold productions.
 
- Here is a summary:
+ 
 
 - John Romero founded Ion Storm with Tom Hall and Todd Porter after the success of id Software games like Doom and Quake. They sought creative freedom and control over their intellectual property. 
 
@@ -590,7 +590,7 @@ Meanwhile, id was also in conflict with their publisher GT Interactive over shar
 
 - However, Carmack was angered when his Ferrari was damaged in the id Software parking lot, hinting at tensions between the pioneering developers who had parted ways. Romero sought more artistic freedom versus Carmack's technical focus at id.
 
- Here is a summary:
+ 
 
 - John Romero, the estranged co-founder of id Software, kept making snide comments about id in the press and claiming sole credit for their success. This angered the id employees. 
 
@@ -602,7 +602,7 @@ Meanwhile, id was also in conflict with their publisher GT Interactive over shar
 
 - Romero had hype Daikatana tremendously through bold marketing like an controversial ad declaring "John Romero's About to Make You His Bitch," raising high expectations for the unreleased game. The fate of Daikatana and Ion Storm's ability to deliver remained to be seen.
 
- Here is a summary:
+ 
 
 - The passage describes the booming video game industry in Dallas, Texas in the late 1990s, which had grown significantly due to the success of id Software games like Doom and Quake. Dallas became known as the center of PC gaming. 
 
@@ -612,7 +612,7 @@ Meanwhile, id was also in conflict with their publisher GT Interactive over shar
 
 - The passage then shifts to describing drag racing contests held by id Software employees using the sports cars they could afford due to their gaming success. Internal pressure at id was also mounting as they aimed to retain their position atop the industry.
 
- Here is a summary:
+ 
 
 - John Romero left id Software to form his own studio, Ion Storm, along with other founders including Todd Porter and Tom Hall. They signed a $13 million deal with publisher Eidos to develop their first three games. 
 
@@ -624,7 +624,7 @@ Meanwhile, id was also in conflict with their publisher GT Interactive over shar
 
 - Tensions rose internally as costs ballooned and games slipped schedules. Porter complained the founders were too focused on development to manage the business issues, leaving growing unrest among employees and publishers.
 
- Here is a summary:
+ 
 
 - Todd Philip decided to personally oversee the development of Dominion at Ion Storm, which was taking longer than expected. He found that Mike Wilson and Bob Wright were spending money without clear oversight. 
 
@@ -638,7 +638,7 @@ Meanwhile, id was also in conflict with their publisher GT Interactive over shar
 
 - John Carmack briefly isolated himself in a hotel room to research his new Trinity graphics engine. Upon returning, he found tensions high between teammates at id as well. He proposed making Quake 3 a pure deathmatch game to allow isolated work, but this idea was not well received.
 
- Here is a summary:
+ 
 
 - John Romero started Ion Storm in 1997 after leaving id Software. The company grew rapidly but struggled with delays and cost overruns on their flagship game Daikatana. 
 
@@ -648,7 +648,7 @@ Meanwhile, id was also in conflict with their publisher GT Interactive over shar
 
 - The summary touches on some of the rising expenses, personnel issues like the firing of Bob Wright, and negative press/reactions Ion Storm received as delays on Daikatana continued with no end in sight. It paints a picture of a studio strife with internal problems and growing public resentment over its stalled flagship project.
 
- Here is a summary:
+ 
 
 - After the Columbine school shooting in 1999, where two students killed 12 classmates and teachers, violent video games like Doom became widely blamed for inspiring the violence. 
 
@@ -660,7 +660,7 @@ Meanwhile, id was also in conflict with their publisher GT Interactive over shar
 
 - In reality, games were just fantasy and make-believe violence could help people accept limits and reduce wildness, as pretending to be evil or violent allows releasing rage in a safe way important for development, according to experts. But the links between fantasy and reality were overstated in the reactions to Columbine.
 
- Here is a summary:
+ 
 
 - After the Columbine shootings, many blamed violent video games for inspiring the killings. However, few were willing or able to defend games publicly due to the controversy. 
 
@@ -676,7 +676,7 @@ Meanwhile, id was also in conflict with their publisher GT Interactive over shar
 
 - Romero also enjoyed violent games and content as a child but recognized their potential effects, especially on kids. As a parent himself, he supported ratings systems and placing responsibility on parents.
 
- Here is a summary:
+ 
 
 - After the Columbine shootings, Romero kept his opinions about games and violence private to avoid bad press. 
 
@@ -692,7 +692,7 @@ Meanwhile, id was also in conflict with their publisher GT Interactive over shar
 
 - Quake 3 development was troubled, with Carmack focused solely on the technical side and lacking a clear creative direction. They hired a new producer to help manage the game.
 
- Here is a summary:
+ 
 
 - Graeme Evans was brought on to help direct the development of Quake III at id Software, which was disorganized with conflicting visions and no clear direction. 
 
@@ -718,7 +718,7 @@ Meanwhile, id was also in conflict with their publisher GT Interactive over shar
 
 - After threatening to leave id, Carmack got his way and convinced the others to work on Doom 3 instead of Quest. Development on their future direction was unresolved.
 
- Here is a summary:
+ 
 
 - Romero and Stevie Case had become regulars at a Mexican restaurant in Lake Tawakoni, Texas after escaping to the countryside a few months prior from their rock star lifestyle in Dallas. They were now known more for their fleet of expensive sports cars than their looks. 
 
@@ -732,7 +732,7 @@ Meanwhile, id was also in conflict with their publisher GT Interactive over shar
 
 - Romero and Stevie found the perfect house to base Monkeystone which they turned into a game paradise. Rumors also spread that Carmack may leave id after Doom 3 due to his growing passion for building real amateur rockets.
 
- Here is a summary:
+ 
 
 - Carmack heads to an open field called Samuel Field near Mesquite, Texas to launch model rockets for fun, like he used to do as a kid. 
 
@@ -744,7 +744,7 @@ Meanwhile, id was also in conflict with their publisher GT Interactive over shar
 
 - Without warning, he launches it and the rocket soars high above the grazing cows, leaving a thick black smoke trail. Carmack enjoys heading out to the field to launch rockets as a fun hobby and break from his more serious work.
 
- Here is a summary:
+ 
 
 - After Anachronox, Tom Hall and John Romero decided to move into mobile/handheld games with a new small studio called Monkeystone. 
 

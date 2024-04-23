@@ -32,7 +32,7 @@ BOOK LINK:
 
 So in summary, the introduction establishes that wisdom is sorely needed to navigate life's challenges, but is rarely available when most in need. It defines what true wisdom is and how it is developed through deep thought and application to life.
 
- Here is a summary:
+ 
 
 - Knowledge does not necessarily equal wisdom. Some very knowledgeable people lack wisdom. 
 
@@ -46,7 +46,7 @@ So in summary, the introduction establishes that wisdom is sorely needed to navi
 
 - Quotes and ideas may provoke disagreement in readers looking to quickly judge things as right or wrong. Deeper consideration beyond immediate reactions is encouraged to truly ponder new perspectives.
 
- Here is a summary:
+ 
 
 - The passage discusses the concept of "bad wisdom" - clichés and sayings that may make you feel better temporarily but do not spark real change or growth. Examples given include "What's for you will come to you" and "Believe in yourself."
 
@@ -58,7 +58,7 @@ So in summary, the introduction establishes that wisdom is sorely needed to navi
 
 - The key is adopting different angles to look at problems instead of always from the same perspective, which has not solved issues. True wisdom is shifting one's angle to find new solutions. Thinking in new ways is the art that leads to wisdom and change.
 
- Here is a summary:
+ 
 
 - The passage describes imagining having to cross obstacles like a river, muddy field, or dense woods to get to a town in the distance. This builds a mental picture of all the challenges along the way.
 
@@ -88,7 +88,7 @@ So in summary, the introduction establishes that wisdom is sorely needed to navi
 
 The passage advocates for choosing love as a commitment to fully accept and support another person, without conditions or expectations. This kind of unconditional love within a relationship can help it flourish even during difficult times.
 
- Here is a summary:
+ 
 
 This passage discusses when it's time to end a relationship and do so with integrity. It says that sometimes a person's behavior or choices lead the other person to no longer want to deal with their "stuff" - like cheating, stealing, or indulging in destructive behaviors for too long. Their lives may be heading in a direction the other didn't agree to. 
 
@@ -98,7 +98,7 @@ The passage notes it's important to love people wholly, both their good and bad 
 
 The overall message is that when ending a relationship, it's best to do so cleanly and with integrity, rather than creating drama or blame, even if the other person's actions contributed to the relationship ending. Focus on owning one's own decision and feelings.
 
- Here is a summary:
+ 
 
 The passage discusses some fundamental principles about love. It argues that true love comes from within, not from seeking approval or validation from others. Some key points:
 
@@ -128,7 +128,7 @@ The overall message is that love is internal, not external. True love is express
 
 The overall message is that all types of losses, not just death of a loved one, require acknowledgement and healthy processing to avoid lingering negative impacts on one's life and future. Grieving is normal but so is choosing empowerment and growth over long-term dwelling in the loss.
 
- Here is a summary:
+ 
 
 - Experiencing loss, such as someone's death, is like receiving a mortal wound that hurts deeply and plummets one's emotions. Dealing with that level of pain and grief is incredibly difficult. 
 
@@ -144,7 +144,7 @@ The overall message is that all types of losses, not just death of a loved one, 
 
 - In summary, loss can be dealt with in a way that empowers rather than smothers if one takes responsibility for their experience and does the necessary introspection and emotional processing work over time.
 
- Here is a summary:
+ 
 
 The passage discusses how many people feel stuck in their lives or hold themselves back due to fear. When asked what they are afraid of, people often cite fears of failure, judgment, or rejection. However, the author argues this may not be the full picture. 
 
@@ -152,7 +152,7 @@ At a deeper level, the author says all people, including the reader, have built 
 
 The passage notes that when people do fail or face rejection, it confirms deep-seated fears and buttons get pushed, leading them to avoid such situations in the future. Overall, the author argues people's lives are constrained by their fears and a prioritization of what feels safe, rather than focused on potential and possibility. Fear of failure, judgment, etc. are used to excuse inaction and a "flattened" existence lacking greatness or breakthrough.
 
- Here is a summary:
+ 
 
 - Fear is often used as an excuse to avoid taking action and facing uncomfortable truths about oneself. However, most fears are not actually life-threatening and are ultimately meaningless. 
 
@@ -182,7 +182,7 @@ The passage notes that when people do fail or face rejection, it confirms deep-s
 
 So in summary, the person is using fear as their primary identity but is learning to see it as a natural part of the human experience, not something to fight but also not something that should drive their entire life and stop them from living fully. It's a journey from fear-driven to fear-accompanied.
 
- Here is a summary:
+ 
 
 - The passage discusses fundamental beliefs about success and what it means to take responsibility for one's own life. 
 
@@ -194,7 +194,7 @@ So in summary, the person is using fear as their primary identity but is learnin
 
 - True success comes from believing you alone are responsible for your life and its outcomes, and that past hardships or faults of others do not determine your future if you take control. This mindset is foundational to achieiving fulfillment and accomplishing goals according to the passage.
 
- Here is a summary:
+ 
 
 - Holding others accountable for legitimate mistakes is reasonable, but you need to take primary responsibility for your own situation and progress. Blaming others won't fix anything and waiting for an apology likely won't help either. 
 
@@ -220,7 +220,7 @@ So in summary, the person is using fear as their primary identity but is learnin
 
 So in summary, the key message is about the importance of identifying one's "life's work" or lasting contribution early, and using that as guidance and motivation rather than drifting through life without impact or legacy.
 
- Here is a summary:
+ 
 
 The passage describes how the author used to live a typical "doing" life focused on basic goals like career, family, money and material possessions. However, this type of life led to emptiness and lack of purpose. 
 
@@ -232,7 +232,7 @@ A key theme is that life should be about "being" rather than just "doing". The a
 
 The passage advocates for critically examining one's life and having the courage to change course, even later in life, rather than continuing on an unfulfilling path due to inertia or stubbornness. It offers hope that positive change is possible at any age.
 
- Here is a summary:
+ 
 
 - The passage discusses how modern society has lost a sense of community and interconnectedness that existed 500 years ago. Back then, everyone played a specific role in their community and found purpose and identity through their relationships and contributions to the group. 
 
@@ -244,7 +244,7 @@ The passage advocates for critically examining one's life and having the courage
 
 - Successful people often turn to contribution and impacting others later in life, once individual goals are achieved. The author calls people to wake up to what really matters - making a difference for others through selfless contribution, not strategic manipulation or self-interest.
 
- Here is a summary:
+ 
 
 The passage criticizes the way many people live focused primarily on themselves, their own needs and desires, resigning themselves to feeling small and powerless to make a real difference in the world. 
 
@@ -254,6 +254,6 @@ The alternative proposed is to start seeing yourself as someone who can make a c
 
 Rather than making excuses, the challenge is to live deliberately and take actions that demonstrate the kind of person you want to be for others. This approach of focusing outwardly on contribution, the passage says, is what truly leads to fulfillment and a meaningful life.
 
- Here is a summary:
+ 
 
 This excerpt is from the book "Wise as F*ck" by Gary John Bishop. It encourages the reader to stop making excuses and live an extraordinary life by becoming their best self. Bishop argues that problems are a normal part of life and shouldn't prevent happiness. He tells readers they already have the power to influence others just by being intentional in how they act and speak. To unleash one's full potential, one must stand up for what they believe in despite fear or criticism from others. Bishop urges readers to take action towards their commitments by doing something aligned with their values immediately. He says to focus on positively impacting others through service rather than worrying about what people think. In summary, it's a call to stop wasting time complaining and instead fully embrace living an engaged and passionate life.

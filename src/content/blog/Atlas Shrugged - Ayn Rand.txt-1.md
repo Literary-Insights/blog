@@ -721,7 +721,7 @@ In summary, Dagny's rash trade highlights her emotional investment in Rearden Me
 
 - Alone in her office at night, Dagny feels a deep loneliness and disconnect from the Taggart building she once loved. She reminisces about feeling the same as a child, realizing the world is not what she expected.
 
- Here is a summary:
+ 
 
 Dagny Taggart watched from her office window as the shadow of a tormented, unknown man paced back and forth, struggling with himself over whether to enter her building. Though she wondered who he was and what he wanted, she felt a strange detachment, as if his inner turmoil was distant from her own lonely suffering. After the shadow disappeared, Dagny rushed out to try to find him, driven by a sudden need to know his identity and motive. 
 
@@ -763,7 +763,7 @@ Though dismayed by unjust laws like the Equalization of Opportunity Bill, Rearde
 
 - The scene contrasts Dagny's clear, factual style against the evasive, empty rhetoric the reporters expect from public figures. It underscores her commitment to rational self-interest rather than altruism.
 
- Here is a summary:
+ 
 
 Dagny Taggart and Hank Rearden spoke to reporters about the upcoming opening of the John Galt Line. They openly discussed making large profits and their confidence in the quality of Rearden Metal. The reporters were skeptical about the high speeds planned for the train. On the day of the opening, a large crowd gathered at the station in Cheyenne to see the event. Dagny and Rearden looked at each other across the platform and felt a sense of excitement and accomplishment. Eddie Willers represented Taggart Transcontinental and watched Dagny proudly. The train crew posed for photos and answered questions from the press good-naturedly. Despite initial cynicism, the reporters found themselves getting caught up in the enthusiasm. At 3:45pm, the crew started heading to the caboose to prepare for departure.
 
@@ -1215,7 +1215,7 @@ Later, Jim took Cherryl to a high society party, where she felt out of place in 
 
 After the party, Jim proposed to Cherryl outside her poor tenement home. She was stunned but accepted. Their engagement drew massive media attention, with constant photos of Cherryl contrasted with Jim's power and status. She at first enjoyed the limelight but grew disturbed by the invasive coverage. Jim seemed to want to keep Cherryl in her modest circumstances despite their impending marriage. The frenzied publicity focused on their extreme differences in background.
 
- Here is a summary:
+ 
 
 The excerpt describes interactions between characters at James Taggart's wedding reception. Cherryl Taggart is overwhelmed and happy to be married. Taggart arrogantly mingles with guests seeking favor or avoiding his displeasure. Orren Boyle and Bertram Scudder surreptitiously assess Taggart's power and influence based on who attends. Taggart is irritated that Wesley Mouch did not come. Boyle taunts Taggart about their shady dealings, warning him that allies like Mouch can shift loyalties. The passage conveys political scheming and fragile alliances among the characters.
 
@@ -1591,7 +1591,7 @@ Francisco questions why great industrialists like Taggart always lose their achi
 
  It seems Lillian suspects Hank is having an affair and traveling with his mistress. She arranges to surprise them by meeting the train, but Hank arrives alone. The passage explores Lillian's petty jealousy and manipulation, contrasted with Hank's dedication to his work. Ultimately it reveals more about Lillian's character than Hank's.
 
- Here is a summary:
+ 
 
 Lillian unexpectedly meets Rearden at the train station. She is shocked to see he is alone, without a woman companion. She realizes Dagny Taggart was on the train with him. Lillian confronts Rearden, accusing Dagny of being his mistress. Rearden confirms it. Lillian is furious, demanding he end the affair. She claims she has the right to demand this as his wife. Rearden refuses, saying nothing will make him end it. Lillian screams at him about her suffering, but Rearden is indifferent. He tells Lillian she can divorce him or continue their marriage, but he won't give up Dagny. Lillian seems to recalculate, falling silent instead of screaming. The confrontation reveals the futility and ugliness of Lillian's pleas for pity and demands from Rearden.
 
@@ -2955,7 +2955,7 @@ When Rearden sarcastically suggests the government take over his mills, the offi
 
 - Rearden leaves the meeting abruptly, feeling an immense silence and sense of rest within himself now that he sees the truth clearly. He takes responsibility for having upheld the irrational for so long.
 
- Here is a summary:
+ 
 
 The passage describes Hank Rearden driving toward his steel mills one night. He sees signs of an apparent worker revolt at the gates. A figure falls from atop a car. Rearden swerves to avoid the mob and heads to another entrance. His car goes off the road near a ravine where he finds the mortally wounded body of the Wet Nurse, a young man who works at the mills. 
 
@@ -3009,7 +3009,7 @@ In summary, key people are disappearing from failing industries, the government 
 
 - The nationwide address was clearly an attempt by the government to cover up the unrest and present a positive message, while avoiding the real problems facing the country. Dagny attended against her wishes, sensing the falsity of the situation.
 
- Here is a summary:
+ 
 
 The passage describes the process of hatred and fear taking hold as a mysterious radio transmission interrupts a political broadcast. The characters react with confusion, panic, and terror as an unknown voice hijacks the airwaves. Three individuals - Dagny, Dr. Stadler, and Eddie Willers - recognize the voice as John Galt. We learn that for 12 years people have been asking "Who is John Galt?" as society deteriorated. Now Galt is revealing himself and accusing the public of moral crisis and destruction through their sacrifices and abandonment of reason, independence, justice, wealth, happiness, and self-esteem. Though they eliminated what they saw as evil, the world is not the product of their virtues. Galt argues they have destroyed the good while pursuing moral ideals of sacrifice and denial. The scene ends as his voice continues to speak.
 

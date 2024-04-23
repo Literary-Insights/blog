@@ -32,7 +32,7 @@ BOOK LINK:
 
 So in summary, copyright protects original creative works and gives the creator exclusive control over certain uses, with certain limitations like fair use. Registration provides additional benefits but is not required for copyright to exist.
 
- Here is a summary:
+ 
 
 - The book includes recipes to avoid ultra-processed foods and encourages home cooking over ready-made supermarket meals. The recipes aim to satisfy common occasions when people rely on convenience foods. 
 
@@ -46,13 +46,13 @@ So in summary, copyright protects original creative works and gives the creator 
 
 - Common additives in ultra-processed foods include flavors, emulsifiers, sweeteners, thickeners, colors to prolong shelf life, protect properties, enhance palatability and prevent spoilage.
 
- Here is a summary:
+ 
 
 Food additives are commonly added to processed and ultra-processed foods to improve properties like taste, texture, shelf life and safety. They serve purposes like enhancing flavor, improving mouthfeel with thickeners, preventing color fading with additives, and inhibiting microbial growth. This allows food manufacturers to meet demands for convenient, attractive foods. Additives also help reduce costs by substituting cheaper ingredients for more expensive natural components. 
 
 While research on individual additives is limited, combined they are not generally considered healthy. Common additive categories include flavor enhancers like MSG, emulsifiers to create smooth textures, sweeteners both natural and artificial, thickeners and stabilizers, preservatives for shelf life, bulking agents to increase volume, and artificial colors. Ultra-processed foods can be identified by long, unrecognizable ingredient lists containing many additives. While occasional ultra-processed foods may be acceptable, health is generally better supported by minimally processed whole foods with shorter ingredient lists.
 
- Here is a summary:
+ 
 
 The label describes a multi-grain snack consisting of varying proportions of wheat flour, corn flour, rice flour, maltodextrin (a polysaccharide derivative), emulsifier E471 (polysorbate 80), salt, and annatto norbixin color. 
 
@@ -66,7 +66,7 @@ The key points are:
 
 In summary, it is a multi-grain snack made from various flours, with added maltodextrin, emulsifier and salt for texture and flavor, along with natural coloring.
 
- Here is a summary:
+ 
 
 - Several studies from the past few years have found links between eating ultra-processed foods and increased risks of heart disease, stroke, obesity, type 2 diabetes, cancer and cognitive decline/dementia. 
 
@@ -100,7 +100,7 @@ In summary, it is a multi-grain snack made from various flours, with added malto
 
 - Proper kitchen equipment makes cooking more enjoyable and prevents frustration.
 
- Here is a summary:
+ 
 
 The passage discusses overcoming challenges when transitioning to an unprocessed lifestyle with whole foods cooked from scratch. It emphasizes making time for food preparation and mealtimes. Some tips include planning meals in advance, batch cooking and freezing meals, starting slowly with small changes, educating yourself on ultra-processed foods, getting friends and family involved, choosing recipes that suit your lifestyle, developing healthy eating patterns, and addressing commonly asked questions about things like alcohol. 
 
@@ -162,7 +162,7 @@ The key is balancing whole, minimally processed foods with occasional indulgence
 
 - Three recipes are provided that use pantry staples - homemade hash browns with poached egg, homemade baked beans, and sliced peppers on toast with a chilli fried egg. Batch cooking and freezing ingredients are suggested to save time.
 
- Here is a summary:
+ 
 
 - The recipe provides instructions for making chicken Kyiv, rolls of chicken breast stuffed with a garlic butter mixture. 
 
@@ -292,7 +292,7 @@ So in summary, a shallow bowl refers to a wide and relatively flat serving bowl 
 
 6. Creamy veggie korma - Cook onions and spices, add mixed vegetables and stock. Simmer then stir through yogurt. Serve with rice or bread.
 
- Here is a summary:
+ 
 
 - The recipe is for a lentil bowl with tahini dressing. It uses puy lentils, brown rice, red onion, rocket, mixed fresh herbs, cherry tomatoes, and golden sultanas. 
 

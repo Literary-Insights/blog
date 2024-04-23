@@ -42,7 +42,7 @@ BOOK LINK:
 
 - Her work and advocacy demonstrate why data science needed and continues to need feminism - to challenge discrimination, promote equality of opportunity, and give proper recognition to the important but overlooked contributions of women.
 
- Here is a summary:
+ 
 
 - The passage criticizes Betty Friedan's 1963 book The Feminine Mystique for ignoring how other aspects of identity like race, class, ability, sexuality, etc. intersect with gender to determine women's experiences. 
 
@@ -68,7 +68,7 @@ BOOK LINK:
 
 - Data feminism, like justice, must remain both a goal and ongoing process of guiding thought and action toward social change. The key focus is on power structures in society and how data science can both reinforce and challenge inequality.
 
- Here is a summary:
+ 
 
 - The passage discusses the exponential growth of computing power and data collection capabilities over time, enabled by Moore's Law where transistor counts double every year. This has enabled vast amounts of data to be collected about people and their behaviors.
 
@@ -82,7 +82,7 @@ BOOK LINK:
 
 - Data feminism aims to trace biases in data and systems back to their historical and social roots, understand their impacts, and challenge oppressive data collection and uses through community-driven methods and diverse examples of data science.
 
- Here is a summary:
+ 
 
 The introduction examines why data science needs feminism through an intersectional feminist lens. It outlines seven principles of data feminism:
 
@@ -116,7 +116,7 @@ Each subsequent chapter will explore one of these principles in more detail usin
 
 - Examining these intersecting systems of power and oppression is the first principle of data feminism, in order to understand how bias and inequities are baked into our datasets and technologies.
 
- Here is a summary:
+ 
 
 - The passage discusses how data science and related fields lack diversity and are dominated by privileged groups like white men. This leads to what is called the "privilege hazard" - those in privileged positions have difficulty recognizing oppression or harm because they lack the "empiricism of lived experience." 
 
@@ -140,7 +140,7 @@ Each subsequent chapter will explore one of these principles in more detail usin
 
 So in summary, Joy Buolamwini is highlighted as a scholar who studied and drew attention to the problem of racial and gender bias in facial recognition technology through her technical findings and multifaceted approach toward solutions.
 
- Here is a summary:
+ 
 
 The passage discusses missing or lacking datasets that reveal social biases and structural disregard for certain groups. It gives examples of potential but missing datasets like "People excluded from public housing because of criminal records" and "Mobility for older adults with physical disabilities or cognitive impairments." 
 
@@ -150,7 +150,7 @@ The passage discusses how some address these gaps through "counterdata" or "data
 
 It provides an example of this work through María Salguero, who maintains a map of over 5,000 cases of femicides (gender-related killings of women) in Mexico since 2016, filling a data void where the government has failed to adequately record such crimes. Her map collects names and details of victims to make them visible and help seek justice.
 
- Here is a summary:
+ 
 
 - The example of missing data about femicides in Mexico highlights a broader issue of missing data about marginalized groups in societies with unequal power structures. This results from willful disregard, deferral of responsibility, and organized neglect. 
 
@@ -162,7 +162,7 @@ It provides an example of this work through María Salguero, who maintains a map
 
 - This results in data science serving the goals of science, surveillance and selling, rather than other possible goals that may be underserved. Examples given are of physical infrastructure like data centers required to store large amounts of data.
 
- Here is a summary:
+ 
 
 This section discusses the climate change impacts of data centers and data storage in the cloud. Some key points:
 
@@ -190,7 +190,7 @@ So in summary, it discusses how data storage in large centralized data centers c
 
 - The algorithms rely on proxies for race like questions about family structure, continuing structural biases embedded in the criminal justice system. Counteracting this requires compiling alternative data sources and auditing algorithms to expose oppressive outcomes.
 
- Here is a summary:
+ 
 
 - Risk assessment algorithms used by companies like Equivant in the criminal justice system are designed to predict recidivism (likelihood of reoffending). However, they often rely on proxy variables that are linked to race like being raised by a single mother or having friends/family who were arrested. 
 
@@ -202,7 +202,7 @@ So in summary, it discusses how data storage in large centralized data centers c
 
 - Auditing algorithms through data analysis is an important tool for journalists to make opaque harms from algorithms more visible and hold systems accountable. It helps challenge unequal power dynamics reproduced through new technologies.
 
- Here is a summary:
+ 
 
 - The passage discusses efforts to use data and analysis to expose problems like discrimination and oppression, with the theory being that revealing the extent of issues will prompt those in power to take action. 
 
@@ -214,7 +214,7 @@ So in summary, it discusses how data storage in large centralized data centers c
 
 - Overall, while exposing issues through data is important, it is equally key to involve communities directly and amplify their existing efforts, in order to counter deficit narratives and ensure the subjects of data have ownership and agency in the process.
 
- Here is a summary:
+ 
 
 The passage discusses issues with focusing solely on data ethics and bias when addressing problems in data and algorithms. It argues that this approach does not get at the root causes of structural oppression and inequality. 
 
@@ -234,7 +234,7 @@ Some key points made:
 
 - The framework of co-liberation toward mutual benefit is proposed rather than just "helping" marginalized groups. Both dominant and minoritized groups must work together towards dismantling oppression.
 
- Here is a summary:
+ 
 
 - The project initially focused on data profiling and resistance but shifted to specifically studying surveillance in response to community concerns. 
 
@@ -244,7 +244,7 @@ Some key points made:
 
 - Data science education needs to move beyond the "Horace Mann factory model" which mostly benefits elite white men. Alternative models like Local Lotto engage communities and teach concepts through place-based issues of equity and justice.
 
- Here is a summary:
+ 
 
 - The Local Lotto project taught high school students in New York City about data analysis and statistics concepts by having them study the New York State lottery. 
 
@@ -260,13 +260,13 @@ Some key points made:
 
 - The project shows how data science education can be grounded in social justice by examining real issues, valuing community voices, and continuously reflecting on power dynamics.
 
- Here is a summary:
+ 
 
 The passage discusses the tension between objective, data-driven visualization approaches and more emotionally evocative styles. It uses the example of the Periscopic project that visualized gun deaths in the U.S. in 2013 as arcs representing lost years of life. While praised for its message, the project raised concerns from some in the data visualization field about using emotion and persuasion. 
 
 Traditionally in fields like statistics and data communication, visualizations are meant to be plain, neutral and devoid of subjective elements in order to be objective. However, the passage argues this concept of neutrality is problematic and masks underlying perspectives. It draws on feminist philosophy to challenge the false dichotomy between reason and emotion. Exploring how emotion can be constructively leveraged in visualization, rather than resisted, is key to the data feminism principle of embracing emotion and embodiment. Overall, the passage examines debates around subjectivity, objectivity and rhetorical aspects in data visualization design.
 
- Here is a summary:
+ 
 
 - Early data visualizers like W.E.B. Du Bois, Shanawdithit, and Elizabeth Palmer Peabody created visualizations to communicate specific messages and perspectives, understanding the rhetorical power of images. 
 
@@ -280,7 +280,7 @@ Traditionally in fields like statistics and data communication, visualizations a
 
 - The goal should not be an unattainable universal objectivity but rather more inclusive and complete knowledge that accounts for the situated nature of all perspectives.
 
- Here is a summary:
+ 
 
 - The passage discusses critiques of scientific research that is conducted primarily on male subjects and perspectives, without considering gender differences or the experiences of women. It argues this approach treats the male experience as the "norm" that women vary from. 
 
@@ -292,7 +292,7 @@ Traditionally in fields like statistics and data communication, visualizations a
 
 - Throughout, the passage advocates moving beyond just rational, objective viewpoints to incorporate emotional, cultural and multiple subjective perspectives into how data is represented and understood.
 
- Here is a summary:
+ 
 
 - The piece describes an art performance called "A Sort of Joy" that visualized gender disparities in the MoMA art collection by having performers read out male and female names from the collection. 
 
@@ -322,7 +322,7 @@ Traditionally in fields like statistics and data communication, visualizations a
 
 In summary, the passage discusses the importance of context in design, provides examples of how the "god's-eye view" can be used positively, and argues for elevating emotion and embodiment as valuable aspects of data communication that are often excluded.
 
- Here is a summary:
+ 
 
 - The chapter discusses the importance of counting and classifying people in a way that is inclusive and does not perpetuate oppression. It uses examples of non-binary individuals who struggle with gender binary options on websites. 
 
@@ -332,7 +332,7 @@ In summary, the passage discusses the importance of context in design, provides 
 
 - Feminists have analyzed gender and sex as social constructs rather than essential or natural categories. The binary developed historically from a hierarchical view of sexes, not an inherent biological distinction. Data collection needs to challenge binaries and hierarchies to be truly representative and empowering.
 
- Here is a summary:
+ 
 
 - The passage discusses how classification systems have historically been used to categorize and discriminate against marginalized groups, like women, people of color, disabled people, and LGBTQ+ individuals. 
 
@@ -358,7 +358,7 @@ In summary, the passage discusses the importance of context in design, provides 
 
 The key point is that the airport security scanner system relies on oversimplified male/female gender classifications, which can result in discriminatory screening and invasive pat downs for non-binary and transgender travelers whose bodies do not neatly fit the predefined algorithms. This illustrates the need for design justice in technical systems to avoid inadvertently excluding or harming certain groups.
 
- Here is a summary:
+ 
 
 - The passage discusses the complexity of collecting and representing gender data. While having non-binary gender options makes sense, it can also pose risks by making those identities more visible. 
 
@@ -372,7 +372,7 @@ The key point is that the airport security scanner system relies on oversimplifi
 
 - Visualizing gender itself is highly challenging given its complexity beyond binaries. Effective representations acknowledge its multidimensional nature.
 
- Here is a summary:
+ 
 
 The passage discusses how counting and representing data about human characteristics can be complex due to nuances and changes throughout a person's life. It focuses on a diagram called "Beyond XX and XY" that visualizes the sex spectrum and how sex is not fixed but changes over time. The diagram rejects flawed categories and research in order to provide a more nuanced visualization of sex as a spectrum rather than a simple binary. 
 
@@ -396,7 +396,7 @@ Finally, the passage discusses how counting can also empower and heal when done 
 
 - AEMP takes a pluralistic, multimodal approach to mapping evictions through collaboration with community groups and using various data sources and storytelling methods.
 
- Here is a summary:
+ 
 
 - The AEMP collects data on tenant evictions and gentrification through maps, timelines, oral histories and other methods. Some maps like the Tech Bus Stop Eviction Map clearly show correlations between evictions and factors like proximity to tech company bus stops. 
 
@@ -424,7 +424,7 @@ Finally, the passage discusses how counting can also empower and heal when done 
 
 - There are risks of "epistemic violence" by privileging dominant ways of knowing over local ways in the data collection context. More attention needs to be paid to data settings and histories.
 
- Here is a summary:
+ 
 
 - The Anti-Eviction Mapping Project (AEMP) collects eviction data in California to better understand the housing crisis. They aim to build community solidarity among participants. 
 
@@ -436,7 +436,7 @@ Finally, the passage discusses how counting can also empower and heal when done 
 
 - AEMP involved many non-experts in mapping to build technical skills and relationships. This reflects a feminist view that plural voices yield a richer understanding than a single expert view. Transparency about methods and positions can also be a feminist approach.
 
- Here is a summary:
+ 
 
 - Designing from the margins argues that designers and engineers should actively work to dismantle the distinction between centers and margins in society, rather than just engaging people at the margins. 
 
@@ -448,7 +448,7 @@ Finally, the passage discusses how counting can also empower and heal when done 
 
 - Examples are given of data murals created through partnerships between communities and the Bhargavas that employ both data analysis and civic processes to tell community stories and build social solidarity.
 
- Here is a summary:
+ 
 
 - The chapter discusses several examples of data projects designed for "co-liberation" rather than just "good". These projects originate from community-identified needs and involve community members in all stages of the work. 
 
@@ -462,7 +462,7 @@ Finally, the passage discusses how counting can also empower and heal when done 
 
 - In summary, the chapter advocates embracing pluralism at all stages of data work as a feminist strategy to mitigate risks of epistemic violence and extractive approaches, and shows how this is compatible with large-scale projects.
 
- Here is a summary:
+ 
 
 - The article discusses how context is important when analyzing data but often missing from open datasets found online. 
 
@@ -562,7 +562,7 @@ Overall, it argues that until we invest as much in providing context for data as
 
 - Even at large companies, data entry work is profoundly undervalued compared to the knowledge created, as seen with Google's book scanning workers. This labor force also tends to be disproportionately women and people of color.
 
- Here is a summary:
+ 
 
 - The passage discusses the work of information studies scholar Lilly Irani, who argues that today's hierarchy of data labor mirrors older hierarchies in technologies like computing that disadvantaged women, minorities and lower classes. 
 
@@ -610,7 +610,7 @@ The passage discusses how care work has historically been undervalued, despite e
 
 - The summary emphasizes the challenges faced by care and domestic workers, efforts to organize and advocate for their rights, and the importance of acknowledging all labor that goes into data science and knowledge production.
 
- Here is a summary:
+ 
 
 The passage discusses various forms of collective organizing and resistance happening within the technology industry. It outlines how workers at companies like Slack or Google could hypothetically organize strikes or slowdowns using the technology platforms themselves. 
 
@@ -620,7 +620,7 @@ The Google Walkout is discussed as one high-profile action that achieved some wi
 
 Overall, the passage argues technology workers and supporters are experimenting with creative ways to channel digital connections into real-world solidarity and social change. However, entrenched power structures within corporations represent ongoing challenges to be addressed through continued grassroots organizing and intersectional feminism.
 
- Here is a summary:
+ 
 
 - The authors introduce the concept of data feminism, which aims to challenge power imbalances and promote equality through a feminist lens in data science. 
 
@@ -634,7 +634,7 @@ Overall, the passage argues technology workers and supporters are experimenting 
 
 - They conclude by emphasizing the importance of multiplying these efforts now, before data structures and norms are fully cemented, to shape the emerging data landscape in an equitable way.
 
- Here is a summary:
+ 
 
 - The passage advocates for equity and prioritizing marginalized voices and perspectives, specifically in how information is presented. 
 
@@ -648,7 +648,7 @@ Overall, the passage argues technology workers and supporters are experimenting 
 
 - Draft and final metrics are presented to track how well the book lives up to values of centering marginalized voices. Some goals were better met than others in the final version.
 
- Here is a summary:
+ 
 
 The authors worked to audit data references in their book "Data Feminism" in order to remain accountable to their values statement. They categorized each reference by demographic details like gender, race, region of origin, and whether they represented examples of good or bad data practices. 
 
@@ -950,7 +950,7 @@ So in summary, the timeline shows how US census categories around race and ethni
 
 - Alternatives like tech cooperatives aim to give workers more democratic control and address power imbalances, while declarations like the Toronto Principles advocate for protecting human rights in machine learning and AI.
 
- Here is a summary:
+ 
 
 - The text discusses principles of design justice put forth by the Design Justice Network, which include centering marginalized communities, collective access, sustainablilty, spirituality, and cooperation over competition. 
 

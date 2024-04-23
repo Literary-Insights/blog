@@ -127,7 +127,7 @@ That covers the key highlights and main takeaways from the introduction. Please 
 
 •The Universe always says "Yes!" so if you ask and don't receive, you have not actually aligned with your desire. You may have underlying beliefs blocking you. Release resistance and doubt.
 
- Here is a summary:
+ 
 
 - You came into this physical life with an eagerness for exploration and expansion. You knew that the contrast you would experience would inspire new desires and that you had the power to fulfill them. 
 
@@ -141,7 +141,7 @@ That covers the key highlights and main takeaways from the introduction. Please 
 
 - It may seem hard to feel abundant when you're not thriving, but you must find ways to improve your vibration before your reality can change. Make an effort to focus on the positive and feel better, and your circumstances will improve as a result.
 
- Here is a summary:
+ 
 
 • Rather than live life by default, live deliberately. Make conscious choices about where you focus your thoughts and attention.
 
@@ -157,7 +157,7 @@ That covers the key highlights and main takeaways from the introduction. Please 
 
 • Pay attention to your thoughts and deliberately choose thoughts that align with what you want to experience. Your thoughts shape your reality.
 
- Here is a summary:
+ 
 
 • Your thoughts attract corresponding thoughts and circumstances into your life. Once you understand this, you can deliberately direct your thoughts to attract what you want.
 
@@ -175,7 +175,7 @@ That covers the key highlights and main takeaways from the introduction. Please 
 
 • You can pivot from negative thoughts to positive thoughts by recognizing they don't feel good and choosing an improved thought. This helps you reconnect with your inner being.
 
- Here is a summary:
+ 
 
 • Everyone wants to feel good, but most people believe that favorable conditions outside of them need to happen first before they can feel good. In reality, you feel good or bad depending on what you are focusing on in any moment. If you focus on what pleases you, you feel good. If you focus on what displeases you, you feel bad.
 
@@ -195,7 +195,7 @@ That covers the key highlights and main takeaways from the introduction. Please 
 
 • Are you focused on what you want or don't want? Your focus and the story you tell create your life. Deliberately focus on the positive to feel good now and transform your experiences.
 
- Here is a summary:
+ 
 
 - Your thoughts and words may sound positive but your feelings can indicate if you are actually focused on what you want or don't want. 
 - Asking yourself why you want something can help shift your focus from the problem to the solution. This helps you attract what you want.
@@ -205,7 +205,7 @@ That covers the key highlights and main takeaways from the introduction. Please 
 
 - You have the power to direct your thoughts in a positive or negative way. Even in situations where you can't control the circumstances, you can still choose your reaction and the thoughts you focus on.
 
- Here is a summary:
+ 
 
 • When you experience an unwanted situation, it is common to want to explain why it happened in an attempt to justify it. However, explaining, defending or blaming only keeps you focused on the negative and attracting more of the same.
 
@@ -221,7 +221,7 @@ That covers the key highlights and main takeaways from the introduction. Please 
 
 In summary, focusing on positive thoughts, especially first thing in the morning,  using tools like a book of positive aspects and pivoting from negative to positive thoughts, can help improve your life experience through the Law of Attraction. Small, steady steps towards more positive thoughts are most effective.
 
- Here is a summary:
+ 
 
 1. While you sleep, attraction to your physical body stops. Sleep is a time for your inner being to realign your energies and refresh your physical body.
 
@@ -243,7 +243,7 @@ In summary, focusing on positive thoughts, especially first thing in the morning
 
 10. If you're in an uncomfortable situation and can't find an immediate solution, focus on how you want to feel instead. Your thoughts have power and consistently good feelings provide leverage.
 
- Here is a summary:
+ 
 
 1. Your feelings and emotions provide guidance to help you deliberately choose thoughts that lead to good-feeling experiences. Even identifying a small feeling of relief in a thought can start you on a path to a solution.
 
@@ -291,7 +291,7 @@ In summary, focusing on positive thoughts, especially first thing in the morning
 
 In summary, you cannot control others or be responsible for their experiences. Focus on your own thoughts, find your own happiness from within, and appreciate the good - that is the path to peace and clarity. Do not seek to justify your actions through another's emotions. Do the internal work, then act from a place of alignment and desire, not reaction or guilt. This will allow you to move forward unencumbered by the past.
 
- Here is a summary:
+ 
 
 • Money and freedom are synonymous for most people. Since you desire freedom intensely, your relationship with money is one of the most important subjects in your life.
 
@@ -309,7 +309,7 @@ In summary, you cannot control others or be responsible for their experiences. F
 
 • Money flows easily and frequently into the lives of those whose habitual thoughts are focused on abundance, prosperity and financial freedom. Make this your experience too by utilizing the leverage of positive energy through deliberate thought.
 
- Here is a summary:
+ 
 
 • People often struggle with money because they focus too much on the lack of it rather than abundance. It is important to note whether you are speaking positively or negatively about money. Speaking negatively about money will attract more lack. 
 
@@ -327,7 +327,7 @@ In summary, you cannot control others or be responsible for their experiences. F
 
 • You are here as creators, not accumulators. Looking for an ending place of happiness defies your creative nature. Focus on feeling happy now. Creation and happy results will follow.
 
- Here is a summary:
+ 
 
 • Your feelings of lack can slow down your progress and keep what you want from coming to you. Focus on the positive and good-feeling thoughts to attract what you want faster. 
 
@@ -351,7 +351,7 @@ In summary, you cannot control others or be responsible for their experiences. F
 
 72
 
- Here is a summary:
+ 
 
 - A downward financial spiral is caused by focusing on lack and scarcity. By worrying about losing money or possessions, you attract more of the same. 
 
@@ -383,7 +383,7 @@ That’s the essence of reversing a downward financial spiral, according to Abra
 
 • Living abundantly is not magic, though it may feel that way. It comes from understanding and applying the laws of the universe, like the law of attraction. Your life experience brings you knowledge, so you have to find your own way to abundance through deliberate improvement of your thoughts and feelings.
 
- Here is a summary:
+ 
 
 • You deny yourself access to resources by focusing on your lack of time and overwhelmed schedule. This creates a shortage mentality and blocks improvement. You need to tell a different story and realize the Universe wants to help you.
 
@@ -419,7 +419,7 @@ That’s the essence of reversing a downward financial spiral, according to Abra
 
 87
 
- Here is a summary:
+ 
 
 • Your thoughts create your physical experience and reality. The way you feel and think affects your health and Well-Being. 
 
@@ -437,7 +437,7 @@ That’s the essence of reversing a downward financial spiral, according to Abra
 
 Does this help summarize the key ideas about using your thoughts to maintain wellness and support recovery? Let me know if you have any other questions.
 
- Here is a summary:
+ 
 
 • It is difficult to visualize wellness when you are in acute discomfort or pain. The best time to visualize is when you are feeling your best.
 
@@ -473,7 +473,7 @@ Does this help summarize the key ideas about using your thoughts to maintain wel
 
 • It may take time and deliberate effort to improve after trauma or disease. But you have the power to adjust your thoughts and create the changes you desire. Have faith in the process.
 
- Here is a summary:
+ 
 
 • From any state you stand in, you can achieve what you desire by focusing on what pleases you rather than your current condition. Your beliefs limit what you can create. 
 
@@ -487,7 +487,7 @@ Does this help summarize the key ideas about using your thoughts to maintain wel
 
 The key points are that health and well-being stem from alignment and good feeling thoughts, not conditions themselves. You have the power to positively influence your health and wellness through changing your thoughts and vibration. This applies even in extreme conditions, as demonstrated by the possibility of achieving a euphoric, pain-free state when in the jaws of a lion. Pain and suffering are not inherently linked and can be separated through mental and emotional control.
 
- Here is a summary:
+ 
 
 • You are an eternal being that existed before your current physical incarnation. The “you” that was born into your current body carried with it the balance of thoughts and vibrations from those prior experiences. 
 
@@ -503,7 +503,7 @@ The key points are that health and well-being stem from alignment and good feeli
 
 105
 
- Here is a summary:
+ 
 
 • Physical conditions are created through thought and belief, not by chance or luck. One’s beliefs and thoughts create the experiences in their reality.
 
@@ -521,7 +521,7 @@ The key points are that health and well-being stem from alignment and good feeli
 
 • Do not condemn medicine, but know you have the power of creation within you. Validation comes from alignment with your source, not what others say.
 
- Here is a summary:
+ 
 
 • Follow through with actions inspired by your well-being, but do not ask the medical community to cure misaligned energy. They are focused on finding problems, which perpetuates illness. 
 
@@ -551,7 +551,7 @@ The revised story focuses on your personal empowerment and alignment. It emphasi
 
  I apologize, upon reviewing your prompt, I do not actually have a summary for that. My previous response was an error.
 
- Here is a summary:
+ 
 
 - Your attention to lack attracts more lack. Focusing on what you don't want attracts more of what you don't want. Shift your focus to what you do want. 
 
@@ -569,7 +569,7 @@ The revised story focuses on your personal empowerment and alignment. It emphasi
 
 - Negative emotions are an indicator that your thoughts are not in harmony with your greater well-being and inner being. Thoughts of illness restrict the flow of energy between you and your inner being. Think thoughts of wellness and wholeness to restore the full flow of beneficial energy.
 
- Here is a summary:
+ 
 
 You have absolute control over your body and experiences through your thoughts and beliefs. Your body responds directly to your thoughts, so focusing on thoughts that feel good will attract well-being and health. 
 
@@ -583,7 +583,7 @@ The path to your desires is through aligning your thoughts with your inner being
 
 In summary, you have the power to create health and well-being through maintaining positive focus and alignment between your thoughts, desires and inner being. Follow your guidance and ignore those who would dissuade you from your path. Create the experiences you want through visualization and expectation. You need only believe to see the manifestation of your beliefs.
 
- Here is a summary:
+ 
 
 • Your weight is the result of your thoughts and energy alignment, not just the food you eat or exercise you do. Two people can have the same diet and exercise but get opposite results based on their thoughts and alignment. 
 
@@ -721,7 +721,7 @@ This type of story will create a much different experience of your career path a
 
 154
 
- Here is a summary:
+ 
 
 The author feels frustrated that some less capable and hardworking colleagues are progressing more in their careers and getting paid more. The author has been working diligently but feels unappreciated and unrewarded. The author realizes it's time to change their mindset and tell a new, more positive story about their career. 
 

@@ -651,7 +651,7 @@ The overall theme is to employ deceptive and indirect strategies to divide, misl
 
 - Liu Ji emphasized proper scouting and reconnaissance, occupying advantageous positions, avoiding frontal attacks on entrenched enemies, and recognizing deceptive moves as key principles of military maneuvering and warfare.
 
- Here is a summary:
+ 
 
 The Shu general was to attack the east. That night, the Shu army did attack in the east. However, because the perceptive Wei commander had been warned, the Wei army was prepared and did not suffer a loss.
 

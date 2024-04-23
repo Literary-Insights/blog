@@ -33,7 +33,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - The book aims to provide an integrative perspective on mind, brain, body, and environment.
 
- Here is a summary:
+ 
 
 The author argues that the CYC project is fundamentally flawed in its attempt to create artificial intelligence and understanding. The reason is that CYC lacks adaptive responses to the real world and a fluent coupling between the system and the environment. Even simple creatures like cockroaches display a kind of practical intelligence and robust flexibility that current computer systems lack. The author says that intelligence and understanding arise not from manipulating explicit knowledge structures but from tuning responses to the real world in a way that allows embodied creatures to sense, act, and survive. 
 
@@ -83,7 +83,7 @@ Does this summary accurately reflect the key points being conveyed in the introd
 
 That covers the essence of the key ideas, projects, and trends discussed in the passage on the development of autonomous robots. Please let me know if you would like me to explain or expand on any part of the summary.
 
- Here is a summary:
+ 
 
 - The simulated cockroach Periplaneta Computatrix uses a neural network controller for hexapod locomotion. Each leg has its own pattern generator but they are coordinated through inhibitory links. It can demonstrate different gaits like tripod or metachronal. 
 
@@ -99,7 +99,7 @@ That covers the essence of the key ideas, projects, and trends discussed in the 
 
 - In summary, the new robotics revolution shows that adaptive success can be achieved without a central planner or detailed world model, through the coordinated problem-solving of multiple quasi-independent devices. But representations still have an important role when used judiciously.
 
- Here is a summary:
+ 
 
 The criticism that autonomous agents employ integrated, symbolic models of the world is apt in some cases but an overgeneralization. There are two main reasons why:
 
@@ -117,7 +117,7 @@ In summary, the key ideas are:
 
 3) Human perception may be more cue-dependent and less model-based than it seems. We perceive less rich, enduring representations of the world than our experiences suggest.
 
- Here is a summary:
+ 
 
 1) Recent research suggests that intercepting a moving object may not require actively computing its trajectory. A simpler strategy of running so as to keep the angular acceleration of the object's elevation in your visual field at zero can achieve interception effectively. This avoids computational costs and relies on detecting minimal parameters required for the task. 
 
@@ -131,7 +131,7 @@ In summary, the key ideas are:
 
 6) The motto "Fast, cheap, and out of control" captures the vision of fluent, robust systems that emerge from interactions between components and environment. Though seeming complex, human intelligence may also rest on ecological tricks and strategies rather than central world models. We must look to nature and simulation to gain insight into such unintuitive systems.
 
- Here is a summary:
+ 
 
 - Action loops refer to the intricate interplay between perception, cognition, and action. Our knowledge and problem solving emerge from the dynamic interactions between mind, body, and environment. 
 
@@ -141,7 +141,7 @@ In summary, the key ideas are:
 
 - Overall, these findings suggest that cognition emerges from the interdependent interactions between perception, action, and the environment. Knowledge and skills tend to be grounded in specific action contexts. The mind, the body, and the world are deeply intertwined.
 
- Here is a summary:
+ 
 
 Development can be characterized as "soft assembly" rather than following a predetermined "blueprint." Soft assembly refers to development that is robust and adaptive to changes and individual differences. It emerges from the interaction of multiple internal and external factors, rather than being orchestrated by a single central mechanism. 
 
@@ -159,7 +159,7 @@ This multi-factor, interactive view suggests that development is decentralized r
 
 In summary, development can be seen as the gradual self-organization of cognitive, physical, and behavioral abilities through the multi-directional interaction of internal and external factors. There is no predetermined blueprint or central control mechanism dictating a fixed progression.
 
- Here is a summary:
+ 
 
 - Soft assembly: Solutions emerge from the interactions of multiple, decentralized components rather than being centrally designed. This yields a mix of robustness and variability tailored to context.
 
@@ -175,7 +175,7 @@ In summary, development can be seen as the gradual self-organization of cognitiv
 
 - In sum, cognition exploits real-world action and structure to reduce computational demands. Adaptive responses emerge from the interaction of mind, body and world.
 
- Here is a summary:
+ 
 
 - The mind is not confined within the brain but extends to the body and external environment. The brain interacts with the body and world in an iterative process of pattern completion. 
 
@@ -189,7 +189,7 @@ In summary, development can be seen as the gradual self-organization of cognitiv
 
 - The extended mind perspective suggests that human intelligence emerges from the interaction of neural and non-neural resources, both within and outside the body. The mind leaks into the world, and the world leaks into the mind. An understanding of human intelligence requires understanding how the mind couples with external resources to form extended cognitive systems.
 
- Here is a summary:
+ 
 
 - Traditional AI relied on rule-and-symbol approaches, focusing on manipulating symbols according to rules and using large knowledge bases. Some examples are naive physics, STRIPS, and SOAR. 
 
@@ -201,7 +201,7 @@ In summary, development can be seen as the gradual self-organization of cognitiv
 
 - Connectionism and neural networks provided a new, biologically inspired approach that was fundamentally different from traditional symbolic AI. The models were more neurally plausible and made contact with neuroscience. Yet the models were still limited and simplified compared to the human brain.
 
- Here is a summary:
+ 
 
 • Neural networks encode knowledge as connection strengths between units, not as symbolic rules like in CYC and SOAR. This is a more biologically plausible format for how brains represent knowledge. 
 
@@ -213,7 +213,7 @@ In summary, development can be seen as the gradual self-organization of cognitiv
 
 • Early AI may have mistakenly attributed to internal computation what is really the result of basic pattern completers interacting with a structured environment. Classical AI models may reflect the abilities of embodied, environmentally-embedded neural networks rather than the innate power of disembodied reasoning.
 
- Here is a summary:
+ 
 
 - There is a tendency to assume that the cognitive capabilities of an agent stem entirely from the agent's naked brain. But in reality, an agent's cognitive abilities emerge from the interaction between the brain and the external environment.
 
@@ -225,7 +225,7 @@ In summary, development can be seen as the gradual self-organization of cognitiv
 
 - In summary, the classical view of the mind as an isolated information processor is mistaken. Cognition is deeply shaped by interactions between the brain, body, and external structures in the environment. The boundaries between mind and world are not as clear as traditionally assumed.
 
- Here is a summary:
+ 
 
 - Slime molds are acellular organisms that can move and change shape. 
 - They feed on bacteria and other microorganisms. 
@@ -243,7 +243,7 @@ In summary, development can be seen as the gradual self-organization of cognitiv
 
 The key points are that slime molds show primitive collective behaviors, navigation, and problem-solving abilities that emerge from the local interactions of individual cells. They provide a useful model system for understanding self-organization and swarm intelligence in biology.
 
- Here is a summary:
+ 
 
 Source: The source of the passage is Morrissey, 1982. 
 
@@ -265,7 +265,7 @@ Source: The source of the passage is Morrissey, 1982.
 
 - An example of human collective behavior and indirect emergence is ship navigation, where crew members respond to the environment and each other to coordinate their actions without an overall plan.
 
- Here is a summary:
+ 
 
 1. Many of the specified duties for members of a navigation team are in the form "Do X when Y" - i.e. the team members respond to local environmental cues by performing certain behaviors. These behaviors then affect the environment for other team members, who respond in turn. This process continues until the overall task is completed. 
 
@@ -317,7 +317,7 @@ Source: The source of the passage is Morrissey, 1982.
 
 So the key idea is really using simulated evolution as a way to gain insight into naturally evolved, embodied adaptive systems - especially those that at first seem opaque or messy when viewed from an engineering design stance. Simulated evolution is a way to "catch a tinkerer to catch a tinkerer".
 
- Here is a summary:
+ 
 
 - Experiments with simulated robots that have leg sensors show that they can walk smoothly when sensors are on, switch to clumsy walking without sensors, and even automatically adapt to changes like different leg lengths. This shows the power of simulated evolution to find solutions that balance sensory feedback and internal pattern generation. 
 
@@ -335,7 +335,7 @@ So the key idea is really using simulated evolution as a way to gain insight int
 
 - In summary, while simulated evolution is a useful tool, researchers must be aware of its limitations and how solutions can depend in unexpected ways on real-world environments and interactions. The debate between simulations and real-world robotics continues, with value in both approaches.
 
- Here is a summary:
+ 
 
 • Highly sensitive devices can overreact to small changes in the environment or to noise within the system. Using less precise components can help avoid this by damping responses to insignificant perturbations. 
 
@@ -349,7 +349,7 @@ So the key idea is really using simulated evolution as a way to gain insight int
 
 • The Watt governor example shows how a physical system can solve a control problem without explicit representation and computation. Its operation can be described by dynamical systems theory but not as a computational process.
 
- Here is a summary:
+ 
 
 - Componential explanation: Explaining a complex system by specifying the capacities and roles of its individual components and how they are organized. This is like traditional reductionistic explanation. It aims to explain higher-level phenomena in terms of lower-level components and interactions.
 
@@ -369,7 +369,7 @@ A simple example is convection rolls in heated liquid, which emerge from the col
 
 In both cases, emergence provides an alternative to more "componential" explanations that attribute system success primarily to the activity of individual controlling components within the system. Emergent explanation focuses on how adaptive success arises from the collective dynamics of a system and its interactions with the environment.
 
- Here is a summary:
+ 
 
 The key idea is that emergent phenomena are best understood by attention to collective variables - variables that track patterns resulting from interactions among multiple elements. This includes uncontrolled variables, which arise from complex interactions and are hard to manipulate directly. But it also includes controlled variables, like temperature gradients, that govern system behavior. 
 
@@ -383,7 +383,7 @@ In summary, emergence arises from complex, collective interactions within and be
 
 Does this summary accurately reflect the key ideas and concepts around emergence and explanation from the original text? Let me know if you would like me to clarify or expand on any part of the summary.
 
- Here is a summary:
+ 
 
 - Emergent phenomena may arise from simple control parameters directing a system through a sequence of states that are best described by collective variables. Emergence is linked to finding the right explanatory variables that capture a system's behavior. 
 
@@ -435,7 +435,7 @@ Does this summary accurately reflect the key ideas and concepts around emergence
 
 Does this summary accurately reflect the key points about divisions of labor as discussed? Let me know if you would like me to clarify or expand my summary in any way.
 
- Here is a summary:
+ 
 
 Neuroscientific research is crucial for a full understanding of the mind and cognition. Although some early work in cognitive science downplayed the importance of the biological brain, focusing instead on abstract computational models, connectionist models helped close the gap between computation and neural implementation. 
 
@@ -452,7 +452,7 @@ A full understanding of the mind will require theories and models that integrate
 
 In summary, while early work in cognitive science downplayed the brain in favor of abstract models, contemporary neuroscience is demonstrating the necessity of understanding the complex, multilevel system that is the biological brain. Connectionist models helped reestablish the importance of neural networks, but a truly comprehensive understanding of cognition will require even more - integrating insights across genes, development, neural pathways, and environment. The brain, not any single model, must be the primary focus.
 
- Here is a summary:
+ 
 
 The connection between connectionist work and actual brain theory was often weaker than hoped. But as connectionism matured, attempts to bridge this gap increased. A synthesis of computational and neuroscientific views seemed possible. 
 
@@ -474,7 +474,7 @@ Examples:
 
 In summary, current neuroscience suggests cognition relies on spatially distributed, interacting representations closely linked to perception and action, with complex control of basic abilities on which more sophisticated skills are built. This fits well with embodied/embedded approaches. The brain seems well designed for fluent real-time interaction, not abstract reasoning. Innate structure provides initial biases suited to natural environments.
 
- Here is a summary:
+ 
 
 - Sensory information enters the visual system through two main pathways: the magnocellular (M) stream and the parvocellular (P) stream. The M stream handles rapid changes and motion, while the P stream handles form, color, and fine detail. 
 
@@ -492,7 +492,7 @@ In summary, current neuroscience suggests cognition relies on spatially distribu
 
 - In summary, the visual system is highly complex but can still be understood as separating, filtering, and routing information to make it available for perception and adaptive control of behavior. Neural control structures that modulate information flow are key to these functions.
 
- Here is a summary:
+ 
 
 The function of convergence zones is to allow the brain to generate widespread patterns of neural activity by sending signals back to multiple areas involved in early processing. When we access knowledge, we use these higher-level signals to reactivate patterns characteristic of the knowledge in question. Different types of knowledge may require activating different convergence zones. A hierarchy of convergence zones can explain how damage to different brain regions impairs different types of knowledge. 
 
@@ -506,7 +506,7 @@ Neural control hypotheses mix radicalism and traditionalism. They offer decentra
 
 Contemporary neuroscience also mixes radicalism and traditionalism. It retains componential, information-processing analyses but with a decentralized, dynamic systems perspective. Notions of internal representation are being refined, based on research into neural populations' complex response profiles, the role of environment, distributed representation, and neurons as multidimensional filters. Representation is an evolving process, not a pregiven map. Cognition emerges from a multidimensional field of locally encoded information, not a unified representational format.
 
- Here is a summary:
+ 
 
 - Representation is a controversial concept in cognitive science. There are disagreements over its precise definition and necessary conditions. 
 
@@ -520,7 +520,7 @@ Contemporary neuroscience also mixes radicalism and traditionalism. It retains c
 
  I apologize, but I do not have enough context or information in the prompt "ate registration) amen" to provide a useful summary.
 
- Here is a summary:
+ 
 
 The key arguments and evidence presented by Thelen and Smith show that learning skills such as walking and reaching emerge from the interaction of neural, bodily, and environmental factors rather than being controlled by fixed inner programs. For example, they show how stepping in infants can be elicited outside the normal developmental period by suspending the infants in warm water. They also show how individual differences in infants’ motor activity and energy levels lead them to confront different problems and find different solutions in learning to reach. 
 
@@ -530,7 +530,7 @@ The key point is that Thelen and Smith’s work calls for improved, not eliminat
 
 In summary, while Thelen and Smith provide compelling evidence against approaches that see cognition as controlled by fixed inner programs, their work is consistent with an embodied computational and representational perspective. Their findings call for the development of more sophisticated theories in this framework, not the abandonment of the framework altogether.
 
- Here is a summary:
+ 
 
 The arguments presented do not amount to an outright rejection of computationalism or representationalism. Rather, they call into question:
 
@@ -584,7 +584,7 @@ So in summary, capturing the temporal aspects of adaptive behavior may require g
 
 So in summary, while neural and cognitive representations often differ from standard symbolic conceptions, the notion of representation still applies. However, in some cases of continuous reciprocal causation between agent and environment, the representational approach may not apply, as adaptive behavior emerges from the coupling of components rather than being localized within the agent. But these cases do not challenge the importance of representation in general.
 
- Here is a summary:
+ 
 
 The key idea in this passage is that there are two types of problems that strongly demand representational explanations:
 
@@ -606,7 +606,7 @@ This “embodied” perspective has roots in phenomenology, especially the work 
 
 In summary, the embodied perspective suggests intelligent systems do not first build detailed inner mirrors of objective realities and then figure out what to do. Rather, they enact a world in which internal representations, external objects, and embodied interactions are thoroughly and reciprocally interdependent.
 
- Here is a summary:
+ 
 
 The author argues that advanced human cognition depends crucially on our ability to distribute reasoning across external structures, both social and symbolic. Individual human reasoning is cast as a fast, pattern-completing neural process, much like that seen in other animals and robots. But humans are uniquely able to create and exploit social institutions, language, and other environmental structures that complement our basic neural capacities, allowing us to achieve more advanced forms of intelligence. 
 
@@ -616,7 +616,7 @@ In this view, human intelligence depends essentially on our ability to scaffold 
 
 The key ideas are thus: distributed and dissipated reasoning, neural pattern completion as a basic cognitive mode shared with other animals, scaffolding by means of environmental and social structures, and the web of embodied and embedded intelligence created by combining brain, body, and world. Human minds emerge from this wider nexus, not simply from the brain itself.
 
- Here is a summary:
+ 
 
 - The theory of substantive rationality assumes that individuals make rational choices based on a fixed, ordered set of preferences. However, human cognition is bounded and imperfect. Given our limited cognitive abilities, it is surprising that traditional economics, which assumes perfect rationality, has been moderately successful. 
 
@@ -632,7 +632,7 @@ The key ideas are thus: distributed and dissipated reasoning, neural pattern com
 
 In summary, the main argument is that institutional and environmental scaffolding, not individual rationality, explains the success and failures of traditional economics. Strong external constraints reduce the role of individual psychology, enabling the model of substantive rationality. Without such scaffolding, individual cogitation comes to the fore, and the model breaks down.
 
- Here is a summary:
+ 
 
 - Connectionist models like artificial neural networks challenge the classical view of cognition as involving explicit rules and linguistic representations. They rely on pattern recognition and heuristics instead of logical reasoning. 
 
@@ -646,7 +646,7 @@ In summary, the main argument is that institutional and environmental scaffoldin
 
 The key idea is that human rationality is bounded, but we have developed social and cultural structures that help transcend these limitations and enable complex problem solving. Communication within and between these structures plays an important role in either enhancing or diminishing their effectiveness. A multi-level analysis that considers how structures at different scales interact and influence each other will be needed to fully understand human cognitive abilities.
 
- Here is a summary:
+ 
 
 • Language is commonly viewed primarily as a means of communication that allows us to share ideas. While this is true, it overlooks the role of language as a cognitive tool. 
 
@@ -658,7 +658,7 @@ The key idea is that human rationality is bounded, but we have developed social 
 
 • The summary conveys the key idea that language should not be viewed solely as a medium of communication. Rather, it fundamentally acts as a cognitive tool that enhances our mental capacities by reframing difficult tasks into more tractable forms. In short, language boosts our cognitive success through a double adaptation to both our brains and our goals.
 
- Here is a summary:
+ 
 
 The passage discusses the idea that language serves purposes beyond just communication. Several thinkers have proposed that language profoundly shapes human thinking and problem-solving. 
 
@@ -672,7 +672,7 @@ Daniel Dennett proposed that language inputs may actually reprogram brain comput
 
 In summary, these views propose that language shapes thinking in profound and complex ways. It serves not just to convey information between individuals but also as a tool for guiding our own behavior, restructuring our cognitive abilities, and enabling uniquely human forms of thought and problem-solving.
 
- Here is a summary:
+ 
 
 - Daniel Dennett argues that human consciousness and advanced cognitive abilities arise from the interaction between the brain's innate capabilities and cultural/linguistic influences. While humans have some biological differences from other animals, our advanced cognition depends heavily on learning from culture and language. 
 - Exposure to culture and language alone is not enough; humans have a biological capacity to benefit from these external resources. But the changes to the brain may be relatively superficial. Language and culture provide tools that complement the brain's native modes of thinking, rather than profoundly altering them.
@@ -686,7 +686,7 @@ In summary, these views propose that language shapes thinking in profound and co
 
 The summary outlines Dennett's view that language and culture provide cognitive tools which complement the brain's innate abilities, rather than profoundly restructuring them. A key way this works is by allowing us to offload computational work onto external symbolic representations, through mechanisms like storing information externally, using signs and labels to simplify environments, using language to scaffold learning, coordinating action through communication, and "chunking" problems into more tractable parts. Although language use depends on an ability to work with external symbols, the brain's core capacities are seen as largely unchanged.
 
- Here is a summary:
+ 
 
 Explicitly planning our schedules and to-do lists  helps coordinate our actions and reduces the cognitive load required for deliberating and reassessing options on the fly. Plans provide stability and guide our actions, though we revise them when needed in response to new information.
 
@@ -696,7 +696,7 @@ The linguistic encoding of thoughts enables communication with others, allowing 
 
 Connectionist networks are constrained to explore at the edges of current knowledge, so current knowledge filters the space of options explored and possible new ideas. Linguistic communication allows traversing greater intellectual distances by building on others' perspectives.
 
- Here is a summary:
+ 
 
 - Language allows ideas to spread between individuals, enabling the construction of complex intellectual progressions that would be impossible for any single individual due to path dependence. 
 - An idea that only one person can generate may flourish when shared with another person with a different intellectual background. Ideas can spread between people, navigating around individuals' intellectual limitations. 
@@ -712,7 +712,7 @@ Connectionist networks are constrained to explore at the edges of current knowle
 - Formulating thoughts in words turns them into objects we can have further thoughts about. The act of linguistic formulation creates structures for subsequent thoughts to attach to.
 - Inner speech may make our own thoughts into objects we can reflect on, according to Jackendoff. Linguistic formulation is key to turning our thoughts into objects of attention and reflection.
 
- Here is a summary:
+ 
 
 - Language allows us to engage in complex thinking by making thoughts available to focused attention and further mental operations. It allows us to isolate elements of thought, keep abstract ideas in working memory, and critically analyze our own thinking. 
 
@@ -728,7 +728,7 @@ Connectionist networks are constrained to explore at the edges of current knowle
 
 - In summary, language should be seen as a complementary cognitive artifact that extends human thinking. It is shaped by and shapes human cognition through a symbiotic, co-evolutionary relationship.
 
- Here is a summary:
+ 
 
 - The boundary between mind and world is porous and hard to define precisely. Our cognitive capacities are deeply entangled with and scaffolded by external resources like language, symbols, and tools.
 
@@ -760,7 +760,7 @@ Connectionist networks are constrained to explore at the edges of current knowle
 
 7. In sum, biological intelligence emerges from the dense reciprocal interconnections between brain, body, and world. Each shapes and transforms the other in deep and fundamental ways.
 
- Here is a summary:
+ 
 
 - The true lesson of embodied and embedded cognition research is not that we can succeed without internal representation and computation. Rather, it is that the kinds of internal representation and computation we employ are adapted to complement the settings in which we act. We must consider both internal and external factors.
 
@@ -778,7 +778,7 @@ Connectionist networks are constrained to explore at the edges of current knowle
 
 - In short, we must move past an internalist view of cognition that focuses on the brain alone. Cognition arises from embodied and embedded interactions across brain, body, and world. We must understand each part in its own terms, not by projecting our experience onto the brain.
 
- Here is a summary:
+ 
 
 - The author argues that the notion of "concepts" that humans have does not match the actual nature of the cognitive and physical mechanisms that underlie them. The unity of concepts exists primarily due to the significance they have for human language and culture, not because of the nature of human thought itself. 
 
@@ -835,7 +835,7 @@ Stein, L., 19
 Stigmergy, 75, 76, 186,191
 STRIPS program, 54
 
- Here is a summary:
+ 
 
 - Artificial neural networks provide a candidate for modeling real neural systems. However, real neural systems have many features not captured in most ANNs, like asymmetric and specialized connectivity. Despite differences, ANNs are closer to biological neural systems than classical AI. The key similarity is the reliance on associative memory and pattern completion. 
 
@@ -857,7 +857,7 @@ STRIPS program, 54
 
 - Cybernetics aimed to understand adaptive, self-regulating systems. Early work by Ashby and others helped inspire recent embodied/embedded approaches to cognitive science. These approaches view the agent/environment system as forming a feedback loop, with cognition arising from the interaction between the two.
 
- Here is a summary:
+ 
 
 1. Complex systems, like the mind and brain, can be analyzed into smaller, "dumber" components that collectively give rise to intelligent behavior. These components are simple enough to actually build and implement physically. Digital circuits are an example of such "stupid" but implementable components. 
 
@@ -966,7 +966,7 @@ The selection includes works from philosophy, psychology, neuroscience, artifici
 - Dennett, D. 1991. Consciousness Explained. Defends a theory of consciousness as based on the brain's model of its own activities. 
 - Dreyfus, H. 1979. What Computers Can't Do. Critiques early symbolic models of intelligence and argues human expertise depends on embodied skills rather than abstract reasoning.
 
- Here is a summary:
+ 
 
 Dreyfus, H. 1991. Being-in-the-World: A Commentary on Heidegger’s Being andTime, Division I. - Summarizes and interprets Heidegger's views on human existence and cognition being embedded in the world.
 

@@ -301,7 +301,7 @@ In summary, the New Left enacted a "long march" through academia to dominate it 
 
 - Davis created an intellectual foundation later translated into academic disciplines and adopted by the progressive left. Her ideology became influential in shifting left-wing politics towards identity and trauma.
 
- Here is a summary:
+ 
 
 Angela Davis and Eldridge Cleaver argued that America's Founding Fathers and historic heroes like Washington, Jefferson, Hamilton, and Lincoln were not noble figures but oppressors and criminals who established and maintained slavery and white supremacy. They sought to discredit these traditional American heroes in order to undermine patriotism and national pride. According to them, Lincoln did not truly free the slaves but just created new forms of oppression, and the civil rights movement also failed to achieve true liberation. 
 

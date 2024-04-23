@@ -294,7 +294,7 @@ In summary, connectedness and unity come from sharing purpose, awareness, narrat
 
 The key is not just criticizing damaging mindsets but systematically replacing them by embedding positive thinking habits into the core routines and rhythms of your culture. As the leader, you shape the boundaries of thinking.
 
- Here is a summary:
+ 
 
 The author contrasts two types of thinking - "can do" thinking versus "can't be done" thinking. He argues that leaders need to set boundaries to prevent limiting, negative "can't be done" thinking from taking hold in themselves, their teams, and their organizations. 
 
@@ -304,7 +304,7 @@ The author helped the team identify this negative thinking pattern during a team
 
 The key lesson is that leaders need to be aware of negative, limiting thinking and set boundaries to prevent it from defining what their teams see as possible. Leaders should foster a "can do" attitude and optimism about what can be achieved.
 
- Here is a summary:
+ 
 
 The author explains the concept of "learned helplessness" - when people feel they have no control over negative events, they eventually give up trying to improve their situation. This was demonstrated in experiments where dogs subjected to unavoidable electric shocks eventually stopped trying to avoid shocks even when they could. 
 

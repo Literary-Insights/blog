@@ -351,7 +351,7 @@ The key is to invest primarily in income-producing assets while limiting specula
 
 - In summary, the article makes a strong case against stock picking for the average investor, arguing it is tough to know if you can beat the market and that most people can't. Broad index funds are presented as a simpler, more reliable alternative.
 
- Here is a summary:
+ 
 
 - The critical insight is that most stock markets go up over the long term despite short-term volatility. This suggests you invest as soon as possible rather than trying to time the market.
 
@@ -379,7 +379,7 @@ The key is to invest primarily in income-producing assets while limiting specula
 
 The takeaway is that historically, investing immediately tends to provide better returns than trying to time the market, even if it feels riskier. You're better off investing directly in a balanced portfolio based on risk tolerance.
 
- Here is a summary:
+ 
 
 The article explains why dollar-cost averaging (DCA) tends to outperform trying to "buy the dip" in the stock market, even if you could time the market perfectly.
 

@@ -139,7 +139,7 @@ Does this help summarize the key points from the excerpt? Let me know if you nee
 
 - Taking action builds confidence to face future fears and hard tasks.
 
- Here is a summary:
+ 
 
 The author made a daring move to an unfamiliar country to find greater meaning and fulfillment in life. Though the journey was difficult, it led to tremendous personal growth and showed that stepping into the unknown opens up new possibilities. 
 

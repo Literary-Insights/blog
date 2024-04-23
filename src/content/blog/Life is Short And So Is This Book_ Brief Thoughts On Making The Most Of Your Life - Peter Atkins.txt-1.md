@@ -38,7 +38,7 @@ BOOK LINK:
 
 The key is to focus on what's truly important, not just being busy. Prioritize and eliminate distractions. Make time for creative thinking. Slow down and appreciate life. Use your limited time wisely.
 
- Here is a summary:
+ 
 
 The key is to avoid doing "really dumb things" that can have serious negative consequences. This includes unrecoverable errors like committing crimes or limiting your options by not getting a good education. It also includes denial - ignoring obvious problems or wishing they will just go away. Form good habits early in life. Listen to your instincts when something feels like it may have a bad outcome. Proceed carefully when you notice warning signs. Don't assume you can easily change people or situations. Making dumb mistakes is unavoidable, but avoid the really dumb things that can ruin your life. Focus on developing wisdom to know the difference.
 

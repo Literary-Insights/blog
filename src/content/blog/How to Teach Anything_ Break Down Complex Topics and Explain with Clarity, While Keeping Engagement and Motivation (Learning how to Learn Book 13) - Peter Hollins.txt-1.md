@@ -32,7 +32,7 @@ BOOK LINK:
 
 - Effective teaching combines elements of these approaches tailored to the topic, lesson objectives, and student needs and abilities. It requires breaking down complex ideas and connecting new knowledge to prior understanding.
 
- Here is a summary:
+ 
 
 The methodology of having students think through problems themselves rather than simply being given information by the teacher has benefits but also drawbacks. It fosters curiosity but is difficult to prepare for as an instructor. If students cannot answer the prepared questions, it may lower their confidence. 
 
@@ -56,7 +56,7 @@ To teach effectively according to these theories, instructors should pay attenti
 
 - Scaffolding techniques like gradual demonstration, modeling, questioning, instruction and feedback can help build mastery of a topic incrementally from basic to complex levels.
 
- Here is a summary:
+ 
 
 - Teaching is about gradually handing over control from teacher to student through scaffolding techniques like "I do, we do, you do."
 
@@ -72,7 +72,7 @@ To teach effectively according to these theories, instructors should pay attenti
 
 - Teachers should see their role as constructing an accurate yet simplified vision or map to guide students through complex material in a methodical, step-by-step manner.
 
- Here is a summary:
+ 
 
 The passage discusses strategies for a teacher to help a student who is struggling to grasp certain concepts in a topic. Specifically, it's about a student who is having difficulty with magnetism. 
 
@@ -196,7 +196,7 @@ Taking effective notes requires actively engaging with course material through t
 
 - Overall, PBL is an effective instructional approach as it encourages self-directed, active, exploratory and analytical learning through problem-solving. This leads to greater mastery of material compared to passive absorption of facts.
 
- Here is a summary:
+ 
 
 - The passage discusses using problem-based learning (PBL) to acquire new skills through solving problems. 
 
@@ -280,7 +280,7 @@ The key is giving students opportunities to actively engage with and apply the l
 
 - Effective teaching also depends on creating an environment conducive to learning through proper alignment of student, teacher, material and environment. Understanding motivation is also important.
 
- Here is a summary:
+ 
 
 - Intrinsic motivation is key to inspiring students, as there is no universally appealing outcome. Motivation depends on an individual's personal perceptions and assessment of effort versus reward. 
 
@@ -306,7 +306,7 @@ The key is giving students opportunities to actively engage with and apply the l
 
 - Academic buoyancy refers to the ability to persist through learning challenges. Traits like confidence, composure, commitment and sense of control help students overcome obstacles to learning.
 
- Here is a summary:
+ 
 
 - Grit and perseverance are what ultimately separate successful learners. Will and determination can overcome challenges more than any specific techniques. 
 
@@ -322,7 +322,7 @@ The key is giving students opportunities to actively engage with and apply the l
 
 - Resilience is the ability to adapt to challenges without lasting difficulties. It involves perceiving failures as temporary learning opportunities rather than personal flaws. Productive failure recognizes that failing is an important part of the learning process.
 
- Here is a summary:
+ 
 
 - Dilip Kapur conducted a study comparing two groups of students - one that received full teacher instruction and support, and another that received no help and had to solve problems collaboratively on their own. 
 
@@ -340,7 +340,7 @@ The key is giving students opportunities to actively engage with and apply the l
 
 - Teachers should cultivate an environment where students feel safe to take risks, make mistakes, and learn from failure without negative consequences to their self-worth or identity. Both challenge and support are needed for optimal learning.
 
- Here is a summary:
+ 
 
 - Feedback lets students know the effects of their actions and helps them improve performance towards their goals. It should be viewed as a two-way conversation. 
 
@@ -368,7 +368,7 @@ The key is giving students opportunities to actively engage with and apply the l
 
 - Timely, meaningful, and concrete feedback that includes clear next steps is most useful for students. It provides insight into the learning process rather than just praise, criticism, or advice.
 
- Here is a summary:
+ 
 
 The passage discusses advanced teaching techniques and strategies for creating an effective learning environment for students. 
 

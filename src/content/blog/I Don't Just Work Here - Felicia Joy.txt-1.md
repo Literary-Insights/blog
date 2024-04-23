@@ -30,7 +30,7 @@ BOOK LINK:
 
 - They met while working at the global PR firm Edelman and have since partnered to write this book applying their specialized perspectives.
 
- Here is a summary:
+ 
 
 - The authors, Felicia and Elena, met while working at a global communications consulting firm where their professional interests overlapped. They began collaborating on client assignments related to corporate affairs and business transformation. 
 
@@ -44,7 +44,7 @@ BOOK LINK:
 
 - The book is intended for managers, rising leaders, and also addresses the C-suite and boards, recognizing their role in supporting effective culture leadership at different levels.
 
- Here is a summary:
+ 
 
 - Belonging and being part of a group is an important human instinct for survival. Feeling recognized, included and safe in a group helps humans survive threats. 
 
@@ -58,7 +58,7 @@ BOOK LINK:
 
 - Factors like increased education, geographic stability, diversity, social issue awareness, and the millennial generation have contributed to employees viewing work as a place to find community and pursue social purpose as whole people.
 
- Here is a summary:
+ 
 
 - The average person now spends about one-third of their life working, even if working remotely from home. Work takes up a substantial portion of people's lives. 
 
@@ -72,7 +72,7 @@ BOOK LINK:
 
 - But meeting these new expectations is important for attracting and retaining top talent. A sense of belonging at work due to shared values increases job performance and reduces turnover. Exclusion can cause real pain. So companies need to evolve their workplace cultures.
 
- Here is a summary:
+ 
 
 The passage discusses executives and senior leaders who prefer to maintain the status quo of traditional workplace culture rather than change or adapt. It describes how some leaders want to keep the focus solely on productivity and the "working human" rather than the "whole human" or purpose. 
 
@@ -82,7 +82,7 @@ The passage then discusses a case where a tire company faced employee dissatisfa
 
 In contrast, it mentions Delta Air Lines evolving from crop dusting to passenger flights by accepting changing needs, avoiding potential obsolescence. The passage warns leaders resisting change today similarly risk irrelevance, as employees increasingly demand purpose-driven cultures where they can bring their whole selves to work. Silence or dismissing changes will not stop them, it argues, and following the path of adaption is safer for business success.
 
- Here is a summary:
+ 
 
 - The passage discusses the need for managers to develop new skills as community leaders, in order to properly support employees' whole well-being and sense of community at work. 
 
@@ -96,7 +96,7 @@ In contrast, it mentions Delta Air Lines evolving from crop dusting to passenger
 
 In summary, the passage advocates for managers to evolve their role to that of community leaders, in order to effectively support today's workforce needs through relationship-building, trust and a well-being focused mindset and skillset.
 
- Here is a summary:
+ 
 
 - A survey found that employees had low trust in their organizations, with only 27% trusting their CEO and 43% trusting their direct manager. 
 
@@ -108,7 +108,7 @@ In summary, the passage advocates for managers to evolve their role to that of c
 
 - Creating an inclusive workplace culture is not just the work of the HR department. While job descriptions may not explicitly state it, managers are now expected to demonstrate behaviors that support employee well-being, engagement, and trust as part of their daily responsibilities.
 
- Here is a summary:
+ 
 
 This scenario describes an established healthcare company facing challenges with employee burnout and turnover after the initial surge of the COVID-19 pandemic. The new CEO, Dave, recognizes the need to prioritize workplace culture in order to address these issues and improve financial performance. 
 
@@ -158,7 +158,7 @@ The key takeaways are around learning from past failures, ensuring remote employ
 
 - Chana will facilitate the meeting and get the team to agree on a purpose statement, 3 values and 3 behaviors by the end of it to guide their culture and talent strategy going forward.
 
- Here is a summary:
+ 
 
 - The company held a workshop to define its purpose, values, and behaviors. This would help set cultural expectations for employees. 
 
@@ -170,7 +170,7 @@ The key takeaways are around learning from past failures, ensuring remote employ
 
 - In summary, clearly defining company culture helped the leadership roles better communicate expectations for employees and showcase culture's link to business goals in fundraising. This would allow them to find strong cultural fits and emphasize culture's role in operations and financial results.
 
- Here is a summary:
+ 
 
 The passage discusses the evolving role and importance of managers in today's corporations. It argues that managing people now requires developing a strong sense of personal purpose. 
 
@@ -204,7 +204,7 @@ Key points:
 
 So in summary, it outlines the changing nature of communication needs, how to identify and address clarity/compliance versus identity/values issues, and the importance of communication skills for managing modern workplace culture.
 
- Here is a summary:
+ 
 
 The passage suggests some ways to improve communications around identity and values issues in the workplace. It recommends managers identify such issues by conducting informal surveys or conversations with employees to get their perspectives. 
 
@@ -214,7 +214,7 @@ Key barriers to communicating on these topics include various anxieties felt by 
 
 A framework called "Conversations That Matter" is presented for structuring productive discussions. It involves clarifying the topic, exploring options, and committing to specific actions. Regular practice of skills like active listening, asking open questions, and following up on agreements can help teams have more constructive conversations around challenging identity and values issues. The goal is acknowledging different perspectives respectfully while still making progress.
 
- Here is a summary:
+ 
 
 The passage discusses the importance of listening styles and adapting one's listening approach based on the situation. It draws parallels between Craig Wortmann's teachings on effectively networking at cocktail parties and balancing work goals with enjoyment, and adapting one's listening style for maximum effectiveness and understanding. 
 
@@ -250,7 +250,7 @@ Finally, it discusses common "bad listening" pitfalls like being too opinionated
 
 So in summary, the key is getting to know people individually, establishing a supportive team culture, and communicating openly through feedback to help others improve - all of which require understanding different perspectives to enact empathy in an organization.
 
- Here is a summary:
+ 
 
 - The chapter discusses decision-making in challenging situations, using Allstate CEO Tom Wilson's approach as an example. 
 
@@ -282,7 +282,7 @@ So in summary, the key is getting to know people individually, establishing a su
 
 So in summary, it highlights how negotiation skills are relevant not just for traditional dealmaking roles but also people management, and how the student effectively persuaded the professor of this through sharing her experiences.
 
- Here is a summary:
+ 
 
 The passage discusses the importance of negotiation and persuasion skills in managing workplace culture and relationships. While negotiation involves compromise between two parties, persuasion is about convincing others to do what you want. Both skills are needed in managing internal colleagues and cultural issues. 
 
@@ -290,7 +290,7 @@ It recommends developing persuasion tactics through increasing likability, as re
 
 Compromise is also advocated for as an important leadership skill when dealing with potentially polarizing cultural changes. Not all employee demands can or should be met immediately, so finding middle ground that still makes progress is preferable to refusing to negotiate. Overall, the passage emphasizes soft social and relationship skills like likability, compliments, finding common ground and compromise as being key to effectively managing workplace culture discussions.
 
- Here is a summary:
+ 
 
 The passage discusses the importance of forgiveness in the workplace given increasing diversity. It defines forgiveness as letting go of ill feelings toward someone who has harmed you, regardless of whether they deserve it. Forgiveness is both an emotional and behavioral shift - mentally deciding to forget or reposition the offense as irrelevant, which naturally changes interactions. 
 
@@ -330,7 +330,7 @@ The REACH model is presented as a way to forgive - Recall the hurt, Empathize wi
 
 - Both emphasize the importance of listening to understand different perspectives, taking time for thoughtful decision-making, finding unity among diverse groups, and moving past hurts to enable forgiveness and productive relationships.
 
- Here is a summary:
+ 
 
 - Daniel and Karine are business leaders who work for large, global corporations. They were interviewed about learning the 7 skills advocated in the book.
 
@@ -362,7 +362,7 @@ The key point is the article humanizes the process by showing respected business
 
 - Daniel is open to discussions on challenging topics but recognizes his own limitations. He supports leadership trainings to facilitate understanding.
 
- Here is a summary:
+ 
 
 Daniel and Karine discuss important leadership skills for effectively influencing and representing others. 
 
@@ -386,7 +386,7 @@ Representing views different than one's own requires compartmentalization of per
 
 The key takeaway emphasizes that risk mitigation, through skills training rather than policies or avoidance, allows companies to have necessary conversations about social and political issues while minimizing potential challenges like distraction, division or legal issues that could arise from them. Both viewpoints raise valid considerations for organizations to thoughtfully manage.
 
- Here is a summary:
+ 
 
 - The passage discusses the importance of finding a partner to help navigate new workplace culture expectations and develop leadership skills. 
 
@@ -398,7 +398,7 @@ The key takeaway emphasizes that risk mitigation, through skills training rather
 
 - In closing, having an accountability partner is recommended to truly practice and master the new leadership capabilities needed for today's evolving workplace culture.
 
- Here is a summary:
+ 
 
 This section shares the origin story of chef and cookbook author Samin Nosrat's bestselling cookbook Salt, Fat, Acid, Heat. Nosrat did not initially want to write the book because she felt that "that book won't have beautiful photos." However, her writing mentor Michael Pollan encouraged her to write it based on the strengths of the concept. 
 
@@ -440,7 +440,7 @@ The article discusses the growing recognition in workplaces of the importance of
 
 - Successful navigation of social issues demands bringing together business, legal/compliance and communications teams to thoughtfully consider risks and opportunities. A united, thoughtful approach is best.
 
- Here is a summary:
+ 
 
 The passage discusses managing people or "whole humans" in the workplace. It talks about the benefits and challenges of managing whole humans and considering their well-being, not just performance. There has been a shift in the purpose of work and what employees value, prompting a metamorphosis in workplace culture. 
 

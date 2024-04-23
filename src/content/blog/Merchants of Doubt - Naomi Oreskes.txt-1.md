@@ -30,7 +30,7 @@ BOOK LINK:
 
 - However, the accusations from the think tank served to unfairly attack and undermine the important work of Ben Santer in providing scientific evidence of human-caused climate change.
 
- Here is a summary:
+ 
 
 Benjamin Santer was a climate scientist who authored a chapter in the 1995 IPCC report. He was falsely accused by industry groups and think tanks of tampering with data for political purposes. These accusations, spearheaded by physicists Fred Seitz and Fred Singer, stuck and continued to be spread online and in media. 
 
@@ -38,7 +38,7 @@ Santer spent years defending his reputation but the attacks took a personal toll
 
 Seitz, Singer and others formed an effective network with think tanks and corporations to challenge scientific evidence on issues like climate change, ozone depletion, and acid rain. They questioned scientific consensus and denied agreements, though they were the ones in the minority. They had influence with media and politicians through previous work in weapons programs. Their campaigns aimed to confuse the public and protect industry interests by keeping alive manufactured scientific controversies.
 
- Here is a summary:
+ 
 
 The passage describes how tobacco company R.J. Reynolds launched a large scientific research funding program in 1979, headed by prominent scientist Frederick Seitz. Though the research covered legitimate topics like disease causes, the goal according to industry documents was not just scientific advancement. It was primarily to develop scientific evidence and arguments to defend the tobacco industry against health claims linking smoking to disease. Seitz and others selected projects that took alternative views to the mainstream or explored uncertainties, with the aim of fighting science with science by highlighting gaps and uncertainties in existing research. The intention was to use science public relations to create doubts and remove the "government's excuse" for punishing tobacco taxes and regulations based on health risks. In other words, the purpose was to spread confusion and manufacture doubt about the scientific consensus on smoking harms.
 
@@ -52,7 +52,7 @@ The passage describes how tobacco company R.J. Reynolds launched a large scienti
 
 - Some of the funded research explored other potential causes of disease beyond smoking, like stress or genetics. This helped distract from the evidence that tobacco directly caused cancer and other illnesses. The industry's primary goal was deflecting attention away from this smoking-health causation evidence it knew to be true.
 
- Here is a summary:
+ 
 
 This passage discusses how the tobacco industry created doubt around the scientific consensus linking smoking to cancer in the 1950s. C.C. Little, a geneticist hired by the tobacco industry, promoted the view that cancer risk was genetic rather than caused by smoking. The industry exploited unclear scientific details to spin unreasonable doubt. They highlighted questions without known answers to mislead journalists into thinking the issue was still debated among scientists. 
 
@@ -60,7 +60,7 @@ The industry publicized the work of scientists like Wilhelm Hueper who questione
 
 The industry built ties with the medical community by funding research and fellowships. They ensured industry-nominated scientists had input when the Surgeon General convened an advisory committee on smoking and health in 1962. Overall, the passage describes how the tobacco industry deliberately distorted and manufactured scientific uncertainty to counter the growing consensus that smoking caused cancer.
 
- Here is a summary:
+ 
 
 - In 1964, the landmark US Surgeon General's report on smoking and health was released. It unanimously concluded that smoking caused lung cancer and other diseases, based on over 7,000 scientific studies. This was a major bombshell as smoking rates were high. 
 
@@ -72,7 +72,7 @@ The industry built ties with the medical community by funding research and fello
 
 - Cigarette ads were eventually banned from TV and radio in 1969. Warnings were also required, though sales and profits did not decline for the industry. Smoking rates among the public did start to fall in the late 1960s however.
 
- Here is a summary:
+ 
 
 - Frederick Seitz was a prominent physicist who had worked on the Manhattan Project and later served as president of the National Academy of Sciences. In 1979 he began working as an advisor to R.J. Reynolds. 
 
@@ -84,7 +84,7 @@ The industry built ties with the medical community by funding research and fello
 
 - Seitz saw attacks on tobacco and technology as irrational. He believed Reynolds could support important research that fell outside rigid funding categories. His work for Reynolds was influenced by both gratitude and a growing rift with the scientific establishment.
 
- Here is a summary:
+ 
 
 - Fred Seitz had an uneasy relationship with the masses and environmentalists. He saw them as Luddites trying to reverse progress made by science and technology. 
 
@@ -98,7 +98,7 @@ The industry built ties with the medical community by funding research and fello
 
 - One such witness supported by Seitz was Martin Cline, a famous researcher who did work for the tobacco industry and gave testimony minimizing the link between smoking and cancer.
 
- Here is a summary:
+ 
 
 - It took around 50 years for the tobacco industry to be found guilty under RICO of devising a scheme to defraud consumers about the hazards of cigarettes, which internal documents proved they knew about since the 1950s. 
 
@@ -108,7 +108,7 @@ The industry built ties with the medical community by funding research and fello
 
 - It still took decades for these facts to emerge and public doubt to be dispelled. The industry successfully created confusion by using uncertainties in science against itself. They crafted the mantra of "no proof" to defend tobacco and later apply this strategy to other issues through groups like the George C. Marshall Institute.
 
- Here is a summary:
+ 
 
 - Fredrick Seitz found allies in the 1980s to support Ronald Reagan's Strategic Defense Initiative (SDI or "Star Wars") against objections from most scientists that it was impractical and destabilizing. 
 
@@ -120,7 +120,7 @@ The industry built ties with the medical community by funding research and fello
 
 - Team B reviewed estimates of Soviet missile accuracy, air defenses, and objectives. Their conclusions painting the Soviet Union as a greater threat were then used to argue for rearmament during the Reagan years.
 
- Here is a summary:
+ 
 
 The NIE set up a panel called Team B to provide an alternative analysis of the Soviet threat to the CIA's assessment. Team B was composed entirely of foreign policy hawks who already believed the CIA was underplaying the threat. Richard Pipes chaired the panel, which included figures like Paul Nitze and Paul Wolfowitz. 
 
@@ -156,7 +156,7 @@ Episode 12: Environmental concerns were woven throughout as a recurring theme.
 
 Episode 13: The final and most controversial episode attacked nuclear weapons as an existential threat and promoted nuclear disarmament.
 
- Here is a summary:
+ 
 
 - Scientists at NASA-Ames modeled the climatic impacts of a large-scale nuclear war and found it could cause a "nuclear winter" similar to what killed the dinosaurs after an asteroid impact. Nuclear explosions would inject soot into the atmosphere, blocking sunlight and causing global cooling and freezing temperatures. 
 
@@ -166,7 +166,7 @@ Episode 13: The final and most controversial episode attacked nuclear weapons as
 
 - By the late 1980s, the concept of nuclear winter had become "respectable academic work" as various studies supported the conclusion that nuclear war could lower average land temperatures and severely disrupt global climate and agriculture. This could threaten mass starvation after a war.
 
- Here is a summary:
+ 
 
 - The initial TTAPS projections of nuclear winter causing global cooling of 35°C was narrowed down through further research to 10-20°C cooling by other scientists like at NCAR. 
 
@@ -178,7 +178,7 @@ Episode 13: The final and most controversial episode attacked nuclear weapons as
 
 - Dissatisfied, Teller, Jastrow and Seitz decided to create the George C. Marshall Institute to counter organizations like the Union of Concerned Scientists and advocate for nuclear weapons programs from their perspective, mirroring tactics used by groups like the tobacco industry.
 
- Here is a summary:
+ 
 
 - The Safeguard missile defense system, a scaled-back version of Sentinel, divided the American physics community in the 1960s. Some like Bethe opposed it due to concerns about escalating nuclear tensions, while others like Teller supported it as part of confronting communism. 
 
@@ -192,7 +192,7 @@ Episode 13: The final and most controversial episode attacked nuclear weapons as
 
 - Through these advocacy efforts, Jastrow aimed to shape the debate and build support for SDI by countering skeptical analyses and portraying opposition as aligned with Soviet interests rather than objective science. This mirrored other PR campaigns like those of the tobacco industry.
 
- Here is a summary:
+ 
 
 - Russell Seitz, affiliated with conservative think tanks, launched a full attack on the nuclear winter theory in an article in 1986. 
 
@@ -204,7 +204,7 @@ Episode 13: The final and most controversial episode attacked nuclear weapons as
 
 - Seitz's critique built on a popular book about failures of honesty in science, but he went much further than the authors in attacking the integrity of the entire scientific community and process due to supposed left-wing political bias and control.
 
- Here is a summary:
+ 
 
 In the 1960s, scientists at the Hubbard Brook Experimental Forest in New Hampshire discovered unusually high acid levels in rainwater samples, with a pH as low as 2.85. This was surprising since Hubbard Brook was located far from any major cities or industries. It was one of the first identifications of acid rain in North America. 
 
@@ -212,7 +212,7 @@ The Hubbard Brook research coincided with a shift toward more scientific, proble
 
 This set the stage for acid rain to emerge as a major environmental issue in the coming decades. Scientists would document how acid precipitation was damaging forests and aquatic life over large regions. However, opponents of regulation argued the science was uncertain and action was premature, foreshadowing future debates over the risks of industrial pollution.
 
- Here is a summary:
+ 
 
 - For decades, environmental preservation and regulation had bipartisan support in the US. Major legislation like the Wilderness Act and Clean Air Act passed with overwhelming bipartisan majorities. 
 
@@ -222,7 +222,7 @@ This set the stage for acid rain to emerge as a major environmental issue in the
 
 - While the exact impacts were still being studied, early signs pointed to dangers like reduced forest growth, damage to plants and fish populations. However, skeptics began arguing the science was uncertain as more regulations were proposed. This marked the beginning of the politicization of environmental science in the US.
 
- Here is a summary:
+ 
 
 - By the late 1970s, the scientific consensus was that acid rain was real and caused primarily by sulfur emissions from burning fossil fuels. However, some specifics around impacts and transport through the atmosphere were still being studied. 
 
@@ -236,7 +236,7 @@ This set the stage for acid rain to emerge as a major environmental issue in the
 
 - The Carter administration in the US pursued research programs and a treaty with Canada, but these efforts faced skepticism and opposition to regulation under the Reagan administration that followed in 1980.
 
- Here is a summary:
+ 
 
 - The new Reagan administration did not initially oppose the National Acid Precipitation Assessment Program (NAPAP), which was established to study acid rain. However, their position began to diverge from the scientific community. 
 
@@ -248,7 +248,7 @@ This set the stage for acid rain to emerge as a major environmental issue in the
 
 - In 1982, the Reagan White House commissioned its own review of acid rain evidence from William Nierenberg, despite previous strong conclusions from the National Academy of Sciences and EPA studies that action was needed. This further politicized the issue.
 
- Here is a summary:
+ 
 
 - Bill Nierenberg was a physicist who held many positions at the intersection of science and politics. Like other physicists Frederick Seitz and Robert Jastrow, his career benefited from opportunities arising from the Cold War. 
 
@@ -258,7 +258,7 @@ This set the stage for acid rain to emerge as a major environmental issue in the
 
 - Like other physicists, Singer's career also benefited from Cold War-era opportunities but he had a more contentious relationship with colleagues. His inclusion on the acid rain panel was politically motivated to sow doubts about the scientific consensus on needed action.
 
- Here is a summary:
+ 
 
 - Frederick Seitz was a physicist who initially supported the idea of using satellites for geophysical research during the International Geophysical Year (IGY) in the late 1950s. However, his calculations suggested the proposal was overly optimistic. 
 
@@ -272,7 +272,7 @@ This set the stage for acid rain to emerge as a major environmental issue in the
 
 - Singer contacted Nierenberg seeking a role in the Reagan administration, emphasizing his conservative views. He was ultimately added to the acid rain peer review panel at the White House's request, being the only member without an academic position and affiliated with the conservative Heritage Foundation.
 
- Here is a summary:
+ 
 
 - Fred Singer, who disputed the scientific evidence on acid rain and its harms, was not formally proposed to the Reagan administration's acid rain panel but was known to panel chair Bill Nierenberg due to past correspondence. 
 
@@ -284,7 +284,7 @@ This set the stage for acid rain to emerge as a major environmental issue in the
 
 - Documents Singer circulated disputed previous National Academy work on acid rain and emphasized costs of controls over scientific evidence of harms, reflecting utility industry positions opposed to regulation without more research.
 
- Here is a summary:
+ 
 
 - Fred Singer served on a committee tasked with reviewing the science on acid rain produced by US and Canadian technical working groups. However, Singer seemed more focused on promoting the Reagan administration's political views than objectively reviewing the science. 
 
@@ -298,7 +298,7 @@ This set the stage for acid rain to emerge as a major environmental issue in the
 
 - The appendix appeared aimed at supporting the administration's political views rather than objectively reviewing the science, as the committee was tasked to do. It cast doubt on the report's overall conclusions about acid rain impacts.
 
- Here is a summary:
+ 
 
 - The acid rain panel report was supposed to be an independent scientific review, but the Reagan administration inserted policy views seemingly at odds with the science. 
 
@@ -314,7 +314,7 @@ This set the stage for acid rain to emerge as a major environmental issue in the
 
 So in summary, the Reagan administration inappropriately intervened to alter and delay the release of a key scientific report to downplay evidence on acid rain and avoid regulatory action, contrary to the panel's actual conclusions. This politicization of science had real policy consequences.
 
- Here is a summary:
+ 
 
 - Singer's chapter in the acid rain report was converted to an appendix, likely to avoid getting the full committee's approval, which they had already refused to give. 
 
@@ -328,7 +328,7 @@ So in summary, the Reagan administration inappropriately intervened to alter and
 
 - Documents showed Nierenberg himself made the changes to the executive summary that were requested by Keyworth, the presidential science advisor, without committee approval.
 
- Here is a summary:
+ 
 
 - Efforts to control acid rain through the 1990 Clean Air Act amendments cost about $100 billion in today's dollars but achieved a 54% reduction in sulfur dioxide levels. However, many business groups and publications claimed acid rain was not a serious problem and it was too costly to address it. 
 
@@ -342,7 +342,7 @@ So in summary, the Reagan administration inappropriately intervened to alter and
 
 - While market-based cap and trade systems can work, the cap for sulfates was likely set too high initially due to distorted claims acid rain was not a major issue, and it was not subsequently reduced enough. Command and control may have achieved better environmental outcomes.
 
- Here is a summary:
+ 
 
 - In the 1970s, concerns emerged about potential human impacts on the ozone layer, especially from supersonic transport planes (SSTs). Early studies found water vapor from SSTs would likely not significantly affect ozone or climate. 
 
@@ -352,7 +352,7 @@ So in summary, the Reagan administration inappropriately intervened to alter and
 
 - Johnston published a formal paper in Science in August 1971. It was initially delayed due to tone and lack of citations. His early warnings about potential ozone depletion from aircraft NOx emissions helped bring attention to the issue and need for further study of impacts on the stratospheric ozone layer.
 
- Here is a summary:
+ 
 
 - In 1971, scientist Harold Johnston published a paper warning that supersonic transports (SSTs) could damage the ozone layer. This sparked public debate and Congressional funding of a large multi-year study called the Climate Impact Assessment Program (CIAP). 
 
@@ -364,7 +364,7 @@ So in summary, the Reagan administration inappropriately intervened to alter and
 
 - Government bodies like the National Academy of Sciences and Congress began quickly reviewing evidence on CFCs and ozone depletion, which marked the start of policy debates around restricting CFC emissions.
 
- Here is a summary:
+ 
 
 - In the 1970s, the National Academy of Sciences formed two panels to examine the science around CFCs and their potential impacts on stratospheric ozone: the Panel on Atmospheric Chemistry and the Committee on Impacts of Stratospheric Change. 
 
@@ -378,7 +378,7 @@ So in summary, the Reagan administration inappropriately intervened to alter and
 
 - Ultimately, the panels concluded in 1976 that continued CFC emissions would likely cause steady ozone depletion, prompting calls for regulation within two years. The political process then began moving toward action.
 
- Here is a summary:
+ 
 
 - In 1985, the British Antarctic Survey announced the discovery of severe ozone depletion over Antarctica, known as the "ozone hole". This came as a shock as no known science could explain such low ozone levels. 
 
@@ -400,7 +400,7 @@ So in summary, the Reagan administration inappropriately intervened to alter and
 
 - However, some industry and skeptics continued efforts to challenge the science and downplay human impacts on ozone, seeking to influence policy in a more lenient direction. But the weight of scientific evidence supported stronger controls on ozone-depleting substances.
 
- Here is a summary:
+ 
 
 - In 1987, Donald Hodel proposed a "personal protection plan" against ozone depletion of just wearing hats and long-sleeved shirts, which environmentalists easily criticized as inadequate. 
 
@@ -414,7 +414,7 @@ So in summary, the Reagan administration inappropriately intervened to alter and
 
 - Singer had difficulty getting his views published and accused the scientific community of self-interest in promoting regulations to get grants rather than save the world. He exaggerated issues with CFC replacements that did not yet exist.
 
- Here is a summary:
+ 
 
 - The ozone hole was first detected in the 1980s. Both natural factors like solar effects and meteorology as well as human factors like CFC emissions were investigated as potential causes. 
 
@@ -444,7 +444,7 @@ So in summary, the Reagan administration inappropriately intervened to alter and
 
 So in summary, Singer allied with the tobacco industry to attack the EPA's science on secondhand smoke as part of a wider campaign to undermine the credibility of science seen as damaging to business.
 
- Here is a summary:
+ 
 
 - In 1981, Takeshi Hirayama published a landmark study showing a clear dose-response relationship between husbands' smoking and wives' risk of lung cancer. The more the husbands smoked, the higher the wives' risk of lung cancer, even if the wives didn't smoke. 
 
@@ -484,7 +484,7 @@ So in summary, Singer allied with the tobacco industry to attack the EPA's scien
 
 - The goal was not truly correcting errors but preventing regulation of secondhand smoke by undermining the scientific basis for policies around it. It was a well-funded effort to challenge and discredit science that threatened the tobacco industry.
 
- Here is a summary:
+ 
 
 - The tobacco industry targeted particular journalists they saw as potentially sympathetic to their views, such as Nicholas Wade, P.J. O'Rourke, and Gregg Easterbrook. They closely tracked their work. 
 
@@ -514,7 +514,7 @@ So in summary, Singer allied with the tobacco industry to attack the EPA's scien
 
 So in summary, the EPA report underwent extensive peer review that affirmed and strengthened its conclusions, contradicting the criticisms raised by Singer and Jeffreys.
 
- Here is a summary:
+ 
 
 - The peer reviewers did not address Singer and Jeffrey's criticism of the 90% confidence limit used by EPA because there is no magic to the 95% confidence level commonly used - it is a social convention, not a scientific threshold. Using a 90% limit is still highly confident and reflects strong prior evidence of harm. 
 
@@ -552,7 +552,7 @@ So in summary, the EPA report underwent extensive peer review that affirmed and 
 
 - In summary, it portrays their defense of industries like tobacco as having ideological roots in a Cold War-era skepticism of government attempts to regulate business in the name of public welfare.
 
- Here is a summary:
+ 
 
 - In the late 1970s, several factors drew attention to the potential impacts of climate change, including drought-related famines in Africa and crop failures in the Soviet Union. 
 
@@ -580,7 +580,7 @@ So in summary, the late 1970s saw growing attention to climate impacts and influ
 
 - Congress and scientists still saw value in further research, but the Reagan administration later pushed the issue entirely off the political agenda.
 
- Here is a summary:
+ 
 
 - Scientific experts had warned that increasing CO2 emissions could accelerate the accumulation of CO2 in the atmosphere. 
 
@@ -594,7 +594,7 @@ So in summary, the late 1970s saw growing attention to climate impacts and influ
 
 - This highlighted the conflicting perspectives within the committee between natural scientists who viewed CO2 as a pressing problem and economists who argued the risks were too uncertain and distant to warrant immediate action.
 
- Here is a summary:
+ 
 
 - In the late 1980s, climate science and the potential severity of global warming was gaining more attention in the public and political spheres. 
 
@@ -608,7 +608,7 @@ So in summary, the late 1970s saw growing attention to climate impacts and influ
 
 - This set the stage for protracted political battles over how to respond to the emerging climate threat in the coming decades. While the science was becoming clearer, politics and denialism presented major obstacles to addressing the problem.
 
- Here is a summary:
+ 
 
 - In the late 1980s, three scenarios modeling future global warming based on different levels of carbon emissions were released. One scenario projected rapid reductions after 2000 limiting warming, while the other two projected more rapid warming raising temperatures higher than in the last interglacial period over 120,000 years ago. 
 
@@ -618,7 +618,7 @@ So in summary, the late 1970s saw growing attention to climate impacts and influ
 
 - The political momentum in the U.S. increased with calls for action, but the George Marshall Institute report blamed the sun instead of greenhouse gases for observed warming based on a selective use of data. This influenced the White House and stalled momentum for addressing climate change. Critics argued their analysis implied greenhouse gases would also significantly impact the climate if small solar variations could.
 
- Here is a summary:
+ 
 
 - The Marshall Institute, led by Jastrow, Seitz, and Nierenberg, continued to argue that climate change was due to natural factors like variations in solar output, not human-caused greenhouse gases. They blamed the sun. 
 
@@ -644,7 +644,7 @@ So in summary, the late 1970s saw growing attention to climate impacts and influ
 
 - Singer sued Lancaster for libel over his claims, and Lancaster was forced to retract statements that Revelle was not really a co-author, despite corroborating evidence from Revelle's secretary.
 
- Here is a summary:
+ 
 
 - Roger Revelle, a famous climate scientist, died in 1991 but had expressed views on global warming prior to his death. Reviewing his papers, the only statement found was a short unpublished introduction to a 1990 meeting where he said global warming was expected due to increased greenhouse gases. He predicted around 2-5°C warming in the US and larger changes at higher latitudes. He also said climate change would have "profound effects" on water resources. 
 
@@ -666,7 +666,7 @@ So in summary, the late 1970s saw growing attention to climate impacts and influ
 
 - Contrarian scientists like Patrick Michaels criticized the IPCC report, but their arguments were shown to have logical flaws, like comparing model results to observations that included unrelated real-world factors not accounted for in the models.
 
- Here is a summary:
+ 
 
 - In late 1995, Republican congressional leadership opposed environmental protection and wanted to repeal environmental laws like the Clean Water Act. There was little press coverage of this. 
 
@@ -678,7 +678,7 @@ So in summary, the late 1970s saw growing attention to climate impacts and influ
 
 - The fossil fuel industry group Global Climate Coalition circulated a report accusing the IPCC of "scientific cleansing," which Nierenberg accepted uncritically even before the report was released.
 
- Here is a summary:
+ 
 
 Fred Seitz, a former president of the National Academy of Sciences, took his attacks on Ben Santer and the IPCC to the national media. In a letter to the Wall Street Journal, he accused Santer of fraud and corruption of the peer review process in his changes to Chapter 8 of the IPCC report after the Madrid meeting. 
 
@@ -690,7 +690,7 @@ Fred Singer and other critics like Fred Seitz and Hugh Ellsaesser continued atta
 
 The defenders of Santer and the IPCC process argued there appeared to be a concerted effort to undermine and discredit the scientific process and results through a campaign in the media rather than legitimate scientific debate.
 
- Here is a summary:
+ 
 
 - In the early 1980s, Ronald Reagan's Department of Energy and the White House Office of Science and Technology Policy altered reports on acid rain and carbon dioxide to downplay environmental concerns, contrary to the conclusions of scientists. 
 
@@ -716,7 +716,7 @@ The defenders of Santer and the IPCC process argued there appeared to be a conce
 
 - However, the historical facts show Carson's work was scientifically validated and the DDT ban had bipartisan political support when implemented in the 1970s based on risks the pesticide posed.
 
- Here is a summary:
+ 
 
 - Rachel Carson's book Silent Spring sparked public concern about environmental issues like never before, similar to how Uncle Tom's Cabin did for abolitionism. 
 
@@ -728,7 +728,7 @@ The defenders of Santer and the IPCC process argued there appeared to be a conce
 
 - However, some more recently have attacked Carson's work, claiming banning DDT has led to millions of malaria deaths. But the science at the time supported regulating DDT use due to environmental and potential human health risks.
 
- Here is a summary:
+ 
 
 - Tierney argued that Carson was wrong about DDT and Baldwin got the science right. However, the passage provides evidence that Carson was largely correct.
 
@@ -742,7 +742,7 @@ The defenders of Santer and the IPCC process argued there appeared to be a conce
 
 So in summary, the passage provides evidence that Carson's warnings about DDT were well-founded and that she, not Baldwin, largely got the science right regarding its limitations and risks.
 
- Here is a summary:
+ 
 
 - Critics of Rachel Carson, like Dixy Lee Ray, have argued that DDT was wrongly banned and that its use saved lives from malaria. They claim cases of malaria rose drastically in places like Sri Lanka after DDT was banned there. 
 
@@ -768,7 +768,7 @@ So in summary, the passage provides evidence that Carson's warnings about DDT we
 
 - Organizations like the Heartland Institute, Competitive Enterprise Institute, and American Enterprise Institute continued promoting this narrative while receiving significant funding over the years from the tobacco industry, like Philip Morris, demonstrating coordination in their campaigns.
 
- Here is a summary:
+ 
 
 The passage discusses how certain governments in the past, like the Soviet Union, engaged in "historical cleansing" by erasing inconvenient facts from official histories and photographs to support their political agenda. It draws a parallel to how some modern conservative defenders of free markets in the US have similarly "flushed down the memory hole" inconvenient scientific facts about issues like DDT, climate change, and acid rain. 
 
@@ -778,7 +778,7 @@ Recent science shows industrial civilization is unsustainable at current consump
 
 Some Cold Warriors who originally fought communism embraced its tactics by undermining science, promoting doubt, and attacking messengers on these issues. While claiming to secure "liberty," they fought facts challenging unlimited freedoms like polluting. In a modern cacophony of conflicting claims, it is easy for the public to be misled, showing how a well-organized minority can distort debate.
 
- Here is a summary:
+ 
 
 Over several decades, various industries and interest groups engaged in campaigns to undermine established scientific evidence and mislead the public. They promoted fringe views that had been widely refuted in scientific literature in order to create doubt and controversy. 
 
@@ -788,7 +788,7 @@ Groups like the tobacco industry and George C. Marshall Institute exploited the 
 
 Retired scientists like Fred Seitz leveraged their past credentials to mislead policymakers and the public through techniques like petitions and misleadingly formatted articles attacking scientific consensus on issues like climate change. Their campaigns aimed to manufacture the appearance of scientific disputes where the scientific community had reached consensus.
 
- Here is a summary:
+ 
 
 The passage discusses how skepticism about issues like global warming, acid rain, and secondhand smoke have been promoted through questionable scientific organizations and journals. It focuses on an anti-climate change petition organized by Frederic Seitz that garnered thousands of signatures but had no verification process. When questioned, mainstream scientific bodies like the National Academy distanced themselves from the petition. 
 
@@ -826,7 +826,7 @@ It then discusses how free market think tanks with links to industries like toba
 
 - There is debate around whether technology alone can solve problems like climate change in time, or if more proactive policy measures are also needed to spur technological solutions and transition economies off fossil fuels.
 
- Here is a summary:
+ 
 
 - Cornucopians like Julian Simon argue that human ingenuity and innovation will always solve resource and environmental problems as long as markets are free and property rights are respected. They are optimistic that technological progress will overcome any limits to growth.
 
@@ -848,7 +848,7 @@ It then discusses how free market think tanks with links to industries like toba
 
 - However, scientists were largely silent in correcting misleading claims. This is partly due to norms of consensus-building in science and reluctance to attract individual attention. Communicating to broad audiences also takes time away from research and risks accusations of "politicizing" science.
 
- Here is a summary:
+ 
 
 - Scientists are in a double bind when it comes to contested issues like climate change. If they keep aloof and don't get involved, the public won't know what an objective view looks like. But if they do get involved, they risk backlash and attacks from contrarians. 
 
@@ -860,7 +860,7 @@ It then discusses how free market think tanks with links to industries like toba
 
 - There is a misunderstanding that science provides two sides to an issue. But on questions where consensus is reached, there are not two sides - there is simply accepted scientific knowledge.
 
- Here is a summary:
+ 
 
 - Science has traditionally been viewed as the work of great individual scientists like Galileo, Newton and Darwin. However, modern science is a collective enterprise that depends on institutions. 
 
@@ -872,7 +872,7 @@ It then discusses how free market think tanks with links to industries like toba
 
 - When making important decisions, people generally rely on experts who have credentials and operate within established institutional processes, like hiring a professional to do a title search before buying a home. This institutional trust is important and what was missing from the contrarian scientists' public campaign.
 
- Here is a summary:
+ 
 
 - We have to trust experts like title searchers to do work that requires specialized training, expertise, and licensing that we do not have. All social relationships involve an element of trust. 
 
@@ -936,7 +936,7 @@ The documents show how the tobacco industry, through PR firms like Hill & Knowlt
 
 - Figures like William Nierenberg played a key role in establishing the Marshall Institute and shaping its advocacy in favor of Reagan's vision for strategic missile defense.
 
- Here is a summary:
+ 
 
 - Initially, the radio and TV spectra were carved up in the 1930s, limiting the number of stations that could be established, as signals could interfere with each other. 
 

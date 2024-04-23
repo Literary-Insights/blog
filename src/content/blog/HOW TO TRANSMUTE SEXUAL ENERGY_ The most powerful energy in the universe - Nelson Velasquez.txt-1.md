@@ -16,7 +16,7 @@ BOOK LINK:
 
 
 
- Here is a summary:
+ 
 
 The key energy that humans depend on is sexual energy. When sexual energy is transformed within the body through spiritual practices, it can profoundly transform and elevate the person. 
 

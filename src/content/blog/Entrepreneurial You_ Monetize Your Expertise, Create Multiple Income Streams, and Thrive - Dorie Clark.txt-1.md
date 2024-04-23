@@ -232,7 +232,7 @@ The key is progressively gaining exposure and experience to build your reputatio
 
 - Occasionally it may be worth speaking for free or discounted rates in order to gain contacts, friends, or access to events you couldn't otherwise attend. But be selective.
 
- Here is a summary:
+ 
 
 The author notes that even when speaking for free, finding gigs takes time and effort to build your brand and get referrals. Eventually your name recognition grows and you start getting paid speaking invitations. 
 

@@ -49,7 +49,7 @@ In summary, the key ideas are:
 
 4) Moderation, awareness of addiction, and periodic breaks from phones are important for health and happiness.
 
- Here is a summary:
+ 
 
 - Jean Twenge, author of iGen, says smartphones are causing a mental health crisis in young people. The author researched this issue and could not find a good solution, so she decided to create her own plan.
 
@@ -145,7 +145,7 @@ In summary, the key ideas are:
 
 In summary, our frequent smartphone use and exposure to constant digital distraction is damaging our ability to focus, absorb information, and think deeply. The associated brain changes undermine our capacity for sustained attention, comprehension, and decision making.
 
- Here is a summary:
+ 
 
 - Our brains have limited working memory capacity and get easily overloaded. Smartphones bombard our working memory with information, causing mental fatigue, difficulty concentrating, and impaired memory formation and connection of new information to preexisting knowledge structures in our brains. 
 
@@ -155,7 +155,7 @@ In summary, our frequent smartphone use and exposure to constant digital distrac
 
 - In summary, smartphones overload our working memory, create emotional instability, and disrupt our sleep, all of which are harmful to our well-being. While smartphones provide benefits, we must be judicious in how we use them to limit these negative impacts. Moderation and mindfulness regarding smartphone use are key.
 
- Here is a summary:
+ 
 
 - Our phones negatively impact many areas of our lives, including our sleep, ability to focus, creativity, and relationships. The effects are damaging both in the short and long term. 
 
@@ -179,7 +179,7 @@ In summary, our frequent smartphone use and exposure to constant digital distrac
 
 The key is practicing mindfulness regularly so you get better at applying these techniques when phone cravings arise. The more you do it, the easier it gets, and the less power your addiction has over you. With time and consistency, you can overcome unhealthy phone habits and take back control of your wellbeing.
 
- Here is a summary:
+ 
 
 - Changing our relationship with technology, especially smartphones, requires intention and preparation. An all-or-nothing approach usually fails. 
 - We need to do a "technology triage" to assess our current relationship, identify what's working and not working, and determine what we want to change. 
@@ -190,7 +190,7 @@ The key is practicing mindfulness regularly so you get better at applying these 
 - Doing the breakup with others provides support and accountability. But there's no need to judge yourself harshly if you slip up. Just acknowledge it and get back on track.
 - The goal is "consciousness" - using our phones intentionally instead of mindlessly. Some mindless use is fine, but it shouldn't be the default.
 
- Here is a summary:
+ 
 
 To help stay focused on what's important, set your phone's lock screen to a reminder like "What do you want to pay attention to?" This can be a photo of something or someone meaningful to you.  Whenever you unlock your phone, this reminder will help center your thoughts.
 
@@ -228,7 +228,7 @@ Summary of Vanessa's quote:
 
 The key takeaway is that reducing or eliminating social media use can have benefits like reduced anxiety, less distraction, and more enjoyment of real life interactions and experiences. Both quotes express how the participants found social media absence to be positive, even if they had previously enjoyed using the platforms.
 
- Here is a summary:
+ 
 
 - According to Localytics, users who opted in to receive push notifications from apps used those apps 3 times more per month than users who did not receive push notifications. 
 - Push notifications are designed to pull our attention away from what we're doing and compel us to check our phones. They reinforce habit loops that diminish our productivity and presence. 
@@ -370,7 +370,7 @@ In summary, the key themes are cultivating serendipity and connection in everyda
 
 The overarching principles are: establish boundaries, curb impulse checks and distractions, declutter and simplify, and experiment to find what works for you. The key is developing a healthy and balanced relationship with your phone.
 
- Here is a summary:
+ 
 
 The key to maintaining a healthy new relationship with your phone is to develop good habits and routines. This includes:
 
@@ -424,7 +424,7 @@ Comparing this to the note I wrote when I first started this breakup, I can see 
 
 - You can install extensions to hide metrics on sites like Facebook in order to reduce their addictiveness. Researchers found Facebook use was associated with decreased well-being in 2017.
 
- Here is a summary:
+ 
 
 The study found that increased Facebook use correlated with decreases in psychological well-being and life satisfaction over time. The findings confirmed previous research showing links between Facebook use and feelings of depression, loneliness, and sleep problems.
 

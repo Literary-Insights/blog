@@ -223,7 +223,7 @@ In summary, anxiously oversharing our repetitive inner chatter can damage relati
 
 - Overall, distanced self-talk is a fast, easy, and effective way to gain psychological distance from emotions, reframe mindsets, and override unhelpful inner voices.
 
- Here is a summary:
+ 
 
 The author describes experiencing intense negative thoughts and anxiety after receiving a threatening letter. Using his name to refer to himself allowed him to gain emotional distance and decrease his distress. Research by psychologists has shown that using one's own name or a superhero name helps children and adults cope with stress. 
 

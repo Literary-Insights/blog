@@ -308,7 +308,7 @@ The key is to diagnose where the points of Effort are and then find ways to elim
 
 - Understanding the functional, social, and emotional value provided by new innovations is key. Emotion can drive adoption, but also unintentionally create barriers. Spotting Emotional Frictions early creates significant advantage.
 
- Here is a summary:
+ 
 
 The story demonstrates how emotional connections with pets can create friction that prevents people from getting help they need. Staci Alonso recognized this friction when she saw women unable to enter a domestic violence shelter because pets were not allowed. Pets provided unconditional love and support for these women, so leaving them behind was unthinkable. Alonso created Noah's Animal House, a separate facility at the shelter where women could keep their pets while getting help. This removed the emotional barrier that was preventing women from leaving dangerous situations. 
 
@@ -454,7 +454,7 @@ The key is that self-persuasion relies on asking the right questions to guide pe
 
 - A factory study found workers embraced more significant changes when they co-designed them rather than being commanded to change. Inviting people into the design process encourages buy-in and stewardship. This "co-design" approach is used across many fields.
 
- Here is a summary:
+ 
 
 At was able to deliver value to a variety of stakeholders with competing interests by getting them to collaborate in the design process. Large companies, entrepreneurs, universities, and government agencies all participated in collaborative workshops to brainstorm and prototype elements of the MATTER facility. This co-design process gave stakeholders a voice, enabled them to see their fingerprints on the final design, and fostered a deeper sense of connection to the mission. As a result, when MATTER opened, the diverse groups did not need to be "sold" on the idea - they already felt ownership of it. MATTER launched with strong buy-in from stakeholders and has gone on to raise substantial funding, create thousands of jobs, and impact millions of patients. The key to overcoming resistance was involving stakeholders in the design process rather than trying to persuade them after the fact.
 

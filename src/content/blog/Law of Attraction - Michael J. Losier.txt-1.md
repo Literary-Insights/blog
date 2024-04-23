@@ -293,7 +293,7 @@ Repeating your Desire Statement, especially when you first wake up and before be
 - Allowing is the most important step but least understood part of the deliberate attraction process
 - Tools like meditation and visualization can help remove doubt and allow desires to manifest
 
- Here is a summary:
+ 
 
 Having a strong desire is not enough to manifest what you want. For your desire to be realized, your resistance and doubt need to be removed. The faster your resistance and doubt are removed, the faster your desire will manifest. 
 
@@ -365,7 +365,7 @@ These are all tools and techniques for shifting your vibration from negative to 
 
 The more you can duplicate the feeling of abundance, the more abundance you will attract into your life. Keep working at including abundance in your Vibrational Bubble!
 
- Here is a summary:
+ 
 
 Law of 
 Attraction: T
@@ -419,7 +419,7 @@ The key is to teach the Law of Attraction to children in a simple, fun and engag
 - He aimed to present the Law of Attraction in an easy to understand way.
 - Michael shortened his work week to 4 days so he could spend one day a week coaching clients.
 
- Here is a summary:
+ 
 
 Michael Losier is the author of Law of Attraction: The Science of Attracting More of What You Want and Less of What You Don't. He has been teaching the Law of Attraction since 1996 and has reached over 15,000 people through his talks and teleclasses. 
 

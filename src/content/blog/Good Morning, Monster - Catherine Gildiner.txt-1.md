@@ -32,7 +32,7 @@ BOOK LINK:
 
 That covers the key details presented about the psychologist, her new patient Laura, and the beginnings of their therapeutic relationship. Let me know if you need any clarification or have additional questions.
 
- Here is a summary:
+ 
 
 - Laura created an elaborate stress chart with columns listing various "assholes" in her life causing her stress, including her boss, boyfriend, and father. 
 
@@ -46,7 +46,7 @@ That covers the key details presented about the psychologist, her new patient La
 
 - Laura's upbringing led her to see feelings as luxuries and prioritize using her "wits" over exploring emotions. This informed her attitudes about stress and relationships as an adult.
 
- Here is a summary:
+ 
 
 - The narrator was a young teenager whose father developed a brain tumor and lost his business. The narrator had to work two jobs to support the family financially. 
 
@@ -62,7 +62,7 @@ That covers the key details presented about the psychologist, her new patient La
 
 - The narrator realized they needed to gain Laura's trust and perspective before interpreting or challenging her views more directly. It would take time to chip away at her defenses.
 
- Here is a summary:
+ 
 
 - Laura recounted a dream about Colonel Potter from the TV show M*A*S*H, describing him as kind and dependable. 
 
@@ -74,11 +74,11 @@ That covers the key details presented about the psychologist, her new patient La
 
 - Pretending her brother Craig was the character Radar and she was Colonel Potter, she was able to address Craig's bedwetting problem by comforting him rather than yelling.
 
- Here is a summary:
+ 
 
 The bedwetting by Laura's brother Craig stopped after about a week of Laura repeating reassuring words to him and their sister Tracy that were originally said to Laura by Colonel Potter, a comforting figure from her dreams. Laura told them they would all grow up, get married, and have loving partners who wanted the best for them, like Colonel Potter. This helped them get through the difficult time they were experiencing.
 
- Here is a summary:
+ 
 
 - Laura had assumed a "savior" role with her father and ex-boyfriend Ed, enabling their irresponsible behavior to try and care for them. 
 
@@ -96,7 +96,7 @@ The bedwetting by Laura's brother Craig stopped after about a week of Laura repe
 
 - Laura's dreams provided insights into how her relationship with her father was changing on an unconscious level, as dreams can reveal hidden drives and meanings.
 
- Here is a summary:
+ 
 
 - Laura had a vivid dream where she was on stage in ragged clothes in front of an audience. A giant paper mache cat appeared and while the band Poison played "Look What the Cat Dragged In", she violently kicked the cat until it cracked and fell apart. 
 
@@ -112,7 +112,7 @@ The bedwetting by Laura's brother Craig stopped after about a week of Laura repe
 
 - One night after a binge, Laura's father got in an argument with Linda and there was a commotion. Laura found Linda unconscious at the bottom of the stairs with a broken neck. Her father was drunk but unharmed. Laura covered for him by lying to police about what happened.
 
- Here is a summary:
+ 
 
 - Laura revealed that both her grandparents had died, but she referred to them as "cretins" and said living with them after her father went to prison was traumatic. 
 
@@ -130,7 +130,7 @@ The bedwetting by Laura's brother Craig stopped after about a week of Laura repe
 
 - While strong and refusing a victim role, the therapist noted Laura's psychological denial of pain still had negative impacts.
 
- Here is a summary:
+ 
 
 - Laura struggled to acknowledge her true feelings of fear, loneliness and abandonment from her childhood, and instead felt only anger as a defense mechanism. Her psychologist's job was to help her connect to her real feelings. 
 
@@ -142,7 +142,7 @@ The bedwetting by Laura's brother Craig stopped after about a week of Laura repe
 
 - Laura had a troubling experience after opening up to Tracy. In a shocking revelation, Tracy disclosed that their father had sexually abused her as a child. Laura was left reeling from this traumatic information from her sister.
 
- Here is a summary:
+ 
 
 - Laura recounted meeting with her estranged sister Tracy recently, where Tracy accused their father of sexually abusing her as a child. Laura's father vehemently denied the allegations when Laura confronted him. 
 
@@ -154,7 +154,7 @@ The bedwetting by Laura's brother Craig stopped after about a week of Laura repe
 
 - In summary, the session deals with Laura processing a serious allegation from her sister regarding their father, and wrestling with defending her perspective vs acknowledging limitations in truly knowing what occurred as children. The therapist provides perspective but ultimately agrees the truth cannot be unequivocally determined.
 
- Here is a summary:
+ 
 
 - Laura went on a disastrous date set up by her friend Kathy. The guy, Steve, was too nice and helpful for Laura's liking. She found him boring. 
 
@@ -168,7 +168,7 @@ The bedwetting by Laura's brother Craig stopped after about a week of Laura repe
 
 - However, Laura becomes upset again when Steve only gives her one rose for Valentine's Day, as gift-giving is more modest in his family who value experiences over possessions.
 
- Here is a summary:
+ 
 
 - Laura viewed lavish spending as romantic, while Steve saw it as extravagant. They weathered a disagreement over Valentine's gifts. 
 
@@ -186,7 +186,7 @@ The bedwetting by Laura's brother Craig stopped after about a week of Laura repe
 
 - Laura and Steve got married at Christmas after years of therapy together, which was deemed finished. Laura was very emotional at their final session, showing progress in becoming more "normal."
 
- Here is a summary:
+ 
 
 - The passage provides background on Laura, describing her natural gifts of beauty, intelligence and a strong temperament. As the eldest child, she took on responsibility and learned how to get what little affection her unreliable father could provide. 
 
@@ -200,7 +200,7 @@ The bedwetting by Laura's brother Craig stopped after about a week of Laura repe
 
 - The passage ends with Laura briefly seeing her abusive father on the street years later, but being able to avoid him without feeling shaken, showing her personal growth.
 
- Here is a summary:
+ 
 
 - Peter was a patient seeking help for erectile dysfunction and loneliness. Exams by urologists found no physical cause, so he was referred to psychotherapy. 
 
@@ -214,7 +214,7 @@ The bedwetting by Laura's brother Craig stopped after about a week of Laura repe
 
 So in summary, Peter describes experiencing extreme neglect and isolation as a very young child that was likely psychologically abusive and impactful on his development and current difficulties.
 
- Here is a summary:
+ 
 
 - Peter grew up in an attic above his mother's restaurant, isolated and lonely. His only companion was a toy piano given to him by his mother. 
 
@@ -230,7 +230,7 @@ So in summary, Peter describes experiencing extreme neglect and isolation as a v
 
 So in summary, Peter suffered immense loneliness and isolation as a child that had lasting impacts on his social and language development, leading to difficulties in kindergarten and shame over perceived failure.
 
- Here is a summary:
+ 
 
 - Peter missed many developmental milestones as a young child due to being isolated in the attic. This led to delays in his readiness for kindergarten and ability to interact socially with other children. 
 
@@ -246,7 +246,7 @@ So in summary, Peter suffered immense loneliness and isolation as a child that h
 
 - By age 9, Peter's family was living in poverty. His father was depressed and neglected his diabetes. Peter's mother was abusive towards both Peter and his father. She threw out and destroyed Peter's toy piano during an angry outburst.
 
- Here is a summary:
+ 
 
 - Peter and his mentally ill father went to a mall, where the father stole a synthesizer from a store. They were stopped by police. 
 
@@ -260,7 +260,7 @@ So in summary, Peter suffered immense loneliness and isolation as a child that h
 
 - The therapist aimed to help Peter build his self-esteem and sense of identity independent from his mother's negative views, in order to strengthen his "ego" and ability to cope with stressors without dissociating. This was the goal of their multi-year therapy process.
 
- Here is a summary:
+ 
 
 - Peter met a woman named Melanie while playing a gig in Arkansas. They bonded over their shared love of music, especially the blues. 
 
@@ -272,7 +272,7 @@ So in summary, Peter suffered immense loneliness and isolation as a child that h
 
 - While progress was made, fully overcoming the effects of early attachment issues and trauma was proving a gradual process. Peter was gaining skills but challenges with intimacy persisted, highlighting how deeply formative early experiences can be.
 
- Here is a summary:
+ 
 
 - Peter went to therapy to address issues with depersonalization and inability to form close relationships. In therapy, they focused on exploring his dreams and unconscious thoughts and feelings. 
 
@@ -286,7 +286,7 @@ So in summary, Peter suffered immense loneliness and isolation as a child that h
 
 - Learning this history provided important context for Peter and helped the therapist understand why his mother treated him the way she did as a result of her own traumatic upbringing and lack of a nurturing parent. It was a major breakthrough in Peter's therapy journey.
 
- Here is a summary:
+ 
 
 - Peter had begun setting boundaries with his toxic mother and recognizing abusive behaviors. He started looking at how he was treated by others outside the family as well. 
 
@@ -314,7 +314,7 @@ So in summary, Peter suffered immense loneliness and isolation as a child that h
 
 - A few weeks later, Peter reports they had a sexual encounter, but he felt inadequate when Amanda commented on his lack of chest hair. The summary did not include lying to Amanda.
 
- Here is a summary:
+ 
 
 - Peter came to therapy believing his mother locking him in an attic as a child was not wrong. Through therapy, he came to understand it was abuse. 
 
@@ -332,7 +332,7 @@ So in summary, Peter suffered immense loneliness and isolation as a child that h
 
 So in summary, through addressing the trauma of his childhood abuse, Peter was able to develop self-awareness, intimacy, independence and ultimately find fulfillment and meaning in his life. Forgiveness played a central role in his recovery process.
 
- Here is a summary:
+ 
 
 - Danny came to the therapist's office through a former patient who owned a trucking company. Danny was one of his best long-haul drivers. 
 
@@ -346,7 +346,7 @@ So in summary, through addressing the trauma of his childhood abuse, Peter was a
 
 - The therapist adapted his approach, explaining his role but also asking Danny for help. Danny slowly opened up more, admitting he did not experience pain, which was important for the therapist to understand. This was promising progress after four months of mostly silent sessions.
 
- Here is a summary:
+ 
 
 - Danny was from a remote trapping family in northern Manitoba. He told his therapist stories from growing up on the traplines with his parents and sister. 
 
@@ -394,7 +394,7 @@ So in summary, through addressing the trauma of his childhood abuse, Peter was a
 
 - He was deeply hurt when showing his father 4H medals led to mockery and laughing at his accomplishments. This was the last thing he shared with his family.
 
- Here is a summary:
+ 
 
 - Dr. Brant, an Indigenous psychologist, criticizes the Indigenous custom of using teasing, shaming and ridicule instead of direct anger to discipline children. He argues this can erode children's self-esteem and cause issues like humiliation, withdrawal and social problems later in life. 
 
@@ -404,7 +404,7 @@ So in summary, through addressing the trauma of his childhood abuse, Peter was a
 
 - Danny felt Berit saw him as a neglectful parent because his style was more hands-off. He believes if not for Berit, he could have had a closer relationship with his quiet daughter Lillian who was more like him. Opening up about his family relationships was an important step in Danny's therapy process.
 
- Here is a summary:
+ 
 
 - Danny began to open up more in therapy about defining his feelings and understanding what was his fault versus what wasn't regarding his past trauma. 
 
@@ -418,7 +418,7 @@ So in summary, through addressing the trauma of his childhood abuse, Peter was a
 
 - Danny started standing up for himself more, like telling his manager at work not to call him an insulting nickname, showing increased confidence and ability to set boundaries as therapy progressed.
 
- Here is a summary:
+ 
 
 - Danny struggled to feel comfortable showing physical or emotional intimacy with his late wife. He felt awkward putting his arm around her and sometimes felt smothered. 
 
@@ -446,7 +446,7 @@ So in summary, through addressing the trauma of his childhood abuse, Peter was a
 
 - Danny realizes through this ordeal that he has avoided confronting and dealing with his trauma for decades, employing dissociation as a defense mechanism to remain functional but unfeeling. He must now begin to process and heal from the past.
 
- Here is a summary:
+ 
 
 - Danny grew up experiencing trauma, abuse, neglect and extreme poverty in a residential school system that aimed to assimilate Indigenous children and destroy their culture and language. 
 
@@ -458,7 +458,7 @@ So in summary, through addressing the trauma of his childhood abuse, Peter was a
 
 - The therapist insists group healing is important because the trauma Danny and many Indigenous people endured was collective - from the multi-generational impacts of colonization, cultural suppression and abuse within the residential school system. Only other Indigenous people who shared that collective experience can truly understand and help with the healing process.
 
- Here is a summary:
+ 
 
 - The therapist encourages Danny, an Indigenous man, to reconnect with his cultural traditions as a way of healing from past trauma. Danny is resistant to the idea, saying he lives in the city now, not on the reserve where he's from. 
 
@@ -472,7 +472,7 @@ So in summary, through addressing the trauma of his childhood abuse, Peter was a
 
 So in summary, the therapist encourages Danny to reconnect with his culture as a way of healing, and through this Danny meets Sasina and begins healing his identity and past trauma.
 
- Here is a summary:
+ 
 
 - Danny had completed therapy with the narrator after five years of working through the trauma of his experiences at residential school. Their last session marked the end of their therapeutic work together. 
 
@@ -486,7 +486,7 @@ So in summary, the therapist encourages Danny to reconnect with his culture as a
 
 - After their last session, Danny gifted the narrator an beautifully crafted and significant sweetgrass basket as a thank you. This showed how far their relationship of trust had come.
 
- Here is a summary:
+ 
 
 - Alana was referred to the therapist by a colleague who previously treated Alana's partner Jane, who transitioned from male to female. 
 
@@ -500,7 +500,7 @@ So in summary, the therapist encourages Danny to reconnect with his culture as a
 
 - The summary provides background on Alana's upbringing and issues but does not yet reveal specifics of the abuse she experienced. Her symptoms and fears indicate deep trauma in her past.
 
- Here is a summary:
+ 
 
 - Alana presented herself as a lesbian based on her experiences of abuse from her father, Art, from ages 4-14. Art would regularly rape and abuse her. 
 
@@ -518,7 +518,7 @@ So in summary, the therapist encourages Danny to reconnect with his culture as a
 
 - Her strategies for survival included dissociating during abuse and complying to escape further harm. The abuse caused deep trauma but she was a survivor.
 
- Here is a summary:
+ 
 
 - Alana was left by her father Art at her grandparents' house in Kitimat, BC for two years while he went to work in a mine in Ontario. 
 
@@ -532,7 +532,7 @@ So in summary, the therapist encourages Danny to reconnect with his culture as a
 
 So in summary, Alana suffered extreme physical, sexual and psychological abuse at the hands of both her father and grandmother during this traumatic period spent at her grandparents' house.
 
- Here is a summary:
+ 
 
 - The comic strip was called "Bringing Up Father", referring ironically to Alana having to "bring up" her father for years by taking care of him due to his alcoholism. 
 
@@ -544,7 +544,7 @@ So in summary, Alana suffered extreme physical, sexual and psychological abuse a
 
 - Alana told her therapist that deciding to live was the most important moment of her life, likening it to Hamlet's dilemma of "to be or not to be." She endured daily torture and abuse to protect her sister, which required tremendous bravery and resilience.
 
- Here is a summary:
+ 
 
 - Alana attended therapy with the psychologist seeking help with issues relating to her father Art. Art emotionally and psychologically abused Alana throughout her childhood. 
 
@@ -558,7 +558,7 @@ So in summary, Alana suffered extreme physical, sexual and psychological abuse a
 
 - Alana abruptly left university due to fear of further humiliation, believing a professor praising her work was a trick, reminiscent of how her father would mock her. The psychologist helps her realize the professor's praise was genuine.
 
- Here is a summary:
+ 
 
 - Alana talks about her father Art manipulating and gaslighting her through elaborate mind games like changing the rules when they played chess so she could never win. This left her questioning her own perceptions of reality. 
 
@@ -576,7 +576,7 @@ So in summary, Alana suffered extreme physical, sexual and psychological abuse a
 
 - The therapist pushes Alana to acknowledge her understandable anger towards her mother for abandoning her, even though she logically understands her mother's difficult situation.
 
- Here is a summary:
+ 
 
 - Alana was hypervigilant and attuned to danger from living with her abusive father Art. This allowed her to detect a potentially violent situation at her law firm. 
 
@@ -590,7 +590,7 @@ So in summary, Alana suffered extreme physical, sexual and psychological abuse a
 
 - Alana never reported the abuse earlier for fear of not being believed and being separated from Gretchen, leaving them with nowhere safe to go as foster homes were the only option. This was also during a time when incest and family abuse issues were rarely discussed publicly.
 
- Here is a summary:
+ 
 
 - The police arrested Art, Alana and Gretchen's father, for possessing drugs, child pornography, and unregistered firearms at his filthy house. The girls were removed from his care.
 
@@ -608,7 +608,7 @@ So in summary, Alana suffered extreme physical, sexual and psychological abuse a
 
 - Alana then disclosed to the reporter that she had sudden sexual encounters with a coworker, realizing she had desires and could experience intimacy, though this posed questions about her relationship with partner Jane.
 
- Here is a summary:
+ 
 
 - Alana had recently gotten discharged from the hospital after a suicide attempt involving an alcohol and drug overdose. She had disappeared for 3 days. 
 
@@ -622,7 +622,7 @@ So in summary, Alana suffered extreme physical, sexual and psychological abuse a
 
 - The therapist noticed this was an entirely different personality than usual for Alana - more adolescent, rude, and indiscriminately vulgar. It sounded like something may have changed in her psychologically or physically.
 
- Here is a summary:
+ 
 
 - The patient Alana had an angry confrontation during her previous therapy session, stomping out and slamming the door. This was unlike her usual polite demeanor. 
 
@@ -652,7 +652,7 @@ So in summary, Alana suffered extreme physical, sexual and psychological abuse a
 
 - The goal will be to help Alana integrate the personalities by developing confidence, boundaries, and coping skills, so she's in control and they only emerge occasionally to fight the Art tapes, not take over fully. Progressing the therapy will be difficult given the severity of Alana's childhood trauma.
 
- Here is a summary:
+ 
 
 - The therapist obtained Alana's hospital report about her recent suicide attempt, which outlined that she didn't cooperate with psychiatrists and refused antidepressants. 
 
@@ -664,7 +664,7 @@ So in summary, Alana suffered extreme physical, sexual and psychological abuse a
 
 - Over time, Alana got better at handling conflicts and expressing emotions/needs, like confronting her mother's unrealistic view of being a parent. Their therapy was a difficult journey as the therapist realized he should have been more vigilant given her past suicide attempt.
 
- Here is a summary:
+ 
 
 - Alana had considered suicide but didn't tell her therapist, Gild, because she felt so ashamed of what she had done to her sister Jane and thought Gild would hate her. 
 
@@ -684,7 +684,7 @@ So in summary, Alana suffered extreme physical, sexual and psychological abuse a
 
 - Years later, Alana shared she had unknowingly been competing against her deceased father in violent video games for years before he died.
 
- Here is a summary:
+ 
 
 - Madeline Arlington was a 36-year-old antique dealer in Manhattan who grew up in Toronto with a disturbed mother, Charlotte, and inconsistent father, Duncan. 
 
@@ -698,7 +698,7 @@ So in summary, Alana suffered extreme physical, sexual and psychological abuse a
 
 - Madeline maintains strict boundaries but finds happiness pursuing hobbies of kickboxing and physics while living independently on the periphery of social situations. She says therapy was the best thing she ever did despite hating it.
 
- Here is a summary:
+ 
 
 - Duncan Arlington calls Dr. Cathy Gildiner six years after their last session together, asking her to treat his daughter Madeline. He persuades Cathy to agree to 6 sessions by flattering her and offering to promote her books. 
 
@@ -708,7 +708,7 @@ So in summary, Alana suffered extreme physical, sexual and psychological abuse a
 
 So in summary, Duncan convinces Cathy to treat his daughter Madeline after years, and Madeline runs a busy antiques business out of her loft office in a chaotic manner, making Cathy wait a long time for their session.
 
- Here is a summary:
+ 
 
 - Madeline is an businesswoman who runs an antiques business. She is anxious and suffers from obsessive-compulsive disorder (OCD), which has been worsening and affecting her work. 
 
@@ -724,7 +724,7 @@ So in summary, Duncan convinces Cathy to treat his daughter Madeline after years
 
 - Madeline is determined to get treatment to help manage her OCD and anxiety for the sake of her business and employees who rely on her.
 
- Here is a summary:
+ 
 
 - Madeline recalled an embarrassing incident from her childhood where her mother publicly humiliated her at a restaurant by accusing her of stealing food from the table when she was just playing with her napkin. 
 
@@ -740,7 +740,7 @@ So in summary, Duncan convinces Cathy to treat his daughter Madeline after years
 
 - Madeline's father was terrified of confronting her mother directly, though he tried to comfort Madeline when he could. He seemed dominated and controlled by the mother.
 
- Here is a summary:
+ 
 
 - Madeline has recently developed a fear of air travel that is impacting her business, as she won't let any employees fly to make deliveries. 
 
@@ -754,7 +754,7 @@ So in summary, Duncan convinces Cathy to treat his daughter Madeline after years
 
 - The therapist decided not to confront Madeline directly about this issue, as gaining her trust was more important, and insights come when the patient discovers things for themselves rather than being told directly.
 
- Here is a summary:
+ 
 
 - The therapist has been working with Madeline to help her deal with personal demons through an unconventional therapy approach focused on trust and her best interests.
 
@@ -768,7 +768,7 @@ So in summary, Duncan convinces Cathy to treat his daughter Madeline after years
 
 - Madeline sees parallels between hiring demanding but talented employees and recreating the family dynamic with her mother. Opening up about these past betrayals helps explain her trust issues and workaholic tendencies in therapy.
 
- Here is a summary:
+ 
 
 - Madeline and her husband Joey were having relationship issues as their interests diverged. Joey refused to consider Madeline's interests or make her happy. 
 
@@ -780,7 +780,7 @@ So in summary, Duncan convinces Cathy to treat his daughter Madeline after years
 
 - Her employee Vienna interrupts a therapy session to warn about financial troubles at Madeline's company, showing other ongoing stresses in Madeline's life she is working to address.
 
- Here is a summary:
+ 
 
 - Madeline realizes she subconsciously believed she was a "monster" and that monsters don't deserve happiness, explaining her fear that good things in her life would be taken away. 
 
@@ -792,7 +792,7 @@ So in summary, Duncan convinces Cathy to treat his daughter Madeline after years
 
 - The therapist wants to help Madeline integrate these insights into a new narrative that addresses the root cause of her destructive patterns and debilitating symptoms related to her traumatic childhood and mother's influence. Facing the real issues could allow meaningful change, rather than just managing symptoms indefinitely.
 
- Here is a summary:
+ 
 
 - Madeline was afraid to visit her mother Charlotte in Florida due to past negative experiences. Her mother had neglected to pick her up from the airport before and was generally emotionally unavailable. 
 
@@ -804,7 +804,7 @@ So in summary, Duncan convinces Cathy to treat his daughter Madeline after years
 
 - Even though Charlotte was a neglectful mother, Madeline's instinct was still to seek her love, like infant animals seeking care from their parents. Stories are shared about how important early bonding and experiences with caregivers are for development.
 
- Here is a summary:
+ 
 
 - Madeline expressed increased anxiety about plane crashes affecting her business. I recommended either letting employees fly and managing anxiety, taking medication, or continuing therapy. 
 
@@ -820,7 +820,7 @@ So in summary, Duncan convinces Cathy to treat his daughter Madeline after years
 
 The summary highlights Madeline's severe health issues and ongoing anxiety, as well as the revealed lack of support from her mother during her cancer treatments. It also notes Madeline's belief that her immune system was damaged from childhood abuse, leaving her susceptible to multiple cancers.
 
- Here is a summary:
+ 
 
 - Madeline had been working for her antiques company non-stop for over two years, working every day and weekend. Her assistant Vienna was worried about her health. 
 
@@ -834,7 +834,7 @@ The summary highlights Madeline's severe health issues and ongoing anxiety, as w
 
 So in summary, the therapist pushed Madeline too far by confronting her about Anton before she was ready, causing her to end therapy due to resurfaced emotional trauma from her past.
 
- Here is a summary:
+ 
 
 - Madeline was terrified of plane crashes and falling in love with Anton, as love meant abandonment, disappointment and betrayal based on her family experiences. 
 
@@ -846,7 +846,7 @@ So in summary, the therapist pushed Madeline too far by confronting her about An
 
 - The author met with his mentor Dr. Milch to discuss the case. Dr. Milch pointed out many flaws and rule-breakings in how the author handled Duncan and Madeline, suggesting it revealed unresolved issues with the author's own father. The author's father had been successful but later embarrassed the family and abandoned the author financially. This countertransference blinded the author to fully explore Duncan's behaviors and hold him accountable.
 
- Here is a summary:
+ 
 
 - The patient argues that her father's abandonment of the family due to a brain tumor when she was a teenager wasn't his fault. However, Dr. Milch points out that the unconscious mind doesn't care about facts - it only experiences emotions like abandonment. 
 
@@ -856,7 +856,7 @@ So in summary, the therapist pushed Madeline too far by confronting her about An
 
 - The session shows how therapy helped the patient overcome issues from her past that she couldn't on her own, and the importance of not becoming complacent as an experienced therapist. Self-awareness and addressing the unconscious is important.
 
- Here is a summary:
+ 
 
 - Madeline overcame her struggles with mental health issues and workaholism over the course of her therapy with the author, which spanned more than 4 years. 
 

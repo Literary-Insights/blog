@@ -60,7 +60,7 @@ The key idea is that recognizing how our thinking impacts our emotions and actio
 
 - Deep breathing is presented as a tool to help diffuse physical anxiety symptoms, by overriding the fight-or-flight response. However, effective deep breathing must be practiced regularly, like a skill.
 
- Here is a summary:
+ 
 
 The passage discusses the importance of deep breathing techniques for managing anxiety. It introduces the 4-7-8 breathing method, where you breath in for 4 counts, hold for 7 counts, and exhale for 8 counts. 
 
@@ -70,7 +70,7 @@ Along with breathing, the passage recommends taking regular breaks throughout th
 
 Finally, it suggests being kinder to oneself by challenging negative self-talk and replacing it with more supportive internal dialogue. Regular breaks, deep breathing practices, and reducing self-criticism are presented as important lifestyle habits for coping with and reducing anxiety.
 
- Here is a summary:
+ 
 
 The chapter discusses how technology can both help and hinder managing anxiety. While technology is useful for things like sharing information, it can also interrupt important activities and negatively influence mood. 
 
@@ -94,7 +94,7 @@ While technology offers benefits, the chapter cautions that it's important for m
 
 - Exposure therapy is recommended, where patients gradually face feared situations to desensitize the anxiety response over time in small, managed increments rather than all at once. The goal is to teach tolerance of anxiety symptoms.
 
- Here is a summary:
+ 
 
 This chapter discusses how to deal with people who don't understand anxiety. It proposes writing a letter to such people to help explain what anxiety feels like from the perspective of someone experiencing it. 
 

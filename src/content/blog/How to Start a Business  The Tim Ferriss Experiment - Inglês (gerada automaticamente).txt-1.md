@@ -16,7 +16,7 @@ BOOK LINK:
 
 
 
- Here is a summary:
+ 
 
 - Tim Ferriss and Noah Kagan are helping a novice entrepreneur named Cindy Manet over the course of 4 days to launch her own yoga business. 
 
@@ -30,7 +30,7 @@ BOOK LINK:
 
 The key events are evaluating Cindy's current teaching, defining financial and lifestyle goals, using unconventional methods like facing fears to build confidence, and giving an ambitious class/payment goal to really challenge her as an entrepreneur within the 4 day timeframe.
 
- Here is a summary:
+ 
 
 - Cindy was given a challenge by Tim and Noah to organize a disco yoga class with at least 30 paying clients within 48 hours. This was to be her largest event ever.
 

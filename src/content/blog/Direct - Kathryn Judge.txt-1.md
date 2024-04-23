@@ -290,7 +290,7 @@ In summary, the rise of giant middlemen retailers and the drive to lower costs l
 
 - Overall, middlemen like Walmart and online retailers use sophisticated strategies to influence consumer behavior. They play on biases and limited attention spans to boost sales, not always benefiting consumers.
 
- Here is a summary:
+ 
 
 The summary argues that retail middlemen like Amazon and Walmart use various tactics like dark patterns, falsehoods, and AI/big data to manipulate consumer behavior and get people to buy more than they otherwise would. This leads to overconsumption, financial fragility, and other problems. 
 
@@ -332,7 +332,7 @@ Key points:
 
 - Overall, existing middlemen often perpetuate the need for their services through barriers to competition, creating dependency, intentional friction, and other means. Disrupting these dynamics requires overcoming the obstacles they erect.
 
- Here is a summary:
+ 
 
 Trelora sought to empower home buyers by disclosing how much of the purchase price went to real estate agents rather than the seller. This threatened traditional agents who fought back by threatening to deny Trelora access to MLS listings. The MLS has long been used by traditional agents to suppress competition and maintain high fees. Antitrust lawsuits have repeatedly accused MLSs of anticompetitive behavior, but the core market structure of two high-fee agents remains unchanged. 
 

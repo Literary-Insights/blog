@@ -29,7 +29,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - In conclusion, confidence is a learnable skill that involves cultivating the right mindset, using positive strategies to build your self-belief, and continuously improving yourself. Mastering your confidence will transform you into an alpha male.
 
- Here is a summary:
+ 
 
 - Confidence is not arrogance, aggression or insensitivity. Those traits show excessive self-belief and disregard for others. True confidence is believing in yourself while also being respectful of others. 
 
@@ -53,7 +53,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 In summary, the right mindset and actions can build true confidence from the inside out. But it starts with understanding what confidence really is - and is not. A confident person believes in themselves while also showing respect, empathy and compassion for others.
 
- Here is a summary:
+ 
 
 The statements “I’ll possibly die in one too.”, “This is who I am and I can’t do nothin’ about it!” and “Once shy, always shy!” reflect the belief that everything in one’s life is permanent and can’t be changed. 
 
@@ -77,7 +77,7 @@ To sow confidence mindsets:
 
 Use positive affirmations or self-talk to reprogram your mind. List your wrong mindsets, then write positive affirmations to replace them. Post the affirmations where you’ll see them often and read them aloud regularly to soak your mind in confidence. Keep practicing even after the new mindsets take root to avoid reverting to the old ones.
 
- Here is a summary:
+ 
 
 • Positive affirmations are most effective when used with the help of trusted others who can give you honest feedback.  They can help catch negative thoughts before they become habits again.
 
@@ -139,7 +139,7 @@ The key strategies for building self-confidence are: surround yourself with succ
 
 Does this summary accurately reflect the key points about dressing well for confidence? Let me know if you would like me to clarify or expand on any part of the summary.
 
- Here is a summary:
+ 
 
 - Have an ideal-sized wardrobe - not too much, not too little. Too many clothes leads to waste and confusion. Too few leads to lack of options. Find the middle ground.
 
@@ -155,7 +155,7 @@ Does this summary accurately reflect the key points about dressing well for conf
 
 - Check out the author's other training books on related topics like body language, eye contact, voice, communication skills, overcoming social anxiety.
 
- Here is a summary:
+ 
 
 - The message expresses an understanding of the pain of feeling ignored and lacking social connections. 
 
