@@ -1,5 +1,5 @@
 ---
-title: All In_ How Great Leaders Build Unstoppable Teams - Mike Michalowicz
+title: All In How Great Leaders Build Unstoppable Teams - Mike Michalowicz
 slug: all-in-how-great-leaders-build-unstoppable-teams-mike-michalowicz
 tags: 
   - book-summary
@@ -7,7 +7,7 @@ excerpt: ""
 category: "self-help"
 author: "matheus-puppe"
 publishDate: "2024-04-21T00:00:00.000Z"
-
+image: "./src/assets/book_images/all-in-how-great-leaders-build-unstoppable-teams-mike-michalowicz.jpg"
 ---
 
 **"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
@@ -18,8 +18,6 @@ BOOK LINK:
 [CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=all-in-how-great-leaders-build-unstoppable-teams-mike-michalowicz)
 
 
-
- Here is a summary of the key points:
 
 - The introduction contrasts the experiences of two security guards - one who damaged an expensive painting at a museum in Russia, and one who helped curate an exhibition at the Baltimore Museum of Art and developed an appreciation for the art. 
 
