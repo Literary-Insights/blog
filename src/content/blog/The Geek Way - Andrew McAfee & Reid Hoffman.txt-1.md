@@ -1,13 +1,13 @@
 ---
-title: DEEP SUMMARY - The Geek Way - Andrew McAfee & Reid Hoffman
-slug: deep-summary-the-geek-way-andrew-mcafee-reid-hoffman
+title: The Geek Way - Andrew McAfee & Reid Hoffman
+slug: the-geek-way-andrew-mcafee-reid-hoffman
 tags: 
   - book-summary
 excerpt: ""
 category: "self-help"
 author: "matheus-puppe"
 publishDate: "2024-04-21T00:00:00.000Z"
-image: "./src/assets/book_images/brain-for-innovation-the-neuroscience-of-imagination-and-abstract-thinking-a-jung-min.jpg"
+image: "./src/assets/book_images/the-geek-way-andrew-mcafee-reid-hoffman.jpg"
 ---
 
 **"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
