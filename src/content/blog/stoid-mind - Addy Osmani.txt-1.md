@@ -11,6 +11,9 @@ publishDate: "2024-04-21T00:00:00.000Z"
 image: https://cdn.hashnode.com/res/hashnode/image/upload/v1694041424277/MtShwmnm5.jpg?auto=format
 ---
 
+**"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
+
+
 BOOK LINK:
 
 [CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-stoic-mind-addy-osmani)
@@ -107,6 +110,9 @@ This chapter discusses the importance of taking time to rest and recover to work
 It explains that just as having too many open browser tabs can slow down a computer, mental clutter negatively impacts cognitive performance and creativity. The brain needs rest periods to recharge and strengthen neural connections through synaptic homeostasis. 
 
 Some strategies recommended for decluttering the mind and allowing for recovery include identifying unnecessary thoughts and closing those "mental tabs," creating a task inventory, implementing scheduled breaks using time-blocking techniques, engaging in leisure activities and mindfulness practices, and prioritizing quality sleep and regular downtime. Taking the time to declutter and recharge the mind in a balanced way is said to foster an environment for sustained productivity, creativity, and overall well-being.
+
+**"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
+
 
 BOOK LINK:
 

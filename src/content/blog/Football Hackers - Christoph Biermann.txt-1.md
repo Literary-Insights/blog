@@ -11,6 +11,9 @@ image: https://cdn.hashnode.com/res/hashnode/image/upload/v1690984548053/YHGv3OV
 
 ---
 
+**"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
+
+
 BOOK LINK:
 
 [CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=football-hackers-christoph-biermann)
@@ -589,6 +592,9 @@ Overall, data analytics in football holds promise but remains a work in progress
 - Outsiders often bring the most innovative ideas to football.
 
 - Data provides insights, but human creativity, empathy, and artistry are still essential.
+
+
+**"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
 
 
 BOOK LINK:

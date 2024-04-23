@@ -11,6 +11,9 @@ publishDate: "2024-04-21T00:00:00.000Z"
 image: https://cdn.hashnode.com/res/hashnode/image/upload/v1691657277407/IivanUpPE.jpg?auto=format
 ---
 
+**"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
+
+
 BOOK LINK:
 
 [CLICK HERE](https://amzn.to/3qicycp)
@@ -493,6 +496,9 @@ The preface acknowledges the contributions of Barzilay and other experts, whose 
 - There are calls for international norms or treaties to ban fully autonomous weapons. However, definitions and verification would be challenging. More feasible near-term goals could include bars against targeting civilians or rapid uncontrolled escalation.
 
 - Balancing national security interests and ethical principles around new technologies will require openness, wisdom, and cooperation between nations. This is important to steer technologies like A.I. toward benefitting humanity.
+
+**"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
+
 
 BOOK LINK:
 

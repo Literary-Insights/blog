@@ -9,6 +9,9 @@ author: "matheus-puppe"
 publishDate: "2024-04-21T00:00:00.000Z"
 
 ---
+**"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
+
+
 BOOK LINK:
 
 [CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=how-to-lie-with-statistics-huff-darrell)
@@ -270,6 +273,9 @@ So, watch out for these issues when evaluating the meaning of statistics. Essent
 - Similarly, the anecdote about the minister's generic praise of babies highlights making positive yet noncommittal comments.
 
 The passage uses humor and hyperbole to satirize making grand extrapolations from limited data and illustrates the effectiveness of vague, polite responses in certain situations.
+
+
+**"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
 
 
 BOOK LINK:

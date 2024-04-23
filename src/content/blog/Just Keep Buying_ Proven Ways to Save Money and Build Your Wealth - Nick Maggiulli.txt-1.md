@@ -11,6 +11,9 @@ image: https://cdn.hashnode.com/res/hashnode/image/upload/v1691064124831/6MffOby
 
 ---
 
+**"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
+
+
 BOOK LINK:
 
 [CLICK HERE](https://amzn.to/3DGAZDe)
@@ -593,6 +596,9 @@ In summary, only sell when necessary based on specific criteria, do so patiently
 - Consider alternatives before maxing out retirement accounts.
 
 - Time is the most valuable asset.
+
+
+**"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
 
 
 BOOK LINK:

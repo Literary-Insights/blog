@@ -11,6 +11,9 @@ publishDate: "2024-04-21T00:00:00.000Z"
 image: https://cdn.hashnode.com/res/hashnode/image/upload/v1691657826206/AIosx4tN2.jpg?auto=format
 ---
 
+**"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
+
+
 BOOK LINK:
 
 [CLICK HERE](https://amzn.to/3QyyACr)
@@ -283,6 +286,9 @@ In summary, the articles discuss cases where police investigated women in the UK
 - The perspectives of philosophers, authors, and scholars on both sides of the issue are summarized, such as Mill, Orwell, Haidt, and Lukianoff regarding the importance of open debate, and others calling for restrictions on speech that targets or incites harm against minorities.
 
 - The passage analyzes debates around balancing free expression, limiting hate speech, and protecting minority groups from discrimination or incitement of violence through speech. Both sides of the complex issue are discussed.
+
+**"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
+
 
 BOOK LINK:
 

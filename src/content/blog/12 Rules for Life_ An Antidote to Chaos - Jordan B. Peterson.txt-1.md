@@ -11,6 +11,9 @@ image: https://cdn.hashnode.com/res/hashnode/image/upload/v1691706867249/7vheVay
 
 ---
 
+**"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
+
+
 BOOK LINK:
 
 [CLICK HERE](https://amzn.to/47pSeX7)

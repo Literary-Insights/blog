@@ -11,6 +11,9 @@ image: https://cdn.hashnode.com/res/hashnode/image/upload/v1691112026506/gTi6nfL
 
 ---
 
+**"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
+
+
 BOOK LINK:
 
 [CLICK HERE](https://amzn.to/47hyTr2)
@@ -1033,6 +1036,9 @@ In summary, the book explores how modern technology changes and challenges tradi
 - Mary Shelley was a British novelist who wrote Frankenstein in 1818. Some have analyzed the novel as metaphorically exploring the idea of psychic trauma and "the shell-shocked monster" created through trauma. Shelley's mother died in childbirth, and her husband, Percy Shelley, drowned, events that may have contributed to themes of trauma and loss in her writing.
 
 - Frankenstein's monster can be seen as a metaphor for a soldier suffering from shell shock - feared and rejected by society due to psychological scars from traumatic experiences. Shelley seemed to recognize the human capacity to become psychologically damaged or "monstrous" when subjected to extreme trauma.
+
+**"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
+
 
 BOOK LINK:
 

@@ -12,6 +12,9 @@ image: https://cdn.hashnode.com/res/hashnode/image/upload/v1691528235584/oJdPjAF
 ---
 
 
+**"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
+
+
 BOOK LINK:
 
 [CLICK HERE](https://amzn.to/3OjVz12)
@@ -1084,6 +1087,9 @@ So, in summary, the lists present a framework of "After I [trigger], I will [tin
 • Together: The book also discusses how small changes multiplied among people can significantly impact. It provides examples of tiny habit recipes for different life situations.
 
 The book presents a practical framework for using tiny habits to create meaningful change in life, relationships, and work through motivation, ability, and prompt design.
+
+
+**"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
 
 
 BOOK LINK:

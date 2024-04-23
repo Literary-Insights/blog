@@ -11,6 +11,9 @@ image: https://cdn.hashnode.com/res/hashnode/image/upload/v1691066524114/QfEYwSY
 
 ---
 
+**"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
+
+
 BOOK LINK:
 
 [CLICK HERE](https://amzn.to/45bQ2R5)
@@ -1239,6 +1242,9 @@ The global population may peak at around 10 billion by 2100 before declining. Po
 - The passage indicates this scientist has produced numerous influential books and made significant contributions to several important policy areas through his research and writing.
 
 - He is considered an authoritative voice on scientific issues with global relevance.
+
+**"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
+
 
 BOOK LINK:
 

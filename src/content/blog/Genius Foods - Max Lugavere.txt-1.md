@@ -12,6 +12,9 @@ image: https://cdn.hashnode.com/res/hashnode/image/upload/v1691778135799/aDGREcV
 
 ---
 
+**"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
+
+
 BOOK LINK:
 
 [CLICK HERE](https://amzn.to/45qTCa4)
@@ -1116,6 +1119,9 @@ Does this accurately summarize the book's critical points about fats and oils? L
 - Lifestyle factors like sleep, exercise, stress management, and meaningful social connection are emphasized alongside diet for overall brain health. 
 
 - Recipes and supplement recommendations support the discussed dietary and lifestyle approaches.
+
+
+**"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
 
 
 BOOK LINK:
