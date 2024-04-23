@@ -1,6 +1,6 @@
 ---
 title: Grasp_ The Science Transforming How We Learn - Sanjay Sarma & Luke Yoquinto
-slug: deep-summary-grasp_-the-science-transforming-how-we-learn-sanjay-sarma-luke-yoquinto
+slug: grasp-the-science-transforming-how-we-learn-sanjay-sarma-luke-yoquinto
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=grasp_-the-science-transforming-how-we-learn-sanjay-sarma-luke-yoquinto)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=grasp-the-science-transforming-how-we-learn-sanjay-sarma-luke-yoquinto)
 
 
 
@@ -138,7 +138,7 @@ So in summary, the passage describes an MIT engineering lab using robotics proje
 
 - The passage discusses how spaced repetition or spaced learning is more effective for memory retention than cramming all study into one session. Spacing out study sessions over days or weeks leads to remembering 34% more vocabulary words or performing twice as well on math problems. 
 
-- Spacing benefits have been shown in many domains from language learning to surgery to motor skills. Surprisingly, even simple organisms like fruit flies and brainless sea slugs called Aplysia benefit from spaced learning. This suggests spacing taps into fundamental memory mechanisms.
+- Spacing benefits have been shown in many domains from language learning to surgery to motor skills. Surprisingly, even simple organisms like fruit flies and brainless sea slug: s called Aplysia benefit from spaced learning. This suggests spacing taps into fundamental memory mechanisms.
 
 - Early researcher Hermann Ebbinghaus found spacing improved retention in his nonsense syllable experiments in 1885. Thorndike later coined the terms short-term and long-term memory. However, spacing effects were not a major focus of early 20th century behaviorist psychology. 
 
@@ -146,7 +146,7 @@ So in summary, the passage describes an MIT engineering lab using robotics proje
 
  Here is a summary:
 
-- The passage describes Eric Kandel's work using the sea slug Aplysia californica to study the neural basis of memory. 
+- The passage describes Eric Kandel's work using the sea slug:  Aplysia californica to study the neural basis of memory. 
 
 - In the 1960s, Kandel sought a simple model system to understand memory at the cellular level. He was drawn to Aplysia due to its large, identifiable neurons and simple neural circuits. 
 
@@ -158,7 +158,7 @@ So in summary, the passage describes an MIT engineering lab using robotics proje
 
  Here's a summary:
 
-- Eric Kandel studied the sea slug Aplysia and its gill withdrawal reflex, which could be conditioned through classical and operant conditioning experiments. 
+- Eric Kandel studied the sea slug:  Aplysia and its gill withdrawal reflex, which could be conditioned through classical and operant conditioning experiments. 
 
 - He isolated clusters of Aplysia neurons and showed that simple forms of learning like habituation and sensitization correlated with weakening and strengthening of synapses between neurons. 
 
@@ -174,7 +174,7 @@ So in summary, the passage describes an MIT engineering lab using robotics proje
 
 - Edward Thorndike in the early 20th century postulated laws of learning based on simple experiments with animals. His work inspired later psychologists like Edward Tolman and B.F. Skinner.
 
-- In the 1960s-70s, Eric Kandel conducted experiments on learning and memory in Aplysia sea slugs. He was unique in using electrophysiology techniques to study learning mechanisms at the cellular level, inspired by behaviorist theories. 
+- In the 1960s-70s, Eric Kandel conducted experiments on learning and memory in Aplysia sea slug: s. He was unique in using electrophysiology techniques to study learning mechanisms at the cellular level, inspired by behaviorist theories. 
 
 - Kandel's work helped uncover two mechanisms of synaptic plasticity - short-term potentiation based on neurotransmitter release, and long-term potentiation (LTP) requiring new protein synthesis. 
 

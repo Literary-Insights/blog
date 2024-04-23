@@ -1,6 +1,6 @@
 ---
 title: The World Before Us - Tom Higham
-slug: deep-summary-the-world-before-us-tom-higham
+slug: the-world-before-us-tom-higham
 tags: 
   - book-summary
 excerpt: ""

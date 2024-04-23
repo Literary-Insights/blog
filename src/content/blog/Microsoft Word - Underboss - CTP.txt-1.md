@@ -1,6 +1,6 @@
 ---
 title: Microsoft Word - Underboss - CTP
-slug: deep-summary-microsoft-word-underboss-ctp
+slug: microsoft-word-underboss-ctp
 tags: 
   - book-summary
 excerpt: ""

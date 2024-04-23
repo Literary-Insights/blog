@@ -1,6 +1,6 @@
 ---
 title: Blockchain By Example - Bellaj Badr
-slug: deep-summary-blockchain-by-example-bellaj-badr
+slug: blockchain-by-example-bellaj-badr
 tags: 
   - book-summary
 excerpt: ""

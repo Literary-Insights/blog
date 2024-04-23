@@ -1,6 +1,6 @@
 ---
 title: Forget the Funnel - Georgiana Laudi
-slug: deep-summary-forget-the-funnel-georgiana-laudi
+slug: forget-the-funnel-georgiana-laudi
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: Humanocracy - Gary Hamel & Michele Zanini
-slug: deep-summary-humanocracy-gary-hamel-michele-zanini
+slug: humanocracy-gary-hamel-michele-zanini
 tags: 
   - book-summary
 excerpt: ""

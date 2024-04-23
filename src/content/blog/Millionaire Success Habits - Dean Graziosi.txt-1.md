@@ -1,6 +1,6 @@
 ---
 title: Millionaire Success Habits - Dean Graziosi
-slug: deep-summary-millionaire-success-habits-dean-graziosi
+slug: millionaire-success-habits-dean-graziosi
 tags: 
   - book-summary
 excerpt: ""

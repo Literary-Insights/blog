@@ -1,6 +1,6 @@
 ---
 title: Blueprint - Nicholas A. Christakis
-slug: deep-summary-blueprint-nicholas-a-christakis
+slug: blueprint-nicholas-a-christakis
 tags: 
   - book-summary
 excerpt: ""

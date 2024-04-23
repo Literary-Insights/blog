@@ -1,6 +1,6 @@
 ---
 title: How to Teach Anything_ Break Down Complex Topics and Explain with Clarity, While Keeping Engagement and Motivation (Learning how to Learn Book 13) - Peter Hollins
-slug: deep-summary-how-to-teach-anything_-break-down-complex-topics-and-explain-with-clarity-while-keeping-engagement-and-motivation-learning-how-to-learn-book-13-peter-hollins
+slug: how-to-teach-anything-break-down-complex-topics-and-explain-with-clarity-while-keeping-engagement-and-motivation-learning-how-to-learn-book-13-peter-hollins
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=how-to-teach-anything_-break-down-complex-topics-and-explain-with-clarity-while-keeping-engagement-and-motivation-learning-how-to-learn-book-13-peter-hollins)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=how-to-teach-anything-break-down-complex-topics-and-explain-with-clarity-while-keeping-engagement-and-motivation-learning-how-to-learn-book-13-peter-hollins)
 
 
 

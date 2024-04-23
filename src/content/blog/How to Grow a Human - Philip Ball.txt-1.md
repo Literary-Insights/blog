@@ -1,6 +1,6 @@
 ---
 title: How to Grow a Human - Philip Ball
-slug: deep-summary-how-to-grow-a-human-philip-ball
+slug: how-to-grow-a-human-philip-ball
 tags: 
   - book-summary
 excerpt: ""
@@ -222,7 +222,7 @@ The key point is that early human development involves the formation of versatil
 
 - Dictyostelium discoideum, commonly known as slime molds, are amoeba-like organisms that consume bacteria and help maintain microbial balance in soil. 
 
-- During times of shortage, Dictyostelium cells come together to form a multicellular "slug" that develops into a structure with spores. Some cells sacrifice themselves to support the spores.
+- During times of shortage, Dictyostelium cells come together to form a multicellular "slug: " that develops into a structure with spores. Some cells sacrifice themselves to support the spores.
 
 - The cells communicate through chemical signaling, coordinating their movement in waves resembling ripples. This allows them to aggregate into fruiting bodies with specialized cell types.
 

@@ -1,6 +1,6 @@
 ---
 title: How Intelligent Creators Will Make Money In 2024 (The Build Teach Earn Method) - Inglês (gerada automaticamente)
-slug: deep-summary-how-intelligent-creators-will-make-money-in-2024-the-build-teach-earn-method-inglês-gerada-automaticamente-
+slug: how-intelligent-creators-will-make-money-in-2024-the-build-teach-earn-method-inglês-gerada-automaticamente-
 tags: 
   - book-summary
 excerpt: ""

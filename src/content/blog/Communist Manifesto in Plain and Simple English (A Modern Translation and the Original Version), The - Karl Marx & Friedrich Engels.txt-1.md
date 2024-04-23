@@ -1,6 +1,6 @@
 ---
 title: Communist Manifesto in Plain and Simple English (A Modern Translation and the Original Version), The - Karl Marx & Friedrich Engels
-slug: deep-summary-communist-manifesto-in-plain-and-simple-english-a-modern-translation-and-the-original-version-the-karl-marx-friedrich-engels
+slug: communist-manifesto-in-plain-and-simple-english-a-modern-translation-and-the-original-version-the-karl-marx-friedrich-engels
 tags: 
   - book-summary
 excerpt: ""

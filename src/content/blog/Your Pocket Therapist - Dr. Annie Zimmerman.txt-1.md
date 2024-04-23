@@ -1,6 +1,6 @@
 ---
 title: Your Pocket Therapist - Dr. Annie Zimmerman
-slug: deep-summary-your-pocket-therapist-dr-annie-zimmerman
+slug: your-pocket-therapist-dr-annie-zimmerman
 tags: 
   - book-summary
 excerpt: ""

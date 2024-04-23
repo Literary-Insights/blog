@@ -1,6 +1,6 @@
 ---
 title: $100M Offers_ How To Make Offers So Good People Feel Stupid Saying No - Alex Hormozi
-slug: deep-summary--100m-offers_-how-to-make-offers-so-good-people-feel-stupid-saying-no-alex-hormozi
+slug: 100m-offers-how-to-make-offers-so-good-people-feel-stupid-saying-no-alex-hormozi
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=-100m-offers_-how-to-make-offers-so-good-people-feel-stupid-saying-no-alex-hormozi)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=-100m-offers-how-to-make-offers-so-good-people-feel-stupid-saying-no-alex-hormozi)
 
 
 

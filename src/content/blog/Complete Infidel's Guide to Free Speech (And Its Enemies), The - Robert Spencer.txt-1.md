@@ -1,6 +1,6 @@
 ---
 title: Complete Infidel's Guide to Free Speech (And Its Enemies), The - Robert Spencer
-slug: deep-summary-complete-infidel-s-guide-to-free-speech-and-its-enemies-the-robert-spencer
+slug: complete-infidel-s-guide-to-free-speech-and-its-enemies-the-robert-spencer
 tags: 
   - book-summary
 excerpt: ""

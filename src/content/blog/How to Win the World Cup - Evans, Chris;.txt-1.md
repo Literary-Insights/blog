@@ -1,6 +1,6 @@
 ---
-title: How to Win the World Cup - Evans, Chris;
-slug: how-to-win-the-world-cup-evans-chris- 
+title: How to Win the World Cup - Evans, Chris
+slug: how-to-win-the-world-cup-evans-chris
 tags: 
   - book-summary
 excerpt: ""

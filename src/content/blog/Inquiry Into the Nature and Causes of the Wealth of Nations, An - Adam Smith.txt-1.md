@@ -1,6 +1,6 @@
 ---
 title: Inquiry Into the Nature and Causes of the Wealth of Nations, An - Adam Smith
-slug: deep-summary-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-an-adam-smith
+slug: inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-an-adam-smith
 tags: 
   - book-summary
 excerpt: ""

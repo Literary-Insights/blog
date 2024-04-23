@@ -1,6 +1,6 @@
 ---
 title: Free Will - Sam Harris
-slug: deep-summary-free-will-sam-harris
+slug: free-will-sam-harris
 tags: 
   - book-summary
 excerpt: ""

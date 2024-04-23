@@ -1,6 +1,6 @@
 ---
 title: DEEP SUMMARY -The Stoic Mind - Addy Osmani
-slug: deep-summary-the-stoic-mind-addy-osmani
+slug: the-stoic-mind-addy-osmani
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: 0465002214_Cochran - pauline
-slug: deep-summary-0465002214_cochran-pauline
+slug: 0465002214_cochran-pauline
 tags: 
   - book-summary
 excerpt: ""

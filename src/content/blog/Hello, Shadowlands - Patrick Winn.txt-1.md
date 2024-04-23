@@ -1,6 +1,6 @@
 ---
 title: Hello, Shadowlands - Patrick Winn
-slug: deep-summary-hello-shadowlands-patrick-winn
+slug: hello-shadowlands-patrick-winn
 tags: 
   - book-summary
 excerpt: ""

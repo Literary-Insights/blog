@@ -1,6 +1,6 @@
 ---
 title: Brief History of Equality, A - Thomas Piketty
-slug: deep-summary-brief-history-of-equality-a-thomas-piketty
+slug: brief-history-of-equality-a-thomas-piketty
 tags: 
   - book-summary
 excerpt: ""

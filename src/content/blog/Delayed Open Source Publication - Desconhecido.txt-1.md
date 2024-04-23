@@ -1,6 +1,6 @@
 ---
 title: Delayed Open Source Publication - Desconhecido
-slug: deep-summary-delayed-open-source-publication-desconhecido
+slug: delayed-open-source-publication-desconhecido
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: It's All In Your Head - Russ
-slug: deep-summary-it-s-all-in-your-head-russ
+slug: it-s-all-in-your-head-russ
 tags: 
   - book-summary
 excerpt: ""

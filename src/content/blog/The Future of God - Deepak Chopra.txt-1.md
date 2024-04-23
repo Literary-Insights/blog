@@ -1,6 +1,6 @@
 ---
 title: The Future of God - Deepak Chopra
-slug: deep-summary-the-future-of-god-deepak-chopra
+slug: the-future-of-god-deepak-chopra
 tags: 
   - book-summary
 excerpt: ""

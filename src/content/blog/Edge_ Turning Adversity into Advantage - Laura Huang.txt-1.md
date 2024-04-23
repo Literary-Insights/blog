@@ -1,6 +1,6 @@
 ---
 title: Edge_ Turning Adversity into Advantage - Laura Huang
-slug: deep-summary-edge_-turning-adversity-into-advantage-laura-huang
+slug: edge-turning-adversity-into-advantage-laura-huang
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=edge_-turning-adversity-into-advantage-laura-huang)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=edge-turning-adversity-into-advantage-laura-huang)
 
 
 

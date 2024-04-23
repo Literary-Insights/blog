@@ -1,6 +1,6 @@
 ---
 title: Mastering the Body Language_ How to Read People's Mind with Nonverbal Communication - Josh Cantrell
-slug: deep-summary-mastering-the-body-language_-how-to-read-people-s-mind-with-nonverbal-communication-josh-cantrell
+slug: mastering-the-body-language-how-to-read-people-s-mind-with-nonverbal-communication-josh-cantrell
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=mastering-the-body-language_-how-to-read-people-s-mind-with-nonverbal-communication-josh-cantrell)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=mastering-the-body-language-how-to-read-people-s-mind-with-nonverbal-communication-josh-cantrell)
 
 
 

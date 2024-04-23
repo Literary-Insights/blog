@@ -1,6 +1,6 @@
 ---
 title: I Don't Just Work Here - Felicia Joy
-slug: deep-summary-i-don-t-just-work-here-felicia-joy
+slug: i-don-t-just-work-here-felicia-joy
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: 101 Essays That Will Change The Way You Th - Brianna Wiest
-slug: deep-summary-101-essays-that-will-change-the-way-you-th-brianna-wiest
+slug: 101-essays-that-will-change-the-way-you-th-brianna-wiest
 tags: 
   - book-summary
 excerpt: ""

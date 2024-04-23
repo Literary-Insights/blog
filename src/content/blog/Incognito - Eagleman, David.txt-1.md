@@ -1,6 +1,6 @@
 ---
 title: Incognito - Eagleman, David
-slug: deep-summary-incognito-eagleman-david
+slug: incognito-eagleman-david
 tags: 
   - book-summary
 excerpt: ""

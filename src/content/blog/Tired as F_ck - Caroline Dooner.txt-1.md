@@ -1,6 +1,6 @@
 ---
 title: Tired as F_ck - Caroline Dooner
-slug: deep-summary-tired-as-f_ck-caroline-dooner
+slug: tired-as-f_ck-caroline-dooner
 tags: 
   - book-summary
 excerpt: ""

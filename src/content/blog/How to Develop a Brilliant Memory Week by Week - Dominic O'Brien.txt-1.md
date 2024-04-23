@@ -1,6 +1,6 @@
 ---
 title: How to Develop a Brilliant Memory Week by Week - Dominic O'Brien
-slug: deep-summary-how-to-develop-a-brilliant-memory-week-by-week-dominic-o-brien
+slug: how-to-develop-a-brilliant-memory-week-by-week-dominic-o-brien
 tags: 
   - book-summary
 excerpt: ""

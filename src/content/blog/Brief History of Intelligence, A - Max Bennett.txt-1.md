@@ -1,6 +1,6 @@
 ---
 title: Brief History of Intelligence, A - Max Bennett
-slug: deep-summary-brief-history-of-intelligence-a-max-bennett
+slug: brief-history-of-intelligence-a-max-bennett
 tags: 
   - book-summary
 excerpt: ""

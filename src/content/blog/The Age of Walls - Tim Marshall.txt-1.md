@@ -1,6 +1,6 @@
 ---
 title: The Age of Walls - Tim Marshall
-slug: deep-summary-the-age-of-walls-tim-marshall
+slug: the-age-of-walls-tim-marshall
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: How Life Works_ A User’s Guide to the New Biology - Philip Ball
-slug: deep-summary-how-life-works_-a-user-s-guide-to-the-new-biology-philip-ball
+slug: how-life-works-a-user-s-guide-to-the-new-biology-philip-ball
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=how-life-works_-a-user-s-guide-to-the-new-biology-philip-ball)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=how-life-works-a-user-s-guide-to-the-new-biology-philip-ball)
 
 
 

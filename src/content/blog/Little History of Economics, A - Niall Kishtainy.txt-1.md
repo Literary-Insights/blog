@@ -1,6 +1,6 @@
 ---
 title: Little History of Economics, A - Niall Kishtainy
-slug: deep-summary-little-history-of-economics-a-niall-kishtainy
+slug: little-history-of-economics-a-niall-kishtainy
 tags: 
   - book-summary
 excerpt: ""

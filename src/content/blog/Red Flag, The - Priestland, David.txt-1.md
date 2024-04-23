@@ -1,6 +1,6 @@
 ---
 title: Red Flag, The - Priestland, David
-slug: deep-summary-red-flag-the-priestland-david
+slug: red-flag-the-priestland-david
 tags: 
   - book-summary
 excerpt: ""

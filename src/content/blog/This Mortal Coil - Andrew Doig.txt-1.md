@@ -1,6 +1,6 @@
 ---
 title: This Mortal Coil - Andrew Doig
-slug: deep-summary-this-mortal-coil-andrew-doig
+slug: this-mortal-coil-andrew-doig
 tags: 
   - book-summary
 excerpt: ""

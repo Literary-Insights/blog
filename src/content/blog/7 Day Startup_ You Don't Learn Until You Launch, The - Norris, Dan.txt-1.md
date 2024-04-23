@@ -1,6 +1,6 @@
 ---
 title: 7 Day Startup_ You Don't Learn Until You Launch, The - Norris, Dan
-slug: deep-summary-7-day-startup_-you-don-t-learn-until-you-launch-the-norris-dan
+slug: 7-day-startup-you-don-t-learn-until-you-launch-the-norris-dan
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=7-day-startup_-you-don-t-learn-until-you-launch-the-norris-dan)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=7-day-startup-you-don-t-learn-until-you-launch-the-norris-dan)
 
 
 

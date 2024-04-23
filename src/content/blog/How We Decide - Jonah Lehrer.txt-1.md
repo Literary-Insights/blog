@@ -1,6 +1,6 @@
 ---
 title: How We Decide - Jonah Lehrer
-slug: deep-summary-how-we-decide-jonah-lehrer
+slug: how-we-decide-jonah-lehrer
 tags: 
   - book-summary
 excerpt: ""

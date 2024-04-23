@@ -1,6 +1,6 @@
 ---
 title: Making Sense - Sam Harris
-slug: deep-summary-making-sense-sam-harris
+slug: making-sense-sam-harris
 tags: 
   - book-summary
 excerpt: ""
@@ -694,7 +694,7 @@ So in summary, the key points are that baboons are a good non-human model for ch
 
  Here is a summary of the key points about ctors from the discussion:
 
-- Conditioning and influencing behavior is a natural neurological process that can be observed even at the molecular level in things like Aplysia sea slugs. Nervous systems can be conditioned through positive and negative reinforcement. 
+- Conditioning and influencing behavior is a natural neurological process that can be observed even at the molecular level in things like Aplysia sea slug: s. Nervous systems can be conditioned through positive and negative reinforcement. 
 
 - Punishment can be used instrumentally to affect someone's behavior through changing their frontal cortical neurons and synaptic connections. However, it should be done without claiming it serves "justice" or taking pleasure in punishment. 
 

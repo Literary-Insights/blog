@@ -1,6 +1,6 @@
 ---
 title: Game Changers - Dave Asprey
-slug: deep-summary-game-changers-dave-asprey
+slug: game-changers-dave-asprey
 tags: 
   - book-summary
 excerpt: ""

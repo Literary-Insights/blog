@@ -1,6 +1,6 @@
 ---
 title: Poor Economics - Abhijit Banerjee
-slug: deep-summary-poor-economics-abhijit-banerjee
+slug: poor-economics-abhijit-banerjee
 tags: 
   - book-summary
 excerpt: ""

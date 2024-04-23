@@ -1,6 +1,6 @@
 ---
 title: The Prince - Niccolo Machiavelli
-slug: deep-summary-the-prince-niccolo-machiavelli
+slug: the-prince-niccolo-machiavelli
 tags: 
   - book-summary
 excerpt: ""

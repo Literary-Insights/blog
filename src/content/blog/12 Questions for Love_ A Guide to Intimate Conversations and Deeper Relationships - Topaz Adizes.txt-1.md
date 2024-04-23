@@ -1,6 +1,6 @@
 ---
 title: 12 Questions for Love_ A Guide to Intimate Conversations and Deeper Relationships - Topaz Adizes
-slug: deep-summary-12-questions-for-love_-a-guide-to-intimate-conversations-and-deeper-relationships-topaz-adizes
+slug: 12-questions-for-love-a-guide-to-intimate-conversations-and-deeper-relationships-topaz-adizes
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=12-questions-for-love_-a-guide-to-intimate-conversations-and-deeper-relationships-topaz-adizes)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=12-questions-for-love-a-guide-to-intimate-conversations-and-deeper-relationships-topaz-adizes)
 
 
 - The story then shares the author's personal journey with seeking intimacy, which began at age 4 when witnessing his parents' messy divorce. He asked himself "What is wrong here?" in trying to understand their lack of intimacy and conflict-averse behavior.

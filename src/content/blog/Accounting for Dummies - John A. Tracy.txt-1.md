@@ -1,6 +1,6 @@
 ---
 title: Accounting for Dummies - John A. Tracy
-slug: deep-summary-accounting-for-dummies-john-a-tracy
+slug: accounting-for-dummies-john-a-tracy
 tags: 
   - book-summary
 excerpt: ""

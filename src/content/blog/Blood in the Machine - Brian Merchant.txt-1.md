@@ -1,6 +1,6 @@
 ---
 title: Blood in the Machine - Brian Merchant
-slug: deep-summary-blood-in-the-machine-brian-merchant
+slug: blood-in-the-machine-brian-merchant
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: Getting Unstuck in ACT - Harris, Russ
-slug: deep-summary-getting-unstuck-in-act-harris-russ
+slug: getting-unstuck-in-act-harris-russ
 tags: 
   - book-summary
 excerpt: ""

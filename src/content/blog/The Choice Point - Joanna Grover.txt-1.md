@@ -1,6 +1,6 @@
 ---
 title: The Choice Point - Joanna Grover
-slug: deep-summary-the-choice-point-joanna-grover
+slug: the-choice-point-joanna-grover
 tags: 
   - book-summary
 excerpt: ""

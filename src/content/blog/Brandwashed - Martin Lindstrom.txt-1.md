@@ -1,6 +1,6 @@
 ---
 title: Brandwashed - Martin Lindstrom
-slug: deep-summary-brandwashed-martin-lindstrom
+slug: brandwashed-martin-lindstrom
 tags: 
   - book-summary
 excerpt: ""

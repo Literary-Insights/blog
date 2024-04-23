@@ -1,6 +1,6 @@
 ---
 title: Knowledge Encyclopedia - Publishing, DK
-slug: deep-summary-knowledge-encyclopedia-publishing-dk
+slug: knowledge-encyclopedia-publishing-dk
 tags: 
   - book-summary
 excerpt: ""

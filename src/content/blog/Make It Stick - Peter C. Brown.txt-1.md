@@ -1,6 +1,6 @@
 ---
 title: Make It Stick - Peter C. Brown
-slug: deep-summary-make-it-stick-peter-c-brown
+slug: make-it-stick-peter-c-brown
 tags: 
   - book-summary
 excerpt: ""

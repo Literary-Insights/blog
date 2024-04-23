@@ -1,6 +1,6 @@
 ---
 title: A Mind For Numbers - Barbara Oakley
-slug: deep-summary-a-mind-for-numbers-barbara-oakley
+slug: a-mind-for-numbers-barbara-oakley
 tags: 
   - book-summary
 excerpt: ""

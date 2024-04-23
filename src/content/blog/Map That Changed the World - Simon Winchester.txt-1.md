@@ -1,6 +1,6 @@
 ---
 title: Map That Changed the World - Simon Winchester
-slug: deep-summary-map-that-changed-the-world-simon-winchester
+slug: map-that-changed-the-world-simon-winchester
 tags: 
   - book-summary
 excerpt: ""

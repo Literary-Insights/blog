@@ -1,6 +1,6 @@
 ---
 title: Build Your Own Media Empire Here's Why - Inglês (gerada automaticamente)
-slug: deep-summary-build-your-own-media-empire-here-s-why-inglês-gerada-automaticamente-
+slug: build-your-own-media-empire-here-s-why-inglês-gerada-automaticamente-
 tags: 
   - book-summary
 excerpt: ""

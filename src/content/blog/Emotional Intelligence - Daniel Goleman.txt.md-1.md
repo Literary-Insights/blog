@@ -1,6 +1,6 @@
 ---
-title: FAST SUMMARY - 
-slug: fast-summary-
+title: Emotional Intelligence - Daniel Goleman
+slug: Emotional-Intelligence-Daniel-Goleman
 tags: 
   - book-summary
 excerpt: ""

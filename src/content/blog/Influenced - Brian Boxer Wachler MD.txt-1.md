@@ -1,6 +1,6 @@
 ---
 title: Influenced - Brian Boxer Wachler MD
-slug: deep-summary-influenced-brian-boxer-wachler-md
+slug: influenced-brian-boxer-wachler-md
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: Merchants of Doubt - Naomi Oreskes
-slug: deep-summary-merchants-of-doubt-naomi-oreskes
+slug: merchants-of-doubt-naomi-oreskes
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: Rebel Talent - Francesca Gino
-slug: deep-summary-rebel-talent-francesca-gino
+slug: rebel-talent-francesca-gino
 tags: 
   - book-summary
 excerpt: ""

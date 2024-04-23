@@ -1,6 +1,6 @@
 ---
 title: How Asia Works - Joe Studwell
-slug: deep-summary-how-asia-works-joe-studwell
+slug: how-asia-works-joe-studwell
 tags: 
   - book-summary
 excerpt: ""

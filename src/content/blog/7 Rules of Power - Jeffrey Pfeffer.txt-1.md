@@ -1,6 +1,6 @@
 ---
 title: 7 Rules of Power - Jeffrey Pfeffer
-slug: deep-summary-7-rules-of-power-jeffrey-pfeffer
+slug: 7-rules-of-power-jeffrey-pfeffer
 tags: 
   - book-summary
 excerpt: ""

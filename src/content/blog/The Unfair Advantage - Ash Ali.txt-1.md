@@ -1,6 +1,6 @@
 ---
 title: The Unfair Advantage - Ash Ali
-slug: deep-summary-the-unfair-advantage-ash-ali
+slug: the-unfair-advantage-ash-ali
 tags: 
   - book-summary
 excerpt: ""

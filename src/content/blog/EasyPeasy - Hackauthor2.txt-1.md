@@ -1,6 +1,6 @@
 ---
 title: EasyPeasy - Hackauthor2
-slug: deep-summary-easypeasy-hackauthor2
+slug: easypeasy-hackauthor2
 tags: 
   - book-summary
 excerpt: ""

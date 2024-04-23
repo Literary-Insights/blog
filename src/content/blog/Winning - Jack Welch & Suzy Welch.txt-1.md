@@ -1,6 +1,6 @@
 ---
 title: Winning - Jack Welch & Suzy Welch
-slug: deep-summary-winning-jack-welch-suzy-welch
+slug: winning-jack-welch-suzy-welch
 tags: 
   - book-summary
 excerpt: ""

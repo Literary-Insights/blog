@@ -1,6 +1,6 @@
 ---
 title: Digital Madness - Nicholas Kardaras
-slug: deep-summary-digital-madness-nicholas-kardaras
+slug: digital-madness-nicholas-kardaras
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: Hit Refresh_ The Quest to Rediscover Micro - Satya Nadella
-slug: deep-summary-hit-refresh_-the-quest-to-rediscover-micro-satya-nadella
+slug: hit-refresh-the-quest-to-rediscover-micro-satya-nadella
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=hit-refresh_-the-quest-to-rediscover-micro-satya-nadella)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=hit-refresh-the-quest-to-rediscover-micro-satya-nadella)
 
 
 

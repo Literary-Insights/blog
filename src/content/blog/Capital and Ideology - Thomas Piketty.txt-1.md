@@ -1,6 +1,6 @@
 ---
 title: Capital and Ideology - Thomas Piketty
-slug: deep-summary-capital-and-ideology-thomas-piketty
+slug: capital-and-ideology-thomas-piketty
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: The Science Book - DK,
-slug: deep-summary-the-science-book-dk-
+slug: the-science-book-dk-
 tags: 
   - book-summary
 excerpt: ""

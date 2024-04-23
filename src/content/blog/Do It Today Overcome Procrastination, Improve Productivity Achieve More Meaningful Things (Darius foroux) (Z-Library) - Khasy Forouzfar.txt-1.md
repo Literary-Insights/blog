@@ -1,6 +1,6 @@
 ---
 title: Do It Today Overcome Procrastination, Improve Productivity Achieve More Meaningful Things (Darius foroux)  - Khasy Forouzfar
-slug: deep-summary-do-it-today-overcome-procrastination-improve-productivity-achieve-more-meaningful-things-darius-forouxkhasy-forouzfar
+slug: do-it-today-overcome-procrastination-improve-productivity-achieve-more-meaningful-things-darius-forouxkhasy-forouzfar
 tags: 
   - book-summary
 excerpt: ""

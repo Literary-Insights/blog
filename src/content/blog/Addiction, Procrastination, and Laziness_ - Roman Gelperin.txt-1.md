@@ -1,6 +1,6 @@
 ---
 title: Addiction, Procrastination, and Laziness_ - Roman Gelperin
-slug: deep-summary-addiction-procrastination-and-laziness_-roman-gelperin
+slug: addiction-procrastination-and-laziness-roman-gelperin
 tags: 
   - book-summary
 excerpt: ""

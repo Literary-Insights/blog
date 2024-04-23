@@ -1,6 +1,6 @@
 ---
 title: Lost Connections - Johann Hari
-slug: deep-summary-lost-connections-johann-hari
+slug: lost-connections-johann-hari
 tags: 
   - book-summary
 excerpt: ""
@@ -682,7 +682,7 @@ So in summary, Rachel found practicing sympathetic joy meditation transformed he
 
  Here is a summary:
 
-The paper describes a study looking at the effects of psilocybin (psychedelic mushroom compound) on spirituality. One participant named Mark responded to the study because he had gone through a divorce and become depressed. Anti-depressants were making him feel sluggish. 
+The paper describes a study looking at the effects of psilocybin (psychedelic mushroom compound) on spirituality. One participant named Mark responded to the study because he had gone through a divorce and become depressed. Anti-depressants were making him feel slug: gish. 
 
 As a child, Mark's father suddenly passed away from a heart condition. Mark had difficulty processing his grief and began keeping people at a distance emotionally. This led to social anxiety as an adult. He participated in the psilocybin study to address this disconnect with others. 
 

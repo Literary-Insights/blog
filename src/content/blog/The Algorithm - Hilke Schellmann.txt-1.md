@@ -1,6 +1,6 @@
 ---
 title: The Algorithm - Hilke Schellmann
-slug: deep-summary-the-algorithm-hilke-schellmann
+slug: the-algorithm-hilke-schellmann
 tags: 
   - book-summary
 excerpt: ""

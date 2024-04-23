@@ -1,6 +1,6 @@
 ---
 title: Life as Sport - Jonathan Fader
-slug: deep-summary-life-as-sport-jonathan-fader
+slug: life-as-sport-jonathan-fader
 tags: 
   - book-summary
 excerpt: ""

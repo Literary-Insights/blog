@@ -1,6 +1,6 @@
 ---
 title: Playing Smart - Julian Togelius
-slug: deep-summary-playing-smart-julian-togelius
+slug: playing-smart-julian-togelius
 tags: 
   - book-summary
 excerpt: ""

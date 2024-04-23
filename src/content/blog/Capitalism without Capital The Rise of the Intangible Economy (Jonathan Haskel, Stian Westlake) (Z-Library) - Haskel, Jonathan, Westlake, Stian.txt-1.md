@@ -1,6 +1,6 @@
 ---
 title: Capitalism without Capital The Rise of the Intangible Economy (Jonathan Haskel, Stian Westlake)  - Haskel, Jonathan, Westlake, Stian
-slug: deep-summary-capitalism-without-capital-the-rise-of-the-intangible-economy-jonathan-haskel-stian-westlakehaskel-jonathan-westlake-stian
+slug: capitalism-without-capital-the-rise-of-the-intangible-economy-jonathan-haskel-stian-westlakehaskel-jonathan-westlake-stian
 tags: 
   - book-summary
 excerpt: ""

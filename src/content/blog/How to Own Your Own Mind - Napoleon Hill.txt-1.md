@@ -1,6 +1,6 @@
 ---
 title: How to Own Your Own Mind - Napoleon Hill
-slug: deep-summary-how-to-own-your-own-mind-napoleon-hill
+slug: how-to-own-your-own-mind-napoleon-hill
 tags: 
   - book-summary
 excerpt: ""

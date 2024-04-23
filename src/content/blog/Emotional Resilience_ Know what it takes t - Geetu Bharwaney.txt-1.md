@@ -1,6 +1,6 @@
 ---
 title: Emotional Resilience_ Know what it takes t - Geetu Bharwaney
-slug: deep-summary-emotional-resilience_-know-what-it-takes-t-geetu-bharwaney
+slug: emotional-resilience-know-what-it-takes-t-geetu-bharwaney
 tags: 
   - book-summary
 excerpt: ""

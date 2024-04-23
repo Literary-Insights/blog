@@ -1,6 +1,6 @@
 ---
 title: Boundaries - Henry Cloud
-slug: DEEP SUMMARY-boundaries-henry-cloud
+slug: boundaries-henry-cloud
 tags: 
   - book-summary
 excerpt: ""

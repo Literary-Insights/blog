@@ -1,6 +1,6 @@
 ---
 title: Lead Funnels (Russell Brunson) 
-slug: deep-summary-lead-funnels-russell-brunsondesconhecido
+slug: lead-funnels-russell-brunsondesconhecido
 tags: 
   - book-summary
 excerpt: ""

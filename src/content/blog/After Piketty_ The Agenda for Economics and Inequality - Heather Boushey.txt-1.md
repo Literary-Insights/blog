@@ -1,6 +1,6 @@
 ---
 title: After Piketty_ The Agenda for Economics and Inequality - Heather Boushey
-slug: deep-summary-after-piketty_-the-agenda-for-economics-and-inequality-heather-boushey
+slug: after-piketty-the-agenda-for-economics-and-inequality-heather-boushey
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=after-piketty_-the-agenda-for-economics-and-inequality-heather-boushey)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=after-piketty-the-agenda-for-economics-and-inequality-heather-boushey)
 
 
 

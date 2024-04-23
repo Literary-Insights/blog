@@ -1,6 +1,6 @@
 ---
 title: Economics Rules - Dani Rodrik
-slug: deep-summary-economics-rules-dani-rodrik
+slug: economics-rules-dani-rodrik
 tags: 
   - book-summary
 excerpt: ""
@@ -298,7 +298,7 @@ The key point is that models provide tentative, context-specific explanations fo
 
 - Classical economists suggested restraint and caution rather than active policies like quantitative easing. They warned about inflation risks and urged the Fed to tighten policies even as unemployment remained high. 
 
-- They argued the economy would recover on its own without fiscal stimulus, claiming the sluggish recovery was due to uncertainty from potential tax hikes and other government interventions. 
+- They argued the economy would recover on its own without fiscal stimulus, claiming the slug: gish recovery was due to uncertainty from potential tax hikes and other government interventions. 
 
 - Keynesians like Paul Krugman argued the stimulus was inadequate and withdrawn too soon, prolonging high unemployment. Others argued stimulus would pay for itself by boosting recovery.
 

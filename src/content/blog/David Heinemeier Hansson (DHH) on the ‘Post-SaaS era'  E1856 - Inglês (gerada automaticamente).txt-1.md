@@ -1,6 +1,6 @@
 ---
 title: David Heinemeier Hansson (DHH) on the ‘Post-SaaS era'  E1856 - Inglês (gerada automaticamente)
-slug: deep-summary-david-heinemeier-hansson-dhh-on-the-post-saas-era-e1856-inglês-gerada-automaticamente-
+slug: david-heinemeier-hansson-dhh-on-the-post-saas-era-e1856-inglês-gerada-automaticamente-
 tags: 
   - book-summary
 excerpt: ""

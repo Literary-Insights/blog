@@ -1,6 +1,6 @@
 ---
 title: NLP - Tom Hoobyar
-slug: deep-summary-nlp-tom-hoobyar
+slug: nlp-tom-hoobyar
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: Great Copy_Prelims.qxd - tez
-slug: deep-summary-great-copy_prelims-qxd-tez
+slug: great-copy_prelims-qxd-tez
 tags: 
   - book-summary
 excerpt: ""

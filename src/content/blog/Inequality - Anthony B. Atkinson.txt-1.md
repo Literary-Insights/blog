@@ -1,6 +1,6 @@
 ---
 title: Inequality - Anthony B. Atkinson
-slug: deep-summary-inequality-anthony-b-atkinson
+slug: inequality-anthony-b-atkinson
 tags: 
   - book-summary
 excerpt: ""

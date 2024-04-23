@@ -1,6 +1,6 @@
 ---
 title: Adweek Copywriting Handbook_ The Ultimate Guide to Writing Powerful Advertising and Marketing Copy From One of America's Top Copywriters, The - Joseph Sugarman
-slug: deep-summary-adweek-copywriting-handbook_-the-ultimate-guide-to-writing-powerful-advertising-and-marketing-copy-from-one-of-america-s-top-copywriters-the-joseph-sugarman
+slug: adweek-copywriting-handbook-the-ultimate-guide-to-writing-powerful-advertising-and-marketing-copy-from-one-of-america-s-top-copywriters-the-joseph-sugarman
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=adweek-copywriting-handbook_-the-ultimate-guide-to-writing-powerful-advertising-and-marketing-copy-from-one-of-america-s-top-copywriters-the-joseph-sugarman)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=adweek-copywriting-handbook-the-ultimate-guide-to-writing-powerful-advertising-and-marketing-copy-from-one-of-america-s-top-copywriters-the-joseph-sugarman)
 
 
 

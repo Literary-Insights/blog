@@ -1,6 +1,6 @@
 ---
 title: How to Make People Like You_ 19 Science-Based Methods to Increase Your Charisma, Spark Attiends, and Connect Effortlessly (Communication Skills Training Book 5) - James W. Williams
-slug: deep-summary-how-to-make-people-like-you_-19-science-based-methods-to-increase-your-charisma-spark-attiends-and-connect-effortlessly-communication-skills-training-book-5-james-w-williams
+slug: how-to-make-people-like-you-19-science-based-methods-to-increase-your-charisma-spark-attiends-and-connect-effortlessly-communication-skills-training-book-5-james-w-williams
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=how-to-make-people-like-you_-19-science-based-methods-to-increase-your-charisma-spark-attiends-and-connect-effortlessly-communication-skills-training-book-5-james-w-williams)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=how-to-make-people-like-you-19-science-based-methods-to-increase-your-charisma-spark-attiends-and-connect-effortlessly-communication-skills-training-book-5-james-w-williams)
 
 
 

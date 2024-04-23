@@ -1,6 +1,6 @@
 ---
 title: Matchmakers_ The New Economics of Multisided Platforms - David S. Evans & Richard Schmalensee
-slug: deep-summary-matchmakers_-the-new-economics-of-multisided-platforms-david-s-evans-richard-schmalensee
+slug: matchmakers-the-new-economics-of-multisided-platforms-david-s-evans-richard-schmalensee
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=matchmakers_-the-new-economics-of-multisided-platforms-david-s-evans-richard-schmalensee)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=matchmakers-the-new-economics-of-multisided-platforms-david-s-evans-richard-schmalensee)
 
 
 

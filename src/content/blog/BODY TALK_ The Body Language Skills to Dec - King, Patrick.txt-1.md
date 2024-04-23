@@ -1,6 +1,6 @@
 ---
 title: BODY TALK_ The Body Language Skills to Dec - King, Patrick
-slug: deep-summary-body-talk_-the-body-language-skills-to-dec-king-patrick
+slug: body-talk-the-body-language-skills-to-dec-king-patrick
 tags: 
   - book-summary
 excerpt: ""

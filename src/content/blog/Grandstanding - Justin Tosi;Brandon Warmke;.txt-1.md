@@ -1,6 +1,6 @@
 ---
 title: Grandstanding - Justin Tosi;Brandon Warmke;
-slug: deep-summary-grandstanding-justin-tosi-brandon-warmke-
+slug: grandstanding-justin-tosi-brandon-warmke-
 tags: 
   - book-summary
 excerpt: ""

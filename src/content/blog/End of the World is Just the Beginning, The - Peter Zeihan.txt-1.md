@@ -1,6 +1,6 @@
 ---
 title: End of the World is Just the Beginning, The - Peter Zeihan
-slug: deep-summary-end-of-the-world-is-just-the-beginning-the-peter-zeihan
+slug: end-of-the-world-is-just-the-beginning-the-peter-zeihan
 tags: 
   - book-summary
 excerpt: ""

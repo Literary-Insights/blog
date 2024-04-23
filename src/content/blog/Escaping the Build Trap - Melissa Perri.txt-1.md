@@ -1,6 +1,6 @@
 ---
 title: Escaping the Build Trap - Melissa Perri
-slug: deep-summary-escaping-the-build-trap-melissa-perri
+slug: escaping-the-build-trap-melissa-perri
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: No LOGO - Naomi Klein
-slug: deep-summary-no-logo-naomi-klein
+slug: no-logo-naomi-klein
 tags: 
   - book-summary
 excerpt: ""

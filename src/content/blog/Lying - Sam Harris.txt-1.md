@@ -1,6 +1,6 @@
 ---
 title: Lying - Sam Harris
-slug: deep-summary-lying-sam-harris
+slug: lying-sam-harris
 tags: 
   - book-summary
 excerpt: ""

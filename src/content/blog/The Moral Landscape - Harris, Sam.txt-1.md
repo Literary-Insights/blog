@@ -1,6 +1,6 @@
 ---
 title: The Moral Landscape - Harris, Sam
-slug: deep-summary-the-moral-landscape-harris-sam
+slug: the-moral-landscape-harris-sam
 tags: 
   - book-summary
 excerpt: ""

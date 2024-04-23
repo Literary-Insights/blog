@@ -1,6 +1,6 @@
 ---
 title: China, Russia, and Twenty-First Century Global Geopolitics - Desconhecido
-slug: deep-summary-china-russia-and-twenty-first-century-global-geopolitics-desconhecido
+slug: china-russia-and-twenty-first-century-global-geopolitics-desconhecido
 tags: 
   - book-summary
 excerpt: ""

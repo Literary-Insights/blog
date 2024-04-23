@@ -1,6 +1,6 @@
 ---
 title: Phone Fix, The - Dr Faye Begeti
-slug: deep-summary-phone-fix-the-dr-faye-begeti
+slug: phone-fix-the-dr-faye-begeti
 tags: 
   - book-summary
 excerpt: ""

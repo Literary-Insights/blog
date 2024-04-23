@@ -1,6 +1,6 @@
 ---
 title: Digital Empires - Anu Bradford
-slug: deep-summary-digital-empires-anu-bradford
+slug: digital-empires-anu-bradford
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: Age of Spiritual Machines_ When Computers Exceed Human Intelligence, The - Ray Kurzweil
-slug: deep-summary-age-of-spiritual-machines_-when-computers-exceed-human-intelligence-the-ray-kurzweil
+slug: age-of-spiritual-machines-when-computers-exceed-human-intelligence-the-ray-kurzweil
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=age-of-spiritual-machines_-when-computers-exceed-human-intelligence-the-ray-kurzweil)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=age-of-spiritual-machines-when-computers-exceed-human-intelligence-the-ray-kurzweil)
 
 
 
@@ -128,7 +128,7 @@ The key point is that the progression of time scales in the early universe was e
 
  Here are the key points summarized:
 
-- The learning curve follows an S-shape, with exponential growth initially followed by leveling off. This pattern is seen in how most multicellular creatures like slugs learn new skills.
+- The learning curve follows an S-shape, with exponential growth initially followed by leveling off. This pattern is seen in how most multicellular creatures like slug: s learn new skills.
 
 - Humans are unique in their ability to innovate, which allows continuous exponential growth rather than leveling off. Innovation turns the S-curve into indefinite growth. 
 

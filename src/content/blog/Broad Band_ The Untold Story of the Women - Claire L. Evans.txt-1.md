@@ -1,6 +1,6 @@
 ---
 title: Broad Band_ The Untold Story of the Women - Claire L. Evans
-slug: deep-summary-broad-band_-the-untold-story-of-the-women-claire-l-evans
+slug: broad-band-the-untold-story-of-the-women-claire-l-evans
 tags: 
   - book-summary
 excerpt: ""

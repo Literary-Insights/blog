@@ -1,6 +1,6 @@
 ---
 title: Brief History of Earth, A - Andrew H. Knoll
-slug: deep-summary-brief-history-of-earth-a-andrew-h-knoll
+slug: brief-history-of-earth-a-andrew-h-knoll
 tags: 
   - book-summary
 excerpt: ""

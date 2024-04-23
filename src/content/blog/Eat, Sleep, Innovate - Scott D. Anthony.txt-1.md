@@ -1,6 +1,6 @@
 ---
 title: Eat, Sleep, Innovate - Scott D. Anthony
-slug: deep-summary-eat-sleep-innovate-scott-d-anthony
+slug: eat-sleep-innovate-scott-d-anthony
 tags: 
   - book-summary
 excerpt: ""

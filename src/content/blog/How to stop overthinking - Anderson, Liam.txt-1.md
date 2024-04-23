@@ -1,6 +1,6 @@
 ---
 title: How to stop overthinking - Anderson, Liam
-slug: deep-summary-how-to-stop-overthinking-anderson-liam
+slug: how-to-stop-overthinking-anderson-liam
 tags: 
   - book-summary
 excerpt: ""

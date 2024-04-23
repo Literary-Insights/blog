@@ -1,6 +1,6 @@
 ---
 title: Rest - Alex Soojung-Kim Pang
-slug: deep-summary-rest-alex-soojung-kim-pang
+slug: rest-alex-soojung-kim-pang
 tags: 
   - book-summary
 excerpt: ""

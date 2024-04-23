@@ -1,6 +1,6 @@
 ---
 title: Imaginable - Jane McGonigal
-slug: deep-summary-imaginable-jane-mcgonigal
+slug: imaginable-jane-mcgonigal
 tags: 
   - book-summary
 excerpt: ""

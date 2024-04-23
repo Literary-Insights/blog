@@ -1,6 +1,6 @@
 ---
 title: Everything I Need I Get from You - Kaitlyn Tiffany
-slug: deep-summary-everything-i-need-i-get-from-you-kaitlyn-tiffany
+slug: everything-i-need-i-get-from-you-kaitlyn-tiffany
 tags: 
   - book-summary
 excerpt: ""

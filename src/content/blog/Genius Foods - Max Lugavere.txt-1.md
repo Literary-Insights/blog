@@ -1,6 +1,6 @@
 ---
 title: Genius Foods - Max Lugavere
-slug: deep-summary-genius-foods-max-lugavere
+slug: genius-foods-max-lugavere
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: Good Morning, Monster - Catherine Gildiner
-slug: deep-summary-good-morning-monster-catherine-gildiner
+slug: good-morning-monster-catherine-gildiner
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: Mathletics - Wayne L. Winston
-slug: deep-summary-mathletics-wayne-l-winston
+slug: mathletics-wayne-l-winston
 tags: 
   - book-summary
 excerpt: ""
@@ -35,7 +35,7 @@ PAR - Points Above Replacement
 
 OBP - On-Base Percentage
 
-OPS - On-Base Plus Slugging Percentage
+OPS - On-Base Plus slug: ging Percentage
 
 EqA - Equivalent Average
 
@@ -306,7 +306,7 @@ So the Pythagorean formula is just a disguised logistic regression! KP will talk
 
 - Runs Created: A statistic developed by Bill James that estimates the number of runs a player contributes through their offensive performance. In 2016, Trout had 129 runs created while Bryant had 121 runs created, so by this metric Trout had the better offensive season. 
 
-- OPS (On-base Plus Slugging): Combines a player's on-base percentage and slugging percentage into one number. In 2016, Trout had an OPS of .991 while Bryant had an OPS of .988, so again Trout edges out Bryant. 
+- OPS (On-base Plus slug: ging): Combines a player's on-base percentage and slug: ging percentage into one number. In 2016, Trout had an OPS of .991 while Bryant had an OPS of .988, so again Trout edges out Bryant. 
 
 - OPS+: Adjusts a player's OPS for ballpark factors and the league average. An OPS+ of 100 is league average. In 2016, Trout had an OPS+ of 173 while Bryant had an OPS+ of 146, indicating Trout created runs at a rate 73% above league average compared to Bryant at 46% above league average.
 
@@ -336,7 +336,7 @@ Based on these major offensive metrics, Mike Trout appears to have had the bette
 
 - Linear weights provides more accurate run predictions than the simpler runs created formula.
 
-- On-base percentage (OBP) and slugging percentage (SLG) are also highly predictive of runs scored, explaining 88.5% of variation. OBP appears slightly more important than SLG.
+- On-base percentage (OBP) and slug: ging percentage (SLG) are also highly predictive of runs scored, explaining 88.5% of variation. OBP appears slightly more important than SLG.
 
 - Runs created above average estimates how many more runs an average team would score by adding a specific player, based on their OBP and SLG relative to league average.
 
@@ -1768,7 +1768,7 @@ Zermelo, Ernst, 198
 
 - Introduced the concepts of sabermetrics and analytics being applied to baseball player evaluation and team strategy. Main focus is the Oakland A's and GM Billy Beane.
 
-- Discussed stats like on-base percentage and slugging percentage as better evaluators of offensive performance than traditional stats like batting average. 
+- Discussed stats like on-base percentage and slug: ging percentage as better evaluators of offensive performance than traditional stats like batting average. 
 
 - Showed how the A's used analytics to identify undervalued players based on their skills rather than subjective assessments. This allowed them to compete with big-budget teams.
 

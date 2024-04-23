@@ -1,6 +1,6 @@
 ---
 title: How to Change your Life in a Year - Inglês (gerada automaticamente)
-slug: deep-summary-how-to-change-your-life-in-a-year-inglês-gerada-automaticamente-
+slug: how-to-change-your-life-in-a-year-inglês-gerada-automaticamente-
 tags: 
   - book-summary
 excerpt: ""

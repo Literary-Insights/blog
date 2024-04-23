@@ -1,6 +1,6 @@
 ---
 title: The Uses of Delusion - Stuart Vyse
-slug: deep-summary-the-uses-of-delusion-stuart-vyse
+slug: the-uses-of-delusion-stuart-vyse
 tags: 
   - book-summary
 excerpt: ""

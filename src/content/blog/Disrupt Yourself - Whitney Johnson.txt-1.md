@@ -1,6 +1,6 @@
 ---
 title: Disrupt Yourself - Whitney Johnson
-slug: deep-summary-disrupt-yourself-whitney-johnson
+slug: disrupt-yourself-whitney-johnson
 tags: 
   - book-summary
 excerpt: ""

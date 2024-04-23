@@ -1,6 +1,6 @@
 ---
 title: Like, Comment, Subscribe_ Inside YouTube's - Mark Bergen
-slug: deep-summary-like-comment-subscribe_-inside-youtube-s-mark-bergen
+slug: like-comment-subscribe-inside-youtube-s-mark-bergen
 tags: 
   - book-summary
 excerpt: ""

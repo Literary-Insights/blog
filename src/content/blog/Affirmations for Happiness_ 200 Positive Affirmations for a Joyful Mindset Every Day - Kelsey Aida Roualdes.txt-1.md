@@ -1,6 +1,6 @@
 ---
 title: Affirmations for Happiness_ 200 Positive Affirmations for a Joyful Mindset Every Day - Kelsey Aida Roualdes
-slug: deep-summary-affirmations-for-happiness_-200-positive-affirmations-for-a-joyful-mindset-every-day-kelsey-aida-roualdes
+slug: affirmations-for-happiness-200-positive-affirmations-for-a-joyful-mindset-every-day-kelsey-aida-roualdes
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=affirmations-for-happiness_-200-positive-affirmations-for-a-joyful-mindset-every-day-kelsey-aida-roualdes)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=affirmations-for-happiness-200-positive-affirmations-for-a-joyful-mindset-every-day-kelsey-aida-roualdes)
 
 
 

@@ -1,6 +1,6 @@
 ---
-title: FAST SUMMARY - 
-slug: fast-summary-
+title: Getting Things Done The Art of Stress-Free - David Allen
+slug: Getting-Things-Done-The-Art-of-Stress-Free-David-Allen
 tags: 
   - book-summary
 excerpt: ""

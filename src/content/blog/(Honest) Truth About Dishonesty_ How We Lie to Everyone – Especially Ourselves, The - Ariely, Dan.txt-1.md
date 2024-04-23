@@ -1,13 +1,12 @@
 ---
 title: (Honest) Truth About Dishonesty_ How We Lie to Everyone – Especially Ourselves, The - Ariely, Dan
-slug: deep-summary--honest-truth-about-dishonesty_-how-we-lie-to-everyone-especially-ourselves-the-ariely-dan
+slug: honest-truth-about-dishonesty-how-we-lie-to-everyone-especially-ourselves-the-ariely-dan
 tags: 
   - book-summary
 excerpt: ""
 category: "self-help"
 author: "matheus-puppe"
 publishDate: "2024-04-21T00:00:00.000Z"
-
 image: https://cdn.hashnode.com/res/hashnode/image/upload/v1691707525979/suTeW1mYl.jpg?auto=format
 ---
 

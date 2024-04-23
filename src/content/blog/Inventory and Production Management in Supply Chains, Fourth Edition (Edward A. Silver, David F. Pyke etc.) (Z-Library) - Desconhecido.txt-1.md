@@ -1,6 +1,6 @@
 ---
 title: Inventory and Production Management in Supply Chains, Fourth Edition (Edward A. Silver, David F. Pyke etc.) 
-slug: deep-summary-inventory-and-production-management-in-supply-chains-fourth-edition-edward-a-silver-david-f-pyke-etcdesconhecido
+slug: inventory-and-production-management-in-supply-chains-fourth-edition-edward-a-silver-david-f-pyke-etcdesconhecido
 tags: 
   - book-summary
 excerpt: ""

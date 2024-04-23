@@ -1,6 +1,6 @@
 ---
 title: Briefer History of Time, A - Stephen W. Hawking & Leonard Mlodinow
-slug: deep-summary-briefer-history-of-time-a-stephen-w-hawking-leonard-mlodinow
+slug: briefer-history-of-time-a-stephen-w-hawking-leonard-mlodinow
 tags: 
   - book-summary
 excerpt: ""

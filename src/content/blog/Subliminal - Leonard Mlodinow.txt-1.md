@@ -1,6 +1,6 @@
 ---
 title: Subliminal - Leonard Mlodinow
-slug: deep-summary-subliminal-leonard-mlodinow
+slug: subliminal-leonard-mlodinow
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: The Comfort Zone - Kristen Butler
-slug: deep-summary-the-comfort-zone-kristen-butler
+slug: the-comfort-zone-kristen-butler
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: How To Analyze People_ 13 Laws About the M - Daniel Spade
-slug: deep-summary-how-to-analyze-people_-13-laws-about-the-m-daniel-spade
+slug: how-to-analyze-people-13-laws-about-the-m-daniel-spade
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: The Art of War - Sun Tzu
-slug: deep-summary-the-art-of-war-sun-tzu
+slug: the-art-of-war-sun-tzu
 tags: 
   - book-summary
 excerpt: ""

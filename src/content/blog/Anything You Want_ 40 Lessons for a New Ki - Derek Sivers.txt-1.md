@@ -1,6 +1,6 @@
 ---
 title: Anything You Want_ 40 Lessons for a New Ki - Derek Sivers
-slug: deep-summary-anything-you-want_-40-lessons-for-a-new-ki-derek-sivers
+slug: anything-you-want-40-lessons-for-a-new-ki-derek-sivers
 tags: 
   - book-summary
 excerpt: ""

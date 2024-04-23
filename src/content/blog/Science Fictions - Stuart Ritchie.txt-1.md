@@ -1,6 +1,6 @@
 ---
 title: Science Fictions - Stuart Ritchie
-slug: deep-summary-science-fictions-stuart-ritchie
+slug: science-fictions-stuart-ritchie
 tags: 
   - book-summary
 excerpt: ""

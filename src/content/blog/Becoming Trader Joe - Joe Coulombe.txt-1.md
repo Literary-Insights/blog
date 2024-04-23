@@ -1,6 +1,6 @@
 ---
 title: Becoming Trader Joe - Joe Coulombe
-slug: deep-summary-becoming-trader-joe-joe-coulombe
+slug: becoming-trader-joe-joe-coulombe
 tags: 
   - book-summary
 excerpt: ""

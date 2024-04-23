@@ -1,6 +1,6 @@
 ---
 title: Reinvent Yourself - Kahn, Susan;
-slug: deep-summary-reinvent-yourself-kahn-susan-
+slug: reinvent-yourself-kahn-susan-
 tags: 
   - book-summary
 excerpt: ""

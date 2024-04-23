@@ -1,6 +1,6 @@
 ---
 title: Black and White Thinking - Kevin Dutton
-slug: deep-summary-black-and-white-thinking-kevin-dutton
+slug: black-and-white-thinking-kevin-dutton
 tags: 
   - book-summary
 excerpt: ""

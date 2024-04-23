@@ -1,6 +1,6 @@
 ---
 title: Atlas Shrugged - Ayn Rand
-slug: deep-summary-atlas-shrugged-ayn-rand
+slug: atlas-shrugged-ayn-rand
 tags: 
   - book-summary
 excerpt: ""
@@ -311,7 +311,7 @@ The passage depicts Dagny struggling with serious obstacles as she tries to rebu
 
 - Francisco visited the Taggarts every summer. He saw himself and the Taggarts as the aristocracy of money and industry. 
 
-- Francisco and Dagny gave each other nicknames as children. He called her "Slug" and she called him "Frisco."
+- Francisco and Dagny gave each other nicknames as children. He called her "slug: " and she called him "Frisco."
 
 - One summer, Francisco secretly worked as a call boy for Taggart Transcontinental to gain experience, impressing the railroad staff. 
 

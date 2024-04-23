@@ -1,6 +1,6 @@
 ---
-title: FAST SUMMARY - 
-slug: fast-summary-
+title: How to Change - The Science of Getting from - Katy Milkman
+slug: How-to-Change-The-Science-of-Getting-from-Katy-Milkman
 tags: 
   - book-summary
 excerpt: ""

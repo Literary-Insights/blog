@@ -1,6 +1,6 @@
 ---
 title: Palo Alto - Malcolm Harris
-slug: deep-summary-palo-alto-malcolm-harris
+slug: palo-alto-malcolm-harris
 tags: 
   - book-summary
 excerpt: ""

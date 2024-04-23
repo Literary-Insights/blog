@@ -1,6 +1,6 @@
 ---
 title: Modern Monopolies - Alex Moazed
-slug: deep-summary-modern-monopolies-alex-moazed
+slug: modern-monopolies-alex-moazed
 tags: 
   - book-summary
 excerpt: ""

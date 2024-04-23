@@ -1,6 +1,6 @@
 ---
 title: The Power of Imagination - Neville
-slug: deep-summary-the-power-of-imagination-neville
+slug: the-power-of-imagination-neville
 tags: 
   - book-summary
 excerpt: ""

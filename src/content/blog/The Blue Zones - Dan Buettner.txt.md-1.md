@@ -1,6 +1,6 @@
 ---
-title: FAST SUMMARY - 
-slug: fast-summary-
+title: The Blue Zones Dan Buettner
+slug: The-Blue-Zones-Dan-Buettner
 tags: 
   - book-summary
 excerpt: ""

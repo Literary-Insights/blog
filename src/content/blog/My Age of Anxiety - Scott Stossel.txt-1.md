@@ -1,6 +1,6 @@
 ---
 title: My Age of Anxiety - Scott Stossel
-slug: deep-summary-my-age-of-anxiety-scott-stossel
+slug: my-age-of-anxiety-scott-stossel
 tags: 
   - book-summary
 excerpt: ""

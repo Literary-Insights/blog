@@ -1,6 +1,6 @@
 ---
 title: Deep Purpose - Ranjay Gulati
-slug: deep-summary-deep-purpose-ranjay-gulati
+slug: deep-purpose-ranjay-gulati
 tags: 
   - book-summary
 excerpt: ""

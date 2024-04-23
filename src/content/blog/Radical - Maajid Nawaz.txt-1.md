@@ -1,6 +1,6 @@
 ---
 title: Radical - Maajid Nawaz
-slug: deep-summary-radical-maajid-nawaz
+slug: radical-maajid-nawaz
 tags: 
   - book-summary
 excerpt: ""

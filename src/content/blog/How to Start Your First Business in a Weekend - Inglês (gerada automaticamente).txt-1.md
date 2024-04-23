@@ -1,6 +1,6 @@
 ---
 title: How to Start Your First Business in a Weekend - Inglês (gerada automaticamente)
-slug: deep-summary-how-to-start-your-first-business-in-a-weekend-inglês-gerada-automaticamente-
+slug: how-to-start-your-first-business-in-a-weekend-inglês-gerada-automaticamente-
 tags: 
   - book-summary
 excerpt: ""

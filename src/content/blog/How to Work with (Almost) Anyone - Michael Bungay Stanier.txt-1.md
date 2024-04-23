@@ -1,6 +1,6 @@
 ---
 title: How to Work with (Almost) Anyone - Michael Bungay Stanier
-slug: deep-summary-how-to-work-with-almost-anyone-michael-bungay-stanier
+slug: how-to-work-with-almost-anyone-michael-bungay-stanier
 tags: 
   - book-summary
 excerpt: ""

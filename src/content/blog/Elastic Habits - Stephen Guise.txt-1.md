@@ -1,6 +1,6 @@
 ---
 title: Elastic Habits - Stephen Guise
-slug: deep-summary-elastic-habits-stephen-guise
+slug: elastic-habits-stephen-guise
 tags: 
   - book-summary
 excerpt: ""

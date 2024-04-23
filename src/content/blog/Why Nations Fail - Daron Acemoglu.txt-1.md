@@ -1,6 +1,6 @@
 ---
 title: Why Nations Fail - Daron Acemoglu
-slug: deep-summary-why-nations-fail-daron-acemoglu
+slug: why-nations-fail-daron-acemoglu
 tags: 
   - book-summary
 excerpt: ""

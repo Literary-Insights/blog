@@ -1,6 +1,6 @@
 ---
 title: Easy Money - McKenzie, Ben;Silverman, Jacob;
-slug: deep-summary-easy-money-mckenzie-ben-silverman-jacob-
+slug: easy-money-mckenzie-ben-silverman-jacob-
 tags: 
   - book-summary
 excerpt: ""

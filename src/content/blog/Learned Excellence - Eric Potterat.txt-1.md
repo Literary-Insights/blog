@@ -1,6 +1,6 @@
 ---
 title: Learned Excellence - Eric Potterat
-slug: deep-summary-learned-excellence-eric-potterat
+slug: learned-excellence-eric-potterat
 tags: 
   - book-summary
 excerpt: ""

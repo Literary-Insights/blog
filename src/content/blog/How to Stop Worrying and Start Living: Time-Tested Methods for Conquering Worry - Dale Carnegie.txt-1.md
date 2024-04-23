@@ -1,6 +1,6 @@
 ---
 title: "How to Stop Worrying and Start Living: Time-Tested Methods for Conquering Worry - Dale Carnegie"
-slug: deep-summary-how-to-stop-worrying-and-start-living-time-tested-methods-for-conquering-worry-dale-carnegie
+slug: how-to-stop-worrying-and-start-living-time-tested-methods-for-conquering-worry-dale-carnegie
 tags: 
   - book-summary
 excerpt: ""

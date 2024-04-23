@@ -1,6 +1,6 @@
 ---
 title: Dollars and Sense - Dr. Dan Ariely
-slug: deep-summary-dollars-and-sense-dr-dan-ariely
+slug: dollars-and-sense-dr-dan-ariely
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: Higgs Discovery - Lisa Randall
-slug: deep-summary-higgs-discovery-lisa-randall
+slug: higgs-discovery-lisa-randall
 tags: 
   - book-summary
 excerpt: ""

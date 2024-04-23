@@ -1,6 +1,6 @@
 ---
 title: Life Is Hard_ How Philosophy Can Help Us Find Our Way - Kieran Setiya
-slug: deep-summary-life-is-hard_-how-philosophy-can-help-us-find-our-way-kieran-setiya
+slug: life-is-hard-how-philosophy-can-help-us-find-our-way-kieran-setiya
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=life-is-hard_-how-philosophy-can-help-us-find-our-way-kieran-setiya)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=life-is-hard-how-philosophy-can-help-us-find-our-way-kieran-setiya)
 
 
 

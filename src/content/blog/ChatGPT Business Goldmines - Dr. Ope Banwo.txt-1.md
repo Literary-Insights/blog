@@ -1,6 +1,6 @@
 ---
 title: ChatGPT Business Goldmines - Dr. Ope Banwo
-slug: deep-summary-chatgpt-business-goldmines-dr-ope-banwo
+slug: chatgpt-business-goldmines-dr-ope-banwo
 tags: 
   - book-summary
 excerpt: ""

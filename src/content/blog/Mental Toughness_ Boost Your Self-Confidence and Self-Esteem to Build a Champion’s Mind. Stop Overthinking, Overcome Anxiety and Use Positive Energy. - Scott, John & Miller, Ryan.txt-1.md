@@ -1,6 +1,6 @@
 ---
 title: Mental Toughness_ Boost Your Self-Confidence and Self-Esteem to Build a Champion’s Mind. Stop Overthinking, Overcome Anxiety and Use Positive Energy. - Scott, John & Miller, Ryan
-slug: deep-summary-mental-toughness_-boost-your-self-confidence-and-self-esteem-to-build-a-champion-s-mind-stop-overthinking-overcome-anxiety-and-use-positive-energy-scott-john-miller-ryan
+slug: mental-toughness-boost-your-self-confidence-and-self-esteem-to-build-a-champion-s-mind-stop-overthinking-overcome-anxiety-and-use-positive-energy-scott-john-miller-ryan
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=mental-toughness_-boost-your-self-confidence-and-self-esteem-to-build-a-champion-s-mind-stop-overthinking-overcome-anxiety-and-use-positive-energy-scott-john-miller-ryan)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=mental-toughness-boost-your-self-confidence-and-self-esteem-to-build-a-champion-s-mind-stop-overthinking-overcome-anxiety-and-use-positive-energy-scott-john-miller-ryan)
 
 
 

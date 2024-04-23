@@ -1,6 +1,6 @@
 ---
 title: Authentic Happiness [Compact Edition] - Desconhecido
-slug: deep-summary-authentic-happiness-compact-edition-desconhecido
+slug: authentic-happiness-compact-edition-desconhecido
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: Chokepoint Capitalism - Rebecca Giblin & Cory Doctorow
-slug: deep-summary-chokepoint-capitalism-rebecca-giblin-cory-doctorow
+slug: chokepoint-capitalism-rebecca-giblin-cory-doctorow
 tags: 
   - book-summary
 excerpt: ""

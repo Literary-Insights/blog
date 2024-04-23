@@ -1,6 +1,6 @@
 ---
 title: Soccernomics - Kuper, Simon
-slug: deep-summary-soccernomics-kuper-simon
+slug: soccernomics-kuper-simon
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
-title: 10% Human _ How Your Body's Microbes Hold the Key to Health and Happiness (9780062346001) - Collen, Alanna
-slug: deep-summary-10-human-_-how-your-body-s-microbes-hold-the-key-to-health-and-happiness-9780062346001-collen-alanna
+title: "10% Human How Your Body's Microbes Hold the Key to Health and Happiness - Collen, Alanna"
+slug: 10-human-how-your-body
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=10-human-_-how-your-body-s-microbes-hold-the-key-to-health-and-happiness-9780062346001-collen-alanna)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=10-human--how-your-body-s-microbes-hold-the-key-to-health-and-happiness-9780062346001-collen-alanna)
 
 
 
@@ -915,5 +915,3 @@ storage of fat 72
 - Imbalances in the gut microbiome (dysbiosis) have been linked to various modern diseases. Factors like Western diet, antibiotics, sedentary lifestyle can disrupt the microbiome.
 
 - Indigenous communities have provided insights on how traditional diets and lifestyles supported a healthy gut microbiome and low rates of Western diseases.
-
-That covers the key highlights from the passage regarding the human gut microbiome and its relationship to health and disease. Let me know if you need any part of the summary explained further.

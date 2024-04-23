@@ -1,6 +1,6 @@
 ---
 title: Culture - Mr. John Brockman
-slug: deep-summary-culture-mr-john-brockman
+slug: culture-mr-john-brockman
 tags: 
   - book-summary
 excerpt: ""

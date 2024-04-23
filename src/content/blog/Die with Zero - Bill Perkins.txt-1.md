@@ -1,6 +1,6 @@
 ---
 title: Die with Zero - Bill Perkins
-slug: deep-summary-die-with-zero-bill-perkins
+slug: die-with-zero-bill-perkins
 tags: 
   - book-summary
 excerpt: ""

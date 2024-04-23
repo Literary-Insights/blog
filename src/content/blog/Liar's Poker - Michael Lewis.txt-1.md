@@ -1,6 +1,6 @@
 ---
 title: Liar's Poker - Michael Lewis
-slug: deep-summary-liar-s-poker-michael-lewis
+slug: liar-s-poker-michael-lewis
 tags: 
   - book-summary
 excerpt: ""

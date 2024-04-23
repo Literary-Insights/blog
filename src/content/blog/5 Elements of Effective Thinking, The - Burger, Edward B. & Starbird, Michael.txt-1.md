@@ -1,6 +1,6 @@
 ---
 title: 5 Elements of Effective Thinking, The - Burger, Edward B. & Starbird, Michael
-slug: deep-summary-5-elements-of-effective-thinking-the-burger-edward-b-starbird-michael
+slug: 5-elements-of-effective-thinking-the-burger-edward-b-starbird-michael
 tags: 
   - book-summary
 excerpt: ""

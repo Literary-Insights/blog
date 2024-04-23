@@ -1,6 +1,6 @@
 ---
 title: Football Hackers - Christoph Biermann
-slug: deep-summary-football-hackers-christoph-biermann
+slug: football-hackers-christoph-biermann
 tags: 
   - book-summary
 excerpt: ""

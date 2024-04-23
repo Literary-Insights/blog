@@ -1,6 +1,6 @@
 ---
 title: Dead Aid_ Why Aid Is Not Working and How There Is a Better Way for Africa - Dambisa Moyo
-slug: deep-summary-dead-aid_-why-aid-is-not-working-and-how-there-is-a-better-way-for-africa-dambisa-moyo
+slug: dead-aid-why-aid-is-not-working-and-how-there-is-a-better-way-for-africa-dambisa-moyo
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=dead-aid_-why-aid-is-not-working-and-how-there-is-a-better-way-for-africa-dambisa-moyo)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=dead-aid-why-aid-is-not-working-and-how-there-is-a-better-way-for-africa-dambisa-moyo)
 
 
 

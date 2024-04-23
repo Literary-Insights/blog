@@ -1,6 +1,6 @@
 ---
 title: Growth - Desconhecido
-slug: deep-summary-growth-desconhecido
+slug: growth-desconhecido
 tags: 
   - book-summary
 excerpt: ""

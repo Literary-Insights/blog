@@ -1,6 +1,6 @@
 ---
 title: The Boy Kings - Losse, Katherine
-slug: deep-summary-the-boy-kings-losse-katherine
+slug: the-boy-kings-losse-katherine
 tags: 
   - book-summary
 excerpt: ""

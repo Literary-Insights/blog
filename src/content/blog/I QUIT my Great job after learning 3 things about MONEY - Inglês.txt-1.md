@@ -1,6 +1,6 @@
 ---
 title: I QUIT my Great job after learning 3 things about MONEY - Inglês
-slug: deep-summary-i-quit-my-great-job-after-learning-3-things-about-money-inglês
+slug: i-quit-my-great-job-after-learning-3-things-about-money-inglês
 tags: 
   - book-summary
 excerpt: ""

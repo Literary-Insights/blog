@@ -1,6 +1,6 @@
 ---
 title: Dopamine Nation_ Finding Balance in the Age of Indulgence - Anna Lembke
-slug: deep-summary-dopamine-nation_-finding-balance-in-the-age-of-indulgence-anna-lembke
+slug: dopamine-nation-finding-balance-in-the-age-of-indulgence-anna-lembke
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=dopamine-nation_-finding-balance-in-the-age-of-indulgence-anna-lembke)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=dopamine-nation-finding-balance-in-the-age-of-indulgence-anna-lembke)
 
 - The chapter introduces Jacob, a new patient of the author/doctor. Jacob seems anxious but otherwise normal on the surface. 
 

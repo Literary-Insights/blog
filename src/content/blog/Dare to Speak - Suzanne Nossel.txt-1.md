@@ -1,6 +1,6 @@
 ---
 title: Dare to Speak - Suzanne Nossel
-slug: deep-summary-dare-to-speak-suzanne-nossel
+slug: dare-to-speak-suzanne-nossel
 tags: 
   - book-summary
 excerpt: ""

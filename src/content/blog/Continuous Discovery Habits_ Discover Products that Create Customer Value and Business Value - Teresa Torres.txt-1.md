@@ -1,6 +1,6 @@
 ---
 title: Continuous Discovery Habits_ Discover Products that Create Customer Value and Business Value - Teresa Torres
-slug: deep-summary-continuous-discovery-habits_-discover-products-that-create-customer-value-and-business-value-teresa-torres
+slug: continuous-discovery-habits-discover-products-that-create-customer-value-and-business-value-teresa-torres
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=continuous-discovery-habits_-discover-products-that-create-customer-value-and-business-value-teresa-torres)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=continuous-discovery-habits-discover-products-that-create-customer-value-and-business-value-teresa-torres)
 
 
 

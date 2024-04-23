@@ -1,6 +1,6 @@
 ---
 title: Thinking 101 - Woo-kyoung Ahn
-slug: deep-summary-thinking-101-woo-kyoung-ahn
+slug: thinking-101-woo-kyoung-ahn
 tags: 
   - book-summary
 excerpt: ""

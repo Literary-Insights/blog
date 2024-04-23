@@ -1,6 +1,6 @@
 ---
 title: How to Break Up with Your Phone_ The 30-Da - Catherine Price
-slug: deep-summary-how-to-break-up-with-your-phone_-the-30-da-catherine-price
+slug: how-to-break-up-with-your-phone-the-30-da-catherine-price
 tags: 
   - book-summary
 excerpt: ""

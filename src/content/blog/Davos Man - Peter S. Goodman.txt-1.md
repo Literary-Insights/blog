@@ -1,6 +1,6 @@
 ---
 title: Davos Man - Peter S. Goodman
-slug: deep-summary-davos-man-peter-s-goodman
+slug: davos-man-peter-s-goodman
 tags: 
   - book-summary
 excerpt: ""

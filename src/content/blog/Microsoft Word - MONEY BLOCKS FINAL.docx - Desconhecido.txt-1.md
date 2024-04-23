@@ -1,6 +1,6 @@
 ---
 title: Microsoft Word - MONEY BLOCKS FINAL.docx - Desconhecido
-slug: deep-summary-microsoft-word-money-blocks-final-docx-desconhecido
+slug: microsoft-word-money-blocks-final-docx-desconhecido
 tags: 
   - book-summary
 excerpt: ""

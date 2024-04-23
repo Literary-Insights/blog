@@ -1,6 +1,6 @@
 ---
 title: Spelunky - Derek Yu
-slug: deep-summary-spelunky-derek-yu
+slug: spelunky-derek-yu
 tags: 
   - book-summary
 excerpt: ""
@@ -187,7 +187,7 @@ The key ideas are:
 
 - High score systems showed that arcade games rewarded skill and mastery. Your score reset when you continued, so only achieving a 1cc or one-credit clear allowed you to get a high score. Experienced players avoided continues to get 1ccs.
 
-- The author made the mistake of credit-feeding in Metal Slug 3, spending many quarters to make little progress. Continue systems allowed casual players to see more of the game but were meant to extract money. Regular players still spent many quarters but over more time.
+- The author made the mistake of credit-feeding in Metal slug:  3, spending many quarters to make little progress. Continue systems allowed casual players to see more of the game but were meant to extract money. Regular players still spent many quarters but over more time.
 
 - In Spelunky, the author aimed for a middle ground. He avoided hand-holding and the opaque continue system of arcades but allowed progress through the Tunnel Man, who offers shortcuts to later levels so players can practice.
 

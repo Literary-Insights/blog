@@ -1,6 +1,6 @@
 ---
 title: A Gentle Reminder - Bianca Sparacino
-slug: deep-summary-a-gentle-reminder-bianca-sparacino
+slug: a-gentle-reminder-bianca-sparacino
 tags: 
   - book-summary
 excerpt: ""

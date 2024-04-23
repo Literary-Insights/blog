@@ -1,6 +1,6 @@
 ---
 title: Great Delusion - John J. Mearsheimer
-slug: deep-summary-great-delusion-john-j-mearsheimer
+slug: great-delusion-john-j-mearsheimer
 tags: 
   - book-summary
 excerpt: ""

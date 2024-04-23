@@ -1,6 +1,6 @@
 ---
 title: Once Upon a Prime - Sarah Hart
-slug: deep-summary-once-upon-a-prime-sarah-hart
+slug: once-upon-a-prime-sarah-hart
 tags: 
   - book-summary
 excerpt: ""

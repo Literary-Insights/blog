@@ -1,6 +1,6 @@
 ---
 title: How Big-Tech Barons Smash Innovation — and Hike Back - Ariel Ezrachi & Maurice E. Stucke
-slug: deep-summary-how-big-tech-barons-smash-innovation-and-hike-back-ariel-ezrachi-maurice-e-stucke
+slug: how-big-tech-barons-smash-innovation-and-hike-back-ariel-ezrachi-maurice-e-stucke
 tags: 
   - book-summary
 excerpt: ""

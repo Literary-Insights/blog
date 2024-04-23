@@ -1,6 +1,6 @@
 ---
 title: Age of AI_ And Our Human Future, The - Henry Kissinger
-slug: deep-summary-age-of-ai_-and-our-human-future-the-henry-kissinger
+slug: age-of-ai-and-our-human-future-the-henry-kissinger
 tags: 
   - book-summary
 excerpt: ""

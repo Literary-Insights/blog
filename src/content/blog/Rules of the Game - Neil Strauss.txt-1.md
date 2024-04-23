@@ -1,6 +1,6 @@
 ---
 title: Rules of the Game - Neil Strauss
-slug: deep-summary-rules-of-the-game-neil-strauss
+slug: rules-of-the-game-neil-strauss
 tags: 
   - book-summary
 excerpt: ""

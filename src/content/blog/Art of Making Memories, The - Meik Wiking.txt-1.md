@@ -1,6 +1,6 @@
 ---
 title: Art of Making Memories, The - Meik Wiking
-slug: deep-summary-art-of-making-memories-the-meik-wiking
+slug: art-of-making-memories-the-meik-wiking
 tags: 
   - book-summary
 excerpt: ""

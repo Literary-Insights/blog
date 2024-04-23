@@ -1,6 +1,6 @@
 ---
 title: Do zero ao Faturamento Como criar uma SaaS lucrativo em menos de 7 meses - Português (gerada automaticamente)
-slug: deep-summary-do-zero-ao-faturamento-como-criar-uma-saas-lucrativo-em-menos-de-7-meses-português-gerada-automaticamente-
+slug: do-zero-ao-faturamento-como-criar-uma-saas-lucrativo-em-menos-de-7-meses-português-gerada-automaticamente-
 tags: 
   - book-summary
 excerpt: ""

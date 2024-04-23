@@ -1,6 +1,6 @@
 ---
 title: Creating a Learning Society - Joseph E. Stiglitz
-slug: deep-summary-creating-a-learning-society-joseph-e-stiglitz
+slug: creating-a-learning-society-joseph-e-stiglitz
 tags: 
   - book-summary
 excerpt: ""

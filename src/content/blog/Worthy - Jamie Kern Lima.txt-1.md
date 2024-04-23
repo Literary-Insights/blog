@@ -1,6 +1,6 @@
 ---
 title: Worthy - Jamie Kern Lima
-slug: deep-summary-worthy-jamie-kern-lima
+slug: worthy-jamie-kern-lima
 tags: 
   - book-summary
 excerpt: ""

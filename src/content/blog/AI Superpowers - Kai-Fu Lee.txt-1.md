@@ -1,6 +1,6 @@
 ---
 title: AI Superpowers - Kai-Fu Lee
-slug: deep-summary-ai-superpowers-kai-fu-lee
+slug: ai-superpowers-kai-fu-lee
 tags: 
   - book-summary
 excerpt: ""

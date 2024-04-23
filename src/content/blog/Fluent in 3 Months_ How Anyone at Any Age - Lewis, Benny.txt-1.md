@@ -1,6 +1,6 @@
 ---
 title: Fluent in 3 Months_ How Anyone at Any Age - Lewis, Benny
-slug: deep-summary-fluent-in-3-months_-how-anyone-at-any-age-lewis-benny
+slug: fluent-in-3-months-how-anyone-at-any-age-lewis-benny
 tags: 
   - book-summary
 excerpt: ""

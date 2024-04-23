@@ -1,6 +1,6 @@
 ---
 title: Company of One - Paul Jarvis
-slug: deep-summary-company-of-one-paul-jarvis
+slug: company-of-one-paul-jarvis
 tags: 
   - book-summary
 excerpt: ""

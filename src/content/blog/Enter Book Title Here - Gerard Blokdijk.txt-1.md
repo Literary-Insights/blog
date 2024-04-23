@@ -1,6 +1,6 @@
 ---
 title: Enter Book Title Here - Gerard Blokdijk
-slug: deep-summary-enter-book-title-here-gerard-blokdijk
+slug: enter-book-title-here-gerard-blokdijk
 tags: 
   - book-summary
 excerpt: ""

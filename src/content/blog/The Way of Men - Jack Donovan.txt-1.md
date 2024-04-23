@@ -1,6 +1,6 @@
 ---
 title: The Way of Men - Jack Donovan
-slug: deep-summary-the-way-of-men-jack-donovan
+slug: the-way-of-men-jack-donovan
 tags: 
   - book-summary
 excerpt: ""

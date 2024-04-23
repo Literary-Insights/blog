@@ -1,6 +1,6 @@
 ---
 title: Breath - Nestor;, James
-slug: deep-summary-breath-nestor-james
+slug: breath-nestor-james
 tags: 
   - book-summary
 excerpt: ""

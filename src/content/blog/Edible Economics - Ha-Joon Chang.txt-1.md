@@ -1,6 +1,6 @@
 ---
 title: Edible Economics - Ha-Joon Chang
-slug: deep-summary-edible-economics-ha-joon-chang
+slug: edible-economics-ha-joon-chang
 tags: 
   - book-summary
 excerpt: ""

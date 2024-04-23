@@ -1,6 +1,6 @@
 ---
 title: Barking Up the Wrong Tree - Eric Barker
-slug: deep-summary-barking-up-the-wrong-tree-eric-barker
+slug: barking-up-the-wrong-tree-eric-barker
 tags: 
   - book-summary
 excerpt: ""

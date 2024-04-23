@@ -1,6 +1,6 @@
 ---
 title: Hypnosis_ Attracting Your Success- Mind Co - Price, Victoria
-slug: deep-summary-hypnosis_-attracting-your-success-mind-co-price-victoria
+slug: hypnosis-attracting-your-success-mind-co-price-victoria
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: Free Speech And Why It Matters - Andrew Doyle
-slug: deep-summary-free-speech-and-why-it-matters-andrew-doyle
+slug: free-speech-and-why-it-matters-andrew-doyle
 tags: 
   - book-summary
 excerpt: ""

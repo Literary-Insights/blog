@@ -1,6 +1,6 @@
 ---
 title: Tools of Titans - Timothy Ferriss
-slug: deep-summary-tools-of-titans-timothy-ferriss
+slug: tools-of-titans-timothy-ferriss
 tags: 
   - book-summary
 excerpt: ""

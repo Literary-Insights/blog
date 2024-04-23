@@ -1,6 +1,6 @@
 ---
 title: Productize - Eisha Armstrong
-slug: deep-summary-productize-eisha-armstrong
+slug: productize-eisha-armstrong
 tags: 
   - book-summary
 excerpt: ""

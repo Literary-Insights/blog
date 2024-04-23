@@ -1,6 +1,6 @@
 ---
 title: Breakthrough Copywriting_ How To Generate Quick Cash With The Written Word - Garfinkel, David
-slug: deep-summary-breakthrough-copywriting_-how-to-generate-quick-cash-with-the-written-word-garfinkel-david
+slug: breakthrough-copywriting-how-to-generate-quick-cash-with-the-written-word-garfinkel-david
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=breakthrough-copywriting_-how-to-generate-quick-cash-with-the-written-word-garfinkel-david)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=breakthrough-copywriting-how-to-generate-quick-cash-with-the-written-word-garfinkel-david)
 
 
 

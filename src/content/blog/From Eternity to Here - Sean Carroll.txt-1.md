@@ -1,6 +1,6 @@
 ---
 title: From Eternity to Here - Sean Carroll
-slug: deep-summary-from-eternity-to-here-sean-carroll
+slug: from-eternity-to-here-sean-carroll
 tags: 
   - book-summary
 excerpt: ""

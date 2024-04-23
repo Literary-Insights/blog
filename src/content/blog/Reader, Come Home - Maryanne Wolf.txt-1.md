@@ -1,6 +1,6 @@
 ---
 title: Reader, Come Home - Maryanne Wolf
-slug: deep-summary-reader-come-home-maryanne-wolf
+slug: reader-come-home-maryanne-wolf
 tags: 
   - book-summary
 excerpt: ""

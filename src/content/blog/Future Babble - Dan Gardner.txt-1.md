@@ -1,6 +1,6 @@
 ---
 title: Future Babble - Dan Gardner
-slug: deep-summary-future-babble-dan-gardner
+slug: future-babble-dan-gardner
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: Optimal - Daniel Goleman
-slug: deep-summary-optimal-daniel-goleman
+slug: optimal-daniel-goleman
 tags: 
   - book-summary
 excerpt: ""

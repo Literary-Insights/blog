@@ -1,6 +1,6 @@
 ---
 title: How to Lie with Statistics - Huff, Darrell
-slug: deep-summary-how-to-lie-with-statistics-huff-darrell
+slug: how-to-lie-with-statistics-huff-darrell
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: Democratizing finance the radical promise of fintech (Marion Laboure, Nicolas Deffrennes) 
-slug: deep-summary-democratizing-finance-the-radical-promise-of-fintech-marion-laboure-nicolas-deffrennesdesconhecido
+slug: democratizing-finance-the-radical-promise-of-fintech-marion-laboure-nicolas-deffrennesdesconhecido
 tags: 
   - book-summary
 excerpt: ""

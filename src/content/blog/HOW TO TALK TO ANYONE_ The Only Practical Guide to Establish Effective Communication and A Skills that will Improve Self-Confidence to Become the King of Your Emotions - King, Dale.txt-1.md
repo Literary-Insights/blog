@@ -1,6 +1,6 @@
 ---
 title: HOW TO TALK TO ANYONE_ The Only Practical Guide to Establish Effective Communication and A Skills that will Improve Self-Confidence to Become the King of Your Emotions - King, Dale
-slug: deep-summary-how-to-talk-to-anyone_-the-only-practical-guide-to-establish-effective-communication-and-a-skills-that-will-improve-self-confidence-to-become-the-king-of-your-emotions-king-dale
+slug: how-to-talk-to-anyone-the-only-practical-guide-to-establish-effective-communication-and-a-skills-that-will-improve-self-confidence-to-become-the-king-of-your-emotions-king-dale
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=how-to-talk-to-anyone_-the-only-practical-guide-to-establish-effective-communication-and-a-skills-that-will-improve-self-confidence-to-become-the-king-of-your-emotions-king-dale)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=how-to-talk-to-anyone-the-only-practical-guide-to-establish-effective-communication-and-a-skills-that-will-improve-self-confidence-to-become-the-king-of-your-emotions-king-dale)
 
 
 

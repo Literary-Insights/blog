@@ -1,6 +1,6 @@
 ---
 title: Common As Air - Lewis Hyde
-slug: deep-summary-common-as-air-lewis-hyde
+slug: common-as-air-lewis-hyde
 tags: 
   - book-summary
 excerpt: ""

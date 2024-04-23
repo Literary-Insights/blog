@@ -1,6 +1,6 @@
 ---
 title: Selfless - Brian Lowery
-slug: deep-summary-selfless-brian-lowery
+slug: selfless-brian-lowery
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: Innovation by Design - Thomas Lockwood
-slug: deep-summary-innovation-by-design-thomas-lockwood
+slug: innovation-by-design-thomas-lockwood
 tags: 
   - book-summary
 excerpt: ""

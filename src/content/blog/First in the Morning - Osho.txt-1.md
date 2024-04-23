@@ -1,6 +1,6 @@
 ---
 title: First in the Morning - Osho
-slug: deep-summary-first-in-the-morning-osho
+slug: first-in-the-morning-osho
 tags: 
   - book-summary
 excerpt: ""

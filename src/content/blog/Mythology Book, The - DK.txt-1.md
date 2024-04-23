@@ -1,6 +1,6 @@
 ---
 title: Mythology Book, The - DK
-slug: deep-summary-mythology-book-the-dk
+slug: mythology-book-the-dk
 tags: 
   - book-summary
 excerpt: ""

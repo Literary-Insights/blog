@@ -1,6 +1,6 @@
 ---
 title: Clear Thinking_ Turning Ordinary Moments into Extraordinary Results - Shane Parrish
-slug: deep-summary-clear-thinking_-turning-ordinary-moments-into-extraordinary-results-shane-parrish
+slug: clear-thinking-turning-ordinary-moments-into-extraordinary-results-shane-parrish
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=clear-thinking_-turning-ordinary-moments-into-extraordinary-results-shane-parrish)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=clear-thinking-turning-ordinary-moments-into-extraordinary-results-shane-parrish)
 
 
 

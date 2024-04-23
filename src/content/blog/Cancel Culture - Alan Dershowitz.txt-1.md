@@ -1,6 +1,6 @@
 ---
 title: Cancel Culture - Alan Dershowitz
-slug: deep-summary-cancel-culture-alan-dershowitz
+slug: cancel-culture-alan-dershowitz
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: Why We Read - Shannon Reed
-slug: deep-summary-why-we-read-shannon-reed
+slug: why-we-read-shannon-reed
 tags: 
   - book-summary
 excerpt: ""

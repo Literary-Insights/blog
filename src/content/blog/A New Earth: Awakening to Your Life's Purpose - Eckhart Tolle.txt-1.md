@@ -1,6 +1,6 @@
 ---
 title: "A New Earth: Awakening to Your Life's Purpose - Eckhart Tolle"
-slug: deep-summary-a-new-earth-awakening-to-your-life-s-purpose-eckhart-tolle
+slug: a-new-earth-awakening-to-your-life-s-purpose-eckhart-tolle
 tags: 
   - book-summary
 excerpt: ""

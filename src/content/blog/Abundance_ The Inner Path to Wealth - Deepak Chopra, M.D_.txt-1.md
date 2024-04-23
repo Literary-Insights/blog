@@ -1,6 +1,6 @@
 ---
 title: Abundance_ The Inner Path to Wealth - Deepak Chopra, M.D
-slug: deep-summary-abundance_-the-inner-path-to-wealth-deepak-chopra-m-d_
+slug: abundance-the-inner-path-to-wealth-deepak-chopra-m-d_
 tags: 
   - book-summary
 excerpt: ""
@@ -14,7 +14,7 @@ image: https://cdn.hashnode.com/res/hashnode/image/upload/v1693695679752/hCQMfEl
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=abundance_-the-inner-path-to-wealth-deepak-chopra-m-d_)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=abundance-the-inner-path-to-wealth-deepak-chopra-m-d_)
 
 
 - The book aims to provide an inner spiritual path to achieving abundance and handling money, rather than just offering external advice on how to make more money. 
@@ -602,4 +602,4 @@ The key points summarize the main ideas discussed in the selected passages about
 - Techniques like vagal breathing, visualization, and upgrading negative beliefs can help reduce worrying and stress. Concepts like trusting the universe and that you will find a solution can also help with this.
 
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=abundance_-the-inner-path-to-wealth-deepak-chopra-m-d_)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=abundance-the-inner-path-to-wealth-deepak-chopra-m-d_)

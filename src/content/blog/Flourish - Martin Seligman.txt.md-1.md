@@ -1,6 +1,6 @@
 ---
-title: FAST SUMMARY - 
-slug: fast-summary-
+title: Flourish - Martin Seligman
+slug: Flourish-Martin-Seligman
 tags: 
   - book-summary
 excerpt: ""

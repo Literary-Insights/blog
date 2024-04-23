@@ -1,6 +1,6 @@
 ---
 title: I Think, Therefore I Laugh - John Allen Paulos
-slug: deep-summary-i-think-therefore-i-laugh-john-allen-paulos
+slug: i-think-therefore-i-laugh-john-allen-paulos
 tags: 
   - book-summary
 excerpt: ""

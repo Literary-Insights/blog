@@ -1,6 +1,6 @@
 ---
-title: FAST SUMMARY - 
-slug: fast-summary-
+title: Hardwiring Happiness - Rick Hanson
+slug: Hardwiring-Happiness-Rick-Hanson
 tags: 
   - book-summary
 excerpt: ""

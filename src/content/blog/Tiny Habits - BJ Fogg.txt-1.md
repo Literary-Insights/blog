@@ -1,6 +1,6 @@
 ---
 title: Tiny Habits - BJ Fogg
-slug: deep-summary-tiny-habits-bj-fogg
+slug: tiny-habits-bj-fogg
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: Design Thinking for Tech_ Solving Problems and Realizing Value in 24 Hours - George W. Anderson
-slug: deep-summary-design-thinking-for-tech_-solving-problems-and-realizing-value-in-24-hours-george-w-anderson
+slug: design-thinking-for-tech-solving-problems-and-realizing-value-in-24-hours-george-w-anderson
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=design-thinking-for-tech_-solving-problems-and-realizing-value-in-24-hours-george-w-anderson)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=design-thinking-for-tech-solving-problems-and-realizing-value-in-24-hours-george-w-anderson)
 
 
 

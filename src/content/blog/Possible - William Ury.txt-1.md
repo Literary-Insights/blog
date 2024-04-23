@@ -1,6 +1,6 @@
 ---
 title: Possible - William Ury
-slug: deep-summary-possible-william-ury
+slug: possible-william-ury
 tags: 
   - book-summary
 excerpt: ""

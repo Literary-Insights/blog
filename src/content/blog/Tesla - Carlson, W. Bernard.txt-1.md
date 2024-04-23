@@ -1,6 +1,6 @@
 ---
 title: Tesla - Carlson, W. Bernard
-slug: deep-summary-tesla-carlson-w-bernard
+slug: tesla-carlson-w-bernard
 tags: 
   - book-summary
 excerpt: ""

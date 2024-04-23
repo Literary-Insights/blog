@@ -1,6 +1,6 @@
 ---
 title: Waking Up - Sam Harris
-slug: deep-summary-waking-up-sam-harris
+slug: waking-up-sam-harris
 tags: 
   - book-summary
 excerpt: ""

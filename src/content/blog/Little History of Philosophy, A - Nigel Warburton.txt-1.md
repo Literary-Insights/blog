@@ -1,6 +1,6 @@
 ---
 title: Little History of Philosophy, A - Nigel Warburton
-slug: deep-summary-little-history-of-philosophy-a-nigel-warburton
+slug: little-history-of-philosophy-a-nigel-warburton
 tags: 
   - book-summary
 excerpt: ""

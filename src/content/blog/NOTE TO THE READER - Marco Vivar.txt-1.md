@@ -1,6 +1,6 @@
 ---
 title: NOTE TO THE READER - Marco Vivar
-slug: deep-summary-note-to-the-reader-marco-vivar
+slug: note-to-the-reader-marco-vivar
 tags: 
   - book-summary
 excerpt: ""

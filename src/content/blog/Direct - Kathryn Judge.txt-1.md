@@ -1,6 +1,6 @@
 ---
 title: Direct - Kathryn Judge
-slug: deep-summary-direct-kathryn-judge
+slug: direct-kathryn-judge
 tags: 
   - book-summary
 excerpt: ""

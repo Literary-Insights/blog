@@ -1,6 +1,6 @@
 ---
 title: Everyday Affirmations_ Positive Psychology (Biden-Harris Edition) - Destiny S Harris
-slug: deep-summary-everyday-affirmations_-positive-psychology-biden-harris-edition-destiny-s-harris
+slug: everyday-affirmations-positive-psychology-biden-harris-edition-destiny-s-harris
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=everyday-affirmations_-positive-psychology-biden-harris-edition-destiny-s-harris)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=everyday-affirmations-positive-psychology-biden-harris-edition-destiny-s-harris)
 
 
 

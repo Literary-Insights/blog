@@ -1,6 +1,6 @@
 ---
 title: Amazon Affiliate Profits Relaunched - Maratas, Renzsu
-slug: deep-summary-amazon-affiliate-profits-relaunched-maratas-renzsu
+slug: amazon-affiliate-profits-relaunched-maratas-renzsu
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
-title: FAST SUMMARY - 
-slug: fast-summary-
+title: Make Time How to Focus on What Matters - Jake Knapp
+slug: Make-Time-How-to-Focus-on-What-Matters-Jake-Knapp
 tags: 
   - book-summary
 excerpt: ""

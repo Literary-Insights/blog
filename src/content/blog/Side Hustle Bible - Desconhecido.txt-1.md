@@ -1,6 +1,6 @@
 ---
 title: Side Hustle Bible - Desconhecido
-slug: deep-summary-side-hustle-bible-desconhecido
+slug: side-hustle-bible-desconhecido
 tags: 
   - book-summary
 excerpt: ""

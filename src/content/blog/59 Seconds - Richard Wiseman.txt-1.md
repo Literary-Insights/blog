@@ -1,6 +1,6 @@
 ---
 title: 59 Seconds - Richard Wiseman
-slug: deep-summary-59-seconds-richard-wiseman
+slug: 59-seconds-richard-wiseman
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: 48 Laws of Power - Greene, Robert
-slug: deep-summary-48-laws-of-power-greene-robert
+slug: 48-laws-of-power-greene-robert
 tags: 
   - book-summary
 excerpt: ""

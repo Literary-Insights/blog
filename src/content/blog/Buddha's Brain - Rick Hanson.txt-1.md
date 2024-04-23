@@ -1,6 +1,6 @@
 ---
 title: Buddha's Brain - Rick Hanson
-slug: deep-summary-buddha-s-brain-rick-hanson
+slug: buddha-s-brain-rick-hanson
 tags: 
   - book-summary
 excerpt: ""

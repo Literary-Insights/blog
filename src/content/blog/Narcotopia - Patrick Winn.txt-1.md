@@ -1,6 +1,6 @@
 ---
 title: Narcotopia - Patrick Winn
-slug: deep-summary-narcotopia-patrick-winn
+slug: narcotopia-patrick-winn
 tags: 
   - book-summary
 excerpt: ""

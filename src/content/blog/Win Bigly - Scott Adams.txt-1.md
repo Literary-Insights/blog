@@ -1,6 +1,6 @@
 ---
 title: Win Bigly - Scott Adams
-slug: deep-summary-win-bigly-scott-adams
+slug: win-bigly-scott-adams
 tags: 
   - book-summary
 excerpt: ""

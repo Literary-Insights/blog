@@ -1,6 +1,6 @@
 ---
 title: Manipulation Techniques_ How to understand - Moore, David Cliff
-slug: deep-summary-manipulation-techniques_-how-to-understand-moore-david-cliff
+slug: manipulation-techniques-how-to-understand-moore-david-cliff
 tags: 
   - book-summary
 excerpt: ""

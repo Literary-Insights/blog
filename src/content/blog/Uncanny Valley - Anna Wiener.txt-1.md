@@ -1,6 +1,6 @@
 ---
 title: Uncanny Valley - Anna Wiener
-slug: deep-summary-uncanny-valley-anna-wiener
+slug: uncanny-valley-anna-wiener
 tags: 
   - book-summary
 excerpt: ""

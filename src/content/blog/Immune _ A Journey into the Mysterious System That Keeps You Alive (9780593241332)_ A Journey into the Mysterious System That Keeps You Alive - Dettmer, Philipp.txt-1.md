@@ -1,6 +1,6 @@
 ---
 title: Immune _ A Journey into the Mysterious System That Keeps You Alive (9780593241332)_ A Journey into the Mysterious System That Keeps You Alive - Dettmer, Philipp
-slug: deep-summary-immune-_-a-journey-into-the-mysterious-system-that-keeps-you-alive-9780593241332-_-a-journey-into-the-mysterious-system-that-keeps-you-alive-dettmer-philipp
+slug: immune--a-journey-into-the-mysterious-system-that-keeps-you-alive-9780593241332--a-journey-into-the-mysterious-system-that-keeps-you-alive-dettmer-philipp
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=immune-_-a-journey-into-the-mysterious-system-that-keeps-you-alive-9780593241332-_-a-journey-into-the-mysterious-system-that-keeps-you-alive-dettmer-philipp)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=immune--a-journey-into-the-mysterious-system-that-keeps-you-alive-9780593241332--a-journey-into-the-mysterious-system-that-keeps-you-alive-dettmer-philipp)
 
 
 
@@ -764,7 +764,7 @@ The key point is that while the immune system eliminates most early cancer, a fe
 
 - Chapter discusses smoking and its negative effects on the immune system. Nicotine suppresses the immune system, making immune cells like macrophages and natural killer cells less effective. 
 
-- In smokers, alveolar macrophages in the lungs are more sluggish and damaged, unable to clear debris or fight infections efficiently. This causes lung tissue damage over time. 
+- In smokers, alveolar macrophages in the lungs are more slug: gish and damaged, unable to clear debris or fight infections efficiently. This causes lung tissue damage over time. 
 
 - Smokers have impaired adaptive immunity as well. T cells and antibodies are less able to fight infections. However, autoantibodies that cause autoimmune disease are increased.
 

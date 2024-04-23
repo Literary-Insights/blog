@@ -1,6 +1,6 @@
 ---
 title: The Upstarts - Brad Stone
-slug: deep-summary-the-upstarts-brad-stone
+slug: the-upstarts-brad-stone
 tags: 
   - book-summary
 excerpt: ""

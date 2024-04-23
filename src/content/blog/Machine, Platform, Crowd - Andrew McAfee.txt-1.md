@@ -1,6 +1,6 @@
 ---
 title: Machine, Platform, Crowd - Andrew McAfee
-slug: deep-summary-machine-platform-crowd-andrew-mcafee
+slug: machine-platform-crowd-andrew-mcafee
 tags: 
   - book-summary
 excerpt: ""

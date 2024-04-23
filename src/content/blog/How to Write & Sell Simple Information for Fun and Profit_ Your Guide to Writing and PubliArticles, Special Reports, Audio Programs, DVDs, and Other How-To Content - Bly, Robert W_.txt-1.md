@@ -1,6 +1,6 @@
 ---
 title: How to Write & Sell Simple Information for Fun and Profit_ Your Guide to Writing and PubliArticles, Special Reports, Audio Programs, DVDs, and Other How-To Content - Bly, Robert W_
-slug: deep-summary-how-to-write-sell-simple-information-for-fun-and-profit_-your-guide-to-writing-and-publiarticles-special-reports-audio-programs-dvds-and-other-how-to-content-bly-robert-w_
+slug: how-to-write-sell-simple-information-for-fun-and-profit-your-guide-to-writing-and-publiarticles-special-reports-audio-programs-dvds-and-other-how-to-content-bly-robert-w_
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=how-to-write-sell-simple-information-for-fun-and-profit_-your-guide-to-writing-and-publiarticles-special-reports-audio-programs-dvds-and-other-how-to-content-bly-robert-w_)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=how-to-write-sell-simple-information-for-fun-and-profit-your-guide-to-writing-and-publiarticles-special-reports-audio-programs-dvds-and-other-how-to-content-bly-robert-w_)
 
 
 

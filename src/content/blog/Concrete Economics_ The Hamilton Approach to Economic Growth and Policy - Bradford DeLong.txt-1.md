@@ -1,6 +1,6 @@
 ---
 title: Concrete Economics_ The Hamilton Approach to Economic Growth and Policy - Bradford DeLong
-slug: deep-summary-concrete-economics_-the-hamilton-approach-to-economic-growth-and-policy-bradford-delong
+slug: concrete-economics-the-hamilton-approach-to-economic-growth-and-policy-bradford-delong
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=concrete-economics_-the-hamilton-approach-to-economic-growth-and-policy-bradford-delong)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=concrete-economics-the-hamilton-approach-to-economic-growth-and-policy-bradford-delong)
 
 
 

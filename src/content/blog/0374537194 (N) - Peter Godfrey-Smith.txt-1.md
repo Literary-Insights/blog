@@ -1,6 +1,6 @@
 ---
 title: Other Minds - Peter Godfrey-Smith
-slug: deep-summary-other-minds-n-peter-godfrey-smith
+slug: other-minds-n-peter-godfrey-smith
 tags: 
   - book-summary
 excerpt: ""

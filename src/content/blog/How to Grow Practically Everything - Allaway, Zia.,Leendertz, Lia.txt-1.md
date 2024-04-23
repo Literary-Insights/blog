@@ -1,6 +1,6 @@
 ---
 title: How to Grow Practically Everything - Allaway, Zia.,Leendertz, Lia
-slug: deep-summary-how-to-grow-practically-everything-allaway-zia-leendertz-lia
+slug: how-to-grow-practically-everything-allaway-zia-leendertz-lia
 tags: 
   - book-summary
 excerpt: ""
@@ -743,7 +743,7 @@ So in summary, it gives guidance on how often to mow the lawn at different times
 
  Here is a summary of the key points:
 
-- Slugs and snails damage plants by chewing leaves, petals, stems and fruit. Look for tattered leaves and ragged flowers. 
+- slug: s and snails damage plants by chewing leaves, petals, stems and fruit. Look for tattered leaves and ragged flowers. 
 
 - They are most active at night and hide during the day under pots, rocks, etc. Organic controls include beer traps, copper strips/collars, and placing diatomaceous earth around plants.
 

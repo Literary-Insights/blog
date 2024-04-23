@@ -1,6 +1,6 @@
 ---
 title: Gonzo Capitalism - Chris Guillebeau
-slug: deep-summary-gonzo-capitalism-chris-guillebeau
+slug: gonzo-capitalism-chris-guillebeau
 tags: 
   - book-summary
 excerpt: ""

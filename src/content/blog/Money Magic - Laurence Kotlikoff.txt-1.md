@@ -1,6 +1,6 @@
 ---
 title: Money Magic - Laurence Kotlikoff
-slug: deep-summary-money-magic-laurence-kotlikoff
+slug: money-magic-laurence-kotlikoff
 tags: 
   - book-summary
 excerpt: ""

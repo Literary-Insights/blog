@@ -1,6 +1,6 @@
 ---
 title: Future Skills_ The 20 Skills and Competencies Everyone Needs to Succeed in a Digital World - Marr, Bernard;
-slug: deep-summary-future-skills_-the-20-skills-and-competencies-everyone-needs-to-succeed-in-a-digital-world-marr-bernard-
+slug: future-skills-the-20-skills-and-competencies-everyone-needs-to-succeed-in-a-digital-world-marr-bernard-
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=future-skills_-the-20-skills-and-competencies-everyone-needs-to-succeed-in-a-digital-world-marr-bernard-)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=future-skills-the-20-skills-and-competencies-everyone-needs-to-succeed-in-a-digital-world-marr-bernard-)
 
 
 

@@ -1,6 +1,6 @@
 ---
-title: FAST SUMMARY - 
-slug: fast-summary-
+title: Linchpin - Seth Godin
+slug: Linchpin-Seth-Godin
 tags: 
   - book-summary
 excerpt: ""

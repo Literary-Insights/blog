@@ -1,6 +1,6 @@
 ---
 title: Biohack Your Brain - Kristen Willeumier
-slug: deep-summary-biohack-your-brain-kristen-willeumier
+slug: biohack-your-brain-kristen-willeumier
 tags: 
   - book-summary
 excerpt: ""

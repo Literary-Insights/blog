@@ -1,6 +1,6 @@
 ---
 title: Happier - Ben-Shahar
-slug: deep-summary-happier-Ben-Shahar
+slug: happier-Ben-Shahar
 tags: 
   - book-summary
 excerpt: ""

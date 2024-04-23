@@ -1,6 +1,6 @@
 ---
 title: Obviously Awesome - April Dunford
-slug: deep-summary-obviously-awesome-april-dunford
+slug: obviously-awesome-april-dunford
 tags: 
   - book-summary
 excerpt: ""

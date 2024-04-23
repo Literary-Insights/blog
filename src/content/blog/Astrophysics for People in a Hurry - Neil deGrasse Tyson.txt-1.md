@@ -1,6 +1,6 @@
 ---
 title: Astrophysics for People in a Hurry - Neil deGrasse Tyson
-slug: deep-summary-astrophysics-for-people-in-a-hurry-neil-degrasse-tyson
+slug: astrophysics-for-people-in-a-hurry-neil-degrasse-tyson
 tags: 
   - book-summary
 excerpt: ""

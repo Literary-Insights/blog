@@ -1,6 +1,6 @@
 ---
 title: How to Write a Book Now_ Craft Concepts, Mindset Shifts, and Encouragement to Inspire Your Creative Writing - Kole, Mary
-slug: deep-summary-how-to-write-a-book-now_-craft-concepts-mindset-shifts-and-encouragement-to-inspire-your-creative-writing-kole-mary
+slug: how-to-write-a-book-now-craft-concepts-mindset-shifts-and-encouragement-to-inspire-your-creative-writing-kole-mary
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=how-to-write-a-book-now_-craft-concepts-mindset-shifts-and-encouragement-to-inspire-your-creative-writing-kole-mary)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=how-to-write-a-book-now-craft-concepts-mindset-shifts-and-encouragement-to-inspire-your-creative-writing-kole-mary)
 
 
 

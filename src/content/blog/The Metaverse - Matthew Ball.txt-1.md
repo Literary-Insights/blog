@@ -1,6 +1,6 @@
 ---
 title: The Metaverse - Matthew Ball
-slug: deep-summary-the-metaverse-matthew-ball
+slug: the-metaverse-matthew-ball
 tags: 
   - book-summary
 excerpt: ""

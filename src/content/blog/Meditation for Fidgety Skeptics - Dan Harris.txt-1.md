@@ -1,6 +1,6 @@
 ---
 title: Meditation for Fidgety Skeptics - Dan Harris
-slug: deep-summary-meditation-for-fidgety-skeptics-dan-harris
+slug: meditation-for-fidgety-skeptics-dan-harris
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: Don't Trust Your Gut - Seth Stephens-Davidowitz
-slug: deep-summary-don-t-trust-your-gut-seth-stephens-davidowitz
+slug: don-t-trust-your-gut-seth-stephens-davidowitz
 tags: 
   - book-summary
 excerpt: ""

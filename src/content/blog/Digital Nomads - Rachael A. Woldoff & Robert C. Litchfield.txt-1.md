@@ -1,6 +1,6 @@
 ---
 title: Digital Nomads - Rachael A. Woldoff & Robert C. Litchfield
-slug: deep-summary-digital-nomads-rachael-a-woldoff-robert-c-litchfield
+slug: digital-nomads-rachael-a-woldoff-robert-c-litchfield
 tags: 
   - book-summary
 excerpt: ""

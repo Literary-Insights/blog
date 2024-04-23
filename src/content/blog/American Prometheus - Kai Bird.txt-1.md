@@ -1,6 +1,6 @@
 ---
 title: American Prometheus - Kai Bird
-slug: deep-summary-american-prometheus-kai-bird
+slug: american-prometheus-kai-bird
 tags: 
   - book-summary
 excerpt: ""

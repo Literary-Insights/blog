@@ -1,6 +1,6 @@
 ---
 title: Evolutionary Ideas (Sam Tatam)  - Zamzar
-slug: deep-summary-evolutionary-ideas-sam-tatamzamzar
+slug: evolutionary-ideas-sam-tatamzamzar
 tags: 
   - book-summary
 excerpt: ""
@@ -492,7 +492,7 @@ The University of Edinburgh (2016) provides a summary of the fruit fly time perc
 
 - They realized reducing clock time was not solving the problem. They had to look deeper at what was making passengers tetchy at the carousel. 
 
-- Even when we feel sluggish when bored, we are actually in a state of high arousal/stress physiologically. Boredom indicates our current situation provides no stimulation or opportunity, and it's an evolutionarily valuable adaptation. 
+- Even when we feel slug: gish when bored, we are actually in a state of high arousal/stress physiologically. Boredom indicates our current situation provides no stimulation or opportunity, and it's an evolutionarily valuable adaptation. 
 
 - Research showed that occupied time feels faster than unoccupied time, even if the activities are not very interesting. At Houston airport, they installed TVs showing airport/local information to occupy passengers during the wait. This significantly reduced complaints.
 

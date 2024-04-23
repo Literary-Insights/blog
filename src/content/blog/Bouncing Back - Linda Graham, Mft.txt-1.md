@@ -1,6 +1,6 @@
 ---
 title: Bouncing Back - Linda Graham, Mft
-slug: deep-summary-bouncing-back-linda-graham-mft
+slug: bouncing-back-linda-graham-mft
 tags: 
   - book-summary
 excerpt: ""

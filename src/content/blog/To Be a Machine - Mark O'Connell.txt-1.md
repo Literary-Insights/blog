@@ -1,6 +1,6 @@
 ---
 title: To Be a Machine - Mark O'Connell
-slug: deep-summary-to-be-a-machine-mark-o-connell
+slug: to-be-a-machine-mark-o-connell
 tags: 
   - book-summary
 excerpt: ""

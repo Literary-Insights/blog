@@ -1,6 +1,6 @@
 ---
 title: Sleep - Littlehales, Nick
-slug: deep-summary-sleep-littlehales-nick
+slug: sleep-littlehales-nick
 tags: 
   - book-summary
 excerpt: ""

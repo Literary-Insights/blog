@@ -1,6 +1,6 @@
 ---
-title: FAST SUMMARY - 
-slug: fast-summary-
+title: MONEY Master the Game - Tony Robbins
+slug: MONEY-Master-the-Game-Tony-Robbins
 tags: 
   - book-summary
 excerpt: ""

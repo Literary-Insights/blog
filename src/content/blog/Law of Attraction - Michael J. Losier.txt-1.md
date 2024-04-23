@@ -1,6 +1,6 @@
 ---
 title: Law of Attraction - Michael J. Losier
-slug: deep-summary-law-of-attraction-michael-j-losier
+slug: law-of-attraction-michael-j-losier
 tags: 
   - book-summary
 excerpt: ""

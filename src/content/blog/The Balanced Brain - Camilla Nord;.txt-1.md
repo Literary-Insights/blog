@@ -1,6 +1,6 @@
 ---
 title: The Balanced Brain - Camilla Nord;
-slug: deep-summary-the-balanced-brain-camilla-nord-
+slug: the-balanced-brain-camilla-nord-
 tags: 
   - book-summary
 excerpt: ""

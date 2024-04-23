@@ -1,6 +1,6 @@
 ---
 title: Man 2.0 Engineering the Alpha - John Romaniello
-slug: deep-summary-man-2-0-engineering-the-alpha-john-romaniello
+slug: man-2-0-engineering-the-alpha-john-romaniello
 tags: 
   - book-summary
 excerpt: ""

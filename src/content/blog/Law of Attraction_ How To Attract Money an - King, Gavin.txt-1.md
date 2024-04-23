@@ -1,6 +1,6 @@
 ---
 title: Law of Attraction_ How To Attract Money an - King, Gavin
-slug: deep-summary-law-of-attraction_-how-to-attract-money-an-king-gavin
+slug: law-of-attraction-how-to-attract-money-an-king-gavin
 tags: 
   - book-summary
 excerpt: ""

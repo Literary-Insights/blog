@@ -1,6 +1,6 @@
 ---
 title: Built to Innovate - Ben M. Bensaou
-slug: deep-summary-built-to-innovate-ben-m-bensaou
+slug: built-to-innovate-ben-m-bensaou
 tags: 
   - book-summary
 excerpt: ""

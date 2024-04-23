@@ -1,6 +1,6 @@
 ---
 title: The Personal MBA - Josh Kaufman
-slug: deep-summary-the-personal-mba-josh-kaufman
+slug: the-personal-mba-josh-kaufman
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: How the West Was Lost - Dambisa Moyo
-slug: deep-summary-how-the-west-was-lost-dambisa-moyo
+slug: how-the-west-was-lost-dambisa-moyo
 tags: 
   - book-summary
 excerpt: ""

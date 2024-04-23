@@ -1,6 +1,6 @@
 ---
 title: Building a StoryBrand - Donald Miller
-slug: deep-summary-building-a-storybrand-donald-miller
+slug: building-a-storybrand-donald-miller
 tags: 
   - book-summary
 excerpt: ""

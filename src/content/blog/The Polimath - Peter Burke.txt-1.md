@@ -1,6 +1,6 @@
 ---
 title: The Polimath - Peter Burke
-slug: deep-summary-the-polimath-peter-burke
+slug: the-polimath-peter-burke
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: Being There Putting Brain, Body, and World - Desconhecido
-slug: deep-summary-being-there-putting-brain-body-and-world-desconhecido
+slug: being-there-putting-brain-body-and-world-desconhecido
 tags: 
   - book-summary
 excerpt: ""
@@ -233,7 +233,7 @@ In summary, development can be seen as the gradual self-organization of cognitiv
 
 1. Vegetative phase: Slime mold cells (myxamoebae) live separately and feed on bacteria. They grow and divide.
 
-2. Aggregative phase: When food is scarce, the myxamoebae aggregate together into a multicellular slug-like structure called a pseudoplasmodium. This structure can move and climb to find a new food source.
+2. Aggregative phase: When food is scarce, the myxamoebae aggregate together into a multicellular slug: like structure called a pseudoplasmodium. This structure can move and climb to find a new food source.
 
 - The aggregative phase shows a primitive form of collective behavior and decision making. The myxamoebae have to coordinate to come together, choose a direction to move in, and navigate obstacles.
 

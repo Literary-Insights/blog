@@ -1,6 +1,6 @@
 ---
 title: Enchantment - Guy Kawasaki
-slug: deep-summary-enchantment-guy-kawasaki
+slug: enchantment-guy-kawasaki
 tags: 
   - book-summary
 excerpt: ""

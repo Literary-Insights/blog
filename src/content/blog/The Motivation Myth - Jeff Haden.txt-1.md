@@ -1,6 +1,6 @@
 ---
 title: The Motivation Myth - Jeff Haden
-slug: deep-summary-the-motivation-myth-jeff-haden
+slug: the-motivation-myth-jeff-haden
 tags: 
   - book-summary
 excerpt: ""

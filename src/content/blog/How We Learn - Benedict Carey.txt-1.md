@@ -1,6 +1,6 @@
 ---
 title: How We Learn - Benedict Carey
-slug: deep-summary-how-we-learn-benedict-carey
+slug: how-we-learn-benedict-carey
 tags: 
   - book-summary
 excerpt: ""

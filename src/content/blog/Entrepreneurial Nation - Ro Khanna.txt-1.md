@@ -1,6 +1,6 @@
 ---
 title: Entrepreneurial Nation - Ro Khanna
-slug: deep-summary-entrepreneurial-nation-ro-khanna
+slug: entrepreneurial-nation-ro-khanna
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: Chronicles - Thomas Piketty
-slug: deep-summary-chronicles-thomas-piketty
+slug: chronicles-thomas-piketty
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: Mindwandering - Moshe Bar
-slug: deep-summary-mindwandering-moshe-bar
+slug: mindwandering-moshe-bar
 tags: 
   - book-summary
 excerpt: ""

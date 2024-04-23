@@ -1,6 +1,6 @@
 ---
 title: Trillions - Robin Wigglesworth
-slug: deep-summary-trillions-robin-wigglesworth
+slug: trillions-robin-wigglesworth
 tags: 
   - book-summary
 excerpt: ""

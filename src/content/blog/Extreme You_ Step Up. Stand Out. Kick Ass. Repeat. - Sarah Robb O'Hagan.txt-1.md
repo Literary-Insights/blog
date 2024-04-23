@@ -1,6 +1,6 @@
 ---
 title: Extreme You_ Step Up. Stand Out. Kick Ass. Repeat. - Sarah Robb O'Hagan
-slug: deep-summary-extreme-you_-step-up-stand-out-kick-ass-repeat-sarah-robb-o-hagan
+slug: extreme-you-step-up-stand-out-kick-ass-repeat-sarah-robb-o-hagan
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=extreme-you_-step-up-stand-out-kick-ass-repeat-sarah-robb-o-hagan)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=extreme-you-step-up-stand-out-kick-ass-repeat-sarah-robb-o-hagan)
 
 
 

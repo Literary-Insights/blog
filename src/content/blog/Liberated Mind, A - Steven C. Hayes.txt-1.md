@@ -1,6 +1,6 @@
 ---
 title: Liberated Mind, A - Steven C. Hayes
-slug: deep-summary-liberated-mind-a-steven-c-hayes
+slug: liberated-mind-a-steven-c-hayes
 tags: 
   - book-summary
 excerpt: ""

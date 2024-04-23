@@ -1,6 +1,6 @@
 ---
 title: Digital Marketing Strategy - Kingsnorth, Simon
-slug: deep-summary-digital-marketing-strategy-kingsnorth-simon
+slug: digital-marketing-strategy-kingsnorth-simon
 tags: 
   - book-summary
 excerpt: ""

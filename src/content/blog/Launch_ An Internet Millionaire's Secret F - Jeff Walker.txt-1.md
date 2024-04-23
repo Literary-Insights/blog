@@ -1,6 +1,6 @@
 ---
 title: Launch_ An Internet Millionaire's Secret F - Jeff Walker
-slug: deep-summary-launch_-an-internet-millionaire-s-secret-f-jeff-walker
+slug: launch-an-internet-millionaire-s-secret-f-jeff-walker
 tags: 
   - book-summary
 excerpt: ""

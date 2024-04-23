@@ -1,6 +1,6 @@
 ---
 title: New Money - Lana Swartz
-slug: deep-summary-new-money-lana-swartz
+slug: new-money-lana-swartz
 tags: 
   - book-summary
 excerpt: ""

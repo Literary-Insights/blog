@@ -1,6 +1,6 @@
 ---
 title: Mind Magic - Barry, Keith;Sheridan, Nick;
-slug: deep-summary-mind-magic-barry-keith-sheridan-nick-
+slug: mind-magic-barry-keith-sheridan-nick-
 tags: 
   - book-summary
 excerpt: ""

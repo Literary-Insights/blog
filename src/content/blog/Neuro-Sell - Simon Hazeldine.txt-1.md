@@ -1,6 +1,6 @@
 ---
 title: Neuro-Sell - Simon Hazeldine
-slug: deep-summary-neuro-sell-simon-hazeldine
+slug: neuro-sell-simon-hazeldine
 tags: 
   - book-summary
 excerpt: ""

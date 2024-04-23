@@ -1,6 +1,6 @@
 ---
 title: Love and Orgasm (alexander lowen)  - Philippe
-slug: deep-summary-love-and-orgasm-alexander-lowenphilippe
+slug: love-and-orgasm-alexander-lowenphilippe
 tags: 
   - book-summary
 excerpt: ""

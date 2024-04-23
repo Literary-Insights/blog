@@ -1,6 +1,6 @@
 ---
 title: Smart Growth - Whitney Johnson
-slug: deep-summary-smart-growth-whitney-johnson
+slug: smart-growth-whitney-johnson
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: Binge Times - Dade Hayes
-slug: deep-summary-binge-times-dade-hayes
+slug: binge-times-dade-hayes
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: How the World Really Works_ The Science Behin Got Here and Where We're Going - Vaclav Smil
-slug: deep-summary-how-the-world-really-works_-the-science-behin-got-here-and-where-we-re-going-vaclav-smil
+slug: how-the-world-really-works-the-science-behin-got-here-and-where-we-re-going-vaclav-smil
 tags: 
   - book-summary
 excerpt: ""

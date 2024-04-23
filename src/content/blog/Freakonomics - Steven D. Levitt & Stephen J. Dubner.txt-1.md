@@ -1,6 +1,6 @@
 ---
 title: Freakonomics - Steven D. Levitt & Stephen J. Dubner
-slug: deep-summary-freakonomics-steven-d-levitt-stephen-j-dubner
+slug: freakonomics-steven-d-levitt-stephen-j-dubner
 tags: 
   - book-summary
 excerpt: ""

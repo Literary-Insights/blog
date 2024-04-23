@@ -1,6 +1,6 @@
 ---
 title: Wise as Fu_k - Gary John Bishop
-slug: deep-summary-wise-as-fu_k-gary-john-bishop
+slug: wise-as-fu_k-gary-john-bishop
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: Unprocess Your Life - Rob Hobson
-slug: deep-summary-unprocess-your-life-rob-hobson
+slug: unprocess-your-life-rob-hobson
 tags: 
   - book-summary
 excerpt: ""

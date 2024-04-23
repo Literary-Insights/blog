@@ -1,6 +1,6 @@
 ---
 title: Porn Generation - Ben Shapiro
-slug: deep-summary-porn-generation-ben-shapiro
+slug: porn-generation-ben-shapiro
 tags: 
   - book-summary
 excerpt: ""

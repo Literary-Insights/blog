@@ -1,6 +1,6 @@
 ---
 title: Book of Humans, The - Adam Rutherford
-slug: deep-summary-book-of-humans-the-adam-rutherford
+slug: book-of-humans-the-adam-rutherford
 tags: 
   - book-summary
 excerpt: ""

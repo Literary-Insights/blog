@@ -1,6 +1,6 @@
 ---
 title: Happy People Are Annoying - Josh Peck
-slug: deep-summary-happy-people-are-annoying-josh-peck
+slug: happy-people-are-annoying-josh-peck
 tags: 
   - book-summary
 excerpt: ""

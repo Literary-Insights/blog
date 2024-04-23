@@ -1,6 +1,6 @@
 ---
 title: Be Your Future Self Now - Dr. Benjamin Hardy
-slug: deep-summary-be-your-future-self-now-dr-benjamin-hardy
+slug: be-your-future-self-now-dr-benjamin-hardy
 tags: 
   - book-summary
 excerpt: ""

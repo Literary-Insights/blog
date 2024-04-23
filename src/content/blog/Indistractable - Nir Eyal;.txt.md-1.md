@@ -1,6 +1,6 @@
 ---
-title: FAST SUMMARY - 
-slug: fast-summary-
+title: Indistractable - Nir Eyal
+slug: Indistractable-Nir-Eyal
 tags: 
   - book-summary
 excerpt: ""

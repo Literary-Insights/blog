@@ -1,6 +1,6 @@
 ---
 title: Split the Pie - Barry Nalebuff
-slug: deep-summary-split-the-pie-barry-nalebuff
+slug: split-the-pie-barry-nalebuff
 tags: 
   - book-summary
 excerpt: ""

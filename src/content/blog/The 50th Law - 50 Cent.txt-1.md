@@ -1,6 +1,6 @@
 ---
 title: The 50th Law - 50 Cent
-slug: deep-summary-the-50th-law-50-cent
+slug: the-50th-law-50-cent
 tags: 
   - book-summary
 excerpt: ""

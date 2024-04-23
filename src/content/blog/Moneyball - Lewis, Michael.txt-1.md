@@ -1,6 +1,6 @@
 ---
 title: Moneyball - Lewis, Michael
-slug: deep-summary-moneyball-lewis-michael
+slug: moneyball-lewis-michael
 tags: 
   - book-summary
 excerpt: ""
@@ -100,7 +100,7 @@ BOOK LINK:
 
 - When discussing other players, Billy often challenges the scouts' evaluations, questioning players' actual hitting or athletic ability rather than just praising their tools and potential. 
 
-- The scouts favor traditional tools-based players, while Billy wants proven hitters based on stats like OBP and slugging percentage. 
+- The scouts favor traditional tools-based players, while Billy wants proven hitters based on stats like OBP and slug: ging percentage. 
 
 - Billy inserts Mark Teahen onto the draft board, a local player from a small college the scouts had not considered. His stats impress Billy and Paul as a good hitter profile. 
 
@@ -334,9 +334,9 @@ So in summary, it shows tensions between Billy's analytic/stats-based approach a
 
 - When closer Jason Isringhausen left via free agency, the A's were able to get draft picks in return that they used to select new prospects. This showed how fungible players could be if you focused on finding and developing talent rather than paying stars.
 
-- Beane took a similar approach when Johnny Damon left, trading for replacement players and focusing on on-base percentage rather than flashy stolen bases or slugging stats. 
+- Beane took a similar approach when Johnny Damon left, trading for replacement players and focusing on on-base percentage rather than flashy stolen bases or slug: ging stats. 
 
-- Paul DePodesta developed a sabermetric model showing that on-base percentage was about 3 times more important for scoring runs than slugging percentage, a radical idea at the time. This informed the A's strategy of underpaying for players who got on base over power hitters.
+- Paul DePodesta developed a sabermetric model showing that on-base percentage was about 3 times more important for scoring runs than slug: ging percentage, a radical idea at the time. This informed the A's strategy of underpaying for players who got on base over power hitters.
 
 - In summary, Beane focused on developing talent internally and replacing stars through trades and draft picks, recognizing that players were more fungible and replaceable than commonly believed if you focused on optimal sabermetric values like on-base percentage. This allowed the A's to compete on a small budget.
 
@@ -392,7 +392,7 @@ Their Wall Street background taught Mauriello, Armbruster and later DePodesta to
 
  Here is a summary:
 
-Last season, David Justice struggled with declining skills as an aging slugger. The Oakland A's signed him for $3.5 million, half of what the Yankees had paid him the previous year, with the Yankees picking up the other half. For the A's, Justice represented an experiment to see if a player's skills could maintain their level even as physical abilities declined with age. 
+Last season, David Justice struggled with declining skills as an aging slug: ger. The Oakland A's signed him for $3.5 million, half of what the Yankees had paid him the previous year, with the Yankees picking up the other half. For the A's, Justice represented an experiment to see if a player's skills could maintain their level even as physical abilities declined with age. 
 
 General manager Billy Beane saw the A's front office as conducting experiments on players, reducing them to statistical analyses of their skills rather than considering intangibles. Players were vaguely aware the front office guided their actions but didn't know the details of Beane's analytical approach. Beane was highly hands-on and involved in strategy, overriding manager Art Howe's control. While some veteran players like Randy Velarde disliked Beane's meddling, young stars like Barry Zito appreciated Beane's unorthodox approaches and felt it gave the team a chance at success.
 
@@ -684,7 +684,7 @@ So in summary, Billy Beane is dragged into watching a crucial A's game but grows
 
 - Towards the end of the season and in the playoffs, there was pressure on Beane to change his unconventional strategies and embrace more traditional approaches like bunting and manufacturing runs. 
 
-- Beane reviewed stats showing the A's scored more runs than the Twins despite the Twins having a higher batting average and slugging percentage, because the Twins gave away more outs through caught stealings and sacrifice bunts.
+- Beane reviewed stats showing the A's scored more runs than the Twins despite the Twins having a higher batting average and slug: ging percentage, because the Twins gave away more outs through caught stealings and sacrifice bunts.
 
  Here is a summary of the passage:
 
@@ -720,7 +720,7 @@ So in summary, Billy Beane is dragged into watching a crucial A's game but grows
 
 - In Visalia, the new teammates were unfriendly and didn't acknowledge Brown and Swisher. Brown overheard a teammate call him "The Badger" due to his body hair, mocking him. 
 
-- However, Brown excelled in Visalia, quickly taking the starting catcher job and leading the team in batting average, on-base percentage, and slugging percentage. 
+- However, Brown excelled in Visalia, quickly taking the starting catcher job and leading the team in batting average, on-base percentage, and slug: ging percentage. 
 
 - His success earned him an invite to the A's big league spring training camp, making him the only player from the 2002 draft to get that honor. 
 
@@ -780,6 +780,6 @@ So in summary, it outlines the backlash and grasping at straws by critics any ti
 
 The passage describes using hypnotic suggestion techniques to put someone into a trance by having them focus on a finger held up about 6 inches from their eyes. The hypnotist tells the subject that their legs and arms are growing very heavy and that they are going deep asleep. 
 
-It then provides some additional context about baseball statistics and analytics. It discusses the history of sabermetrics and key figures like Bill James. It explains various batting stats like on-base percentage and slugging percentage. 
+It then provides some additional context about baseball statistics and analytics. It discusses the history of sabermetrics and key figures like Bill James. It explains various batting stats like on-base percentage and slug: ging percentage. 
 
 The passage profiles Oakland A's player Scott Hatteberg and his strong performance in the 2002 season, noting his high on-base percentage and ratio of walks to strikeouts. It discusses the A's strong second-half performance from 1999-2002. Finally, it briefly mentions Theo Epstein being hired as general manager of the Boston Red Sox at a young age with no prior professional playing experience.

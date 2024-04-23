@@ -1,6 +1,6 @@
 ---
 title: The Truth - Neil Strauss
-slug: deep-summary-the-truth-neil-strauss
+slug: the-truth-neil-strauss
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: Mastery - Greene, Robert
-slug: deep-summary-mastery-greene-robert
+slug: mastery-greene-robert
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: Everything I Know - Jarvis, Paul
-slug: deep-summary-everything-i-know-jarvis-paul
+slug: everything-i-know-jarvis-paul
 tags: 
   - book-summary
 excerpt: ""

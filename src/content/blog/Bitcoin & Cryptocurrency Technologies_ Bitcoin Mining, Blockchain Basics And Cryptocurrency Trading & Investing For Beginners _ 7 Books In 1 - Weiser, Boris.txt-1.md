@@ -1,6 +1,6 @@
 ---
 title: Bitcoin & Cryptocurrency Technologies_ Bitcoin Mining, Blockchain Basics And Cryptocurrency Trading & Investing For Beginners _ 7 Books In 1 - Weiser, Boris
-slug: deep-summary-bitcoin-cryptocurrency-technologies_-bitcoin-mining-blockchain-basics-and-cryptocurrency-trading-investing-for-beginners-_-7-books-in-1-weiser-boris
+slug: bitcoin-cryptocurrency-technologies-bitcoin-mining-blockchain-basics-and-cryptocurrency-trading-investing-for-beginners--7-books-in-1-weiser-boris
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=bitcoin-cryptocurrency-technologies_-bitcoin-mining-blockchain-basics-and-cryptocurrency-trading-investing-for-beginners-_-7-books-in-1-weiser-boris)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=bitcoin-cryptocurrency-technologies-bitcoin-mining-blockchain-basics-and-cryptocurrency-trading-investing-for-beginners--7-books-in-1-weiser-boris)
 
 
 

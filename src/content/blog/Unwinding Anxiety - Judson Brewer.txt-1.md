@@ -1,6 +1,6 @@
 ---
 title: Unwinding Anxiety - Judson Brewer
-slug: deep-summary-unwinding-anxiety-judson-brewer
+slug: unwinding-anxiety-judson-brewer
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: The Safety Net - David Eagleman
-slug: deep-summary-the-safety-net-david-eagleman
+slug: the-safety-net-david-eagleman
 tags: 
   - book-summary
 excerpt: ""

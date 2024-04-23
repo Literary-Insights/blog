@@ -1,6 +1,6 @@
 ---
 title: Edge of Chaos_ Why Democracy Is Failing to Deliver Economic Growth---and How to Fix It - Dambisa Moyo
-slug: deep-summary-edge-of-chaos_-why-democracy-is-failing-to-deliver-economic-growth-and-how-to-fix-it-dambisa-moyo
+slug: edge-of-chaos-why-democracy-is-failing-to-deliver-economic-growth-and-how-to-fix-it-dambisa-moyo
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=edge-of-chaos_-why-democracy-is-failing-to-deliver-economic-growth-and-how-to-fix-it-dambisa-moyo)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=edge-of-chaos-why-democracy-is-failing-to-deliver-economic-growth-and-how-to-fix-it-dambisa-moyo)
 
 
 
@@ -594,7 +594,7 @@ Advocates for reform may come from outside the existing political system, such a
 
 - No, ‘Truck Driver’ Isn’t the Most Common Job in Your State: Critiques popular articles claiming truck driver is the most common job nationally, finding that retail sales and food service are more common based on Bureau of Labor Statistics data. Truck driving did not make the top five for most states.
 
-- UK Productivity Falls by Most Since Financial Crisis: Reports that UK productivity, measured by output per hour, fell sharply in the last quarter of 2015, contributing to sluggish wage growth and concerns over long-term economic health. 
+- UK Productivity Falls by Most Since Financial Crisis: Reports that UK productivity, measured by output per hour, fell sharply in the last quarter of 2015, contributing to slug: gish wage growth and concerns over long-term economic health. 
 
 - Stress from Within: EM Capital Flows Chartbook: Statistical compilation from the Institute of International Finance examining trends in capital flows to and from emerging market countries, finding resilient yet uneven flows. Flags risks from weakness in commodity exports and economic rebalancing in China.
 

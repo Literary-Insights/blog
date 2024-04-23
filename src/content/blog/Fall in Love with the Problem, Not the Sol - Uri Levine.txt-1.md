@@ -1,6 +1,6 @@
 ---
 title: Fall in Love with the Problem, Not the Sol - Uri Levine
-slug: deep-summary-fall-in-love-with-the-problem-not-the-sol-uri-levine
+slug: fall-in-love-with-the-problem-not-the-sol-uri-levine
 tags: 
   - book-summary
 excerpt: ""

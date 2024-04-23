@@ -1,6 +1,6 @@
 ---
 title: Accounting for non-accounting students - John R. Dyson & Ellie Franklin
-slug: deep-summary-accounting-for-non-accounting-students-john-r-dyson-ellie-franklin
+slug: accounting-for-non-accounting-students-john-r-dyson-ellie-franklin
 tags: 
   - book-summary
 excerpt: ""

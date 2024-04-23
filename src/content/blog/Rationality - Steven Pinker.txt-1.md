@@ -1,6 +1,6 @@
 ---
 title: Rationality - Steven Pinker
-slug: deep-summary-rationality-steven-pinker
+slug: rationality-steven-pinker
 tags: 
   - book-summary
 excerpt: ""

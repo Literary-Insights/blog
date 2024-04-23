@@ -1,6 +1,6 @@
 ---
 title: How to Start a Business  The Tim Ferriss Experiment - Inglês (gerada automaticamente)
-slug: deep-summary-how-to-start-a-business-the-tim-ferriss-experiment-inglês-gerada-automaticamente-
+slug: how-to-start-a-business-the-tim-ferriss-experiment-inglês-gerada-automaticamente-
 tags: 
   - book-summary
 excerpt: ""

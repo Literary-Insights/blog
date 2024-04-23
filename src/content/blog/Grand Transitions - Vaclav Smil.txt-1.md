@@ -1,6 +1,6 @@
 ---
 title: Grand Transitions - Vaclav Smil
-slug: deep-summary-grand-transitions-vaclav-smil
+slug: grand-transitions-vaclav-smil
 tags: 
   - book-summary
 excerpt: ""

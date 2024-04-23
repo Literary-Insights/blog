@@ -1,6 +1,6 @@
 ---
 title: On the Shortness of Life - Seneca
-slug: deep-summary-on-the-shortness-of-life-seneca
+slug: on-the-shortness-of-life-seneca
 tags: 
   - book-summary
 excerpt: ""

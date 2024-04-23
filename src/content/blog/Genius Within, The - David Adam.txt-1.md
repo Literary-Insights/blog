@@ -1,6 +1,6 @@
 ---
 title: Genius Within, The - David Adam
-slug: deep-summary-genius-within-the-david-adam
+slug: genius-within-the-david-adam
 tags: 
   - book-summary
 excerpt: ""

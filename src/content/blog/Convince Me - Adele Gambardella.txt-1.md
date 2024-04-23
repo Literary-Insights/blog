@@ -1,6 +1,6 @@
 ---
 title: Convince Me - Adele Gambardella
-slug: deep-summary-convince-me-adele-gambardella
+slug: convince-me-adele-gambardella
 tags: 
   - book-summary
 excerpt: ""

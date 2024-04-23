@@ -1,6 +1,6 @@
 ---
 title: Superior - Angela Saini
-slug: deep-summary-superior-angela-saini
+slug: superior-angela-saini
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: Data Strategy - Marr, Bernard;
-slug: deep-summary-data-strategy-marr-bernard-
+slug: data-strategy-marr-bernard-
 tags: 
   - book-summary
 excerpt: ""

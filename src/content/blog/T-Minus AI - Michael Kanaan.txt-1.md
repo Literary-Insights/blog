@@ -1,6 +1,6 @@
 ---
 title: T-Minus AI - Michael Kanaan
-slug: deep-summary-t-minus-ai-michael-kanaan
+slug: t-minus-ai-michael-kanaan
 tags: 
   - book-summary
 excerpt: ""

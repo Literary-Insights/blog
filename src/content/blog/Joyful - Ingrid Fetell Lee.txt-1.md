@@ -1,6 +1,6 @@
 ---
 title: Joyful - Ingrid Fetell Lee
-slug: deep-summary-joyful-ingrid-fetell-lee
+slug: joyful-ingrid-fetell-lee
 tags: 
   - book-summary
 excerpt: ""

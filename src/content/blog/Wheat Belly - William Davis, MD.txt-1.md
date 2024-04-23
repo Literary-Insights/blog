@@ -1,6 +1,6 @@
 ---
 title: Wheat Belly - William Davis, MD
-slug: deep-summary-wheat-belly-william-davis-md
+slug: wheat-belly-william-davis-md
 tags: 
   - book-summary
 excerpt: ""

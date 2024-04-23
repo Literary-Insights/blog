@@ -1,6 +1,6 @@
 ---
 title: Console Wars - Blake J. Harris
-slug: deep-summary-console-wars-blake-j-harris
+slug: console-wars-blake-j-harris
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: How to Make Money Online with ChatGPT_ The Ultimate Guide to Creating Multiple Streams of Passive Income and Increasing Productivity - Fitzgerald, Brian Scott
-slug: deep-summary-how-to-make-money-online-with-chatgpt_-the-ultimate-guide-to-creating-multiple-streams-of-passive-income-and-increasing-productivity-fitzgerald-brian-scott
+slug: how-to-make-money-online-with-chatgpt-the-ultimate-guide-to-creating-multiple-streams-of-passive-income-and-increasing-productivity-fitzgerald-brian-scott
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=how-to-make-money-online-with-chatgpt_-the-ultimate-guide-to-creating-multiple-streams-of-passive-income-and-increasing-productivity-fitzgerald-brian-scott)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=how-to-make-money-online-with-chatgpt-the-ultimate-guide-to-creating-multiple-streams-of-passive-income-and-increasing-productivity-fitzgerald-brian-scott)
 
 
 

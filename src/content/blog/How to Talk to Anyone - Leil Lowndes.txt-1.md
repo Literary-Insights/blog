@@ -1,6 +1,6 @@
 ---
 title: How to Talk to Anyone - Leil Lowndes
-slug: deep-summary-how-to-talk-to-anyone-leil-lowndes
+slug: how-to-talk-to-anyone-leil-lowndes
 tags: 
   - book-summary
 excerpt: ""

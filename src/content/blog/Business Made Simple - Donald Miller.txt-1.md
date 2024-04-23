@@ -1,6 +1,6 @@
 ---
 title: Business Made Simple - Donald Miller
-slug: deep-summary-business-made-simple-donald-miller
+slug: business-made-simple-donald-miller
 tags: 
   - book-summary
 excerpt: ""

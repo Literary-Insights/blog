@@ -1,6 +1,6 @@
 ---
 title: Purple Cow - Seth Godin
-slug: deep-summary-purple-cow-seth-godin
+slug: purple-cow-seth-godin
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: CONFIDENCE_ Confidence Training - Become A - Moore, Robert
-slug: deep-summary-confidence_-confidence-training-become-a-moore-robert
+slug: confidence-confidence-training-become-a-moore-robert
 tags: 
   - book-summary
 excerpt: ""

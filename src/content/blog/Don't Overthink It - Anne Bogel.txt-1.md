@@ -1,6 +1,6 @@
 ---
 title: Don't Overthink It - Anne Bogel
-slug: deep-summary-don-t-overthink-it-anne-bogel
+slug: don-t-overthink-it-anne-bogel
 tags: 
   - book-summary
 excerpt: ""

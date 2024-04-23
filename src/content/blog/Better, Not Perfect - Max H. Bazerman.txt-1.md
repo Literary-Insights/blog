@@ -1,6 +1,6 @@
 ---
 title: Better, Not Perfect - Max H. Bazerman
-slug: deep-summary-better-not-perfect-max-h-bazerman
+slug: better-not-perfect-max-h-bazerman
 tags: 
   - book-summary
 excerpt: ""

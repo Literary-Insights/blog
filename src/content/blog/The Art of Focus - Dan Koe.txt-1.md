@@ -1,6 +1,6 @@
 ---
 title: The Art of Focus - Dan Koe
-slug: deep-summary-the-art-of-focus-dan-koe
+slug: the-art-of-focus-dan-koe
 tags: 
   - book-summary
 excerpt: ""

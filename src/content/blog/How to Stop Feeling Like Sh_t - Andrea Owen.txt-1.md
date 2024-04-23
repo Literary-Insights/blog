@@ -1,6 +1,6 @@
 ---
 title: How to Stop Feeling Like Sh_t - Andrea Owen
-slug: deep-summary-how-to-stop-feeling-like-sh_t-andrea-owen
+slug: how-to-stop-feeling-like-sh_t-andrea-owen
 tags: 
   - book-summary
 excerpt: ""

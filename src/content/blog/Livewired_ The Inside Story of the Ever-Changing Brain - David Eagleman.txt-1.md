@@ -1,6 +1,6 @@
 ---
 title: Livewired_ The Inside Story of the Ever-Changing Brain - David Eagleman
-slug: deep-summary-livewired_-the-inside-story-of-the-ever-changing-brain-david-eagleman
+slug: livewired-the-inside-story-of-the-ever-changing-brain-david-eagleman
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=livewired_-the-inside-story-of-the-ever-changing-brain-david-eagleman)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=livewired-the-inside-story-of-the-ever-changing-brain-david-eagleman)
 
 
 
@@ -484,7 +484,7 @@ So in summary, experience-dependent plasticity reduces the malleability of neura
 
 - Older memories tend to become more securely stored over time as the connections between neurons are strengthened. This process was first described by Aristotle but is now being understood through neuroscience research.
 
-- Experiments with animals like sea slugs have uncovered molecular changes involved in simple forms of memory formation and storage. However, human memory is more complex, allowing autobiographical memories and skills to be remembered.
+- Experiments with animals like sea slug: s have uncovered molecular changes involved in simple forms of memory formation and storage. However, human memory is more complex, allowing autobiographical memories and skills to be remembered.
 
 - Early experiments in the 1920s by Lashley revealed that memory is not localized to one brain area but rather distributed broadly across many areas. 
 

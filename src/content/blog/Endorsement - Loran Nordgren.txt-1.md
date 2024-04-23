@@ -1,6 +1,6 @@
 ---
 title: Endorsement - Loran Nordgren
-slug: deep-summary-endorsement-loran-nordgren
+slug: endorsement-loran-nordgren
 tags: 
   - book-summary
 excerpt: ""

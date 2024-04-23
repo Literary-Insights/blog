@@ -1,6 +1,6 @@
 ---
 title: How I'd make $10k per month if my life depended on it - Inglês (gerada automaticamente)
-slug: deep-summary-how-i-d-make-10k-per-month-if-my-life-depended-on-it-inglês-gerada-automaticamente-
+slug: how-i-d-make-10k-per-month-if-my-life-depended-on-it-inglês-gerada-automaticamente-
 tags: 
   - book-summary
 excerpt: ""

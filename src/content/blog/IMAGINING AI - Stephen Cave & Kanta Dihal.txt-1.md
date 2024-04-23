@@ -1,6 +1,6 @@
 ---
 title: IMAGINING AI - Stephen Cave & Kanta Dihal
-slug: deep-summary-imagining-ai-stephen-cave-kanta-dihal
+slug: imagining-ai-stephen-cave-kanta-dihal
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: Remote, Inc. - Robert C. Pozen
-slug: deep-summary-remote-inc-robert-c-pozen
+slug: remote-inc-robert-c-pozen
 tags: 
   - book-summary
 excerpt: ""

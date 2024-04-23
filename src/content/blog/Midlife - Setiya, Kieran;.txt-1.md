@@ -1,6 +1,6 @@
 ---
 title: Midlife - Setiya, Kieran;
-slug: deep-summary-midlife-setiya-kieran-
+slug: midlife-setiya-kieran-
 tags: 
   - book-summary
 excerpt: ""

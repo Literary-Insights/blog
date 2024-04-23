@@ -1,6 +1,6 @@
 ---
 title: CEO, China - Kerry Brown
-slug: deep-summary-ceo-china-kerry-brown
+slug: ceo-china-kerry-brown
 tags: 
   - book-summary
 excerpt: ""

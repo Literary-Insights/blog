@@ -1,6 +1,6 @@
 ---
 title: The Point - Steve Woodruff
-slug: deep-summary-the-point-steve-woodruff
+slug: the-point-steve-woodruff
 tags: 
   - book-summary
 excerpt: ""

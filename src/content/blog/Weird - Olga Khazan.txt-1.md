@@ -1,6 +1,6 @@
 ---
 title: Weird - Olga Khazan
-slug: deep-summary-weird-olga-khazan
+slug: weird-olga-khazan
 tags: 
   - book-summary
 excerpt: ""

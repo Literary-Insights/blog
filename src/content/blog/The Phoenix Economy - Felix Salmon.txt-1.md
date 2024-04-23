@@ -1,6 +1,6 @@
 ---
 title: The Phoenix Economy - Felix Salmon
-slug: deep-summary-the-phoenix-economy-felix-salmon
+slug: the-phoenix-economy-felix-salmon
 tags: 
   - book-summary
 excerpt: ""

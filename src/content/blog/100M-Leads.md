@@ -9,7 +9,7 @@ tags: [Alex Hormozi]
 ---
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=-100m-leads_-how-to-get-strangers-to-want-to-buy-your-stuff-alex-hormozi)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=-100m-leads-how-to-get-strangers-to-want-to-buy-your-stuff-alex-hormozi)
 
 
 

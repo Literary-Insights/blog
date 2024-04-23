@@ -1,6 +1,6 @@
 ---
 title: B000QJLQXU EBOK - Easterly, William
-slug: deep-summary-b000qjlqxu-ebok-easterly-william
+slug: b000qjlqxu-ebok-easterly-william
 tags: 
   - book-summary
 excerpt: ""

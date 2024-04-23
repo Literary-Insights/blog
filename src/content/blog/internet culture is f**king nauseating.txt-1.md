@@ -1,6 +1,6 @@
 ---
 title: internet culture is f**king nauseating
-slug: deep-summary-internet-culture-is-f-king-nauseating
+slug: internet-culture-is-f-king-nauseating
 tags: 
   - book-summary
 excerpt: ""

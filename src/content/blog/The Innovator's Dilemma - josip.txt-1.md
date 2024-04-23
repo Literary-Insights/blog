@@ -1,6 +1,6 @@
 ---
 title: The Innovator's Dilemma - josip
-slug: deep-summary-the-innovator-s-dilemma-josip
+slug: the-innovator-s-dilemma-josip
 tags: 
   - book-summary
 excerpt: ""

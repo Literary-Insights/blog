@@ -1,6 +1,6 @@
 ---
 title: Cleaning Up Your Mental Mess - Dr. Caroline Leaf
-slug: deep-summary-cleaning-up-your-mental-mess-dr-caroline-leaf
+slug: cleaning-up-your-mental-mess-dr-caroline-leaf
 tags: 
   - book-summary
 excerpt: ""

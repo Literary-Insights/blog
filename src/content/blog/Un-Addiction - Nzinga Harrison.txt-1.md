@@ -1,6 +1,6 @@
 ---
 title: Un-Addiction - Nzinga Harrison
-slug: deep-summary-un-addiction-nzinga-harrison
+slug: un-addiction-nzinga-harrison
 tags: 
   - book-summary
 excerpt: ""

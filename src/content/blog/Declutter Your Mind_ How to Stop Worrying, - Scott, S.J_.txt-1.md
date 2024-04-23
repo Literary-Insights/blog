@@ -1,6 +1,6 @@
 ---
 title: Declutter Your Mind_ How to Stop Worrying, - Scott, S.J_
-slug: deep-summary-declutter-your-mind_-how-to-stop-worrying-scott-s-j_
+slug: declutter-your-mind-how-to-stop-worrying-scott-s-j_
 tags: 
   - book-summary
 excerpt: ""
@@ -343,7 +343,7 @@ The key is making conscious choices to avoid an overcommitted life and focus on 
 
 • Set aside at least 15-30 minutes to enter a state of flow. Give yourself enough time to become fully immersed in the task. 
 
-• Monitor your emotional state. If you're anxious or distracted, try calming exercises like deep breathing. If you're sluggish, do something to energize yourself. Then return to your activity.
+• Monitor your emotional state. If you're anxious or distracted, try calming exercises like deep breathing. If you're slug: gish, do something to energize yourself. Then return to your activity.
 
 • Simplify your distractions and limit interruptions. Put your phone away, close email and social media tabs. Find a space free of disturbances.
 

@@ -1,6 +1,6 @@
 ---
 title: Corporate Finance Theory and Practice (Maurizio Dallocchio, Yann Le Fur, Pascal Quiry etc.)  - 4_8=8AB@0B_@
-slug: deep-summary-corporate-finance-theory-and-practice-maurizio-dallocchio-yann-le-fur-pascal-quiry-etc4_8-8ab-0b_-
+slug: corporate-finance-theory-and-practice-maurizio-dallocchio-yann-le-fur-pascal-quiry-etc4_8-8ab-0b-
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=corporate-finance-theory-and-practice-maurizio-dallocchio-yann-le-fur-pascal-quiry-etc4_8-8ab-0b_-)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=corporate-finance-theory-and-practice-maurizio-dallocchio-yann-le-fur-pascal-quiry-etc4_8-8ab-0b-)
 
 
 
@@ -1293,7 +1293,7 @@ Duration is a measure that indicates the sensitivity of a bond's price to intere
 
 By making the duration of the portfolio match the investment time period, any capital losses from interest rate changes will be offset by gains from reinvested coupon payments, resulting in the same overall return as originally intended. The portfolio is thus immunized against fluctuations in interest rates.
 
- Here is a summary of the key points about how the speed of appreciation or sluggishness of depreciation of a bond's price is affected by changes in interest rates:
+ Here is a summary of the key points about how the speed of appreciation or slug: gishness of depreciation of a bond's price is affected by changes in interest rates:
 
 - If interest rates decline, the price of existing fixed-rate bonds will appreciate faster due to capital gains. This is because new bonds issued at lower rates will be more attractive than existing bonds, driving up the price of the existing bonds to keep their yields in line. 
 

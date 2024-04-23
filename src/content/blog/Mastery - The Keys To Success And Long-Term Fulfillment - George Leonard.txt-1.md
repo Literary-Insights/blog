@@ -1,6 +1,6 @@
 ---
 title: Mastery - The Keys To Success And Long-Term Fulfillment - George Leonard
-slug: deep-summary-mastery-the-keys-to-success-and-long-term-fulfillment-george-leonard
+slug: mastery-the-keys-to-success-and-long-term-fulfillment-george-leonard
 tags: 
   - book-summary
 excerpt: ""

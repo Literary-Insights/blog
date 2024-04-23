@@ -1,6 +1,6 @@
 ---
-title: FAST SUMMARY - 
-slug: fast-summary-
+title: Losing My Virginity - Richard Branson
+slug: Losing My Virginity - Richard Branson
 tags: 
   - book-summary
 excerpt: ""

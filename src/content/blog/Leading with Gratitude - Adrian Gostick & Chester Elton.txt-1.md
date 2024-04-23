@@ -1,6 +1,6 @@
 ---
 title: Leading with Gratitude - Adrian Gostick & Chester Elton
-slug: deep-summary-leading-with-gratitude-adrian-gostick-chester-elton
+slug: leading-with-gratitude-adrian-gostick-chester-elton
 tags: 
   - book-summary
 excerpt: ""

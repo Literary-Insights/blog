@@ -1,6 +1,6 @@
 ---
 title: Influencer - Brittany Hennessy
-slug: deep-summary-influencer-brittany-hennessy
+slug: influencer-brittany-hennessy
 tags: 
   - book-summary
 excerpt: ""

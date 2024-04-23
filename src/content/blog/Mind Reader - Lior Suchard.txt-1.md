@@ -1,6 +1,6 @@
 ---
 title: Mind Reader - Lior Suchard
-slug: deep-summary-mind-reader-lior-suchard
+slug: mind-reader-lior-suchard
 tags: 
   - book-summary
 excerpt: ""

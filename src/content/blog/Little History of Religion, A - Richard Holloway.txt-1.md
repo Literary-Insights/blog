@@ -1,6 +1,6 @@
 ---
 title: Little History of Religion, A - Richard Holloway
-slug: deep-summary-little-history-of-religion-a-richard-holloway
+slug: little-history-of-religion-a-richard-holloway
 tags: 
   - book-summary
 excerpt: ""

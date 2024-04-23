@@ -1,6 +1,6 @@
 ---
 title: Masters Of Doom_ How Two Guys Created An Empire And Transformed Pop Culture - David Kushner
-slug: deep-summary-masters-of-doom_-how-two-guys-created-an-empire-and-transformed-pop-culture-david-kushner
+slug: masters-of-doom-how-two-guys-created-an-empire-and-transformed-pop-culture-david-kushner
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=masters-of-doom_-how-two-guys-created-an-empire-and-transformed-pop-culture-david-kushner)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=masters-of-doom-how-two-guys-created-an-empire-and-transformed-pop-culture-david-kushner)
 
 
 
@@ -546,7 +546,7 @@ Meanwhile, id was also in conflict with their publisher GT Interactive over shar
 
 - Romero proposed starting a new company with Hall where design would be the top priority, not constrained by technology concerns. Hall agreed this sounded ideal.
 
-- Id uploaded an early test level of Quake which received some criticism for being dark and sluggish compared to Doom. This discouraged the team. 
+- Id uploaded an early test level of Quake which received some criticism for being dark and slug: gish compared to Doom. This discouraged the team. 
 
 - The different id members' level designs lacked cohesion. They hastily came up with a backstory involving "slipgates" to tie the worlds together. 
 

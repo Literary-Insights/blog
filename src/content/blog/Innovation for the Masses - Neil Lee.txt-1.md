@@ -1,6 +1,6 @@
 ---
 title: Innovation for the Masses - Neil Lee
-slug: deep-summary-innovation-for-the-masses-neil-lee
+slug: innovation-for-the-masses-neil-lee
 tags: 
   - book-summary
 excerpt: ""

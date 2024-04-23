@@ -1,6 +1,6 @@
 ---
-title: FAST SUMMARY - 
-slug: fast-summary-
+title: Bold - Peter H. Diamandis
+slug: Bold - Peter H. Diamandis
 tags: 
   - book-summary
 excerpt: ""

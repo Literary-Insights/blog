@@ -1,6 +1,6 @@
 ---
 title: Build - Tony Fadell
-slug: deep-summary-build-tony-fadell
+slug: build-tony-fadell
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: Hacking Darwin - Jamie Metzl
-slug: deep-summary-hacking-darwin-jamie-metzl
+slug: hacking-darwin-jamie-metzl
 tags: 
   - book-summary
 excerpt: ""

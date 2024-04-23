@@ -1,6 +1,6 @@
 ---
 title: Internet for the People - Ben Tarnoff
-slug: deep-summary-internet-for-the-people-ben-tarnoff
+slug: internet-for-the-people-ben-tarnoff
 tags: 
   - book-summary
 excerpt: ""

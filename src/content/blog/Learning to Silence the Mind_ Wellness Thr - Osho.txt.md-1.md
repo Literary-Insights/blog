@@ -1,6 +1,6 @@
 ---
-title: FAST SUMMARY - 
-slug: fast-summary-
+title: Learning to Silence the Mind - Osho
+slug: Learning-to-Silence-the-Mind-Osho
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: I Want to Do All the Things_ Finding Balance as a Polymath, Multipotentialite & Renaissance Soul - Arcadia Page
-slug: deep-summary-i-want-to-do-all-the-things_-finding-balance-as-a-polymath-multipotentialite-renaissance-soul-arcadia-page
+slug: i-want-to-do-all-the-things-finding-balance-as-a-polymath-multipotentialite-renaissance-soul-arcadia-page
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=i-want-to-do-all-the-things_-finding-balance-as-a-polymath-multipotentialite-renaissance-soul-arcadia-page)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=i-want-to-do-all-the-things-finding-balance-as-a-polymath-multipotentialite-renaissance-soul-arcadia-page)
 
 
 

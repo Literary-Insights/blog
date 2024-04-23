@@ -1,6 +1,6 @@
 ---
 title: Get It Done - Ayelet Fishbach
-slug: deep-summary-get-it-done-ayelet-fishbach
+slug: get-it-done-ayelet-fishbach
 tags: 
   - book-summary
 excerpt: ""

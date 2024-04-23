@@ -1,6 +1,6 @@
 ---
 title: Captivate - Vanessa Van Edwards
-slug: deep-summary-captivate-vanessa-van-edwards
+slug: captivate-vanessa-van-edwards
 tags: 
   - book-summary
 excerpt: ""

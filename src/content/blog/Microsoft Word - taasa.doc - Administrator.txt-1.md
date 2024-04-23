@@ -1,6 +1,6 @@
 ---
 title: Microsoft Word - taasa.doc - Administrator
-slug: deep-summary-microsoft-word-taasa-doc-administrator
+slug: microsoft-word-taasa-doc-administrator
 tags: 
   - book-summary
 excerpt: ""

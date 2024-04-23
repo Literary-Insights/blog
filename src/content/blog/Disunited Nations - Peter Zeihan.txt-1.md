@@ -1,6 +1,6 @@
 ---
 title: Disunited Nations - Peter Zeihan
-slug: deep-summary-disunited-nations-peter-zeihan
+slug: disunited-nations-peter-zeihan
 tags: 
   - book-summary
 excerpt: ""

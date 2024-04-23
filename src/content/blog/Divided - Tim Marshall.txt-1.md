@@ -1,6 +1,6 @@
 ---
 title: Divided - Tim Marshall
-slug: deep-summary-divided-tim-marshall
+slug: divided-tim-marshall
 tags: 
   - book-summary
 excerpt: ""

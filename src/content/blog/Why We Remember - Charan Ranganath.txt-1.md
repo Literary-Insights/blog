@@ -1,6 +1,6 @@
 ---
 title: Why We Remember - Charan Ranganath
-slug: deep-summary-why-we-remember-charan-ranganath
+slug: why-we-remember-charan-ranganath
 tags: 
   - book-summary
 excerpt: ""

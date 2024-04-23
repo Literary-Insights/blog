@@ -1,6 +1,6 @@
 ---
 title: How to Stay Smart in a Smart World - Gerd Gigerenzer
-slug: deep-summary-how-to-stay-smart-in-a-smart-world-gerd-gigerenzer
+slug: how-to-stay-smart-in-a-smart-world-gerd-gigerenzer
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: Do the Hard Things First_ How to Win Over Procrastination and Master the Habit of Doing Difficult Work - Allan, Scott
-slug: deep-summary-do-the-hard-things-first_-how-to-win-over-procrastination-and-master-the-habit-of-doing-difficult-work-allan-scott
+slug: do-the-hard-things-first-how-to-win-over-procrastination-and-master-the-habit-of-doing-difficult-work-allan-scott
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=do-the-hard-things-first_-how-to-win-over-procrastination-and-master-the-habit-of-doing-difficult-work-allan-scott)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=do-the-hard-things-first-how-to-win-over-procrastination-and-master-the-habit-of-doing-difficult-work-allan-scott)
 
 
 

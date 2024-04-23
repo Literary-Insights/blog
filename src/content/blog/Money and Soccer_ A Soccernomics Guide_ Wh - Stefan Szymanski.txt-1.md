@@ -1,6 +1,6 @@
 ---
 title: Money and Soccer_ A Soccernomics Guide_ Wh - Stefan Szymanski
-slug: deep-summary-money-and-soccer_-a-soccernomics-guide_-wh-stefan-szymanski
+slug: money-and-soccer-a-soccernomics-guide-wh-stefan-szymanski
 tags: 
   - book-summary
 excerpt: ""

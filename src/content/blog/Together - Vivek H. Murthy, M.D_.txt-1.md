@@ -1,6 +1,6 @@
 ---
 title: Together - Vivek H. Murthy, M.D_
-slug: deep-summary-together-vivek-h-murthy-m-d_
+slug: together-vivek-h-murthy-m-d_
 tags: 
   - book-summary
 excerpt: ""

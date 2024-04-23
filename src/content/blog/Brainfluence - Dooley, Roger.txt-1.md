@@ -1,6 +1,6 @@
 ---
 title: Brainfluence - Dooley, Roger
-slug: deep-summary-brainfluence-dooley-roger
+slug: brainfluence-dooley-roger
 tags: 
   - book-summary
 excerpt: ""

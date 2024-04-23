@@ -1,6 +1,6 @@
 ---
 title: Get Your Sh_t Together - Sarah Knight
-slug: deep-summary-get-your-sh_t-together-sarah-knight
+slug: get-your-sh_t-together-sarah-knight
 tags: 
   - book-summary
 excerpt: ""
