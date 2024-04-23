@@ -6,34 +6,16 @@ tags:
 excerpt: ""
 category: "self-help"
 author: "matheus-puppe"
-publishDate: "2024-04-21T00:00:00.000Z"
-
+publishDate: "2024-04-23T00:00:00.000Z"
+image: "./src/assets/book_images/possible-william-ury.jpg"
 ---
 
 **"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
-
 
 BOOK LINK:
 
 [CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=possible-william-ury)
 
-
-
- Here is a summary of the key points from the dedication:
-
-- The dedication is for Gabi, representing all the "possibilists" to come, or those who pursue possibilities. 
-
-- The epigraph is a quote from Søren Kierkegaard about hope being a passion for the possible. 
-
-- The foreword is written by Jim Collins and describes how he connected with Ury on a hike and challenged him to boil his life's work down to one sentence, which became the foundation for this book. 
-
-- Collins argues Ury was uniquely qualified to write this book given his decades of intellectual foundations and practical experience in conflict resolution, as well as having developed wisdom from being a tactile researcher in the field. 
-
-- Chapter 1 recounts a pivotal phone call Ury received from Professor Roger Fisher offering him a job after liking an idea in one of Ury's papers about applying anthropology to analyzing peace talks. This set Ury on his career path of applying his studies to help resolve real-world conflicts.
-
-So in summary, the dedication frames the book as being about pursuing possibilities, while the foreword establishes Ury's credentials and experience that led to compiling his key insights into this work.
-
- 
 
 - The author discusses his lifelong quest to understand how to transform destructive conflicts into constructive negotiations. He was inspired by this question as a child growing up after World War 2 and the looming threat of nuclear war. 
 
@@ -621,133 +603,3 @@ Additional careful readers generously provided constructive suggestions, includi
 The author's friend and agent Jim Levine was a valuable advisor throughout the process. Hollis Heimbouch as editor at HarperCollins also embraced the book from the start. James Neidhardt skillfully guided it through publishing.
 
 The author expresses deep gratitude to his family for their loving support, including becoming a grandfather during the writing. He is grateful to all those in his community who helped make the book possible.
-
- Here are summaries of the passages:
-
-- The first passage discusses a 1996-1997 annual report from Harvard Kennedy School's Belfer Center for Science and International Affairs on their Strengthening Democratic Institutions Project. No other details are provided.
-
-- The second passage briefly mentions that an official said the two Chechen wars in Russia killed 300,000 people, citing a 2005 Al Jazeera article. 
-
-- The third passage provides a lively description of negotiations from a 1997 Smithsonian Magazine article, but does not summarize the content.
-
-- The fourth passage recommends books on collective trauma by two authors for further reading on intractable issues. 
-
-- The fifth passage discusses research finding that breathing decreases stress levels and cites a 2017 Psychology Today article on diaphragmatic breathing exercises and the vagus nerve. 
-
-- The sixth passage recommends a book by Dr. Jill Bolte Taylor for understanding how to control natural reactions. 
-
-- The seventh passage confirms through a 2022 journal article that silence can be beneficial in negotiation by creating a deliberative mindset and value. 
-
-- The eighth passage cites a 2021 article calling not making the first offer the "ultimate power move" in negotiation.
-
-- The ninth passage quotes Benjamin Franklin saying "Observe all men" without providing context.
-
-- The tenth passage discusses the interconnection between relationships, the brain, and identity formation, citing a 2012 book by Daniel Siegel.
-
-- The last two passages quote Nelson Mandela describing his imprisonment without additional context.
-
- Here is a summary of the key points:
-
-- During the 1962 Cuban Missile Crisis, the world came dangerously close to nuclear war as the US and USSR confronted each other over Soviet nuclear missiles deployed in Cuba. Tensions were extremely high. 
-
-- Through secret negotiations and "back channels," President Kennedy and Soviet leader Khrushchev were able to resolve the crisis diplomatically rather than through military confrontation. They engaged the "third side" by communicating privately in addition to public posturing. 
-
-- This showed the importance of considering others' perspectives and finding opportunities for compromise, even in the midst of conflict. Kennedy realized an invasion of Cuba could have escalated tensions further. 
-
-- Mediators and peacemakers have used third side diplomacy successfully in other conflicts as well, like the negotiations to end apartheid in South Africa. Engaging all sides privately can help unlock political will for resolution when public stances seem intractable. 
-
-- Overall, the passage emphasizes that directly or indirectly involving outside parties in negotiation, beyond just the primary opponents, can create space to meet underlying interests and ease tensions through unofficial dialogue even when official talks seem stalled. Third side diplomacy was pivotal in defusing the nuclear standoff between the US and USSR.
-
- Here is a summary of key events in South Africa in May 1989:
-
-- May 1989 marked the beginning of the transition from apartheid rule to democratic elections in South Africa. It was a time of immense political change.
-
-- In May, F.W. de Klerk was elected leader of the National Party, replacing P.W. Botha as president. De Klerk advocated reform and negotiations with the anti-apartheid movement to end apartheid.
-
-- De Klerk's election signaled that the white minority government was willing to consider political reforms and the dismantling of apartheid laws that enforced racial segregation and suppressed the black majority. 
-
-- Over the coming years, de Klerk would orchestrate a series of dramatic moves, including unbanning the African National Congress (ANC) and other anti-apartheid groups, releasing Nelson Mandela from prison after 27 years, and beginning negotiations on a new democratic constitution.
-
-- The election of de Klerk as president was a pivotal moment, as it opened the door to a transition from the old apartheid regime to a new, democratic political system based on majority rule and non-racialism. However, substantial challenges to reform still remained.
-
-- By May 1989, the apartheid system was becoming largely unsustainable due to domestic resistance and international isolation. De Klerk's election signaled the National Party's recognition that substantial reforms were needed to pave the way for democratic elections.
-
- Here is a summary of the key points from the provided text:
-
-- Hugo Chávez and listening to connect in Venezuelan peace talks (39-47, 143-148) 
-
-- Jim Collins and walking together (27)
-
-- Circle of possibility and expanding perspective (36, 46) 
-
-- Clan warfare in Highlands of New Guinea (53) 
-
-- Creative ideas and wizards (176, 174-177) 
-
-- Abilio Diniz and BATNA in coal mine negotiations (86, 102-104) 
-
-- Egyptian-Israeli peace talks and golden bridge (130, 119-132) 
-
-- As first-person work and process (31, 45) 
-
-- First thoughts on third side (27-28) 
-
-- Gabi and promise of trip (155-156) 
-
-- Golden bridge and helping parties (118, 130, 217, 251) 
-
-- Gutter and lowering perspectives (300) 
-
-- Hostage negotiations and SWAT team for peace (282, 268) 
-
-- As inside-out process and potential between us (45, 31) 
-
-- Listening and connecting in conversations (155, 143-148, 131, 142)
-
-- Nelson Mandela and zooming out perspective (71-72, 115-116) 
-
-- Middle Eastern teaching story and bridge building (29-31, 30-31) 
-
-- Optimal emotional zone and pausing (63, 60-62) 
-
-- Physical environment and home base (67-71, 47) 
-
-- As superpower and possibilist mindset (36, 18) 
-
-- Swarming in conflicts and gang violence (272, 282-284) 
-
-- Turkish-Kurdish talks and helping conversation (255, 254-259) 
-
-- Venezuelan peace talks under Carter and Chávez (191, 39-47, 143-148)
-
-- Zooming in and out of perspectives (46, 46, 93-98)
-
- Here is a summary of the key points from the passages:
-
-- Nelson Mandela and the ANC's non-violent transition to democracy in South Africa showed the power of including former enemies and finding common ground. This helped the country heal after apartheid. 
-
-- Using a "90 second rule" can help in difficult conversations by pausing to regain emotional control. Our prefrontal cortex matures in our mid-20s and aids decision making. 
-
-- Our physical environment affects our state of mind and ability to think clearly. Natural settings like nature and water can help reduce stress and open our minds. 
-
-- Resourcing ourselves through mindfulness, exercise, rest and spending time in optimal emotional zones helps us bring our best selves to difficult conversations. 
-
-- Silence can be a useful negotiation technique to give each side time for reflection rather than reactive responses. Taking a "transformative pause" is important for understanding other perspectives. 
-
-- Trauma impacts our ability to self-regulate emotions and think clearly. Understanding trauma's effects on the brain and behavior can help create space for healing in conversations. 
-
-- Daniel Siegel's "Window of Tolerance" model explains how we function best with a moderate level of physiological arousal, and tipping into high arousal zones makes problem-solving difficult. 
-
-- Starting negotiations by "stopping" through mindfulness, deep listening and understanding interests can help transform conflicts from reactive to proactive conversations focused on interests and workable solutions.
-
- Here is a summary of the key points about negotiation and mentoring:
-
-- Negotiation is the process whereby two or more parties discuss an issue in order to find an agreement both sides can accept. It involves back-and-forth communication to reach a mutually beneficial outcome. 
-
-- Mentoring involves a more experienced person providing advice and guidance to a less experienced individual (the mentee) to help them achieve their goals. A mentor acts as a role model, sponsor, teacher and counselor.
-
-- Effective negotiation and mentoring both rely on listening, identifying shared and opposing interests, building trust, finding creative solutions, and establishing compromises. They aim to understand different perspectives.
-
-- In negotiation, parties directly discuss issues and work towards a deal. Mentoring is less transactional and more focused on the mentee's long-term development over time through guidance and advice. But both improve understanding between individuals.
-
-- Good documentation is important for negotiated agreements to clarify terms. Mentoring relationships also benefit from occasional check-ins, feedback and documentation of progress made by the mentee.
