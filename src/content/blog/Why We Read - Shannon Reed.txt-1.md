@@ -7,7 +7,7 @@ excerpt: ""
 category: "self-help"
 author: "matheus-puppe"
 publishDate: "2024-04-21T00:00:00.000Z"
-
+image: "./src/assets/book_images/worthy-jamie-kern-lima.jpg"
 ---
 
 **"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
@@ -16,29 +16,6 @@ publishDate: "2024-04-21T00:00:00.000Z"
 BOOK LINK:
 
 [CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=why-we-read-shannon-reed)
-
-
-
- Here is a summary of the review passages for Shannon Reed's book Why We Read:
-
-- The reviews praise the book for its delightful reminiscences of Reed's love of reading and for reminding readers of the books that have stuck with them over a lifetime. 
-
-- Reed gives grace to love the books we love and shares tender memories of why certain stories remain in our hearts. 
-
-- The warm, authentic voice in these essays invites readers into Reed's literary universe while also encouraging readers to expand their own. 
-
-- It is described as a rare thing - both a joy to read and potent inspiration to revisit formative books from one's reading journey. 
-
-- The title is both a question and declaration, and Reed offers a variety of perspectives on why we read through exploring her own experiences. 
-
-- It illustrates that reading is too complex to be pinned down and is better viewed as a process undertaken freely. 
-
-- The book offers an entertaining, life-affirming, and funny exploration of why readers always have a book within reach. 
-
-- It is a deeply delightful book that will remind readers that nothing is better than the pleasure of reading.
-
-In summary, the reviews praise Shannon Reed's book for its warm, personal stories about the enduring joy of reading that will inspire readers to revisit books from their own lives.
-
  
 
 The passage describes the author's experience and love of reading from a young age. Some key points:
@@ -55,7 +32,6 @@ Overall, the passage reflects on formative experiences that fostered the author'
 
 The passage describes the narrator's long relationship with libraries from childhood through adulthood. As a teenager, they win a job as a library page where they learn to love helping patrons and recommending books. They continue to find solace and belonging in libraries throughout various life changes and moves, whether it's the college library, their local public library, or the beautiful Jefferson Market branch in New York City. Libraries consistently provide community, familiarity, and inspiration throughout the narrator's educational and career pursuits as a teacher. However, the disarray of the high school library they encounter as a new teacher is a stark contrast and sign of neglect. Overall, the passage illustrates how libraries have been lifelong anchors of stability, intellectual growth, and joy for the narrator.
 
- Here is a summary of the key points:
 
 - The passage describes the author's experience visiting libraries at different points in her life, from childhood to present day. 
 
@@ -171,7 +147,6 @@ So in summary, it's about two teachers who get fed up with one book being over-r
 
 - In summary, the author discusses how well-meaning programs like BOOK IT! could unintentionally teach children superficial reading habits if they prioritize quantity of books over quality of engagement and understanding.
 
- Here is a summary of the key points:
 
 - The author took a required class in Dramatic Criticism that focused heavily on theory and reading critical texts about dramatic theory. However, the author realized they had not actually read the primary texts being discussed - they had only skimmed them. 
 
@@ -183,7 +158,6 @@ So in summary, it's about two teachers who get fed up with one book being over-r
 
 - In summary, the author learned through this experience that they needed to change their reading habits from quick skimming to slower, more focused reading in order to properly comprehend and retain what they read. This made them a stronger reader over time.
 
- Here is a summary of the key points:
 
 - The teacher gave students a test on The Diary of Anne Frank that asked them to identify the "main point" of the book. Many students simply wrote about Anne making out with a boy, showing they didn't actually read it. 
 
@@ -205,7 +179,6 @@ The passage discusses some of the challenges and anxieties that can come up in f
 
 The passage then shifts to discussing some common fears and misconceptions people have around reading. The author recounts personal experiences where they pretended to understand literary references they hadn't actually read. They explain how failure feels unacceptable, so people avoid trying books that seem intimidating or criticize themselves harshly after misunderstanding something. Overall, the passage argues people should not be afraid to take risks in reading unfamiliar works or admitting gaps, as misunderstandings are part of the learning process and discussions can enhance understanding. Fear of failure or judgment can narrow one's reading experience unnecessarily.
 
- Here is a summary of the key points:
 
 - The author discusses how reading plays silently to oneself doesn't fully capture the collaborative, performative nature of theater. Plays are meant to be performed or at least read aloud. 
 
@@ -248,8 +221,6 @@ The author realized Carla did not know public libraries are free to use. After i
 - Realizing Jane was part of a lineage of strong female characters in literature empowered the students. They continued reading to follow Jane's adventurous life journey.
 
 - The teacher was surprised and pleased by how much the students enjoyed the novel despite its age. They connected with Jane on a personal level rather than seeing it as a boring classic. This experience showed the teacher not to make assumptions about what students will like.
-
- Here is a summary of the provided text:
 
 The author has always been a picky eater but is very interested in food and cookbooks. They read over 50 cookbooks per year and own around 100 cookbooks spanning different cuisines, times periods, and genres. Cookbooks keep the author company while eating alone and provide a sense of faux family meals through their photos. 
 
@@ -311,7 +282,6 @@ The author argues this kind of pretentious behavior actually damages reading cul
 
 - The author tries to get students to analyze twists beyond just whether they were predicted, and to think about how twists fit into the narrative relationships between author, narrator, audience and reader. Good twists logically arise from the plot and deeper exploration of their narrative impact.
 
- 
 
 The passage discusses the relationships between authors, narrators, audiences, and readers in fiction. It uses examples like The Great Gatsby and Gone Girl to illustrate these concepts. 
 
@@ -427,7 +397,6 @@ The class had different types of students - disinterested attendees, overachievi
 
 So in summary, it discusses how Gawande's book helped the author personally grapple with mortality and end-of-life issues through experiences with his father's illness and death.
 
- Here is a summary of the key points:
 
 - The author reflects on finding comfort and purpose in their life through spending time with loved ones, enjoying hobbies like reading and cooking, and appreciating each day. 
 
@@ -470,31 +439,5 @@ So in summary, the author had an unanticipated crying spell sparked by relating 
 - They express having witnessed or experienced major historical events like the 1928 hurricane in the Everglades, Columbine, New Orleans flooding, and the silent city during the COVID lockdown of 2020.
 
 - In summary, the speaker credits books with teaching them almost everything they know about the world, even though they have not directly experienced the people, places, and events described in the works. Reading has allowed them a wealth of virtual experiences and knowledge.
-
- Here are brief summaries of some of the works mentioned:
-
-- The Road to Middlemarch by Rebecca Mead - A nonfiction work about George Eliot's classic novel Middlemarch and its enduring relevance. 
-
-- Infinite Jest by David Foster Wallace - A famously long and complex postmodern novel that explores addiction and entertainment. 
-
-- Pilgrims in Their Own Land by Martin Marty - A history of religion in America over the past 500 years.
-
-- Portnoy’s Complaint by Philip Roth - A controversial 1969 novel about a young man named Alex Portnoy and his neuroses. 
-
-- Gone Girl by Gillian Flynn - A thriller about a man whose wife goes missing on their wedding anniversary. 
-
-- New York Trilogy by Paul Auster - A series of three postmodern detective novels set in New York City. 
-
-- On Earth We're Briefly Gorgeous by Ocean Vuong - A highly acclaimed memoir and novel in letter form about a Vietnamese American family. 
-
-- "The Lottery" by Shirley Jackson - A famous short story about a mysterious ritual lottery held in a village each year.
-
-- Lincoln in the Bardo by George Saunders - A fictional account of Abraham Lincoln set during the time his son Willie died.
-
-- The Giver by Lois Lowry - A classic dystopian young adult novel about a society with no differences or choices.
-
-- Our Town by Thornton Wilder - A Pulitzer Prize-winning play that examines the ordinary lives of the citizens of Grover's Corners.
-
- 
 
 This section expresses gratitude and love for the author's mother, Gloria Reed. The author thanks her mother for facilitating her work and life for nearly 50 years by making sure she always had the necessities like books, meals, money, and friendship, as well as love. She acknowledges her mother for taking care of these things so the author could focus on her work. She expresses her love for her mother at the end.
