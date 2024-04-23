@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points from the introduction:
+ 
 
 - The book examines how financial technology (fintech) is promising to impact economic and social outcomes like financial inclusion, inequality, economic growth, and investment on a global scale. 
 

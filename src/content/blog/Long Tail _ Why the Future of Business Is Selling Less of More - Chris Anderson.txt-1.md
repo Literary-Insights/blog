@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points from the introduction:
+ 
 
 - Traditionally, hits have ruled the entertainment and media industries. Industries were built around chasing and capitalizing on blockbuster movies, bestselling albums, and top-rated TV shows. 
 

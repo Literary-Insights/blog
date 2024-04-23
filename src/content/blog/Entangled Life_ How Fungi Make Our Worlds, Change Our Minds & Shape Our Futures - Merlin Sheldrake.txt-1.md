@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points from the introduction:
+ 
 
 - Fungi are everywhere but often invisible, living both inside and around us, sustaining us and the environment in many ways. 
 

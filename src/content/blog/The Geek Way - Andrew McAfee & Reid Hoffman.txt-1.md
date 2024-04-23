@@ -6,7 +6,7 @@ tags:
 excerpt: ""
 category: "self-help"
 author: "matheus-puppe"
-publishDate: "2024-04-21T00:00:00.000Z"
+publishDate: "2024-04-23T00:00:00.000Z"
 image: "./src/assets/book_images/the-geek-way-andrew-mcafee-reid-hoffman.jpg"
 ---
 

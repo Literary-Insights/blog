@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points from the introduction:
+ 
 
 - The book identifies 165 common beliefs that limit people's money-making potential and ability to enjoy wealth. These are referred to as "money blocks".
 

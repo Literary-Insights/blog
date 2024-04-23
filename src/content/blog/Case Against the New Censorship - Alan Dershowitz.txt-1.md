@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points from the introduction:
+ 
 
 - Freedom of speech in America faces some of the greatest threats since the Alien and Sedition Acts of 1798, from so-called progressives, social media companies, and universities. 
 

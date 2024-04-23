@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points from the introduction:
+ 
 
 - The author struggles with controlling her thoughts, which often spiral negatively. This makes her feel the need to write a book helping others with this issue.
 

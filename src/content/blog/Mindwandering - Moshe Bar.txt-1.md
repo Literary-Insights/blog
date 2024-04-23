@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points from the introduction:
+ 
 
 - Mindwandering is the constant mental activity of the brain's default mode network (DMN), which hijacks our attention and lowers the quality of our experience. 
 

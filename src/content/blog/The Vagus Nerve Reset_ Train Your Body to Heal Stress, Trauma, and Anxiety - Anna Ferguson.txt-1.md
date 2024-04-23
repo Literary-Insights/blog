@@ -45,7 +45,7 @@ BOOK LINK:
 
 - The book introduces polyvagal theory and the vagus nerve's role in regulating safety and responses. It provides a program using breath, touch, movement and intention to nurture the nervous system and create balance.
 
- Here is a summary of the key points from the introduction:
+ 
 
 - The book offers an opportunity to reclaim control over one's body, thoughts, decisions and life after experiencing trauma, stress or anxiety. This can feel like being a passenger in one's own body. 
 

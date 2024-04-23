@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points from the introduction:
+ 
 
 - The passage discusses how relying on a single income source like a 9-5 job carries risk, as seen when the author's friend Grant lost his job due to COVID-19 cutbacks. 
 

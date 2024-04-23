@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points from the introduction:
+ 
 
 - Humans are exceptional in many ways, but we are still animals that evolved through natural selection like all other organisms. Our DNA and core biological processes are no different. 
 

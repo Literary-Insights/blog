@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points from the introduction:
+ 
 
 - The author was inspired to explore connections between mathematics and literature after discovering a reference to cycloids (a mathematical curve) in Moby-Dick. This piqued her curiosity about other hidden mathematical elements in works of literature. 
 

@@ -11,7 +11,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 ---
 
 
- Here is a summary of the key points from the introduction:
+ 
 
 - The author grew up in a middle-class town on Long Island where soccer was not a popular sport. Had he been born in another country, he likely could have played professional soccer given his skills and abilities. 
 

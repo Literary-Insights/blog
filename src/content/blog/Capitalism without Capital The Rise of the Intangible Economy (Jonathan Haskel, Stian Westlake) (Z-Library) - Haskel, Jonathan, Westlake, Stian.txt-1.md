@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points from the introduction:
+ 
 
 - Colin Matthews, CEO of the British Airports Authority (BAA), was frustrated that valuers were assessing BAA's airports to break up the company per UK competition authorities' orders. 
 

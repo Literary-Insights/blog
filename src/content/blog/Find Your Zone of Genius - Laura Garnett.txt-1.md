@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points from the introduction:
+ 
 
 - Laura Garnett watched a documentary about Bill Gates and was struck by how he seemed to know his genius from a young age - his ability to rapidly process information and solve complex problems. She notes that he followed his own path rather than society's rules, and is now hugely successful doing work he loves that makes an impact. 
 

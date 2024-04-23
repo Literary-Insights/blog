@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points from the introduction:
+ 
 
 - The book is Maajid Nawaz's memoir detailing his journey from being a British teenager influenced by American hip hop culture to becoming an Islamist extremist, and eventually rejecting that ideology. 
 

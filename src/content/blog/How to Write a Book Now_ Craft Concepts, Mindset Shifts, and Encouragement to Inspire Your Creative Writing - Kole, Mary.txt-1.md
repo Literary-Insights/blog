@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points from the introduction:
+ 
 
 - The author believes writers should focus on actually writing rather than wasting time worrying about rejection or craft. Life is too short not to write. 
 

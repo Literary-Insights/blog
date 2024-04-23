@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points from the introduction:
+ 
 
 - The book contains "magic tricks" that can train your brain for a happier, more confident life. They focus on confidence, creativity, achieving goals, coping when things go wrong, and real-life magic tricks. 
 

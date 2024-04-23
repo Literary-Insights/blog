@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points from the introduction:
+ 
 
 - Garlic is deeply ingrained in Korean culture and cuisine. Koreans consume huge amounts of garlic - around 7.5kg per person per year. This dwarfs the consumption of famously garlic-loving countries like Italy and France. 
 

@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points from the introduction:
+ 
 
 - Many people struggle to make and maintain meaningful friendships as they get older, in contrast to when they were younger and friendships came more easily. 
 

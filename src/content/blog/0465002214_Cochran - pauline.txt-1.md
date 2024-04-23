@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points from the introduction:
+ 
 
 - The book aims to argue that human evolution has accelerated over the past 10,000 years rather than slowing or stopping, occurring about 100 times faster than the long-term average rate over humans' 6 million year existence. 
 

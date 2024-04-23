@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points from the introduction:
+ 
 
 - The author attends a breathing class in San Francisco on the recommendation of his doctor, to help with lung issues and stress. During the class, he sweats profusely despite the cool temperature, which surprises him. 
 

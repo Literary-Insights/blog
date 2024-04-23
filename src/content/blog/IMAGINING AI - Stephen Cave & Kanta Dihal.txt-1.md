@@ -107,7 +107,7 @@ Japanese robotics sees machines as partners rather than threats. South Korean AI
 
 - The terms used to describe AI in different languages and cultures can reflect and shape attitudes towards AI in those places. The chapter aims to understand how the meanings and implications of "AI" may differ cross-culturally.
 
- Here is a summary of the key points from the introduction:
+ 
 
 - John McCarthy coined the term "artificial intelligence" in 1955 to describe an upcoming summer study group at Dartmouth College. He wanted a term that was attention-grabbing and not tied to a specific approach like cybernetics. 
 

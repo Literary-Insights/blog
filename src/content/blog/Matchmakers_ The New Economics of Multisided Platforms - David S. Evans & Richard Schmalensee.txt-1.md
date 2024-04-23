@@ -589,7 +589,7 @@ So in summary, matchmakers are ancient but have been massively empowered by mode
 
 - The glossary defines key terms for understanding multisided platforms, including access fees, anchor tenants, behavioral externalities, critical mass, death spirals, direct and indirect network effects, ecosystems, friction, governance systems, ignition, implosion, and more.
 
- Here is a summary of the key points from the introduction:
+ 
 
 - Multisided platforms like OpenTable, Uber, and Airbnb help different groups connect and interact. They solve the problem of getting all sides on board. 
 

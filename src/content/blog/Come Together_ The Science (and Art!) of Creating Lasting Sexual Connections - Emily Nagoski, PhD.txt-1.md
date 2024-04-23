@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points from the introduction:
+ 
 
 - The author writes from experience of facing difficulties maintaining sexual connection and satisfaction with her long-term partner over many months. 
 

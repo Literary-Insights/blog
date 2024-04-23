@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points from the introduction:
+ 
 
 - The book examines five "grand transitions" that have shaped the modern world: population, agriculture, energy, economies, and the environment. 
 

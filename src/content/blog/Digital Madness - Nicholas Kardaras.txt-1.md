@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points from the introduction:
+ 
 
 - The author was talking to his dying father in 2019, before the COVID pandemic. His father expressed concerns about modern society and its overreliance on technology. 
 

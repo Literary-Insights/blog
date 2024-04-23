@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points from the introduction:
+ 
 
 - There is a common assumption that ethics play little role in foreign policy, which is seen as primarily about national interests and power politics. However, presidents' moral views can influence foreign policy choices and their legacies. 
 

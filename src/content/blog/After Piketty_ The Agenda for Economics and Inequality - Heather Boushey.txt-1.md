@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points from the introduction:
+ 
 
 - Thomas Piketty's book Capital in the 21st Century (C21) has been a surprise bestseller, selling over 2.2 million copies globally in 30 languages. This indicates a strong interest in discussions about rising inequality. 
 

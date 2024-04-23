@@ -35,7 +35,7 @@ BOOK LINK:
 
 So in summary, the reviews praise Vitale's book for its power to keep readers awake all night learning, its deep insights into human psychology, and its exemplary use of hypnotic writing techniques to both teach and motivate action. It is highly recommended as an important and useful book for anyone working in sales, marketing or copywriting.
 
- Here is a summary of the key points from the introduction:
+ 
 
 - The introduction is written by John Burton, a licensed counselor and certified clinical hypnotherapist who has studied hypnotic language. 
 

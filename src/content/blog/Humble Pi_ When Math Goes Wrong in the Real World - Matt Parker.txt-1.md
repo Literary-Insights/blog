@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points from the introduction:
+ 
 
 - In 1995, a Pepsi commercial advertised that you could get a Harrier jet for 7 million Pepsi points. Someone took this seriously and tried to redeem the points, but Pepsi refused. This went to court.
 
