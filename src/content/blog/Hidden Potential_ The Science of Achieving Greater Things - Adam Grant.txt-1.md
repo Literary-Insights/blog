@@ -466,19 +466,3 @@ It calls for putting candidates in the best position to succeed during evaluatio
 - They attribute the better retention from in-class lectures to social cues from the instructor, ability to ask questions, visual aids, and interactive elements that enhance learning compared to passive podcast listening.
 
 In summary, the study found that university students had significantly better retention of material presented in live lectures compared to material learned through podcasts outside of class. It suggests podcasts are better as a supplement rather than replacement for in-class instruction.
-
- Here is a summary of the note references provided:
-
-- Several references describe interviews and biographies of architect Tadao Ando and his pursuit of perfectionism in his work. 
-
-- Studies show that perfectionism has been increasing over time, partly due to greater pressure from parents. Perfectionism is associated with increased stress and burnout.
-
-- However, perfectionism does not necessarily lead to better performance. Many highly accomplished artists and architects were not perfect students. 
-
-- Perfectionists tend to make three mistakes - focusing only on flaws, ignoring progress made, and believing perfection is required for success. There is beauty in imperfection. 
-
-- Perfectionism is linked to increased risk of "choking" or mental blocks, especially in sports. High personal standards without unhealthy evaluation can promote learning. 
-
-- Setting specific, difficult goals (without perfectionistic tendencies) can enhance motivation and performance, as can mental time travel (imagining future scenarios).
-
-In his 2011 book chapter titled "Mental Time Travel and the Shaping of the Human Mind," orballis discusses the human ability for mental time travel - the capacity to project one's mind forward and backward in time to pre-experience future events and re-experience past events. Orballis argues that this uniquely human cognitive ability played a key role in shaping other advanced cognitive traits over the course of human evolution. The ability to mentally travel in time allowed early humans to better plan for the future, learn from the past, and communicate experiences to others. Over generations, orballis suggests mental time travel placed evolutionary pressures that strengthened additional cognitive capacities such as episodic memory, theory of mind, semantic memory, and language. The development of these cognitive skills provided adaptive advantages that contributed to the success of the human species. In summary, the chapter analyzes how the evolution of mental time travel helped drive the development of other advanced human cognitive functions and traits.

@@ -1,5 +1,5 @@
 ---
-title: Clear Thinking_ Turning Ordinary Moments into Extraordinary Results - Shane Parrish
+title: Clear Thinking  Turning Ordinary Moments into Extraordinary Results - Shane Parrish
 slug: clear-thinking-turning-ordinary-moments-into-extraordinary-results-shane-parrish
 tags: 
   - book-summary
@@ -16,20 +16,6 @@ publishDate: "2024-04-21T00:00:00.000Z"
 BOOK LINK:
 
 [CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=clear-thinking-turning-ordinary-moments-into-extraordinary-results-shane-parrish)
-
-
-
- Here is a summary of the key points from the preface:
-
-- The preface starts with a story about the author being thrust into a new senior role at an intelligence agency after 9/11, where failure was not an option and lives were at stake. This prompted him to start researching how to improve decision-making and reasoning.
-
-- Over the next decade, the author studied cognition, interviewed business titans and decision-makers, and created the blog Farnam Street to document his learnings. 
-
-- Some of the biggest influencers on his thinking include Charlie Munger, Daniel Kahneman, Peter Kaufman, and conversations on his podcast The Knowledge Project.
-
-- The book aims to provide practical skills for clear thinking, by first identifying enemies of clear thinking and ways to manage weaknesses/build strengths, and then applying those skills to problem-solving and decision-making. 
-
-- It draws on the author's experience putting these lessons into practice in business, government work, and parenting. The goal is to turn ordinary moments into extraordinary results through mastering clear thinking.
 
  
 
@@ -460,7 +446,6 @@ The key lesson is that the quality of a decision depends on the process, not the
 
 So in summary, the passage discusses gaining wisdom about what really matters in life through the perspective of older individuals and the ancient practice of meditating on our mortality. This can help us make choices that lead to a happier and more fulfilling existence.
 
- 
 
 - The passage discusses doing a thought experiment where you imagine yourself on your deathbed at 80 years old and think about what really mattered in your life - things like meaningful relationships, experiences you had, impact you made on others, who you were as a person. 
 
@@ -472,74 +457,4 @@ So in summary, the passage discusses gaining wisdom about what really matters in
 
 - In summary, it advocates using a "future hindsight" viewpoint to gain wisdom on what truly matters in life and make decisions accordingly versus chasing shallow short-term goals.
 
- Here is a summary of the key points from the passage:
-
-- The book's message is that invisible instincts undermine good judgment by encouraging unconscious, instinctive reactions rather than deliberate, reasoned thinking. 
-
-- When operating on autopilot by default instincts, we make poor choices and create unintended problems we can't fix.
-
-- Most errors in judgment occur unconsciously when we don't realize we should be exercising judgment. Our subconscious drives behavior without our input.
-
-- Improving judgment is about implementing safeguards that make better choices easier than worse ones, even when we're not at our best. It's about recognizing when defaults are in control.
-
-- Managing defaults requires habits, rules and environments that align our subconscious with our goals and values. It means preventing rash actions and cultivating accountability, knowledge, discipline and confidence. 
-
-- Small improvements accumulate over time, reducing problems and stress while increasing harmony and joy. Good judgment can be learned through deliberately developing thinking skills and systems.
-
- Here is a 153-word summary of the provided page from Mlodinow's Elastic: Flexible Thinking in a Time of Change:
-
-On page 156, Mlodinow discusses how the human mind naturally seeks confirmation of existing beliefs and avoids contradicting information. He notes our brains are wired to quickly notice and recall information that supports what we already think while dismissing or forgetting information that contradicts our preexisting ideas. This leads people to actively seek out information confirming their views while avoiding exposure to challenging information. It also means we tend to interpret ambiguous evidence as supporting our existing views. Challenging this natural cognitive bias requires flexible thinking and being open to changing one's mind when presented with compelling contradictory evidence. Overall, the passage examines the cognitive biases that make changing one's views difficult and highlights the importance of flexibility in considering alternative perspectives.
-
- Here is a summary of the article "llman/jeff-bezos-this-is-how-to-avoid-regret.html":
-
-The article discusses tips from Jeff Bezos on how to avoid regret later in life. It suggests focusing on things that are important and meaningful to you, rather than superficial goals like wealth, fame or image. Bezos emphasizes living life in a way that allows you to hold your head high when looking back on your decisions from your deathbed. 
-
-Some key points:
-
-- Focus on things that challenge and develop you as a person, not just accumulating achievements or assets. True happiness comes from living according to your values.
-
-- Always try to operate with high standards of ethics and respect for others. Make decisions you won't regret later by considering how they affect people. 
-
-- Take risks and put yourself out there. The pain of regret for not trying something is usually greater than the pain of failure if you do try. Better to look back with few regrets of chances not taken.
-
-- Prioritize relationships and love over material things. Spend time with family and friends, build meaningful connections with people who will still be important to you decades later. 
-
-- Health and learning should be lifelong pursuits. Take care of your mind and body so you can continue growing as a person throughout your life. 
-
-In summary, the article conveys Bezos' views on avoiding regret by living purposefully according to your values, taking chances, nurturing relationships, and nurturing self-improvement rather than superficial goals.
-
  
-
-- Farnam Street, where Warren Buffett's Berkshire Hathaway is headquartered, inspired the name of Shane Parrish's website Farnam Street. 
-
-- Parrish briefly worked for an intelligence agency early in his career, requiring him to keep some details anonymous. Things have changed and today people are more open about such roles.
-
-- He learned the importance of self-accountability and taking responsibility from early experiences and conversations with others like Peter Kaufman. 
-
-- Examples of focusing on basics rather than shortcuts to mastery include Warren Buffett's investing principle of not losing money and focus on fundamentals over secret techniques.
-
-- Social hierarchies and norms like clapping are powerful biological instincts that can influence our behaviors without awareness. 
-
-- Parrish once sold stock at the top price, benefited from some luck in timing, and the stock price has since decreased over 10 years. 
-
-- Quotes are attributed to sources like Descartes summarizing Newton's laws of motion and lessons from Sarah Jones Simmer on the difference between kind and nice.
-
-- Self-serving bias also serves to preserve our sense of self and identity.
-
- Here is a summary of the document structure:
-
-The book is divided into 5 parts with multiple chapters in each part. 
-
-Part 1 discusses the enemies of clear thinking like emotions, ego, social defaults, and inertia. 
-
-Part 2 is about building strength through self-accountability, self-knowledge, self-control, self-confidence, and setting standards. It also discusses exemplars and practice.
-
-Part 3 covers managing weaknesses by knowing your weaknesses, safeguards, and handling mistakes.
-
-Part 4 focuses on decision making - defining problems, exploring solutions, evaluating options, implementation, margin of safety, and learning from decisions.
-
-Part 5 discusses wanting what matters with lessons from Dickens, happiness experts, memento mori (remember you must die), and life lessons from death.
-
-It concludes with a chapter on the value of clear thinking and includes acknowledgments, notes, an index and information about the author.
-
-In summary, the book provides a framework, tools and strategies for overcoming obstacles to clear thinking and making better decisions through self-development and managing weaknesses. It emphasizes the importance and value of clear thinking.
