@@ -511,7 +511,7 @@ Buddha lets his father go, saying love sometimes weeps but an appeal to love doe
 
 - Through Buddha's influence, peace was restored and a celebration began. Devadatta, now defeated, slipped away quietly from the new atmosphere of non-violence established by Buddha.
 
- Here is a summary of the key points:
+ 
 
 - Devadatta has always been deeply jealous and resentful of Buddha. He is unable to let go of his hatred. 
 
@@ -537,7 +537,7 @@ Buddha lets his father go, saying love sometimes weeps but an appeal to love doe
 
 - Following Buddha involves following his social, ethical and mystical teachings through community, compassion and dissolving the sense of a separate self through non-attachment and non-doing. This involves shifting allegiance from perceived duality to realizing the nature of both/neither.
 
- Here is a summary of the key points:
+ 
 
 - Mindfulness meditation can train the mind to observe thoughts from a place of non-identification. Over time, the gaps between thoughts grow longer as attention settles into silence. 
 

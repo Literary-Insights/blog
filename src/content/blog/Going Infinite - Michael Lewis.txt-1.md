@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points:
+ 
 
 - Natalie Tien was raised in Taiwan and pushed by her parents to find a rich husband, though she was ambitious for career success instead. 
 
@@ -541,7 +541,7 @@ Effective altruists including Sam, Gary, Nishad and Caroline gathered at Albany 
 
 - SBF was found abandoned at the now-empty FTX offices, in need of a ride, as the crypto empire he built rapidly collapsed due to lost trust and missing user funds.
 
- Here are the key points:
+ 
 
 - CZ, the CEO of Binance, tweeted questioning the financial health of FTX, sparking withdrawals. Within a week, $5 billion was withdrawn from FTX as customers tried to pull their money out. 
 

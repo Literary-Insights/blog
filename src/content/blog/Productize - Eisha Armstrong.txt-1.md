@@ -37,7 +37,7 @@ BOOK LINK:
 
 In summary, the endorsements praise Productize for providing an actionable blueprint and roadmap to help professional services firms develop scalable products and successfully scale their businesses through productization. It addresses common challenges and offers real-world tools and examples.
 
- Here is a summary of the key points:
+ 
 
 - The book is aimed at helping professional services firms like consulting, accounting, marketing agencies etc. transition to more scalable and tech-enabled product models to drive recurring revenue growth. 
 
@@ -71,7 +71,7 @@ In summary, the endorsements praise Productize for providing an actionable bluep
 
 - The traditional services model makes it difficult to retain top talent and plan for growth. Productization addresses this.
 
- Here is a summary of the key points:
+ 
 
 - Many companies had to accelerate their digital transformation plans during the COVID-19 pandemic, completing projects that usually take 2 years in just 2 months. 
 
@@ -85,7 +85,7 @@ In summary, the endorsements praise Productize for providing an actionable bluep
 
 - While a stressful change, the pandemic highlighted for many companies the importance and benefits of digital tools for business continuity, flexibility, and engaging customers throughout any disruption. It’s likely accelerated long term digital transformation plans by several years for many industries.
 
- Here is a summary of the key points:
+ 
 
 - Fully committing resources to product development and launch is important for success, rather than taking a piecemeal approach. This may require changing shareholder expectations around allocating 5-20% of revenue to new product investments. 
 
@@ -99,7 +99,7 @@ In summary, the endorsements praise Productize for providing an actionable bluep
 
 - Minimum viable products (MVPs) are only helpful if companies commit to continuing development after launch rather than stopping at the MVP stage. Ongoing evolution is needed.
 
- Here is a summary of the key points:
+ 
 
 - The article discusses an approach called the "Productize Pathway" for businesses to develop products in an iterative way starting small rather than trying to build the perfect product from the beginning. 
 
@@ -131,7 +131,7 @@ So in summary, it presents the Productize Pathway as a framework for businesses,
 
 - Key behaviors to focus on include asking questions/bringing ideas, blameless problem solving, and staying open to change.
 
- Here is a summary of the key points:
+ 
 
 - Successful sales and commercial acumen to ensure customers, prospects and staff are aware of and engaged with products. 
 
@@ -151,7 +151,7 @@ So in summary, it presents the Productize Pathway as a framework for businesses,
 
 - Adopt a test-and-learn mindset through MVPs, testing hypotheses, gathering data and adapting iteratively based on learnings.
 
- Here is a summary of the key points:
+ 
 
 - A recent survey found several benefits of the test-and-learn product design approach: faster cycle time, decisions based on data not instincts, better customer feedback, direct customer observations, flexibility to make changes. 
 
@@ -181,7 +181,7 @@ So in summary, it presents the Productize Pathway as a framework for businesses,
 
 - Reducing customization of existing products and engagements frees up resources for new product development. This is a key challenge companies face.
 
- Here is a summary of the key points:
+ 
 
 - The customer needs to have an urgent and expensive problem for a new product to solve. Minor annoyances are not enough.  
 
@@ -195,7 +195,7 @@ So in summary, it presents the Productize Pathway as a framework for businesses,
 
 - Processes like defining the problem specifically help avoid developing products customers do not want or need. Understanding the problem from the customer perspective is key to successful new product development.
 
- Here is a summary of the key points:
+ 
 
 - Theodore Levitt's idea that customers want results, not products, is cited. For example, customers want a hole in the wall, not necessarily a better drill. 
 
@@ -241,7 +241,7 @@ The key steps described are: 1) Develop hypotheses about customer problems/needs
 
 - The key is to define problems clearly based on customer input, then co-design and develop solutions by iterating with customers, employees, and developers throughout the process. Catalog existing intellectual property and data as a starting point for new product ideas.
 
- Here is a summary of the key points:
+ 
 
 - Develop groups based on consumer insights by category, ads, and brands to understand different demographic audiences. 
 
@@ -295,7 +295,7 @@ The overall idea is to use consumer insights, ranking systems and competition to
 
 - The goal of these methods is to test the authentic demand and engagement of real customers early, before significant resources are spent on development. They allow for rapid iteration to find the most effective solution based on learning what customers need and want.
 
- Here is a summary of the key points:
+ 
 
 - Co-design and co-development with customers and developers are important, seeing them as partners rather than just handing them requirements. 
 
@@ -333,7 +333,7 @@ Theodore Roosevelt advises against being a "cold and timid" soul who is unwillin
 
 - Developing an effective sales strategy is challenging when transitioning from consulting to products. Products require different economics and sales approaches. Existing sales teams may need training or separate product sales teams may be needed.
 
- Here is a summary of the key points:
+ 
 
 - The organization provides products and services that support its mission and vision. There is a commercial relationship between products and services - products enable or enhance the value of services, and services support effective use of products. 
 
@@ -353,7 +353,7 @@ Theodore Roosevelt advises against being a "cold and timid" soul who is unwillin
 
 The key is to develop a clear and ongoing approach to educate the sales team and customers on the organization's portfolio of products and services, and how they interconnect to solve problems and create value at each stage of the customer relationship.
 
- Here is a summary of the key points:
+ 
 
 - Early live event attendance in the first 3 months of launching a new product or service is considered a good "One Metric that Matters" (OMTM) for measuring early success. 
 

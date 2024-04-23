@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points:
+ 
 
 - The introduction discusses the importance of developing a high-quality decision process. 
 
@@ -35,7 +35,7 @@ BOOK LINK:
 
 - The book aims to provide a framework and tools to improve decision-making in all aspects of life. Better decisions lead to better outcomes.
 
- Here is a summary of the key points:
+ 
 
 - Decision-making is an important skill but it is rarely taught explicitly. As a result, people have very different approaches to making decisions. 
 
@@ -51,7 +51,7 @@ BOOK LINK:
 
 - Interactive exercises, templates and checklists are included throughout to reinforce key concepts. Using these can maximize learning, but they are optional.
 
- Here is a summary of the key points:
+ 
 
 - The exercises in the book are designed to provide insight into how you process information. Go with your first instinct when answering rather than trying to figure out the "right" answer. 
 
@@ -65,7 +65,7 @@ BOOK LINK:
 
 - To become a better decision-maker, we need to learn to evaluate decisions on their merits as much as possible, not just on their outcomes. Resulting makes this difficult.
 
- Here is a summary of the key points:
+ 
 
 - Resulting is when we judge the quality of a decision based on the outcome, even though the outcome depends a lot on factors outside of our control. Good outcomes make us think we made a good decision, even if it was risky. Bad outcomes make us think it was a bad decision, even if it was reasonable at the time.
 
@@ -93,7 +93,7 @@ BOOK LINK:
 
 - At the time, most studios underestimated the potential of Star Wars and viewed it as too risky, passing up what became one of the most successful and profitable film franchises in history. Their decision to pass was seen as a poor judgement in hindsight.
 
- Here is a summary of the key points:
+ 
 
 - Universal Artists, Disney, and other studios made huge mistakes by passing on Star Wars. This is often cited as an example of how clueless Hollywood executives are. 
 
@@ -200,7 +200,7 @@ Outcome: Got a PhD and a good job
 
 In summary, I think most people's guesses would fall somewhere between 500-3,000 lbs based on general knowledge about bison sizes. Guesses outside a range like 100-10,000 lbs seem very unlikely.
 
- Here is a summary of the key points:
+ 
 
 - Step 2 in the decision-making process is to identify your preferences for each potential outcome by assessing the payoff (gain or loss) associated with each one. 
 
@@ -216,7 +216,7 @@ In summary, I think most people's guesses would fall somewhere between 500-3,000
 
 - Simply counting pros vs cons doesn't indicate whether the upside outweighs the downside without knowing the relative size of each one.
 
- Here are the key points:
+ 
 
 - Making decisions involves estimating the likelihood of various outcomes. Without considering probabilities, you can't properly assess risks and rewards.
 
@@ -234,7 +234,7 @@ In summary, I think most people's guesses would fall somewhere between 500-3,000
 
 The key is shifting your mindset - all guesses are educated to some degree, and moving closer to the right answer has value. Making probability estimates, even imperfect ones, is an important part of good decision-making.
 
- Here is a summary of the key points:
+ 
 
 - Decision-making always involves guessing about how the future will unfold. All choices are educated guesses.
 
@@ -266,7 +266,7 @@ The key is shifting your mindset - all guesses are educated to some degree, and 
 
 - The willingness to guess at probabilities, payoffs, and preferences is essential to better decision-making. Avoiding it leaves your decisions on a weaker foundation.
 
- Here is a summary of the key points:
+ 
 
 - There is a lot of disagreement and ambiguity around the meaning of terms people commonly use to express probabilities and likelihoods (e.g. "likely", "rarely"). 
 
@@ -280,7 +280,7 @@ The key is shifting your mindset - all guesses are educated to some degree, and 
 
 - Imprecise language is a missed opportunity to strengthen decisions and fill gaps in knowledge. To get high-fidelity feedback from others, we need to speak the same language.
 
- Here is a summary of the key points:
+ 
 
 - Precision in defining probabilities helps reveal where your beliefs differ from others' and gives you a chance to correct wrong assumptions. Vague terms like "fair chance" leave too much wiggle room.
 
@@ -292,7 +292,7 @@ The key is shifting your mindset - all guesses are educated to some degree, and 
 
 - Signaling uncertainty prompts others to share disagreeing views. It also spurs you to seek more information to refine imprecise beliefs. Precise probabilities with uncertainty ranges aid judgment.
 
- Here is a summary of the key points:
+ 
 
 - Expressing probabilities as percentages with a range rather than a single number invites others to provide information to help improve your estimates. This increases the chance you uncover useful information.
 
@@ -380,7 +380,7 @@ The information on unused memberships also suggests the probability of not using
 
 In summary, IHRSA provides data, advocacy and education to support the global health and fitness industry, with a focus on growing health club membership worldwide. Its data illustrates the size and continued growth of the global fitness market.
 
- Here are the key points:
+ 
 
 - Most people spend a lot of time in analysis paralysis on minor decisions like what to eat, watch, and wear. This adds up to 250-275 hours per year.
 
@@ -396,7 +396,7 @@ In summary, IHRSA provides data, advocacy and education to support the global he
 
 - Slowing down is most critical for major life decisions where there are bigger potential penalties for deciding poorly.
 
- Here is a summary of the key points:
+ 
 
 - When a decision is low impact, meaning it won't significantly affect your long-term happiness whether you make a good or bad choice, you can speed up your decision making. Use the "Happiness Test" - ask yourself if the outcome will affect your happiness in a year, month, or week. The shorter the time period where the answer is no, the more you can prioritize speed over accuracy.
 
@@ -420,7 +420,7 @@ In summary, IHRSA provides data, advocacy and education to support the global he
 
 You're right that agonizing over a decision like this is common, as it doesn't easily pass the Happiness Test. The vacation will certainly affect short-term happiness but have a smaller impact on long-term wellbeing. It's a tough tradeoff between Paris and Rome when both seem amazing. I'd probably try to get more details on each place to make the best choice, but not let the decision paralyze me for too long. The goal would be to maximize that short-term happiness boost while not sacrificing too much long-term happiness from overthinking it.
 
- Here is a summary of the key points:
+ 
 
 - When choosing between two very appealing options, like vacation destinations, the closeness of the choices slows you down. This signals you can actually decide faster, since either choice will likely be good. 
 
@@ -434,7 +434,7 @@ You're right that agonizing over a decision like this is common, as it doesn't e
 
 - The big gains in decision making come from effectively sorting options, not from marginal differences in the final pick.
 
- Here is a summary of the key points:
+ 
 
 - Opportunity cost is the potential benefits you miss out on when choosing one option over another. The higher the opportunity cost, the bigger the penalty for rushing a decision.
 
@@ -450,7 +450,7 @@ You're right that agonizing over a decision like this is common, as it doesn't e
 
 - Faster decisions are possible when opportunity cost is lower due to quitting ability, decision stacking, and parallel experimentation.
 
- Here are the key points:
+ 
 
 - We spend a lot of time on routine, minor decisions. This is wasted time that could be better spent on more important things.
 
@@ -472,7 +472,7 @@ You're right that agonizing over a decision like this is common, as it doesn't e
 
 - When picking an option, you pass on potential gains from the options not chosen - this is the opportunity cost. Lower opportunity cost allows faster decisions.
 
- Here is a summary of the key points:
+ 
 
 - We often hold strong beliefs that we later reconsider or even reverse. It's easier to identify past mistaken beliefs than current beliefs we may change in the future. 
 
@@ -520,7 +520,7 @@ Premortems take this a step further by imagining a failure before it happens so 
 
 The key is to imagine failure and success in detail, looking for specific reasons in both categories. This mental time travel exercise brings an integrated picture of the future into better focus.
 
- Here is a summary of the key points:
+ 
 
 - Doing a premortem (imagining future failure) and a backcast (imagining paths to future success) provides valuable insight into potential obstacles and opportunities on the path to your goal. 
 
@@ -548,7 +548,7 @@ The key is to imagine failure and success in detail, looking for specific reason
 
 The key is to anticipate and accept that setbacks may happen, recognize when you're tilted, and have rational plans in place to manage your reactions. This prevents making rash decisions that make bad situations worse.
 
- Here are the key points:
+ 
 
 - There is often a gap between our goals and the actions we take to achieve them. This is called the behavior gap. 
 
@@ -570,7 +570,7 @@ The key is to anticipate and accept that setbacks may happen, recognize when you
 
 - The Dr. Evil game identifies ways future self-sabotage might undermine success through individually reasonable but harmful actions over time.
 
- Here is a summary of the key points:
+ 
 
 - Ignaz Semmelweis was a 19th century doctor who discovered that doctors were spreading deadly infections to mothers after handling corpses. He instituted handwashing and saw death rates drop dramatically, but was mocked and ignored by the establishment. 
 
@@ -582,7 +582,7 @@ The key is to anticipate and accept that setbacks may happen, recognize when you
 
 - Asking for unbiased opinions requires not infecting others with your own beliefs first. Practicing this "decision hygiene" results in less consensus bias.
 
- Here is a summary of the key points:
+ 
 
 - In the first group where you gave your opinion first, there was more agreement compared to the second group where you asked for their opinion first. 
 
@@ -618,7 +618,7 @@ The key is to anticipate and accept that setbacks may happen, recognize when you
 
 - Making opinions anonymous and sharing them simultaneously limits belief contagion in a group setting. The goal is to collect people's uninfected opinions before group discussion begins.
 
- Here is a summary of the key points:
+ 
 
 - To access the diverse perspectives within a group, you need to hear everyone's views before discussion begins. Otherwise, groupthink can take over and suppress less popular opinions. 
 
@@ -630,7 +630,7 @@ The key is to anticipate and accept that setbacks may happen, recognize when you
 
 - For quick, lower-impact decisions, a quicker solution is passing around anonymous written opinions before discussion begins. This still somewhat contains opinion contagion.
 
- Here is a summary of the key points:
+ 
 
 - Develop a checklist of the information you need in order to make good decisions. This should include goals, values, resources, and relevant details.
 
@@ -644,7 +644,7 @@ The key is to anticipate and accept that setbacks may happen, recognize when you
 
 - Agreeing on a checklist and holding each other accountable improves decision-making by reducing biased narratives and getting quality input.
 
- Here are the key points:
+ 
 
 - The judge's reputation for being pro-defendant is very important to consider when evaluating the potential value of your lawsuit. Their bias could significantly impact the outcome.
 
@@ -660,7 +660,7 @@ The key is to anticipate and accept that setbacks may happen, recognize when you
 
 - Use the checklist provided to implement decision hygiene when seeking feedback. Follow additional steps like soliciting independent views when in group settings.
 
- Here is a summary of the key points:
+ 
 
 - The author expresses deep gratitude to the many people who helped make the book possible, including editors, researchers, reviewers, idea contributors, and supporters. 
 

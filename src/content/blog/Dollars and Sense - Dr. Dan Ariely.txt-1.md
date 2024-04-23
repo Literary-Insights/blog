@@ -29,7 +29,7 @@ BOOK LINK:
 
 - The story introduces George Jones, who goes to a casino in Las Vegas to blow off steam due to work and money stresses. He loses money gambling at slot machines and blackjack, falling prey to cognitive biases that casinos exploit for profit. This sets the stage to discuss irrational beliefs around gambling and risk.
 
- Here is a summary of the key points:
+ 
 
 - George loses $200 gambling at a casino after accepting free drinks and small perks. While this seems irrational given his concern for saving money elsewhere, casinos employ psychological tricks to influence spending behavior. 
 
@@ -81,7 +81,7 @@ So in summary, the story highlights how people tend to assess value incorrectly 
 
 - While relativity helps in some contexts like choosing between menu options, it often obscures real value in consumer and financial decisions by focusing on relative rather than absolute metrics. This can lead people to spend more than they intend or get less value for their money.
 
- Here is a summary of the key points:
+ 
 
 - Marketers understand that people tend to make decisions based on relative comparisons rather than assessing absolute value. When presented with a "sale" price, people focus on how it compares to the "regular" price rather than whether it represents good value overall. 
 
@@ -149,7 +149,7 @@ Overall, mental accounting is problematic from a rational perspective but can pr
 
 - The ability to indulge freely without direct costs due to pre-paying made the experience enjoyable and stress-free. It allowed them to fully relax and escape from reality after the wedding.
 
- Here is a summary of the key points:
+ 
 
 - Jeff and his wife went on a honeymoon to Antigua, where it rained for several days. They socialized with another British couple, the Smiths. 
 
@@ -173,7 +173,7 @@ Overall, mental accounting is problematic from a rational perspective but can pr
 
 - An experiment showed people spend more when payment is separated from consumption through prepayment or credit-like settings, compared to requiring payment at the time of purchase. Separating payment and consumption reduces the "pain of paying" and its impact on decision making and enjoyment.
 
- Here is a summary of the key points:
+ 
 
 - In a study, participants spent more on average ($18) when paying at the beginning compared to paying at the end ($12). Paying as they went/per purchase led to the lowest spending ($4). 
 
@@ -215,7 +215,7 @@ Overall, mental accounting is problematic from a rational perspective but can pr
 
 - In summary, removing friction and salience from payments through techniques like restricted methods, painless digital options, and perceptions of "free" can encourage mindless spending and hinder good financial decision making. Greater awareness of costs is important for responsibility.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses the psychological phenomenon of anchoring, where people's judgments are influenced by irrelevant initial numbers or values they are exposed to. 
 
@@ -231,7 +231,7 @@ Overall, mental accounting is problematic from a rational perspective but can pr
 
 So in summary, the passage discusses how people's judgments tend to be anchored or influenced by irrelevant initial numbers, even when they are unaware of it, due to an overreliance on their own decision-making abilities.
 
- Here is a summary of the key points:
+ 
 
 - Anchoring bias influences our price decisions in many contexts like real estate, salaries, jury awards, etc. It occurs when an initial value, even if arbitrary, shapes our subsequent valuation. 
 
@@ -259,7 +259,7 @@ So in summary, the passage discusses how people's judgments tend to be anchored 
 
 - Both external anchors from initial prices and internal anchors from past personal experiences influence perceptions and judgments in an anchoring effect. This can affect pricing of goods even when the anchors are arbitrary.
 
- Here is a summary of the key points:
+ 
 
 - Tom and Rachel Bradley are a fictional couple looking to downsize their home as their twins are off to college. They have three kids and two cars. 
 
@@ -343,7 +343,7 @@ The key points are how James questions the value and fairness of paying large co
 
 - The story argues we have an innate "harrumph" reaction that causes us to dismiss higher prices as gouging even if supply and demand factors are at play, like with surge pricing during bad weather. Our sense of fairness can override rational economic considerations.
 
- Here is a summary of the key points:
+ 
 
 - In 2011, Netflix announced it would split its DVD rental and streaming services into separate plans costing $7.99 each, instead of the combined $9.99 plan. While most subscribers would pay less, people felt this was unfair and Netflix lost customers. 
 
@@ -399,7 +399,7 @@ The key point is that language has the power to change our perception and valuat
 
 So in summary, language has the power to change how we value goods by shaping our perceptions, focusing attention, and enhancing the full consumption experience through context, imagery and anticipation.
 
- Here is a summary of the key points:
+ 
 
 - The slogan "Melts in your mouth, not in your hands" for M&Ms uses descriptive language to make the consumption experience of the candy more appealing and increase its perceived value. 
 
@@ -415,7 +415,7 @@ So in summary, language has the power to change how we value goods by shaping ou
 
 So in summary, descriptive language can significantly impact perceived value and consumption decisions through various psychological and economic factors related to effort, fairness, expertise and framing. Word choice shapes how people experience and value both products and services.
 
- Here is a summary of the key points:
+ 
 
 - The passage introduces Vinny del Rey Ray, a real estate dealmaker who strongly values brands and reputations. He believes more expensive, well-known brands are inherently superior. 
 
@@ -659,7 +659,7 @@ Article 2: Sudden wealth can leave you broke
 
 - Pricing influences value perceptions. Anchors like MSRP influence willingness to pay. Higher prices are assumed to mean higher quality until disproven. Language and descriptions also impact pricing and value assessments.
 
- Here is a summary of the key points:
+ 
 
 - Estimates, listing prices, and reservation prices can be influenced by anchoring biases like prior estimates or listing prices of comparable properties. 
 

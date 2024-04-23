@@ -37,7 +37,7 @@ BOOK LINK:
 
 That covers the major themes and summary of "Elastic Habits" based on the provided content. Let me know if you need any clarification or have additional questions.
 
- Here is a summary of the key points:
+ 
 
 • The author argues that rigid goals and strategies do not work well in a fluid, ever-changing life. Flexibility and adaptability are better approaches.
 
@@ -98,7 +98,7 @@ Hope this helps! Let me know if you have any other questions.
 
 In summary, the key is adding vertical flexibility to the already laterally flexible mini habits framework. This allows you to adjust goal sizes up and down based on your changing motivation, enabling maximum consistency and strength in habit formation. Vertical flexibility gives mini habits an extra invincible dimension.
 
- Here is a summary of the key points:
+ 
 
 1. There is no "perfect" goal size. Small, medium and large goals all have strengths and weaknesses.
 
@@ -336,7 +336,7 @@ The "daily cue" approach means completing your habit anytime before bed. This gi
 
 In summary, the key takeaways are the importance of balancing targets, increasing flexibility through the elastic habit approach, considering multiple cues instead of a single cue for some habits, and using the "daily cue" strategy for maximum flexibility while maintaining the stability of a daily habit.
 
- Here is a summary of the key points:
+ 
 
 1. The author describes several types of cues to trigger habits: daily cues, window cues, time-based cues, and action-based cues. 
 
@@ -370,7 +370,7 @@ That cover the main points regarding cues, recommendations, and the role of flex
 
 The key is to prioritize consistency, rewarding all levels of success. The flexibility and options keep the system feeling manageable and exciting. The iterative tracking allows for unexpected upgrades in performance.
 
- Here is a summary of the key points:
+ 
 
 • The core elastic habits system involves marking three boxes each day to build a stable yet flexible habit structure. You decide how ambitious your wins will be - Mini, Plus or Elite.
 
@@ -432,7 +432,7 @@ So in summary, the key takeaways are about using an incremental approach with sa
 
 That cover the key highlights! Let me know if you would like me to expand or modify the summary in any way.
 
- Here is a summary of the key points from the provided text:
+ 
 
 1. The first step in overcoming resistance is clarity: Choose one specific objective to pursue.  
 
@@ -490,7 +490,7 @@ The key is having good options that fit most circumstances, then flexing appropr
 
 How does this summary look? Let me know if you'd like me to expand on or modify any part of it.
 
- Here is a summary of the key points:
+ 
 
 - The Elastic Habit Tracker is designed specifically for the elastic habit strategy. It shows one month divided into two 15-day segments. This allows each day to feel significant while also giving scores and checkpoints every 15 days.
 
@@ -574,7 +574,7 @@ The key points are:
 
 Hope this summary helps! Let me know if you have any other questions.
 
- Here is a summary of the key points:
+ 
 
 • The book argues that rigid goals and habits lack flexibility and fail to adapt to changing circumstances. It proposes an "elastic" approach that allows for choice, variation and adjustment.
 

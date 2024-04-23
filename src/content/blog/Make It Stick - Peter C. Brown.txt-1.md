@@ -613,7 +613,7 @@ To take charge of your learning and develop mastery:
 
 • Other effective strategies include distributed practice over time, mixing up the context where you study, teaching the material to others, and keeping an organized record of your learning and thinking.
 
- Here is a summary of the key points:
+ 
 
 1. Generation: Attempting to solve a problem or answer a question before being shown the solution. For example, filling in missing words in a text or solving problems before going to class. This makes the mind more receptive to learning and results in better retention. 
 
@@ -791,7 +791,7 @@ The writing assignments were “low stakes” in that they did not count heavily
 
 In summary, the study found benefits for learning and long-term retention from brief writing-to-learn assignments in an introductory psychology course. The assignments significantly improved student learning and the benefits persisted over time.
 
- Here is a summary of the key points:
+ 
 
 • Learning styles theories—the idea that people can be categorized into distinct styles of learning and teaching should be matched to learning style—are not supported by evidence. Learning is highly complex and contextual.
 

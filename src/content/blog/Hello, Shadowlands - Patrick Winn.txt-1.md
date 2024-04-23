@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points:
+ 
 
 - Through over a decade of on-the-ground reporting in Southeast Asia, Patrick Winn has gained unique access to understand organized crime networks and how they are enabled by state power dynamics. 
 
@@ -69,7 +69,7 @@ In the attic of a home, the reporter witnesses Zau Ring preparing to smoke metha
 
 The three men who approach, one named Gideon who owns the home, came to join Zau Ring in smoking the meth. The home's family is away at church, providing privacy for the drug use. The chapter depicts the meth ritual as more sacramental than a dirty drug fix, and highlights how pervasive the meth trade has become even in a remote city like Myitkyina at the edge of Myanmar's lawless frontier regions.
 
- Here is a summary of the key points:
+ 
 
 - The setting is an attic in Myitkyina, Myanmar where several men have gathered to smoke methamphetamine ("ya ma" or "horse pills"). 
 
@@ -205,7 +205,7 @@ The author joins over two dozen militiamen on motorbikes racing through muddy st
 
 - The interrogators grow frustrated with Lashu's denials and consider handing him over to the Burmese police, who could imprison him for 15 years on drug charges. The summary depicts an intimidating interrogation scene.
 
- Here is a summary of the key points:
+ 
 
 - Tu Raw is the leader of the Pat Jasan vigilante group in Myitkyina, which has around 10,000 members. 
 
@@ -799,7 +799,7 @@ There are two fronts opposing dog thieves - rural villagers taking matters into 
 
 - This highlights their dependence on corruption within authorities across Myanmar, Bangladesh and territories they pass through, which provides safe havens and protection for drug production and transportation.
 
- Here is a summary of the key points:
+ 
 
 - Southeast Asian countries have established anti-corruption commissions to investigate officials, but these commissions often lack real power and independence. They are sometimes used by ruling parties to target political opponents rather than fight corruption. 
 

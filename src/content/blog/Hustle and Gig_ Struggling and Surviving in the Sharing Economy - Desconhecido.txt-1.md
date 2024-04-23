@@ -97,7 +97,7 @@ So in summary, the key points are the categorization of sharing economy workers,
 
 In summary, the passage evaluates some of the complex realities faced by gig economy workers, from financial struggles to work-life balance issues to the economic power of the platforms themselves. It argues the gig economy is not as rosy a solution as it is often portrayed to be.
 
- Here is a summary of the key points:
+ 
 
 1. For platforms, architecture can be economics might not be a good thing. As platforms grow, they risk becoming monopolies that exclude some workers. When TaskRabbit changed to an app-only model, workers without smartphones were disadvantaged.
 
@@ -163,7 +163,7 @@ In summary, the text discusses the concepts of Gemeinschaft and Gesellschaft in 
 
 • This has led to increasing social inequalities, as affordable housing is removed from the market, driving up rents for lower-income residents while wealthier hosts profit. Studies show that high percentages of housing units in some cities are Airbnb rentals.
 
- Here is a summary of the key points:
+ 
 
 • City rent control laws protect tenants but many renters in other cities do not have the same protections. In San Francisco, rent controlled tenants face the threat of owner move-ins and Ellis Act evictions. 
 
@@ -598,7 +598,7 @@ Does this cover the main points summarized in the text? Let me know if you'd lik
 
 That covers the main ideas presented in the summary of r e a m? Let me know if you need any clarification or have additional questions!
 
- Here is a summary of the key points:
+ 
 
 • Airbnb and Kitchensurfing deliver on the promise of high worker flexibility and choice by allowing hosts and chefs to select when they work and which clients they accept. 
 
@@ -736,7 +736,7 @@ The author argues that treating gig economy workers as employees with protection
 
 In the absence of reading the full original text, it is difficult to adequately verify this summary. However, comparing it directly to the source material passage-by-passage would allow you to determine whether it accurately and completely represents the author's key claims and evidence. I hope this helps! Please let me know if you have any other questions.
 
- Here is a summary of the key points from the provided text:
+ 
 
 • The sharing economy or gig economy encompasses platforms like Uber, TaskRabbit, Airbnb, and Kitchensurfing that allow people to use underutilized assets or labor to generate income.  
 

@@ -27,7 +27,7 @@ BOOK LINK:
 
 - It does not provide any additional contextual details about who Tal is or their relationship to the author.
 
- Here is a summary of the key points:
+ 
 
 - The performer introduces himself as a mentalist who claims to have extremely focused mental abilities like a laser beam. He says it's a combination of a natural gift that he has developed over time.
 
@@ -127,7 +127,7 @@ So in summary, a chance request to help promote a new cell phone at a party laun
 
 - Mental shortcuts allow our brains to process information efficiently while coming to conclusions based on past experience rather than fully analyzing every detail.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses how shortcuts and assumptions can lead our minds astray if we're not careful. It gives several examples where common words or patterns are missed due to mental shortcuts. 
 

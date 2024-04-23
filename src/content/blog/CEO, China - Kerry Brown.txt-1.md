@@ -399,7 +399,7 @@ The final influence mentioned is Liu He, who serves as deputy of the National De
 
 - The most prominent online critic is the Utopia website, which was shut down in 2012 after defending Bo Xilai. It attracted hundreds of thousands of visitors with critiques of inequality under post-1978 reforms.
 
- Here is a summary of the key points:
+ 
 
 - Mao Yushi directly criticized Mao Zedong for being responsible for the Great Chinese Famine and claimed Mao was consumed by his thirst for power above all else. 
 
@@ -639,7 +639,7 @@ Taiwan and Hong Kong remain especially thorny given US legal commitments to Taiw
 
 - In summary, while Xi has established strong authority, questions remain about the roots of his power and whether his leadership style can successfully reforms the issues facing the CCP and maintain its legitimacy over the long run. Some parallels are drawn to other authoritarian institutional leaders seeking to reform while holding onto power.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses Xi Jinping's background and formative years, noting he was sent down to rural Yan'an during the Cultural Revolution when his father fell out of favor politically. This period shaped Xi's worldview and commitment to Maoism. 
 
@@ -667,7 +667,7 @@ So in summary, the passage analyzes Xi's background but argues his power should 
 
 9 was left incomplete, so no summary is provided for that source.
 
- Here is a summary of the key points:
+ 
 
 - Relationships in China are fluid and difficult to definitively plot out, so any analysis of Xi's connections needs to be done cautiously. 
 

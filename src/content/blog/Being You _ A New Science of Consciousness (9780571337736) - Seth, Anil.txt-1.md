@@ -37,7 +37,7 @@ BOOK LINK:
 
 - Christof Koch called Seth one of the world's leading consciousness researchers with a unique and refreshing take, always exciting, accessible and engaging.
 
- Here is a summary of the key points:
+ 
 
 - Consciousness refers to subjective experience - there is "something it is like" to be a conscious creature from that creature's perspective. This phenomenological aspect of consciousness is the most important aspect to define and understand. 
 
@@ -127,7 +127,7 @@ So in summary, the passage presents consciousness as arising from physical proce
 
 So in summary, the historical example shows the importance of measurement, scales and reference points in advancing scientific understanding. The text suggests researchers are now attempting to develop similar standardized tools to systematically study consciousness.
 
- Here is a summary of the key points:
+ 
 
 - Scientists are working on developing reliable instruments called "consciousness meters" that can measure conscious level and determine if something is conscious, similar to how thermometers measure temperature. 
 
@@ -207,7 +207,7 @@ So in summary, the historical example shows the importance of measurement, scale
 
 - IIT claims consciousness is intrinsically identical to Φ - systems with high Φ experience rich, unified consciousness while those with zero Φ experience nothing at all.
 
- Here is a summary of the key points:
+ 
 
 - IIT claims consciousness arises from integrated information (Φ) within a system. It measures the difference between a system's behavior as a whole vs the sum of its parts. 
 
@@ -311,7 +311,7 @@ Phenomena like inattentional blindness demonstrate how precision weighting can m
 
 Overall, perception and action are tightly coupled - perception evolves to guide effective action, not to represent the world as it is. The brain may generate actions first and then calibrate them using sensory signals to achieve goals.
 
- Here is a summary of the key points:
+ 
 
 - In predictive processing, action and perception are underpinned by minimizing sensory prediction errors. Actions can help reduce prediction errors by altering sensory inputs to match existing predictions. 
 
@@ -325,7 +325,7 @@ Overall, perception and action are tightly coupled - perception evolves to guide
 
 - This underscores how action and perception are two sides of the same predictive coin. Both emerge from the brain's optimal guessing about sensory causes through minimizing prediction errors.
 
- Here is a summary of the key points:
+ 
 
 - The concept of the "beholder's share" was introduced by Austrian art historians Alois Riegl and Ernst Gombrich. It refers to the role of the observer/perceiver in imaginatively "completing" a work of art, beyond what is physically present. 
 
@@ -407,7 +407,7 @@ Overall, perception and action are tightly coupled - perception evolves to guide
 
 In summary, the passage describes the author's experience of his elderly mother developing disorienting and frightening hospital-induced delirium while undergoing treatment, and the challenges this posed for her and their relationship.
 
- Here is a summary of the key points:
+ 
 
 - The passage describes a thought experiment involving teletransportation technology that can scan and replicate a person exactly on Mars. This raises philosophical questions about personal identity. 
 
@@ -625,7 +625,7 @@ So in summary, to encounter generally refers to coming into contact with or expe
 
 - While "spooky" free will is illusory, we do have a real capacity for voluntary control thanks to our brain's management of degrees of freedom. However, this can be undermined by injuries or conditions. In summary, whether free will is an illusion depends on how it is defined.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses difficult ethical and legal questions raised by cases where brain abnormalities like tumors seem to influence or cause violent/criminal behavior, as in the case of Charles Whitman. It questions whether such individuals should be fully responsible if their actions were influenced by biological factors outside their control. 
 
@@ -775,7 +775,7 @@ Finally, the passage notes the rise of AI sparks ethics discussions, from econom
 
 - By investigating these phenomena, science continually expands our understanding while displacing human exceptionalism. It aims to solve not one “hard problem” but gain insights by empirically linking brain and experience. This has practical implications for conditions of disturbed experience.
 
- Here is a summary of the key points:
+ 
 
 - The study of consciousness has the potential to shed light on our inner mental lives and experiences of the world. Understanding consciousness can give us new insights into how our inner selves are connected to the natural world. 
 
@@ -891,7 +891,7 @@ So in summary, Seth's research uses predictive processing theory to develop inte
 
 - The controlled hallucination view connects to broader theories of the mind like Bayesian brain theory, predictive processing, embodied cognition, and the beast machine conception of consciousness as interoceptive inference. It's suggested this perspective helps explain key features of perception and consciousness.
 
- Here is a summary of the key points:
+ 
 
 - Led hallucinations can feel controlling and realistic. Numbers or everything appearing as the number 1 are examples. 
 

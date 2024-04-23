@@ -177,7 +177,7 @@ Beverly is determined to broaden her students' horizons despite challenges. Over
 
 - As she lived openly as a transgender woman, Jess faced little professional discrimination as an IT consultant. She has helped advocate for transgender rights through her role as mayor.
 
- Here is a summary of the key points from the provided text:
+ 
 
 - Jess Herbst, a transgender woman, was elected as the mayor of New Hope, Texas in 2016 after the previous mayor passed away. She kept her gender identity secret from the town for years while serving in other local government roles.  
 
@@ -309,7 +309,7 @@ So in summary, the excerpt details Emma's unconventional experience growing up i
 
 - Chronic loneliness can perpetuate a cycle of withdrawal and loss of friends as people come to view others negatively. This social isolation takes a toll on mental and physical health over time by triggering prolonged inflammatory responses in the body.
 
- Here are the key points:
+ 
 
 - The woman worked at a job dominated by white men who would "mansplain" to her, take credit for her ideas, and be surprised when she finished projects quickly. 
 
@@ -358,7 +358,7 @@ Alex, Part I:
 
 - This suggests he plans to not pay the tuition for his school and will likely do something harmful or illegal to avoid paying, given his menacing tone.
 
- Here is a summary of the key points:
+ 
 
 - Living abroad or having unusual experiences can boost creativity by expanding one's perspectives and exposing them to new ideas and ways of thinking. This was demonstrated through studies of immigrants, people who traveled abroad, and those who experienced virtual reality that violated normal physics rules. 
 
@@ -374,7 +374,7 @@ Alex, Part I:
 
 - While creativity may spring from "weirdness," it still requires opportunities to develop without major barriers like discrimination or poverty preventing its flourishing. Unusual perspectives alone do not guarantee creative achievement.
 
- Here is a summary of the key points:
+ 
 
 - Terri Muir and Tom Buckley were two of the early pioneers of online dating, signing up for Match.com in 1997 when it was still a novel concept. 
 
@@ -476,7 +476,7 @@ So in summary, Julia is facing adversity with her unreliable car but receives su
 
 Both Beverly and Asma gradually gained acceptance in their communities by building rapport over time, while also remaining true to their principles when pressures to conform arose. Their strategies helped make controversial ideas or differences more palatable to their peers.
 
- Here is a summary of the key points:
+ 
 
 - Michele Roberts grew up in the Bronx but attended an elite boarding school on scholarship, where she was one of only a few black students and felt like she didn't belong. This experience motivated her to work harder to prove herself. 
 
@@ -608,7 +608,7 @@ So in summary, research demonstrates personalities can flexibly change through p
 
 - Years later, the author was reintroduced to the Russian community as an adult and realized how few Russians they had interacted with growing up as an immigrant. The passage examines the choice between blending in or finding support from one's own marginalized group.
 
- Here is a summary of the key points:
+ 
 
 - The author met Anton, a Russian immigrant, at a concert and they bonded over their shared experiences of being Russian in America. They had similar family backgrounds and could relate to each other in a way the author hadn't experienced before. 
 
@@ -622,7 +622,7 @@ So in summary, research demonstrates personalities can flexibly change through p
 
 - Anton also chose a different path, marrying a woman who recently immigrated from Russia, while the author's partner's family has deeper American roots dating back centuries.
 
- Here is a summary of the key points:
+ 
 
 - Paul started a company called Conservative Move to help conservatives relocate from liberal states like California to more conservative areas like McKinney, Texas. 
 
@@ -776,7 +776,7 @@ The summary touches on how trans people are often expected to serve as represent
 
 - Sources provided background on online dating trends and studies on obedience and dissent.
 
- Here is a summary of the key points from the sources:
+ 
 
 - The 2017 NALP report on diversity in US law firms found that representation of minority attorneys, especially black attorneys, remains low despite efforts to improve diversity. 
 

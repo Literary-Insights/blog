@@ -61,7 +61,7 @@ In essence, character and integrity enable our talents to blossom, while lack of
 
 The key is evaluating character based on the full reality of a person's wake - both achievements and treatment of people. Excuses and spin do not define character. The true test is whether people were lifted up or diminished.
 
- Here is a summary of the key points:
+ 
 
 - The author interviewed references for a potential hire named Amy. The references spoke very highly of Amy's work, results, and impact on clients and coworkers. 
 
@@ -120,7 +120,7 @@ The key is evaluating character based on the full reality of a person's wake - b
 
 - To develop character integrity: 1) Accept the necessity of personal development to meet reality's demands 2) Understand the components of character to know what to improve 3) Work toward integrating all aspects of character to become whole. As we do this, we gain strength and no weakness can stop us.
 
- Here is a summary of the key points:
+ 
 
 - A new company president was addressing the management teams of two merging health care companies for the first time. There was anticipation in the room about this important moment.
 
@@ -140,7 +140,7 @@ The key is evaluating character based on the full reality of a person's wake - b
 
 - The overall feeling in the room deflated as the president failed to connect with the managers' real concerns.
 
- Here is a summary of the key points:
+ 
 
 - The president held a meeting with employees who were concerned about upcoming changes. However, instead of listening and empathizing, he dismissed their concerns and insisted they were wrong. 
 
@@ -154,7 +154,7 @@ The key is evaluating character based on the full reality of a person's wake - b
 
 - Integrity is key in any relationship - with employees, kids, spouses - to move beyond compliance to gaining people's best efforts out of desire, passion and willingness.
 
- Here is a summary of the key points:
+ 
 
 - The story describes a CEO who was removed from his position because he lacked empathy and connection with his employees. 
 
@@ -168,7 +168,7 @@ The key is evaluating character based on the full reality of a person's wake - b
 
 - The story illustrates how a lack of empathy and connection undermined the CEO's effectiveness, despite his intelligence and skills. Building bonds with others requires character traits like empathy, curiosity about others, and communicating understanding.
 
- Here is a summary of the key points:
+ 
 
 - True listening and understanding occurs when the other person feels you understand their experience. This happens when you connect with their perspective and communicate that back to them. 
 
@@ -182,7 +182,7 @@ The key is evaluating character based on the full reality of a person's wake - b
 
 - Connecting requires getting out of your own viewpoint and genuinely seeking to understand the other person's experience. This builds trust and unity. Failure to do this causes disconnection.
 
- Here is a summary of the key points:
+ 
 
 - Sheila was shocked when her business partner Sarah betrayed her by leaving to start a competing company and taking half the employees. 
 
@@ -214,7 +214,7 @@ The key is evaluating character based on the full reality of a person's wake - b
 
 In summary, the issue is that while Joe has honesty and won't violate ethics, he lacks the character quality of extending favor and care to look out for the interests of others he works with. This limits the ability to fully trust him, even though he has integrity in other areas. Protecting your own interests through legal means can compensate.
 
- Here is a summary of the key points:
+ 
 
 - The author was at a party and a man came up to him, saying he had followed the author's advice in a business deal. The advice worked out well, but the man realized he still had to protect his own interests and tie everything up contractually. 
 
@@ -230,7 +230,7 @@ In summary, the issue is that while Joe has honesty and won't violate ethics, he
 
 - True integrity comes from a stance of being "for" the other person, not neutral or against. This orientation reflects how much someone values people.
 
- Here is a summary of the key points:
+ 
 
 - There are two types of people when it comes to trust and relationships. The first type quickly feels attacked or suspicious when something goes wrong. They view the world as "us vs them" and are always expecting conflict. This makes it hard to fully trust them. 
 
@@ -284,7 +284,7 @@ In summary, an orientation toward truth is about humility, openness, curiosity, 
 
 - Truthfulness is about more than just avoiding outright lies. It's an orientation toward pursuing ever-deeper knowledge of the full truth in all areas relevant to your aims.
 
- Here is a summary of the key points:
+ 
 
 - Reality is your friend. Facing the truth, no matter how difficult, is the only way to make real progress and achieve results. 
 
@@ -300,7 +300,7 @@ In summary, an orientation toward truth is about humility, openness, curiosity, 
 
 - Face reality with courage and wisdom, using it as a platform to create positive change. Don't avoid it or dwell on it negatively. Reality is a starting point.
 
- Here is a summary of the key points:
+ 
 
 - The CEO of a dog food company took it from near failure to nearly a billion dollars in sales in two years. He accomplished this by seeking to truly understand his customers and their beliefs about teeth and toothpaste. 
 
@@ -360,7 +360,7 @@ In summary, an orientation toward truth is about humility, openness, curiosity, 
 
 - Mature character formation involves integrating the good and bad to see whole representations of people and situations, leading to wiser judgments and decisions. Moving beyond the splitting of "Jekyll and Hyde".
 
- Here is a summary of the key points:
+ 
 
 - Mature characters are able to see the "whole person", not just their mistakes or flaws. They can see someone's strengths and good qualities along with their faults. 
 
@@ -376,7 +376,7 @@ In summary, an orientation toward truth is about humility, openness, curiosity, 
 
 - Examples are provided of business leaders who failed to assimilate new realities like the internet or supermarket trends. Their inability to accommodate change led to being left behind.
 
- Here is a summary of the key points:
+ 
 
 - High performers tend to have certain character traits and ways of operating that lead to getting results beyond just working hard. Developing character is as important as developing job skills.
 
@@ -392,7 +392,7 @@ In summary, an orientation toward truth is about humility, openness, curiosity, 
 
 - Character ultimately matters more than talent. Developing integrity, maturity and wisdom leads to getting the right results.
 
- Here is a summary of the key points:
+ 
 
 - The story is about a surgeon who followed his father and grandfather into the profession, even though his true talents were in the arts. He was living out a "family script" rather than his own identity. 
 
@@ -422,7 +422,7 @@ The ability to persevere in the face of obstacles is a key character trait for s
 
 Dr. Cloud argues that learning to "lose well" is equally important. Everyone will face losses and failures. Winners lose well - they learn from losses and don't repeat mistakes. Losers lose poorly - they don't learn and continue repeating the same losses. The ability to learn from losses and persist through obstacles requires courage, judgment, resilience and other aspects of character. Developing these is key to future success.
 
- Here is a summary of the key points:
+ 
 
 - Some people are unable to accept and move on from losses or failures. They get stuck reliving the loss rather than learning from it and moving forward. This causes them to repeat the same mistakes. 
 
@@ -464,7 +464,7 @@ Dr. Cloud argues that learning to "lose well" is equally important. Everyone wil
 
 - Problems that are truly addressed can be resolved quickly. Avoidance draws out pain for years, but once dealt with, normalcy returns within weeks and months. Integrated character allows people to face problems head on and reap the benefits on the other side.
 
- Here is a summary of the key points:
+ 
 
 - The ability to recover quickly after setbacks or failures is a sign of strong character and integrity. My friend who launched an unsuccessful venture demonstrated this by analyzing what went wrong and figuring out how to fix it, rather than getting discouraged. 
 
@@ -476,7 +476,7 @@ Dr. Cloud argues that learning to "lose well" is equally important. Everyone wil
 
 - Taking ownership of mistakes and failures rather than blaming circumstances shows integrity. Jim tried to avoid responsibility by saying he just followed directions, but true character involves owning the outcome.
 
- Here is a summary of the key points:
+ 
 
 - Jim was a VP of HR who engineered a "layoff" to get rid of some store managers he wanted to fire, rather than properly documenting their performance issues. 
 
@@ -512,7 +512,7 @@ Confronting problems productively is an essential aspect of character integrity.
 
 - The author sees this continual desire for growth, learning and new experiences as a sign of character - not being content with past successes but always seeking increase.
 
- Here is a summary of the key points:
+ 
 
 - The man had a desire to grow, learn, and become more than he was. He was driven by curiosity and a hunger for growth. 
 
@@ -558,7 +558,7 @@ Confronting problems productively is an essential aspect of character integrity.
 
 - In summary, calculated risks express and further growth, while blind risks without developed character are like gambling and don't lead to growth.
 
- Here is a summary of the key points:
+ 
 
 - Growth requires taking risks, but smart risks that naturally evolve from internal growth, not foolish risks or gambling. Divorced people devastated by a breakup who quickly risk everything in a new relationship are not growing wisely. 
 
@@ -570,7 +570,7 @@ Confronting problems productively is an essential aspect of character integrity.
 
 - Submitting to structures for growth requires courage and facing those who may be upset you are investing in yourself. But lacking investment leads to stagnation.
 
- Here are the key points:
+ 
 
 - Characters who grow have an eye for the future and the character to pursue it proactively. They don't just wait for the future to come to them. 
 
@@ -584,7 +584,7 @@ Confronting problems productively is an essential aspect of character integrity.
 
 - Overall, a willingness to be vulnerable, take feedback, and lean into discomfort distinguishes those who grow from those who stay stagnant. The right mindset enables progress.
 
- Here is a summary of the key points:
+ 
 
 - An old story about a navy warship heading through fog at night encountering a faint light ahead 
 
@@ -604,7 +604,7 @@ Confronting problems productively is an essential aspect of character integrity.
 
 In summary, the lighthouse story illustrates that to live with character, we must orient ourselves to the reality that we are not the biggest or most important, and embrace operating within higher purposes. This requires humility and transcending ego.
 
- Here is a summary of the key points:
+ 
 
 - The most important question for a person's functioning is "Are you God, or not?" How someone answers this determines whether they are self-centered or able to see things bigger than themselves. 
 
@@ -618,7 +618,7 @@ In summary, the lighthouse story illustrates that to live with character, we mus
 
 - We must bow to universal values and principles bigger than ourself in order to thrive. This takes humility and realizing we are not the center of the universe.
 
- Here is a summary of the key points:
+ 
 
 - People who are only focused on themselves often end up losing the bigger, more important things in life. By being self-centered, they neglect values, ethics, responsibilities and their impact on others. 
 
@@ -632,7 +632,7 @@ In summary, the lighthouse story illustrates that to live with character, we mus
 
 - Without awareness of and concern for the bigger picture, people operate on self-gratification. Transcendence requires enlightenment to larger realities. Bowing to these leads to fulfillment and achievement.
 
- Here is a summary of the key points:
+ 
 
 - Moving past a self-centered existence and becoming aware of something greater is the first step in transcending the self. However, some attempts at transcendence like certain forms of meditation are still self-focused. 
 
@@ -660,7 +660,7 @@ In summary, the lighthouse story illustrates that to live with character, we mus
 
 In summary, the anecdote illustrates that talent and accomplishments do not necessarily equate to personal wholeness and maturity in leaders. There can be gaps where character development is needed. Coaching alone may not be sufficient to build true integrated character.
 
- Here is a summary of the key points:
+ 
 
 - Accomplished and successful people can still have character flaws or "chinks in their armor" that are not readily apparent. We tend to idealize successful people and assume they have it all together. 
 
@@ -706,7 +706,7 @@ The key is that dysfunctional past experiences, lack of training and models, ins
 
 - There is hope! With the right motivations and ingredients, we can make character changes and realize who we were created to be.
 
- Here is a summary of the key points:
+ 
 
 - Character is not fixed, but can change and grow over time. All of the "chinks in the armor" that limit character development can be overcome.
 
@@ -756,7 +756,7 @@ Does this help summarize some of the key points about results and character in t
 
 - Overall, character reveals itself in someone's wake - how they impact others and the world through their actions over time. It's built gradually through experiences.
 
- Here is a summary of the key points:
+ 
 
 - The book teaches that having strong character and integrity leads to greater performance and effectiveness as a leader. 
 

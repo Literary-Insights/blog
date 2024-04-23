@@ -101,7 +101,7 @@ BOOK LINK:
 
 - Using strategic naps can help supplement sleep for those who need more rest but have limited nighttime time, like shift workers or athletes training intensely.
 
- Here is a summary of the key points:
+ 
 
 - Establishing a consistent wake time, even on weekends, helps sync our circadian rhythms and improve sleep quality. This constant wake time should be the earliest you need to get up daily. 
 
@@ -155,7 +155,7 @@ The critical concept is establishing a steady wake time rhythm and focusing on l
 
 - Post-sleep routines like maintaining a consistent wake time, exposing oneself to natural light, and delaying tech/notifications help transition fully from sleep and set up the day positively. Preparing the mind and body in these simple ways supports better quality sleep.
 
- Here are the key points:
+ 
 
 - Waking up and immediately checking your phone disrupts your body's natural waking process and transition from melatonin to serotonin. 
 
@@ -169,7 +169,7 @@ The critical concept is establishing a steady wake time rhythm and focusing on l
 
 - Incorporating pre-sleep and post-sleep routines leads to better sleep quality and efficiency during the day through being correctly prepared and alert.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses the natural midday slump or post-lunch period when daytime fatigue kicks in. It argues that this is a crucial time window to reclaim a sleep cycle that may have been missed at night. 
 
@@ -223,7 +223,7 @@ The text advocates a thoughtful approach to mattress buying rather than trusting
 
 - Pillows should not be needed to fill gaps and are often used to compensate for an improperly fitting mattress. Using more than one pillow can cause posture and alignment issues. The right mattress fits the body without needing extra pillows.
 
- Here is a summary of the key points:
+ 
 
 - Different types of pillows like memory foam, feather, polyester, anti-snoring, orthopedic pillows exist, with varying fabrics and fillings. An essential pillow will suffice as long as it fits your posture needs. 
 
@@ -275,7 +275,7 @@ So, in summary, the passage stresses the importance of the bedroom environment a
 
 - The article suggests that homeowners can emulate these elite clubs by designating a recovery room with optimal light and temperature, minimizing distractions, and tech use to promote quality sleep.
 
- Here is a summary of the key points:
+ 
 
 - The author is preparing sleep kits for athletes competing at the Olympic Games in Rio. These kits are designed to optimize the sleep environment given subpar conditions like hard beds and a lack of air conditioning in the village accommodations. 
 
@@ -365,7 +365,7 @@ Some key points:
 
 - Even managing the challenges, night workers may need to decide how long they can sustain disruptions to their body clocks.
 
- Here is a summary of the key points:
+ 
 
 - Dark evenings in winter can negatively impact circadian rhythms and sleep quality due to lack of daylight exposure. 
 

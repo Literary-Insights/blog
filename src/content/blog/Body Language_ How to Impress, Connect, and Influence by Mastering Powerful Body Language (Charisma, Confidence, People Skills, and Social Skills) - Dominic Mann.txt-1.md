@@ -33,7 +33,7 @@ BOOK LINK:
 
 - Mastering powerful body language can help with interactions like presentations, job interviews, networking, and relationships by allowing you to control first impressions and influence how people perceive and respond to you.
 
- Here is a summary of the key points:
+ 
 
 - In the 1960 presidential debate between JFK and Nixon, those who watched on television saw Kennedy as more relaxed and confident compared to Nixon, who appeared nervous with shifty eyes. This visual impression swayed viewers and influenced the election outcome. 
 

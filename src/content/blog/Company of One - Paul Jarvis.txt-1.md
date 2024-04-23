@@ -57,7 +57,7 @@ Traits of companies of one include resilience in adapting to changes, autonomy i
 
 The passage discusses how having a sense of autonomy and control is important for companies of one to be resilient in doing their essential work. It notes that competence in core skills is tied to autonomy, as you need to be skilled in your work to have true control over it. While early in one's career more training under others is important, companies of one aim to break standard rules for the greater good. Autonomy can be learned through gaining experience and skills either as an employee or freelancer. Large companies that empower autonomy, like through flexible work policies, can see greater productivity. Freelancing is increasingly popular as a way for younger workers especially to gain more control over their careers. Overall, developing expertise in one's field through dedicated work leads to the ability to direct one's work and maintain resilience.
 
- Here is a summary of the key points:
+ 
 
 - Kaitlin is able to accomplish tasks much faster as a solo freelancer compared to when she worked at an agency, giving her more flexible schedule. 
 
@@ -241,7 +241,7 @@ Attention is worth more than revenue or possessions. It requires businesses to f
 
 In summary, when mistakes inevitably happen, companies of one need a plan to take responsibility transparently and make things right for their customers through sincere communication and resolution of issues. This maintains trust even during failures.
 
- Here is a summary of the key points:
+ 
 
 - The company owner experienced a bug in vendor software that caused dozens of customers to be double-charged. 
 
@@ -283,7 +283,7 @@ Brian then launched CopyBlogger as a side business teaching companies content ma
 
 The company, now renamed RainMaker Digital, does over $12 million annually in revenue thanks to focusing on audience education rather than overt sales. Sharing knowledge positions Brian and his company as experts and allows potential customers to understand how the products can benefit them. It has led to long-term customer relationships and growth for the business.
 
- Here is a summary of the key points:
+ 
 
 - Teaching provides essential feedback that allows teachers to constantly improve and strengthen what they're teaching. Both the teacher and students benefit from this process. 
 
@@ -421,7 +421,7 @@ In summary, the key points are that building trust, loyalty and incentives for c
 
 - If starting from scratch today, he would listen to potential clients' needs and offer free consultations to learn what people want when hiring designers. This would help him help others while also gathering intel to prospect for paying clients.
 
- Here is a summary of the key points:
+ 
 
 - People often hire a web designer to build or improve their website. A good website is important for marketing, sales, branding and overall online presence. 
 
@@ -439,7 +439,7 @@ In summary, the key points are that building trust, loyalty and incentives for c
 
 So in summary, people hire web designers to improve their online presence, achieve business goals and create a professional, functional website - especially if they lack the in-house skills or time to do it themselves.
 
- Here is a summary of the key points:
+ 
 
 - Set up a legal structure that separates your personal finances from your business finances, such as incorporating or forming an LLC. Have proper contracts and terms of service to protect the business.
 

@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points:
+ 
 
 - The quote "Dance first. Think later." advocates living spontaneously and freely, without overthinking things. 
 
@@ -31,7 +31,7 @@ BOOK LINK:
 
 - Overall, the quote promotes a carefree, indulgent approach to life, emphasizing the importance of living fully in the present moment.
 
- Here is a summary of the key points:
+ 
 
 - Life is unpredictable, so take chances even if the odds seem against you. 
 
@@ -105,7 +105,7 @@ Rule No. 19 - Perfection is not attainable, but if we chase perfection we can ca
 
 Rule No. 20 - Keep smiling, because life is a beautiful thing and there's so much to smile about. - Marilyn Monroe
 
- Here is a summary of the key points:
+ 
 
 - Fear can be useful, but don't let it control you. Confront your fears bravely.
 
@@ -149,7 +149,7 @@ In essence, the quote advocates directly confronting and mastering fear rather t
 
 The overall message is to be true to yourself, treat others well, live purposefully, and appreciate each day.
 
- Here is a summary of the key points:
+ 
 
 - Be open to new experiences and perspectives. Go outside your comfort zone.
 
@@ -266,7 +266,7 @@ Rule No. 446 - Never be late, it's arrogant.
 
 20. Courage over fear. (Eleanor Roosevelt)
 
- Here is a summary of the key points:
+ 
 
 - ntor provides a set of concise life lessons and wisdom in the form of numbered rules. 
 
@@ -282,7 +282,7 @@ Rule No. 446 - Never be late, it's arrogant.
 
 In short, ntor is a collection of succinct and insightful rules to live by from people of achievement. It serves as a reference for advice on life's challenges and opportunities.
 
- Here is a summary of the key points:
+ 
 
 - You don't have to be extraordinary to accomplish great things. With enough motivation and effort, an ordinary person can achieve challenging goals. The intense effort required can be very rewarding.
 

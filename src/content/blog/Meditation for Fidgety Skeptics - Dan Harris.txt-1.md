@@ -79,7 +79,7 @@ So in summary, the passage discusses how meditation confronts our ego/inner narr
 
 - Jeff answered common FAQs about meditation basics - where to meditate, clothing, eyes open or closed, sitting positions. The key is finding a position that allows one to be still, comfortable and alert.
 
- Here is a summary of the key points:
+ 
 
 - Adopt a relaxed, open and equanimous attitude towards the meditation experience. Be okay with distractions. 
 
@@ -121,7 +121,7 @@ So in summary, the passage discusses how meditation confronts our ego/inner narr
 
 - Jeff gave a meditation instruction focused on gently returning attention to the breath whenever thoughts are noticed, to develop the skill of disembedding from thinking and observing it from awareness. The goal is to catch thoughts early and appreciate the moment of "waking up".
 
- Here is a summary of the key points:
+ 
 
 - The author struggles with meditation and finds it difficult to relax and quiet his mind. He realizes his problems stem partly from mistakenly thinking he wouldn't need to practice basic techniques. 
 
@@ -245,7 +245,7 @@ It then provides guidance on meditating on the breath and body sensation, shifti
 
 - While some cadets are teased, Jarman viewed withstanding that as an important test of being able to go against pressures and create change, which is a quality of being a warrior. The interviewers agreed meditation takes a warrior spirit to go against societal momentum.
 
- Here is a summary of the key points:
+ 
 
 - The author notes that through meditation practice, their lifelong susceptibility to the opinions of others has diminished. They are better able to observe thoughts and feelings like worry about what people think, comparison to others, and fear of missing out arise and pass without getting overly caught up in them. 
 
@@ -257,7 +257,7 @@ It then provides guidance on meditating on the breath and body sensation, shifti
 
 - The meditation guidance discusses using noting (mentally labeling) thoughts and patterns that arise to help notice them without getting caught up in them. This can help uncover hidden mental dramas and triggers. The goal is pattern recognition to respond more sanely rather than be hijacked by old reactions.
 
- Here is a summary of the key points:
+ 
 
 - The meditation introduces relaxing on the exhale and straightening on the inhale to keep the body balanced. 
 
@@ -313,7 +313,7 @@ In summary, the passage discusses how meditation can help work with inner resist
 
 - The chapter explores self-compassion meditation as a way to care for oneself, even during difficult times, rather than dwelling on pain through secondary negative thoughts ("the second arrow"). Maintaining compassion is presented as key to well-being.
 
- Here is a summary of the key points:
+ 
 
 - Self-compassion meditation is a practice of caring for oneself independently of one's conditions or feelings. 
 
@@ -427,7 +427,7 @@ The author reflects on always having been somewhat self-centered and lacking in 
 
 In summary, the passage describes the author riding along on a police patrol and discussing with the officer how meditation is viewed with skepticism by many in law enforcement due to concerns it could undermine the mental toughness and reflexes needed for their dangerous job.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses how meditation can enhance one's edge or effectiveness at work rather than erode it. Increased focus, decreased emotional reactivity, and having more compassion can benefit careers like news reporting which require collaboration. 
 
@@ -495,7 +495,7 @@ In summary, the passage describes the author riding along on a police patrol and
 
 - While not meditation, the writing and mutual support cultivated mental habits through a deliberate practice. The author was humbled by these participants and their resilience through difficult challenges.
 
- Here is a summary of the key points:
+ 
 
 - A practice refers to something you commit to regularly as a way to develop skills and qualities. Meditation, sports, music, volunteering can all be practices. 
 

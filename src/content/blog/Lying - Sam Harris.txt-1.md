@@ -51,7 +51,7 @@ The chapters are:
 
 The book ends with acknowledgments and information about the author's other works.
 
- Here are the key points:
+ 
 
 - Telling the truth, even small "white lies", helps build integrity, authenticity and mutual understanding in relationships. It avoids unintended harm that could come from lies, even well-intentioned ones. 
 

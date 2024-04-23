@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points:
+ 
 
 - Affiliate marketing involves promoting other companies' products or services in exchange for a commission when a sale is made through your referral links. 
 
@@ -49,7 +49,7 @@ BOOK LINK:
 
 The key is choosing the right niche, building a valuable resource for your readers, and promoting it consistently over the long run. Starting simple with WordPress is a low-cost way to get your first affiliate site launched.
 
- Here is a summary of the key points:
+ 
 
 - Choosing a niche you are already familiar with through your hobbies makes for a good starting place for an affiliate site. Your existing knowledge will save time on research.
 

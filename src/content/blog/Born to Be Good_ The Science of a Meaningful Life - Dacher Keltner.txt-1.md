@@ -33,7 +33,7 @@ BOOK LINK:
 
 - The book traces the development of the author's own thinking on these topics over time through his background in literature, philosophy and scientific research on emotion.
 
- Here is a summary of the key points:
+ 
 
 - Jen science is a new field of study focused on positive emotions like compassion, gratitude, and awe that transpire between people and bring out the best in each other. It takes a Darwinian lens to understand how these emotions evolved to enable cooperation. 
 
@@ -135,7 +135,7 @@ That summarizes the key points about the Schachter/Singer study, Ekman's develop
 
 So in summary, the passage discusses William James's theory of emotions originating from bodily feelings, and early studies that provided evidence supporting this view by linking specific facial expressions to distinct autonomic nervous system responses.
 
- Here is a summary of the key points:
+ 
 
 - Jonathan Haidt developed a new view of moral judgment that prioritizes the "moral gut" or intuitions over deliberative reasoning. Moral judgments are informed by both intuitions/emotions and higher-order reasoning.
 
@@ -163,7 +163,7 @@ So in summary, the passage discusses William James's theory of emotions originat
 
 The main point is that imaginary Cro-Magnon field notes would be invaluable for understanding the social context in which human traits evolved, but alternate sources of evidence can still provide useful insights.
 
- Here is a summary of the key points:
+ 
 
 - Early humans lived in close-knit groups of 30-75 individuals where they spent most of their time in each other's presence. Labor was divided, with females gathering food and caring for infants while males hunted. 
 
@@ -203,7 +203,7 @@ The main point is that imaginary Cro-Magnon field notes would be invaluable for 
 
 - Prosocial emotions like compassion, awe, love and gratitude evolve to shift perceptions and promote caring about others' welfare, enhancing cooperation within communities.
 
- Here is a summary of the key points:
+ 
 
 - Eadweard Muybridge suffered brain damage in a stagecoach accident in 1860 that affected his emotional decision-making abilities. He became more eccentric, remote, aloof, and lacked embarrassment over his odd behaviors. 
 
@@ -223,7 +223,7 @@ The researcher then began observing everyday interactions in public, noting micr
 
 To further study embarrassment, the researcher designed an experiment where participants had to hold an awkward facial pose on video and were critiqued, which reliably elicited an embarrassment response. The researcher then spent months painstakingly analyzing the videos frame-by-frame to chart the specific muscle actions involved in the brief display of embarrassment. The goal was to better understand the evolution and display of this complex emotion.
 
- Here is a summary of the key points:
+ 
 
 - Facial expressions of emotion are involuntary, brief displays (2-3 seconds) that evolved to signal intentions and social information, like signaling aggression or interest in a mate. 
 
@@ -295,7 +295,7 @@ The article discusses research on the effects of smiling and positive facial exp
 
 The author examined yearbook photos from 1960 of women graduating from a small college. Photos were coded for smile warmth on a scale. Smiles in the photos predicted better outcomes over the following 30 years based on extensive longitudinal data. Women with warmer smiles in college reported less daily stress, anxiety, sadness and pain. They also felt more connected to others. Thus, a genuine smile captured in a brief photo opportunity in younger years related meaningfully to lifelong psychosocial health and well-being. Smiles appear to confer psychological and interpersonal benefits that endure over the life course.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses the "Woody Allen hypothesis" that anxiety and dread lie at the core of human happiness. It assumes positive emotions like happiness emerge out of attempts to reduce negative emotions like fear, despair and anger. 
 
@@ -357,7 +357,7 @@ So in summary, the passage explores how human laughter is a more sophisticated f
 
 - Laughter signals a temporary suspension of literal meanings and commitments, amounting to a "petite vacation" from sincerity. It enables alternative perspectives and imagination. After trauma, laughter may provide brief relief from distress, aiding adjustment. One study found telling funny stories prompted laughter and insight for bereaved spouses.
 
- Here is a summary of the key points:
+ 
 
 - George has been longitudinally studying the well-being of individuals who have lost spouses for several years. He sent video recordings of conversations to the author for analysis. 
 
@@ -383,7 +383,7 @@ The role of court jesters and fools is discussed as a historical and cross-cultu
 
 The passage summarizes different theories of communication, noting teasing involves both a provocation but also "off-record markers" that signal it is not meant aggressively. It compares teasing to a social "vaccine" that helps test social norms and commitments in a playful manner. Overall, the passage argues teasing plays an important evolutionary role in human social interaction and relationship-building.
 
- Here is a summary of the key points:
+ 
 
 - Grice proposed four maxims of communication: Quality, Quantity, Relation, and Manner. Utterances should adhere to these maxims to be considered on-record/literal communication. 
 
@@ -407,7 +407,7 @@ The passage summarizes different theories of communication, noting teasing invol
 
 - More analysis found the teasing balanced provocative aggression with off-record markers like laughter and playfulness. This allowed rank negotiation through dramatized symbolic battles rather than actual violence. The participants greatly enjoyed taking part, showing teasing serves an important social function in human groups as well.
 
- Here is a summary of the key points:
+ 
 
 - Teasing plays an important role in intimate relationships, from flirting and attraction to negotiating conflicts within partnerships over the long term. 
 
@@ -487,7 +487,7 @@ In summary, the research found certain emotions, including key pro-social ones l
 
 - The author's daughters said a pedicure felt comforting because of the leg massage, showing how certain types of touch can promote feelings of relaxation and well-being.
 
- Here is a summary of the key points:
+ 
 
 - In 1800 in France, a 12-year-old naked boy was found digging for potatoes in a field. He had been living alone in the forest since childhood. 
 
@@ -639,7 +639,7 @@ Recalling past awe-inspiring nature experiences showed profound effects on sense
 
 Overall, research is making progress understanding awe physiologically and how it shifts perception away from self towards connection. Future studies aim to locate awe's effects in the brain and distinguish neural circuits for different positive emotions. More work continues to scientifically capture this profound experience.
 
- Here is a summary of the key points:
+ 
 
 - Jen is a central Confucian concept that can be translated as humanity, humaneness, or benevolence. It refers to having compassion and care for others. 
 
@@ -703,7 +703,7 @@ In summary, jen refers to the Confucian virtue of acting with humanity, compassi
 
 - The use of metaphors to explain emotions in language, drawing on cognitive linguistic frameworks.
 
- Here is a summary of the key points:
+ 
 
 - Frans de Waal's research on chimpanzees found that reconciliation after aggressive encounters is common among primates, contradicting the prevailing view that aggression is innate. 
 

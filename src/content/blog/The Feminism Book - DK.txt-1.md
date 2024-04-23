@@ -49,7 +49,7 @@ In summarizing the provided text, the key points covered include the historical 
 
 In 18th century Sweden, some of the earliest expressions of feminist ideas emerged through the work of journalist Margareta Momma and poet Hedvig Nordenflycht. They helped develop feminist themes in print media, advocating for women's education and rights. One of the first Swedish women to publicly argue for equal rights between men and women was Sophia Elisabet Brenner, an aristocrat who wrote poems in the 1690s asserting women's intellectual equality. In the 1730s, journalist Margareta Momma satirized critics who said women were incapable, instead promoting women's education and ability to debate. Poet Hedvig Nordenflycht also supported feminist messages. Their work was part of a progressive milieu in Sweden during the Age of Liberty in the 18th century, when some property and divorce rights were established for women in Swedish law. They helped advance early feminist thought in Scandinavia.
 
- Here is a summary of the key points:
+ 
 
 - Writers in 18th century Sweden, like Hedvig Nordenflycht and Catharina Ahlgren, used the Swedish language rather than aristocratic French in their works. This allowed their ideas to have more widespread access and appeal to a broader audience.
 
@@ -141,7 +141,7 @@ Harriet Martineau worked as a journalist in the 19th century, despite being deaf
 
 - Novelist Harriet Beecher Stowe intervened in the debate through Uncle Tom's Cabin, dramatizing the issue of slavery and building support for abolition through her popular work. She argued all should speak for freedom regardless of gender.
 
- Here is a summary of the key points:
+ 
 
 - In the 19th century, under the legal doctrine of coverture, married women had no independent legal status. All their rights and property passed to their husband upon marriage. 
 
@@ -169,7 +169,7 @@ The passage discusses the suffragette movement in early 20th century Britain, wh
 
 Under the Pankhursts' leadership, the suffragettes were willing to risk arrest, injury, and even death through hunger strikes and other acts of protest. Their militant tactics gripped public attention and helped place pressure on the government. While campaigning for women's suffrage had been ongoing since the 19th century, it was the suffragettes' willingness to use forceful methods that marked a new phase in the movement. Their actions were a significant factor in helping British women finally gain the right to vote in 1918 and 1928, when women over 30 and all women respectively received equal suffrage rights to men.
 
- Here is a summary of the key points:
+ 
 
 - In the 1830s, Mary Smith, a women's rights activist, presented a petition to parliament asking to extend voting rights to women, but there was slow progress. 
 
@@ -185,7 +185,7 @@ Under the Pankhursts' leadership, the suffragettes were willing to risk arrest, 
 
 - While progress was slow, the suffragettes' militant tactics gained momentum for the women's suffrage movement in the early 1900s.
 
- Here is a summary of the key points:
+ 
 
 - The Bodyguard was a group that protected the leader of the WSPU (Women's Social and Political Union). They were prepared to use clubs hidden in their dresses in self-defense, as well as decoys and tricks, to help their leader evade capture by police. 
 
@@ -197,7 +197,7 @@ Under the Pankhursts' leadership, the suffragettes were willing to risk arrest, 
 
 - The outbreak of WWI in 1914 forced the WSPU to reconsider its militant tactics and support the war effort instead in order to help achieve suffrage afterward. This ultimately helped shift public and political support toward women's right to vote.
 
- Here is a summary of the key points:
+ 
 
 - Vida Goldstein was an Australian suffragist and the first woman to run for political office in the British Empire, becoming the first female member of an Australian legislature in 1903. 
 
@@ -427,7 +427,7 @@ Hélène Cixous was a French feminist philosopher who argued that women should p
 
 - There were bitter divisions between antipornography feminists and sex-positive/pro-sex feminists over these issues, culminating in confrontations like the protest of the 1982 Barnard Conference on Sexuality by Women Against Pornography members. The movement was ultimately unsuccessful in banning pornography.
 
- Here is a summary of the key points:
+ 
 
 - The article discusses competing views within feminism around issues of sexuality, consent and pornography that emerged during the "feminist sex wars" of the 1980s. 
 
@@ -451,7 +451,7 @@ Hélène Cixous was a French feminist philosopher who argued that women should p
 
 - Davis's work highlighted the need for diversity in feminist thought, leadership and tactics to reflect the differing experiences of women of different races and classes. This paved the way for a more inclusive feminism.
 
- Here is a summary of the key points:
+ 
 
 - The Greenham Common Women's Peace Camp was established in 1981 outside a UK military base to protest the arrival of nuclear cruise missiles. Over time, it developed a strong community of women campaigning for nuclear disarmament. 
 
@@ -479,7 +479,7 @@ Hélène Cixous was a French feminist philosopher who argued that women should p
 
 - Womanism and black feminism created space for alternative theories within feminism that were more inclusive of racial and class perspectives. The movements continue today through groups like Black Lives Matter.
 
- Here is a summary of the key points:
+ 
 
 - In the late 20th century, Marilyn Waring from New Zealand emerged as an important voice in feminist critique of mainstream economics. She argued that economics disregards women's unpaid domestic labor, making women invisible. 
 
@@ -527,7 +527,7 @@ Hélène Cixous was a French feminist philosopher who argued that women should p
 
 - In summary, many argued Moynihan substituted blame and internal factors for a deeper analysis of the broader inequality in American society that marginalized and disadvantaged black communities, creating the conditions he described.
 
- Here is a summary of the key points:
+ 
 
 - Forced marriage involves marrying someone without their consent, against their will. It violates human rights and autonomy. 
 
@@ -595,7 +595,7 @@ Meanwhile, figures like Susie Bright have argued that sexual speech remains one 
 
 So in summary, it outlines some of the key feminist and LGBT rights organizations and events in the late 1980s through the 1990s, as well as introduces Jennifer Baumgardner as a prominent third-wave feminist figure.
 
- Here is a summary of the key points:
+ 
 
 - Judith Butler was influenced by Simone de Beauvoir's work distinguishing sex and gender, but critiqued the distinction and developed her own theories. 
 
@@ -679,7 +679,7 @@ Most US states and several other countries have now introduced laws criminalizin
 
 Jessica Valenti is a prominent American feminist writer and founder of the feminist website Feministing. She has authored several influential books on topics like feminism, sexuality, and women's rights. Valenti advocates for issues like combating sexism and promoting sexual freedom and bodily autonomy.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses the emergence of "common-sense feminism" in the late 2000s/early 2010s that promoted core ideas of gender equality and framed feminism as a matter of basic human rights and fairness. 
 
@@ -701,7 +701,7 @@ Jessica Valenti is a prominent American feminist writer and founder of the femin
 
 - She argues that minor adjustments will do little to help the multitudes of poor and oppressed women worldwide. Achieving systemic change is needed.
 
- Here is a summary of the key points:
+ 
 
 - Educationalists (FAWE) promotes female education in sub-Saharan Africa at both child and adult levels. It was founded in 1992 by five women education ministers and now has 35 national chapters. 
 

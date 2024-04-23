@@ -47,7 +47,7 @@ BOOK LINK:
 
 - She thanks her editor, sponsor, and family for their support during the process of writing the book.
 
- Here is a summary of the key points:
+ 
 
 - This book is about the connection between leadership and innovation, a topic that has received little attention despite extensive research on each topic individually. 
 
@@ -89,7 +89,7 @@ BOOK LINK:
 
 - This demonstrates the immense challenge of aligning individual genius into collective genius, which is what Pixar has mastered.
 
- Here is a summary of the key points:
+ 
 
 - Innovation is often seen as the result of individual genius, but in reality it is a collaborative group process that brings together diverse slices of genius. Pixar films exemplify this, as the final product is the result of many people across different functions working together. 
 
@@ -117,7 +117,7 @@ BOOK LINK:
 
 - Ultimately, leadership sets the tone and provides the environment for people to productively grapple with the inherent messiness of innovation. With good leadership, an organization can develop the skills to collaborate, experiment, and integrate in service of creativity.
 
- Here is a summary of the key points:
+ 
 
 - Innovation requires a paradoxical combination of unleashing individual talents while also harnessing those talents collectively. 
 
@@ -131,7 +131,7 @@ BOOK LINK:
 
 - Getting this balance right enables the generation of diverse, robust ideas through collaboration, which is essential for innovation.
 
- Here is a summary of the key points:
+ 
 
 - Innovation requires a balance between experimentation/learning and performance. Leaders must foster experimentation and allow failures while still demanding results. Pixar's experience with Toy Story 2 exemplifies this - they allowed experimentation with a straight-to-DVD sequel but then demanded a full theatrical release on a tight timeline when the experiment wasn't working. 
 
@@ -179,7 +179,7 @@ In summary, the paradoxes reveal key insights about the nature of innovation and
 
 - Nayar took actions to enable and encourage bottom-up innovation, such as transparently sharing business information, evaluating managers on empowering employees, and having employees evaluate managers' effectiveness.
 
- Here is a summary of the key points:
+ 
 
 - Nayar realized that to transform HCL into a company focused on creating value for customers through innovation, he needed to change how employees were led. 
 
@@ -195,7 +195,7 @@ In summary, the paradoxes reveal key insights about the nature of innovation and
 
 - His goal was to create "value-focused employees willing and able to drive an innovative, sophisticated experience for customers" by changing how they were led.
 
- Here is a summary of the key points:
+ 
 
 - EFCS (Employee First, Customer Second) was Nayar's approach to empower employees to innovate and create value for customers. 
 
@@ -209,7 +209,7 @@ In summary, the paradoxes reveal key insights about the nature of innovation and
 
 - Overall, Nayar took many steps to increase transparency, trust, and employee responsibility in order to build a culture of innovation focused on creating value for customers.
 
- Here is a summary of the key points:
+ 
 
 - Employees First Councils were online communities where employees could discuss ideas to improve the company. They focused on delighting customers and generating new business ideas. The councils became very popular with thousands of employees participating.
 
@@ -223,7 +223,7 @@ In summary, the paradoxes reveal key insights about the nature of innovation and
 
 - HCL started winning major contracts against global competitors, showing the transformation was working. Revenues grew while competitors declined in the recession.
 
- Here is a summary of the key points:
+ 
 
 - Vineet Nayar took over as CEO of HCL Technologies in 2005 when it was a declining hardware company facing faster competitors. 
 
@@ -261,7 +261,7 @@ In summary, the paradoxes reveal key insights about the nature of innovation and
 
 - By creating a sense of community united around a compelling purpose, de Meo fostered the willingness to collaborate and take risks needed to innovate.
 
- Here is a summary of the key points:
+ 
 
 - Luca de Meo became head of marketing at Volkswagen in 2007. He was already an experienced auto executive, having previously worked at Renault, Toyota, and Fiat. 
 
@@ -273,7 +273,7 @@ In summary, the paradoxes reveal key insights about the nature of innovation and
 
 - However, de Meo found there was an underlying pride among employees in VW's history and accomplishments as an auto engineering leader. This provided a foundation on which he could try to build a more innovative marketing organization.
 
- Here is a summary of the key points:
+ 
 
 - Building the Volkswagen brand was critical to addressing the challenges de Meo found at VW. A strong, unified brand worldwide would help VW achieve its goal of becoming the leading carmaker. 
 
@@ -317,7 +317,7 @@ In summary, the paradoxes reveal key insights about the nature of innovation and
 
 - The key was fostering a sense of community engaged in a shared vision, which drives people's willingness to undertake the challenges of innovation.
 
- Here is a summary of the key points:
+ 
 
 - Pentagram is an unusual and successful design partnership of highly talented individuals, who have each achieved prominence in their field before being invited to join. 
 
@@ -351,7 +351,7 @@ In summary, the paradoxes reveal key insights about the nature of innovation and
 
 In summary, Pentagram's strong shared purpose and commitment to principles of equality and collaboration allowed it to retain talented partners and exert outsized influence through design over many decades.
 
- Here is a summary of the key points:
+ 
 
 - Pentagram aspired to solve big, complex problems through good design in order to improve society. They took on ambitious projects that required new solutions. 
 
@@ -363,7 +363,7 @@ In summary, Pentagram's strong shared purpose and commitment to principles of eq
 
 In summary, Pentagram's core shared values that enabled innovation were bold ambition, collaboration, learning, and responsibility. These values shaped priorities and choices, and influenced individual and collective thought and action.
 
- Here is a summary of the key points:
+ 
 
 - Purpose and shared values are critical for forming and sustaining an innovative community, but they are not sufficient on their own. Rules of engagement are also needed to enable collaboration, learning, and integrative decision-making. 
 
@@ -407,7 +407,7 @@ In summary, Pentagram's core shared values that enabled innovation were bold amb
 
 - The Pixar case illustrates that innovation emerges from abrasion of diverse ideas, not a single flash of insight. Creative abrasion is key to developing collaborative innovation.
 
- Here is a summary of the key points:
+ 
 
 - Up was a feature film projected to make $1 billion. Cars Toons was a planned series of shorts based on Cars characters that would air on TV. 
 
@@ -421,7 +421,7 @@ In summary, Pentagram's core shared values that enabled innovation were bold amb
 
 - The rules were clear that feature films like Up took priority over shorts like Cars Toons for resources. The issue was that most groups didn't know about the conflict yet.
 
- Here is a summary of the key points:
+ 
 
 - There was a conflict over computer rendering resources between the production of Pixar's feature film Up and the Cars Toons shorts. 
 
@@ -437,7 +437,7 @@ In summary, Pentagram's core shared values that enabled innovation were bold amb
 
 - The situation forced difficult tradeoffs and tensions between production teams, but Brandeau aimed to handle it in a way that maintained trust and a sense of shared purpose.
 
- Here is a summary of the key points:
+ 
 
 - Pixar was working on two major projects - the feature film Up and the Cars Toons short films. Both needed to render a huge number of frames before their deadlines. 
 
@@ -481,7 +481,7 @@ In summary, Pentagram's core shared values that enabled innovation were bold amb
 
 - Leaders play a key role in creative abrasion. They must remind the group of its shared values and purpose when dysfunctional conflict arises. They need to establish ground rules so debate remains constructive. And they must highlight how diversity contributes to innovation.
 
- Here is a summary of the key points:
+ 
 
 - eBay Germany became one of eBay's most successful sites under Philipp Justus' leadership. When visiting, Meg Whitman challenged them to find new ways to drive growth. 
 
@@ -509,7 +509,7 @@ In summary, Pentagram's core shared values that enabled innovation were bold amb
 
 So in summary, the merger created initial growing pains as eBay Germany adjusted to being part of a large global company, which slowed their pace of innovation. By returning to small, rapid experiments, they aimed to regain their agility while operating within the eBay system.
 
- Here is a summary of the key points:
+ 
 
 - eBay Germany launched "micro-projects" - small, quick experiments to try new ideas without going through the normal corporate approval process. 
 
@@ -561,7 +561,7 @@ In summary, the eBay Germany case demonstrates how leaders can promote innovatio
 
 The key is that creative resolution requires active leadership to foster constructive debate and bring together opposing views. It takes patience, facilitation skills, and the ability to identify shared interests and common ground. Done right, it produces superior solutions.
 
- Here is a summary of the key points:
+ 
 
 - Google had rapidly growing storage needs driven by the expansion beyond search into applications like Gmail. The existing Google File System (GFS) was not well-suited for these new storage demands. 
 
@@ -577,7 +577,7 @@ The key is that creative resolution requires active leadership to foster constru
 
 - The key challenge was making an integrative decision that combined the best ideas, rather than choosing one approach at the exclusion of the other. This creative resolution capability is critical for innovation but often difficult.
 
- Here is a summary of the key points:
+ 
 
 - Bill Coughran led the infrastructure group at Google in a loose, bottom-up way to encourage innovation and autonomy. He gave engineers freedom but maintained some structure through practices like engineering reviews. 
 
@@ -591,7 +591,7 @@ The key is that creative resolution requires active leadership to foster constru
 
 - Overall, Coughran led in a way that encouraged creativity within an environment that still maintained priorities, information flow, and productive friction between teams.
 
- Here is a summary of the key points:
+ 
 
 - Bill Coughran oversaw two competing storage system teams at Google - the Big Table team building on top of the existing GFS, and the Build from Scratch team trying to rethink storage from the bottom up. 
 
@@ -669,7 +669,7 @@ In summary, leaders foster creative resolution by promoting both-and thinking, k
 
 - But it requires extraordinary leadership to foster the openness, trust and alignment needed for groups to innovate collectively across boundaries.
 
- Here is a summary of the key points:
+ 
 
 - Calit2 and the Pfizer Legal Alliance (PLA) are examples of innovation ecosystems that bring together diverse groups to collaborate. 
 
@@ -683,7 +683,7 @@ In summary, leaders foster creative resolution by promoting both-and thinking, k
 
 - Community is key - the groups need to develop a sense of shared purpose. The ecosystems depend on building trust and relationships to enable collaborative innovation.
 
- Here is a summary of the key points:
+ 
 
 - When creating an innovation ecosystem, leaders should not focus solely on legalistic governance structures and rules. These are important but not sufficient. 
 
@@ -709,7 +709,7 @@ In summary, leaders foster creative resolution by promoting both-and thinking, k
 
 - Overall, Calit2 aimed to cultivate an open, collaborative ecosystem that catalyzed connections and boundary-crossing research to invent the future. The leaders focused on creating the right environment rather than dictating the direction.
 
- Here is a summary of the key points:
+ 
 
 - The Pfizer Legal Alliance (PLA) was set up by Amy Schulman when she was Pfizer's general counsel to manage the company's legal work through a small group of preferred external law firms. 
 
@@ -723,7 +723,7 @@ In summary, leaders foster creative resolution by promoting both-and thinking, k
 
 - Inclusive leadership and governance were essential to make the PLA function as a community focused on Pfizer's needs rather than a collection of individual firms.
 
- Here is a summary of the key points:
+ 
 
 - Amy Schulman and Mark Rosenthal created the Pfizer Legal Alliance (PLA) to provide Pfizer with targeted, efficient, and strategic legal advice. 
 
@@ -783,7 +783,7 @@ The leaders balance paradoxical traits that allow them to foster innovation comm
 
 - The WDI's greatest legacy was developing a new generation of innovation leaders who are now applying those lessons across IBM.
 
- Here is a summary of the key points:
+ 
 
 - Jacqueline Novogratz founded Acumen in 2001 to invest in early-stage enterprises providing services like healthcare, water, and education to low-income communities. 
 
@@ -805,7 +805,7 @@ The leaders balance paradoxical traits that allow them to foster innovation comm
 
 Sung-joo Kim, chair and chief visionary officer of Sungjoo Group and MCM Products AG, overcame gender discrimination and patriarchal business culture in South Korea to build an innovative global luxury brand. She hired and empowered women at all levels, fostering a horizontal, communicative culture. Kim brought together diverse teams across continents, providing development opportunities for employees. Through her inclusive leadership, Kim transformed MCM into a twenty-first century luxury brand appealing to independent, global women. The case shows how empowering marginalized talent can enable innovation and illustrate
 
- Here is a summary of the key points:
+ 
 
 - Sung-joo Kim built MCM into a global luxury brand, growing revenue from $100 million to $400 million in 6 years. 
 
@@ -2995,7 +2995,7 @@ In summary, Nayar successfully transformed HCL into an innovative, employee-powe
 
 In summary, Google has built a hugely complex, proprietary infrastructure that supports its position as a leader in web search and cloud services. The technical expertise and scale of this infrastructure provide major competitive differentiation.
 
- Here is a summary of the key points:
+ 
 
 - The authors argue that organizations can only succeed by rising above their current capabilities. 
 

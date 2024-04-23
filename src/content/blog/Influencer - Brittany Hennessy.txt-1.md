@@ -348,7 +348,7 @@ The key takeaways are know your worth, don’t be afraid to negotiate, and don�
 
 - Teni is somewhat private and selective in sharing personal details on social media, unlike some other influencers. She prefers to focus on her professional life and the content her followers expect.
 
- Here is a summary of the key points:
+ 
 
 • Read over the entire contract thoroughly before signing. Don’t skim or blindly trust your agent or lawyer has reviewed it properly. 
 

@@ -43,7 +43,7 @@ However, non-communicable diseases like cancer, heart disease and stroke became 
 
 Definitions of death have changed from focuses on breathing and heartbeat to brain death. A functioning brainstem is now seen as necessary to support life. New medical technologies may help defeat more causes of death in the future. In summary, causes of death have changed largely due to advances in sanitation, medicine and lifestyles.
 
- Here is a summary of the key points:
+ 
 
 - In 1592, the plague returned to London, killing an estimated 17,000 people including some of Shakespeare's family members. This highlighted the need to track mortality rates. 
 
@@ -343,7 +343,7 @@ In 1843, Oliver Wendell Holmes published evidence that doctors were transmitting
 
 So in summary, Malthus was generally correct that populations in pre-modern times were vulnerable to food shortages caused by weather or natural disasters, which often led to widespread famine and population declines until resources recovered. Records support cyclical periods of famine linked to maximized local populations.
 
- Here is a summary of the key points:
+ 
 
 - The fairy tale Hansel and Gretel depicts the horrors of famine, including child abandonment, poverty, slavery, cannibalism, and murder. It may have originated during a famine in Germany in 1315.
 
@@ -431,7 +431,7 @@ So in summary, while calorie intake increased food security, the new science beg
 
 - Many common deficiencies like vitamin A, iron, iodine and zinc persist globally and especially impact children and pregnant women. However, fortifying foods can easily treat and prevent these deficiencies.
 
- Here is a summary of the key points:
+ 
 
 - Obesity rates have increased significantly worldwide over the past few decades due to changes like reduced physical activity at work and increased availability of highly processed foods. 
 
@@ -645,7 +645,7 @@ So in summary, the Aztec state had an extremely violent and warlike culture cent
 
 - Russia has high rates of alcoholism due to a history of state-sponsored alcohol promotion for tax revenue and the widespread childhood trauma of wars and famine in the 20th century, leaving many vulnerable to addiction.
 
- Here is a summary of the key points:
+ 
 
 - The discovery of the Americas by Christopher Columbus in 1492 had massive consequences for both continents. It initiated exchanges of plants, animals, diseases, people and more between Europe, Africa and the Americas, profoundly changing politics, religion, health and many other aspects of society. 
 
@@ -695,7 +695,7 @@ The tobacco industry has long sought to develop a "safe cigarette," focusing res
 
 The passage discusses Ralph Nader's book "Unsafe at Any Speed" which declared war on General Motors and brought attention to auto safety issues. Nader detailed many dangerous design flaws in cars that manufacturers were aware of but did not address, prioritizing style over safety. This included reflective and obscured lights, inconsistent gear patterns between cars, and poor quality control leading to defects. Nader's book was initially difficult to publish but gained attention for its shocking claims. It helped spark increased federal regulation of auto safety standards to dramatically reduce traffic fatalities over the following decades.
 
- Here is a summary of the key points:
+ 
 
 - Ralph Nader's 1965 book Unsafe at Any Speed criticized the auto industry for prioritizing profits over safety. It highlighted many unsafe design features like pointy ornamentation and lack of seatbelts that caused injuries and deaths. 
 
@@ -733,7 +733,7 @@ The passage discusses Ralph Nader's book "Unsafe at Any Speed" which declared wa
 
 - Lind's work helped establish the concept of the controlled clinical trial to test medical treatments and played a key role in combating scurvy through the provision of lemon juice to sailors.
 
- Here is a summary of the key points:
+ 
 
 - Disease, cancer and hypertension were mentioned as common health issues. Two specific genes were highlighted - APOE and FOXO3. Variations in APOE are known to influence Alzheimer's disease risk, while FOXO3 regulates many cellular processes important for healthspan. 
 
@@ -863,7 +863,7 @@ The passage discusses Ralph Nader's influential 1965 book "Unsafe at Any Speed" 
 
 - Car crashes remain a leading cause of death globally according to WHO statistics, emphasizing the ongoing need for policies and technologies to reduce traffic fatalities.
 
- Here is a summary of the key points:
+ 
 
 - Charles Dickens, diet, obesity, diphtheria, distillation, DNA sequencing, dogs, Richard Doll, dopamine, Down syndrome, drink-driving, drought, drug use, Duchenne muscular dystrophy, Duffy-negative gene, James Buchanan Duke, William Duncan, Dutch East India Company, Dutch Hunger Winter, Bob Dylan, dysentery, Pedro Ebeya, Ebola, Edward I of England, Edward II of England, Edward VII of England, Edward syndrome, Francis Egerton, Paul Ehrlich, Eiffel Tower, Eighty Years War, Christiaan Eijkman, Eleanor of Castile, elephantiasis, Elizabeth I of England, Elizabeth II of England, emphysema, English Civil War, ancient epidemics, epilepsy, Giles Everard, Flower Wars, football, forceps, Henry Ford, Four Horsemen of the Apocalypse, FOXO3 gene, Frälsegården, Frederick III of Germany, French Revolution 
 

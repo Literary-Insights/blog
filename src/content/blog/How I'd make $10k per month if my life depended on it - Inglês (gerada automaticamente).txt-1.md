@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points:
+ 
 
 - The speaker describes 3 tiers of opportunities to make $10,000 per month:
    1) Selling painkiller solutions through cold outreach like email and calling. Target advertisers. Aim for 2 clients per week.

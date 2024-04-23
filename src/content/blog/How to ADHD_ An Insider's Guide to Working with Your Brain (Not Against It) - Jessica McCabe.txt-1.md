@@ -39,7 +39,7 @@ The author shares that they have embraced describing themselves as having a "dis
 
 Their mother modeled making space for differences and allowing all voices to be heard. She encouraged curious people to openly ask questions about her disability in order to normalize differences and combat stigma. The author takes the same approach in their work to allow for language evolution through respectful conversation.
 
- Here is a summary of the key points:
+ 
 
 - When interacting with someone with a disability, it's best to ask them directly about their preferences and needs rather than make assumptions. Everyone is different.
 
@@ -117,7 +117,7 @@ When starting their YouTube channel while working full-time, they faced many obs
 
 - Curbing distractions and boosting engagement with the target task helps focus. Strategies include cues, pre-planning tasks, using distraction alongside work, setting timers, and managing stimulation levels. Medication can also help manage attention but additional tools are often needed.
 
- Here is a summary of the key points:
+ 
 
 - Find a balance between stimulation and focus. Adding low stimulation like instrumental music during high focus tasks and vice versa helps fill the 'empty space' in the brain to hit 100% focus without room for straying. 
 
@@ -277,7 +277,7 @@ The prompt instructs someone to sum up the task of hanging up a whole clothing p
 
 So in summary, the chapter provides advice on self-motivation techniques that are sensitive to the fluctuating interests and challenges of ADHD. It emphasizes encouragement over criticism and flexibility over rigid expectations.
 
- Here is a summary of the key points:
+ 
 
 - People with ADHD often struggle with forgetfulness and remembering things. This can be caused by weaknesses in working memory and issues with encoding information into long-term memory. 
 
@@ -329,7 +329,7 @@ The author uses the metaphor of being underwater to describe their experiences w
 
 - While some emotion regulation strategies like situation selection can be helpful, relying too much on avoidance and suppression is problematic. The author recommends learning to accept and cope with emotions through skills like cognitive reappraisal. Understanding the neuroscience behind emotion dysregulation can help manage its impact.
 
- Here is a summary of the key points from the provided text:
+ 
 
 - People with ADHD commonly use cognitive avoidance as a coping mechanism to escape distressing emotions, thoughts, and mental states. However, chronically avoiding emotions can be problematic and have negative consequences. 
 
@@ -457,7 +457,7 @@ The summary highlights some common comorbidities and healthcare challenges that 
 
 - Learning about all relevant diagnoses and conditions is important to understand the full picture and find the most effective strategies. But access to care and diagnoses can be limited by socioeconomic and other barriers.
 
- Here is a summary of the key points:
+ 
 
 - Getting an accurate diagnosis can be difficult as the symptoms of conditions like ADHD, depression, autism, and OCD can overlap. It's important to see a provider with expertise in the conditions you suspect. 
 
@@ -549,7 +549,7 @@ The post discusses strategies for supporting loved ones with ADHD and maintainin
 
 - While progress remains uneven, looking for positive examples of what's possible with acceptance can help realize further change. The stages of accepting ADHD in others are also discussed.
 
- Here is a summary of the key points:
+ 
 
 - People with ADHD have the potential to change the world, but often struggle with organization and follow-through due to their ADHD traits. 
 
@@ -561,7 +561,7 @@ The post discusses strategies for supporting loved ones with ADHD and maintainin
 
 - Some strategies for effectively working to change the world while having ADHD include finding fuel through inspirational files, being the advocate one wishes they had, ideating possible solutions, and conserving energy by focusing on areas of most influence. Crowdsourcing ideas from others in similar situations can also help. It's a marathon, not a sprint.
 
- Here is a summary of the key points:
+ 
 
 - F community and connection can break away stigmas and redefine what were once considered cultural norms. By bringing people together in support groups and communities, neurodivergents can help each other understand themselves better and reduce feelings of isolation. This connection and representation can help change perceptions.
 
@@ -639,7 +639,7 @@ Other considerations:
 
 So in summary, it outlines there can be advantages in terms of good outcomes, but also does not rule out potential downsides or mixed feelings, leaving it up to the individual to consider based on their goals and situation. It encourages the reader to weigh factors and make the choice that feels right for them.
 
- Here is a summary of the key points:
+ 
 
 - Ties with different cognitive demands refers to tasks or activities that place varying levels of demands on our cognitive abilities like working memory, time management, focus, etc. 
 
@@ -653,7 +653,7 @@ So in summary, it outlines there can be advantages in terms of good outcomes, bu
 
 So in summary, the key idea is that different activities and tasks tie into or place varying levels of demands on different cognitive abilities, like working memory and time perception, which can impact one's ability to perform those tasks depending on their cognitive strengths and weaknesses.
 
- Here is a summary of the key points:
+ 
 
 - The author acknowledges their partner and future child's father, Dr. Raffael Boccamazzo, for teaching them about love and relationships. 
 

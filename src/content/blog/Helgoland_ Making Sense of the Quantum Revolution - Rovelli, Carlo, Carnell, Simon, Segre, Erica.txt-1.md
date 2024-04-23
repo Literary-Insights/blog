@@ -141,7 +141,7 @@ So in summary, it discusses the key mystery of how observation seems to make par
 
 So in summary, the author argues for a relational interpretation of quantum theory where it describes interactions and mutual manifestations between all physical systems, rather than observations by a specific observer.
 
- Here is a summary of the key points:
+ 
 
 - Bohr's original observation that the properties of an atomic system only emerge through its interaction with measuring equipment can be generalized to all objects in the universe. Properties only manifest through interactions with other things. 
 
@@ -169,7 +169,7 @@ So in summary, the author argues for a relational interpretation of quantum theo
 
 - At the moment of measurement, everything remains in quantum superposition relative to the other location. Facts are relative to the observer. Correlated properties between objects only become real when a third object interacts with both to observe the correlation. Reality is relational and perspective-dependent.
 
- Here is a summary of the key points:
+ 
 
 - Entanglement is not just a phenomenon between two objects/systems, but involves a third system as well. 
 
@@ -307,7 +307,7 @@ However, the author argues that quantum physics changes the framework. If the wo
 
 The author claims asking what consciousness is after explaining neural processes is meaningless, like asking what a storm is after understanding its physics. The commonly held conceptions of an independent "I" and of "matter" are metaphysical errors that contribute to confusion around these questions. A better approach is to think in terms of processes, events and relations, not substances, and see both mental and physical as part of the natural web of information in the world.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses quantum theory and its implications for how we understand reality. It notes that quantum theory changes the terms of problems like the mind-body problem. 
 

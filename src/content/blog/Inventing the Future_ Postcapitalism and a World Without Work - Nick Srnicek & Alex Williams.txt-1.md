@@ -253,7 +253,7 @@ It is also argued that universals must incorporate rather than erase differences
 
 - A modern left would offer visions of a better future through expanded conceptions of humanity, universal emancipation and mobilizing advanced technologies for emancipatory goals negotiated globally from diverse voices. It would require transcending the current system of capitalism and wage labor.
 
- Here is a summary of the key points:
+ 
 
 - The article argues for exploring a future post-work world where people are no longer bound to wage labor jobs but free to create their own lives. It draws on thinkers who have rejected the centrality of work and sought to liberate people from dependence on jobs. 
 
@@ -445,7 +445,7 @@ The overall approach emphasizes building new power structures and ideological fr
 
 - One challenge is how neoliberalism has limited collective imaginations of alternative futures. The article discusses how both Soviet Russia and early 20th century U.S. saw more vibrant cultures of utopian thinking and ambitious plans for social change, versus today's more pessimistic and constrained visions under capitalist realism.
 
- Here is a summary of the key points:
+ 
 
 - In the 1990s, radical feminist and queer manifestos calling for a new society were reduced to more moderate identity politics. By the 2000s, discussions focused on milder demands like same-sex marriage and gender equality in business leadership. 
 
@@ -567,7 +567,7 @@ As mass unemployment grows, disruptive tactics may need to shift away from workp
 
 - The risks of such a project must be acknowledged, but the risks of inaction are greater. A precautionary approach seeking to eliminate all risk would close off possibilities for building a better future. Balancing risks is important but not at the cost of necessary social transformation.
 
- Here is a summary of the key points:
+ 
 
 - The goal of post-capitalism and a post-work society is universal emancipation and overcoming constraints on human development. This includes constraints like death, work, scarcity, etc. 
 
@@ -669,7 +669,7 @@ In summary, the article argues for a more globally inclusive theory of capitalis
 
 - The impacts of automation on work are still uncertain and depend on how technologies develop, how businesses adapt, and how policymakers respond. Its effects could be mitigated through retraining programs, basic income policies, and reforms to promote new job growth.
 
- Here is a summary of the key points:
+ 
 
 - There is a trend for precarity and insecure work to grow in size and importance in both developed and developing economies. Precarious work has become more prevalent as the traditional model of full-time, long-term employment recedes.
 

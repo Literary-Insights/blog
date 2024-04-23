@@ -11,7 +11,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 ---
 
 
- Here is a summary of the key points:
+ 
 
 - Ashley Flores is a footballer in the Philippines who also works as a "tagger" for a German data analysis company called Impect. 
 
@@ -25,7 +25,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - New taggers are trained by analyzing Germany's 7-1 World Cup semi-final win over Brazil in 2014, which demonstrated the value of Impect's advanced data over normal stats.
 
- Here is a summary of the key points:
+ 
 
 - Impect is a German company that specializes in analyzing football data. It employs over 100 "taggers" in the Philippines who watch footage of matches and tag various metrics like number of defenders, ball pressure, etc. 
 
@@ -53,7 +53,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - The speed of football's data transformation has been remarkable. In 25 years it's gone from skepticism to having a thriving analytics industry. This book charts that unspoken revolution.
 
- Here is a summary of the key points:
+ 
 
 - Ram Mylvaganam did not originally intend to revolutionize football when he started his company Prozone. He was simply trying to sell high-end massage chairs. 
 
@@ -69,7 +69,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - Ram Mylvaganam and Prozone kicked this off simply from trying to demonstrate massage chairs. Mylvaganam did not set out to revolutionize football, but that's exactly what he ended up doing through the creation of Prozone.
 
- Here is a summary of the key points:
+ 
 
 - Mylvaganam, a Sri Lankan businessman with little interest in football, came up with the idea for a company called ProZone after noticing the inefficiencies in how coaches like Steve McClaren analyzed video footage. ProZone aimed to provide tailored video analysis to coaches. 
 
@@ -79,7 +79,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - Mylvaganam's outsider perspective allowed him to identify an opportunity in football analytics that those embedded in the game's traditions may have missed. Though not wholly new, he brought a business acumen to adapt an old idea to the modern game.
 
- Here is a summary of the key points:
+ 
 
 - Charles Reep was an accountant who pioneered the use of data and analytics in football in the 1950s. He collected data on goals scored and passing sequences, finding that most goals came from moves of 3 passes or fewer. 
 
@@ -93,7 +93,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - Reep and analytics were unfairly tarnished by association with Hughes' flawed application of them. It set back the acceptance of data analysis in English football for decades.
 
- Here is a summary of the key points:
+ 
 
 - Valeriy Lobanovskyi, a Ukrainian football manager, was an early pioneer in using data and statistics to improve his teams' performance. He focused on metrics like sprints completed, shots taken, and pressing. 
 
@@ -105,7 +105,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - When Duncan Alexander joined Opta in 2000, they were still using rudimentary methods like annotating videos and overnight computer processing. But the company was growing rapidly along with public demand for more detailed soccer data.
 
- Here is a summary of the key points:
+ 
 
 - Opta Sports pioneered detailed football statistics and made them widely available to media for free, seeing it as a publicity exercise. This led to a surge in data-driven sports reporting. 
 
@@ -129,7 +129,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - The shift from analog to digital technology allowed more powerful use of ProZone data and accelerated its adoption in football clubs. The data moved from just physical metrics to more tactical and technical analysis.
 
- Here is a summary of the key points:
+ 
 
 - Jaap Stam's autobiography revealed several dressing room secrets at Manchester United, including unflattering nicknames for Gary and Phil Neville used by teammates. This likely contributed to Alex Ferguson selling Stam soon after.
 
@@ -141,7 +141,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - Allardyce also used analytics to identify transfer targets like Gary Speed who appeared risky on the surface but data showed were still performing at a high level.
 
- Here is a summary of the key points:
+ 
 
 - Chris Anderson was a respected Ivy League political scientist who suddenly became obsessed with soccer. His wife and kids found it amusing that he was blogging about soccer statistics instead of his usual intellectual pursuits. 
 
@@ -151,7 +151,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - There seemed no reason for his wife to see Anderson's hobby as anything more than a benign midlife crisis. But his soccer obsession would lead Anderson down an unexpected path that would transform soccer analytics.
 
- Here is a summary of the key points:
+ 
 
 - Chris Anderson was an academic who became interested in football data after reading the book Moneyball about data analytics in baseball. He started researching football data but found very little academic literature on it. 
 
@@ -161,7 +161,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - Anderson, a Cornell professor with no sports business experience, was there as an academic outsider curious to learn more. The conference exposed him to the growing field of sports analytics and started him on a path that would lead him to give up academia to pursue a career revolutionizing football analytics.
 
- Here is a summary of the key points:
+ 
 
 - Companies like Opta and ProZone had performance data that football enthusiasts wanted, but were hesitant to give it away for free. 
 
@@ -175,7 +175,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - Their meeting highlighted the gap between football's traditional evaluation methods and the potential of analytics, presenting an opportunity for those interested in merging the two approaches.
 
- Here is a summary of the key points:
+ 
 
 - Chris Anderson was an Ivy League professor who started a football blog as a hobby. Through it, he made connections in the football world, including being invited to visit Fulham's training ground by tactical analyst James McLachlan. 
 
@@ -197,7 +197,7 @@ Anderson decided to pursue his football data analytics dream by leaving his acad
 
 Meanwhile, Henry Stott, a statistician with no interest in football, created a simple statistical model to predict World Cup results for an office pool. Though basic, it correctly predicted Senegal's upset of France in the 2002 tournament. A radio producer heard about Stott's success and had him appear on a show as a novelty guest predictor.
 
- Here is a summary of the key points:
+ 
 
 - Billy Beane, general manager of the Oakland A's baseball team, was intrigued by the frenzied media coverage of Premier League football while on vacation in London in 2003. He saw parallels between baseball and football in terms of inefficiency and opportunity. 
 
@@ -221,7 +221,7 @@ Meanwhile, Henry Stott, a statistician with no interest in football, created a s
 
 - Comolli had used data services like ProZone and Opta in his previous roles. Appointed as Tottenham's first technical director in 2005, he wanted to use data analytics to help the club compete with richer rivals on a budget.
 
- Here is a summary of the key points:
+ 
 
 - Damien Comolli became director of football at Tottenham Hotspur in 2005. He wanted to understand how the top teams in the Premier League won games in order to help Spurs compete. 
 
@@ -235,7 +235,7 @@ Meanwhile, Henry Stott, a statistician with no interest in football, created a s
 
 - Comolli used the data and models from Decision Technology and Opta to guide recruitment and strategy at Spurs as they aimed to break into the top four teams in the Premier League.
 
- Here is a summary of the key points:
+ 
 
 - Damien Comolli brought data analytics company Decision Technology to Tottenham in 2007. They provided advanced data and models to help with player recruitment and retention. This was pioneering work at the time. 
 
@@ -249,7 +249,7 @@ Meanwhile, Henry Stott, a statistician with no interest in football, created a s
 
 - Though Comolli's Spurs spell was seen as a failure at the time, Decision Technology believes their decade with the club aligns precisely with its rise into the elite. Comolli helped set Spurs on course to become top 6 challengers and eventual UCL finalists.
 
- Here is a summary of the key points:
+ 
 
 - Stott and Comolli believe the work of Decision Technology helped transform Tottenham into a top 4 club despite limited finances, but this revolution went largely unnoticed. 
 
@@ -263,7 +263,7 @@ Meanwhile, Henry Stott, a statistician with no interest in football, created a s
 
 - Timing and cultural acceptance are as key as the substance of the ideas. Football still needed its 'Moneyball' moment of complete buy-in to analytics.
 
- Here is a summary of the key points:
+ 
 
 - Chris Anderson and David Sally, two Ivy League professors with ideas for using data analytics to revolutionize football, pitched their concept to a roomful of wealthy potential investors arranged by David Blitzer. 
 
@@ -277,7 +277,7 @@ Meanwhile, Henry Stott, a statistician with no interest in football, created a s
 
 - English football was amidst a decade of takeovers by foreign billionaires, started by Roman Abramovich buying Chelsea in 2003. Anderson aimed to ride this wave of new owners open to new ideas.
 
- Here is a summary of the key points:
+ 
 
 - In the 2000s, there was a gold rush of foreign investors buying up English football clubs, attracted by huge TV revenues and the Premier League's openness to overseas owners. clubs like Liverpool, Manchester United, and Manchester City were bought by American, Russian, and Middle Eastern owners.
 
@@ -287,7 +287,7 @@ Meanwhile, Henry Stott, a statistician with no interest in football, created a s
 
 - The presentation seemed to go well, though Anderson still had doubts about the legitimacy of it all. In the end, Prince Abdullah did go on to buy Sheffield United, showing it was real after all. But Anderson found the experience disorienting, filled with uncertainty and chaos as he tried to navigate this shadowy football investment world.
 
- Here is a summary of the key points:
+ 
 
 - Anderson and Sally posed as tourists to get access to various football clubs in England, including Sheffield United, Aston Villa, and Everton. They wanted to research potential investment opportunities by seeing the stadiums and facilities first-hand. 
 
@@ -299,7 +299,7 @@ Meanwhile, Henry Stott, a statistician with no interest in football, created a s
 
 - They were doing this research to identify a specific club they could recommend buying when they found investors. They wanted to provide a concrete proposal, not just a hypothetical plan. Their aim was to eventually help a club into the lucrative Premier League.
 
- Here is a summary of the key points:
+ 
 
 - Anderson and Sally identified Charlton Athletic as an ideal club to purchase and transform using data and analytics. Charlton had fallen from the Premier League but had a good stadium and was located in an attractive area of London. 
 
@@ -315,7 +315,7 @@ Meanwhile, Henry Stott, a statistician with no interest in football, created a s
 
 In summary, Anderson and Sally pitched the investors on using data analytics to transform Charlton Athletic into a Premier League club that could then be sold for a significant profit within 7 years. Their presentation faced many challenges but focused on the financial rewards of revolutionizing decision-making in football.
 
- Here is a summary of the key points:
+ 
 
 - On a flight back from Arsenal's preseason tour, Hendrik Almstadt pitched to Arsene Wenger the idea of acquiring StatDNA, a data analytics company, to help improve the club's player recruitment. He pointed out poor past signings like Chamakh and Park Chu-Young as examples of mistakes analytics could help avoid. 
 
@@ -327,7 +327,7 @@ In summary, Anderson and Sally pitched the investors on using data analytics to 
 
 - Rudd shared her findings with the Arsenal analytics team, helping demonstrate the potential value of passionate fans with technical expertise working with data to provide novel insights clubs may lack internally.
 
- Here is a summary of the key points:
+ 
 
 - Lucy Ward Rudd worked at Microsoft improving search engine relevance using big data techniques. She was interested in applying these techniques to football analytics but was told there was not enough data available. 
 
@@ -341,7 +341,7 @@ In summary, Anderson and Sally pitched the investors on using data analytics to 
 
 - The key points are the origins of Rudd's and Rosenfeld's interest in football analytics, Rudd collecting data herself to prove feasibility, and Rosenfeld founding StatDNA using an outsourcing model to provide very detailed data cost-effectively.
 
- Here is a summary of the key points:
+ 
 
 - StatDNA was a sports analytics company that provided detailed data and analysis to teams and clubs. They offered time-stamped event data that allowed insights into things like how much pressure was on the ball during a cross. 
 
@@ -353,7 +353,7 @@ In summary, Anderson and Sally pitched the investors on using data analytics to 
 
 - Gazidis, with his American sports background, was open to analytics. Arsenal were behind clubs like Chelsea and Manchester City in adopting data analysis, but few clubs were openly discussing it at the time.
 
- Here are the key points:
+ 
 
 - Almstadt was actively opposed to analytics at first, but came around after seeing baseball and basketball teams use data successfully. 
 
@@ -367,7 +367,7 @@ In summary, Anderson and Sally pitched the investors on using data analytics to 
 
 - Reactions were mixed - some staff were receptive, but Almstadt found resistance from some of Wenger's technical team. Overall, StatDNA's data became deeply integrated into Arsenal's processes.
 
- Here is a summary of the key points:
+ 
 
 - Jaeson Rosenfeld's analytics company StatDNA was acquired by Arsenal in 2012 to help modernize their player recruitment and analysis. 
 
@@ -383,7 +383,7 @@ In summary, Anderson and Sally pitched the investors on using data analytics to 
 
 In summary, Arsenal made an early investment in advanced analytics via StatDNA, but struggled to implement the insights fully due to internal resistance and the club's overall direction. The promise of the data revolution went largely unfulfilled.
 
- Here is a summary of the key points:
+ 
 
 - David Sally and Chris Anderson, two academics interested in using data analytics to revolutionize soccer, met with Keith Harris, a prominent British banker and soccer financier, to discuss buying a soccer club to test out their theories. 
 
@@ -395,7 +395,7 @@ In summary, Arsenal made an early investment in advanced analytics via StatDNA, 
 
 - Getting Harris on board gave Sally and Anderson more credibility and opened doors, as he was a "central node" in soccer finance networks. Though data analytics was new to soccer, Harris's involvement gave their ambitions more feasibility.
 
- Here is a summary of the key points:
+ 
 
 - Anderson and Sally had an idea to use data analytics to buy and run a football club, but needed financing and expertise to make it happen. 
 
@@ -409,7 +409,7 @@ In summary, Arsenal made an early investment in advanced analytics via StatDNA, 
 
 - Despite Harris' warnings about the challenges outsiders face, Anderson and Sally persevered in trying to find financing and a club to purchase.
 
- Here is a summary of the key points:
+ 
 
 - Anderson and Sally were part of a group trying to buy a football club to run an experiment using data analytics. They targeted Charlton Athletic but found the process complex and opaque, with uncertainty over who really owned the club. After months of cautious negotiations they seemed close to a deal but it ultimately collapsed due to a "cultural misunderstanding". 
 
@@ -419,7 +419,7 @@ In summary, Arsenal made an early investment in advanced analytics via StatDNA, 
 
 - Anderson and Sally were left frustrated, feeling data analytics could transform clubs' performance. But the world of football was complex and chaotic, with secretive negotiations and cultural misunderstandings hampering their efforts to buy a club.
 
- Here is a summary of the key points:
+ 
 
 - Randy Lerner had been a popular owner at Aston Villa, spending heavily on transfers between 2006-2010. But Villa consistently finished 6th, just missing out on Champions League qualification, frustrating Lerner.
 
@@ -433,7 +433,7 @@ In summary, Arsenal made an early investment in advanced analytics via StatDNA, 
 
 - With no deal in sight, Anderson quit his university job to focus on the search. But as more deals collapsed, doubts crept in about whether his dream would ever materialize.
 
- Here is a summary of the key points:
+ 
 
 - Expected Goals (xG) appeared fleetingly on Match of the Day, representing a watershed moment in the mainstream acceptance of advanced analytics in football coverage. 
 
@@ -445,7 +445,7 @@ In summary, Arsenal made an early investment in advanced analytics via StatDNA, 
 
 - The best approach was introducing xG subtly without much fanfare to allow it to establish itself over time. Match of the Day presenting it matter-of-factly represented a major milestone for analytics penetrating the mainstream.
 
- Here is a summary of the key points:
+ 
 
 - Match of the Day began including Expected Goals (xG) metrics in its analysis of Premier League matches in the 2017 season. This represented a breakthrough for analytics into the mainstream football coverage. 
 
@@ -461,7 +461,7 @@ In summary, Arsenal made an early investment in advanced analytics via StatDNA, 
 
 - The simplicity of xG made it intuitively appealing and helped it gain traction after years of analytics being dismissed in football. Seeing it on Match of the Day signaled it breaking into the mainstream.
 
- Here are the key points:
+ 
 
 - Sam Green at Opta developed the concept of Expected Goals (xG), a way to measure the quality of chances in football. xG assigns a value between 0 and 1 to chances based on how likely they are to be scored. 
 
@@ -473,7 +473,7 @@ In summary, Arsenal made an early investment in advanced analytics via StatDNA, 
 
 - Releasing the data allowed amateurs and academics to access it, accelerating football analytics and leading to new innovations like expected goals.
 
- Here are the key points:
+ 
 
 - Manchester City's release of its data in 2012 was a 'course-changing move' that allowed the analytics community to demonstrate what could be done with football data. It sparked interest across the sport in analytics.
 
@@ -487,7 +487,7 @@ In summary, Arsenal made an early investment in advanced analytics via StatDNA, 
 
 - The growth of analytics across Europe's major leagues showed the transformative impact of Manchester City's data release, bringing the 'Moneyball' approach to football and sparking a new era in the sport.
 
- Here are the key points:
+ 
 
 - Christian Quentmeier was working at Opta before being recruited by RB Leipzig to build their data analysis system from scratch. Ralf Rangnick and others at Leipzig were impressed with his work and saw him as a pioneering data scout.
 
@@ -501,7 +501,7 @@ In summary, Arsenal made an early investment in advanced analytics via StatDNA, 
 
 - Both Green and Almstadt left Villa within about a year, showing the challenges data analysts faced gaining acceptance and authority at clubs in those early Premier League days.
 
- Here is a summary of the key points:
+ 
 
 - Chris Anderson became chief executive of Coventry City with big ideas but little experience actually running a football club or business. The cramped quarters of the club's modest training ground confronted him with the vivid realities of running a real football club. 
 
@@ -515,7 +515,7 @@ In summary, Arsenal made an early investment in advanced analytics via StatDNA, 
 
 The summary highlights Anderson's transition from theorist to football club chief executive, and the eye-opening experience of moving from conceptual ideas to hands-on management. It emphasizes how he was confronted with the vivid realities and demands of running a real club, and would need to rapidly learn and adapt while trying to implement transformational changes.
 
- Here is a summary of the key points:
+ 
 
 - Mark Anderson started as CEO of Coventry City Football Club with limited funds available from the owners SISU. Many staff came to him requesting small amounts of money for supplies, but he had no discretionary budget. 
 
@@ -537,7 +537,7 @@ Selling players like James Maddison was also driven by financial necessity rathe
 
 At the club's first Christmas party in years that Anderson paid for, he felt part of something but knew the feeling wouldn't last. Despite limited time and resources, he still pursued his goal of incorporating data into the club's decisions, viewing it as a way to improve regardless of the level. The opposition was not as entrenched as he expected; the challenge was fitting it into their constrained reality. Though not cutting edge, Anderson tried to subtly help Coventry get the most out of its resources by making data part of existing processes.
 
- Here is a summary of the key points:
+ 
 
 - Anderson realized that empirical truths from data analytics posed a threat to the power of football's traditional "hereditary in-group" which passed down ideas from generation to generation. Data democratized knowledge and threatened their "protected knowledge." 
 
@@ -551,7 +551,7 @@ At the club's first Christmas party in years that Anderson paid for, he felt par
 
 - Though unable to transform Coventry, Anderson's time there taught him football is not just a numbers game but also about emotion, communication and interface between data and people.
 
- Here is a summary of the key points:
+ 
 
 - John W. Henry bought Liverpool FC in 2010 after a court battle with the previous owners. As a new owner unfamiliar with football, he wanted to transform Liverpool into a data-driven club like he had done with the Boston Red Sox baseball team. 
 
@@ -565,7 +565,7 @@ At the club's first Christmas party in years that Anderson paid for, he felt par
 
 - The move showed Henry's commitment to using data and analytics at Liverpool, following the successful model he had implemented with the Red Sox baseball team.
 
- Here is a summary of the key points:
+ 
 
 - John Henry, owner of the Boston Red Sox, bought Liverpool FC in 2010 and wanted to apply "Moneyball" principles of using data analytics to gain an edge. 
 
@@ -579,7 +579,7 @@ At the club's first Christmas party in years that Anderson paid for, he felt par
 
 - Midtjylland shares an owner with Brentford, another data-driven club. The use of analytics by clubs like these can be traced to owners who believe in the power of data.
 
- Here is a summary of the key points:
+ 
 
 - Benham and Bloom built successful gambling consultancies, SmartOdds and Starlizard, by using data analysis to find inefficiencies in the football betting market. Their firms assess many factors to generate probabilities and advise high-rolling clients on where odds are mispriced. 
 
@@ -593,7 +593,7 @@ At the club's first Christmas party in years that Anderson paid for, he felt par
 
 - At Midtjylland, Ankersen sees a "laboratory" to test ideas to play more efficiently, meaning effectively rather than negatively. As with Moneyball, data helps rethink tactics and strategy.
 
- Here is a summary of the key points:
+ 
 
 - Rasmus Ankersen, co-owner of Danish club FC Midtjylland, was determined to make football more analytical and data-driven. Midtjylland focused on improving set pieces, realizing they accounted for many goals. They designed a detailed set-piece playbook and became the most effective set-piece team in Europe. 
 
@@ -605,7 +605,7 @@ At the club's first Christmas party in years that Anderson paid for, he felt par
 
 - Behind the scenes, Liverpool was transforming into a data-centric club under Edwards. But initially there was no clear strategy, just a loose commitment to using data. For analytics to take hold, Liverpool needed a defined vision and firm implementation.
 
- Here is a summary of the key points:
+ 
 
 - When Fenway Sports Group took over Liverpool in 2010, they hired Damien Comolli to overhaul the club's approach to player recruitment and analytics. But after mixed results, Comolli was fired in 2012. 
 
@@ -617,7 +617,7 @@ At the club's first Christmas party in years that Anderson paid for, he felt par
 
 - They compromised by signing both, but the truce didn't last. Rodgers barely played Firmino while the team struggled. Rodgers was fired in 2015, leaving FSG at a crossroads over whether to persist with analytics or change course.
 
- Here is a summary of the key points:
+ 
 
 - After Brendan Rodgers was fired as Liverpool manager in 2015, the club's owners realized the problem was not their transfer committee model but rather that Rodgers had not fully bought into it. They resolved that the next manager must be willing to work within the club's structure. 
 
@@ -629,7 +629,7 @@ At the club's first Christmas party in years that Anderson paid for, he felt par
 
 - Klopp surrounded himself with specialized staff like fitness coaches and nutritionists. He delegated to those with more expertise, rather than pretending to know everything himself. This matched Liverpool's philosophy of finding any possible edge.
 
- Here is a summary of the key points:
+ 
 
 - The book came out in 2021 and details how Liverpool FC has integrated data and analytics into their operations under manager Jurgen Klopp. 
 
@@ -639,7 +639,7 @@ At the club's first Christmas party in years that Anderson paid for, he felt par
 
 - Liverpool blends data with traditional scouting and expertise but the club's belief in analytics has been key to their recent success. Graham and the Research Department are fully embedded in Liverpool's processes but they don't publicize details to maintain a competitive advantage.
 
- Here is a summary of the key points:
+ 
 
 - There is no inherent tension between a player being expensive yet undervalued. Liverpool's record fees for Van Dijk and Alisson proved to be wise investments. The 'Moneyball' concept is not just about finding cheap players, but accurately evaluating a player's worth to a specific team. 
 
@@ -651,7 +651,7 @@ At the club's first Christmas party in years that Anderson paid for, he felt par
 
 - The rise of outsider analysts like teenager Ashwin Raman shows how clubs are now tapping into the public analytics community to find talent, valuing their skills over traditional credentials. Liverpool's success has sparked a analytics revolution across football.
 
- Here is a summary of the key points:
+ 
 
 - Raman Singh started a football analytics blog as a teenager in India, gaining attention for his insightful analysis. He was hired part-time by Scottish club Dundee United to do data analysis, helping with recruitment and scouting. After a couple of years, he took a break to focus on college. 
 
@@ -661,7 +661,7 @@ At the club's first Christmas party in years that Anderson paid for, he felt par
 
 - Data analytics is making football smarter and more global, with clubs able to identify and recruit talented analysts from anywhere. The game is opened up to bright minds who previously were locked out for not having an elite playing career. Analytics provides another lens to identify quality and value in the transfer market.
 
- Here is a summary of the key points:
+ 
 
 - Data and analytics have become increasingly prevalent in football over recent years, with the vast majority of clubs now incorporating them in some way into their player recruitment strategies. They use data platforms like Wyscout and InStat to identify potential transfer targets. 
 
@@ -673,7 +673,7 @@ At the club's first Christmas party in years that Anderson paid for, he felt par
 
 - Data does not necessarily lead to simplistic long-ball football, as evidenced by stylistically-focused possession teams like Liverpool, Brighton and Brentford being data leaders. The game is influenced by many factors beyond just data analytics.
 
- Here is a summary of the key points:
+ 
 
 - Football analytics and data usage has increased dramatically in the last 20 years, influencing how teams play, recruit, and make decisions. However, some feel progress has been slow and football still has a long way to go compared to sports like baseball. 
 
@@ -685,7 +685,7 @@ At the club's first Christmas party in years that Anderson paid for, he felt par
 
 - Better data collection by companies like StatsBomb shows promise for future progress. Demand from top clubs is growing rapidly. However, football likely still only scratched the surface of what analytics can do.
 
- Here is a summary of the key points:
+ 
 
 - Event data from games is valuable for teams to analyze player and team performance, but 'broadcast tracking' data from TV broadcasts would be even more useful. It would allow tracking of off-ball movement and provide more widespread access to spatial tracking data.
 

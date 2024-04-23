@@ -352,7 +352,7 @@ The passage suggests doing several things to recapture the sense of discovery an
 
 In summary, the key themes are cultivating serendipity and connection in everyday life, resting your mind through phasts, developing awareness and intentionality around technology use, and maintaining healthy balance.
 
- Here is a summary of the key points:
+ 
 
 1. Establish phone-free zones and times, like not using your phone for an hour before bed. This helps create healthy boundaries. 
 

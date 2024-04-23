@@ -43,7 +43,7 @@ The summary outlines Branson’s challenging early life, close-knit family, stru
 
 In summary, Richard Branson launched Student magazine as a teen, then started Virgin Records as a young entrepreneur. After overcoming challenges, mishaps, and breakups with partners, Branson’s vision, determination and ability to pivot led to the successful brand known today.
 
- Here is a summary of the key points:
+ 
 
 - Richard Branson and his friends started the first Virgin Records shop in 1971, offering discounted records in a comfortable space. The shop was very successful and shaped Virgin's brand identity.
 

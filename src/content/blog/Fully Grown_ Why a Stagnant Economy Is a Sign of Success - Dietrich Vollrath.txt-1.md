@@ -31,7 +31,7 @@ BOOK LINK:
 
 - The author ended up with an optimistic outlook - the growth slowdown is due to economic success, not failure. But failures like lack of competition and innovation are still important issues to address.
 
- Here is a summary of the key points:
+ 
 
 - Economic growth has slowed significantly since 2000, with GDP per capita growth averaging only 1% per year compared to 2.25% per year from 1950-2000. 
 
@@ -47,7 +47,7 @@ BOOK LINK:
 
 In summary, the growth slowdown is largely the result of victim's of our own past economic success, especially rising living standards and falling birth rates. This led to slower human capital growth as smaller generations entered the workforce.
 
- Here is a summary of the key points:
+ 
 
 - The economic growth slowdown since the early 2000s is largely a consequence of demographic changes and a shift from goods to services. 
 
@@ -79,7 +79,7 @@ In summary, the growth slowdown is largely the result of victim's of our own pas
 
 So in summary, growth rates declined starting in the late 1990s/early 2000s, leading to slower but still positive increases in the level of real GDP per capita. The growth slowdown refers specifically to the drop in growth rates.
 
- Here is a summary of the key points:
+ 
 
 - Real GDP per capita grew about 1.3 times as fast in 2000 compared to the average growth rate. 
 
@@ -97,7 +97,7 @@ So in summary, growth rates declined starting in the late 1990s/early 2000s, lea
 
 - Slower growth rates don't mean the US lagged behind in level of real GDP per capita.
 
- Here is a summary of the key points:
+ 
 
 - Economic growth depends on the amounts of physical and human capital (stocks of inputs). Natural resources are less important for explaining growth. 
 
@@ -109,7 +109,7 @@ So in summary, growth rates declined starting in the late 1990s/early 2000s, lea
 
 - Growth in capital inputs is a key driver of economic growth, along with technological progress which allows more output to be produced from the same capital inputs. Understanding the trends in capital stocks is crucial for explaining the slowdown in growth.
 
- Here is a summary of the key points:
+ 
 
 - Hours worked per week declined from around 40 in the 1940s to 33.7 in 2015. Combined with the rise in number of workers, this meant total input of time by workers doubled between 1940s and 2015.
 
@@ -123,7 +123,7 @@ So in summary, growth rates declined starting in the late 1990s/early 2000s, lea
 
 - Slowdown in human capital growth is part of the reason for GDP growth slowdown. But it is not the only reason.
 
- Here is a summary of the key points:
+ 
 
 - Physical capital includes things like buildings, equipment, and intellectual property that provide ongoing services for production. It does not include raw materials that get used up.
 
@@ -153,7 +153,7 @@ So in summary, growth rates declined starting in the late 1990s/early 2000s, lea
 
 In summary, the accounting exercise shows physical and human capital alone cannot fully explain the GDP growth slowdown. Residual factors must also be at play, which will be examined further in later chapters.
 
- Here are the key points:
+ 
 
 - The share of costs paid to physical capital (around 35%) and human capital (around 65%) was stable over time. This allows us to use constant elasticities of 0.35 for physical capital and 0.65 for human capital in the growth accounting. 
 
@@ -197,7 +197,7 @@ You do an excellent job explaining these points clearly and comprehensively. I a
 
 - Overall, declining fertility and rising elderly populations led to an aging society, reducing human capital per capita growth as the share of working adults declined. But this reflects successes in increased lifespans and changing family preferences.
 
- Here is a summary of the key points:
+ 
 
 - Life expectancy increased significantly from 1970-1990, meaning more people aged 70-80 were living longer. This increased the elderly population but not the working population, decreasing the ratio of workers to total population. 
 
@@ -207,7 +207,7 @@ You do an excellent job explaining these points clearly and comprehensively. I a
 
 - The growth rate of human capital per person has slowed since 2000, largely due to decreases in the growth of educational attainment, slower increases in workforce experience, and the decline in the ratio of workers to total population as the population ages.
 
- Here is a summary of the key points:
+ 
 
 - The preference for smaller families and the resulting decline in fertility rates during the 20th century was a major contributor to slower human capital growth, which in turn was a key factor behind the economic growth slowdown. 
 
@@ -221,7 +221,7 @@ You do an excellent job explaining these points clearly and comprehensively. I a
 
 - Conservative estimates suggest demographic changes from lower fertility alone accounted for 0.8 percentage points of the 1.25 point slowdown in per capita GDP growth. So it explains about two-thirds of the growth slowdown.
 
- Here is a summary of the key points:
+ 
 
 - The term "technology" is too broad and imprecise to explain changes in productivity growth. What matters is productivity growth itself, regardless of whether new technologies are involved. 
 
@@ -245,7 +245,7 @@ You do an excellent job explaining these points clearly and comprehensively. I a
 
 - No single factor definitively explains the entire slowdown. It appears to stem from multiple trends, with a shifting composition of spending and slower reallocation of resources accounting for significant portions. The exact causes are still debated.
 
- Here is a summary of the key points:
+ 
 
 - The shift from goods-producing industries like manufacturing to service-producing industries was an important factor behind the productivity growth slowdown over the past few decades. 
 
@@ -275,7 +275,7 @@ You do an excellent job explaining these points clearly and comprehensively. I a
 
 - Overall, the evidence suggests the shift from goods to services explains much of the productivity growth slowdown as service industries have intrinsically lower productivity growth rates.
 
- Here is a summary of the key points:
+ 
 
 - William Baumol's work highlighted fundamental differences between producing goods versus services. For goods, labor is just an "instrument" - the end product does not depend much on the amount of labor. But for services, labor is the essence of the product itself (e.g. a musical performance requires a certain amount of musician time). 
 
@@ -289,7 +289,7 @@ You do an excellent job explaining these points clearly and comprehensively. I a
 
 - Slower productivity growth in growing service sectors contributed to the overall productivity growth slowdown. But this shift is a natural consequence of economic success, not a sign of failure. It represents societies consuming more services as they get richer.
 
- Here is a summary of the key points:
+ 
 
 - William Baumol identified that productivity growth is faster in goods production than services. This leads to what he called the "cost disease of services" - as productivity growth lowers costs of goods relative to services, the relative price of services rises over time compared to goods.
 
@@ -301,7 +301,7 @@ You do an excellent job explaining these points clearly and comprehensively. I a
 
 - The shift to services is driven by our success at goods production and rising incomes, not a failure of the economy. We should be careful about making value judgments on this continued shift.
 
- Here is a summary of the key points:
+ 
 
 - There is evidence that the market power of firms has increased in recent decades, as seen in a rise in economic profits as a share of GDP, a fall in wages as a share of output, increased markups of prices over costs, and increased industry concentration. 
 
@@ -315,7 +315,7 @@ You do an excellent job explaining these points clearly and comprehensively. I a
 
 - So while increased market power is a failure in that it harms consumers and workers, it does not appear to be a main cause of the productivity growth slowdown. Other factors like the shift to services and lower human capital growth played bigger roles.
 
- Here is a summary of the key points:
+ 
 
 - There are two main ways to measure market power over time: by looking at economic profits as a share of output, or by calculating markups (the ratio of price to marginal cost). 
 
@@ -327,7 +327,7 @@ You do an excellent job explaining these points clearly and comprehensively. I a
 
 - Though the metrics differ in the 1950s-60s, the evidence agrees market power has risen since around 1980, based on a rise in economic profits, markups, and payouts to shareholders over this period.
 
- Here is a summary of the key points:
+ 
 
 - Gutiérrez and Philippon found that business investment in new capital fell over the past few decades, even as payments to shareholders increased. This suggests that much of the payouts to shareholders were economic profits rather than payments for capital. 
 
@@ -351,7 +351,7 @@ You do an excellent job explaining these points clearly and comprehensively. I a
 
 - The implication is that increased industry concentration and market power may be causing the investment slowdown, not expectations of weaker growth. Around 10% of the capital stock is "missing" due to lower investment compared to what the high Q ratio would predict.
 
- Here is a summary of the key points:
+ 
 
 - Market power can arise from limits on supply (e.g. consolidation leading to fewer firms) or from demand (e.g. consumers willing to pay a premium for a valued product). 
 
@@ -367,7 +367,7 @@ You do an excellent job explaining these points clearly and comprehensively. I a
 
 - Romer's insights help explain the role of market power in growth. Some degree of market power is necessary for innovation, but excessive power can impede growth. The key is finding the right balance.
 
- Here is a summary of the key points:
+ 
 
 - Paul Romer highlighted the difference between rival inputs like physical capital and nonrival inputs like ideas and technologies. Rival inputs can only be used in one place at a time, while nonrival inputs can be used simultaneously by many. 
 
@@ -407,7 +407,7 @@ Overall, while some firms likely have excessive market power, determining the op
 
 - Slower reallocation, due to less creation of high-productivity establishments and less exit of low-productivity ones, is a plausible source of the productivity slowdown. But the precise contribution is difficult to quantify.
 
- Here is a summary of the key points:
+ 
 
 - Productivity growth in retail between 1987-1997 was largely due to new, more productive retail establishments replacing old, less productive ones rather than existing establishments becoming more productive. 
 
@@ -423,7 +423,7 @@ Overall, while some firms likely have excessive market power, determining the op
 
 - The evidence suggests slower firm/establishment turnover has been a drag on productivity growth, though the exact magnitude is unclear.
 
- Here is a summary of the key points:
+ 
 
 - Job creation and destruction capture labor market turnover, not just firms opening and closing. This matters for productivity as workers can move from low- to high-productivity jobs.
 
@@ -453,7 +453,7 @@ Overall, while some firms likely have excessive market power, determining the op
 
 - Regardless of the cause, reduced geographic mobility within the U.S. is a potential source of slower productivity growth in recent decades. Matching workers to the most productive locations is more difficult with low mobility.
 
- Here are the key points:
+ 
 
 - There is a positive relationship between the relative GDP per worker in a metropolitan area and its size - larger cities tend to be more productive. However, people have not been moving from low-productivity areas to high-productivity areas as would be expected. 
 
@@ -473,7 +473,7 @@ Overall, while some firms likely have excessive market power, determining the op
 
 - Overall, changes in government policy, inequality, and trade do not appear to explain much, if any, of the significant slowdown in productivity and output growth that occurred in the 2000s. The evidence better supports the importance of slower human capital growth, the shift to services, and possibly decreased dynamism.
 
- Here is a summary of the key points:
+ 
 
 - There is little empirical evidence that changes in taxes or regulations have had a major impact on U.S. economic growth rates. 
 
@@ -487,7 +487,7 @@ Overall, while some firms likely have excessive market power, determining the op
 
 - Overall, changes in taxes and regulation do not seem able to account for a sizable share of the decline in U.S. growth rates starting in the early 2000s. Other factors must be more important for explaining the growth slowdown.
 
- Here is a summary of the key points:
+ 
 
 - Research finds no clear relationship between industry regulation and firms starting up or job turnover. In fact, more regulation is sometimes associated with more job creation. 
 
@@ -509,7 +509,7 @@ Overall, while some firms likely have excessive market power, determining the op
 
 - Overall, while rising inequality is concerning for many reasons, it does not appear to be a primary cause of the growth slowdown. The slowdown is better explained by increasing corporate market power and weaker competition. Policies to address inequality should focus on containing market power and expanding opportunities.
 
- Here is a summary of the key points:
+ 
 
 - Income inequality increased substantially from the 1960s to the 2010s, with the top 1% of earners seeing their share of national income double from around 12.5% to 20%. 
 
@@ -519,7 +519,7 @@ Overall, while some firms likely have excessive market power, determining the op
 
 - There is no definitive link between inequality and growth rates. Inequality may impact components like physical capital accumulation or productivity, but the relationship is complex. Overall, rising inequality alone does not directly explain the growth slowdown.
 
- Here are the key points:
+ 
 
 - The rise in inequality itself does not seem to be a major cause of the growth slowdown, based on its limited effects on human capital acquisition and the shift toward service industries.
 
@@ -535,7 +535,7 @@ Overall, while some firms likely have excessive market power, determining the op
 
 - But the size of the effects of trade and China specifically look too small to account for much of the growth slowdown. China and trade are minor factors compared to the other larger issues discussed.
 
- Here is a summary of the key points:
+ 
 
 - The statement "imports reduce GDP" is incorrect. This mistake comes from misinterpreting the national income accounting identity. 
 
@@ -547,7 +547,7 @@ Overall, while some firms likely have excessive market power, determining the op
 
 - So while imports don't directly reduce GDP, adjustment frictions when workers change industries can temporarily reduce production and growth. The statement is still wrong, but trade can have real negative effects.
 
- Here is a summary of the key points:
+ 
 
 - The degree to which different commuting zones (CZs) were exposed to competition from Chinese imports depended on the industries located there. For example, furniture CZs in North Carolina and Tennessee faced a lot of competition, while auto CZs in Alabama and South Carolina did not.
 
@@ -563,7 +563,7 @@ Overall, while some firms likely have excessive market power, determining the op
 
 - The effect of trade with China on growth rates was small - it may have lowered productivity growth by around 0.016% per year. Overall, trade with China contributed little to the growth slowdown.
 
- Here is a summary of the key points:
+ 
 
 - The accounting in Table 17.1 likely understates the influence of "success" (i.e. higher living standards, smaller families, etc.) on the growth slowdown and overstates the influence of possible "failures." 
 
@@ -581,7 +581,7 @@ Overall, while some firms likely have excessive market power, determining the op
 
 - The growth rate impact of changes in spending, regulation, and taxes is likely small. Focus should be on who benefits and who is hurt, not aggregate growth effects.
 
- Here is a summary of the key points:
+ 
 
 - There is likely no way to reverse the overall growth slowdown through policy changes. Attempts to boost growth via changes to market power, trade, taxes, regulation, or housing would have limited effects. 
 
@@ -643,7 +643,7 @@ So in summary, human capital combines data on educational attainment, returns to
 
 - Additional details on data sources and methods are provided in the human capital and physical capital sections. But the overall approach follows standard growth accounting techniques.
 
- Here is a summary of the key points:
+ 
 
 - The elasticity of real GDP with respect to physical capital can be inferred from the share of physical capital in total input costs, under an assumption of cost minimization and constant returns to scale. 
 
@@ -691,7 +691,7 @@ Chapter 7 - The Reallocation from Goods to Services
 
 - Baumol's cost disease driven by lack of productivity growth in some services, though its quantitative importance is debated.
 
- Here is a summary of the key points:
+ 
 
 - The BEA industry classification system divides the economy into 17 major industries, labeled A-Q. 
 

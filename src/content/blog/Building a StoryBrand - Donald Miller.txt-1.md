@@ -11,7 +11,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 ---
 
 
- Here is a summary of the key points:
+ 
 
 • Most businesses waste enormous amounts of money on ineffective marketing because they fail to clarify their message.
 
@@ -582,7 +582,7 @@ Owner, Crestview Kennels
 
 P.S. Did you know we offer discounts for clients who schedule recurring boardings? Give us a call to learn more.
 
- Here is a summary of the key points:
+ 
 
 • Free feeding dogs can lead to weight gain and health issues as excess food intake goes unnoticed. It is better to feed dogs a set amount of food at scheduled times. This allows owners to monitor how much the dog eats and notice any changes in appetite that could indicate illness. 
 

@@ -33,7 +33,7 @@ BOOK LINK:
 
 - The book does not claim to provide guarantees for success but rather encourages the reader to draw on their inner strengths and originality over copying blueprints.
 
- Here is a summary of the key points:
+ 
 
 - The passage encourages the reader to choose their own path and create their work in a unique way, rather than copying others or following conventional models. It says the biggest rewards go to innovators, not copycats. 
 
@@ -59,7 +59,7 @@ BOOK LINK:
 
 So in summary, it's about finding purpose-driven work aligned with your values over superficial measures of worth, and continually improving your skills to create value for others.
 
- Here is a summary of the key points:
+ 
 
 - Caren stood out as a yoga teacher by being open about her struggles with depression and teaching yoga poses with her dog. Her willingness to show her humanity made her relatable. 
 
@@ -101,7 +101,7 @@ The author was at a small coffee shop in a small town. They noticed some wooden 
 
 The author notes that if they had only tried once or a few times, they would have failed. But by keeping at it and not giving up, even when it wasn't working at first, they eventually succeeded in getting all the pieces to fit back in the box. They draw a parallel that pushing through failure and trying multiple times is what leads to success, whether with a puzzle or other endeavors. Fear of failing can prevent attempts, but not trying at all guarantees failure. Keep experimenting and don't be afraid to fail in order to eventually succeed.
 
- Here is a summary of the key points:
+ 
 
 - Pushing against fears and moving towards them, even if uncomfortable, allows you to discover your true limits which are often further than you think. Experimenting with fear is how we grow. 
 
@@ -155,7 +155,7 @@ The key is combining passion with real skill development and making something of
 
 - Standing by your principles and communicating them openly is more important for success than trying to please everyone or just focusing on sales. Having strong rallying points helps build true connections and identify your most committed fans.
 
- Here are the key points:
+ 
 
 - When you raise an idea or project up, it will draw people toward it who are interested in or aligned with that idea. Raising something up increases its visibility and appeal.
 

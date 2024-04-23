@@ -109,7 +109,7 @@ It also includes two appendices with further resources and examples, author info
 
 - Research online search volumes and similar websites/products to gauge internet market potential for a niche topic.
 
- Here is a summary of the key points:
+ 
 
 - To be a successful writer, especially in nonfiction genres like how-to, you need to have significant subject matter expertise and something valuable to write about. 
 
@@ -125,7 +125,7 @@ It also includes two appendices with further resources and examples, author info
 
 The key takeaway is that thorough research and expertise building on a narrow topic is crucial for success as a nonfiction writer, and there are different strategies for developing content and growing your scope over time. Continuous learning is important.
 
- Here is a summary of the key points:
+ 
 
 - Reference books were once very popular, but their demand has lessened significantly due to the abundance of free information available online through search engines like Google. 
 
@@ -137,7 +137,7 @@ The key takeaway is that thorough research and expertise building on a narrow to
 
 - Acquiring sufficient knowledge through research is critical, as weak writing often stems from a lack of understanding or information about the topic being written about.
 
- Here is a summary of the key points:
+ 
 
 - Mobile phones have convenient voice memo functions that allow you to easily record ideas, information, or things you see/hear that could be useful for your writing later. However, you need to actually use this recording feature or you'll likely forget the information.
 
@@ -151,7 +151,7 @@ The key takeaway is that thorough research and expertise building on a narrow to
 
 - To succeed as a writer or information marketer, you need something valuable to write about based on your real experience and expertise in that topic or field. Book learning alone is not sufficient - practical experience participating in that topic area is important to establish credibility and access useful knowledge and examples.
 
- Here is a summary of the key points:
+ 
 
 - While reading and theoretical knowledge can provide a foundation of understanding, practical experience is necessary to develop true expertise and confidence in a topic. 
 
@@ -163,7 +163,7 @@ The key takeaway is that thorough research and expertise building on a narrow to
 
 - While some argue knowing less can provide a fresher outsider's perspective, most agree the more in-depth knowledge and research a how-to writer has, through both experience and supplementary sources, the stronger and more useful their writing will be for readers looking for practical solutions and information. Depth of understanding helps avoid inaccuracies and ensures readers get reliable guidance.
 
- Here is a summary of the key points:
+ 
 
 - As a how-to writer, it can be okay to have less knowledge of the topic when writing for an audience that also knows little about it. The writer acts as an intermediary between experts and the general public. 
 
@@ -253,7 +253,7 @@ The key takeaways are researching appropriate markets well, maintaining ownershi
 
 - They ask if the editor wants them to proceed with the outlined 1,200 word article and will have it completed in 3-4 weeks.
 
- Here is a summary of the key points:
+ 
 
 - Writing for trade/business publications can be less competitive than big consumer magazines since trade publications rely more on freelancers and accept a higher percentage of pitched articles. 
 
@@ -315,7 +315,7 @@ This ensures that if the publisher stops printing and selling the book, the auth
 
 - By following these 21 steps, one can independently publish and profit from their first e-book online in just a few months. This then serves as a foundation to build an information marketing business through follow-up products.
 
- Here is a summary of the key points:
+ 
 
 - Stanley.com is recommended for hosting multiple websites as it is affordable at less than $1 per month per site. The author hosts dozens of sites on Stanley. 
 
@@ -371,7 +371,7 @@ This ensures that if the publisher stops printing and selling the book, the auth
 
 - Authors should offer a variety of products at different price points (free, low, medium, high) to appeal to different buyers and allow them to move up the "ladder" or purchase funnel over time as their trust and experience with the brand grows. This can maximize an author's revenues.
 
- Here is a summary of the key points:
+ 
 
 - Free content offers or "bait pieces" are used by direct marketers to generate sales leads by providing valuable information to prospects. They go by different names like white papers, reports, guides, manuals, booklets, etc. 
 
@@ -437,7 +437,7 @@ The article also provides tips on designing and formatting an e-zine, noting tha
 
 - Building an email list on a website by providing free editorial content like articles, reports and e-newsletters is an effective way to sell newsletter subscriptions online. This allows marketing directly to consumers who already know and trust the brand, increasing conversion rates compared to untargeted online ads.
 
- Here is a summary of the key points:
+ 
 
 - Building an email list is important for online marketing success. Users who visit your site and sign up for a free newsletter, report, or newsletter can be marketed to via frequent low-cost email campaigns. 
 
@@ -463,7 +463,7 @@ It's also important to measure conversion rates, test page copy, focus on keywor
 
 Popular plans charge monthly fees between $9-49 or offer annual discounts. Consider multiple membership tiers priced at different levels to boost average revenue. When starting out, leverage any existing content libraries rather than creating everything from scratch. Clear organization and labeling of past articles, videos, and other materials helps provide value for new members.
 
- Here is a summary of the key points:
+ 
 
 - The file label provided may not clearly convey what the content is about to members. Using a more descriptive title would help members understand if it's relevant to them. 
 
@@ -477,7 +477,7 @@ Popular plans charge monthly fees between $9-49 or offer annual discounts. Consi
 
 - Continually adding fresh content is key to retaining paid members long-term. Suggested ways to do this include webinars, member blogs, videos, chapters from works-in-progress, and a members-only forum.
 
- Here is a summary of the key points:
+ 
 
 - Presentation topics should be narrowly focused, like "Seven Tips for Sizing and Selecting Static Mixers" rather than too broad like "Chemical Process Equipment". 
 
@@ -495,7 +495,7 @@ Popular plans charge monthly fees between $9-49 or offer annual discounts. Consi
 
 - PowerPoint presentations can be made more engaging by not relying on it exclusively, maintaining audience focus, and allowing flexibility to adapt to audience response rather than sticking rigidly to slides.
 
- Here is a summary of the key points:
+ 
 
 - When looking for speaking opportunities, check industry trade publications and event announcements for conferences, conventions, meetings and other forums relevant to your target audiences. Approach event organizers early, around 8-12 months in advance for annual events. 
 
@@ -675,7 +675,7 @@ In summary, the consulting market has become more saturated with competitors, wh
 
 - Develop a Big Promise headline that succinctly conveys the USP and key benefit in 15 words or less.
 
- Here is a summary of the key points:
+ 
 
 - The subject line "Free White Paper" for an email marketing campaign does not score highly on the "4 U's" criteria of being urgent, unique, ultra-specific, and useful. 
 
@@ -705,7 +705,7 @@ In summary, the consulting market has become more saturated with competitors, wh
 
 - To sustain an information business enjoyably long-term, one should specialize in a niche for steady profitable output but still take on diverse side projects to prevent boredom, using an 80/20 split of time.
 
- Here is a summary of the key points:
+ 
 
 - The passage recommends spending 80% of your time writing in your main how-to niche area to maximize profits, while spending the other 20% writing in different areas to stay fresh and prevent boredom. 
 

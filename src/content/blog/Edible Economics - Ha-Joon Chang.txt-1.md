@@ -37,7 +37,7 @@ Upon arriving in Britain, the author experienced intense culture shock, especial
 
 Over time, the author's knowledge of cuisine expanded as foreign influences reached Britain and a food revolution took hold. However, the author's own cooking skills lagged behind his growing food knowledge. It was not until after getting married in 1993 that the author began cooking in earnest to try new dishes. Through authors like Claudia Roden, the author's cooking improved and he learned to make foods from around the world. Despite early difficulties adjusting to British food, the author came to appreciate diverse international cuisines.
 
- Here is a summary of the key points:
+ 
 
 - I learned many great British recipes, especially from famous chefs like Delia Smith, Nigel Slater, and Nigella Lawson. I rarely cook Korean food, since my wife Hee-Jeong is an excellent Korean cook. 
 
@@ -49,7 +49,7 @@ Over time, the author's knowledge of cuisine expanded as foreign influences reac
 
 - Economics matters because it impacts inequality, rights, cooperation and conflict. Diverse economic perspectives are needed, just as diverse cuisines are celebrated.
 
- Here is a summary of the key points:
+ 
 
 - Acorn, the nut of the oak tree, is not typically considered a choice food. Some Native Americans and Japanese have eaten it out of necessity when lacking finer sources of carbohydrates. 
 
@@ -61,7 +61,7 @@ Over time, the author's knowledge of cuisine expanded as foreign influences reac
 
 - The main point is that something considered a lowly food like the acorn can be elevated into an elite delicacy through particular cultures and food production processes, as seen in the cases of Korean dotori mook and Spanish jamón Ibérico. Even unremarkable ingredients can become highly prized foods.
 
- Here is a summary of the key points:
+ 
 
 - Pork became a symbol of Christian identity in Spain, as Christians distinguished themselves from Muslims and Jews by eating it. Converted Jews were forced to eat pork to prove they had genuinely converted. 
 
@@ -75,7 +75,7 @@ Over time, the author's knowledge of cuisine expanded as foreign influences reac
 
 - The summary focuses on the use of pork as a symbol in Spain, religious tolerance in the Ottoman Empire versus Spain, dispelling stereotypes about Islam, and problems with cultural stereotyping in general.
 
- Here is a summary of the key points:
+ 
 
 - Okra originated in Northeast Africa and spread to other regions like the Middle East, South Asia, and the Americas through the slave trade. 
 
@@ -89,7 +89,7 @@ Over time, the author's knowledge of cuisine expanded as foreign influences reac
 
 - The author argues the US could not have become an economic superpower without the labor of enslaved Africans and their descendants.
 
- Here is a summary of the key points:
+ 
 
 - Enslaved Africans provided critical labor and capital that allowed the US economy to develop in the 19th century. Cotton and tobacco accounted for a large share of US exports. Slaves were also used as collateral for loans that financed economic growth. 
 
@@ -113,7 +113,7 @@ Over time, the author's knowledge of cuisine expanded as foreign influences reac
 
 - The author's appreciation for coconuts grew over time after encountering them in delicious drinks like piña coladas and southeast Asian curries cooked with coconut milk. Coconuts symbolize the tropics' bounty, but the "lazy native" stereotype suggesting that leads to poverty is simply untrue.
 
- Here is a summary of the key points:
+ 
 
 - Anchovy is a small fish that has had an outsized impact on many food cultures around the world, including in Asia, the Mediterranean, and beyond. 
 
@@ -127,7 +127,7 @@ Over time, the author's knowledge of cuisine expanded as foreign influences reac
 
 - This story illustrates how small fish like anchovies can have an outsized impact on human prosperity by supporting complex ecosystems. Overfishing anchovies can undermine these ecosystems.
 
- Here is a summary of the key points:
+ 
 
 - Peruvian bird guano was a highly valued fertilizer in the 19th century, made from the excrement of seabirds that fed on anchovies. It fueled economic prosperity in Peru for a time. 
 
@@ -157,7 +157,7 @@ Over time, the author's knowledge of cuisine expanded as foreign influences reac
 
 - Japan became a major silk producer but shifted to promoting other industries like cars through protectionist policies, despite criticisms.
 
- Here is a summary of the key points:
+ 
 
 - South Koreans consume a huge amount of instant noodles, with 79.7 servings per person per year - the highest rate in the world. This adds up to around 4.1 billion servings annually in South Korea.
 
@@ -171,7 +171,7 @@ Over time, the author's knowledge of cuisine expanded as foreign influences reac
 
 - Like kimchi with vegetables, Koreans make noodles out of almost any grain or tuber into gooksoo. This reflects Korea's creativity and flexibility with carbohydrate sources.
 
- Here is a summary of the key points:
+ 
 
 - Orilguksu is a Korean soup containing a small, grain-shaped pasta that looks like rice. The author was surprised to learn it was actually a pasta dish. 
 
@@ -199,7 +199,7 @@ Over time, the author's knowledge of cuisine expanded as foreign influences reac
 
 - The essay explores how the story of the orange carrot's development touches on politics, nutrition, science, and business. Foods we take for granted often have surprising histories.
 
- Here is a summary of the key points:
+ 
 
 - The issue of patenting in biotechnology is illustrated by the case of Golden Rice, genetically modified to have high vitamin A content. Scientists transferred the intellectual property to a profit-making firm as they did not have the capacity to negotiate and pay for licensing the many patents involved themselves. 
 
@@ -209,7 +209,7 @@ Over time, the author's knowledge of cuisine expanded as foreign influences reac
 
 - Ultimately, the patent system's costs and benefits must be weighed. If the costs outweigh the benefits, as may be happening with so many interlocking patents, the system should be modified even if controversial at first. The goal is to balance incentives for innovation with making knowledge accessible for further innovation.
 
- Here is a summary of the key points:
+ 
 
 - Uruguay has excelled in several areas beyond just football, including political/civic rights and beef production. It was the first Latin American country to grant women divorce rights and voting rights. It is the world's top cattle producer per capita and the first to make all cattle traceable.
 
@@ -223,7 +223,7 @@ Over time, the author's knowledge of cuisine expanded as foreign influences reac
 
 - However, Latin American countries actually adopted free trade decades before Britain, contradicting the myth that Britain pioneered free trade.
 
- Here is a summary of the key points:
+ 
 
 - Uruguay has achieved remarkable football success despite its small population. This is attributed to a strong football culture and investment in youth training. 
 
@@ -253,7 +253,7 @@ Over time, the author's knowledge of cuisine expanded as foreign influences reac
 
 - Today, bananas are one of the world's most popular and heavily traded fruits, though the banana industry continues to face criticisms over labor and environmental practices.
 
- Here is a summary of the key points:
+ 
 
 - The United Fruit Company dominated Central America and northern South America between the late 19th and mid-20th centuries, leading to the term "banana republics" to describe these countries' subservience to foreign corporations. 
 
@@ -281,7 +281,7 @@ Over time, the author's knowledge of cuisine expanded as foreign influences reac
 
 - Coca-Cola replaced kola nut with a synthetic chemical in 2016, so like a rock band with no original members left, both of Coca-Cola's original key ingredients have now been substituted.
 
- Here is a summary of the key points:
+ 
 
 - Coca-Cola was once a symbol of American capitalism and cultural influence around the world. However, it has declined in popularity in recent decades. 
 
@@ -321,7 +321,7 @@ Over time, the author's knowledge of cuisine expanded as foreign influences reac
 
 - Bismarck was able to build the welfare state by creating a political alliance between Prussian landowners and heavy industry, called the "marriage of iron and rye." Protecting rye production allowed him to gain the support of Junker elites.
 
- Here is a summary of the key points:
+ 
 
 - Chicken is a popular and versatile source of protein around the world, prepared in endless ways (fried, roasted, grilled, etc). This likely owes to its mild taste, small size, and ease of cooking. 
 
@@ -335,7 +335,7 @@ Over time, the author's knowledge of cuisine expanded as foreign influences reac
 
 - Pure equality of outcomes is also problematic, suppressing incentives. But some inequality stemming from sheer luck is indefensible. We must strike a balance between rewarding effort/skill and correcting for arbitrary inequalities.
 
- Here is a summary of the key points:
+ 
 
 - Chilli's hot, spicy flavor scares some people, but is beloved in parts of the world like Mexico, South Asia, and Korea. 
 
@@ -351,7 +351,7 @@ Over time, the author's knowledge of cuisine expanded as foreign influences reac
 
 In summary, chilli's heat is a tricky chemical sensation, spiciness is beloved in some cuisines but feared in others, and misunderstandings about chilli symbols on menus can lead to unexpectedly spicy surprises.
 
- Here is a summary of the key points:
+ 
 
 - Unpaid care work, such as household chores and childcare, is not counted in economic statistics like GDP. This renders a huge chunk of (mostly) women's work invisible and undervalues their economic contribution. 
 
@@ -365,7 +365,7 @@ In summary, chilli's heat is a tricky chemical sensation, spiciness is beloved i
 
 - We need to change perspectives to properly value care work, change practices to reduce gender inequality, and implement institutional changes like paid care leave and higher minimum wages for care workers.
 
- Here is a summary of the key points:
+ 
 
 - The British Empire was the largest in history and its naval supremacy was key to controlling such a vast territory. 
 
@@ -395,7 +395,7 @@ In summary, chilli's heat is a tricky chemical sensation, spiciness is beloved i
 
 - In summary, dealing with climate change requires major technological innovations, changes in lifestyles, and concerted public action at scale. Market incentives and individual efforts alone will not suffice.
 
- Here is a summary of the key points:
+ 
 
 - The author did not initially like South Asian cuisine, finding it lacked "body" and umami flavor compared to other cuisines. Over time she grew to appreciate and love the complex flavors and aromas from the array of spices used.
 
@@ -427,7 +427,7 @@ In summary, chilli's heat is a tricky chemical sensation, spiciness is beloved i
 
 - Ultimately, consumers may need to accept higher prices for strawberries, if it means workers are treated fairly. This reflects the true costs of producing the beloved fruit sustainably and ethically.
 
- Here is a summary of the key points:
+ 
 
 - Many agricultural workers in California are Mexican immigrants, including many undocumented workers who are exploited and work in poor conditions picking strawberries. 
 
@@ -485,7 +485,7 @@ In summary, chilli's heat is a tricky chemical sensation, spiciness is beloved i
 
 - The book has a long history, originally conceived after the author's first non-academic book in 2006. Other writing priorities delayed it over the years, but the core idea remained.
 
- Here is a summary of the key points:
+ 
 
 - Ha-Joon Chang had the initial idea for this book back in 2007, but it took over a decade to fully develop due to other commitments. 
 

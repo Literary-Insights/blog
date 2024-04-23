@@ -37,7 +37,7 @@ BOOK LINK:
 
 - The contents section aims to provide a high-level overview and introduction to the vast array of myths that will be explored in further detail within the eBook.
 
- Here is a summary of the key points:
+ 
 
 - Ancient Mesopotamian society was shaped by the myths and narratives they used to explain the cosmos. Rulers were guided by capricious gods whose will was interpreted by priests. 
 
@@ -175,7 +175,7 @@ Overall, this summarizes the key details of the story of the contest between Ath
 
 - Both sides suffered heavy losses before the war was won through trickery rather than outright battle. The outcome set the stage for Greek stories of the returning heroes like Odysseus.
 
- Here is a summary of the key points:
+ 
 
 - Odysseus faces many obstacles delaying his 10-year journey home to Ithaca after the Trojan War, due to the enmity of Poseidon. 
 
@@ -203,7 +203,7 @@ Overall, this summarizes the key details of the story of the contest between Ath
 
 - The story sets the stage for Herakles' future deeds and establishes the rivalry between him and Hera that would continue through many of the legendary hero's exploits. The summary focuses on Herakles' origin and his initial labors assigned as punishment and atonement.
 
- Here is a summary of the key points:
+ 
 
 - As part of a tribute to King Minos of Crete, Athens was required to send seven boys and seven girls every nine years to be fed to the Minotaur, a monster half man and half bull that lived in the Labyrinth. 
 
@@ -239,7 +239,7 @@ Adonis was linked to the cycles of nature and seasons. One myth had him spending
 
 The summary touches on the key points of the provided text, including the myth of Myrrha and her curse, the birth and death of Adonis, the Adonia festival held in his honor, and the link between Adonis and the seasons/cycles of nature as portrayed in myths. It synthesizes the most important details while staying brief as requested.
 
- Here is a summary of the key points:
+ 
 
 - Anchises is Aeneas's father. He dies in Sicily during Aeneas's voyage after the fall of Troy. 
 
@@ -321,7 +321,7 @@ After Romulus, Numa Pompilius became Rome's second king. He was a Sabine, showin
 
 In summary, the passages discuss the Roman cult of Mithras, which focused on myths depicting Mithras as a solar deity and conqueror of evil, as represented through consistent imagery in underground temples across the Roman empire. Limited sources require reliance on archaeological evidence to understand this mysterious religion.
 
- Here is a summary of the key points:
+ 
 
 - Te, Chaucer, Shakespeare, and Kafka were influential authors whose works still resonate today. 
 
@@ -365,7 +365,7 @@ In summary, the passages discuss the Roman cult of Mithras, which focused on myt
 
 - The myths help explain the Norse worldview and afterlife beliefs but left many details of the cosmology ambiguous.
 
- Here is a summary of the key points:
+ 
 
 - In Norse mythology, there were two families of gods - the Aesir (led by Odin) and the Vanir. 
 
@@ -761,7 +761,7 @@ Osiris, the original Egyptian ruler, taught agriculture to humans with his siste
 
 So in summary, it discusses the Atlantic slave trade's role in spreading West African, particularly Yoruba, religious and cultural influences to parts of the Americas, illustrated through a Yoruba folktale about the trickster god Eshu.
 
- Here is a summary of the key points:
+ 
 
 - Myths in Oceania helped establish important concepts like mana (power/prestige) and recorded taboos. 
 
@@ -781,7 +781,7 @@ So in summary, myths in Oceania served important social, cultural and ceremonial
 
 - The Marind-Anim creation myths center around the primordial beings Nubog the earth and Dinadin the sky, and their descendants Geb and Mahu who are the mythical ancestors of the people. The stories explain how the first humans originated from underground and were shaped into form by the medicine man déma Aramemb. Geb later mated with plants and animals before being gifted one of Mahu's wives, beginning the line of descendants.
 
- Here is a summary of the key points:
+ 
 
 - In the final stage of pregnancy, a woman went to the beach to give birth. She was in labor for so long that the tide carried her out to sea, where she turned into hardened loam (compacted earth or clay).
 
@@ -809,7 +809,7 @@ So in summary, myths in Oceania served important social, cultural and ceremonial
 
 - In another story, Maui stole fire from the underworld by transforming into a bird to pass through the portal, gaining the gift of fire for humanity.
 
- Here is a summary of the key points:
+ 
 
 - The fire god Mauike had a violent temper and great strength. Buataranga warned her son not to approach him. 
 
@@ -841,7 +841,7 @@ So in summary, myths in Oceania served important social, cultural and ceremonial
 
 - Chiefs would compete in collecting the first egg of the season from offshore islets, and the winner became the "birdman" representative of Makemake for a year.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses natural forces and sacred rituals that were crucial to the success of crops and preventing famine on the island of Tikopia. 
 

@@ -51,7 +51,7 @@ That covers the key highlights regarding the copyrighted material in the passage
 
 In summary, it traces the evolution from traditional delivery-focused approaches to more modern approaches emphasizing continuous customer discovery and alignment between discovery and delivery cycles.
 
- Here is a summary of the key points:
+ 
 
 - The book is for product teams, specifically product managers, designers, and software engineers who want to build products customers love. 
 
@@ -175,7 +175,7 @@ The key aspects are individually mapping perspectives first, then combining view
 
 - Continuous interviewing can uncover unmet needs that customers themselves may not be aware of. While customers shouldn't dictate what is built, understanding them better through stories reveals opportunities for innovation.
 
- Here are the key points:
+ 
 
 - Michael Gazzaniga's studies on brain anatomy showed that people instinctively construct a coherent narrative to explain their decisions and behaviors, even if the real reasons were unconscious or unknown. People feel confident in the stories they tell, but are not always accurate.
 
@@ -233,7 +233,7 @@ The key aspects are individually mapping perspectives first, then combining view
 
 Organizing opportunities into a tree structure, with parent-child and sibling relationships, helps make sense of a complex opportunity space. It allows big, intractable problems to be broken down into smaller, more solvable sub-opportunities. This ensures continuous delivery of value over time by addressing smaller opportunities iteratively, rather than waiting to solve the entire big problem at once. Well-structured trees with distinct, non-overlapping opportunities in each branch enable teams to prioritize and work on opportunities one at a time without them becoming enmeshed. Experience maps and customer story drawings can be used to uncover the underlying structure by identifying distinct moments in customers' experiences to form the branches.
 
- Here is a summary of the key points:
+ 
 
 - The opportunity mapping process involves collecting stories and insights from customer interviews and mapping them to a set of distinct moments in the customer journey/experience. This allows opportunities to be grouped under the relevant moments.
 
@@ -255,7 +255,7 @@ The passage discusses prioritizing opportunities over solutions when engaging wi
 
 Proper opportunity mapping allows product teams to make strategic decisions about which customer needs, pain points or desires to address (opportunities) rather than immediately jumping to proposed solutions like new features. Prioritizing opportunities involves assessing them based on factors like impact on customers, position in the competitive market, and alignment with company strategy. Focusing work on a single priority opportunity at a time allows iterative delivery of value.
 
- Here is a summary of the key points:
+ 
 
 - Opportunity assessment and prioritization should consider factors at three levels - company, business group/team, and individual team. Vision, mission and strategic objectives at each level can constrain what opportunities are chosen. 
 
@@ -271,7 +271,7 @@ Proper opportunity mapping allows product teams to make strategic decisions abou
 
 - Avoid analysis paralysis by time-boxing the decision. Also avoid over-relying on one factor or working backwards from a pre-determined conclusion.
 
- Here are the key points:
+ 
 
 - Leigh Thompson says that quality is best predicted by y - suggesting past performance is the best indicator of future quality or success. 
 
@@ -303,7 +303,7 @@ Proper opportunity mapping allows product teams to make strategic decisions abou
 
 - Avoid anti-patterns like not including diverse perspectives, focusing only on variations of the same idea, and limiting ideation to a single session. Spreading it across time is more effective.
 
- Here is a summary of the key points:
+ 
 
 - Product teams often make assumptions when developing ideas that later turn out to be incorrect, leading them to build the wrong solution. This happened with a Portland affordable housing project. 
 
@@ -317,7 +317,7 @@ Proper opportunity mapping allows product teams to make strategic decisions abou
 
 - Testing assumptions through fast iterations is more feasible than building whole solutions. It allows teams to identify incorrect assumptions early before investing too much time and resources. This helps avoid building the wrong solution.
 
- Here are the key points:
+ 
 
 - Story mapping forces teams to get specific about how an idea will work and what end-users will do to get value from it. This helps surface underlying assumptions.
 
@@ -353,7 +353,7 @@ Proper opportunity mapping allows product teams to make strategic decisions abou
 
 The key things to avoid are not generating a sufficient number and variety of assumptions, being too vague, and phrasing assumptions in a way that sets them up for failure rather than success. The goal is to identify as many potential risks or weaknesses as possible to determine which assumptions require testing.
 
- Here is a summary of the key points:
+ 
 
 - When simulating or testing assumptions, it's important to clearly define evaluation criteria upfront, like "at least 3 out of 10 people choose sports". This helps align the team on what success looks like and guards against confirmation bias.
 
@@ -495,7 +495,7 @@ The key is to start small, prove the value, refine as you go, and build momentum
 
 - The key message is that even without companybuy-in, individuals can impact their own work through focus, initiative and perseverance in adopting user-centered best practices.
 
- Here is a summary of the key points:
+ 
 
 - Work with stakeholders to identify the expected impact of new features and document those conversations. Measure the actual impact after release and compare to expectations. 
 

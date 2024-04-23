@@ -81,7 +81,7 @@ Properly distinguishing self from non-self is crucial, as overreacting could cau
 
 - A person's unique traits, like eye color or disease susceptibility, come from the specific proteins their DNA instructions cause cells to produce. DNA is packed very tightly inside each cell.
 
- Here is a summary of the key points:
+ 
 
 - DNA from a human body could stretch from Earth to Pluto if unwound. It contains the code to produce long chains of amino acids. 
 
@@ -115,7 +115,7 @@ So in summary, it describes how cells are made of and powered by networks of com
 
 - The two immune realms work interconnectedly, and exploring their interaction is key to understanding the immune system's beauty and complexity.
 
- Here is a summary of the key points:
+ 
 
 - The passage introduces bacteria as one of the main enemies/pathogens the immune system has to deal with. Bacteria are ubiquitous, found everywhere there are nutrients, and can reproduce rapidly.
 
@@ -177,7 +177,7 @@ So in summary, it describes the intense microscopic immune battle that occurs ev
 
 - Inflammation is the body's universal response to any damage, breach or infection. It serves to restrict the spread of pathogens and recruit immune cells to the site of infection. While acute inflammation is important, chronic inflammation underlies many diseases and is a major cause of death.
 
- Here is a summary of the key points:
+ 
 
 - Cells lack the ability to see or hear, since those senses require specialized organs and sensing light/sound waves which are too large at the microscopic cell scale. 
 
@@ -237,7 +237,7 @@ The chapter then transitions to discussing the complement system, which is intro
 
 - Overall, the complement system is a very important innate immune defense that helps detect, disable, and destroy invading microbes through a variety of sophisticated mechanisms.
 
- Here is a summary of the key points:
+ 
 
 - In the infected nail wound, the macrophages and neutrophils were mostly able to fight off and kill the invading bacteria, except for one resistant species of soil bacteria. 
 
@@ -303,7 +303,7 @@ This process of mixing and matching gene fragments in various ways results in bi
 
 - While the adaptive immune system can recognize anything, there are still challenges like ensuring it doesn't attack the self (autoimmunity) or regulating immune responses. The thymus education process plays a key role in preventing autoimmunity.
 
- Here is a summary of the key points:
+ 
 
 - The results of research suggesting aging thymuses could potentially be regenerated through drugs or treatments have not yet been independently repeated or confirmed by larger studies. 
 
@@ -357,7 +357,7 @@ So in summary, TH cells act as crucial commanders and coordinators that determin
 
 So in summary, B cells require dual activation by both directly binding antigen and then interacting with a matching T cell to mount a robust adaptive immune response through antibody production.
 
- Here is a summary of the key points:
+ 
 
 - B cells and T cells work together through a multi-step process to activate the adaptive immune response against antigens (foreign substances like bacteria). 
 

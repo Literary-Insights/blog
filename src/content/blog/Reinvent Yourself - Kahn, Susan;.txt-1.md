@@ -133,7 +133,7 @@ The key points are that planning is important for reinvention, but one must firs
 
 The passage discusses decision making when planning a career reinvention or transition. It explores different approaches people may take, like relying on heuristics and gut reactions, taking a rational approach by weighing costs and benefits, or taking a "plausible path" by filtering options based on key criteria. It suggests the best approach combines rational decision making with associative and relational factors. Small changes like "job crafting" by modifying tasks or social interactions can enable reinvention without major changes. Sitting with uncertainty takes courage. When planning, it's important to focus on purpose, contribution and using one's gifts, rather than being overwhelmed by options outside one's control. Overall it provides frameworks for navigating decisions in career transitions and reinventions.
 
- Here is a summary of the key points:
+ 
 
 - Our thoughts and beliefs play a powerful role in shaping our abilities and potential for change. Limiting beliefs can hold us back, while empowering beliefs can help us achieve more. 
 
@@ -147,7 +147,7 @@ The passage discusses decision making when planning a career reinvention or tran
 
 - Ongoing research is expanding our knowledge of the brain's adaptability and how we can leverage this to achieve goals like personal reinvention, career transitions, lifestyle changes, overcoming fears and more.
 
- Here is a summary of the key points:
+ 
 
 - Neuroscience and psychology complement each other in understanding human behavior and cognition. While psychology focuses on personality and behavior, neuroscience examines the brain structures and functions underlying these phenomena. 
 
@@ -239,7 +239,7 @@ Overall the key point is that feelings come from the stories we tell ourselves, 
 
 - While chronological age is fixed, our ability to learn, grow, and reinvent ourselves is not restricted by age. Experience, skills, and a lifelong commitment to learning can benefit workers of any age seeking career transitions or changes.
 
- Here is a summary of the key points:
+ 
 
 - Taking an expansive view of life beyond just roles like parent or grandparent can help avoid limiting ourselves and open up opportunities. 
 

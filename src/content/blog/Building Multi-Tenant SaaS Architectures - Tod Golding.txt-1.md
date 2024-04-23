@@ -73,7 +73,7 @@ BOOK LINK:
 
 - SaaS is ultimately a business model focused on agility, flexibility and adapting quickly to market needs through a tenant-centric service approach encompassing technology, business and operations.
 
- Here is a summary of the key points:
+ 
 
 - In a SaaS company, features and functions are introduced in a way that does not compromise agility or operational efficiency. The needs of all customers as a whole are prioritized over one-off customizations.  
 
@@ -153,7 +153,7 @@ In summary, tenant context, isolation, routing and data partitioning are key arc
 
 - There is no perfectly clean separation between planes. Concepts may span both or have arguments for residing in either. The key is understanding how concepts intersect between control configuration/provisioning and application experience.
 
- Here is a summary of the key points:
+ 
 
 - There are two main approaches to tenant provisioning - within the control plane or application plane. Each has tradeoffs around abstraction and encapsulation. 
 

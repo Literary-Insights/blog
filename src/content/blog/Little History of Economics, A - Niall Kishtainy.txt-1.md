@@ -45,7 +45,7 @@ BOOK LINK:
 
 - Economics is still developing its ideas and perspectives. Economists are sometimes accused of overlooking hardships faced by disadvantaged groups or failing to foresee crises because of inherent biases from their backgrounds and systemic influences. Studying history can help economists gain self-awareness and see issues from new angles.
 
- Here is a summary of the key points:
+ 
 
 - In the Bible, work and earning a living became difficult after Adam and Eve's sin in the Garden of Eden. They had to work hard to survive. 
 
@@ -363,7 +363,7 @@ So in summary, the passage discusses Hayek's views on the role of government in 
 
 So in summary, Becker applied economics more broadly to analyze social and personal behaviors, rejecting boundaries between economic and other spheres of life. He viewed all human action through a rational choice, cost-benefit calculus lens.
 
- Here is a summary of the key points:
+ 
 
 - Gary Becker applied economic theory to non-traditional topics like crime, marriage, families and child-rearing. He treated these activities like economic decisions involving costs and benefits.
 
@@ -421,7 +421,7 @@ So in summary, Becker applied economics more broadly to analyze social and perso
 
 - Today, China is also cited as another example of replicating the Asian Tigers' success in rapid economic development and diversification through participation in global trade networks rather than being harmed by them.
 
- Here is a summary of the key points:
+ 
 
 - Keynesian economics after WWII saw governments taking a major role in stabilizing the economy through spending and redistribution policies. Economists assumed governments were capable of designing and implementing the correct policies. 
 
@@ -455,7 +455,7 @@ So in summary, Buchanan challenged Keynesian assumptions by arguing politicians 
 
 In summary, it discusses how the incentives of politics and government can lead to rent-seeking behavior as politicians and bureacrats act in their self-interest, and Buchanan's advocacy for constitutional constraints in response.
 
- Here is a summary of the key points:
+ 
 
 - The passage uses a hypothetical example of an island economy with 10 pineapple sellers to illustrate Milton Friedman's monetarist economic theory. 
 

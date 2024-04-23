@@ -31,7 +31,7 @@ BOOK LINK:
 
 - Overall the book advocates integrating feminist theory and values into data science as a way to address issues around ethics, power, inclusion, and the social impacts of new technologies.
 
- Here is a summary of the key points:
+ 
 
 - Christine Darden began working at NASA's Langley Research Center in 1967 as a data analyst and "computer", doing calculations by hand. She faced discrimination as a Black woman in this predominantly white, male environment. 
 
@@ -57,7 +57,7 @@ BOOK LINK:
 
 - The overall message is that examining gender in isolation is incomplete and ignores how other identities shape women's varied experiences of oppression. An intersectional lens is needed for a more just and equitable feminism.
 
- Here is a summary of the key points:
+ 
 
 - Kimberlé Crenshaw coined the term "intersectionality" to describe discrimination based on both race and gender together. She explained that oppressive systems work in intersecting ways that multiply their effects on marginalized groups. 
 
@@ -105,7 +105,7 @@ The introduction examines why data science needs feminism through an intersectio
 
 Each subsequent chapter will explore one of these principles in more detail using real-world examples. The goal is to show how data and data science can be used as a tool for social justice from an intersectional feminist perspective.
 
- Here is a summary of the key points:
+ 
 
 - Serena Williams shared on social media about complications she experienced giving birth, which prompted many Black women to share their own stories of difficulties during childbirth. 
 
@@ -181,7 +181,7 @@ This section discusses the climate change impacts of data centers and data stora
 
 So in summary, it discusses how data storage in large centralized data centers controlled by powerful corporations and institutions comes at both financial and environmental costs, including exacerbating global climate change through increased energy usage and emissions. The section critiques who benefits most from this system.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses two maps of Detroit - a 1939 "Residential Security Map" and a map from 1968-1971 created by the Detroit Geographic Expedition and Institute (DGEI). 
 
@@ -383,7 +383,7 @@ The passage also discusses how counting and classifying people can paradoxically
 
 Finally, the passage discusses how counting can also empower and heal when done by and for communities in a respectful way that humanizes those being counted. The Colored Conventions Project and breast pump hackathons are used as examples of counting efforts that contribute to representation, recognition and improving lived experiences. In summary, the complexities of ethically and respectfully counting aspects of human identity and experience over a lifetime are examined.
 
- Here is a summary of the key points:
+ 
 
 - The Anti-Eviction Mapping Project (AEMP) is a collective in San Francisco that maps evictions through a collaborative, multimodal approach grounded in antiracist, feminist, and decolonial methodologies. 
 
@@ -481,7 +481,7 @@ Finally, the passage discusses how counting can also empower and heal when done 
 
 So in summary, the article advocates the importance of understanding the context and limitations of data sources to conduct accurate and ethical analysis, using examples to show how missing context can lead to errors.
 
- Here is a summary of the key points:
+ 
 
 - Open data aims to make government and other public data freely available, but often lacks proper context and documentation to make the data meaningful and usable. This is known as "zombie data". 
 
@@ -493,7 +493,7 @@ So in summary, the article advocates the importance of understanding the context
 
 In summary, the passage argues that open data initiatives often lack context, which can lead to misinterpretation of numbers and perpetuation of harmful assumptions without understanding the social contexts and systems that produce the data. Context is crucial for ethical and responsible use of data and knowledge.
 
- Here is a summary of the key points:
+ 
 
 - The Clery Act requires colleges to report annual crime statistics like sexual assaults, but there are incentives for underreporting to avoid negative perceptions. Reporting is also self-reported rather than independent audits. 
 
@@ -525,7 +525,7 @@ So in summary, the key points are around the limitations of self-reported crime 
 
 So in summary, context is crucial not just in data work but also in how results are presented and framed to outside audiences. Failing to communicate context can undermine and distort the meaning and implications of findings.
 
- Here is a summary of the key points:
+ 
 
 - When communicating data results, it is important to place numbers in context and name structural forces like racism, sexism, etc. if they are present in the data. Simply letting numbers "speak for themselves" often leads to misinterpretation. 
 
@@ -581,7 +581,7 @@ Overall, it argues that until we invest as much in providing context for data as
 
 - The goal is to "show the work" and make invisible labor visible in order to properly value it and understand technology's true costs to people and the planet.
 
- Here is a summary of the key points:
+ 
 
 - The diagram "Anatomy of an AI System" by Kate Crawford and Vladan Joler attempts to chart all the human labor, data, and planetary resources that go into creating a product like the Amazon Echo. It emphasizes giving credit to the broad range of invisible work that supports technological systems. 
 
@@ -599,7 +599,7 @@ It summarizes the Atlas of Caregiving project, which uses data collection tools,
 
 The passage discusses how care work has historically been undervalued, despite efforts by feminist scholars and artists dating back to the 1960s/70s to recognize care and maintenance as important labor. It outlines ongoing work by groups like the Maintainers to apply theories of feminist labor studies and make data maintenance labor more visible in tech fields. Overall, the key point is that visualizing different types of unseen labor can help bring acknowledgement and value to work that often goes unrecognized.
 
- Here is a summary of the key points:
+ 
 
 - Maintainers refers to people who work in libraries, archives, and preservation fields to ensure current knowledge remains accessible for future generations. Their work facilitating access to future knowledge can be viewed as a form of care work. 
 
@@ -663,7 +663,7 @@ Future audits should take these challenges seriously and acknowledge limitations
 
 The figures come from a wide range of sources, including academic papers, news articles, government datasets, nonprofit organizations, artistic works, and social media platforms. Many figures credit the original artists, researchers, or organizations who created the work. There is also attribution for figures that have been adapted or reproduced from their original sources. The sources provide context and background for the data visualizations, images, and maps included in the text. Proper attribution is given to respect intellectual property and follow academic standards.
 
- Here is a summary of the key points:
+ 
 
 - The Eviction Mapping Project is a collaborative effort that maps evictions and displacement in San Francisco. It collects data and stories from residents facing eviction to document the human impact of gentrification and rising housing costs. 
 
@@ -675,7 +675,7 @@ The figures come from a wide range of sources, including academic papers, news a
 
 So in summary, the Eviction Mapping Project documents evictions and displacement through maps, data collection, and narratives in order to raise awareness of housing issues and the human impact of gentrification in San Francisco. It's a collaborative effort that involves community members sharing their stories.
 
- Here is a summary of the key points:
+ 
 
 - Feminism is described as having occurred in waves, with the third wave beginning in the 1990s and characterized by increased attention to intersectionality. Some propose we are now in a fourth wave since the 2010s with social media. 
 
@@ -717,7 +717,7 @@ So in summary, the Eviction Mapping Project documents evictions and displacement
 
 - Groups are calling for regulation and oversight of facial recognition to prevent harmful uses like secret government surveillance and by law enforcement without public accountability. An ethical pledge has been proposed to commit users of this technology to principles like preventing unlawful discrimination.
 
- Here is a summary of the key points:
+ 
 
 - Joy Buolamwini, a researcher at MIT, found that facial recognition systems from major tech companies like Amazon, Microsoft, and IBM performed worse at identifying women and darker-skinned individuals. 
 
@@ -737,7 +737,7 @@ So in summary, the Eviction Mapping Project documents evictions and displacement
 - Legal and ethical issues around using data in reporting like privacy, attribution and intellectual property are discussed.
 - The book aims to equip journalists who may not have an extensive technical background with the knowledge to leverage the power of data in their storytelling.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses important early works that examined how whiteness became constructed as a racial identity in the US, and how that shaped the American working class. 
 
@@ -803,7 +803,7 @@ So in summary, it discusses moving beyond pretenses of pure objectivity to more 
 
 The paper by Burks et al. describes a technique for supporting the exploration of viscous fingering phenomena in large-scale fluid simulation ensembles. Viscous fingering refers to the instability that occurs when a low-viscosity fluid displaces a higher-viscosity one in a porous medium. The authors present an approach called "Details-First, Show Context, Overview Last" that leverages brushing and linking to connect views of simulation details, contextual information, and global overviews. This enables researchers to efficiently navigate large ensembles of viscous fingering simulations at different levels of granularity. An interactive web-based system called VFView is developed to demonstrate this multi-view exploration approach. User studies suggest the technique facilitates insight generation and understanding of simulation behavior compared to conventional visualization methods. The work thus provides useful tools to analyze complex phenomena in large-scale simulation data.
 
- Here is a summary of the key points:
+ 
 
 - A new generation of data visualizers and designers is challenging the anti-emotion and anti-embellishment dogma in data visualization. This includes people like Jessica Bellamy, Giorgia Lupi, Stefanie Posavec, Federica Fragapane, and Kelli Anderson. 
 
@@ -845,7 +845,7 @@ So in summary, the timeline shows how US census categories around race and ethni
 
 - The article argues that designers need to carefully consider the meaning and communication of absent data, not just present data. Representing nothing is a critical part of data design.
 
- Here is a summary of the key points:
+ 
 
 - Historically, eugenics promoted the reproduction of white people while discouraging reproduction of others through forced sterilization and even murder. Karl Pearson, who held the first Eugenics chair at University of London, developed many statistical concepts still in use today. 
 
@@ -889,7 +889,7 @@ So in summary, the timeline shows how US census categories around race and ethni
 
 - The remaining sources provide additional context and examples regarding data dictionaries, responsible data practices, open data initiatives, zombie data, predictive modeling, algorithms and bias, sexual assault reporting data from the Clery Act, and underreporting of sexual assault to the Department of Education.
 
- Here is a summary of the key points:
+ 
 
 - Institutions often face reduced fines for violating Clery Act requirements around reporting crimes like sexual assault on campus. However, high-profile cases like the Penn State sexual abuse scandal result in larger fines. 
 

@@ -151,7 +151,7 @@ The key is balancing whole, minimally processed foods with occasional indulgence
 
 - Batch cooking provides convenience and helps reduce food waste and costs by planning and using leftovers.
 
- Here is a summary of the key points:
+ 
 
 - Legumes such as beans, lentils and chickpeas are a nutritious pantry staple that can be prepared from dried or canned versions. Canned legumes are minimally processed and convenient to use.
 
@@ -177,7 +177,7 @@ The key is balancing whole, minimally processed foods with occasional indulgence
 
 - The homemade version provides a healthier take on the classic appetizer using whole ingredients and fresh homemade garlic butter stuffed inside chicken breasts.
 
- Here is a summary of the key points:
+ 
 
 - Chicken Kyivs can be frozen for up to 3 months. Freeze them on a baking sheet and then transfer to an airtight container. 
 
@@ -341,7 +341,7 @@ So in summary, a shallow bowl refers to a wide and relatively flat serving bowl 
 
 - Potato, edamame and tuna salad with red pepper dressing - A salad combining potatoes, edamame beans, tuna and a red pepper dressing.
 
- Here is a summary of the key points:
+ 
 
 - Tinned tuna can be used instead of fresh tuna in the salad recipe, providing a convenient and budget-friendly protein option. Tinned tuna is considered a 'healthy' processed food. 
 
@@ -363,7 +363,7 @@ So in summary, a shallow bowl refers to a wide and relatively flat serving bowl 
 
 - Homemade energy bars avoid the many processed ingredients found in store-bought versions, using naturally nutritious ingredients like nuts, seeds and dried fruit.
 
- Here is a summary of the key points:
+ 
 
 - The protein bar recipe aims to provide 12g of protein per bar. Certain ingredients like the nuts, seeds, chickpeas and dates provide protein and other nutrients. 
 
@@ -375,7 +375,7 @@ So in summary, a shallow bowl refers to a wide and relatively flat serving bowl 
 
 - Overall, the recipe aims to provide a nutritious, homemade protein bar alternative to processed store-bought versions using wholefood ingredients like chickpeas, nuts and seeds. The baked bars are intended to be portable and provide sustained energy and protein.
 
- Here is a summary of the key points:
+ 
 
 - Homemade hummus makes an excellent snack for children, especially when served with vegetable slices like cucumber and red pepper to encourage eating more vegetables. 
 

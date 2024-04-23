@@ -11,7 +11,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 ---
 
 
- Here is a summary of the key points:
+ 
 
 - In 1997, the author was a musician selling his CD at concerts. He wanted to sell it online but major distributors were the only options and they were difficult to work with. 
 

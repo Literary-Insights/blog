@@ -91,7 +91,7 @@ BOOK LINK:
 
 - Tax competition between countries to attract business by lowering rates has long been controversial. Ireland's economic crisis demonstrated the risks of heavily relying on this "tax dumping" strategy to attract multinationals through extremely low corporate tax rates of 12.5%.
 
- Here is a summary of the key points:
+ 
 
 - The story involves Liliane Bettencourt, the billionaire heiress to the L'Oreal fortune, and a legal dispute with her daughter Francoise over large gifts Liliane made to a friend. 
 
@@ -249,7 +249,7 @@ So in summary, the key points of conflict centered around the unfair and opaque 
 
 - The IMF is starting to advocate for more progressive taxation, including a wealth tax. While a change, the author argues we should understand the IMF's historical promotion of undermining the welfare state and its gradual evolution in its views and recommendations.
 
- Here is a summary of the key points:
+ 
 
 - The article is discussing the crisis at the French newspaper Libération, which is facing financial difficulties and proposals from major shareholder Bruno Ledoux to cut jobs and diversify into new businesses. 
 
@@ -265,7 +265,7 @@ So in summary, the key points of conflict centered around the unfair and opaque 
 
 The key point is that the crisis at Libération symbolizes larger debates around sustainable models of media ownership that ensure editorial independence and democratic accountability without "dictatorship of the all-powerful owner." The article argues for exploring alternative progressive ideas.
 
- Here is a summary of the key points:
+ 
 
 - The article discusses rising inequality and concentration of wealth in the US and the threat of oligarchy/plutocracy. It notes the Supreme Court decision to eliminate limits on political donations as further enabling oligarchy. 
 
@@ -309,7 +309,7 @@ Germany and France amnesiacly push austerity on southern Europe despite having t
 
 - Radical social and democratic reforms are needed to make European integration defensible to the working class again.
 
- Here is a summary of the key points:
+ 
 
 - The essay criticizes the notion that France presents itself as a model of equality and secularism when it comes to religion. It argues reality is more complex. 
 

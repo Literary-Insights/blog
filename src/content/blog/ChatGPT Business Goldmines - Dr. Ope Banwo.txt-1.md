@@ -33,7 +33,7 @@ BOOK LINK:
 
 - The book aims to provide readers with the knowledge, insights and strategies to leverage ChatGPT to create diverse income streams and take control of their financial future through digital entrepreneurship.
 
- Here is a summary of the key points:
+ 
 
 - ChatGPT can be used to start a commercial authorship business by generating high-quality written content for businesses and organizations. This includes blog posts, articles, whitepapers, and even full-length books.
 
@@ -183,7 +183,7 @@ The key is addressing client needs through high-quality, on-target content curat
 
 - Focus on customer service fundamentals like communication, personalization and quality work. Excellent service will build trust that AI is only being used to enhance your offerings.
 
- Here is a summary of the key points:
+ 
 
 - Develop a project timeline and task list for a new product launch, including milestones, deadlines and responsibilities. 
 
@@ -213,7 +213,7 @@ The key is addressing client needs through high-quality, on-target content curat
 
 The key is to position ChatGPT as an auxiliary tool rather than the core of the resume writing process. Clients should understand your professional role in customizing resumes to align with their unique backgrounds and career goals. This helps maintain trust in your expertise and services.
 
- Here is a summary of the key points:
+ 
 
 - ChatGPT can be used to generate draft content for starting an online tutoring business or grant writing service within a week. It provides prompts that can be tailored to describe offerings, experience, qualifications, etc. 
 

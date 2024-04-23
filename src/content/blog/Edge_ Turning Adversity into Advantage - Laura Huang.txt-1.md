@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points:
+ 
 
 - The book introduces the concept of gaining an "edge" - creating an advantage for yourself through recognizing others' perceptions of you and learning to use them to your benefit. 
 
@@ -33,7 +33,7 @@ BOOK LINK:
 
 - The book aims to provide insights and tools for gaining an edge to help the reader better handle challenges and further their career over the long run.
 
- Here is a summary of the key points:
+ 
 
 - The book is about going beyond typical advantages of gender, race, ethnicity, age and wealth, and how anyone can thrive regardless of disadvantages by creating an edge. Creating an edge involves turning disadvantages into unique assets and adversities into advantages. 
 
@@ -95,7 +95,7 @@ BOOK LINK:
 
 - Historians view this outcome as deeply unfair, given Poincaré's preeminence and the large majority of nominations he received that year. Personal politics within the committee appears to have cost him the prize.
 
- Here is a summary of the key points:
+ 
 
 - The author observes that some entrepreneurs come up with ideas but lack the necessary technical or business skills to execute them. They are looking for others to do the core work rather than developing those skills themselves. 
 
@@ -147,7 +147,7 @@ The juicer startup Juicero raised $120 million but its $699 machine was unnecess
 
 The passage argues that having an atypical perspective allows one to see flaws and opportunities others miss. Not considering user constraints led these products to fail, while those who took a step back to consider different viewpoints avoided losses. Constraints like cost and convenience play an important role in whether innovations succeed or not.
 
- Here is a summary of the key points:
+ 
 
 - The exercise gives student teams $5 to start a profit-generating venture and present it at the end of the week. Many use the $5 directly for things like car washes or bake sales. 
 
@@ -181,7 +181,7 @@ The passage argues that having an atypical perspective allows one to see flaws a
 
 - Linear thinking progresses in a straight line incrementally, while exponential thinking leaps ahead in unexpected ways based on personal experiences and connections. Gut feel relies on exponential rather than linear thinking.
 
- Here is a summary of the key points:
+ 
 
 - Exponential thinking involves making unexpected connections between different ideas, experiences, or fields in a way that leads to innovative solutions. This is known as "bricolage". 
 
@@ -219,7 +219,7 @@ In general, the passage discusses how focusing on solutions first rather than pr
 
 So in summary, consistency between a company's narrative and numeric projections is important for the story to make sense. Identifying inconsistencies helps develop judgment and allows opportunities to strengthen ideas.
 
- Here is a summary of the key points:
+ 
 
 - Jon M. Chu wanted to use Coldplay's song "Yellow" in the finale of his film Crazy Rich Asians because he felt the lyrics perfectly fit the emotional climax. 
 
@@ -349,7 +349,7 @@ The story of Ashley Edwards is used as an example. She faced challenges having h
 
 - Guiding others requires helping them attribute perspectives to gain emotional investment beyond themselves. Self-awareness of how we affect others is important given the lack of shared definitions and fluctuating expectations.
 
- Here are the key points:
+ 
 
 - Gary found early success selling baseball cards and helping at his family's wine and liquor store. He applied these skills to help grow the business.
 
@@ -413,7 +413,7 @@ So in summary, the passage discusses how articulating one's own trajectory can s
 
 - They briefly shared having taught remedial math as their first career after engineering school, to a diverse group of immigrant students. They resigned after 4 months, feeling frustrated, but it started their focus on understanding advantages and compensating for disadvantages.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses a man who grew up in difficult circumstances with low expectations placed on him by others due to factors outside of his control. This caused resentment and bitterness that affected his outlook. 
 
@@ -437,7 +437,7 @@ The key message is about overcoming resentment and bitterness due to unfair trea
 
 - Overreliance on perception can obscure a person's true qualifications and potential. Factors like diversity, relationships, and equal access to opportunities are important to counter unconscious biases. Huang's research sheds light on unfair influences that exist in important life and career decisions.
 
- Here is a summary of the key points from the sources:
+ 
 
 - The Leaky Tech Pipeline report from the Kapor Center examines barriers to diversity in the tech industry and provides a framework for understanding and addressing the lack of diversity. 
 
@@ -459,7 +459,7 @@ The relationship is generally mutually beneficial. Incubators support the local 
 
 In conclusion, the article asserts that the synergies created through the startup-incubator relationship are an important driver of innovation and new venture formation. Both parties can achieve more through collaboration than they would separately. Effective incubators screen startups carefully and provide tailored, holistic support to help maximize their potential for commercial success.
 
- Here is a summary of the key points:
+ 
 
 - In the late 19th century, William James discussed the idea of the self or ego in his seminal work The Principles of Psychology. He viewed the self as consisting of both the material self (body) and the social self (how one views themselves and is viewed by others). 
 

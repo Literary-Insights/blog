@@ -23,7 +23,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - The summary highlights how the American soccer system overlooks talented smaller kids in favor of those who mature faster, and how the author's unconventional father helped put him on a better development path.
 
- Here is a summary of the key points:
+ 
 
 - As a kid, the author joined an elite club soccer team that focused on skill development and passing drills rather than just winning games. This was seen as controversial by some parents.
 
@@ -35,7 +35,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - In the end, while he cherished the bonds formed through college soccer, the author feels the experience didn't help him improve as a player as much as it could have due to the systemic focus on results over development.
 
- Here is a summary of the key points:
+ 
 
 - In the early years of the World Cup, the tournament was dominated by teams from South America and Europe. Teams from other regions rarely qualified or advanced past the group stage. 
 
@@ -47,7 +47,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - The upset highlighted the flaws in relying too much on reputation and conventional wisdom in soccer, rather than objectively analyzing the strengths of opponents. It marked the start of African teams being taken more seriously on the global stage.
 
- Here is a summary of the key points:
+ 
 
 - In the 1982 World Cup, West Germany and Austria played for a result that would see both teams advance at the expense of Algeria, who had already exceeded expectations. The match was highly uncompetitive and ended 1-0 to West Germany. This became known as the "Disgrace of Gijón".
 
@@ -61,7 +61,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - Bornn acquired tracking data and brought his movement analysis expertise to sports. He joined the NBA's Toronto Raptors in an analytics role.
 
- Here is a summary of the key points:
+ 
 
 - Cameron Bornn was an academic focused on analyzing crop data, but became interested in sports analytics when he got access to NBA player tracking data in 2012. He shifted his research to papers on basketball analytics and eventually left academia for sports industry jobs. 
 
@@ -73,7 +73,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - Bornn took a job with AS Roma soccer club to bring analytics to soccer. But with its free-flowing nature, soccer has proven a very difficult sport for analytics compared to baseball, basketball etc. Modeling and measuring player contributions is a major challenge.
 
- Here is a summary of the key points:
+ 
 
 - Luca Bornn was hired as chief analytics officer by Italian soccer club AS Roma in 2016, despite having little soccer experience. He had limited impact, as the manager Luciano Spalletti was not interested in analytics. 
 
@@ -87,7 +87,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - The soccer world has been slow to adopt advanced analytics compared to other sports like baseball and basketball. There is significant potential for growth in this area.
 
- Here is a summary of the key points:
+ 
 
 - Prozone offered visual tracking data of player movements in the 1990s, giving teams insights into physical performance like distance run and sprints. However, it lacked ball tracking, which was key context. 
 
@@ -99,7 +99,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - There is still a need today for more detailed tracking data and advanced analysis to better understand the full context of the game.
 
- Here is a summary of the key points:
+ 
 
 - Soccer suffers from a lack of useful data. Teams only get tracking data for their own league's matches, which limits scouting and analysis. Most tracking data just provides trivial facts rather than meaningful insights. 
 
@@ -109,7 +109,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - Overall, the lack of data combined with the distorting impact of rare goals means soccer tactics may be dominated by coaches' observational biases rather than objective evidence. More and better data is needed to bring evidence-based decision making to the sport.
 
- Here is a summary of the key points:
+ 
 
 - Eduardo Galeano, in his 1995 book Soccer in Sun and Shadow, warned that soccer was becoming too focused on tactics and statistics at the expense of creativity and freedom. 
 
@@ -121,7 +121,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - Despite analytics, soccer outcomes can come down to randomness, much like baseball playoffs. Bornn recognizes the limitations of data and the unpredictability of soccer results, especially in small samples like playoffs.
 
- Here is a summary of the key points:
+ 
 
 - The author discusses how he was taught in Catholic school that Jesus did not have any biological brothers or sisters. However, some scholars like Mikael Haxby argue that references to "the brother of Jesus" in early Christian texts suggest Jesus did have a brother named James. 
 
@@ -131,7 +131,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - This segues to the story of Michael Caley, a baseball analyst who challenged the orthodox narratives in baseball analysis by incorporating new data and perspectives, only to meet resistance from the establishment. Just as with early Christianity, bringing in new voices and information can clarify long-held stories in sports that turn out to be wrong.
 
- Here is a summary of the key points:
+ 
 
 - In the early 2000s, Michael Lewis's book Moneyball sparked a debate between baseball traditionalists like Joe Morgan and new statistically-minded analysts like Mike Schur. Schur criticized Morgan's conventional wisdom through his blog Fire Joe Morgan. 
 
@@ -143,7 +143,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - Coming from baseball fandom, Caley brought a fresh statistical perspective unlike lifelong soccer fans. He aimed to reveal new insights into soccer strategy and player impact.
 
- Here is a summary of the key points:
+ 
 
 - Baseball analytics provided a framework for thinking about value production in soccer, but the sports are quite different - baseball has segmented matchups while soccer is continuous and chaotic. 
 
@@ -155,7 +155,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - Caley dug into new Opta data on shot locations but had to self-teach coding and statistics to interpret it. He found evidence that shot location matters for goal likelihood. Teams try to create different shot types with different value.
 
- Here is a summary of the key points:
+ 
 
 - Gordon Strachan, a former soccer player and manager, was angry after being told by his doctor that he could no longer eat some of his favorite foods. 
 
@@ -169,7 +169,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - Power was set to meet with Strachan, who did not appreciate analytical challenges to his beliefs, to discuss new approaches to analyzing the game.
 
- Here is a summary of the key points:
+ 
 
 - Gavin Power, a soccer analytics expert, got his start by analyzing player tracking data and writing his master's thesis on valuing the space players create with their runs. He impressed the data company Prozone and was hired full-time.
 
@@ -181,7 +181,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - The concept resonates with experienced soccer minds, even if the terminology is new. xG captures the distinction between match results and underlying performance that managers have talked about for decades.
 
- Here is a summary of the key points:
+ 
 
 - Expected goals (xG) analysis by Michael Caley showed that Cristiano Ronaldo was not actually in decline despite a slow start to the 2017-18 season. His xG showed he was getting good chances and was due for more goals. 
 
@@ -193,7 +193,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - xG provides a more objective way to judge quality over narratives prone to bias. It shows that goal scoring slumps are often just bad luck rather than decline in ability. This can prevent teams from making misguided personnel decisions based on short-term results.
 
- Here is a summary of the key points:
+ 
 
 - In the mid-late 1800s, baseball and soccer were both emerging as popular sports in the US and England respectively. 
 
@@ -211,7 +211,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - However, there was resistance to giving too much power to centralized authorities, with tensions over control and money. This resulted in breakaway leagues starting up when disputes arose.
 
- Here is a summary of the key points:
+ 
 
 - In the late 19th century, baseball in America and soccer in England went through a transition from amateurism to professionalism. This was driven by working-class players who were skilled but couldn't afford to play for free.
 
@@ -225,7 +225,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - Szymanski's research revealed how soccer clubs succeeded financially, showing the importance of on-field performance and TV money in the modern game.
 
- Here is a summary of the key points:
+ 
 
 - In 1991, economist Stefan Szymanski published a pioneering paper finding that player wages were the main predictor of team success in soccer. Higher spending led to more success on the field. 
 
@@ -239,7 +239,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - However, despite having more resources, top clubs have not necessarily become more ruthless in pursuing competitive edges. The market has not weeded out inefficient clubs as some theories predicted.
 
- Here is a summary of the key points:
+ 
 
 - Simon Kuper and Stefan Szymanski found a strong correlation between wages and performance in English soccer in the 1990s. This suggested clubs were not innovating beyond simply spending more on players. 
 
@@ -253,7 +253,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - The wage-performance link endures because no one is trying new ideas - they just copy and spend. True innovation would break this link, but it hasn't happened.
 
- Here is a summary of the key points:
+ 
 
 - Manchester United was one of the most successful English soccer clubs in the 1950s and 1960s under manager Matt Busby. After a plane crash killed several players in 1958, the team recovered to win the European Cup 10 years later. 
 
@@ -265,7 +265,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - Woodward focused on commercial deals rather than on-field performance. His lack of football knowledge and reluctance to hire a proper director of football led to poor player recruitment and team building.
 
- Here is a summary of the key points:
+ 
 
 - Billy Beane, the baseball executive of "Moneyball" fame, inspired a new generation of sports executives who relied on data and analytics rather than intuition and tradition. However, this revolution has been slower to take hold in European soccer.
 
@@ -279,7 +279,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 In summary, European soccer has been slow to adopt analytics and outside perspectives due to cultural inertia, financial disincentives for risk, and structural factors - though this may be gradually changing with a new generation.
 
- Here is a summary of the key points:
+ 
 
 - In the 1980s, soccer was exploding in popularity across the world, with successful teams and players emerging from diverse places like Argentina, Italy, and Africa. There was a sense that any country could compete at the highest level. 
 
@@ -293,7 +293,7 @@ In summary, European soccer has been slow to adopt analytics and outside perspec
 
 - Though ignored at the time, Pollard's ideas presaged the data-driven analysis that now dominates soccer tactics and strategy. His evidence-based approach was ahead of its time.
 
- Here is a summary of the key points:
+ 
 
 - Soccer and war have long been connected in England, with the English style of play often likened to wartime strategies. Thorold Charles Reep was an accountant in the Royal Air Force who became obsessed with analyzing soccer statistically after attending lectures on tactics by an Arsenal captain in the 1930s. 
 
@@ -317,7 +317,7 @@ In summary, European soccer has been slow to adopt analytics and outside perspec
 
 - However, the direct style was later blamed as England struggled in tournaments under Taylor's management. The meeting between Reep, Taylor and Hughes marked the peak of their influence.
 
- Here is a summary of the key points:
+ 
 
 - Charles Reep was an accountant who became obsessed with analyzing soccer matches in the 1950s and 60s. He believed short passing moves were ineffective and that teams should play more direct "long ball" style. 
 
@@ -345,7 +345,7 @@ In summary, European soccer has been slow to adopt analytics and outside perspec
 
 So in summary, Reep, Pollard, and modern coaches like Klopp and Guardiola have focused on quickly getting the ball into the opponent's third of the field as a key tactical aim. Their analyses and strategies centered on increasing possession in dangerous areas near the goal through long balls, pressing, and goalkeeper distribution.
 
- Here is a summary of the key points:
+ 
 
 - Charles Reep was an early pioneer in soccer analytics, attempting to measure and analyze aspects of the sport in the 1950s and 60s using basic tallies of events like passes and shots. His work influenced coaches like Graham Taylor to adopt a long-ball style of play. 
 
@@ -357,7 +357,7 @@ So in summary, Reep, Pollard, and modern coaches like Klopp and Guardiola have f
 
 - The history illustrates the difficulties pioneers in soccer analytics faced in getting acceptance and applying new approaches to a traditional sport. Pollard's line about coaches being "paranoid" at analytics sums it up.
 
- Here is a summary of the key points:
+ 
 
 - Science involves creating hypotheses and then rigorously testing them through experiments and data analysis. The scientific method requires controlling for variables and repeating tests to prove or disprove a hypothesis. 
 
@@ -371,7 +371,7 @@ So in summary, Reep, Pollard, and modern coaches like Klopp and Guardiola have f
 
 - Ankersen wrote books on talent development, catching the attention of Matthew Benham, a sports betting entrepreneur. Benham bought Midtjylland and brought Ankersen on to apply scientific ideas to improve the club.
 
- Here is a summary of the key points:
+ 
 
 - Matthew Benham became convinced that the statistical modeling he used for sports betting could be applied to running a soccer club. He bought his boyhood club Brentford in England, but it would be a long journey to reach the top level. 
 
@@ -385,7 +385,7 @@ So in summary, Reep, Pollard, and modern coaches like Klopp and Guardiola have f
 
 - Their goal is to become a top 50 European club through boosting their player budget via better performance, transfer fees, and commercial revenue. If successful, it will validate their analytics approach.
 
- Here is a summary of the key points:
+ 
 
 - Midtjylland faced challenges implementing data and analytics due to their small budget compared to top clubs. As a small club, the cost of analytics can be 10% or more of their player budget, whereas top clubs only spend 0.5%. 
 
@@ -399,7 +399,7 @@ So in summary, Reep, Pollard, and modern coaches like Klopp and Guardiola have f
 
 - However, on set pieces the game becomes more scientific since offenses can plan and defenses must stay back. There is an opportunity there for analytics.
 
- Here is a summary of the key points:
+ 
 
 - Roberto Martínez coached Wigan Athletic to success in the Premier League using a possession-based style despite having one of the cheapest rosters. This approach eventually failed due to limitations in personnel - the attackers couldn't convert the possession into goals and the defenders conceded too easily on the counterattack. 
 
@@ -413,7 +413,7 @@ So in summary, Reep, Pollard, and modern coaches like Klopp and Guardiola have f
 
 - However, FC Midtjylland disproved this - they focused heavily on set pieces under Matthew Benham's analytics approach and won the Danish league in 2014-15, scoring 25 set piece goals. When they publically revealed their set piece success, other Danish teams copied them and set piece scoring rose league-wide.
 
- Here is a summary of the key points:
+ 
 
 - In 2014-15, Danish club Midtjylland scored a league-high 25 goals from set pieces, helping them win the title. Their success showed the value of practicing set pieces rather than just focusing on possession play.
 
@@ -427,7 +427,7 @@ So in summary, Reep, Pollard, and modern coaches like Klopp and Guardiola have f
 
 - Set pieces provide higher conversion rates than open play, yet many clubs still undervalue practicing them. In-swinging corners to the near post tend to be most effective.
 
- Here is a summary of the key points:
+ 
 
 - Ted Knutson grew up in De Motte, Indiana, a small, predominantly white Midwestern town with little soccer culture. 
 
@@ -445,7 +445,7 @@ So in summary, Reep, Pollard, and modern coaches like Klopp and Guardiola have f
 
 - His career arc shows how soccer analytics has gone from obscure to integral, led by pioneers from unlikely backgrounds who saw untapped potential.
 
- Here is a summary of the key points:
+ 
 
 - European soccer has no draft system, distributes TV revenue unequally, and only limits spending relative to overall revenue. This might be expected to advantage the richest cities like London and Paris, yet smaller industrial cities like Liverpool, Manchester, and Dortmund have historically been more successful. 
 
@@ -457,7 +457,7 @@ So in summary, Reep, Pollard, and modern coaches like Klopp and Guardiola have f
 
 - Through video games, the 1998 World Cup, and working night shifts, Knutson unexpectedly got into soccer. He built a career in stats and data analysis, eventually becoming a pioneer in soccer analytics. PSG hoped he could help transform their fortune in Europe.
 
- Here is a summary of the key points:
+ 
 
 - Knutson started playing Magic: The Gathering, a fantasy card game, and managed a website for it. The game helped train skills useful for poker, sports betting, and gaming. 
 
@@ -493,7 +493,7 @@ Knutson realized he had a talent for high-level soccer analysis and foresaw the 
 
 In summary, StatsBomb demonstrated the potential for soccer analytics to empower players and provide public insights, despite initial resistance from the traditional soccer establishment. Knutson has pushed the field forward while preserving public access to analytical knowledge.
 
- Here is a summary of the key points:
+ 
 
 - Knutson turned StatsBomb into a consultancy, while keeping the blog to market StatsBomb's approach. The consultancy allowed him to reach curious people at clubs worldwide, giving them advice on transfers and coaching hires. 
 
@@ -507,7 +507,7 @@ In summary, StatsBomb demonstrated the potential for soccer analytics to empower
 
 - In 2018 StatsBomb became a data company, aiming to create new expected goals models that captured action in the moment rather than just aggregates. This could better mimic reality on a per-shot basis.
 
- Here is a summary of the key points:
+ 
 
 - Expected goals (xG) models attempt to quantify the quality of chances in soccer, but they have limitations. A basic xG model may not account for important contextual factors like whether the shooter is facing pressure from defenders. 
 
@@ -519,7 +519,7 @@ In summary, StatsBomb demonstrated the potential for soccer analytics to empower
 
 - Incorporating previously overlooked factors like pressure and expected save percentage sheds more light on player performance. The difference between good and average is often invisible to the eye, but quantifiable in the data. Advanced analytics provide new ways to see the game.
 
- Here is a summary of the key points:
+ 
 
 - Baseball has a long history of data collection and public availability of stats, going back to 1876. Soccer lacks this historical record, with limited data prior to the 2000s from companies like Opta. 
 
@@ -549,7 +549,7 @@ In summary, StatsBomb demonstrated the potential for soccer analytics to empower
 
 In summary, soccer lacks the overt displays of athletic brilliance that make other American sports naturally entertaining. Analytics seek to decode the game's hidden sophistication to make it more accessible and popular.
 
- Here is a summary of the key points:
+ 
 
 - Sergio Busquets was a key player for Barcelona and Spain, enabling their success, but didn't receive the same plaudits as stars like Messi and Xavi. His coaches and teammates praised his intelligence, positioning, and passing ability. 
 
@@ -561,7 +561,7 @@ In summary, soccer lacks the overt displays of athletic brilliance that make oth
 
 - There are questions over how to quantify Busquets' impact and the value of different roles like creative midfielders versus holders like him. Statistics struggle to capture the nuance of his positional play.
 
- Here is a summary of the key points:
+ 
 
 - 21st Group is a sports consultancy that uses data analysis to help professional teams improve their decision-making. They started in soccer but have expanded to other sports like golf. 
 
@@ -575,7 +575,7 @@ In summary, soccer lacks the overt displays of athletic brilliance that make oth
 
 - He argues soccer should value goal scorers more than other positions, like baseball does with catchers, because scoring is so precise and low-scoring compared to defense and midfield play. But this goes against the tendency to value central midfielders most.
 
- Here is a summary of the key points:
+ 
 
 - There is a theory that midfielders make the best managers because they have awareness of the whole field. Pep Guardiola, a highly successful manager, was a midfielder. 
 
@@ -587,7 +587,7 @@ In summary, soccer lacks the overt displays of athletic brilliance that make oth
 
 - The story explores the debate around the value of midfielders versus attackers. It suggests stats and data can reveal midfield contributions not captured by goals and assists. Sparv is an example of a midfielder identified by analytics as hugely valuable.
 
- Here is a summary of the key points:
+ 
 
 - At Danish club Midtjylland, statistics and data were incorporated into messaging for players, but not in an overwhelming way. The data informed guidance given to players, such as advising them not to shoot from certain areas of the field. 
 
@@ -601,7 +601,7 @@ In summary, soccer lacks the overt displays of athletic brilliance that make oth
 
 - Having developed this as a current player, Reinartz was uniquely positioned to get people in soccer to listen to his statistical ideas.
 
- Here is a summary of the key points:
+ 
 
 - Simon Reinartz was a German midfielder who created a new soccer statistic called "packing," which measures how many opposing players a player takes out of the game with their passes. 
 
@@ -629,7 +629,7 @@ In summary, soccer lacks the overt displays of athletic brilliance that make oth
 
 - The key innovation was finding a way to quantify the danger or value of passes to capture important moments, not just passes that directly lead to shots. This provides more context compared to just tallying up passes or looking at aggregate pass maps.
 
- Here are the key points:
+ 
 
 - Karun Singh developed Expected Threat (xT) to quantify the value of different areas of the soccer pitch and reward players for progressing the ball into more dangerous areas. 
 
@@ -643,7 +643,7 @@ In summary, soccer lacks the overt displays of athletic brilliance that make oth
 
 - Singh developed xT to advance soccer analytics, not for a practical team application. The limitations show the difficulty of quantifying a complex, fluid game like soccer.
 
- Here is a summary of the key points:
+ 
 
 - The author discusses a 2018 paper by Bornn and Fernández that used GPS tracking data to measure space creation and occupation in soccer. The paper found Lionel Messi was unmatched at occupying valuable space, while Sergio Busquets stood out for his ability to both occupy space and create space for teammates. 
 
@@ -707,7 +707,7 @@ In summary, soccer lacks the overt displays of athletic brilliance that make oth
 
 - Overall, Marsch firmly believes in high-risk, aggressive attacking soccer as the optimal style. He has proven it can succeed and produce exciting, fluid play against elite European competition.
 
- Here is a summary of the key points:
+ 
 
 - A smart soccer club would integrate data and analytics into all personnel and strategic decisions, using a common currency to assess decisions. 
 
@@ -725,7 +725,7 @@ In summary, soccer lacks the overt displays of athletic brilliance that make oth
 
 - It would embrace fresh ideas from other sports and countries, being open-minded to new approaches. The emphasis would be on evidence over tradition.
 
- Here is a summary of the key points:
+ 
 
 - Fulham FC struggled after being purchased by Shad Khan in 2013, nearly getting relegated to the third tier of English soccer. 
 
@@ -741,7 +741,7 @@ In summary, soccer lacks the overt displays of athletic brilliance that make oth
 
 - The story illustrates how nepotism provided Fulham with a data-focused director in Tony Khan, but also the challenges of finding consistency and the right formula when bouncing between divisions.
 
- Here is a summary of the key points:
+ 
 
 - Liverpool defender Jamie Carragher harshly criticized Fulham's chaos and drama under American owner Shahid Khan, suggesting Khan should keep quiet and let the club operate properly. 
 
@@ -753,7 +753,7 @@ In summary, soccer lacks the overt displays of athletic brilliance that make oth
 
 - Analytics in soccer has two paths - things we still don't know, and things we know but struggle to apply due to inertia and established practices. Arsenal shows the challenges of integrating analytics.
 
- Here is a summary of the key points:
+ 
 
 - Molly Rudd worked as an analytics executive at Arsenal FC, applying advanced analytics to better understand and improve soccer strategy and player recruitment. 
 
@@ -779,7 +779,7 @@ Javier Fernández joined Barcelona's analytics department in 2014 for his PhD th
 
 Overall, Barcelona's identity was shaped by Cruyff and Guardiola's ideals. Though recent failures show cracks in their philosophy, analytics advances like those by Fernández help maintain their stylistic distinction. Their finances may determine if they can restore their success.
 
- Here is a summary of the key points:
+ 
 
 - Fulham was an early analytics adopter in soccer under Mohammed Al Fayed in the early 2000s. They used analytics to gain promotions to the Premier League twice, but struggled to stay there. 
 
@@ -791,7 +791,7 @@ Overall, Barcelona's identity was shaped by Cruyff and Guardiola's ideals. Thoug
 
 - The story illustrates how soccer analytics has evolved from its early days. Teams need to avoid missteps like Barcelona and Arsenal in order to fully benefit. Liverpool provides a model of how to successfully incorporate analytics.
 
- Here is a summary of the key points:
+ 
 
 - After finishing 6th in 2016, Liverpool signed three attackers - Firmino, Mane, and Salah - for less than $150 million combined. At their peak, their estimated combined value was over $580 million. They scored 279 goals and 121 assists for Liverpool through 2022.
 
@@ -809,7 +809,7 @@ Overall, Barcelona's identity was shaped by Cruyff and Guardiola's ideals. Thoug
 
 - Liverpool's on-field success drove commercial revenue growth, rising club valuations, and enabled further squad investment.
 
- Here is a summary of the key points:
+ 
 
 - The book explores how data and analytics are transforming soccer. It looks at the rise of expected goals (xG) and other advanced stats, and how they are changing how teams play, scout, and make decisions. 
 
@@ -821,7 +821,7 @@ Overall, Barcelona's identity was shaped by Cruyff and Guardiola's ideals. Thoug
 
 - The book considers how analytics could continue to change soccer tactics and the game itself. While it has become more efficient in some ways, the beauty and unpredictability of the sport remains. The search for better data and models continues.
 
- Here is a summary of the key points:
+ 
 
 - The book draws on original interviews as well as past reporting and other sources. 
 

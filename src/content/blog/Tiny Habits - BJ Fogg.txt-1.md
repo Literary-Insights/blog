@@ -159,7 +159,7 @@ That covers the summary's main takeaways - let me know if you need any clarifica
 
 The key takeaway is that when trying to change a behavior, you should follow the troubleshooting steps of checking the prompt, ability and then motivation. This avoids blame and helps you identify the real issues holding you back from the behavior.
 
- Here is a summary of the key points:
+ 
 
 1. Motivation is unreliable for creating lasting behavioral change. It is often fickle and fleeting.
 
@@ -200,7 +200,7 @@ The key is not just motivation, but the right combination of motivation, ability
 
 Hope this summary helps! Let me know if you have any other questions.
 
- Here is a summary of the key points:
+ 
 
 1. Aspirations and outcomes are abstract goals, while behaviors are specific actions you can take in the moment.
 
@@ -218,7 +218,7 @@ Step 2: Explore Behavior Options - Identify specific behaviors that could help y
 
 The key takeaways are the importance of focusing on specific, measurable behaviors rather than abstract goals and using a systematic process like the proposed "behavior design" approach to identify and select appropriate behaviors to help achieve one's aspirations.
 
- Here is a summary of the key points:
+ 
 
 1. Rather than guessing which behaviors will help you achieve your goals, systematically match yourself with specific behaviors that are the right fit. This is called Behavior Matching.
 
@@ -331,7 +331,7 @@ In short, by making the behavior radically tiny and accessible through a Starter
 
 Hope this summary helps! Let me know if you have any other questions.
 
- Here is a summary of the key points:
+ 
 
 1. Start small and make the habit easy to do at first. This could mean scaling back the behavior to a tiny version or finding a starter step.
 
@@ -488,7 +488,7 @@ The exercises prompt the reader to create habit recipes for three different exis
 
 In summary, celebration - creating positive feelings through small actions - is vital to forming new habits in the Tiny Habits method. The author illustrates this through his own experience and the experiences of others he has taught.
 
- Here is a summary of the key points:
+ 
 
 1. Celebration and positive reinforcement can be essential in forming new habits. When you celebrate success, your brain releases dopamine, which helps encode the new behavior and make it more likely to repeat.
 
@@ -502,7 +502,7 @@ In summary, celebration - creating positive feelings through small actions - is 
 
 In summary, celebration and reinforcement of small successes by creating positive emotions can play an essential role in leveraging your brain's reward system to make new behaviors habitual. The emotions you feel matter greatly in developing habits.
 
- Here is a summary of the key points:
+ 
 
 1. Emotions, not repetition or frequency, create habits. When you have a strong positive emotional reaction to a behavior, it becomes a habit quickly. 
 
@@ -610,7 +610,7 @@ Hope this summary helps! Let me know if you have any other questions.
 
 In summary, by correctly forming habits using the Tiny Habits method, your habits will automatically grow and scale to meet your aspirations - either by expanding the habit or multiplying it into more related habits. Listening to your motivation and ability will guide how big the habit eventually grows.
 
- Here is a summary of the key points:
+ 
 
 • A habit does not grow but can multiply and have ripple effects. Starting small positive habits can lead to other good habits naturally. 
 

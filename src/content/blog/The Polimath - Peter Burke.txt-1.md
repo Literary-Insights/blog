@@ -146,7 +146,7 @@ So in summary, the passage describes several 16th century scholars who excelled 
 
 So in summary, the passage establishes the 17th century as the height of scholarly polymaths or "universal scholars" due to influences like Bacon who promoted intellectual curiosity, as shown by the rise in known polymaths from this period.
 
- Here is a summary of the key points:
+ 
 
 - The ration (ship) in 1620 that sailed between the pillars (Pillars of Hercules) had the motto "multi pertransibunt et augebitur scientia" which means "many will pass through and knowledge will be increased". 
 
@@ -166,7 +166,7 @@ So in summary, the passage establishes the 17th century as the height of scholar
 
 - However, her devotion to learning was criticized by the bishop of Puebla. She was forbidden from publishing her ideas and ordered to give away her books.
 
- Here is a summary of the key points:
+ 
 
 - The passage introduces Nicolas-Claude Fabri de Peiresc as an example of an early modern polymath and virtuoso who collected artifacts and objects of interest from across different disciplines and cultures. 
 
@@ -194,7 +194,7 @@ So in summary, the passage establishes the 17th century as the height of scholar
 
 This passage discusses Gottfried Wilhelm Leibniz as the most famous example of a 17th century polymath. It outlines his wide-ranging intellectual interests and activities, which extended beyond his usual recognition as a philosopher. Leibniz was also actively involved in mathematics, theology, linguistics, history, law, politics, China studies, library management, technology/invention, and practical projects like academic foundations. He had an "insatiable curiosity" and driving ambition to reform all the sciences through collaboration. The passage establishes Leibniz as the prime exemplar of the 17th century polymath, or "Renaissance man."
 
- Here is a summary of the key points:
+ 
 
 - John Selden was a renowned 17th century English jurist and scholar with impossibly wide-ranging interests and learning across many languages, including medieval English history, oriental studies, various types of law, ancient religions, and more. 
 
@@ -234,7 +234,7 @@ However, this expansion of knowledge also led to Anxiety as it became impossible
 
 - Later critiques focused on how polymaths tended to be superficial or not finish projects due to taking on too many diverse interests. The "Leonardo syndrome" of beginning many projects but completing few was seen as an issue for some polymaths.
 
- Here is a summary of the key points:
+ 
 
 - In the 18th century, there was a decline in the reputations of polymath scholars like Olof Rudbeck and Athanasius Kircher. Their intellectual works were seen as having serious flaws and overly speculative. 
 
@@ -326,7 +326,7 @@ In 18th century Scotland, philosophers like Hume, Smith, Ferguson and their coll
 
 - Figures like Harriet Martineau, George Eliot, Mary Somerville and Alexander von Humboldt exemplified the polymathic pursuit of knowledge across diverse academic disciplines in the 19th century.
 
- Here is a summary of the key points:
+ 
 
 - Charles Darwin was described as a polymath or "many-sided scientist" who contributed to several disciplines including botany, geology, zoology, and publishing works in each of those fields. His most famous work On the Origin of Species combined scientific observations with literary narrative style. 
 
@@ -338,7 +338,7 @@ In 18th century Scotland, philosophers like Hume, Smith, Ferguson and their coll
 
 - By the late 18th century, there was increasing discussion around specialization and division of intellectual labor as knowledge grew. Institutions were founded focused on individual scientific disciplines, encouraging fragmentation and dismantling of the older model of the polymath scholar.
 
- Here is a summary of the key points:
+ 
 
 - By the late 19th century, wide-ranging scholars (polymaths) were increasingly criticized for attempting to master too many subjects and fields of knowledge. Specialization was seen as necessary to make progress. 
 
@@ -352,7 +352,7 @@ In 18th century Scotland, philosophers like Hume, Smith, Ferguson and their coll
 
 The passage discusses how knowledge became increasingly specialized and divided in the late 19th century. Universities started developing separate departments for different disciplines like medicine, political science, sociology, etc. Professors became specialists focused on narrow fields. New research universities in places like Germany and the US further encouraged specialization. Outside universities as well, knowledge institutions grew more specialized, with museums focusing on particular topics and scholarly societies forming for individual disciplines. Overall, there was a territorialization and fragmentation of knowledge as boundaries between fields hardened and academics staked claims over their own domains. This trend toward specialization challenged the notion of the polymath able to engage broadly in many areas of study.
 
- Here is a summary of the key points:
+ 
 
 - Specialization increased dramatically in the late 19th century in fields like medicine, with the emergence of specialist societies and congresses like dermatology and otolary' (ear, nose and throat). These helped forge identities among specialists. 
 
@@ -428,7 +428,7 @@ Herbert Simon had a broad education across various fields at the University of C
 
 Michel de Certeau was a Jesuit priest as well as a historian and semiotician who studied everyday life and consumer behavior. He had wide-ranging interests across various academic disciplines.
 
- Here is a summary of the key points:
+ 
 
 - The political scientist was particularly interested in the process of making decisions and turned to fields like public administration, business administration, and economics to study decision-making and behavior. 
 
@@ -440,7 +440,7 @@ Michel de Certeau was a Jesuit priest as well as a historian and semiotician who
 
 - In summarizing his career characteristics, he had a strong interest in decision-making and behavior that led him to draw from multiple fields like economics, psychology, and computer science to study human problem-solving and cognition. He took an interdisciplinary approach and considered himself first a behavioral scientist rather than belonging strictly to any one academic field.
 
- Here is a summary of the key points:
+ 
 
 - Curiosity is often described as a defining characteristic of polymaths, with terms like "omnivorous", "passionate", "obsessive" used. Many polymaths described themselves as having an "insatiable thirst for knowledge". 
 
@@ -464,7 +464,7 @@ Michel de Certeau was a Jesuit priest as well as a historian and semiotician who
 
 - A surplus of energy sometimes led to restlessness, with some polymaths like von Humboldt and Morris being described as restless. Others embraced nomadism, moving constantly between different interests and locations. Serial polymaths move from one field to another over time.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses several polymaths from history who pursued wide-ranging interests across multiple fields such as science, arts, humanities, and more. 
 
@@ -476,7 +476,7 @@ Michel de Certeau was a Jesuit priest as well as a historian and semiotician who
 
 - Specific polymaths mentioned include Leonardo da Vinci, Nicolaus Copernicus, Gottfried Leibniz, Madame de Staël, Voltaire and Émilie du Châtelet, John Herschel, Alexander von Humboldt, and Mary Somerville.
 
- Here is a summary of the key points:
+ 
 
 - Mary Somerville (1780-1872) was a Scottish scientist and polymath. She concentrated on synthesizing knowledge from different fields and published her major work "On the Connection of the Physical Sciences" in 1834. 
 
@@ -546,7 +546,7 @@ Some key polymaths mentioned include Susan Sontag, Clara Gallini, Gayatri Chakra
 
 - Later polymaths often collaborated more as mastering many disciplines grew more difficult. Notable collaborations included Ogden with Richards, von Neumann with Wiener and Morgenstern, and Shannon with Weaver.
 
- Here is a summary of the key points:
+ 
 
 - Throughout history, teams drawing expertise from different disciplines have been important for large scientific expeditions, industrial research labs, and projects funded by governments. 
 

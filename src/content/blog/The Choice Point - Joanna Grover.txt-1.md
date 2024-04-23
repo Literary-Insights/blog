@@ -25,7 +25,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - The introduction sets the stage for how FIT techniques can help individuals and teams perform at their peak by leveraging the mind-body connection through vivid sensory imagery training.
 
- Here is a summary of the key points:
+ 
 
 - The book introduces a method called Functional Imagery Training (FIT) developed by psychologists to help people override cravings and stick to goals. 
 
@@ -69,7 +69,7 @@ This demonstrates the effectiveness of FIT in providing tools for self-sufficien
 
 Overall, the study shows FIT enabled significant weight loss with minimal practitioner contact, and gave participants the ability to continue progressing independently towards their goals. The techniques helped participants manage impulses and stay focused on their long-term aims.
 
- Here is a summary of the key points:
+ 
 
 - FIT (Future-Oriented Identity Training) is an intervention that helps people master their thoughts and achieve goals by directing attention to long-term objectives. 
 
@@ -87,7 +87,7 @@ Overall, the study shows FIT enabled significant weight loss with minimal practi
 
 - We can choose to elaborate on thoughts or not at "choice points." Iris relied on muscle memory diving, didn't imagine the dive, and was injured.
 
- Here is a summary of the key points:
+ 
 
 - Iris emerged from a cliff diving accident bruised and injured, but without any broken bones. After spending time in the hospital, she joined her fellow divers for a drink that evening. However, the experience caused her physiological and psychological trauma. 
 
@@ -105,7 +105,7 @@ Overall, the study shows FIT enabled significant weight loss with minimal practi
 
 - We can only elaborate on one thought "box" at a time. The choice of which to open and explore is key to determining our responses.
 
- Here is a summary of the key points:
+ 
 
 - FIT (Functional Imagery Training) is a 3-minute daily exercise that helps people make choices aligned with their goals and brings enjoyment to life. Practicing it over time leads to better goal-oriented decision making. 
 
@@ -119,7 +119,7 @@ Overall, the study shows FIT enabled significant weight loss with minimal practi
 
 - FIT taps into the wisdom people already have within and helps them align emotions and behaviors with goals. Practicing FIT rewires thinking over time to make wise choices intuitive.
 
- Here is a summary of the key points:
+ 
 
 - Motivational interviewing is a counseling technique developed by William Miller and Stephen Rollnick to help motivate people to change behaviors. It is more effective than traditional advice-giving. 
 
@@ -147,7 +147,7 @@ Overall, the study shows FIT enabled significant weight loss with minimal practi
 
 The main takeaway is that unwavering commitment, built from many small choice points, is essential to turn dreams into reality. The chapter provides guidance on building robust commitment.
 
- Here is a summary of the key points:
+ 
 
 - In 1985, Jo's father Al Sr. and brother Al Jr. attempted to cross the Atlantic in a small motorboat. The night before they left, they were nervous but tried to bolster their spirits. 
 
@@ -203,7 +203,7 @@ In summary, multisensory imagery is very powerful and can elicit strong physiolo
 
 - The better your imagery skills, the more you can mentally prepare, enhance performance, and persevere through challenges. Imagery provides a way to rehearse goals like an athlete rehearses their sport.
 
- Here is a summary of the key points:
+ 
 
 - Vividness refers to the clarity and detail of mental images. Improving vividness is like upgrading the picture quality on a TV. 
 
@@ -271,7 +271,7 @@ Keep practicing daily for a few minutes at a time. The more sensory details you 
 
 The key is to engage all your senses, elaborate on details, and connect imagery to memories and emotions. With practice, vivid and useful imagery is possible for most people.
 
- Here is a summary of the key points:
+ 
 
 - The two scenes illustrate how motivational imagery can help someone push past the urge to quit when facing adversity. 
 
@@ -285,7 +285,7 @@ The key is to engage all your senses, elaborate on details, and connect imagery 
 
 - To use holistic imagery, first explore your values, beliefs, attitudes and goals. Then strengthen your cognitive imagery skills. Finally, link motivating images to your purpose and meaning to stay focused on your goals through challenges.
 
- Here is a summary of the key points:
+ 
 
 - Jonathan, a performance coach, interviewed three talented young fencers to understand why one began significantly outperforming the others. 
 
@@ -351,7 +351,7 @@ In summary, the FIT model uses imagery strategically to turn motivation into com
 
 - Mastering the reset process takes practice but can help manage stress, boost motivation, improve sleep, and more. Make time for it daily.
 
- Here is a summary of the key points:
+ 
 
 - The sympathetic nervous system triggers the "fight or flight" response. If left unchecked, this stress reaction can become a habitual way of responding, leading to chronic stress and hyperreactivity. This reduces performance, relationships, health, and joy. 
 
@@ -365,7 +365,7 @@ In summary, the FIT model uses imagery strategically to turn motivation into com
 
 - SLAPP resets your thinking from destructive to constructive, managing emotions and regaining logical control. This allows shifting negative thoughts to positive for consistent performance.
 
- Here is a summary of the key points:
+ 
 
 - FIT (Future Imagery Training) is a mental reset technique that involves Locate-Activate-Persevere (LAP) for daily practice and Stop-Locate-Activate-Park-Persevere (SLAPP) for moments of struggle. 
 
@@ -377,7 +377,7 @@ In summary, the FIT model uses imagery strategically to turn motivation into com
 
 - Overall, FIT and SLAPP allow people to reset unhelpful thoughts during challenging tasks and improve focus, motivation, and performance. The technique is adaptable to individual needs.
 
- Here is a summary of the key points:
+ 
 
 - Annie came up with her own personalized version of the SLAPP process (Supplemental Learning and Planning Process) to help her succeed on exams. She would mentally recreate the classroom where she originally learned the material and visualize herself answering test questions. 
 
@@ -391,7 +391,7 @@ In summary, the FIT model uses imagery strategically to turn motivation into com
 
 - Now it's time to go beyond personal performance and use imagery to foster collaboration, innovation and connectedness in teams and communities.
 
- Here is a summary of the key points:
+ 
 
 - Jonathan, a graduate student working on his thesis, met with Bryan, who offered to pay Jonathan if he could help Bryan's soccer team get promoted out of their league by the end of the season. 
 
@@ -441,7 +441,7 @@ In summary, the FIT model uses imagery strategically to turn motivation into com
 
 - The key is getting employees intrinsically motivated and committed to working towards the company's overarching targets. Defining a shared goal and purpose is an important step in this process.
 
- Here is a summary of the key points:
+ 
 
 - Organizations with a shared purpose and goal tend to have that purpose extend into the personal lives of members. 
 
@@ -459,7 +459,7 @@ In summary, the FIT model uses imagery strategically to turn motivation into com
 
 - By taking the perspective of competitors, teams can better anticipate threats and generate internal opportunities.
 
- Here is a summary of the key points:
+ 
 
 - Teams should use "Team Imagery" to envision possible outcomes and create plans: 
 
@@ -501,7 +501,7 @@ In summary, the FIT model uses imagery strategically to turn motivation into com
 
 - AIM promotes planned accountability - team members solve problems proactively.
 
- Here is a summary of the key points:
+ 
 
 - Burnout is characterized by exhaustion, cynicism/negativity towards work, and reduced professional efficacy. It is caused by chronic workplace stress.
 
@@ -541,7 +541,7 @@ The key is open communication, role clarity, reasonable workload, autonomy, work
 
 The key is to build trust, communicate authentically, and help each member feel valued. This creates belonging and shared accountability. With the right culture, teams can overcome almost any challenge.
 
- Here is a summary of the key points:
+ 
 
 - Next-level team imagery involves using imagery to make a positive impact on the world beyond your own goals or your team's goals. Examples could include tackling issues like climate change, education, mental health, etc. 
 
@@ -557,7 +557,7 @@ The key is to build trust, communicate authentically, and help each member feel 
 
 - With inspired leadership and purpose-driven team imagery, organizations can drive progress on the world's greatest challenges.
 
- Here is a summary of the key points:
+ 
 
 - Maslow's hierarchy of needs places self-actualization and fulfilling goals at the top. But research shows happiness comes more from social connections than self-actualization. 
 
@@ -575,7 +575,7 @@ The key is to build trust, communicate authentically, and help each member feel 
 
 - Timing is key - people only change when ready. Forcing change fails. But imagery creates motivation and solutions for the right time.
 
- Here is a summary of the key points:
+ 
 
 - For people to sustain change, their personal autonomy and self-determination must be fostered. Assessing someone's readiness for change on a scale of 0-10 allows for reflection and discussion about their motivations. 
 
@@ -589,7 +589,7 @@ The key is to build trust, communicate authentically, and help each member feel 
 
 Overall, the chapter emphasizes the power of imagination, diverse collaboration, and finding the right timing and goals to motivate personal and collective change. Fostering autonomy while building urgency and accountability can help teams come together to drive impact.
 
- Here is a summary of the key points:
+ 
 
 - Diverse thinkers who challenge our views are essential for solving problems, innovating, and achieving goals, even though our natural tendency is to prefer hanging out with like-minded people. 
 

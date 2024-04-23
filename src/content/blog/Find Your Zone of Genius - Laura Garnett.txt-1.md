@@ -31,7 +31,7 @@ BOOK LINK:
 
 - The book will share the process she used to find her Zone of Genius and guide readers through the same process.
 
- Here is a summary of the key points:
+ 
 
 - We are born as our authentic selves, but as we grow up we often lose touch with that authenticity due to societal pressures and expectations. 
 
@@ -109,7 +109,7 @@ The key is to not get stuck seeking passion, but to dig deeper to find your purp
 
 In summary, passion is not enough to find fulfilling work. Connect your genius to your purpose, influenced by your core emotional challenge, to determine the impact that motivates you. This leads to sustainable career success and satisfaction.
 
- Here is a summary of the key points:
+ 
 
 - The author realized her core emotional challenge is not feeling seen or understood after relating to a guest on Oprah's show who described struggling to fit in. 
 
@@ -125,7 +125,7 @@ In summary, passion is not enough to find fulfilling work. Connect your genius t
 
 - Finding your purpose starts with identifying your core emotional challenge through self-reflection on impactful life experiences. Naming it creates focus for fulfilling work.
 
- Here is a summary of the key points:
+ 
 
 - There is a difference between intrinsic motivation (driven by internal rewards like purpose, meaning, growth) and extrinsic motivation (driven by external rewards like money, status, avoiding punishment). 
 
@@ -141,7 +141,7 @@ In summary, passion is not enough to find fulfilling work. Connect your genius t
 
 - To experience fulfillment at work, take stock of your core purpose and find ways to apply your genius to create meaningful impact. Seek roles and projects aligned with this impact.
 
- Here are the key points:
+ 
 
 - Gen Z entering the workforce is more focused on meaning, connection, autonomy, flexibility, inclusiveness, and diversity. This is driving shifts in how business operates. 
 

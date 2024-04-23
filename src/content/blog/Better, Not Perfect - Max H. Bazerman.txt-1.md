@@ -55,7 +55,7 @@ The text argues that by adopting an ethical "North Star" goal from philosophy an
 
 In summary, the text makes a case for abandoning traditional normative and descriptive approaches in ethics and instead pursuing a prescriptive approach that improves ethical decisions and actions in a realistic way.
 
- Here is a summary of the key points:
+ 
 
 1. Philosophers stake out general rules that they believe people should follow when making ethical decisions. The moral dilemma known as the "trolley problem" is commonly used to highlight different views of morality.
 
@@ -91,7 +91,7 @@ The failure to develop one's cognitive potential and make wiser choices can harm
 
 In summary, the key takeaways are: developing "active intelligence", overcoming cognitive biases, accessing better decision processes through knowledge and willpower, and considering the net value created through all of one's decisions.
 
- Here is a summary of the key points:
+ 
 
 We tend to be overconfident in our judgments, especially when answering difficult questions. This occurs due to several cognitive biases:
 
@@ -215,7 +215,7 @@ In summary, the key points are:
 
 The key ideas are that deals between competitors can create value for the firms involved but harm consumers through higher prices and restricted choices. The author believes the courts incorrectly ruled in the initial case, enabling more anticompetitive behavior in the drug market.
 
- Here is a summary of the key points:
+ 
 
 1. Corruption by government officials and organizations undermines the U.S.'s moral authority and brand as a just and fair nation. This damages the U.S.'s ability to create value and achieve its goals.
 
@@ -227,7 +227,7 @@ The key ideas are that deals between competitors can create value for the firms 
 
 5. The author states that moral authority belongs not just to leaders, but to all citizens. Individuals and organizations with integrity have greater influence and ability to create value through cooperation and negotiation.
 
- Here is a summary of the key points:
+ 
 
 1) Nonprofit and corporate leaders lose moral authority when they engage in unethical behavior, which damages trust in their organizations and reduces societal value.
 
@@ -241,7 +241,7 @@ The key ideas are that deals between competitors can create value for the firms 
 
 In summary, the key argument is that many industries engage in legal but corrupt behavior by lobbying and influencing politicians to adopt policies that benefit the industry at the expense of the broader public interest. This results in economic systems that fail to maximize value for society.
 
- Here is a summary of the key points:
+ 
 
 1. Institutions that are meant to be independent can fail in their mission due to corruption. Special interest groups and lobbying influence laws and politicians, undermining the system. This has gotten worse since the Citizens United decision allowed unlimited corporate spending on elections. 
 
@@ -285,7 +285,7 @@ The board of directors at Theranos consisted of well-known, intelligent individu
 
 The text argues that intelligent, capable individuals often fail to notice unethical behavior that is right in front of them. This failure to notice allowed the Theranos fraud to persist and inflict harm. The text suggests we can all work to improve our ability to notice threats that could cause harm. Positions of responsibility make one accountable to notice signs of potential issues.
 
- Here is a summary of the key points:
+ 
 
 - Theranos' technology failed multiple tests by pharmaceutical companies like Novartis and Pfizer in 2006 and 2007. Internal critics were fired or faced abuse.
 
@@ -325,7 +325,7 @@ Specifically:
 
 So in summary, the key takeaway is that when organizations show preference for their own members and "tribes", there is less room and opportunity for diverse applicants and outsiders.
 
- Here is a summary of the key points:
+ 
 
 1. Legacy admissions at schools like Harvard confer a significant advantage to applicants whose parents attended the university. This advantage is particularly large for applicants at the higher end of the applicant pool.
 
@@ -355,7 +355,7 @@ The key is to move beyond believing in equality to actively building a more equa
 
 In summary, the text discusses how evolutionary-shaped behaviors can threaten modern society, the role of tribalism and implicit bias in unequal treatment, and arguments for moving beyond beliefs to enacting real equality.
 
- Here is a summary of the key points:
+ 
 
 1. Amazon's contest to find a location for its second headquarters led to waste on a massive scale. Cities and states spent millions bidding for the opportunity, when in reality only a few places were ever truly under consideration. 
 
@@ -371,7 +371,7 @@ In summary, the text discusses how evolutionary-shaped behaviors can threaten mo
 
 In summary, the key arguments are that Amazon's contest led to massive amounts of wasted resources at the local level, while primarily serving Amazon's interest in extracting higher tax subsidies from the locations they planned to choose all along. There are questions about whether the subsidies were a worthwhile investment for New York and DC given alternative uses for the funds.
 
- Here is a summary of the key points:
+ 
 
 • Competition between cities, states, and the federal government to attract companies and sports teams often results in wasteful spending of taxpayer dollars in the form of subsidies, tax breaks, and grants.
 
@@ -431,7 +431,7 @@ Finally, the text discusses how people could select their career to maximize the
 
 In summary, the key ideas are: people misuse time, time has value beyond money, audit how you spend time helping others, focus on tasks where you have a comparative advantage, and select a career to maximize the value you create.
 
- Here is a summary of the key points:
+ 
 
 - Organizations like 80,000 Hours encourage people early in their careers to think about how they can do the most good over their lifetime. This may mean maximizing income to donate, entrepreneurially innovating to benefit society, or pursuing a passion that helps others.
 
@@ -491,7 +491,7 @@ In summary, reflexive, emotional responses after disasters often lead to useless
 
 That covers the key points regarding R&D costs, effective philanthropy, and overcoming emotional barriers to maximize the good that philanthropy can do. Let me know if you would like me to expand or modify the summary in any way.
 
- Here is a summary of the key points:
+ 
 
 1. Giving resources to those in the greatest need can create a "100x Multiplier" effect, where your sacrifices create 100 times more value for others compared to yourself. This is based on evidence that additional income creates similar increases in happiness for the wealthy and poor.
 
@@ -633,7 +633,7 @@ Does this look like a fair summary of the key takeaways from the passages? Let m
 
 Does this look like a fair summary of the key points regarding opt-in versus opt-out strategies? Let me know if you'd like me to clarify or expand on anything.
 
- Here is a summary of the key points:
+ 
 
 • The author notices that 95% of the time, he notices women's asses instead of anything else. He considers this to be an "ass noticer."
 

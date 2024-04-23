@@ -33,7 +33,7 @@ BOOK LINK:
 
 - Understanding the physical, political history of the internet shows it was constructed through human choices and can be changed through democratic struggle. Its current problems are not inevitable.
 
- Here is a summary of the key points:
+ 
 
 - On November 22, 1977, a van carrying a computer drove between San Francisco and San Jose as part of an early experiment with packet switching technology that would enable the Internet. 
 
@@ -47,7 +47,7 @@ BOOK LINK:
 
 - The summary emphasizes the innovation of packet switching, the geographic scale of the network, and how this early experiment enabled the future development of the Internet.
 
- The internet was created through a collaborative effort between government agencies, researchers, and technology companies over several decades. Here are the key points:
+ The internet was created through a collaborative effort between government agencies, researchers, and technology companies over several decades. 
 
 - The origins of the internet trace back to the Advanced Research Projects Agency (ARPA, later DARPA) in the 1960s. DARPA funded research in packet switching networks that formed the basis for early networks like ARPANET.
 
@@ -61,7 +61,7 @@ BOOK LINK:
 
 So in summary, the internet was the result of decades of work, built on previous innovations, and involved extensive collaboration between government, academia, and private companies. Its decentralized, open design has enabled the massive growth and innovation that followed.
 
- Here is a summary of the key points:
+ 
 
 - The internet was originally created by the US military to connect computers over long distances. The goal was to bring computing power to the battlefield by linking mobile units with mainframe computers back home. 
 
@@ -93,7 +93,7 @@ So in summary, the internet was the result of decades of work, built on previous
 
 The internet could have been established as a universal social right by supporting and expanding "free-nets" - nonprofit community networks that provided free local internet access, often through dial-up modems. Advocates tried to launch a federally-funded expansion of these networks, but telecom companies prevailed in privatizing the internet infrastructure instead. This privatization has enabled a few large companies to control the backbone networks and internet service provision, charge smaller networks for interconnection, kill competition, manipulate data flows, and make deals prioritizing certain content. The missed opportunity of establishing internet access as a universal right has allowed corporate interests to consolidate control over the pipes and plunder this essential infrastructure for profit. Reclaiming the internet as a public good will require dedicated efforts to enact pro-consumer regulations and policies.
 
- Here is a summary of the key points:
+ 
 
 - The privatization of the internet in the 1990s was supposed to lead to better service, wider access, more investment, and lower prices. However, the evidence shows this has not been the case. Americans pay high prices for poor service compared to other countries.
 
@@ -107,7 +107,7 @@ The internet could have been established as a universal social right by supporti
 
 - Privatization allocates internet access solely based on profitability rather than treating it as a public good or universal right. This inherently limits democratic participation. The internet should be managed in the public interest.
 
- Here is a summary of the key points:
+ 
 
 - In 1935, Chattanooga residents created a public electric utility because private monopolies refused to provide affordable electricity. 
 
@@ -123,7 +123,7 @@ The internet could have been established as a universal social right by supporti
 
 - Public and cooperative networks prioritize community benefits over profit maximization. They deliver better service at lower cost compared to private ISPs.
 
- Here is a summary of the key points:
+ 
 
 - Community networks offer a model for reorganizing the internet around human need rather than profit. They are publicly or cooperatively owned, which enables them to operate differently than private firms. 
 
@@ -137,7 +137,7 @@ The internet could have been established as a universal social right by supporti
 
 - Community networks help reopen political possibilities foreclosed by privatization in the 1990s. They make credible the idea that the internet can be organized around human need rather than profit.
 
- Here is a summary of the key points:
+ 
 
 - Community networks represent an alternative to the current corporatized internet system. They are being built from the bottom up through creative community efforts. 
 
@@ -151,7 +151,7 @@ The internet could have been established as a universal social right by supporti
 
 - However, community networks also have limitations due to their localized nature. Larger-scale infrastructure and governance is still needed, like municipal networks and public options at higher levels. The aim is a "network of networks" that balances local and national.
 
- Here is a summary of the key points:
+ 
 
 - Community networks face challenges in reaching the "interim internet" or core backbone controlled by large ISPs. These firms could block community networks' upstream access.
 
@@ -169,7 +169,7 @@ The internet could have been established as a universal social right by supporti
 
 In summary, building a democratic internet requires extending community networks to the core in a way that is cost-effective, capable, and rights-respecting. This will need a strong movement to overcome corporate opposition.
 
- Here is a summary of the key points:
+ 
 
 - The build-out of publicly and cooperatively owned broadband networks should be prioritized over private networks. Ongoing operational support should be provided to keep service free or very low cost. 
 
@@ -183,7 +183,7 @@ In summary, building a democratic internet requires extending community networks
 
 In summary, publicly owned broadband with democratic oversight is presented as a superior model to privatized networks for achieving universal, affordable access with greater user control and privacy protections.
 
- Here is a summary of the key points:
+ 
 
 - In 1995, Pierre Omidyar created AuctionWeb, one of the first major online marketplaces. He was motivated by a desire to give individuals the power to be both producers and consumers online. 
 
@@ -195,7 +195,7 @@ In summary, publicly owned broadband with democratic oversight is presented as a
 
 - The early spirit of eBay empowering individuals as both producers and consumers stands in contrast to later platform companies that mostly treat users as consumers from whom data and attention can be extracted.
 
- Here is a summary of the key points:
+ 
 
 - The privatization of the internet began in the 1990s with the infrastructure layer (the "pipes"). By mid-1990s this was complete. 
 
@@ -215,7 +215,7 @@ In summary, publicly owned broadband with democratic oversight is presented as a
 
 - Figures like Bill Gates saw the internet as the "ultimate market" - merging social relationships and market exchange. eBay operationalized this vision.
 
- Here is a summary of the key points:
+ 
 
 - Pierre Omidyar founded AuctionWeb (later eBay) in 1995 with the goal of creating an online community marketplace. 
 
@@ -235,7 +235,7 @@ In summary, publicly owned broadband with democratic oversight is presented as a
 
 - This data collection and analysis became a primary focus, propelling the capitalist reorganization of the internet.
 
- Here is a summary of the key points:
+ 
 
 - In the 1990s, the internet was growing rapidly with tens of millions joining each year. The amount of information online was exploding, making search and navigation challenging. 
 
@@ -251,7 +251,7 @@ In summary, publicly owned broadband with democratic oversight is presented as a
 
 - Other sites like Facebook also capitalized on user-generated content and data. Together, Google and Facebook now control over 50% of the digital ad market.
 
- Here is a summary of the key points:
+ 
 
 - Amazon and eBay emerged from the dot-com era as e-commerce pioneers, but had different business models. eBay was an online marketplace that didn't handle fulfillment, while Amazon took on the costs and complexities of warehousing and shipping products directly to customers. 
 
@@ -263,7 +263,7 @@ In summary, publicly owned broadband with democratic oversight is presented as a
 
 - Like Google and Facebook, Amazon's rise was powered by its evolution into a "platform" - an online mall that sold not just its own goods but provided space for countless vendors. This marketplace model proved hugely lucrative.
 
- Here is a summary of the key points:
+ 
 
 - By 2007, Amazon had become the dominant player in e-commerce, with $14.8 billion in sales. E-commerce went mainstream in the 2000s, and Amazon was well positioned to capitalize on this with its streamlined storefront and logistics network. 
 
@@ -285,7 +285,7 @@ AWS arrived right as internet companies were amassing more data and needing to m
 
 In the 2010s, the internet went mobile with smartphones. More objects also got networked connections in the "Internet of Things." The internet became ubiquitous instead of tethered. "Smartness" referred to an object's ability to connect to the cloud and exchange data. The network became the universal everywhere computer. Even basic objects like coolers got sensors, cameras, and screens to watch customers, analyze data, and target ads, demonstrating this new networked intelligence.
 
- Here is a summary of the key points:
+ 
 
 - Smart coolers with facial recognition and iris tracking were envisioned but never implemented. However, the story shows a broader trend of making everyday objects "smart" and connected to put more aspects of our lives online for data collection and targeted advertising. 
 
@@ -299,7 +299,7 @@ In the 2010s, the internet went mobile with smartphones. More objects also got n
 
 - The result is a pronounced power asymmetry between workers and the platforms, enabled by the architecture of the internet. This recalls critiques of early ARPANET as facilitating centralized control. The internet's flexibility can enable liberation but also new forms of control.
 
- Here is a summary of the key points:
+ 
 
 - In the 1970s, the shipping container enabled companies to outsource manufacturing operations overseas where goods could be produced more cheaply. This eliminated many blue-collar jobs. 
 
@@ -327,7 +327,7 @@ In the 2010s, the internet went mobile with smartphones. More objects also got n
 
 - However, a common result is that these online platforms tend to increase economic inequality, even if in varied ways. They concentrate wealth and power.
 
- Here is a summary of the key points:
+ 
 
 - Uber and other "gig economy" companies have redistributed risk and reward in the labor market. They push risks like income instability onto workers while pulling rewards like profits to executives and investors. 
 
@@ -339,7 +339,7 @@ In the 2010s, the internet went mobile with smartphones. More objects also got n
 
 - Overall, online malls redistribute risk and reward by absorbing excluded groups into their systems in ways that entrench their vulnerability. Rewards flow to a small technology elite while precarity spreads.
 
- Here is a summary of the key points:
+ 
 
 - Oppression has become algorithmic in the age of online malls like Google. Information used to be organized mostly by humans, now it is organized by algorithms. 
 
@@ -379,7 +379,7 @@ To move past privatized online platforms, we can't just replace them with simila
 
 This requires imagination and experimentation with new ways of structuring online spaces. Instead of centralized social media giants, we could have many self-governing communities of different sizes and purposes that users can participate in meaningfully. They can be decentralized but interconnected. Public protocols and shared data infrastructure can tie these communities together while keeping power distributed. We need to explore many options, from municipal networks to cooperatives to new hybrid forms. The goal is a pluralistic digital sphere beyond privatized enclosures.
 
- Here are the key points:
+ 
 
 - The internet allows networks to interconnect through open, non-proprietary protocols. This allows an open network where any participant can join if they follow the rules. 
 
@@ -397,7 +397,7 @@ This requires imagination and experimentation with new ways of structuring onlin
 
 - More broadly, a "public option" for cloud computing and cooperative platforms for services like taxis can provide alternatives to privatized online spaces. Public policy tools like grants and regulations can support these efforts.
 
- Here is a summary of the key points:
+ 
 
 - The London Greater Council in the 1980s established Technology Networks - prototyping workshops where people could access tools and expertise to build things based on community needs rather than profit. This model could be replicated today to democratize internet technology design.
 
@@ -409,7 +409,7 @@ This requires imagination and experimentation with new ways of structuring onlin
 
 - Ultimately, radically reimagining the internet requires expanding who participates in shaping it, blurring the line between creators and users. The goal is an internet built from the bottom up based on human needs.
 
- Here is a summary of the key points:
+ 
 
 - Facebook makes money from advertising revenue generated by users interacting on its platform. Decentralized alternatives like Mastodon threaten this business model by giving people other options. If Facebook users could easily interact with Mastodon users, more people might join Mastodon, shrinking Facebook's user base and revenue.
 
@@ -421,7 +421,7 @@ This requires imagination and experimentation with new ways of structuring onlin
 
 - The goal is an internet organized around democratic principles and human needs, not corporate interests. This will take a diversity of approaches, public investment, and determination to reshape both technology and society.
 
- Here is a summary of the key points:
+ 
 
 - In November 1977, an experiment was conducted that involved sending data packets across multiple networks, including the early internet (ARPANET), demonstrating an early form of internetworking. This took place in Silicon Valley using a van equipped with radio and computer equipment.
 
@@ -433,7 +433,7 @@ This requires imagination and experimentation with new ways of structuring onlin
 
 - The 1977 experiment demonstrated early global internetworking capabilities and helped popularize the technology. It highlighted the non-commercial, experimental roots of the internet before its privatization and commercialization.
 
- Here is a summary of the key points:
+ 
 
 - ARPANET was an early packet-switching network developed by the U.S. Department of Defense's Advanced Research Projects Agency (DARPA) in the late 1960s and early 1970s. 
 
@@ -449,7 +449,7 @@ This requires imagination and experimentation with new ways of structuring onlin
 
 - In the 1980s and early 1990s, privatization of the internet backbone was planned and encouraged by the government. The National Science Foundation transitioned the backbone to commercial providers in 1995.
 
- Here is a summary of the key points:
+ 
 
 - The internet's backbone network was originally built by the government and operated by nonprofits and universities. But in the 1990s, it was rapidly privatized and handed over to large telecom companies. 
 
@@ -507,7 +507,7 @@ This requires imagination and experimentation with new ways of structuring onlin
 
 - Google began selling targeted text ads in 1999, marking the start of its platform business model based on selling ads optimized via user data.
 
- Here is a summary of the key points:
+ 
 
 - Kozmo, Webvan, and Pets.com were early e-commerce companies that went bankrupt due to logistical challenges with delivery and fulfillment. 
 
@@ -569,7 +569,7 @@ In summary, the "predatory inclusion" of vulnerable workers and racial minoritie
 
 In summary, Noble highlights how Google Search's algorithmic logic contributes to the harmful hypervisibility of racist and sexist stereotypes about Black women and girls, ultimately working to keep them invisible as fully realized human beings. She calls for greater accountability in algorithmic design.
 
- Here is a summary of the key points:
+ 
 
 - The "techlash" against big tech companies like Facebook gained steam in 2018, with more public skepticism about their impact. 
 

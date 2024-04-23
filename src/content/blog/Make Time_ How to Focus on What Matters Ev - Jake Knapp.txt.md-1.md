@@ -111,7 +111,7 @@ The goal of these techniques is to build momentum, trigger intense focus and hel
 
 So in summary, to enter a productive, focused "laser mode," strive to minimize distractions, set timelines, break down big goals, use audio cues, make time tangible with a timer and avoid overly complicated productivity tools or systems. Simplicity and consistency help gain momentum and flow.
 
- Here is a summary of the key points:
+ 
 
 • The list contains over 1,150 first and last names of people who provided feedback on an early draft of the book. 
 

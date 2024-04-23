@@ -97,7 +97,7 @@ The author acknowledges her daughters Jessica and Dominique for their instrument
 
 - Support from others can help in healing and applying these skills. But ultimately our focus should be on self-healing through gaining mind management abilities, not just getting by alone or pursuing ego-driven goals.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses the concept of "mind-in-action", which refers to how we uniquely think, feel and choose in different life situations and the world around us. This has implications for our brain function, biochemistry and genes. 
 
@@ -111,7 +111,7 @@ The author acknowledges her daughters Jessica and Dominique for their instrument
 
 - This allows for more sustainable changes by addressing root issues rather than just symptoms. It gives a framework to maintain composure in difficult situations and not be thrown off course.
 
- Here is a summary of the key points:
+ 
 
 - Emotions will pass and don't need to define your next actions or thoughts. Don't absorb others' negative energy. 
 
@@ -127,7 +127,7 @@ The author acknowledges her daughters Jessica and Dominique for their instrument
 
 - Clinical trials showed people can self-regulate their minds through a 63-day process to form new habits and manage reactions to life's circumstances. This was seen in improved brain activity, health and thinking patterns.
 
- Here is a summary of the key points:
+ 
 
 - An experimental group of 6 subjects used a Neurocycle app daily for 63 days to manage a toxic thought or mindset. A control group did not use the app. 
 
@@ -163,7 +163,7 @@ The clinical trial found that intentionally changing one's thinking through mind
 
 Blood tests also reflected these changes, with reductions in cortisol and homocysteine levels in the experimental group, suggesting lower toxic stress levels and reduced risk of health issues. Additionally, telomere length increased in the experimental group but decreased in controls, showing that managing stress through mind techniques may improve cellular health and slow biological aging. Overall, the findings demonstrate how life experiences physically impact our biology but that the mind can be intentionally changed through conscious effort, resetting the system to a healthier state.
 
- Here is a summary of the key points:
+ 
 
 - The study measured changes in psychosocial scales (like self-awareness and stress levels), brain activity via qEEG, and biological markers like cortisol levels. 
 
@@ -179,7 +179,7 @@ Blood tests also reflected these changes, with reductions in cortisol and homocy
 
 In summary, the study provides scientific evidence that the Neurocycle method can successfully increase self-awareness, autonomy, and self-regulation while reducing stress and unhealthy thought patterns, as measured through scales, brain activity, and biology. The control lacked these benefits without this structured approach.
 
- Here is a summary of the key points:
+ 
 
 - The study compared a control group and experimental group over 63 days and 6 months to assess the impact of a daily neuroplasticity practice (the Neurocycle method) on well-being. 
 
@@ -221,7 +221,7 @@ So in summary, the study found that intentionally managing thoughts and narrativ
 
 - Learning to manage thoughts with a technique like the 5 steps empowers people to process and reconceptualize thoughts rather than just be aware of problems. This transitions thinking from toxic to coherent and improves well-being.
 
- Here is a summary of the key points:
+ 
 
 - The 5-Step process uses breathing and mindfulness techniques to help manage stress, trauma, identity issues, sleep difficulties, challenges with exercise/diet and more in a sustainable way over the long-term. 
 
@@ -259,7 +259,7 @@ So in summary, the study found that intentionally managing thoughts and narrativ
 
 - Managing uncertainty, accepting uncomfortable realities, and transforming pain through reconceptualization are important skills for dealing with issues and moving forward productively.
 
- Here is a summary of the key points:
+ 
 
 - The mind is separate from but inseparable from the brain. The mind uses the brain and can change it through thinking, feeling and choosing. 
 
@@ -341,7 +341,7 @@ The thought tree is a model for understanding how thoughts are comprised of diff
 
 - By reconceptualizing thoughts, we can actively reshape our mental experiences and responses over time through directed neuroplasticity. This allows growth and change.
 
- Here is a summary of the key points:
+ 
 
 - The Neurocycle refers to a 5-step process for managing one's mind: Gather, Reflect, Write, Recheck, and Active Reach. 
 
@@ -409,7 +409,7 @@ The passage describes several directed neuroplasticity practices or techniques t
 
 The key aspects involve directed visualization techniques to manage thoughts, emotions and interactions in a more balanced, objective way through intentionally shifting perspectives and focus of attention.
 
- Here is a summary of the key points:
+ 
 
 - The Rewinding Technique involves imagining your life as a movie that you can rewind, edit, and replay scenes to process issues using the 5 Steps framework. 
 
@@ -471,7 +471,7 @@ The key aspects involve directed visualization techniques to manage thoughts, em
 
 - Maintaining a thought through the full 63-day cycle is needed to fully embed it as an automatic, usable habit that informs decisions and behaviors. Giving up too early results in starting the process over from the beginning.
 
- Here is a summary of the key points:
+ 
 
 - Brain-building exercises the mind and causes positive changes in the brain's structure and function through neuroplasticity. Regular brain-building is important for optimizing cognitive abilities and building mental resilience. 
 
@@ -535,7 +535,7 @@ The key aspects involve directed visualization techniques to manage thoughts, em
 
 - Changing habits takes time as new patterns need to be established over 60-63 days. It requires willingness to address ugly and messy behaviors we may try to avoid. But it is necessary for improving mental and physical well-being.
 
- Here is a summary of the key points:
+ 
 
 - The passage provides guidance on using a 5-step technique to address a toxic habit through neuroplasticity and neurocycling over 63 days. 
 
@@ -573,7 +573,7 @@ Finally, it discusses improving sleep habits by managing thoughts in the morning
 
 - Quality sleep in bed allows the body and mind to rest and prepare for the next day in an optimal "regeneration" state.
 
- Here is a summary of the key points:
+ 
 
 - The article discusses what constitutes "real food" versus industrially produced "food-like products" that are highly processed and contain unfamiliar substances. Real food is fresh, local, seasonal, grass-fed, minimally processed and contains nutritional diversity. 
 
@@ -627,7 +627,7 @@ The passage discusses various techniques for brain-building and mind management.
 
 The key message is that mind-managing one's thoughts through these various techniques can help one live a longer, healthier and happier life by managing how the mind works.
 
- Here is a summary of the key points:
+ 
 
 - The technique of building a "Metacog" or branched thought map helps access memories and thoughts at a deeper level in order to understand the root issues more clearly. 
 

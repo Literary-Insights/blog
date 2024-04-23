@@ -38,7 +38,7 @@ The introduction provides background on the book's purpose and approach. It emph
 
 In summary, the book uses puzzles and problems to train readers' ability to think critically and consider multiple perspectives, with a focus on economic reasoning but also drawing on related topics.
 
- Here is a summary of the key points:
+ 
 
 - The author draws on different branches of economics and schools of thought to illuminate the issues discussed in each chapter. 
 
@@ -78,7 +78,7 @@ In summary, the author presents a range of economic concepts and puzzles from di
 
 The key moral is that one should be wary of relying solely on aggregate statistics without considering potential differences or trends within important subgroups that could provide a very different picture of what is truly happening.
 
- Here is a summary of the key points:
+ 
 
 - Aggregate statistics like median income or average test scores can mask improvements in different demographic groups if the composition of those groups changes over time. 
 
@@ -90,7 +90,7 @@ The key moral is that one should be wary of relying solely on aggregate statisti
 
 So in summary, aggregate statistics can be misleading and additional controlled experiments are needed to determine causal relationships, rather than just correlations, between variables. Twin studies aiming to compare the most similar individuals can provide stronger evidence than comparisons of less closely matched groups.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses several examples where aggregate/overall statistics can be misleading and it's better to look at breakdowns or subgroups. Examples given include admission rates by department, racial makeup of juries by geography, income by demographic, etc. 
 
@@ -148,7 +148,7 @@ So in summary, the passage discusses making logical predictions rather than rely
 
 - The passage suggests that contrary to introductory economic theories, real world examples sometimes show consumption increasing rather than decreasing in response to small price rises, when an item is a staple food source for manual laborers.
 
- Here is a summary of the key points:
+ 
 
 - The three preceding problems deal with why people behave differently on escalators versus stairs - specifically, that people tend to stand still on escalators but not on stairs. 
 
@@ -164,7 +164,7 @@ So in summary, the passage discusses making logical predictions rather than rely
 
 So in summary, the key idea is that fully explaining human behaviors, even simple ones, requires going beneath surface appearances and assumptions to gain a deeper understanding. Initial explanations may not tell the whole story.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses several phenomena that initially seem to have obvious explanations but may have deeper truths underlying them. 
 
@@ -212,7 +212,7 @@ In the case of the Empire State Building specifically when it was built in the 1
 
 So in summary, individual optimization rather than uniformity helps explain variations in building heights within a city. Competitive positioning and changing economics over time also drive differentiated building profiles.
 
- Here is a summary of the key points:
+ 
 
 - Nick and Ibrahim were contestants on the game show Golden Balls, where they had to secretly choose to split or steal a $10,000 prize. 
 
@@ -228,7 +228,7 @@ So in summary, individual optimization rather than uniformity helps explain vari
 
 - Nick's strategy was brilliant as it incentivized Ibrahim to choose the cooperative option of split, while still allowing Nick a path to the full reward if kept his subsidiary promise afterward.
 
- Here is a summary of the key points:
+ 
 
 - The passage describes a two-player game called the Prisoner's Dilemma, where both players have an incentive to confess (play tough) even if they don't know what the other player will do. 
 
@@ -242,7 +242,7 @@ So in summary, individual optimization rather than uniformity helps explain vari
 
 So in summary, the prisoner's dilemma shows how rational self-interest at the individual level can paradoxically result in mutually poor outcomes at the collective level due to strategic interdependencies between players' decisions.
 
- Here is a summary of the key points:
+ 
 
 - The player is given the challenge of collecting 50 cards from 10 people, where each person holds a stack of cards with different numbers on them. The goal is to minimize the total score by collecting cards with lower numbers. 
 
@@ -254,7 +254,7 @@ So in summary, the prisoner's dilemma shows how rational self-interest at the in
 
 - By systematically collecting the lowest available numbers at each step, this strategy guarantees minimizing the final score, which is the goal of the "card golf" game.
 
- Here are the key points:
+ 
 
 - The president has appointed the protagonist as Czar of Agriculture in Slobbovia. Their task is to arrange for 50 bushels of wheat to be produced at minimum cost. 
 
@@ -272,7 +272,7 @@ So in summary, the prisoner's dilemma shows how rational self-interest at the in
 
 So in summary, the key insight is that a functioning price system will minimize production costs without centralized coordination, by harnessing private information held by producers.
 
- Here is a summary of the key points:
+ 
 
 - The passage is about determining how irrational people's preferences and choices may be. It discusses various hypothetical scenarios where preferences could reveal irrationality. 
 
@@ -402,7 +402,7 @@ Backward induction itself is a valid logical technique when properly applied. Th
 
 - In the story of the obedient prisoners with colored dots on their foreheads, the warden revealing information does cause prisoners to realize the color of their own dots, even though they were already aware some dots were red and some blue. The key is the warden's statement makes this a matter of common knowledge, whereas separate whispers would not.
 
- Here is a summary of the key points:
+ 
 
 - Alice and Bob are spies who need to verify each other's identities without revealing their secret password to a possibly hostile third party (the stranger).
 
@@ -434,7 +434,7 @@ Backward induction itself is a valid logical technique when properly applied. Th
 
 So in summary, while a 96/1/1/0/1 allocation is one possible solution, it is incorrect to say it is the only solution due to flaws in assuming pirate voting behavior. The problem does not fully specify how pirates will vote in non-impactful situations.
 
- Here is a summary of the key points:
+ 
 
 - Bob, who has the deciding vote in a committee, is considering how to vote. If he votes for his preferred outcome, that outcome will be chosen since he has the deciding vote. So voting for his preferred outcome seems like the rational choice.
 
@@ -488,7 +488,7 @@ The passage notes that we routinely weigh lives against other considerations as 
 
 In summary, the key idea is that policy should align with preferences of affected parties based on an impartial analysis, using the Amnesia Principle to address instances of differing interests.
 
- Here is a summary of the key points:
+ 
 
 - Betty is suffering from an unknown disease. The Kildare Study and Casey Study are two potential research studies that could help save her life. 
 
@@ -504,7 +504,7 @@ In summary, the key idea is that policy should align with preferences of affecte
 
 The key dilemma presented is that choosing the option with the higher chance of success for the individual (Kildare Study) carries much greater risk, while the safer option (Casey Study) has a self-interested motivation of potential career benefits if successful. There is no unambiguously "right" answer.
 
- Here is a summary of the key points:
+ 
 
 - Alice is playing a game against Bob where they each bring varying amounts of money determined by coin flips. There is a 25% chance each outcome will occur.
 
@@ -536,7 +536,7 @@ The key dilemma presented is that choosing the option with the higher chance of 
 
 So in summary, it uses Albert's problem of navigating intersections as a thought experiment to explore different assumptions about rational decision-making under uncertainty and imperfect information or memory.
 
- Here is a summary of the key points:
+ 
 
 - The passage presents an imagined scenario where Albert is able to remember the coin he previously chose at an intersection, as well as one rule for updating his strategy each time he reaches a new intersection. 
 
@@ -564,7 +564,7 @@ So in summary, it uses Albert's problem of navigating intersections as a thought
 
 - Even though Carla is slower at each task, she has a "comparative advantage" in paneling since she can do it with less lost time than rewiring. Specializing and trading allows them both to benefit through gained efficiency.
 
- Here is a summary of the key points:
+ 
 
 - The business is an engineering firm, indicating it employs engineers to do technical work. 
 

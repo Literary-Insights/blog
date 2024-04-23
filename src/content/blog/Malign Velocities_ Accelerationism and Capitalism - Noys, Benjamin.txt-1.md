@@ -31,7 +31,7 @@ BOOK LINK:
 
 - Noys engages closely with key accelerationist theorists like Nick Land and different iterations of the idea over time to both understand it and offer a dialectical critique of its limitations and inability to transform capitalism.
 
- Here is a summary of the key points:
+ 
 
 - Accelerationism first emerged explicitly in France in the 1970s, championed by Deleuze/Guattari, Lyotard, and Baudrillard. 
 
@@ -83,7 +83,7 @@ BOOK LINK:
 
 - While Futurists and Benjamin differed politically, they both saw potential to collectively master disruptive accelerating forces through new configurations of technology and society.
 
- Here is a summary of the key points:
+ 
 
 - Communist accelerationism tried to take the "best" aspects of capitalism and reorganize production in a way that was not driven by profit, going beyond the limits of capitalism. It aimed for maximum output using maximum human labor/forces rather than minimum effort. 
 
@@ -109,7 +109,7 @@ BOOK LINK:
 
 So in summary, this period saw debates around new forms of socialist production through technology and scientific management, although these ideas were later subsumed under Stalin's authoritarian industrialization drive.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses Andrey Platonov's novel Chevengur, which deals with communist accelerationism and the new concept of "tempo" (speed, pace) under Stalinism. 
 
@@ -157,7 +157,7 @@ While some see this as a postmodern form of accelerationism that explodes identi
 
 So in summary, the passage examines cyberpunk and techno as artistic responses to postmodernity that recalibrated avant-garde ideals of acceleration, while also capturing anxieties about technological change and neoliberal precarity.
 
- Here is a summary of the key points:
+ 
 
 - Postmodern collage accelerates different aesthetic forms like techno, cyberpunk fiction, rave culture into a new radicalization of accelerationism. 
 
@@ -201,7 +201,7 @@ Balakrishnan argues accelerationism mirrors rather than analyses capitalism, tak
 
 The passage examines terminal accelerationism finding potential in capitalism's "nourishing decomposition." It analyzes this negative, excremental vision through Bataille and Godard's 1967 film Weekend, developing Bataille's heterological vision of voiding value through eruptions of excremental forces. Class struggle is presented as scatological.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses an "incremental apocalypse" in which capitalist systems break down and everything turns to waste/shit. This represents a reversal where value is destroyed. 
 
@@ -215,7 +215,7 @@ The passage examines terminal accelerationism finding potential in capitalism's 
 
 - The passage debates whether scatological breakdown reveals a nourishing decomposition/rebirth or just leaves us in scrap heaps. It questions if the only path to socialism is through barbarism itself.
 
- Here is a summary of the key points:
+ 
 
 - Walter Benjamin proposed that revolutions may involve "pulling the emergency brake" on the runaway train of history, interrupting the current of capitalist progress and acceleration. 
 

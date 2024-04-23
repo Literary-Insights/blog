@@ -687,7 +687,7 @@ Overall, PLATO fostered a rich social experience with many opportunities for per
 
 - The author's goal is not to be exhaustive but to be definitive in demonstrating the diversity of computing experiences in the US before 1975. The history of computing is inseparable from broader American history.
 
- Here is a summary of the key points:
+ 
 
 1. In the early 1960s, Dartmouth professors Thomas Kurtz and John Kemeny envisioned building an interactive, time-sharing computer system that could be used for teaching. 
 
@@ -823,7 +823,7 @@ By the late 1960s, time-sharing had spread to universities and research centers 
 
 - TIES and MECC were part of a grassroots movement to introduce computing to K-12 schools in Minnesota. They helped schools acquire resources and build expertise at a time when computing was new and unfamiliar to most educators.
 
- Here is a summary of the key points:
+ 
 
 - The PLATO system was developed at the University of Illinois in the 1950s and 1960s. 
 

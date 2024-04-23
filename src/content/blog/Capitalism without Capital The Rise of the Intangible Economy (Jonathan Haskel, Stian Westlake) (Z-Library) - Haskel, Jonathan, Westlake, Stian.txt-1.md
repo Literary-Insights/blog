@@ -49,7 +49,7 @@ BOOK LINK:
 
 - But interest waned after the 2008 financial crisis, as economic debate shifted to more pressing issues of crisis response and stagnation. The intangibles agenda stalled.
 
- Here is a summary of the key points:
+ 
 
 - There has been growing investment in intangible assets like software, research and development, brands, and organizational capital. However, conventional accounting practices often do not measure these as long-lived capital assets. 
 
@@ -113,7 +113,7 @@ In essence, investment means acquiring assets that increase capital to support p
 
 - The shift to services in developed economies increased demand for intangibles over tangibles
 
- Here is a summary of the key points:
+ 
 
 - Germany's development of R&D, along with its spread to the US, made commercial R&D more systematic and worthwhile. Systems like lean manufacturing (Toyota's Kanban) also increase returns on organizational investments. 
 
@@ -145,7 +145,7 @@ In essence, investment means acquiring assets that increase capital to support p
 
 - Better methods to measure intangible investment were developed in the 1990s and 2000s, showing its rising importance. Intangible investment is now recognized as vital for growth, competitiveness and living standards.
 
- Here is a summary of the key points:
+ 
 
 - In the 1980s-1990s, some economists noted that official statistics were not fully capturing new types of investment, especially related to information technology. Statistical agencies began making innovations like quality-adjusting computer prices and including software as investment. 
 
@@ -171,7 +171,7 @@ In essence, investment means acquiring assets that increase capital to support p
 
 - There are still limitations in measurement, like uneven treatment across countries for databases. But measurement has improved substantially, allowing intangibles to be counted as investments in national accounts.
 
- Here is a summary of the key points:
+ 
 
 - Statistical agencies face challenges in measuring the prices and investment in intangible assets like services, software, and R&D. Different methods are used, such as assuming prices follow general patterns, breaking services into component parts, or using time-based surveys.
 
@@ -229,7 +229,7 @@ In summary, these four S's - scalability, sunkenness, spillovers, and synergies 
 
 In summary, the scalability of intangible knowledge assets, allowing repeated use with low marginal cost, is a key economic property that differentiates them from rival physical goods. This scalability makes intangible capital a driver of economic growth.
 
- Here is a summary of the key points:
+ 
 
 - Intangible investments like R&D, brands, and organizational processes are often highly scalable - they can be leveraged across large markets with little incremental cost. This scalability stems from the "non-rivalry" of ideas that allows them to be reused endlessly. 
 
@@ -241,7 +241,7 @@ In summary, the scalability of intangible knowledge assets, allowing repeated us
 
 So in summary, the scalability and sunk nature of intangibles fundamentally shape markets and financing in an intangible-intensive economy.
 
- Here is a summary of the key points:
+ 
 
 - Intangible investments like R&D and branding tend to generate spillovers - benefits that spill over to other companies beyond the investor. This is because intangibles like ideas are non-rival (can be used by multiple parties) and non-excludable (hard to prevent others from benefiting). 
 
@@ -255,7 +255,7 @@ So in summary, the scalability and sunk nature of intangibles fundamentally shap
 
 - But intangible assets have more contested property rights historically, as ideas and knowledge are inherently harder to control and exclude others from using. Patents and copyrights are less secure than property deeds.
 
- Here is a summary of the key points:
+ 
 
 - Intangible assets like knowledge and ideas tend to "spill over" and benefit other companies, unlike physical assets. This makes companies less willing to invest in intangibles. 
 
@@ -321,7 +321,7 @@ So intangible investments differ substantially from tangible assets. Their scala
 
 - Proposed explanations include lower demand for investment due to technology exhausting easy discoveries, but this is hard to confirm in the data. The rise of intangibles may offer an alternative explanation.
 
- Here is a summary of the key points:
+ 
 
 - There has been a growing gap in performance between top firms and others across industries, starting before the financial crisis. This is seen in accounting data on firms. 
 
@@ -335,7 +335,7 @@ So intangible investments differ substantially from tangible assets. Their scala
 
 - Reasons for the TFP slowdown include lower R&D spending, slower technology diffusion, and less competitive markets. This leads to inefficient allocation of resources across firms.
 
- Here is a summary of the key points:
+ 
 
 - Intangible investments like R&D, software, and organizational capital are poorly measured in national accounts. This means measured investment appears lower than it really is. 
 
@@ -351,7 +351,7 @@ So intangible investments differ substantially from tangible assets. Their scala
 
 - Overall, mismeasurement of intangibles does not seem to fully explain the investment slowdown. But properties of intangibles like scalability and spillovers likely contribute to rising firm inequality and may dampen investment incentives for some firms.
 
- Here is a summary of the key points:
+ 
 
 - Growth in intangible capital services and R&D capital services has slowed since the Great Recession. 
 
@@ -403,7 +403,7 @@ So in summary, inequality has multiple facets, spanning income, wealth, wage, ge
 
 - Standard explanations for rising inequality include technology replacing workers, globalization and the doubling of the global labor pool with China and India, and the tendency for wealth to accumulate over time.
 
- Here is a summary of the key points:
+ 
 
 - The standard explanations for rising inequality - technology, globalization, and capital accumulation - don't fully explain some aspects of today's income and wealth distribution. 
 
@@ -417,7 +417,7 @@ So in summary, inequality has multiple facets, spanning income, wealth, wage, ge
 
 - These phenomena suggest other factors beyond technology, trade and capital accumulation are needed to fully understand today's high levels of inequality. The standard story is incomplete.
 
- Here is a summary of the key points:
+ 
 
 - Income inequality has risen not just between firms but within firms, as the pay gap between managers and other employees has grown. 
 
@@ -469,7 +469,7 @@ In summary, the rise of intangible investment helps explain growing wealth inequ
 
 - In general, infrastructure policy may need to shift from a narrow focus on big physical projects toward also supporting intangibles like data, human capital, and institutional frameworks.
 
- Here is a summary of the key points:
+ 
 
 - Clusters (concentrations of related industries in a geographic area) are appealing to policymakers because of high-profile successful examples like Silicon Valley. Cluster policies can allow governments to appear supportive of business without major spending. 
 
@@ -483,7 +483,7 @@ In summary, the rise of intangible investment helps explain growing wealth inequ
 
 - Technological infrastructure like broadband is important but faces challenges of rapid obsolescence and enabling valuable interactions, not just connectivity.
 
- Here is a summary of the key points:
+ 
 
 - Intangible investments often generate synergies when combined with other intangibles. This means that institutions, norms, and rules can play an important role in coordinating investments and managing complexity. 
 
@@ -497,7 +497,7 @@ In summary, the rise of intangible investment helps explain growing wealth inequ
 
 - Overall, this "invisible infrastructure" of rules, norms, standards, and information sharing takes on heightened importance in an intangible economy, where synergies and collaboration are so vital.
 
- Here is a summary of the key points:
+ 
 
 - There is a longstanding critique that the financial system does a poor job of providing business financing and hampers business investment, due to being short-termist and myopic. This idea was already present before WWII, with Keynes arguing stock markets were like casinos. 
 
@@ -509,7 +509,7 @@ In summary, the rise of intangible investment helps explain growing wealth inequ
 
 - The chapter will look at how well bank financing, public equity, and venture capital serve the needs of intangible-rich firms. It argues the shift to intangibles helps explain many perceived financing problems, and points to a new course of action for governments and investors to improve financing for intangible investment.
 
- Here is a summary of the key points:
+ 
 
 - The article discusses concerns related to the "financialization" and short-termism of the modern economy, where financial metrics and incentives are increasingly influencing business decisions rather than a focus on serving customers and building strong businesses. 
 
@@ -539,7 +539,7 @@ In summary, the intangible nature of modern economies raises challenges for trad
 
 - Intangibles accentuate underinvestment problems but also create new challenges requiring different solutions. The short-termism debate needs to be reframed in light of the rise of intangibles.
 
- Here is a summary of the key points:
+ 
 
 - Equity markets may discourage companies from investing in intangibles like R&D and training because these investments are long-term and risky. Their benefits are hard to predict and don't show up immediately on financial statements. 
 
@@ -551,7 +551,7 @@ In summary, the intangible nature of modern economies raises challenges for trad
 
 - So equity markets and short-term pressures can discourage intangible investment, but it depends on shareholders' time horizons and expertise. More sophisticated investors allow managers more scope for long-term thinking.
 
- Here is a summary of the key points:
+ 
 
 - Venture capital (VC) evolved alongside intangible-rich businesses like Google, Genentech, and Uber, whose value depends on assets like R&D, software, and organizational development. 
 
@@ -611,7 +611,7 @@ In summary, the growth of intangibles reflects companies competing by building d
 
 - Overall, competing and managing in the intangible economy requires new strategies and new perspectives from managers, employees, and investors alike.
 
- Here is a summary of the key points:
+ 
 
 - Information technology has enabled more efficient monitoring and control in organizations, leading to less autonomy for workers. This helps explain the growth of non-autonomous work despite the lower cost of information. 
 
@@ -667,7 +667,7 @@ In summary, the shift to an intangible economy poses challenges for investors se
 
 In summary, the rise of intangibles creates opportunities for growth but also many dilemmas for policymakers with no easy solutions. Navigating these issues successfully will be a major challenge in coming years.
 
- Here is a summary of the key points:
+ 
 
 - Clear intellectual property laws and effective patent/copyright authorities can encourage intangible investment without overly restricting synergies and competition. The Republic of Foo has a good system for this.
 
@@ -679,7 +679,7 @@ In summary, the rise of intangibles creates opportunities for growth but also ma
 
 - Overall, well-designed formal and informal rules around intangible ownership and use are important for an intangible economy to function well, as in Foo. Poorly designed rules like in the Kingdom of Bar create problems.
 
- Here is a summary of the key points:
+ 
 
 - Good public policy should facilitate the spread and combination of knowledge and ideas, just as it protects intellectual property rights. This happens most effectively face-to-face in cities currently. 
 
@@ -701,7 +701,7 @@ In summary, the rise of intangibles creates opportunities for growth but also ma
 
 - The summary suggests Foo's comprehensive reforms to treat debt and equity equally and develop equity markets have been more successful in financing intangible investment, while Bar's uncoordinated policies have struggled.
 
- Here is a summary of the key points:
+ 
 
 - If intangible investment is becoming more important for productivity growth but harder for private firms to fund, there may need to be more public investment to avoid an investment shortfall. 
 
@@ -717,7 +717,7 @@ In summary, the rise of intangibles creates opportunities for growth but also ma
 
 - To avoid waste, any increase needs to be combined with mechanisms to ensure quality control over public investment in intangibles.
 
- Here is a summary of the key points:
+ 
 
 - The US military's procurement of IT in the 1950s and 1960s helped develop the semiconductor industry, but some attempts like civilian nuclear power were less successful. 
 
@@ -754,7 +754,7 @@ In summary, the rise of intangibles creates opportunities for growth but also ma
 
 The key is to identify the needs of an intangible economy and orient your policies and investments to meeting those needs quickly and effectively before larger economies adjust. For a small nation, specializing in intangibles can be a growth strategy.
 
- Here is a summary of the key points:
+ 
 
 - There has been a long-term shift from tangible to intangible investment in developed economies over the past 40 years. Much intangible spending is not counted as investment but as expenses. 
 
@@ -776,7 +776,7 @@ The key is to identify the needs of an intangible economy and orient your polici
 
 - The intangible economy represents a deep challenge to policymakers in developed countries. Whichever country can resolve the tensions between intangibles, inequality, and social cohesion is likely to prosper.
 
- Here is a summary of the key points:
+ 
 
 1. There has been a shift from investment in tangible assets like machinery to intangible assets like software, R&D, and branding. Intangible investment exceeded tangible investment in the early 2000s. 
 

@@ -75,7 +75,7 @@ Eventually, Karl and the narrator arrange to meet in person for dinner. However,
 
 Overall, the passage explores how relationships can form and develop via online communication but face challenges transitioning to in-person. The tools we use to communicate can shape the way we relate in both positive and limiting ways.
 
- Here is a summary of the key points:
+ 
 
 - The author recently committed an act of “technical rebellion” by choosing to purchase the Linux operating system instead of the ubiquitous Windows NT. This choice was an impulse buy but reflected a desire to support the open-source movement. 
 

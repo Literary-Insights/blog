@@ -228,7 +228,7 @@ So in summary, the passage discusses how deregulation and lack of regulatory upd
 
 - The descent into this "dark age" involved a mix of political influence and "runaway academic sociology" that led economists to reject Keynesian ideas, even as the world had become Keynesian in nature with a lack of demand as the key problem.
 
- Here are the key points:
+ 
 
 - The economic crisis showed that narrow technocratic solutions like interest rate cuts by the Fed were not enough. We needed more activist government policies like temporary spending to support employment and efforts to reduce mortgage debt. 
 
@@ -426,7 +426,7 @@ So in summary, the passage argues fears about deficits were overblown and did no
 
 - The author argues Europe's approach of moralizing about fiscal sins and focusing on austerity neglects the structural issues arising from a shared currency without fiscal and labor market integration.
 
- Here is a summary of the key points:
+ 
 
 - Several eurozone countries are facing difficulties paying their debts due to high borrowing costs, which could potentially lead to defaults. However, this is unlikely to happen to countries like the US, UK, Japan that borrow in their own currencies and have their own central banks to step in and print money in an emergency.
 
@@ -474,7 +474,7 @@ So in summary, the passage argues fears about deficits were overblown and did no
 
 So in summary, austerity was found to contract economies and raise unemployment rather than boosting growth, as its proponents had claimed, when implemented in depressed conditions without offsetting monetary policies.
 
- Here is a summary of the key points:
+ 
 
 - George Osborne, Britain's chancellor, announced austerity budget cuts in 2010 to reduce debt and boost confidence. This was praised by conservatives and centrists. 
 
@@ -540,7 +540,7 @@ So in summary, the passage questions the effectiveness of UK austerity policies 
 
 So in summary, the author argues expansionary fiscal policy is both economically justified and could make political sense, though implementation may depend on the specifics of the 2020 election outcomes and require sustained advocacy.
 
- Here is a summary of the key points:
+ 
 
 - Years with high tax shares (e.g. 2007) tended to have lower unemployment, while years with low tax shares (e.g. 2010) tended to have higher unemployment. However, this is likely just a spurious correlation and not evidence that raising taxes reduces unemployment. 
 

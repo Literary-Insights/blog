@@ -11,7 +11,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 ---
 
 
- Here is a summary of the key points:
+ 
 
 • Meditation transcends the repetitive inner dialogue of the mind. It is not achieved by forcefully stopping thoughts. Forcing thoughts to stop can lead to dullness, not meditation.
 

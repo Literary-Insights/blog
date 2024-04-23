@@ -320,7 +320,7 @@ So the Pythagorean formula is just a disguised logistic regression! KP will talk
 
 Based on these major offensive metrics, Mike Trout appears to have had the better offensive season in 2016 compared to Kris Bryant, creating more runs and providing greater overall value from the plate. The advanced metrics indicate Trout was significantly more productive on a rate basis compared to the league.
 
- Here is a summary of the key points:
+ 
 
 - Bill James developed a formula called Runs Created to estimate the number of runs "created" by a hitter in a season based on their hits, walks, extra-base hits, etc. This formula does a good job of predicting a team's total runs scored from their team batting stats. 
 
@@ -364,7 +364,7 @@ The key steps are:
 
 By simulated innings with random batting events rather than a formula, this Monte Carlo approach can better handle sequencing of events like baserunners scoring. The law of large numbers says that with enough iterations the average runs per inning will converge to the true expected value. This provides a flexible way to estimate runs scored without relying on assumptions like Runs Created or Linear Weights.
 
- Here is a summary of the key points:
+ 
 
 - A long fly ball advances any runners (if there are fewer than two outs). A runner on second advances to third, and a runner on third scores. 
 
@@ -384,7 +384,7 @@ By simulated innings with random batting events rather than a formula, this Mont
 
 - Replacing 11% of an average team's PAs with Trout's stats shows he would add about 8.1 wins.
 
- Here are the key points:
+ 
 
 - Earned run average (ERA) is a commonly used statistic to evaluate pitchers, but it has several limitations such as dependence on fielding and bullpen support. 
 
@@ -398,7 +398,7 @@ By simulated innings with random batting events rather than a formula, this Mont
 
 - This evidence shows that past ERA alone does a poor job of predicting future performance for MLB pitchers. Other factors clearly also influence future ERA.
 
- Here is a summary of the key points:
+ 
 
 - Figures 5.2 and 5.3 show examples of strong positive and negative linear relationships between two variables, as indicated by correlations near +1 and -1. 
 
@@ -414,7 +414,7 @@ By simulated innings with random batting events rather than a formula, this Mont
 
 - Statcast batting metrics like launch angle, exit velocity, barrel rate, and expected batting average can provide insights into hitter ability.
 
- Here are the key points:
+ 
 
 - Baseball managers make many important strategic decisions during a game, such as whether to bunt, steal a base, or play the infield in. 
 
@@ -500,7 +500,7 @@ So in many baseball situations, proper use of expected value calculations shows 
 
 In summary, streaks likely exist but are subtler than announcers make them seem. The truth lies somewhere between "he's on fire!" and "it's complete randomness." Careful analysis is needed to distinguish signal from noise.
 
- Here is a summary of the key points:
+ 
 
 - Past performance (win/loss streaks) should not affect a team's chances of winning the next game. A simulated random sequence of wins and losses showed streaks can occur by chance.
 
@@ -624,7 +624,7 @@ Consecutive no-hitters and a 56-game hitting streak are both highly unlikely eve
 
 - There is room for debate on who is "better" between Brady and Rodgers. But based on core passing stats, both have been elite modern QBs. The comparison is very close.
 
- Here is a summary of the key points:
+ 
 
 - Football states (yard line, down, yards to go for first down) can be used to determine a team's probability of winning, similar to baseball states. 
 
@@ -680,7 +680,7 @@ Consecutive no-hitters and a 56-game hitting streak are both highly unlikely eve
 
 So in summary, expected value favors going for two, but situational factors and win probability analysis should drive the decision in key moments late in a close game. Coaches have to weigh all these factors in the limited time they have to make the call.
 
- Here is a summary of the key points:
+ 
 
 - The "chart" that tells coaches whether to go for 1 or 2 points originated in the 1970s with UCLA assistant Dick Vermeil. 
 
@@ -696,7 +696,7 @@ So in summary, expected value favors going for two, but situational factors and 
 
 - If teams went for 2 points much more often, defensive adjustments would likely lower the success rate.
 
- Here is a summary of the key points:
+ 
 
 - In college football overtime, the team that wins the coin toss can choose to start on offense or defense. 
 
@@ -716,7 +716,7 @@ So in summary, expected value favors going for two, but situational factors and 
 
 - The key takeaway is that the flexibility provided by going second in college football overtime makes it better to start on defense if you win the coin toss.
 
- Here is a summary of the key points:
+ 
 
 - Under the old sudden death rules, the team that received the kickoff had a major advantage, winning about 60% of overtime games. 
 
@@ -732,7 +732,7 @@ So in summary, expected value favors going for two, but situational factors and 
 
 - The new rules have succeeded in making overtime much fairer by eliminating the receiving team's big edge in sudden death format.
 
- Here is a summary of the key points:
+ 
 
 - Between 2012-2017, there were 93 NFL regular season overtime games. The team that received the kickoff won 50.5% of the time, showing no significant advantage. 
 
@@ -746,7 +746,7 @@ So in summary, expected value favors going for two, but situational factors and 
 
 - A proposed alternative overtime format is described, involving teams secretly bidding yard line and time combinations to determine starting field position and time for one final drive. Adds strategic element while removing coin flip impact.
 
- Here is a summary of the key points:
+ 
 
 - Thaler and Massey (TM) analyzed NFL draft pick trades to estimate the relative value of draft picks. They found that later draft picks contributed more surplus value to teams than earlier picks, suggesting inefficiency in the draft. 
 
@@ -760,7 +760,7 @@ So in summary, expected value favors going for two, but situational factors and 
 
 - The NFL collects player tracking data through RFID tags, providing insights into movements, speeds, and rotations. This data started becoming available to teams around 2016.
 
- Here is a summary of the key points:
+ 
 
 - The NFL player tracking data provides insights into quarterback release time and how it relates to pass distance, sacks, and interceptions. 
 
@@ -928,7 +928,7 @@ The Wolfers and Price study attempted to overcome these limitations by using pla
 
 The key innovation is granular spatial data that opens up new avenues for analysis and strategy beyond traditional stats. While not yet widely available publicly, spatial tracking data has huge potential for teams, analysts, and fans.
 
- Here is a summary of the key points:
+ 
 
 - Player tracking data allows for more objective and consistent quantification of spacing on the court. For example, the area of the convex hull defined by player locations can measure how much a player like Steph Curry stretches the defense compared to Giannis. 
 
@@ -938,7 +938,7 @@ The key innovation is granular spatial data that opens up new avenues for analys
 
 - Corner threes are very efficient partly due to the shorter distance. League average 3P% is higher from the corners. Overall, 3s average more points per shot than 2s from midrange due to the extra point. Teams have shifted away from midrange 2s as a result.
 
- Here is a summary of the key points:
+ 
 
 - Midrange shots per game have decreased dramatically in recent years, from around 30 per game down to less than 10. This does not mean the midrange game is dead, but it is now primarily left to elite players like Durant and Leonard. 
 
@@ -962,7 +962,7 @@ The key innovation is granular spatial data that opens up new avenues for analys
 
 - Each situation is unique, so while the math provides a general framework, the specific circumstances should determine the decision. The parameters, especially the overtime winning probability, need to be estimated appropriately.
 
- Here is a summary of the key points:
+ 
 
 - Whether to foul up 3 points in the closing seconds is a complex question. Studies show fouling reduces the chance of the opponent tying from ~10% to ~3%, but there are risks if the game continues. 
 
@@ -986,7 +986,7 @@ The key innovation is granular spatial data that opens up new avenues for analys
 
 - There are still challenges in soccer analytics like accounting for defense, combining stats and video, and dealing with low-scoring games. But the field has advanced rapidly in recent years with new data.
 
- Here is a summary of the key points:
+ 
 
 - Tracking data can provide contextual information like defensive formations, distance to closest defender, etc. This can improve expected goals models. 
 
@@ -996,7 +996,7 @@ The key innovation is granular spatial data that opens up new avenues for analys
 
 - Game theory has been used to analyze penalty kicks, helping explain why kicks are predictable. Goalies guess the direction but stay centered to optimize chances of saving kicks to their left or right.
 
- Here is a summary of the key points:
+ 
 
 - Expected goals (xG) models estimate the likelihood of a shot resulting in a goal based on attributes like shot location, angle, distance, etc. However, xG models have limitations, like not accounting for defensive pressure. 
 
@@ -1012,7 +1012,7 @@ The key innovation is granular spatial data that opens up new avenues for analys
 
  Unfortunately I am unable to provide a full summary of the chapter as I do not have access to the full text. However, based on the excerpts provided, it seems the chapter discusses analytics in hockey, specifically focusing on metrics like Corsi and Fenwick statistics. These metrics count shot attempts as a way to evaluate players and teams, as opposed to just looking at goals scored. The chapter also discusses how and when teams decide to pull their goalie earlier than in previous years based on analytics. Without access to the full text, I cannot provide a complete summary, but I hope these highlights provide an overview of the key points covered in the chapter. Please let me know if you need any clarification or have additional questions!
 
- Here is a summary of the key points:
+ 
 
 - To determine the optimal time for a trailing team to pull its goalie, a Poisson process model can be used to estimate the expected number of goals scored by each team. Based on some sample calculations, pulling the goalie around 5 minutes before the end of regulation maximizes the trailing team's chances.
 
@@ -1098,7 +1098,7 @@ In summary, advanced analytics can provide insights into optimal strategy, the r
 
 In summary, bookmakers can exploit known bettor biases like favoring favorites and home teams to shade lines and increase profit margins beyond the balanced book benchmark. Setting lines is more nuanced than just splitting bets 50/50.
 
- Here is a summary of the key points:
+ 
 
 - Power ratings can be used by bookmakers to set point spreads so that favorites and underdogs have an approximately equal chance of covering the spread. 
 
@@ -1114,7 +1114,7 @@ In summary, bookmakers can exploit known bettor biases like favoring favorites a
 
 - The resulting power ratings and home edge best fit the actual game results compared to any other ratings and home edge.
 
- Here is a summary of the key points:
+ 
 
 - The Patriots and Falcons were the top ranked teams, while the 49ers, Rams, and Browns were the worst teams in 2016. 
 
@@ -1257,7 +1257,7 @@ The key is balancing between aesthetics, functionality and storytelling. Followi
 
 - Choosing a good prior is important when lacking data. But as we gather evidence, the choice of prior becomes less important. The posterior beliefs converge toward the truth.
 
- Here is a summary of the key points:
+ 
 
 - Sports data like shooting patterns or player tracking data can be represented as matrices, with rows representing entities (e.g. players) and columns representing features (e.g. court locations). 
 
@@ -1287,7 +1287,7 @@ The key is balancing between aesthetics, functionality and storytelling. Followi
 
 - Overall, network analysis provides a useful toolset to study relationships and interactions in sports beyond just individual player or team analysis. Patterns of connections reveal deeper insights.
 
- Here is a summary of the key points:
+ 
 
 - Team performance is often greater than the sum of individual performances, which can be quantified using metrics like adjusted +/- ratings. 
 
@@ -1303,7 +1303,7 @@ The key is balancing between aesthetics, functionality and storytelling. Followi
 
 In summary, network science offers powerful and underutilized techniques to quantify team chemistry and other intangibles through connectivity metrics and motif analysis. The Ewing Theory is also plausible based on skill curves and network theory.
 
- Here is a summary of the key points:
+ 
 
 - Skill curves show that player efficiency typically declines as usage increases. This is because higher usage leads to more difficult shots. 
 
@@ -1331,7 +1331,7 @@ In summary, network science offers powerful and underutilized techniques to quan
 
 - Historic ratings can also be calculated but may need adjustment between seasons (e.g. regression to the mean) to account for roster changes.
 
- Here is a summary of the key points:
+ 
 
 - The authors used NBA player WINVAL ratings from 2000-2007 to estimate changes in average player ability over those seasons relative to 2006-2007. 
 
@@ -1345,7 +1345,7 @@ In summary, network science offers powerful and underutilized techniques to quan
 
 - Peterson, Penner, and Stanley (2011) proposed a simpler approach to compare baseball players across eras by adjusting for average runs scored in each era.
 
- Here is a summary of the key points:
+ 
 
 - The authors investigated whether NBA teams perform worse in the second game of back-to-back games. Using data from the 2018-2019 season, they found that teams playing back-to-back games performed 1.89 points worse on average than expected based on team ratings and home court advantage. This suggests back-to-backs do negatively impact performance.
 
@@ -1357,7 +1357,7 @@ In summary, network science offers powerful and underutilized techniques to quan
 
 In summary, the evidence indicates back-to-backs hurt NBA team performance but bye weeks do not significantly help NFL teams, contrary to popular belief. The adage "fatigue makes cowards of us all" held true for NBA back-to-backs but not for NFL bye weeks.
 
- Here is a summary of the key points:
+ 
 
 - The BCS (Bowl Championship Series) system relied on polls, computer rankings, strength of schedule, and team records to determine the top two teams who would play in the championship game. 
 
@@ -1369,7 +1369,7 @@ In summary, the evidence indicates back-to-backs hurt NBA team performance but b
 
 - An ordinal logistic regression model was built using offensive and defensive stats to predict a team's AP rank. It had moderate success, predicting the correct rank within the top 3 ranks 14% of the time.
 
- Here is a summary of the key points:
+ 
 
 - The Warriors had a 3.5% chance of losing the 2016 NBA Finals after going up 3-1 based on betting odds and assuming game independence. 
 

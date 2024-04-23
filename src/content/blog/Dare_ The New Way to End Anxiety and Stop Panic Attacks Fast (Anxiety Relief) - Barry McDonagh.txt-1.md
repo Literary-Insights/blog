@@ -131,7 +131,7 @@ The passage acknowledges allowing anxiety sounds counterintuitive but claims it 
 
 - Reassuring oneself or trying to logically talk down panic only fuels it more. Paradoxical responses like demanding more directly challenge the panic and defuse anxiety much faster.
 
- Here is a summary of the key points:
+ 
 
 - The DARE Response is a technique for managing panic attacks. It involves 5 steps:
 
@@ -349,7 +349,7 @@ The passage describes someone's experience with forgetting their lines during a 
 
 - Familiarize yourself with DARE, rehearse its use mentally, and carry reminders. Take baby steps by breaking large challenges into small, graduated tasks. Consider a support person initially if facing fears alone is too hard. Always leave anxiety-provoking situations on your own terms once DARE is applied.
 
- Here is a summary of the key points:
+ 
 
 - Worrying is a normal human experience, but it can become excessive for those with anxiety. There are two main types of worries - worries over things and worries over thoughts. 
 

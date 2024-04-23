@@ -79,7 +79,7 @@ It gives JK Rowling as an example, facing unrelenting criticism for concerns abo
 
 - Diversity of opinion is as important as other forms of diversity to achieve social justice. However, activists still need to defend free speech, which is essential for progress on civil rights issues like those fought for by historic figures through open debate rather than censorship. Cancel culture undermines this liberal ideal.
 
- Here is a summary of the key points:
+ 
 
 - Benjamin Cardozo described freedom of expression as "the matrix, the indispensable condition, of nearly every other form of freedom." A free exchange of ideas is essential for societal progress, especially for minority groups seeking equality and emancipation. 
 
@@ -129,7 +129,7 @@ Banning speakers weakens progressive causes by generating resentment and making 
 
 - In academia, self-censorship has increased as viewpoints have become less diverse and conservative scholars feel at risk to their careers for expressing dissenting views. Students also put pressure on specific topics.
 
- Here is a summary of the key points:
+ 
 
 - Recent incidents at Yale and Evergreen State College show students demanding protection from offensive ideas and intellectual confrontation, which has intimidated professors who deviate from conventional views. 
 
@@ -247,7 +247,7 @@ The quote is: "The liberty of the press is essential to the nature of a free sta
 
 - Offense or emotion should not determine what can be discussed or studied in academia.
 
- Here is a summary of the key points:
+ 
 
 - As Milton put it, evil manners can be learned through many means besides books, which cannot all be stopped or controlled. Reading this in context, Milton argues that censoring books will not prevent the spread of evil ideas, as they can spread through other uncontrolled means of communication. 
 
@@ -271,7 +271,7 @@ The quote is: "The liberty of the press is essential to the nature of a free sta
 
 In summary, the articles discuss cases where police investigated women in the UK for allegedly misgendering transgender individuals through pronoun usage and raise issues around balancing transgender rights and freedom of speech. They argue that misgendering alone should not constitute a hate crime.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses free speech and censorship issues around "hate speech" and offensive expression. It references debates around protecting minority groups while allowing open debate. 
 

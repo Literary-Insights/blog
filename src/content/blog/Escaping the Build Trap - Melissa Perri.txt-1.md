@@ -125,7 +125,7 @@ In summary, the piece discusses how product management is often misunderstood or
 
 In summary, a great product manager focuses on strategy, goal-setting, communication and influencing skills rather than direct management or project coordination. They consider all relevant factors to strategically guide the product in the right direction.
 
- Here is a summary of the key points:
+ 
 
 - Product managers take input from various sources like customer research, market research, business goals, experiments, and data analysis to understand user needs and business objectives. 
 
@@ -245,7 +245,7 @@ Key aspects of this process include:
 
 The goal is to establish a structure where strategies, work, and information flow dynamically to keep the company continuously adapting and ensure everyone understands their role in achieving shared goals.
 
- Here is a summary of the key points:
+ 
 
 - A company's vision statement should combine its mission (what it does) and vision (why it does it and how it wins) into a short, memorable statement. 
 
@@ -307,7 +307,7 @@ Christa's team gathered data on the problem and potential metrics to track succe
 
 So in summary, the team outlined initial metrics but needed to dive deeper into the problems through user research before defining their solution to have a better chance of achieving those metrics. The Product Kata helped structure their problem exploration.
 
- Here is a summary of the key points:
+ 
 
 - Marquetly conducted problem-based user research by interviewing teachers and having them share their screens to understand their workflow and pain points. This helped identify the main problems to focus on.
 
@@ -357,7 +357,7 @@ The key lessons are that experimentation reduces risk by getting faster user fee
 
 Overall, the passage advocates emulating GiveVision's experiments and rapid learning process. This allows addressing unknowns efficiently in any industry by getting user input early to develop the right solutions.
 
- Here is a summary of the key points:
+ 
 
 - Marquetly's teachers were struggling to publish courses due to the long time spent on video editing (80 hours on average). This was limiting growth. 
 

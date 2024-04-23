@@ -31,7 +31,7 @@ BOOK LINK:
 
 - The introduction highlights how economic ideas and models, even when initially considered radical, can provide practical solutions and framework for policy when applied to real-world problems and institutions. It establishes economics as both an analytical framework and a tool for policymaking.
 
- Here is a summary of the key points:
+ 
 
 - In 1997, Santiago Levy proposed overhauling Mexico's antipoverty programs from food subsidies to direct cash transfers with conditions. This became the Progresa/Oportunidades program. 
 
@@ -83,7 +83,7 @@ So in summary, economic models are simplified stories or thought experiments, no
 
 - Economic models incorporate formal mathematical notation, which provides clarity but can also act as a barrier to comprehension and contribute to perceptions of economists living in abstraction. Modeling necessarily involves both rigor and practical relevance.
 
- Here is a summary of the key points:
+ 
 
 - The flagship journals of economics (AER) and political science (APSR) differ in their accessibility to outsiders. Economics relies more heavily on mathematical formalism which makes it harder to understand without graduate training. 
 
@@ -175,7 +175,7 @@ Scientific progress in economics happens gradually through the development of ne
 
 - A controversy around a 2010 paper by Reinhart and Rogoff is discussed. While their work was politically seized upon, the eventual scrutiny and critique of their analysis through replication represents a salutary process of refining economic research.
 
- Here is a summary of the key points:
+ 
 
 - Reinhart and Rogoff were criticized by Herndon, Ash, and Pollin for errors and selective reporting in their analysis of the relationship between high debt and low growth. Specifically, they were accused of data errors, selective exclusion of data, and inappropriate weighting of summary statistics. 
 
@@ -237,7 +237,7 @@ The process focuses on moving between candidate models and real-world data, to s
 
 - Experiments have led to refining economic models to better reflect real-world complexities like fairness, social norms, imperfect information, etc. But some economists remain skeptical of lab experiments and field experiments have limited scope.
 
- Here is a summary of the key points from the provided text:
+ 
 
 - Economists employ models rather than theories, as models make more modest claims about context-specific causal explanations rather than universal validity. 
 
@@ -405,7 +405,7 @@ Overall, the post seeks to push back on common criticisms of economics by arguin
 
 - Economists' reliance on incentive-based policy solutions like carbon taxes is critiqued as turning moral issues into cost-benefit analyses. However, economists view this through an empirical lens of determining effective policies, not taking a normative stance on the issues themselves. Their role is to engineer solutions based on perceptions of real-world constraints like human selfishness.
 
- Here is a summary of the key points:
+ 
 
 - An Israeli daycare imposed a fee for late pickup of children which economists would expect to reduce tardiness. However, tardiness actually increased as parents now felt it was acceptable to be late since there was a fee. This showed how material incentives can sometimes "crowd out" moral behaviors. 
 
@@ -429,7 +429,7 @@ So in summary, the passage discusses how economists' focus on efficiency is too 
 
 - Still, economics has become more empirical and pluralistic over time. New areas like behavioral economics, randomized trials, and institutional economics have flourished due to influence from outside fields like psychology, medicine, and history. Overall, economics continues to evolve and incorporate new approaches.
 
- Here is a summary of the key points:
+ 
 
 - Randomized controlled trials (RCTs) represent a major shift toward empirical research in economics. They allow for clearer identification of causal relationships by randomly assigning participants to treatment and control groups. This has been particularly useful for evaluating interventions in developing countries.
 
@@ -539,7 +539,7 @@ That covers the key substantive points discussed across the selected sources reg
 
 - Pluralism in economics is valuable as different theories provide alternative perspectives, but simplicity allows clearer analysis of mechanisms even if assumptions are unrealistic.
 
- Here is a summary of the key points from the provided text:
+ 
 
 - Hal, an economist, is mentioned discussing wages and the relationship between productivity and wages. Specifically, wages have not kept up with productivity gains over the long term. 
 

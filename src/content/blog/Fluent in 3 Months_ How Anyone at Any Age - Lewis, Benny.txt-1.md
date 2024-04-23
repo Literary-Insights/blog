@@ -177,7 +177,7 @@ Does this summary cover the main points from the chapter? Let me know if you wou
 
 So in summary, set concrete and realistic targets, know how much time and work is needed to achieve them, focus on effective communication over perfection, and approach language learning as a long-term life adventure. That is the path to success.
 
- Here is a summary of the key points:
+ 
 
 •Learning a language intensively in 3 months requires absolute focus and dedicating several hours a day. It’s about the total number of hours put in, not the amount of time passed. Aim for at least 2-3 hours a day of focused study. 
 
@@ -263,7 +263,7 @@ The key ideas in the passage are:
 
 The key takeaway is that active techniques like mnemonics, spaced repetition, and recording yourself can significantly boost your ability to memorize and recall new language. Start with useful phrases and short scripts, then build up your vocabulary and fluency over time through daily practice. Staying motivated and consistent will lead to success.
 
- Here is a summary of the key points:
+ 
 
 • Visiting a country is not essential for learning its language. Many expats live abroad for years without gaining fluency.
 
@@ -335,7 +335,7 @@ The key aspects for your first conversation in a new language are:
 
 The keys to success are preparation, starting simple, conveying meaning,  having patience, and not aiming for perfection. Keep at it and build up from your first short conversations.
 
- Here is a summary of the key points:
+ 
 
 • Focus on simple phrases and basic conversations in the beginning. Don't worry about precision or grammar. The goal is to start speaking right away.
 

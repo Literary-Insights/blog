@@ -77,7 +77,7 @@ To avoid these traps, product creators need to understand positioning is a delib
 
 - In general, the author argues we often fail to deliberately consider alternative, better ways to position our products because we don't put the distinguishing features and advantages at the center of how we describe it. We need to highlight what truly makes the product special and find the optimal context for how it will be perceived by customers.
 
- Here is a summary of the key points:
+ 
 
 - The traditional positioning statement template assumes you already know the answers about how to position your product, but often does not provide useful insights. It reinforces the status quo rather than helping companies think creatively. 
 
@@ -89,7 +89,7 @@ To avoid these traps, product creators need to understand positioning is a delib
 
 - The traditional template rarely gets used after completion and is hard to remember. The author's 5 component framework provides a more useful way to analyze positioning by focusing on the customer perspective and competitive landscape.
 
- Here is a summary of the key points:
+ 
 
 - The company is selling a product that greatly reduces the time and complexity of invoicing for small businesses. 
 
@@ -241,7 +241,7 @@ The key is to position your solution as the natural leader and enabler of a bran
 
 - Layering a relevant trend can help potential customers see the importance and timeliness of the offering, but it is optional and the positioning still needs to stand on its own.
 
- Here is a summary of the key points:
+ 
 
 - Aligning your company/products with current trends can help make them look more current and relevant, especially to customers interested in that trend. However, the trend needs to genuinely reinforce your existing positioning. 
 

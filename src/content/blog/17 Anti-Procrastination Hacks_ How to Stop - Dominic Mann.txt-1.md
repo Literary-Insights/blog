@@ -71,7 +71,7 @@ In summary, breaking down big tasks, committing time, eliminating distractions, 
 
 - The solution is to overcome perfectionism and just get started. Many successful companies have adopted the approach of launching imperfect "beta" products and improving them over time based on user feedback. The brain adapts well when you dive into situations, even if you're not fully prepared. The key is focusing on doing rather than doing perfectly.
 
- Here is a summary of the key points:
+ 
 
 •Overthinking and excessive visualization of unpleasant tasks can lead to procrastination. Take a “dummy” approach and just plow on without overanalyzing. 
 
@@ -103,7 +103,7 @@ In summary, breaking down big tasks, committing time, eliminating distractions, 
 
 The key is to start taking action, build momentum with small wins, remove distractions and stay focused on the next step. Develop an empowered, growth-oriented mindset and hold yourself accountable to keep procrastination at bay. With practice, you can overcome the tendency to delay and cultivate better habits and systems to get work done. But ultimately, avoiding procrastination comes down to choosing to follow through rather than putting it off.
 
- Here is a summary of the key points:
+ 
 
 •It gets easier to stay productive once you get started. The most important thing is just to begin.
 

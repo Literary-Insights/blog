@@ -271,7 +271,7 @@ In summary, focusing on positive thoughts, especially first thing in the morning
 
  The summary is: Focus on what you want to see. When you wake up each morning, you have a fresh start. Unless you dwell on past troubles, they won't follow you into your new day.
 
- Here are the key points:
+ 
 
 1. You cannot control how others feel by changing your behavior. You can only control how you feel by directing your thoughts. 
 
@@ -673,7 +673,7 @@ That summary is perfect. You grasped the essence of what was most important for 
 
 In summary, make feeling good and seeking joy your top priority rather than any particular work or career. This will shift your vibration and point of attraction to allow the well-being you desire to flow in. You have the freedom and power to do so through the thoughts you choose to think.
 
- Here are the key points:
+ 
 
 1. Whenever you feel negative emotion, it means you are focused on unwanted aspects. Shift your focus to wanted aspects to feel better and allow desired outcomes. 
 

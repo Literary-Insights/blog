@@ -79,7 +79,7 @@ So in summary, walls represent but do not explain divisions, which stem from com
 
 - The government aims to address problems through continued urbanization but great imbalances in development, wealth and opportunities across regions and populations remain a challenge.
 
- Here is a summary of the key points:
+ 
 
 - Migrant workers from rural areas who move to cities like Shanghai for work do not qualify for social services like healthcare and education due to their rural agricultural household registration status. This creates an urban underclass with no social protections. 
 
@@ -115,7 +115,7 @@ So in summary, walls represent but do not explain divisions, which stem from com
 
 In summary, the US-Mexico border passes through diverse terrain along its 1800 mile length, from deserts to mountains, presenting engineering challenges for any continuous border wall that was proposed to be constructed.
 
- Here is a summary of the key points:
+ 
 
 - The US-Mexico border shifted significantly in the 19th century due to conflicts like the Mexican-American War, which saw Mexico cede around a third of its territory to the US. 
 
@@ -171,7 +171,7 @@ So in summary, the passage outlines the evolution of the US-Mexico border and in
 
 - Ultimately this closing of discourse from both political sides threatens the ideal of compromise at the center of American democracy. It reduces tolerance and space for differing views.
 
- Here is a summary of the key points:
+ 
 
 - The passage describes the separation wall/barrier between Israel and the Palestinian West Bank, noting that while most is a fence, the concrete sections have become its visual representation. 
 
@@ -183,7 +183,7 @@ So in summary, the passage outlines the evolution of the US-Mexico border and in
 
 - Over 400,000 Israeli Jews now live in settlements in the West Bank, which have grown into full towns connected by roads that restrict Palestinian movement and territorial contiguity. The political and territorial disputes remain deeply entrenched.
 
- Here is a summary of the key points:
+ 
 
 - The Israeli security barrier roughly follows the 1949 armistice line but extends into the Palestinian side in some areas, appropriating land. This angers Palestinians. 
 
@@ -261,7 +261,7 @@ Several Middle Eastern countries have constructed border fences and barriers in 
 
 - Poverty and education are not sole causes of extremism; separation of religion and politics may be another needed reform, given Islam's all-encompassing nature in many societies. Overall the situation remains politically fragmented and developmentally challenged.
 
- Here is a summary of the key points:
+ 
 
 - India has constructed a lengthy border fence along most of its border with Bangladesh to prevent illegal immigration and security threats. However, people continue to cross the border illegally despite risks like landmines and shoot-to-kill policies that have resulted in deaths. 
 
@@ -489,7 +489,7 @@ In summary, while the 1998 agreement resolved most violence, deep-seated sectari
 
 David Goodhart has characterized a major division in UK society between "Anywheres" and "Somewheres". Anywheres are more globally mobile, educated professionals who are comfortable anywhere, while Somewheres have stronger local identities and are rooted near where they grew up. Mass immigration since 2004 from Eastern Europe has accelerated cultural changes and fears about the loss of community among Somewheres. While immigration has economic benefits, the rapid pace of change and lack of government support for communities has led to unease among some in the UK who feel their country and neighborhoods have been transformed beyond recognition. Debates around nationalism, immigration and identity have exposed divisions between cosmopolitan progressives and more rooted, locally-identified citizens. Successive governments largely failed to address anxieties about immigration or consider its social impacts, fueling resentment and fears of marginalization. Managing diversity and change more gradually with community support could help bridge divisions.
 
- Here is a summary of the key points:
+ 
 
 - In a 2011 UK census, around 1 in 20 people identified as Muslim, but public perception estimates the Muslim population to be much higher, around 1 in 6. This is partly due to concentrations of Muslims in urban areas. 
 
@@ -511,7 +511,7 @@ David Goodhart has characterized a major division in UK society between "Anywher
 
 - The passage discusses the "open borders" argument that completely free movement worldwide could nearly double the global economy and reduce poverty by more efficiently allocating labor. However, it may overload resources in wealthier countries and mass movement risks destabilizing countries that lose citizens. It also ignores human tendencies towards group identity and nationalism in response to large population changes.
 
- Here is a summary of the key points:
+ 
 
 - Alfredo Olmedo, a man from Salta province in northern Argentina, said he agrees 100% with Donald Trump's view that countries need to build border walls. He believes open borders will not work in the current climate or foreseeable future. 
 

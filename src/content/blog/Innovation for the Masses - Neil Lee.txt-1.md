@@ -35,7 +35,7 @@ BOOK LINK:
 
 So in summary, it frames innovation as important for prosperity but explores how its effects can be narrowed, looking at examples of sharing innovation's gains more broadly across populations and regions.
 
- Here is a summary of the key points:
+ 
 
 - The passage looks at the relationship between innovation (measured by R&D intensity) and economic performance. It finds a strong positive correlation, as shown in Figure 1, indicating innovation is important for development. 
 
@@ -259,7 +259,7 @@ In summary, the passage argues innovation is a complex, nonlinear, messy process
 
 So in summary, Switzerland promotes innovation through education and skilled workers, while also maintaining shared prosperity through high wages, bargaining, and limiting low-quality jobs. However, it still faces challenges with inequality.
 
- Here is a summary of the key points:
+ 
 
 - Switzerland has a highly successful model of innovation that combines disruptive innovation in tech sectors with more incremental innovation in other industries. 
 
@@ -283,7 +283,7 @@ Austria's approach to innovation is then explored. The town of Leoben is used as
 
 Austria's history of innovation in low-tech sectors is explained by its past as the core of a large empire, its location between East and West, and its postwar social partnership model involving organized labor, trade unions, and political consensus to guide economic policy and investment in R&D. Thisbalanced approach helped sustain wages and ensure benefits were shared as industries restructured.
 
- Here is a summary of the key points:
+ 
 
 - The Austrian model is based on social partnership between employers, trade unions, and the government. Collective bargaining is an important feature. 
 
@@ -505,7 +505,7 @@ The passage discusses different types of institutions that are important for inn
 
 The passage then analyzes how countries like the US, Taiwan, Sweden, Switzerland and Austria have different combinations of these institutions. A key point is that successful innovation systems have strong institutions in all three categories - generation, diffusion, and redistribution of benefits. This allows places to benefit more equitably from innovation and technology. Examples of specific country-level institutions are also provided.
 
- Here is a summary of the key points:
+ 
 
 - Inequality is circumstantial and caused by specific characteristics of the US tax system and financial markets, as well as a lack of institutions to diffuse inequality. 
 
@@ -661,7 +661,7 @@ The article discusses labor market polarization in Austria based on an analysis 
 
 So in summary, the article finds evidence of occupational polarization in Austria driven by technological and globalization factors, though its impact was moderated by Austrian labor market institutions compared to other nations. Rising inequalities remained a challenge.
 
- Here is a summary of the key points:
+ 
 
 - Innovation is defined as the creation and implementation of new processes, products and methods. It is a driver of economic growth and improved living standards. Measuring innovation includes looking at R&D spending, patents, innovation indexes, etc. 
 
@@ -675,7 +675,7 @@ So in summary, the article finds evidence of occupational polarization in Austri
 
 - Geographic factors like clusters, spatial inequalities and the roles of cities and regions are also important to understanding innovation dynamics within countries.
 
- Here is a summary of the key points:
+ 
 
 - Labor market performance in the years 1950-1951 saw multipler effects in 1958 from economic stimulus. 
 

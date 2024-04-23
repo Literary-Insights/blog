@@ -113,7 +113,7 @@ The passage also discusses best practices for requirements gathering, like align
 
 - Ensuring usability is important in addition to functionality and design. A lean UX approach that identifies user profiles and builds interfaces iteratively around users ensures usability.
 
- Here is a summary of the key points:
+ 
 
 - User interfaces should be designed based on user profiling which includes demographics like age, gender, education, tech comfort levels, and business background. User interviews can help understand profiles. 
 
@@ -165,7 +165,7 @@ In summary, lean testing follows risk-based, pragmatic principles to reduce wast
 
 - Applying lean principles takes persistence over time rather than giving up early. The CEC mobile app project successfully met its objectives through a lean approach.
 
- Here is a summary of the key points:
+ 
 
 - The project was completed on time, meeting all deadlines. This suggests effective scheduling and risk management to avoid delays. 
 

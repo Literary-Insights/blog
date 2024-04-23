@@ -31,7 +31,7 @@ BOOK LINK:
 
 - The conclusion reiterates the book aims to examine technology's impact on civilization survival prospects over millennia, arguing communication advances have changed the risk calculus compared to past societies.
 
- Here is a summary of the key points:
+ 
 
 - Smallpox and bubonic plague are two highly contagious diseases that have significantly impacted human civilizations and empires throughout history. Smallpox killed millions of Native Americans when Europeans arrived in the Americas. The plague contributed to the fall of the Roman Empire and caused massive population losses in Europe in the 14th century. 
 
@@ -63,7 +63,7 @@ In contrast, the development of the internet has created a way to distribute kno
 
 This gives modern knowledge a measure of permanence and "digital immortality" that past civilizations lacked. As long as the internet survives, our words and ideas will not be so easily erased by disasters or the passage of time. The lesson is about how effectively retaining and distributing information can help civilizations survive through rediscovery of their knowledge.
 
- Here is a summary of the key points:
+ 
 
 - Natural disasters like volcanic eruptions, tsunamis, floods, and earthquakes have posed a major threat to civilizations throughout history by destroying cities and populations unexpectedly. Examples given include Pompeii being buried by Vesuvius, and the 1931 Central China floods killing 4 million people. 
 
@@ -109,7 +109,7 @@ Other examples discussed are how wireless communication may have helped Pompeian
 
 - However, many countries actively censor the internet through techniques like the Great Firewall of China. Governments aim to block politically sensitive discussions and control the online narrative. Protecting open access to information online remains an ongoing challenge.
 
- Here is a summary of the key points:
+ 
 
 - WikiLeaks released a supposed list of websites that were to be censored by internet service providers in Australia under new filtering legislation. While the government claimed the list only contained sites related to child pornography and terrorism, the WikiLeaks list also included many random sites. 
 
@@ -147,7 +147,7 @@ Other examples discussed are how wireless communication may have helped Pompeian
 
 - A smart grid could make the energy system more efficient, flexible, decentralized, and resistant to failures or attacks by leveraging information technology and networking principles similar to the internet. Many developed countries are working to implement versions of smart grids.
 
- Here is a summary of the key points:
+ 
 
 - Crowdsourcing projects like Foldit, CSTART, and Netflix Grand Prize have successfully tapped into the "hive mind" to solve difficult scientific and technical problems. However, these are still considered "elite-sourcing" as less than 1% of the global population participates. 
 

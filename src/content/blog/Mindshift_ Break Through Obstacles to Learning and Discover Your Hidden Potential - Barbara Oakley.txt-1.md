@@ -145,7 +145,7 @@ Ali realized his strengths lie more in business development and team leadership.
 
 - Leiden recognized Tanja's unique knowledge and experience, rather than just her academic credentials. They created a new position for her as project coordinator and community manager, recognizing the special needs of online learning communities. In this way, Tanja "created her own job" through applying her practical skills.
 
- Here is a summary of the key points:
+ 
 
 - Zach Caceres dropped out of high school in 9th grade and started working cleaning toilets at age 14. 
 
@@ -199,7 +199,7 @@ So in summary, Zach's independent thinking led to conflict and trouble, until he
 
 The key points are that Zach finds entrepreneurship liberating as it allows uniqueness and creativity, and he values practical, case-by-case mentoring over standardized social or educational programs.
 
- Here is a summary of the key points:
+ 
 
 - Patrick Tay holds important roles as a member of Singapore's parliament and with the National Trades Union Congress, focusing on legal services and issues affecting professional/managerial workers. 
 
@@ -277,7 +277,7 @@ Together, these mind tricks helped Adam overcome learned helplessness, tap into 
 
 So in summary, Adam achieved his dreams through strong motivation, developing effective learning tools like mind mapping, practicing intensely and repeatedly, and optimizing his time through efficiency. His approach is supported by research on how expertise and automaticity develop in the brain.
 
- Here is a summary of the key points:
+ 
 
 - Deliberate practice involves focusing on the toughest or most difficult parts of what you're learning. It's important to break material down into tiny, manageable chunks to master. 
 
@@ -289,7 +289,7 @@ So in summary, Adam achieved his dreams through strong motivation, developing ef
 
 - Breaking large concepts or skills into small, bite-sized pieces and focusing practice on only the hardest chunks one at a time is a form of deliberate practice that can help you continually improve.
 
- Here is a summary of the key points:
+ 
 
 - Adam Khoo encourages motivates himself everyday by reframing challenges as opportunities to learn and grow. He sees failures or criticism as a chance to improve. 
 
@@ -331,7 +331,7 @@ The passage discusses Terrence Sejnowski's unconventional career path in neurosc
 
 - Terry had to quickly finish his physics dissertation while transitioning to studying neuroscience full-time. His experience showed the importance of gaining competence in your chosen research area, as well as some luck and networking to find the right opportunities.
 
- Here is a summary of the key points:
+ 
 
 - Terry practiced "selective ignorance" by not learning about computers during his postdoc studies, in order to avoid being typecast as a technician rather than a biologist. This focus on his core discipline paid off and allowed him to gain deep knowledge. 
 
@@ -391,7 +391,7 @@ She felt lost and like her dreams were shattered. However, she was determined to
 
 Her experience shows how setbacks don't have to define you and that new opportunities can emerge from difficult situations. Princess turned her situation into motivation to help children in her community through her new organization.
 
- Here is a summary of the key points:
+ 
 
 - Princess' father George had paid a large sum of money to purchase land from a powerful businessman, but did not receive an official receipt. He started building on the land but another businessman disputed his claim. 
 
@@ -418,7 +418,7 @@ Positive aspects | Negative aspects
 
 Overall, feeling like an imposter can have both benefits and drawbacks. While it encourages growth and learning, it can also be emotionally taxing if it prevents you from recognizing your own accomplishments. Finding a balance is important - using perceived flaws or weaknesses as motivation to develop expertise, but without letting impostor fears hold you back from opportunities you are qualified for. Constant self-doubt can be demotivating, so it's helpful to also acknowledge strengths and accept praise from others as valid feedback instead of dismissing it.
 
- Here are the key points:
+ 
 
 - People have two modes of thinking - focused and diffuse. Focused thinking requires concentration while diffuse thinking involves more widespread brain areas and is linked to creativity. 
 
@@ -470,7 +470,7 @@ The passage describes Arnim's positive experience with taking massive open onlin
 
 So in summary, Arnim finds that MOOCs provide high-quality, flexible learning opportunities that have greatly enhanced his knowledge and approach to lifelong learning.
 
- Here is a summary of the key points:
+ 
 
 - David realized programming was the career for him but needed a computer science degree. He was accepted to University of Toronto but found the traditional university lectures inefficient compared to his Udacity experience. 
 
@@ -498,7 +498,7 @@ So in summary, Arnim finds that MOOCs provide high-quality, flexible learning op
 
 - In summary, these individuals illustrate how MOOCs provide flexibility to learn at your own pace, support career reinvention, help overcome disabilities, build networks, and develop a wide breadth of knowledge - allowing learners to take control of their own learning.
 
- Here is a summary of the key points:
+ 
 
 - Jonathan Kroll was great at languages but terrible at math. He wanted to go to business school but needed to improve his math skills to do well on the GMAT exam. 
 
@@ -556,7 +556,7 @@ So in summary, Arnim finds that MOOCs provide high-quality, flexible learning op
 
 - unconventional courses like "Learning How to Learn" that bring in new perspectives can be very effective MOOCs compared to more conventional topic and structure choices.
 
- Here is a summary of the key points:
+ 
 
 - MOOCs offer opportunities for nonconforming professors to teach in a fresh way and reach wider audiences online. Using humor, creative teaching methods, and video production techniques can make MOOCs more engaging for learners.
 
@@ -580,7 +580,7 @@ So in summary, Arnim finds that MOOCs provide high-quality, flexible learning op
 
 - When evaluating MOOCs, look for elements like metaphors/analogies, informative visuals, humor, likable instructors, and minimal filler words that can help learning and enjoyment. Forming connections and using multimedia techniques are emphasized as important for taking ideas from concept to life.
 
- Here is a summary of the key points:
+ 
 
 - Louise bought a horse named Specs after seeing an ad describing him as curious and affectionate. However, Specs began behaving aggressively towards Louise, kicking and biting her and causing several injuries. 
 
@@ -636,7 +636,7 @@ The passage discusses how Louise gradually developed a way to communicate with h
 
 So in summary, developing a language that Specs and Louise could understand helped Specs feel in control rather than pressured. This meant he had agency and could successfully learn and interact with his environment.
 
- Here is a summary of the key points:
+ 
 
 - The passage indicates that Philip Oakley asked the speaker to join their lives together in marriage, and the speaker said yes. 
 
@@ -720,7 +720,7 @@ Notes are provided with citation information for referenced works. Strategies me
 
 So in summary, sustaining prolonged attention engages key brain regions and neurotransmitter systems, and competing cognitive and arousal processes like mind wandering can disrupt attention if not adequately managed by the prefrontal cortex. Understanding these neuroscience factors helps explain challenges in maintaining focus.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses caring for children's learning abilities in Ghana and Singapore, noting their capacity to learn at young ages and how online learning has been adopted. 
 

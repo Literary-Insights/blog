@@ -47,7 +47,7 @@ BOOK LINK:
 
 - This research builds on earlier work and aims to advance understanding of income and wealth inequality throughout history.
 
- Here is a summary of the key points:
+ 
 
 - Inequality is a social, historical, and political construction that depends on power relationships and worldviews, leading to highly variable levels of inequality across societies and time periods. 
 
@@ -57,7 +57,7 @@ BOOK LINK:
 
 - The movement toward equality still has a long way to go, as evidenced by ongoing mobilizations against racial, gender, climatic and other inequalities. The future will likely see more conflict and crises that can catalyze change.
 
- Here is a summary of the key points:
+ 
 
 - There has been real human progress in areas like education and healthcare over the past two centuries. Life expectancy and literacy rates have risen substantially. 
 
@@ -81,7 +81,7 @@ BOOK LINK:
 
 - The rise in average income is a positive development related to better food supply and life expectancy, but averages hide enormous disparities between rich and poor countries. The choice and interpretation of economic indicators is highly political.
 
- Here is a summary of the key points:
+ 
 
 - While average incomes have increased substantially since the 18th century, the precise magnitude is not very meaningful over such a long time period. A multidimensional approach using concrete indicators for access to education, health, food, etc. is more informative. 
 
@@ -105,7 +105,7 @@ BOOK LINK:
 
 In summary, there has been a long-run trend of decreasing property concentration in France since the late 18th century, but it has been a limited and unequal deconcentration, with most of the gains going to groups in the middle rather than the bottom of the distribution. The share held by the top 1% remains high, while that of the bottom 50% is still very low.
 
- Here is a summary of the key points:
+ 
 
 - The richest 1% in France held around 45% of total private property in 1810, rising to 55% in 1910. This shows wealth was highly concentrated. 
 
@@ -121,7 +121,7 @@ In summary, there has been a long-run trend of decreasing property concentration
 
 - The march towards equality has involved rebalancing property law to favor non-owners. This contributed to greater prosperity as well as more equality.
 
- Here is a summary of the key points:
+ 
 
 - There are four main categories of property: means of production, housing, the state, and the rest of the world. 
 
@@ -135,7 +135,7 @@ In summary, there has been a long-run trend of decreasing property concentration
 
 - There are huge disparities in amounts and composition of wealth across groups - the poorest 50% have little savings, while the top 1% own 25 times the average fortune.
 
- Here is a summary of the key points:
+ 
 
 - The concentration of wealth remains extremely high. In 2020, the richest 10% in France owned over 55% of total wealth, while the poorest 50% owned barely 5%. 
 
@@ -163,7 +163,7 @@ In summary, there has been a long-run trend of decreasing property concentration
 
 So in summary, colonial exploitation of land, labor and resources was intricately linked to processes of industrialization and the emergence of severe global inequalities between the West and colonized countries. Reckoning with this history is vital for understanding current dynamics of inequality.
 
- Here is a summary of the key points:
+ 
 
 - Ken Pomeranz's work on the "great divergence" between Europe and Asia in the late 18th century emphasized that without establishing a system of global supply and labor mobilization, Western industrial development would have faced major ecological constraints. 
 
@@ -183,7 +183,7 @@ So in summary, colonial exploitation of land, labor and resources was intricatel
 
 - Continual inter-state competition in Europe drove development of decisive fiscal, financial and military dominance from late 18th century onward.
 
- Here is a summary of the key points:
+ 
 
 - Recent research has confirmed the central role of military and colonial domination, as well as resulting technological and financial innovations, in the "great divergence" between Europe and Asia that began around 1750-1800. 
 
@@ -195,7 +195,7 @@ So in summary, colonial exploitation of land, labor and resources was intricatel
 
 - Europe's political fragmentation and resulting military rivalries drove innovations that allowed it to gain advantage over unified China and the world between 1750-1900.
 
- Here is a summary of the key points:
+ 
 
 - European merchants encouraged protectionism against Indian textiles to develop their own textile industry and profit from the slave trade. The British imposed high tariffs and bans on Indian textiles in the 17th-18th centuries after acquiring a comparative advantage. 
 
@@ -233,7 +233,7 @@ So in summary, colonial exploitation of land, labor and resources was intricatel
 
 - The history of how slavery ended, with compensation to oppressors rather than the oppressed, raises important moral questions about reparations that are still relevant today.
 
- Here is a summary of the key points:
+ 
 
 - In 1825, France forced Haiti to agree to pay 150 million gold francs to compensate slaveholders for the loss of their "property" when slavery was abolished. This was over 300% of Haiti's national income at the time. 
 
@@ -245,7 +245,7 @@ So in summary, colonial exploitation of land, labor and resources was intricatel
 
 - When Britain and France abolished slavery in 1833 and 1848 they also paid compensation to slaveholders for their "lost property." This history illustrates the need to reconcile groups based on universal principles of justice.
 
- Here is a summary of the key points:
+ 
 
 - After successful slave rebellions in the early 19th century, slaveholders became more open to abolition in exchange for compensation. The British government paid substantial compensation to slave owners when abolishing slavery in 1833. 
 
@@ -257,7 +257,7 @@ So in summary, colonial exploitation of land, labor and resources was intricatel
 
 - There are continuing calls, resisted by France, for financial reparations to Haiti and land reform to help descendants of slaves in overseas French territories.
 
- Here is a summary of the key points:
+ 
 
 - Slavery played a central role in the development of the United States, which resembled a slaveholding republic at its founding. Many early presidents, including Washington and Jefferson, owned slaves. 
 
@@ -271,7 +271,7 @@ So in summary, colonial exploitation of land, labor and resources was intricatel
 
 - More broadly, slaveholding and colonial societies were among the most unequal in history. Saint-Domingue on the eve of the French Revolution was the most extreme case. Colonial societies like Algeria in 1930 and South Africa in 1950 also showed extreme inequality between European colonists and native populations.
 
- Here is a summary of the key points:
+ 
 
 - In post-slavery colonial societies, inequality took different forms through discriminatory legal, social, fiscal, and educational systems. 
 
@@ -287,7 +287,7 @@ So in summary, colonial exploitation of land, labor and resources was intricatel
 
 - The Congo-Ocean Railway construction from 1921-1934 caused a scandal due to terrible loss of life and coercive "recruitment" of workers. International pressure grew, including from the new ILO founded in 1919.
 
- Here is a summary of the key points:
+ 
 
 - France imposed a system of forced, unpaid labor ("services") on colonized populations in its African colonies until 1946. This was condemned by the International Labor Organization (ILO) as a form of slave labor, but France rejected the criticism. 
 
@@ -299,7 +299,7 @@ So in summary, colonial exploitation of land, labor and resources was intricatel
 
 - The French "colonial republic" imposed systematic racial discrimination, politically and economically, on colonized peoples until decolonization in the 1960s, belying its supposedly egalitarian republican values. Overcoming this legacy requires acknowledging its importance.
 
- Here is a summary of the key points:
+ 
 
 - The French Revolution in 1789 is often seen as establishing legal equality, but in reality equality was still limited mostly to white property-owning men. Privileges based on race, gender, and class persisted.
 
@@ -311,7 +311,7 @@ So in summary, colonial exploitation of land, labor and resources was intricatel
 
 - The battle for greater equality based on race, gender, and class continued over centuries, with major strides made in the 1960s. But many inequalities persist today based on wealth and inherited privilege. The Revolution was a seminal event, but establishing equality was a long, unfinished process.
 
- Here is a summary of the key points:
+ 
 
 - In the decades leading up to the French Revolution, the clergy and nobility justified their privileges by claiming to serve the Third Estate and society through spiritual guidance, charitable works, order and protection. 
 
@@ -325,7 +325,7 @@ So in summary, colonial exploitation of land, labor and resources was intricatel
 
 - The French Revolution helped continue the long transition away from forced and semi-forced labor in Europe, a process furthered in the 19th and 20th centuries through new laws on issues like child labor, unions, and social security.
 
- Here is a summary of the key points:
+ 
 
 - The campaign for universal suffrage in the 19th and early 20th centuries was a major social and political struggle, along with battles for labor laws and workers' rights. 
 
@@ -337,7 +337,7 @@ So in summary, colonial exploitation of land, labor and resources was intricatel
 
 - This changed dramatically when the Social Democrats came to power in the 1920s after workers' campaigns, leading to a more egalitarian society.
 
- Here is a summary of the key points:
+ 
 
 - From 1932 to 2006, Sweden went from having extreme inequality in property ownership to instituting policies that promoted more egalitarian access to services like healthcare and education. 
 
@@ -351,7 +351,7 @@ So in summary, colonial exploitation of land, labor and resources was intricatel
 
 - Overall, the history of Sweden illustrates the fluidity of inequality over time and the endless capacity for privileging certain groups' interests through institutional design. Contemporary capitalist democracies continue to struggle with achieving meaningful equality via their political systems.
 
- Here is a summary of the key points:
+ 
 
 - Censitary voting, where voting rights are proportional to property ownership, persists in economic institutions like corporations. Shareholders have voting rights proportional to the number of shares they own. 
 
@@ -363,7 +363,7 @@ So in summary, colonial exploitation of land, labor and resources was intricatel
 
 - The persistence of plutocratic voting in the economic sphere contrasts strikingly with its abolition in the political sphere. This illustrates the separateness of the economic and political spheres under capitalism.
 
- Here is a summary of the key points:
+ 
 
 - The system of Germanic and Nordic "comanagement" gives employees representation on company boards, but with limited voting rights compared to shareholders. 
 
@@ -403,7 +403,7 @@ So in summary, colonial exploitation of land, labor and resources was intricatel
 
 - The growth of the welfare state between 1914-1980 was led by social welfare spending and benefited the lower and middle classes. This represented an anthropological revolution as the state escaped exclusive upper class control via democratic reforms.
 
- Here is a summary of the key points:
+ 
 
 - Until the early 20th century, most tax systems were regressive, with the poor paying a higher share of their income than the rich. 
 
@@ -425,7 +425,7 @@ The passage discusses the real economic effects of fiscal progressivity in the e
 
 In the US, taking all taxes into account, the system was highly progressive from 1914-1980, with effective tax rates for the top 0.01% reaching 60-70% or more than triple the average rate. This reduced inequality substantially. It also altered the social contract by increasing acceptance of taxation, as regular taxpayers knew the rich were paying far higher rates. Since 1980 this has reversed - real progressivity has disappeared or become regressivity, with the wealthy sometimes paying lower rates than the middle class. This threatens the legitimacy of taxation and social solidarity.
 
- Here is a summary of the key points:
+ 
 
 - Progressive taxation from 1914-1980 helped reduce inequality before taxes (predistribution) as well as after taxes (redistribution). High marginal tax rates on incomes and inheritances discouraged the accumulation of large fortunes and reduced incentives for exorbitant executive compensation.
 
@@ -437,7 +437,7 @@ In the US, taking all taxes into account, the system was highly progressive from
 
 - Overall, the "great redistribution" from 1914-1980 through progressive taxes, reduced private wealth concentration, and increased public investment helped develop the welfare state and stimulated economic and social progress.
 
- Here is a summary of the key points:
+ 
 
 - Between 1914 and the 1950s, the enormous foreign assets held by European colonial powers, especially France and the UK, were largely destroyed or transformed into public debt. This represented a quarter to a third of the decline in private wealth in France and Germany, and almost two-thirds in the UK. 
 
@@ -461,7 +461,7 @@ In the US, taking all taxes into account, the system was highly progressive from
 
 - So while some progress was made in reducing inequality through the 20th century, hyperconcentration of property has persisted, especially benefiting the top 10%. Significant work remains to achieve a more equitable distribution.
 
- Here is a summary of the key points:
+ 
 
 - The welfare state and progressive taxation made significant progress toward equality during the 20th century, but have weakened since the 1980s. Revitalizing them seems the natural path forward. 
 
@@ -477,7 +477,7 @@ In the US, taking all taxes into account, the system was highly progressive from
 
 - This narrative of the welfare state and progressive taxation as the core of a new decentralized, egalitarian socialism needs to be compellingly articulated to drive further progress.
 
- Here is a summary of the key points:
+ 
 
 - Progressive taxation allows for a more equitable distribution of wealth and income, but there are limits to what it has accomplished historically in reducing inequality. 
 
@@ -491,7 +491,7 @@ In the US, taking all taxes into account, the system was highly progressive from
 
 - Decentralized, participatory organizations in sectors like healthcare, education, and culture are important for an expanded socialized economy.
 
- Here is a summary of the key points:
+ 
 
 - The main proposal is an "inheritance for all" - a capital endowment of around 100,000-200,000 euros given to every person at age 25, funded by a progressive tax on wealth and inheritances. 
 
@@ -519,7 +519,7 @@ In the US, taking all taxes into account, the system was highly progressive from
 
 - The vision outlined has weaknesses, but aims to balance concerns about authoritarianism and impermanence of egalitarian policies. The details require ongoing debate and refinement.
 
- Here is a summary of the key points:
+ 
 
 - Since the 1980s, there has been a challenge to the welfare state and progressive taxation, based on talk as well as concrete rules and treaties seeking to make this change irreversible. 
 
@@ -551,7 +551,7 @@ In the US, taking all taxes into account, the system was highly progressive from
 
 - Overall, profound inequalities remain in educational opportunities and outcomes based on parental socioeconomic status despite proclaimed principles of equality of opportunity.
 
- Here is a summary of the key points:
+ 
 
 - There is massive educational hypocrisy in many countries, including the US and France, that claim to provide equal opportunity but in reality allocate far more resources to privileged students. 
 
@@ -577,7 +577,7 @@ In the US, taking all taxes into account, the system was highly progressive from
 
 - Beyond gender, persisting prejudices towards ethnic/religious minorities and LGBTQ persons also require continued vigilance and action for real equality.
 
- Here is a summary of the key points:
+ 
 
 - Gender parity and quotas for women have become more widely accepted in recent decades, but quotas based on social, ethno-racial, or religious discrimination remain controversial. 
 
@@ -591,7 +591,7 @@ In the US, taking all taxes into account, the system was highly progressive from
 
 - Overall, the exit from social patriarchy requires broader transformation of the connections between production, social reproduction, family, and personal life. Resolving gender inequality by encouraging women to pursue the same lifestyles as men is not the solution.
 
- Here is a summary of the key points:
+ 
 
 - India has had a system of quotas for university admissions and public employment for disadvantaged castes (scheduled castes and tribes) since 1950, later expanded to other backward classes in the 1980s. This benefits 60-70% of the population. 
 
@@ -605,7 +605,7 @@ In the US, taking all taxes into account, the system was highly progressive from
 
 - But no Western country has quotas as extensive as India's. Care is needed to avoid rigidifying racial/social categories. A balanced approach combining targeted affirmative action with universal policies may be optimal.
 
- Here is a summary of the key points:
+ 
 
 - Affirmative action policies based on universal social criteria like income, wealth, or geographic area are preferable to ethno-racial categories, as they avoid rigidifying identities and can more easily build political support. 
 
@@ -659,7 +659,7 @@ In the US, taking all taxes into account, the system was highly progressive from
 
 In summary, the book argues that the modern economic order promotes neocolonial relations, with Western policy imposing free market rules on poor countries often against their interests and without regard for development needs.
 
- Here is a summary of the key points:
+ 
 
 - The economic relationship between rich and poor countries is currently characterized by neocolonial logic, where rich countries provide modest aid but extract much larger profits and capital flows from poor countries. 
 
@@ -671,7 +671,7 @@ In summary, the book argues that the modern economic order promotes neocolonial 
 
 - The overall goal is to move beyond neocolonial logic and grant poor countries the resources and rights for autonomous development as equals. Relationship should be based on global economic interdependence and redistribution, not aid dependency.
 
- Here is a summary of the key points:
+ 
 
 - The current model of international assistance assumes each country is responsible for its own wealth, when in reality global economic development has depended on the exploitation of resources and labor from poor countries.  
 
@@ -701,7 +701,7 @@ In summary, the current neocolonial model needs to shift toward a more federal-s
 
 - The overall vision is a democratic federalism with social aims, learning from past failures of federal projects but tackling problems now requiring transnational cooperation and oversight.
 
- Here is a summary of the key points:
+ 
 
 - Environmental catastrophes like climate change may accelerate historical change and promote transformations like the development of the welfare state, progressive taxation, participatory socialism, educational equality, and an exit from neocolonialism. 
 
@@ -715,7 +715,7 @@ In summary, the current neocolonial model needs to shift toward a more federal-s
 
 - To ensure decentralized contributions, new forms of universalist sovereignty are needed. Strong mobilization and power relationships will likely accompany any major transformations.
 
- Here is a summary of the key points:
+ 
 
 - China's share of public property declined sharply from 70% in 1978 to around 30% in the mid-2000s, where it has remained stable since. This represents a mixed economy structure, with the state maintaining significant control. 
 
@@ -727,7 +727,7 @@ In summary, the current neocolonial model needs to shift toward a more federal-s
 
 - Rivalry between China's statist model and liberal democracies could accelerate political change globally. China's strengths but also its repression and environmental impacts will shape its development as a superpower.
 
- Here is a summary of the key points:
+ 
 
 - The Chinese socialist regime has strengths like state control of assets, ability to make long-term plans, and freedom from colonial legacies, but also weaknesses like lack of democracy, rising inequality, demographic challenges, and repressiveness.  
 
@@ -751,7 +751,7 @@ In summary, the current neocolonial model needs to shift toward a more federal-s
 
 - Money is a useful tool but not a magic solution - it must be kept in its proper place within a balanced set of egalitarian institutions.
 
- Here is a summary of the key points:
+ 
 
 - The monetary policies enacted in 2008 and 2020 continue to operate within a relatively conservative framework. 
 

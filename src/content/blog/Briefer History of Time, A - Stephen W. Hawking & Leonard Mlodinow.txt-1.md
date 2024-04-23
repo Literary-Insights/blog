@@ -107,7 +107,7 @@ So in summary, GR revolutionized gravity by suggesting it results from curved 4D
 
 - The principle of equivalence suggests gravity's effect on time - clocks closer to a massive body like Earth will tick slower than ones further away, an effect tested using accurate clocks in 1962.
 
- Here is a summary of the key points:
+ 
 
 - Hubble used indirect methods to measure the distances to galaxies since their positions don't change like nearby stars. He classified stars in nearby galaxies and used their known luminosities to calculate galaxy distances. 
 
@@ -161,7 +161,7 @@ So in summary, GR revolutionized gravity by suggesting it results from curved 4D
 
 - With new observational technologies, we are continually learning more about the early universe and how its rapid evolution led to the present expanding cosmos we observe today. However, what set the Big Bang into motion remains unknown.
 
- Here is a summary of the key points:
+ 
 
 - In the hot big bang model of the early universe, about one-quarter of the mass converted to helium, with some heavy hydrogen and other light elements. The remaining neutrons decayed to protons (hydrogen nuclei).
 
@@ -223,7 +223,7 @@ The key points are:
 
 So in summary, quantizing electromagnetic radiation into photons provides a natural limit that resolves the paradox of an infinitely increasing radiation rate predicted by classical theories. It does so by disallowing emission below the energy of a single photon at very high frequencies.
 
- Here is a summary of the key points:
+ 
 
 - Quantum mechanics describes the world using a new type of mathematics that does not view things strictly as particles or waves. Things can be thought of as either or both.
 

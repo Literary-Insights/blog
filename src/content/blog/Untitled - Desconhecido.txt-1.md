@@ -45,7 +45,7 @@ BOOK LINK:
 
 - In summary, it introduces positive psychology as a field aimed at scientifically studying human flourishing and providing approaches to increase well-being, while addressing limitations of prior self-help approaches. Active engagement with exercises is encouraged for full benefit.
 
- Here is a summary of the key points:
+ 
 
 - The author won the Israeli national squash championship at age 16 and thought this achievement would make him happy, but the feeling of happiness disappeared quickly afterwards, leaving him confused. 
 
@@ -57,7 +57,7 @@ BOOK LINK:
 
 - The author's goal is to raise awareness of general principles that can help most people in most situations become happier, though full answers may never be found and happiness is complex with many internal and external barriers.
 
- Here is a summary of the key points:
+ 
 
 - The author develops a model called the "hamburger model" to illustrate different approaches to balancing present and future happiness. 
 
@@ -155,7 +155,7 @@ Issues like drug abuse and extremism may partly stem from individuals' attempts 
 
 The passage discusses the relationship between setting goals and happiness/well-being. While setting goals can help one achieve success, the attainment of goals does not necessarily lead to lasting increases in happiness or well-being. Research shows that life events like winning the lottery or suffering an injury typically only cause short-term changes to happiness levels - people tend to return to their baseline levels of well-being. However, goals can still contribute to well-being if they are seen primarily as a process rather than an end destination. Focusing on enjoying the journey toward the goal, rather than being obsessed with the ultimate attainment of the goal, allows one to find meaning and satisfaction along the way. The proper role of goals is to liberate us to experience each present moment, not to cause prolonged future-oriented striving.
 
- Here is a summary of the key points:
+ 
 
 - The emphasis is on having goals, rather than just attaining them, as striving towards goals can enhance enjoyment of the present moment and leads to increased well-being along the journey. Goals should be seen more as a means to an enjoyable process rather than just ends. 
 
@@ -185,7 +185,7 @@ Emphasizing just achievements over cultivating a love of learning can reinforce 
 
 The passage also discusses the "underprivilege of privilege" where helping children avoid all struggles denies them satisfaction from overcoming challenges and experiencing flow, potentially leading to issues like depression. Overall, the passage argues education should focus on cultivating meaning, pleasure and flow rather than just achievements.
 
- Here is a summary of the key points:
+ 
 
 - Happiness and life satisfaction are equally distributed among people of different backgrounds (age, gender, race, socioeconomic class) once basic needs are met, according to research. The ultimate currency of emotions is a great equalizer. 
 
@@ -225,7 +225,7 @@ The passage also discusses the "underprivilege of privilege" where helping child
 
 - Happiness also depends on what we choose to focus on or perceive. Changing one's perception or focus can make a difference in deriving meaning and pleasure from work.
 
- Here is a summary of the key points:
+ 
 
 - Strong, satisfying relationships are one of the strongest predictors of happiness. Spending meaningful time with friends and family enhances meaning, comforts during difficult times, and amplifies joy. 
 
@@ -251,7 +251,7 @@ The passage discusses the importance of relationships for happiness and provides
 
 - For a relationship to flourish, the transaction of meaning and pleasure between partners needs to be equitable so that both feel they are benefiting and neither feels regularly underpaid or overpaid in the relationship.
 
- Here is a summary of the key points:
+ 
 
 - The passage argues against the view that self-interest and benevolence towards others are mutually exclusive. It claims that helping oneself and helping others are intertwined, and that pursuing our own happiness can actually increase our ability and willingness to help others. 
 
@@ -279,7 +279,7 @@ Philosophers and psychologists have debated whether people have a fixed level of
 
 - Taking time to complete sentences about barriers to happiness and giving yourself permission to be happy can help overcome internalized negative beliefs and generate insights. Imagining advising your future self as an older, wiser person can also provide perspective on valuing life.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses why time pressure and overcommitment can compromise happiness, even when engaging in activities one enjoys.  
 
@@ -299,7 +299,7 @@ Philosophers and psychologists have debated whether people have a fixed level of
 
 In summary, the passage discusses how overcommitment and lack of time due to modern busy lifestyles compromise happiness, and that simplifying and prioritizing to regain control of time is important for well-being and performance.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses the transition from a religious/spiritual worldview to a scientific, materialistic worldview as a result of the scientific revolution. While science has brought many benefits, it also led to a focus only on the material and discarding of anything non-material like happiness and spirituality. 
 
@@ -371,7 +371,7 @@ The passage discusses the idea that pursuing happiness and helping others attain
 
 - Overall, the article discusses ongoing societal shifts toward valuing non-work aspects of life more highly and expecting employers to accommodate work-life integration and flexibility. Remote work trends accelerated these changes and made alternatives to long hours more visible and acceptable.
 
- Here is a summary of the key points:
+ 
 
 - Unconditional love and the core self are discussed on pages 112-113. Sacrifice and love are discussed on pages 116-118. 
 

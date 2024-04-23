@@ -31,7 +31,7 @@ The crypto market exploded in 2020-2021, growing from thousands of cryptos worth
 
 The crypto narrative emerged from the 2008 financial crisis. Deregulation and low interest rates had enabled reckless lending, bundled into complex securities, rated highly despite their risk. The ensuing collapse was stemmed by government bailouts and quantitative easing that benefited corporations over citizens. This bred distrust that inspired Bitcoin. As crypto grew, its libertarian ideals faded and it became driven by profit-seeking and hype. The interplay of crypto's viral spread and easy money policies shows how economic narratives, more than material conditions, can drive events.
 
- Here is a summary of the key points:
+ 
 
 - The 2008 financial crisis led to bailouts of banks and rage against elites, sparking movements like Occupy Wall Street and the Tea Party. 
 
@@ -47,7 +47,7 @@ The crypto narrative emerged from the 2008 financial crisis. Deregulation and lo
 
 - Bitcoin was not the first digital currency but the most successful in gaining adoption and attention. The key question was whether it could go viral.
 
- Here is a summary of the key points:
+ 
 
 - Early digital cash projects like DigiCash and eGold attempted to create online money but failed due to technical limitations, lack of adoption, or abuse by criminals. 
 
@@ -73,7 +73,7 @@ The author felt "cryptocurrency" was the wrong term, as crypto doesn't function 
 
  Thank you for sharing your perspective. I think bringing more empathy and understanding to complex issues is important. Though fraud is a real problem, there are also people drawn to crypto out of hope or desperation. A compassionate approach that educates without judging could help. Ultimately, systemic change requires addressing root causes like economic inequality. But small acts of kindness can make a difference too.
 
- Here is a summary of the key points:
+ 
 
 - Maddox teams up with journalist Jacob Silverman to write articles exposing problems in the cryptocurrency industry, starting with celebrity promotions of dubious cryptocurrencies. Their first article in Slate calls out celeb crypto shilling as unethical. 
 
@@ -83,7 +83,7 @@ The author felt "cryptocurrency" was the wrong term, as crypto doesn't function 
 
 - Maddox feels emboldened in his mission to expose crypto scams, enjoying the validation of dads at his kids' school and reporters following his unconventional celebrity turn as a crypto critic. He aims to go bigger in his critiques.
 
- Here is a summary of the key points:
+ 
 
 - Proving fraud requires substantial evidence like documents and witnesses, which journalists lack compared to law enforcement. They must instead look for red flags that suggest fraud may be occurring. 
 
@@ -103,7 +103,7 @@ The author felt "cryptocurrency" was the wrong term, as crypto doesn't function 
 
 - Tether met the three prongs of the "fraud triangle" - motive/need (2016 hack), opportunity (lack of audits/oversight), and rationalization (claimed to be backed but wasn't fully).
 
- Here is a summary of the key points:
+ 
 
 - Tether is a controversial stablecoin company that Jacob and the author suspect of fraud. They believe Tether prints unbacked stablecoins to manipulate crypto prices. 
 
@@ -115,7 +115,7 @@ The author felt "cryptocurrency" was the wrong term, as crypto doesn't function 
 
 - The author wonders if Tether is an unstoppable grenade that will inevitably explode, crashing crypto markets. He aims to investigate further to uncover the truth about Tether's activities.
 
- Here is a summary of the key points:
+ 
 
 - The author had become a crypto critic during the biggest crypto bull run ever, betting that the market would crash even as prices kept rising. His short positions lost a lot of money.
 
@@ -131,7 +131,7 @@ The author felt "cryptocurrency" was the wrong term, as crypto doesn't function 
 
 - Through it all, he and Jacob found respite from the crypto wars through their shared love of baseball and the Dodgers.
 
- Here is a summary of the key points:
+ 
 
 - By early 2022, the author was feeling down as his bet against crypto was not paying off and crypto was becoming more mainstream. 
 
@@ -173,7 +173,7 @@ In summary, the sincerity around "community" in crypto marketing was dubious, wi
 
 In summary, cryptocurrencies have failed to achieve their lofty original goals of being decentralized and trustless forms of money. The technology's flaws reflect the impossibility of creating money without social consensus and human institutions.
 
- Here is a summary of the key points:
+ 
 
 - Cryptocurrencies were promoted as decentralized alternatives to government-issued fiat currency, but in practice they further enriched those at the top, similar to traditional finance (TradFi). 
 
@@ -189,7 +189,7 @@ In summary, cryptocurrencies have failed to achieve their lofty original goals o
 
 - The gold standard limited money supply like Bitcoin aims to. But elasticity is important in crises, and the gold standard exacerbated the Great Depression.
 
- Here is a summary of the key points:
+ 
 
 - The gold standard prolonged the Great Depression in the 1930s by limiting the government's ability to inject money into the economy. This contrasts with the response to COVID-19, where the lack of gold standard allowed massive stimulus spending. However, the current system concentrates power in politicians and the Federal Reserve.
 
@@ -239,7 +239,7 @@ In summary, cryptocurrencies have failed to achieve their lofty original goals o
 
 - Off camera, when you asked him what percentage of crypto was "real money" vs speculation, he shockingly said 10-15% was real, the rest was a bubble. This suggested the vast majority of crypto's supposed value didn't really exist.
 
- Here is a summary of the key points:
+ 
 
 - The author attended the SXSW conference in Austin, Texas, where he participated in a crypto-skeptic panel. Despite his expectations, the panel was sparsely attended. 
 
@@ -253,7 +253,7 @@ In summary, cryptocurrencies have failed to achieve their lofty original goals o
 
 - The essay explores the author's skepticism of the crypto industry, including questionable incentives, marketing, and illiquid markets. He remains unconvinced of the benefits of crypto despite claims by industry leaders.
 
- Here is a summary of the key points:
+ 
 
 - The article examines issues surrounding the world's largest cryptocurrency exchange, Binance, and its founder Changpeng Zhao (CZ). 
 
@@ -269,7 +269,7 @@ In summary, cryptocurrencies have failed to achieve their lofty original goals o
 
 - The lack of regulation allows crypto exchanges like Binance to benefit from conflicts of interest and leverage ratios that would not be permitted in mainstream finance. Critics argue this puts even savvy retail investors at risk of large losses.
 
- Here is a summary of the key points:
+ 
 
 - Francis Kim and Fawaz Ahmed both took large positions trading cryptocurrency on Binance exchange - Kim shorted Bitcoin while Ahmed went long on Ethereum. 
 
@@ -285,7 +285,7 @@ In summary, cryptocurrencies have failed to achieve their lofty original goals o
 
 - Some analysts believe Binance's platform issues may be linked to predatory algorithmic trading firms that target retail traders. Binance denies wrongdoing but its operations remain murky.
 
- Here is a summary of the key points:
+ 
 
 - The author attended the Bitcoin 2022 conference in Miami along with a film crew to document the event and interview attendees. 
 
@@ -297,7 +297,7 @@ In summary, cryptocurrencies have failed to achieve their lofty original goals o
 
 - Overall, the author saw the conference as an embodiment of American consumerism, gambling addiction, and capitalist excess masquerading as a financial revolution. The lack of coherence and grounding in reality was concerning.
 
- Here is a summary of the key points:
+ 
 
 - The author attended the Bitcoin 2022 conference in Miami and interviewed Brock Pierce, a controversial figure in the crypto industry with connections to politicians. 
 
@@ -309,7 +309,7 @@ In summary, cryptocurrencies have failed to achieve their lofty original goals o
 
 - Overall, the interview highlighted the shadiness and lack of accountability in the crypto industry, with figures like Pierce making outlandish claims without oversight. The author worries this could lead to another financial crisis.
 
- Here is a summary of the key points:
+ 
 
 - The author attends a Bitcoin conference in Miami featuring a replica Bitcoin volcano meant to represent El Salvador's proposed Bitcoin mining operation. 
 
@@ -335,7 +335,7 @@ In summary, cryptocurrencies have failed to achieve their lofty original goals o
 
 - The author came to El Salvador to see if cryptocurrency could work in the real world, not just as a speculative investment. But their initial impressions of Bitcoin Beach were underwhelming.
 
- Here is a summary of the key points:
+ 
 
 - In September 2021, El Salvador officially adopted Bitcoin as legal tender, but the rollout was plagued by technical problems, fraud, and low adoption rates. President Bukele doubled down on Bitcoin despite losses and damage to the country's financial standing. 
 
@@ -347,7 +347,7 @@ In summary, cryptocurrencies have failed to achieve their lofty original goals o
 
 The summary highlights the failed Bitcoin rollout, Bukele's authoritarian abuses under martial law, the unjust arrest and release of Garcia, and the contrast between the local poor and incoming crypto elite.
 
- Here is a summary of the key points:
+ 
 
 - In April 2022, the overall cryptocurrency market was valued at around $2 trillion, down from a November 2021 peak of over $3 trillion. Prices had been declining but venture capital was still flowing into the space. 
 
@@ -365,7 +365,7 @@ The summary highlights the failed Bitcoin rollout, Bukele's authoritarian abuses
 
 - The domino-like crash wiped out nearly $2 trillion in crypto market value in a matter of months, reminiscent of previous speculative bubbles bursting.
 
- Here is a summary of the key points:
+ 
 
 - Do Kwon was a young, arrogant crypto entrepreneur who created the Terra/Luna ecosystem of tokens, which was marketed as a stablecoin system but functioned more like a Ponzi scheme. 
 
@@ -387,7 +387,7 @@ Other dominos soon fell, including Celsius Network. Celsius offered unsustainabl
 
 These failures revealed the massive risks, leverage, and lies pervasive in the crypto industry. Billions in supposed assets vanished quickly, inflicting losses on retail investors who were promised high returns and low risk. The lack of regulation and oversight allowed companies like Celsius to defraud customers without accountability. As the curtain was pulled back, the depth of the rot in the crypto industry became clear.
 
- Here is a summary of the key points:
+ 
 
 - Tether weathered major customer redemptions through some legal maneuvers like clawing back collateral from Celsius. This showed the crypto industry was turning cutthroat as the market downturn began. 
 
@@ -401,7 +401,7 @@ These failures revealed the massive risks, leverage, and lies pervasive in the c
 
 - Overall, the crypto industry falsely marketed ideas of democracy and freedom while enabling scams and inequality. The crash revealed the hollowness of crypto's utopian promises.
 
- Here is a summary of the key points:
+ 
 
 - Leverage in crypto, especially DeFi, is extremely high compared to regulated financial systems. This leverage is fueled by the ability to easily create fake money (tokens) that can then be used as collateral for loans to acquire more assets. 
 
@@ -437,7 +437,7 @@ These failures revealed the massive risks, leverage, and lies pervasive in the c
 
 - Reputation for being very online, unconventional public persona for a CEO. Seen as quirky but smart.
 
- Here is a summary of the key points:
+ 
 
 - Sam Bankman-Fried was a proponent of effective altruism and utilitarianism. He wanted to earn a lot of money through crypto arbitrage in order to eventually donate it to effective causes. 
 
@@ -451,7 +451,7 @@ These failures revealed the massive risks, leverage, and lies pervasive in the c
 
 - FTX moved from the U.S. to Hong Kong and then to the lightly-regulated Bahamas, raising questions about why they sought favorable business environments with lax rules.
 
- Here is a summary of the key points:
+ 
 
 - The author interviewed Sam Bankman-Fried (SBF) of FTX in a hotel room in New York City. SBF appeared nervous and twitchy during the interview. 
 
@@ -465,7 +465,7 @@ These failures revealed the massive risks, leverage, and lies pervasive in the c
 
 - The core disagreement was over whether crypto could create trust and utility just through network effects, or whether you need trusted third parties and real-world utility.
 
- Here is a summary of the key points:
+ 
 
 - Sam Bankman-Fried was trying to convince people to buy SOL cryptocurrency on Twitter, essentially promoting his own interests. 
 
@@ -493,7 +493,7 @@ These failures revealed the massive risks, leverage, and lies pervasive in the c
 
 - Overall, Sam was defensive and evasive on questions about political influence and lack of current utility, while Matt challenged him on whether crypto has served the greater good versus enriching industry insiders.
 
- Here is a summary of the key points:
+ 
 
 - Sam Bankman-Fried was interviewed about his crypto exchange FTX and his views on the crypto industry. 
 
@@ -509,7 +509,7 @@ These failures revealed the massive risks, leverage, and lies pervasive in the c
 
 - Overall, the interviewer was unable to get much contrition or admission of flaws from Sam about the crypto industry. Sam remained largely defensive of crypto throughout.
 
- Here is a summary of the key points:
+ 
 
 - The author was perplexed after interviewing crypto billionaire Sam Bankman-Fried (SBF), finding his answers evasive and unsatisfying. 
 
@@ -521,7 +521,7 @@ These failures revealed the massive risks, leverage, and lies pervasive in the c
 
 - However, the author realized SBF loved playing games compulsively and simultaneously. This raised questions about what other "games" SBF might be playing amid the market crash.
 
- Here are the key points:
+ 
 
 - Many major crypto executives resigned or quit in 2022 as the crypto market crashed, including the CEOs of MicroStrategy, Kraken, and Celsius. Over two dozen "high-ranking" execs quit.
 
@@ -537,7 +537,7 @@ These failures revealed the massive risks, leverage, and lies pervasive in the c
 
 - The summary highlights the vast fraud and losses in crypto, the industry's aggressive lobbying despite the crash, and questions whether politicians would finally regulate it or continue to let it grow.
 
- Here is a summary of the key points:
+ 
 
 - Sam Bankman-Fried (SBF) spent lavishly on political donations and lobbying, but did not always get much in return. He claimed he might spend up to $1 billion influencing the 2024 election. 
 
@@ -553,7 +553,7 @@ These failures revealed the massive risks, leverage, and lies pervasive in the c
 
 - Some legislators listen to expert warnings, but feel constrained by political realities and industry influence.
 
- Here is a summary of the key points:
+ 
 
 - Securities laws focus on disclosure and protecting investors, while commodities regulation oversees trading of physical goods and derivatives. Crypto did not fit neatly into either category. 
 
@@ -569,7 +569,7 @@ These failures revealed the massive risks, leverage, and lies pervasive in the c
 
 - The fragmented oversight and competition between agencies with differing approaches was detrimental for robust crypto regulation protecting consumers.
 
- Here is a summary of the key points:
+ 
 
 - Regulatory arbitrage has allowed crypto exchanges to thrive overseas and avoid U.S. regulations. Neither the SEC nor CFTC are primarily criminal enforcement agencies, so they refer cases to the DOJ, which struggles with foreign jurisdictions. A new National Cryptocurrency Enforcement Team was created to address this.
 
@@ -581,7 +581,7 @@ These failures revealed the massive risks, leverage, and lies pervasive in the c
 
 - The author sees the messy application of law firsthand on a jury and notes that citizens often ultimately decide the law, despite the roles of lawmakers, lawyers, judges, and regulators.
 
- Here is a summary of the key points:
+ 
 
 - James Block developed an early interest in financial fraud and corruption. As a child, he would attend public hearings with his grandfather, an accountant, to hold politicians accountable. 
 
@@ -593,7 +593,7 @@ These failures revealed the massive risks, leverage, and lies pervasive in the c
 
 - The story illustrates how crypto fraudsters like Mashinsky use hype and false promises to lure in victims. But their schemes inevitably collapse, revealing the lack of real innovation or progress.
 
- Here is a summary of the key points:
+ 
 
 - Celsius Network portrayed itself as a community-focused platform offering high yields to its users. But in reality, it was a Ponzi scheme enriching insiders like CEO Alex Mashinsky. 
 
@@ -607,7 +607,7 @@ These failures revealed the massive risks, leverage, and lies pervasive in the c
 
 - While the blockchain isn't as transparent as claimed, on-chain sleuths like Dr. Block used it effectively to expose wrongdoing that authorities overlooked. His investigations contributed to Celsius's downfall.
 
- Here is a summary of the key points:
+ 
 
 - A man's NFT profile picture linked to the wallet that owned it, revealing he had sold millions in Celsius tokens and profited personally. 
 
@@ -623,7 +623,7 @@ These failures revealed the massive risks, leverage, and lies pervasive in the c
 
 - The collapse revealed the lack of accountability and oversight in crypto markets, harming retail investors. More regulation is likely needed.
 
- Here is a summary of the key points:
+ 
 
 - Celsius Network, a major crypto lending platform, collapsed in mid-2022 after failing to deliver high returns promised to customers. 
 
@@ -639,7 +639,7 @@ These failures revealed the massive risks, leverage, and lies pervasive in the c
 
 - The Celsius saga highlighted the hubris, denial, and "launchpad scammers" that persist in crypto even after collapses. Investors battled each other while trying to recover lost money.
 
- Here is a summary of the key points:
+ 
 
 - In the summer of 2022, cracks began to show in Sam Bankman-Fried's crypto empire FTX and Alameda Research. 
 
@@ -655,7 +655,7 @@ These failures revealed the massive risks, leverage, and lies pervasive in the c
 
 - This precarious situation built on fake money was poised to collapse dramatically amid the crashing crypto market.
 
- Here is a summary of the key points:
+ 
 
 - FTX was revealed to be highly insolvent, with billions in customer funds used to prop up Alameda Research. 
 
@@ -673,7 +673,7 @@ These failures revealed the massive risks, leverage, and lies pervasive in the c
 
 - Sam Bankman-Fried resigned as FTX CEO and his reputation for genius collapsed along with his empire. The saga revealed the House of Cards nature of much of crypto.
 
- Here is a summary of the key points:
+ 
 
 - Sam Bankman-Fried and other FTX executives boasted about risk-taking and lacked financial prudence. Caroline Ellison said little math was required for her job at Alameda Research. 
 
@@ -701,7 +701,7 @@ Attention turned to Tether's sketchy lending activities with Alameda. Further co
 
 Overall, the FTX situation exposed massive fraud and questionable activities throughout the crypto industry, leading to an existential crisis. Key players tried to avoid blame but scrutiny intensified on the industry's underlying corruption.
 
- Here is a summary of the key points:
+ 
 
 - FTX was revealed to have close financial ties to Alameda Research. Alameda appears to have used FTX customer funds for its own trading activities. 
 
@@ -715,7 +715,7 @@ Overall, the FTX situation exposed massive fraud and questionable activities thr
 
 - Crypto's lack of transparency and unreliable actors have been exposed. The easy money of the crypto bubble has dried up. Some see similarities between SBF and Bernie Madoff's Ponzi schemes crashing amid financial crises.
 
- Here is a summary of the key points:
+ 
 
 - David Henson's father, Hal, was a charismatic salesman and preacher who was very supportive of David's track career in high school. He attended all of David's meets and cheered him on enthusiastically. 
 
@@ -749,7 +749,7 @@ Overall, the FTX situation exposed massive fraud and questionable activities thr
 
 - Unlike typical gambling addicts, crypto addicts often view themselves as sophisticated investors rather than gamblers, adding to their overconfidence.
 
- Here is a summary of the key points:
+ 
 
 - Compulsive gamblers, like many forex traders, make the mistake of chasing losses until they are financially ruined. The highs of winning and sense of superiority become addictive, while the lows of losing are deeply shameful. 
 
@@ -761,7 +761,7 @@ Overall, the FTX situation exposed massive fraud and questionable activities thr
 
 - Crypto's origins link back to online poker, which exploded in popularity then crashed after rampant fraud was exposed. Satoshi Nakamoto was interested in digital money for online poker. The timing suggests crypto may have filled the gap left by poker's demise.
 
- Here is a summary of the key points:
+ 
 
 - Hal followed instructions from Stallion Wings to set up cards with passwords that corresponded to David's track events - the 300/400 meter hurdles, 110 meter high hurdles, and 400 meter dash. 
 
@@ -779,7 +779,7 @@ Overall, the FTX situation exposed massive fraud and questionable activities thr
 
 - Sam Bankman-Fried was arrested and charged with fraud and money laundering. Evidence emerged he manipulated FTX code to "borrow" billions without consent.
 
- Here is a summary of the key points:
+ 
 
 - Sam Bankman-Fried's political donation scheme is revealed, with FTX employees allegedly making over $93 million in illegal campaign contributions. Two top FTX executives plead guilty and agree to cooperate. 
 
@@ -793,7 +793,7 @@ Overall, the FTX situation exposed massive fraud and questionable activities thr
 
 - Several crypto-exposed banks like Silvergate, SVB, and Signature rapidly fail as the crypto contagion spreads to mainstream finance. The downfall of the crypto industry accelerates.
 
- Here is a summary of the key points:
+ 
 
 - The crypto industry saw major failures in 2022-2023, with companies like FTX, Celsius, and BlockFi collapsing. However, Tether survived despite increased scrutiny into its operations. 
 

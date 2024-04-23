@@ -173,7 +173,7 @@ The summary focuses on the key learnings around ratios, extraction, temperature 
 
 - The layered appearance of drinks like latte macchiatos provides visual appeal from separating the espresso and foamed milk.
 
- Here is a summary of the key points:
+ 
 
 - It is important for filter coffee brewing methods like the V60, Chemex, etc. that the grounds are uniformly wetted throughout the brewing process. This ensures an even extraction and the desired flavors are extracted from all the coffee grounds.
 
@@ -233,7 +233,7 @@ So in summary, convection through hot air is a key mechanism for transferring he
 
 - Coffee plants produce very small yields, with one plant typically yielding less than half a pound of roasted coffee per year. Shade is important for protection and may influence flavor development.
 
- Here is a summary of the key points:
+ 
 
 - Coffee producers adopt agro-forestry practices which help biodiversity by preventing soil erosion and providing habitat for native bird and insect species. 
 
@@ -267,7 +267,7 @@ Low-grade coffee batches undergo a mechanical or manual separation process to so
 
 Once sorted, the coffee is bagged in various container types like jute bags, vacuum packs, or GrainPro bags and is ready for export and trading on the international commodity market. Lower quality beans and batches are typically sold at auction. This process allows low-grade coffees to be traded and sold commercially.
 
- Here is a summary of the key points:
+ 
 
 - Brazil is the largest coffee producer in the world, producing over 2.9 million tons annually, mostly of the Arabica variety. Coffee growing areas are located in the southeast and benefit from suitable climate, topography, and altitude. Production ranges from large industrial estates to organic and biodynamic farms. 
 

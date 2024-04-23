@@ -119,7 +119,7 @@ So in summary, the foreword addresses how the copywriting role has evolved from 
 
 - Buzz marketing or word-of-mouth promotion is not really new, just more intentional. Mediocre work is wasteful when customers have so many distractions. Even big budgets can disappear without notice or results. Clients are pushing agencies to think differently.
 
- Here is a summary of the key points:
+ 
 
 - The most important thing when starting a new copywriting project is to thoroughly understand the target audience/market. General categories like "young people" or "males 18-34" are not very useful - they don't provide enough specific insight. 
 
@@ -131,7 +131,7 @@ So in summary, the foreword addresses how the copywriting role has evolved from 
 
 - Really knowing the target audience on a personal level is critically important for crafting effective, relevant communication that will stand out from the crowd. Generalizations are "worse than useless" for copywriting purposes.
 
- Here is a summary of the key points:
+ 
 
 - Early Lynx advertising directly marketed the product's efficacy and odor-fighting qualities, with clinical-style ads showing encounters facilitated by the man's scent. This viewed consumers as lab subjects rather than human beings. 
 
@@ -199,7 +199,7 @@ The passage also analyzes how Virgin Mobile ran a campaign with an ephemeral end
 
 - Virgin's success shows that owning a distinctive corporate voice through consistent branding, culture and customer experience can allow a company to start very successfully even with nothing else initially. However, maintaining a tone of voice requires consistency throughout the entire organization.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses the importance of being objective rather than subjective in advertising. While it may seem intuitive to express opinions about a product's benefits, this can come across as overly subjective or trying too hard to please the client. 
 
@@ -233,7 +233,7 @@ The passage then lists rules for keeping things simple, such as knowing your tar
 
 The author provides 20 things to avoid when writing simply, such as complicated structures, stresses, cliches, long/fancy words, dull words, showing off one's talents/knowledge, personal habits or styles, and bad dialogue. Simplicity in writing takes critical thinking and judgment.
 
- Here is a summary of the key points:
+ 
 
 - Rule 7 is about understanding different advertising mediums and knowing their technical aspects and limitations. This helps writers better craft ads for each medium. 
 
@@ -255,7 +255,7 @@ The author provides 20 things to avoid when writing simply, such as complicated 
 
 - For any medium, thorough research, understanding the format's qualities and limitations, and crafting messages that utilize the medium well are important for effective advertising. Tailor the message and execution to the specific communication channel.
 
- Here is a summary of the key points:
+ 
 
 - The passage emphasizes the importance of knowing your medium and tailoring your writing style accordingly. For example, don't write too formally if your client has a more casual voice. 
 
@@ -271,7 +271,7 @@ The author provides 20 things to avoid when writing simply, such as complicated 
 
 The key emphasis is on understanding the constraints and affordances of different channels and tailoring the writing style accordingly, with humor, natural flow of ideas, dominant layouts and judicious use of wordplay as good principles when suited to the context.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses the potential issues with highlighting a party leader's Jewish heritage, arguing it cannot be accidental and raises increasing concerns the more one thinks about it. 
 
@@ -279,7 +279,7 @@ The key emphasis is on understanding the constraints and affordances of differen
 
 - Overall the passage criticizes using or drawing attention to a party leader's Jewish identity as a means to attract voters, asserting it gets increasingly worse the more one considers the implications.
 
- Here is a summary of the key points:
+ 
 
 - Lyndon Johnson heard complaints that his presidential campaign advertisements were unfair. He asked to book more airtime to respond. 
 

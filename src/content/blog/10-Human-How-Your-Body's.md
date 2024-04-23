@@ -85,7 +85,7 @@ BOOK LINK:
 
 - Vaccination trains the immune system to fight pathogens without suffering disease. Herd immunity through mass vaccination has eliminated or nearly eliminated many infectious diseases in developed nations. Smallpox was eradicated globally by the 1970s saving millions of lives and billions of costs.
 
- Here is a summary of the key points:
+ 
 
 - Worldwide vaccination programmes have dramatically reduced cases of infectious diseases like polio, measles, and rubella. Polio cases declined from 350,000 annually to just 223 cases in 3 countries by 2012. Vaccines have prevented half a million deaths and 10 million cases of paralysis from polio. 
 
@@ -109,7 +109,7 @@ BOOK LINK:
 
 - The rise of these chronic conditions is abnormal and unexpected given medical advances against infectious disease. For example, asthma now affects 1 in 4 children compared to very rarely in the early 20th century. Food allergies have also increased dramatically. This suggests environmental factors are influencing the immune system in new ways.
 
- Here is a summary of the key points:
+ 
 
 - Rates of various chronic conditions like type 1 diabetes, multiple sclerosis, celiac disease, inflammatory bowel diseases, obesity, autism, depression and anxiety have risen significantly over the past century. 
 
@@ -139,7 +139,7 @@ So in summary, it notes the abnormal rise of many chronic conditions and argues 
 
 - The passage then examines demographic patterns in terms of age, race, and sex of those affected to gain further clues about underlying causes. In summary, it uses epidemiological analysis to link modern illnesses to environmental changes associated with advanced economies and prosperity.
 
- Here is a summary of the key points:
+ 
 
 - Many chronic diseases and health conditions are on the rise, particularly in developed countries, affecting both children and adults. This includes conditions like food allergies, asthma, autism, autoimmune diseases, obesity, and some cancers. 
 
@@ -395,7 +395,7 @@ While hygiene lowers infections, it also alters gut microbiota colonization in n
 
 - Maintaining a diverse, beneficial microbiome may be more important for immune and overall health than avoiding germs, as suggested by the "Old Friends" hypothesis versus the "hygiene hypothesis." Western lifestyles and antibiotic overuse have disrupted our microbial communities.
 
- Here is a summary of the key points:
+ 
 
 - Antibiotics have historically been widely used in livestock to promote faster growth and increased production. Estimates suggest up to 70% of US antibiotics are used this way in animals. 
 
@@ -455,7 +455,7 @@ While hygiene lowers infections, it also alters gut microbiota colonization in n
 
 - The obesity epidemic and rise of conditions like autism have coincided with increased antibiotic use in medicine and agriculture since the 1950s, suggesting antibiotics may be an underlying cause by disrupting the microbiome.
 
- Here is a summary of the key points:
+ 
 
 - Studies have found a link between antibiotic use in young children and an increased risk of autism, allergies, and autoimmune diseases like type 1 diabetes. Children given antibiotics before age 2 were twice as likely to develop asthma, eczema or hay fever. 
 
@@ -575,7 +575,7 @@ While hygiene lowers infections, it also alters gut microbiota colonization in n
 
 - Pregnancy shifts the diversity of microbes in a woman's vagina in a way that facilitates seeding the baby's gut with microbes like Lactobacillus that aid in milk digestion, as well as some gut microbes. This early colonization is important for establishing the infant's lifelong microbiome.
 
- Here is a summary of the key points:
+ 
 
 - Microbial succession occurs naturally in the gut as initial colonies of bacteria establish and provide resources for more complex communities to develop over time. 
 
@@ -849,7 +849,7 @@ The papers overall assessed the role of gut bacteria in obesity development and 
 
 - The acknowledgements section thanks many scientists who contributed to the author's research, as well as editors, agents, friends and family for their support in writing the book.
 
- Here is a summary of the key points from the provided text:
+ 
 
 - Antibiotics have been used since the mid-20th century and have both decreased infectious diseases but also disrupted the natural gut microbiota. Prolonged antibiotic use can lead to conditions like C. difficile infections. 
 
@@ -889,7 +889,7 @@ in pregnancy 230
 storage of fat 72  
 - Fat cells take up and store fatty acids and triglycerides as a way to regulate lipid levels in the circulation. This stored fat provides energy when needed.
 
- Here is a summary of the key points:
+ 
 
 - Measles outbreaks occurred in years 27, 28, 31, 38, 119, 165, 266. Meat consumption decreased in the 1970s and increased in fiber intake. 
 

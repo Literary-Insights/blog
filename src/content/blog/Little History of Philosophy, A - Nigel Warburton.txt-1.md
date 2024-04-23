@@ -145,7 +145,7 @@ In summary, Aristotle had a much broader, more life-oriented conception of happi
 
 - Epicurus had ideas about how to overcome the natural fear of death by thinking it through logically and focusing on enjoying life in the present through friendship and simple pleasures. This was part of his philosophy aimed at achieving happiness through minimizing pain.
 
- Here is a summary of the key points:
+ 
 
 - Stoicism was a Greek philosophical school that emphasized controlling one's emotions and accepting what cannot be changed. Stoics believed we are responsible for our feelings and should remove negative emotions wherever possible.
 
@@ -223,7 +223,7 @@ Machiavelli believed that openly approving Cesare Borgia's extreme brutality aga
 
 - In short, Hobbes viewed humans and the human body as purely physical, complex machines with no room or need for a non-physical soul or spirit. He was a proponent of an early modern materialist view of human existence that many scientists also hold today.
 
- Here is a summary of the key points:
+ 
 
 - Blaise Pascal was a devout Catholic philosopher who lived in the 17th century. He had a pessimistic view of human nature and believed humanity was driven by desires and prone to failure. 
 
@@ -421,7 +421,7 @@ Mill applied his utilitarian philosophy broadly to issues of individual liberty 
 
 - Marx saw the entire course of human history as shaped by class struggles between the bourgeoisie and the proletariat, with capitalism inevitably leading to conflict and revolution as workers fought for their rights and fair treatment.
 
- Here is a summary of the key points:
+ 
 
 - Karl Marx viewed society and history through the lens of class struggle between the wealthy capitalist class (bourgeoisie) and the working class (proletariat). 
 
@@ -463,7 +463,7 @@ Sigmund Freud significantly altered human understanding by discovering the uncon
 
 - While influential, Freud's ideas are not universally accepted. Criticisms include that psychoanalytic explanations could fit any human behavior, making its theories unfalsifiable and non-scientific according to philosophers like Popper. Russell also criticized religion as a major source of human unhappiness.
 
- Here is a summary of the key points:
+ 
 
 - Bertrand Russell was born in 1872 in England, making him a Victorian by the time period he lived in. His grandfather on his father's side was Lord John Russell, a former Prime Minister of the UK. 
 
@@ -487,7 +487,7 @@ According to Ayer's verification principle, if a statement is neither true by de
 
 While existentialist philosophy deals with important questions about human condition, purpose, and morality, Ayer believed these topics could not be meaningfully discussed or conclusions drawn using his logical positivist framework. Existentialism was of little philosophical use to those seeking objective or fact-based answers according to Ayer's theory of meaning and knowledge.
 
- Here is a summary of the key points:
+ 
 
 - Wittgenstein rejected the idea that all language works the same way or has a single essence. He argued there are many different "language games" with different functions and rules. 
 
@@ -541,7 +541,7 @@ While existentialist philosophy deals with important questions about human condi
 
 - Both of these thought experiments present moral dilemmas to provoke consideration of issues like harm reduction, consent, autonomy and moral obligations or responsibilities in philosophical discussions around ethics.
 
- Here is a summary of the key points:
+ 
 
 - The thought experiment presents a scenario of a runaway train heading toward five workers on the tracks. The rider on the train can divert the train onto another track by flipping a switch, which would kill one worker on the alternate track. 
 

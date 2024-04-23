@@ -233,7 +233,7 @@ So in summary, it argues that framing situations as games or challenges with rul
 
 So in summary, the recipe calls for suffering arises from a narrow and reactive perspective, while expanding perspectives through understanding different views can help one progress to higher levels of thought and avoid getting trapped in suffering.
 
- Here is a summary of the key points:
+ 
 
 - Bees play an important ecological role in pollinating crops and plants. Their survival is vital for ecosystems and food production. Proper ethical treatment of bees is important.
 
@@ -379,7 +379,7 @@ Specifically, it recommends filling the mind in afternoons, emptying the mind wi
 
 - Distribution is key - getting the message out through modern digital means rather than physical limits. This allows individuals to publish globally and monetize skills independently.
 
- Here is a summary of the key points:
+ 
 
 - Coding, marketing, and technical skills combined with the ability to effectively communicate value can enable anyone to earn an independent income. 
 

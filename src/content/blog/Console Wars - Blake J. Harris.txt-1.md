@@ -357,7 +357,7 @@ The board reacted angrily to Kalinske's proposals, criticizing and questioning h
 
 - The summary sets the scene of Sega and Nintendo's rivalry heading into 1991 with Sega positioning Game Gear against the dominant Game Boy but still trailing Nintendo in the market at this point.
 
- Here is a summary of the key points:
+ 
 
 - Olafsson attended Nintendo's press conference at CES where they were unveiling the Super Nintendo console in North America. 
 
@@ -373,7 +373,7 @@ The board reacted angrily to Kalinske's proposals, criticizing and questioning h
 
 - Olafsson was anxious for Nintendo to address their partnership with Sony developing the Nintendo PlayStation.
 
- Here is a summary of the key points:
+ 
 
 - At a Nintendo press conference, it is revealed that Nintendo has partnered with Philips, not Sony, for its new CD drive, shocking Sony executive Olaf Olafsson. 
 
@@ -795,7 +795,7 @@ So in summary, the event was going very well for Sega until an unforeseen blacko
 
 - The team was thrilled, and celebrated briefly before resuming serious work to roll out their new $99.95 offering and undermine Nintendo the next day. Their unconventional approach had paid off against the odds.
 
- Here is a summary of the key points:
+ 
 
 - Goodby, Berlin & Silverstein hired focus groups of teenagers to review commercials they created for an upcoming Sega pitch. The teens overwhelmingly panned the commercials, saying they were poorly made and did not understand gamer culture. 
 
@@ -977,7 +977,7 @@ So in summary, it discusses the origins and success of Acclaim, Nintendo's licen
 
 - Sonic the Hedgehog was at the heart of Sega's success and they hoped he would help Sega succeed against Nintendo again with the release of his second game.
 
- Here is a summary of the key points:
+ 
 
 - It is Sonic 2sday, the day that Sonic the Hedgehog 2 is being launched nationally in stores in the US. 
 
@@ -1251,7 +1251,7 @@ So in summary, Kalinske saw exciting new gaming tech that reinvigorated him, whi
 
 - Kalinske is still upset that Sega of Japan's stubbornness caused them to pass on the opportunity to work with SGI, putting Sega behind Nintendo in the next console generation as a result.
 
- Here is a summary of the key points:
+ 
 
 - Tom Kalinske, CEO of Sega of America, is feeling stressed from long hours and travel taking him away from his family. He finds solace in late night walks with his dog Chutney.
 
@@ -1263,7 +1263,7 @@ So in summary, Kalinske saw exciting new gaming tech that reinvigorated him, whi
 
 - The story parallels the personal lives and strategies of the two CEOs leading the 1990s console war between Sega and Nintendo in the United States market.
 
- Here is a summary of the key points:
+ 
 
 - Bill Andresen, chief of staff to Senator Joseph Lieberman, was appalled after looking into violent video games like Mortal Kombat that his son liked playing. 
 
@@ -1277,7 +1277,7 @@ So in summary, Kalinske saw exciting new gaming tech that reinvigorated him, whi
 
 So in summary, it outlines how Bill Andresen's concerns about violent games led Senator Lieberman to propose regulating the industry, worrying Tom Kalinske at Sega despite their existing ratings system and family-friendly focus.
 
- Here is a summary of the key points:
+ 
 
 - Sonic the Hedgehog balloon is flying in the Macy's Thanksgiving Day Parade in New York City. Tom Kalinske and his family are watching from a downtown building. 
 
@@ -1371,7 +1371,7 @@ Back at Sega, Tom Kalinske was pleased with how White represented the company de
 
 - The skit was a satire about competing with Sega, emphasizing Nintendo still made big profits despite a "bad year" and their optimism for the future with major companies entering the industry.
 
- Here is a summary of the key points:
+ 
 
 - Sony's new director of operations Stretch Anderson is on an airplane recruiting developers to work for Sony and meet with "Mr. Steve Race", who is likely the code name for Sony Computer Entertainment president Olaf Olafsson. 
 
@@ -1465,7 +1465,7 @@ In other words, Donkey Kong Country's commercial success as a "runaway hit" allo
 
 - In summary, it's about Fornasier and Kalinske both realizing it was time to leave Sega as it shifted away from the Western-focused approach they helped establish. Kalinske advised Fornasier to do what's best for her.
 
- Here is a summary of the key points:
+ 
 
 - The author thanks the production company Point Grey Pictures and its founders Seth Rogen, Evan Goldberg, and James Weaver for believing in the book from the beginning. 
 

@@ -27,7 +27,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 That covers the essence and scope of the field of psychology according to the book. Let me know if you would like me to elaborate on any part of the summary.
 
- Here is a summary of the key points:
+ 
 
 - Psychology evolved from philosophy and became established as a scientific discipline in the late 19th century. 
 

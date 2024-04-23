@@ -79,7 +79,7 @@ The key point is that while fear can achieve some short-term results, it is not 
 
 Hope this summary helps! Let me know if you have any other questions.
 
- Here is a summary of the key points:
+ 
 
 1. Fear-based management is ultimately ineffective and counterproductive. While it may seem like a tough management style gets results, instilling fear actually undermines performance and motivation.
 
@@ -237,7 +237,7 @@ In summary, actively listening to and acting on employee ideas can generate sugg
 
 In summary, the key takeaway is that leaders are encouraged to assume employees have positive intent and innocent reasons for mistakes, rather than jumping to conclusions about carelessness or malicious intent. This allows leaders to solve issues more constructively.
 
- Here is a summary of the key points:
+ 
 
 1. Assuming positive intent from employees and giving them the benefit of the doubt can help create a more collaborative and innovative culture. It can uncover mistakes before they become big problems and provide learning opportunities.
 
@@ -323,7 +323,7 @@ Spotting small wins becomes a habit that positively changes a leader's outlook a
 
 In summary, recognizing and rewarding small wins through gratitude and appreciation can boost employee engagement and morale in meaningful ways.
 
- Here is a summary of the key points:
+ 
 
 • Expressing gratitude immediately after an achievement is most meaningful. Delayed feedback, like at annual performance reviews, can feel less sincere.
 

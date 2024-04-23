@@ -89,7 +89,7 @@ So in summary, the passage discusses how traditional sales approaches are becomi
 
 - In general, the left hemisphere is more analytical, logical, precise while the right hemisphere is more holistic, emotional, able to see patterns/relationships. But the division is not absolute and both hemispheres work together integrated networks.
 
- Here is a summary of the key points:
+ 
 
 - The passage describes introducing a brain-friendly selling process in chapter 8 but first explores the buying process and buying brain in chapter 4. 
 
@@ -101,7 +101,7 @@ So in summary, the passage discusses how traditional sales approaches are becomi
 
 - The chapter will focus on understanding the customer's buying process so the sales process can be structured to match it from the customer's perspective.
 
- Here is a summary of the key points:
+ 
 
 - Customers typically follow a buying process when making a significant purchase, even if they are not consciously aware of it. This involves identifying a problem or need, researching options, evaluating solutions, selecting a supplier, and evaluating the purchase. 
 
@@ -169,7 +169,7 @@ Research has shown adaptive selling is effective, improves sales performance, an
 
 So in summary, the PRISM model provides a neuroscience-based framework that salespeople can use to better understand customers and adapt their selling approach according to each individual's unique behavioral tendencies.
 
- Here is a summary of the key points:
+ 
 
 - The PRISM model provides a framework for visualizing how the brain is organized into four quadrants based on its anatomical structure and lobes. 
 
@@ -230,7 +230,7 @@ Deliberate/Controlled (Gold):
 
 The summary highlights the key differences in behaviors exhibited by individuals with low/steady (Blue), fast/energetic (Red), and deliberate/controlled (Gold) profiles. It focuses on nonverbal cues like walking style, gestures, eye contact and organization as well as communication tendencies.
 
- Here is a summary of the key points:
+ 
 
 - The Neuro-Sell process consists of 8 stages split into 5 phases aimed at helping customers make decisions that benefit them through an involved, customer-centric approach. 
 
@@ -352,7 +352,7 @@ Per year = £78,000 in lost business would be a significant loss of revenue for 
 
 - It's a mistake to think customers make purely logical decisions. Emotions intertwine with reasoning. The sales message must appeal to both conscious/rational and unconscious/emotional minds.
 
- Here is a summary of the key points:
+ 
 
 - Parts of the brain like the reptilian and limbic systems act as a guardian, filtering information to prioritize survival-related threats and dangers. They respond quickly without much thought. 
 
@@ -384,7 +384,7 @@ The passage discusses how to capture customers' attention and keep their brains 
 
 The summary emphasizes using neuroscience concepts like curiosity, novelty, clarity and existing knowledge to engage customers' brains during a sales pitch for better understanding and decision-making.
 
- Here is a summary of the key points:
+ 
 
 - When preparing a sales pitch, it's important to have solid facts and proof points to back up your main message and key points. This provides certainty and reassurance for the customer's brain. 
 
@@ -430,7 +430,7 @@ So in summary, the study found that telling stories synchronizes neural activity
 
 - The goal in selling is to convince prospects that you are the best supplier to meet their needs, and that your products/services will solve their problems. The final step is to get a commitment from the prospect to close the deal.
 
- Here is a summary of the key points:
+ 
 
 - Always ask for the business at the end of a sales meeting, either by getting an order or moving the sale forward in a clear, positive way. Leaving without asking is something non-professionals do. 
 
@@ -496,7 +496,7 @@ The overall message is to use brain-friendly techniques like simplifying choices
 
 - To negotiate better, salespeople need to recognize customers' psychology tactics and "feel comfortable feeling uncomfortable" by not conceding just to reduce discomfort. Strong selling communicates value and improves negotiating abilities and outcomes.
 
- Here is a summary of the key points:
+ 
 
 - Selling and negotiating are two distinct skill sets, though related. Selling involves persuasion and justifying, while negotiating involves stating positions, making and weighing proposals, and demands. 
 
@@ -510,7 +510,7 @@ The overall message is to use brain-friendly techniques like simplifying choices
 
 - Physical nervousness in negotiations is actually the body preparing itself to perform well under stress, not true fear. Embracing this feeling can give a performance edge over being uncomfortable with it.
 
- Here is a summary of the key points:
+ 
 
 - Effective bargaining involves giving concessions to get concessions in return. Do not give anything away for free. Exchange value for equal or greater value. 
 
@@ -532,7 +532,7 @@ It also provides tips for using non-verbal cues to build a perception of power w
 
 The passage recommends using techniques before and during negotiations to subtly exert control and dominance, like making the other person wait, choosing the meeting location/time, using polite requests to direct their behavior, and maintaining powerful body language throughout such as expansive seating positions and gestures. The overall goal is establishing a sense of confidence and calm authority without provoking defensiveness from the customer.
 
- Here is a summary of the key points:
+ 
 
 - Steepling is when the palms touch in front of the chest, resembling a church steeple. It signifies confidence in what you are saying. High status people often use this gesture. 
 

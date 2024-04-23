@@ -201,7 +201,7 @@ The section shares stories of an Ethiopian family the author met who emphasized 
 
 - There are lessons to be learned about building connection though quality time together without distractions and inclusively helping strangers feel less alone. Both community and individual expression are important to balancing belonging and well-being.
 
- Here is a summary of the key points:
+ 
 
 - Derek Black grew up in a tightly-knit white nationalist community led by his father and godfather. This community provided him with a sense of belonging and purpose but was based on hatred of others.
 
@@ -229,7 +229,7 @@ The section shares stories of an Ethiopian family the author met who emphasized 
 
 - Tait's advocacy for kindness drew international attention and allowed him to share lessons with other cities. He believed kindness was key to social connection and community resilience.
 
- Here is a summary of the key points:
+ 
 
 - Originally in Okinawa, moais were communal support groups formed by parents who would bring infants together in groups of 5, treating them like siblings. The families would support each other financially and socially. 
 
@@ -355,7 +355,7 @@ However, the passage also acknowledges that technology and social media can faci
 
 - Being a refugee or asylum seeker adds layers of stigma, threats and feeling out of sync that exacerbate loneliness due to one's noticeably foreign status. As one woman said of the UK, there was a "feeling that you, as a foreigner, were not welcome."
 
- Here is a summary of the key points:
+ 
 
 - Anne is an elderly woman diagnosed with slow-moving breast cancer who is facing her mortality and feelings of loneliness. 
 
@@ -699,7 +699,7 @@ So in summary, the article discusses how social-emotional learning and service p
 
 - Thankfully, the hospital staff came together to schedule an urgent MRI for Shanthi the next day. The author learns that strong social support networks are critical for parents during difficult times caring for sick children. The passage advocates for programs that help bring isolated parents together to form communities.
 
- Here is a summary of the key points:
+ 
 
 - The doctor informed the parents that their daughter Shanthi needed emergency surgery for a bone infection that could threaten her leg or life if not treated immediately. 
 
@@ -791,7 +791,7 @@ The author concludes by expressing gratitude to the hundreds of people who share
 
 - Strong families and communities are important for raising caring, emotionally intelligent children. But digital technologies are reducing face-to-face social interaction time for many youth. Initiatives to address loneliness include "chat benches" in public spaces to encourage conversation.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses loneliness and ways to address it from various perspectives:
    - It mentions a study that found loneliness can cause stress response and trauma. Al-Anon and other groups can help address loneliness caused by addiction issues.

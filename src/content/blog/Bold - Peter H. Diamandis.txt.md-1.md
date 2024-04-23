@@ -103,7 +103,7 @@ In summary, flow states can be cultivated by manipulating environmental, psychol
 
 •An example of achieving a moonshot goal is Planetary Resources, which aims to mine asteroids. Diamandis developed credibility for the idea over 30 years and announced the company in 2012 with the support of expert co-founders and billionaire investors.
 
- Here is a summary of the key points:
+ 
 
 • Richard Branson founded Virgin Records in the 1970s, then launched Virgin Atlantic airlines in the 1980s out of frustration with existing air travel options. 
 
@@ -125,7 +125,7 @@ In summary, flow states can be cultivated by manipulating environmental, psychol
 
 • These leaders and companies have been able to achieve impact at scale by tapping into online networks, focusing on long-term potential, constantly experimenting, and looking for ways to delight customers. A passion for progress and changing the world for the better unites them.
 
- Here is a summary of the key points:
+ 
 
 - Crowdsourcing and crowdfunding have become very popular and powerful in recent years. The crowd, technology, and tools are all growing exponentially, making crowdsourcing much more useful.
 
@@ -163,7 +163,7 @@ In summary, flow states can be cultivated by manipulating environmental, psychol
 
 Does this summary cover the essence and key highlights from the introduction and passage? Let me know if you have any other questions!
 
- Here is a summary of the key points:
+ 
 
 Pre-campaign:
 

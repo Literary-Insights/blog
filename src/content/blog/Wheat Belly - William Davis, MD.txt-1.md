@@ -261,7 +261,7 @@ So in summary, celiac disease is an autoimmune reaction to wheat gluten that dam
 
 - Removing wheat could break this linkage and reverse the phenomena driving insulin resistance and diabetes progression, improving health outcomes and costs significantly.
 
- Here is a summary of the key points:
+ 
 
 - The rise in rates of diabetes and prediabetes parallels increases in overweight/obesity, as weight gain impairs insulin sensitivity and leads to excess visceral fat accumulation which causes diabetes. 
 
@@ -409,7 +409,7 @@ So in summary, diabetes provides strong evidence that high blood glucose leads t
 
 - Reducing carbohydrates, especially by eliminating wheat, can significantly lower triglycerides and small, dense LDL particles that are linked to heart disease risk. Low-fat diets high in grains may inadvertently increase these risks by raising carbohydrate intake.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses the potential downsides of wheat that are often overlooked. While wheat is commonly promoted as heart-healthy, more research suggests it can be inflammatory and trigger health issues. 
 
@@ -469,7 +469,7 @@ So in summary, the passage questions the promotion of wheat as heart-healthy and
 
 - Eliminating high insulin-triggering foods like wheat, dairy and processed carbs can therefore help reduce acne.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses various skin conditions that have been associated with wheat/gluten consumption, including dermatitis herpetiformis (DH), oral ulcers, cutaneous vasculitis, acanthosis nigricans, erythema nodosum, psoriasis, vitiligo, Behçet's disease, dermatomyositis, ichtyosiform dermatoses, and pyoderma gangrenosum. 
 
@@ -585,7 +585,7 @@ So in summary, while not strictly prohibited, moderation is recommended for proc
 
 The big first step in eating a gluten-free diet is to recognize how ubiquitous wheat and gluten have become in our modern food system. Wheat is found in many obvious foods like breads and pastas, but it is also hidden in surprising places like cereals, sauces, snacks and fast foods. Truly avoiding gluten requires vigilance, as even small amounts can cause issues for sensitive individuals. Manufacturers add wheat derivatives to many processed foods under ambiguous names. Checking ingredient lists and verifying with companies is important. Natural whole foods tend to be the easiest gluten-free options. An awareness of just how much our diets have come to revolve around wheat is the first step in taking control of one's diet.
 
- Here is a summary of the key points:
+ 
 
 - Malt vinegar, some salad dressings, soy sauce, teriyaki sauce, and many seasonings like curry powder can contain wheat. 
 
@@ -743,7 +743,7 @@ EPILOGUE
 
 This reference is an epilogue/article that discusses the switch from hunter-gatherer to agricultural societies as potentially the worst mistake in human history in terms of health and population effects. It argues health declined due to reduced nutrition and increased diseases once agriculture became widespread.
 
- Here is a summary of the key points:
+ 
 
 - As wheat consumption increases, LDL particle size decreases, making LDL cholesterol more atherogenic (prone to cause heart disease). Factors that increase wheat intake like carbohydrates and glycation of particles also decrease particle size. 
 

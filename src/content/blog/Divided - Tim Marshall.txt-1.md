@@ -143,7 +143,7 @@ BOOK LINK:
 
 - Barriers have pushed migrants into remote desert areas where thousands have died, but many still find ways around or over fences. They only slow illegal crossings rather than stopping them. Hypocrisy also exists with US businesses that hire undocumented workers.
 
- Here is a summary of the key points:
+ 
 
 - The passage teases the idea of basing NAFTA immigration laws on Mexico's laws as a hypothetical possibility, but does not seriously suggest this would or should happen. 
 
@@ -185,7 +185,7 @@ So in summary, it teases the idea of basing NAFTA laws on Mexico's as a thought 
 
 - Events like the Charlottesville white supremacist rally further inflame tensions. While there is outrage, some leaders refuse to fully condemn extremist groups, exacerbating divisions.
 
- Here is a summary of the key points:
+ 
 
 - The passage describes the Israeli separation barrier between Israel and the West Bank, which consists of both a concrete wall and barbed wire fencing. Only 3% is concrete wall but this is what is usually referred to and depicted due to its visual impact. 
 
@@ -325,7 +325,7 @@ Several Middle Eastern countries have constructed border fences and barriers in 
 
 - Overall, population growth and historic divisions have left India managing complex border issues. Fencing aims to enhance security but risks separating communities and may further inflame certain disputes.
 
- Here is a summary of the key points:
+ 
 
 - The India-Pakistan and India-Bangladesh borders are heavily disputed and militarized. Both sides frequently violate agreements on defense infrastructure near the border and cross-border shootings are common. 
 
@@ -419,7 +419,7 @@ Gated compounds affect attitudes to government by reducing reliance on public se
 
 - Significant economic and social divisions persisted for years between the former East and West Germany, with the west remaining more prosperous. Remnants of the "wall in the heads" between east and west Germans still exist to some degree today.
 
- Here is a summary of the key points:
+ 
 
 - After the fall of the Berlin Wall and German reunification, there was an optimism about a borderless, unified Europe with free movement of people, goods and capital between member states. However, significant divisions remain between east and west.
 
@@ -525,7 +525,7 @@ Religion, especially Islam, complicates the UK's social changes as some religiou
 
 The future remains unclear - will Islam integrate further into UK culture or will some areas face "Islamification"? Ordinary citizens feel disconnected from the dominant progressive narrative but still support a modern society. Managing religious diversity and social cohesion will continue to be important issues.
 
- Here is a summary of the key points:
+ 
 
 - Orwell observed that many English intellectuals feel ashamed of nationalist pride and institutions like the monarchy. This provides insight into some pro-Brexit voters who value national identity. 
 

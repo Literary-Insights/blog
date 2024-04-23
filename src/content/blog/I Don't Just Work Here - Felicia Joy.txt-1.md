@@ -119,7 +119,7 @@ Dave works with the new Chief People Officer to take ownership of employee engag
 
 The scenario outlines how different roles, including the CEO, CPO, CSO, C-suite, people managers and a local university, can work together to shared responsibility for cultural change. It emphasizes the CEO's leadership role in driving consensus and accountability for prioritizing employee well-being.
 
- Here is a summary of the key points:
+ 
 
 - Dee, the Chief People Officer, wants to ensure there is support for middle managers as they implement the new focus on mental health and culture. She recognizes managers need guidance on how to handle specific situations.
 
@@ -147,7 +147,7 @@ The scenario outlines how different roles, including the CEO, CPO, CSO, C-suite,
 
 The key takeaways are around learning from past failures, ensuring remote employees feel included, and the importance of partnering with frontline managers in cultural change efforts. Anjuli demonstrated understanding of the goals and offered constructive feedback to help achieve them.
 
- Here is a summary of the key points:
+ 
 
 - Chana is the CEO of a startup focused on creating recycled paper fabric for outerwear. She co-founded the company with Jamie and Lane. 
 
@@ -301,7 +301,7 @@ Unforgiveness can be stifling, leading to negative health, anxiety, conflicts an
 
 The REACH model is presented as a way to forgive - Recall the hurt, Empathize with the other, see Altruism as a gift, Commit to forgiveness, and Hold onto forgiveness. This involves reflecting on what hurt you, understanding the other perspective, remembering times you were forgiven, repeatedly committing to letting go of anger, and revisiting the process if negative feelings resurface. Forgiveness takes practice but becomes easier.
 
- Here is a summary of the key points:
+ 
 
 - The chapter profiles two leaders who exemplify the skills needed for today's workplace: a pastor/nonprofit founder named James and a leader named Sarah from an interfaith education organization. 
 
@@ -347,7 +347,7 @@ The REACH model is presented as a way to forgive - Recall the hurt, Empathize wi
 
 The key point is the article humanizes the process by showing respected business leaders still learning and adapting, rather than positioning the skills as something only attained experts possess. This makes the skills seem more approachable and achievable for the intended manager audience.
 
- Here is a summary of the key points:
+ 
 
 - Daniel started his career in politics and is now a leader in consulting overseeing a large team. He recognizes the personal challenges team members face. 
 

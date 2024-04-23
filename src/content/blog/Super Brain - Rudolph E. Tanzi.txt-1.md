@@ -101,7 +101,7 @@ So in summary, I most identify with the view of a dynamic, balanced and evolvabl
 
 - The key point is that the brain is not "hardwired" - through neuroplasticity, we have the ability to develop our thoughts, feelings and actions in any direction we choose through learning and experience.
 
- Here is a summary of the key points:
+ 
 
 - President Roosevelt died suddenly on April 12, 1945 while on vacation in Warm Springs, Georgia. 
 
@@ -153,7 +153,7 @@ To emulate Einstein's adaptability, one must stop repeating what never worked, s
 
 - To regain natural health and well-being, adults are advised to regain the psychological integration that comes naturally to newborns through an open and communicative approach to experiences.
 
- Here is a summary of the key points:
+ 
 
 - Depression is a mood disorder that affects the whole body and rhythms like sleep and appetite. It causes disconnection from social interactions and lack of interest or ability to clearly communicate feelings. 
 
@@ -165,7 +165,7 @@ To emulate Einstein's adaptability, one must stop repeating what never worked, s
 
 - Applying the principle of using your brain instead of letting it use you can help address depression and return normal brain functioning and mood balance. Non-drug solutions target the depression circuit patterns in the brain.
 
- Here is a summary of the key points:
+ 
 
 - Depression is often difficult to pinpoint the exact causes or onset. It may be genetic if it runs in the family, or people may vaguely recall feeling consistently sad or hopeless. 
 
@@ -179,7 +179,7 @@ To emulate Einstein's adaptability, one must stop repeating what never worked, s
 
 - Undoing depression involves addressing the initial outside causes, changing one's depressed response patterns, and breaking the habit of depression. Avoiding repeated and unpredictable stressors can help prevent depression.
 
- Here is a summary of the key points:
+ 
 
 - Depressed people tend to be passive and unable to see solutions to problems, so they lean towards inaction instead of making decisions. This allows issues to persist longer than needed. 
 
@@ -259,7 +259,7 @@ To emulate Einstein's adaptability, one must stop repeating what never worked, s
 
 - Personal growth and choices guide one's own brain evolution beyond biological evolution. Learning reshapes the brain. Conscious evolution through choices can lead to a "super brain".
 
- Here is a summary of the key points:
+ 
 
 - Timothy could learn the fundamentals of a new language in a month and acquire a decent accent in languages like Hindi or German, showing the brain's ability to quickly learn skills when trained optimally. 
 
@@ -355,7 +355,7 @@ The passage then introduces the concept of intuition as the next phase of brain 
 
 In summary, the key points are: 1) Brain evolved from emotions to intellect to balance emotions 2) Some over-rely on intellect alone 3) Intuition is the next phase arising from balanced intellect and emotions 4) Intuition can provide deeper insights when intellect is cleared through practices like meditation.
 
- Here is a summary of the key points:
+ 
 
 - The passage references a man whose trading turned erratic, he became depressed, and ultimately committed suicide in 1940 by shooting himself in the bathroom of his private club. It is unknown what happened to his millions. 
 
@@ -463,7 +463,7 @@ The brain produces emotions intuitively based on subtle cues and triggers, rathe
 
 - Discovery of messenger molecules in the 1970s provided evidence the brain communicates with all cells through chemicals. This established the link between psychological factors and risks of heart disease. It is now accepted the mind contributes to risk.
 
- Here is a summary of the key points:
+ 
 
 - Several psychosocial factors are associated with increased risks of cardiovascular disease, including depression, anxiety, type A personality, hostility, social isolation, chronic stress, and acute stress. 
 
@@ -489,7 +489,7 @@ The brain produces emotions intuitively based on subtle cues and triggers, rathe
 
 - While aging remains mysterious, maximizing positive brain-body messaging over time offers promise for anti-aging by maintaining cellular function and integrity as long as possible.
 
- Here is a summary of the key points:
+ 
 
 - The mind-body connection is real, and lifestyle choices can impact aging and health. Prevention is an important part of anti-aging. 
 
@@ -583,7 +583,7 @@ Cultivating mindfulness through meditation gives the brain a chance to reset fro
 
 - Applying mindfulness can help address bigger questions by breaking them into digestible components like examining one's openness to new ideas or willingness to deeply explore uncomfortable topics like love and purpose. Focusing on a meaningful personal problem can be a way to practice this process.
 
- Here is a summary of the key points:
+ 
 
 - The article proposes a 5-step process to move from hoping and believing in something to truly knowing it, using the example of finding answers about God or a spiritual dilemma. 
 
@@ -599,7 +599,7 @@ Cultivating mindfulness through meditation gives the brain a chance to reset fro
 
 The overall message is that moving from hope to faith to knowledge involves actively engaging spiritually through meditation, service and subtle shifts in mindset rather than just passive belief or fear-based hoping. Clarifying thoughts and considering personal experiences can help uncover answers.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses the human experience of consciousness and our perception of reality. While we perceive a vivid, multi-sensory world, there is no explanation for how this arises from neurons firing in the brain. 
 
@@ -645,7 +645,7 @@ So in summary, it argues that the physical world depends on consciousness and is
 
 - This represents an ancient viewpoint from Eastern traditions. The challenge is turning this theoretical view into a practical method for personal development and shaping one's experiences.
 
- Here is a summary of the key points:
+ 
 
 - The passage argues that consciousness exists independent of and prior to the brain, not the other way around as materialism claims. It says we are thoughts that create machines (brains), not machines that learned to think. 
 

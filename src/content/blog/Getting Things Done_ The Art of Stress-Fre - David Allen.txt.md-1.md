@@ -103,7 +103,7 @@ Does this summary accurately reflect the key points from the provided material? 
 
 Does this summary cover the essence of the key points around productivity tools, workspaces, organizing information, and maintaining control and clarity? Please let me know if you would like me to clarify or expand on any part of the summary.
 
- Here is a summary of the key points:
+ 
 
 - Review your office space and equipment and note any issues needing attention. Deal with clutter and unfinished tasks, especially unimportant ones. Consider doing this process for other locations where you keep stuff.
 
@@ -152,7 +152,7 @@ Does this summary accurately reflect the key points related to processing your w
 
 The key principles are keeping reminders limited to concrete next steps, organizing flexibly with frequent review, and capturing all commitments to provide psychological relief. Using these guidelines, you can feel in control of your projects and relaxed when engaged in unplanned activities. Let me know if you have any other questions!
 
- Here is a summary of the key points:
+ 
 
 - Project support materials should be for reference, not as reminders. Add projects to a master list and identify specific next actions to avoid an overwhelming pile of unmanaged information.
 

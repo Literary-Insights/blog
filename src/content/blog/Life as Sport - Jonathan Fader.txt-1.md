@@ -91,7 +91,7 @@ It suggests building routines to re-center your mind on the present, using posit
 
 In summary, the key message is that a present and process-oriented mindset is better for performance and success than dwelling on the past or solely focusing on outcomes, as outcomes depend on many uncontrollable variables while your process and approach are under your control.
 
- Here is a summary of the key points:
+ 
 
 - The author introduces the DOT concept to help focus on process over outcome. DOT stands for Doing, Outcome, Thinking. 
 
@@ -109,7 +109,7 @@ In summary, the key message is that a present and process-oriented mindset is be
 
 - In summary, the DOT concept provides a framework to focus on the controllable process elements of performing or competing, rather than unattainable outcomes which can undermine performance. Mastering this mentality takes practice of various cognitive and behavioral strategies.
 
- Here is a summary of the key points:
+ 
 
 - Setting goals based solely on outcomes (e.g. "hitting better") is less effective than setting process-focused goals that emphasize the steps needed to achieve the outcome. Process goals help improve performance by focusing on things within a player's control.
 
@@ -153,7 +153,7 @@ The key advantages of creating a "Mastery Map" of goals are that it provides cla
 
 - By concentrating on elements she could directly impact, like relationship-building, the CEO gained a sense of control over her progress despite external factors depending on others' views of her.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses the idea of being able to "fail better" - i.e. learning from failures and setbacks rather than getting discouraged. 
 
@@ -287,7 +287,7 @@ So in summary, visualization is a learned skill of mentally practicing tasks tha
 
 - Visualization helps automate tasks like sport skills by creating mental "shortcuts," similar to how walking becomes second nature. It can help athletes quickly learn new skills like pitch recognition that normally take years of real-time practice.
 
- Here is a summary of the key points:
+ 
 
 - Visualization allows the brain to turn off logical/analytical thinking and turn on more creative/visualization pathways. Being in nature can help facilitate this state of mind. 
 
@@ -325,7 +325,7 @@ It explains that making quick conclusions, even incorrectly, was evolutionarily 
 
 It then gives examples of how some athletes maintain confidence through objective self-talk anchored in past performances. The key is to acknowledge setbacks but keep them in perspective rather than assuming a single mistake portends total failure. Learning to view struggles appropriately, without panicking or blowing things out of proportion, is important for staying composed and continuing to improve.
 
- Here are the key points:
+ 
 
 - Thoughts can be controlled, while feelings cannot. You can work on changing unhelpful thoughts but not feelings directly. 
 
@@ -403,7 +403,7 @@ The key is for routines to fundamentally improve performance through directing t
 
 - Even professionals get pushed out of their routines sometimes during pressure situations. The ability to "reset" and refocus on the next opportunity through a routine is important for continued success.
 
- Here is a summary of the key points:
+ 
 
 - A micro-failure is a small mistake or setback during a performance that on its own will not lead to defeat, but could distract from the game plan if not moved on from quickly. 
 
@@ -431,7 +431,7 @@ The key is for routines to fundamentally improve performance through directing t
 
 - Winning comes from fully committing to purposeful practice each day and maintaining motivation, but also from practicing enjoyment of the process above outcomes in order to find real fulfillment.
 
- Here is a summary of the key points:
+ 
 
 - Focusing on enjoying the process can lead to more satisfaction and success, both conventionally defined and otherwise. Taking the pressure off results allows you to perform at a higher level for longer. 
 
@@ -517,7 +517,7 @@ In conclusion, the author thanks hundreds of athletes he has worked with over th
 
 - The conclusion emphasizes that developing routines is crucial to help "win today" through mental preparation, as David Wright's quote in reference 1 illustrates.
 
- Here is a summary of the key points:
+ 
 
 - Self-esteem is based on goal attainment. Negative results can impact self-esteem. Self-talk and self-improvement are important for maintaining self-esteem. 
 

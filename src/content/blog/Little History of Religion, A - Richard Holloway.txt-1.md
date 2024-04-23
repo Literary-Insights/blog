@@ -269,7 +269,7 @@ So in summary, early Japanese religion centered Japan itself as the divine creat
 
 - One of Christianity's most famous early converts was Saul, who became known as Paul. A Pharisee and persecutor of Christians, he had a dramatic conversion experience on the road to Damascus that transformed him into Christianity's most prominent leader and missionary.
 
- Here is a summary of the key points:
+ 
 
 - The followers of Jesus became bolder after his death, claiming he had risen from the dead and appeared to them. This infuriated the priests who wanted to stop his movement. 
 
@@ -423,7 +423,7 @@ The passage explains the Five Pillars of Islam that are central practices for Mu
 
 - By the late 16th century, Northern Europe was almost completely Protestant, though the new churches disagreed violently. India also experienced religious upheaval at this time with the founding of Sikhism by Guru Nanak, who reformed Hinduism and Islam in India in a manner similar to Protestant reforms in Europe.
 
- Here is a summary of the key points:
+ 
 
 - The lecturer used a metaphor of a dirty-faced boy to represent the options for reforming the Catholic Church after the Reformation: 1) Send him to bed dirty - no change from Catholicism. 2) Chop off his head - extreme reform that rejects Catholicism entirely. 3) Give him a bath - moderate reform that maintains continuity while removing corruption.
 
@@ -567,7 +567,7 @@ So in summary, the Quakers played a pivotal role in shaping Christianity's view 
 
 - Some extreme Muslim fundamentalists have reacted violently to changes in social norms, due to their insistence on adhering literally to religious scripture above all else.
 
- Here is a summary of the key points:
+ 
 
 - The passage argues that religion has historically been a major cause of violence, from the violence commanded by God in the Old Testament to the holy wars and inquisitions of Christianity and Islam. 
 
@@ -611,7 +611,7 @@ So in summary, the Enlightenment and rise of secularism have reduced religion's 
 
 - In general, the passage discusses how secular humanists admire aspects of religious community and worship, but cannot accept supernatural religious beliefs. They try to replicate some benefits through secular Sunday assemblies.
 
- Here is a summary of the key points:
+ 
 
 - Abraham, Moses, Muhammad, and others are described as prophets or founders of religions like Judaism, Christianity, and Islam. 
 

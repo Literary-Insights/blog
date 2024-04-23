@@ -257,7 +257,7 @@ So in summary, the author draws from her difficult childhood and journey to succ
 
 - In summary, it encourages readers to stop waiting on factors like weight or appearance to live fully, and to work on overcoming limiting beliefs that hold them back from feeling worthy.
 
- Here is a summary of the key points:
+ 
 
 - There is a growing societal pressure to only share positivity on social media and in person, hiding any negative emotions or struggles. This is referred to as "toxic positivity."
 
@@ -425,7 +425,7 @@ By the end of the week, the physical demands had taken a toll on everyone. But t
 
 - We cannot ignore our deep stories about worthiness - we need to acknowledge and disbelieve the disempowering labels by replacing them with empowering truths about our core selves.
 
- Here is a summary of the key points:
+ 
 
 - The author derived an equation for true fulfillment in life that examines self-confidence, growth, contribution, and most importantly, self-worth. 
 
@@ -463,7 +463,7 @@ The author reflects on how survival mode helped in the emergency situation but c
 
 In summary, the piece discusses how modern society and technology encourage disconnection, and provides tools to build self-worth through cultivating gratitude, positivity and living authentically rather than numbly.
 
- Here is a summary of the key points:
+ 
 
 - Your thoughts and focus shape your reality. Intentionally focusing on appreciating small blessings and beauty around you can improve your outlook and boost self-worth. 
 
@@ -591,7 +591,7 @@ The author acknowledges the upside of less gatekeeping online but argues importa
 
 - Stories of people who transformed by embracing vulnerability, pursuing growth beyond expectations, and prioritizing self-worth can inspire others undergoing their own changes. Their examples show the ingredients for finding ultimate fulfillment through transformation.
 
- Here is a summary of the key points:
+ 
 
 - Lia Key grew up homeless and was eventually able to launch her own business, Valencia Key, after pitching her products on QVC and gaining national exposure. She went from being homeless to broadcasting live to 100 million homes. 
 

@@ -47,7 +47,7 @@ BOOK LINK:
 
 - In summary, the passage advocates visualization as a tool for confidence-building, while also acknowledging how confidence is fragile and must be consistently nurtured through our experiences.
 
- Here is a summary of the key points:
+ 
 
 - Difficult conversations are unavoidable in life, whether with friends, family, or classmates. Some people try to avoid confrontation at all costs. 
 
@@ -65,7 +65,7 @@ BOOK LINK:
 
 - Introducing yourself with a simple "hello" script about magic helped the author confidently meet new people. Small talk reduces anxiety of interactions with unfamiliar faces.
 
- Here is a summary of the key points:
+ 
 
 - The passage describes a magician named Keith practicing and refining his magic tricks over many hours in his bedroom. With practice, his skills and confidence improved. 
 
@@ -97,7 +97,7 @@ BOOK LINK:
 
 The key message is that confidence is a skill that can be learned and improved through intentional techniques like powerful posture, role modeling confidence, positive self-talk and visualization exercises according to the magician's advice. Projecting confidence externally can help generate it internally as a self-sustaining cycle.
 
- Here is a summary of the key points:
+ 
 
 - Creativity is like a muscle that needs to be exercised to stay strong. Children are naturally more creative than adults as they spend more time playing and using their imagination. 
 
@@ -215,7 +215,7 @@ Famous successful people all faced challenges early on that forced them to focus
 
 - The rest involves using a deck of cards to pick daily magic words to focus on positively altering one's mindset and beliefs about abilities, confidence, friends and family, challenges, and having an amazing day. Repeating the words each day is meant to make them feel like reality.
 
- Here is a summary of the key points:
+ 
 
 - The passage describes several card tricks and mind reading techniques presented as real psychic or mind hacking abilities. 
 

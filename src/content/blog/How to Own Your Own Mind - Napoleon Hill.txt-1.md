@@ -547,7 +547,7 @@ In summary, achieving extraordinary results through organized thinking requires 
 
 - An example is given of a successful life insurance salesman who achieves the highest sales through prompt and persistent action. He gets referrals and introductions from clients, forming a cooperative network to aid his sales efforts. His indomitable will and action orientation set him apart, not his personality, knowledge, or experience. The failure of others to emulate his approach is a mystery. Success seems to hinge on the ability to take action when an effective approach is demonstrated.
 
- Here is a summary of the key points:
+ 
 
 1. Self-discipline and definiteness of purpose are important factors for one's achievements and success. The successful life insurance salesman achieved more than others because he had a definite major purpose and worked at it incessantly with strong willpower. Others lacked the necessary urge and desire. 
 
@@ -599,7 +599,7 @@ The key ideas around controlled attention, purpose, and harmonious group effort 
 
 - By practicing these four principles, one can condition their mind to attract what they desire and adapt to the law of harmonious attraction. Definiteness of purpose, mastermind alliances, faith in action, and perseverance are key to achieving success through the constructive use of thought energy and cooperative relationships.
 
- Here is a summary of the key points:
+ 
 
 1. Adopt a Definite Major Purpose: This helps focus one's mind and directs attention to a specific end goal. 
 
@@ -673,7 +673,7 @@ The key points from the passages are:
 
 - In summary, the key message is that "an average lifetime is not long enough to permit one to attain more than one major goal" because achieving noteworthy success requires an unwavering focus of attention, dedication and purpose over a long period of time. Dividing one's attention and efforts among too many pursuits dilutes that focus and reduces the chance of success in any single endeavor. Concentration of effort is key.
 
- Here is a summary of the key points:
+ 
 
 1. Most problems in life are minor and self-created due to lack of controlled attention. By focusing one's mind on the problem, one can solve even the most difficult problems. Successful people tackle the hardest problems first through concentrated effort. 
 

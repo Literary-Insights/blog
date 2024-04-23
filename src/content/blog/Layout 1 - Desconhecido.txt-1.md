@@ -35,7 +35,7 @@ BOOK LINK:
 
 - Overall the book aims to teach how to move beyond boring or ineffective copy and create truly compelling and results-driven writing.
 
- Here is a summary of the key points:
+ 
 
 - The passage is introducing the topic of copywriting - what it is, what copywriters do, etc. 
 
@@ -107,7 +107,7 @@ The overall message is that brilliant copywriters need strategies to tap into th
 
 So in summary, the key things a copywriter needs to understand about a brand are its big idea, which captures its point of difference, and its personality, which helps guide the tone of voice used to represent the brand. Strategic language use can help project the brand personality to audiences.
 
- Here is a summary of the key points:
+ 
 
 - To bring a brand's personality to life in writing, copywriters should think about speaking in the voice of a person with those personality traits. Picturing an actual human can help guide word choices and tone. 
 
@@ -121,7 +121,7 @@ So in summary, the key things a copywriter needs to understand about a brand are
 
 The key takeaway is that copywriters need to bring a brand's personality to life through language choices and tone of voice that envision the brand as a type of person, using clarity over simplicity and including extras that make the writing more vivid and engaging.
 
- Here is a summary of the key points:
+ 
 
 - Proper planning and preparation are essential before starting the writing process. This involves thoroughly understanding the brief and the intended reader. 
 
@@ -135,7 +135,7 @@ The key takeaway is that copywriters need to bring a brand's personality to life
 
 - Thorough preparation through understanding the brief, reader, and subject matter sets the writer up for success in the writing process. Proper planning leads to better performance and outcomes.
 
- Here is a summary of the key points:
+ 
 
 Who: The copywriter. Their clients and any key people they interview. 
 

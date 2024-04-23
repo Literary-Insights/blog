@@ -407,7 +407,7 @@ For me, the practices that most resonate are: connecting to my close social supp
 
 Does this help summarize some of the key practices for cultivating resilience? Let me know if you have any other questions.
 
- Here is a summary of the key points:
+ 
 
 • New conditioning creates new neural pathways in the brain by seeking out and repeating new experiences that encode adaptive coping strategies. This can lead to greater resilience. 
 
@@ -605,7 +605,7 @@ To develop these skills:
 
 •Keep in mind that building relational intelligence and resilience is a lifelong practice. Be patient and compassionate with yourself and continue learning and developing these skills.
 
- Here is a summary of the key points:
+ 
 
 1. Repair is the most important phase in the rhythm of relating, connecting, rupturing, and repairing connections. Repair strengthens relationships and builds relational competency and mastery. 
 
@@ -623,7 +623,7 @@ That covers the essence of the process of repairing ruptures in relationships. T
 
 Please let me know if you have any other questions!
 
- Here is a summary of the key points:
+ 
 
 • Mindful empathy and insight into theory of mind (understanding other perspectives) are crucial for repairing ruptures in relationships. When you can remain aware of your own experience and empathize with the other person's experience, it engages the resonance circuits in both of your brains, allowing for reconnection and repair. 
 
@@ -696,7 +696,7 @@ In summary, while losing our equilibrium is normal and inevitable, we can become
 
 - Developing equanimity - the ability to pause and reflect before reacting - helps us stay within our window of tolerance. Equanimity requires understanding our conditioning and giving our prefrontal cortex time to respond. With practice, we can improve our self-regulation.
 
- Here is a summary of the key points:
+ 
 
 • The hormone oxytocin counters the effects of cortisol, the stress hormone. It promotes feelings of calmness, safety, and connection. 
 
@@ -764,7 +764,7 @@ This simple exercise helps rewire emotional and cognitive patterns by activating
 
 With regular practice of techniques like this one, we can develop fluidity and choice in moving between the high road and the low road, learning from both but favoring the high road of our better nature. The neuroplasticity of the brain allows us to change patterns, and this change often begins in the body, not in the mind alone. The body leads the mind. By compassionately and curiously inhabiting our experience through mindful movement and posture, we create new moments of choice and new consequences that in turn create new neural connections, new maps in the brain and new traits of character. This is how change happens.
 
- Here is a summary of the key points:
+ 
 
 • Priming the brain means preparing it to feel a certain emotion or physiological state that could be adaptive in an anticipated situation. This helps build somatic intelligence and resilience.
 
@@ -858,7 +858,7 @@ Curt was upset after his daughter Cathy came home from school crying. She told h
 
 This exercise helps strengthen your awareness and regulation of emotions. The key is developing your capacity for noticing emotions without immediately reacting to them or pushing them away. This awareness and the ability to regulate difficult emotions are core skills for building resilience. Regular practice will enhance your proficiency.
 
- Here is a summary of the key points:
+ 
 
 1. Emotions typically last just 8 seconds if we allow them to move through us. We can sustain emotions by ruminating on the thoughts and stories that fuel them. This blocks the emotion from guiding resilient action.
 
@@ -1293,7 +1293,7 @@ The key message was that by cultivating compassion - for ourselves and others - 
 
 Exercises: Activating the release of oxytocin through head rub, hand on heart, hugs, and massaging the vagus nerve. Bringing attunement and resonance to consciousness. Choosing a practice. Coming into presence. Creating a better choice through new conditioning. Creating a circle of support. Creating a safe place. Creating material resources. Cultivating empathy and self-empathy. Equanimity. Self-acceptance. Self-compassion.
 
- Here is a summary of the key points:
+ 
 
 • Neuroplasticity refers to the brain's ability to change and adapt in response to experience. Mindful empathy can harness neuroplasticity through deconditioning and reconditioning processes.
 

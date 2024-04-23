@@ -403,7 +403,7 @@ It also discusses that Meissner, as a high-ranking INS official, understood how 
 
 - It also introduces Carlos Eugenio Vides Casanova, the former Minister of Defense in El Salvador who applied for a green card in the US in 1988. As Defense Minister from 1983-1989 he was seen as more calculated than his predecessor in dealing with US concerns about human rights abuses, while still allowing abuses to continue.
 
- Here is a summary of the key points:
+ 
 
 - The passage describes the formation and rise of Mara Salvatrucha (MS-13) gang in Los Angeles in the late 1980s from the perspective of Eddie Anzora, a Salvadoran immigrant boy. 
 
@@ -503,7 +503,7 @@ In 1989, Eddie's family moved from South Central to the San Fernando Valley to e
 
 - Duke was starting his own small gang, which was common but more informal than American gangs. Eddie witnessed Duke "jumping in" new recruits by beating them while others counted to 10.
 
- Here is a summary of the key points:
+ 
 
 - Duke, a local gang member, helps Eddie up when he is winded and invites initiates to get tattooed by him in his apartment, as a sort of welcoming. However, Duke never pressures Eddie or his brother to join the gang. 
 
@@ -691,7 +691,7 @@ The summary focuses on Mechkowski's background and initial frustrations/attitude
 
 - Romagoza's testimony spanned two days and included graphic details of the torture he endured. He hoped sharing his experiences would help alleviate some of the suffering and guilt he still felt.
 
- Here is a summary of the key points:
+ 
 
 - In October 2000, the first trial against Generals José Guillermo García and Carlos Eugenio Vides Casanova began. The jury returned a verdict in favor of the defense after a month, likely due to the lack of living victims who could testify. 
 
@@ -875,7 +875,7 @@ Eddie is confronted by two men in an MS-13 neighborhood who interrogate him, try
 
 - After Trump's win, Sessions and Miller achieved their long-held goal of advancing restrictive immigration policies, with Sessions as Attorney General and Miller as a top White House adviser.
 
- Here are the key points:
+ 
 
 - Stephen Miller obtained a role as senior adviser to Trump and head of the Domestic Policy Council to maximize his influence over immigration policy. 
 
@@ -1055,7 +1055,7 @@ So in summary, the UN anti-corruption commission investigated the president and 
 
 - Many migrants were improvising their plans beyond the initial route through southern Mexico towns, waiting to see if they could seek asylum in the US or find work in Mexico, but wanting to leave the dangerous conditions in Honduras.
 
- Here is a summary of the key points:
+ 
 
 - The three brothers - Alex, Erick, and Patrick - were in court for a hearing regarding Alex petitioning to become the legal guardian of his two younger brothers. This was a family matter separate from their immigration status. 
 

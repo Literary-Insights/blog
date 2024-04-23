@@ -231,7 +231,7 @@ The key argument is that various expansions of intellectual property rights have
 
 The key themes are that 1) surprise, discovery and new creation emerge from open, uncharted spaces outside of human control and ownership; 2) these spaces are increasingly being enclosed through privatization, copyright claims, and the extension of control or “mind share”; and 3) we must value and protect open, “wild” spaces to enable continued creativity and renewal. Unintended ambient sound became a focal point for reflecting on these themes.
 
- Here is a summary of the key points:
+ 
 
 - John Batt created a one-minute silent musical composition and claimed it was superior to John Cage's famous 4’33” piece. Cage's publishers sued Batt for "misappropriating Cage's name" and Batt ended up paying them an undisclosed sum.  
 

@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points:
+ 
 
 - The text introduces accounting and financial statements. It aims to cover the topic in around 100 pages at a high level for those new to accounting. 
 

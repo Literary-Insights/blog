@@ -196,7 +196,7 @@ The key is to thoughtfully reflect on recurring everyday interactions that conve
 
 The key messages are that hesitancies, if addressed respectfully, can deepen intimacy and trust over time even if uncomfortable initially. Only proceed with discussions that feel safe.
 
- Here is a summary of the key points:
+ 
 
 - Kevin and Ivo have been in a relationship for over 20 years. They have built a deep connection while also dealing with challenges related to Ivo's anxiety and OCD. 
 
@@ -302,7 +302,7 @@ So in summary, the passage discusses how intimate relationships can be our great
 
 - It advises couples to discuss what future goals, experiences or projects they could envision pursuing together that would maintain their connection and fulfillment as a team beyond current life stages like raising children. A shared dream reinforces commitment to the relationship.
 
- Here is a summary of the key points:
+ 
 
 - The question prompts envisioning one's last conversation with their partner and what they would never want them to forget. It acknowledges the inevitability of future separation, whether through the end of the relationship or death. 
 
@@ -328,7 +328,7 @@ So in summary, the question prompts envisioning a last conversation and voicing 
 
 - Processing this question involves truly dropping into your emotions to express love from the heart rather than reciting cliches. The ensuing moment of shared understanding nourishes the relationship.
 
- Here is a summary of the key points:
+ 
 
 - Having an open and honest conversation with a partner can be challenging and issues may arise. Some common problems are expectations, agendas, rushing through questions, and conversations becoming too painful.
 
@@ -356,7 +356,7 @@ The key emphasis is on openness, deep listening, avoiding agendas, moving slowly
 
 So in summary, these techniques aim to foster respectful, empathetic communication where both feelings are validated to enhance intimacy and relationship health over the long run, even if difficult truths emerge.
 
- Here are the key points:
+ 
 
 - The passage discusses the importance of having open and honest conversations with your partner to strengthen your relationship and connection. Regular communication about your lives, experiences, and relationship is key. 
 

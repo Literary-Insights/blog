@@ -75,7 +75,7 @@ In summary, the key takeaways are defining focus beyond tunnel vision, understan
 
 The key takeaways are that there are different types of attention and many reasons we lose focus. But by understanding these differences and reasons, we can develop strategies to improve our focus and attention. Exercising control over our voluntary attention and environment can help dampen distractions from involuntary attention.
 
- Here is a summary of the key points:
+ 
 
 10 Obstacles to Focus:
 
@@ -237,7 +237,7 @@ In summary, briefly disconnecting from phones and the Internet is presented as a
 
 In summary, the key tactics discussed are limiting meetings, setting expectations with others, turning off notifications and phones, and scheduling work around your energy levels to improve focus and productivity.
 
- Here is a summary of the key points:
+ 
 
 • Checking email is distracting and makes it hard to focus.
 

@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points:
+ 
 
 - The video promotes an event called "Jornada Milionário Global" which teaches how to become rich online using artificial intelligence and global marketing. 
 
@@ -53,7 +53,7 @@ So in summary, it promotes a training event that claims to teach people how to b
 
 - In summary, it is a sales pitch for an online marketing/wealth building course, promoting big income goals and lifestyle changes through digital entrepreneurship.
 
- Here is a summary of the key points:
+ 
 
 - The speaker created a club/group that has earned over R$100 million in the last 12 months, helping people connect and exchange information to achieve great results. 
 
@@ -135,7 +135,7 @@ In summary, it discusses the challenges small digital entrepreneurs face due to 
 
 - The overall message was that by learning the "right knowledge" shared in this event, one can change their life situation like the examples given of two individuals with different outcomes despite similar backgrounds. Freedom, lifestyle and success were promoted as potentials through this approach.
 
- Here is a summary of the key points:
+ 
 
 - The text promotes access to knowledge that has allegedly made dozens of new millionaires in 2023 through internet-based money making. 
 

@@ -33,7 +33,7 @@ BOOK LINK:
 
 In summary, the article discusses how mastering nonverbal signs and cues transmitted through body language can help people better understand each other on a deeper level beyond just words. It provides context for interpreting facial expressions, eyes, posture and physical positioning.
 
- Here is a summary of the key points:
+ 
 
 - Reading the body language of others allows you to understand their perceptions and feelings without direct verbal communication. It prevents misunderstandings. 
 
@@ -79,7 +79,7 @@ The summarizes key points about suggested evolutionary and psychological gender 
 
 - Body language, which includes facial expressions, allows communication without language barriers. It is an effective universal form of non-verbal understanding between people.
 
- Here is a summary of the key points:
+ 
 
 - Facial expressions are a way for humans to externally express internal emotions. There is a strong connection between emotions and facial expressions.
 

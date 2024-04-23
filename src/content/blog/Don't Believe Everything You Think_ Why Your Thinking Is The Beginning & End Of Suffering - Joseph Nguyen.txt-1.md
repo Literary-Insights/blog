@@ -47,7 +47,7 @@ Chapter 1: The Journey to Finding the Root Cause of Suffering
 
 - Understanding the Three Principles leads to freedom from suffering by revealing its root cause.
 
- Here is a summary of the key points:
+ 
 
 - We all experience pain and difficulties in life, but suffering is optional. Pain is unavoidable, but how we react to events determines whether we suffer or not. 
 
@@ -77,7 +77,7 @@ The summary emphasizes that while pain is inevitable, suffering stems from our r
 
 - Learning to observe our thoughts from a detached place, without judging or obsessively analyzing them, is a powerful skill for inner well-being.
 
- Here are the key points:
+ 
 
 - We do not need to "think positive" in order to feel positive emotions like joy, love, and bliss. These are our natural states of being. 
 
@@ -121,7 +121,7 @@ Oscillating between thinking and non-thinking is normal. We can't control it, bu
 
 In summary, inspired goals and inspired action, rooted in the present moment, can thrive with less thinking. Trust the process and know you are always enough.
 
- Here is a summary of the key points:
+ 
 
 - We create out of pure inspiration, not desperation. Creation comes from a place of wholeness and abundance, not lack. 
 
@@ -163,7 +163,7 @@ The key is to create from a place of abundance rather than lack, by allowing ins
 
 The key is to integrate presence into your daily life, while taking inspired action from that space of wholeness. Flow with what opens up naturally, stay true to your truth. Joy expands as you share it with others!
 
- Here is a summary of the key points:
+ 
 
 - There is no inherently "right" or "wrong" decision, just as there are no wrong keys on a piano. However, some decisions will lead to more pleasant outcomes than others depending on the context. 
 
@@ -181,7 +181,7 @@ The key is to integrate presence into your daily life, while taking inspired act
 
 - By trusting your intuition over obsessive thinking, you will experience the joy, peace and love you've been searching for, as well as miracles.
 
- Here is a summary of the key points:
+ 
 
 - We often already intuitively know what to do in life but don't act on it due to fear or self-doubt. 
 
@@ -201,7 +201,7 @@ The key is to integrate presence into your daily life, while taking inspired act
 
 - Keep taking steps forward. Know that what you desire will come if you have faith and align with infinite intelligence through intuition.
 
- Here is a summary of the key points:
+ 
 
 - Our intuition and inner wisdom (God) speaks to us all the time through thoughts and gut feelings. But we often ignore it due to fear of the unknown. 
 

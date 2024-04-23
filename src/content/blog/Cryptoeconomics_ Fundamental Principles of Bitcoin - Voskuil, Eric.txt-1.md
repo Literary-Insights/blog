@@ -49,7 +49,7 @@ So in summary, it outlines and explores the cryptoeconomic principles, propertie
 
 - Cryptoeconomics establishes rational economic principles as the basis for analysis, aiming to identify flaws, make new discoveries, and simplify complexity in both Bitcoin and economic theory. It does not repeat opinions but provides dense conceptual content.
 
- Here is a summary of the key points:
+ 
 
 - The author has over 30 years of experience working in computer science, founding technology companies, and investing in startups. He has expertise in computer security, software development, and economics. 
 
@@ -199,7 +199,7 @@ The level of security provided by proof-of-work is not actually wasted and is ad
 
 So in summary, the key points debated are around the impact of halvings, the role of economic forces versus state threats to mining, and assumptions made about fee rates and miner profitability over time. Market forces are generally seen as ensuring mining remains profitable on average.
 
- Here is a summary of the key points:
+ 
 
 - Side payments or "off-chain" fees paid to miners by merchants are seen by some as potentially undermining the security of the Bitcoin system by distorting incentives. 
 
@@ -356,7 +356,7 @@ The individual time preference that determines each person's capital ratio colle
 
 - Objective expressions of time preference occur through actual hoarding vs lending decisions in response to interest rates, not private thoughts. Subjective value determines an individual's valuation.
 
- Here is a summary of the key points:
+ 
 
 - Hoarding (saving/not spending capital) is a necessary consequence of uncertainty about the future. As uncertainty rises, people tend to hoard more either by restricting consumption or production. 
 
@@ -440,7 +440,7 @@ The individual time preference that determines each person's capital ratio colle
 
 - Speculation and hopes of indefinite price increases through hoarding alone are economically irrational and contradict theoretical limits to monetary demand growth. Bitcoin's long-term stability also argues against indefinite price increases.
 
- Here is a summary of the key points:
+ 
 
 - The theory that Bitcoin's fixed and scarce supply is the source of its value is flawed. Scarcity alone does not create value - there also needs to be demand for the scarce item. 
 
@@ -454,7 +454,7 @@ The individual time preference that determines each person's capital ratio colle
 
 In summary, while Bitcoin has a fixed supply, this alone does not determine its value. Scarcity must be considered together with demand, and Bitcoin's market properties still provide stability comparable to commodities. The scarcity argument is an oversimplification.
 
- Here is a summary of the key points:
+ 
 
 - Protection of money's value (its ability to resist reductions in purchasing power over time) comes from limitations in the supply. For commodity or monopoly money, this distinction comes from their economic properties. 
 

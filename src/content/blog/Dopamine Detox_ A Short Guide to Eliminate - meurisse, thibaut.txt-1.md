@@ -35,7 +35,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - Avoid "dopamine relapse" by using tools/techniques to remain focused long-term.
 
- Here is a summary of the key points:
+ 
 
 - Social media and other digital platforms are designed to capture your attention and keep you hooked. Features like notifications and autoplay hijack your dopamine system by creating anticipatory rewards. This can lead to compulsive use.
 

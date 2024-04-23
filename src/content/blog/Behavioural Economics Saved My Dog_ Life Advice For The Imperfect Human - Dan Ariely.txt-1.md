@@ -35,7 +35,7 @@ BOOK LINK:
 
 So in summary, the book applies behavioral economics research to offer advice and insight on various aspects of life and human behavior, drawing from Ariely's personal and professional experiences. The focus is on better understanding decision-making and how to potentially make improvements.
 
- Here is a summary of the key points:
+ 
 
 - The person received a promotion but is finding it difficult to prioritize their time and do their job due to all the extra demands and requests. 
 
@@ -70,7 +70,7 @@ The key insight is that achieving perfect cleanliness is possible with a phone, 
 
 With a larger space, even getting to 70-80% clean may be difficult, so the task seems overwhelming. The ability to reach the end goal is what makes a difference in motivation. A smaller, contained task like phone cleaning is more intrinsically rewarding due to achieving a clean result.
 
- Here is a summary of the key points:
+ 
 
 - The potential to make something perfect increases our motivation to work on it. When we see the possibility of achieving perfection, it drives us to try harder.
 
@@ -228,7 +228,7 @@ So in summary, using a structure of three imparts simplicity, balance and comple
 
 The goal is finding a sustainable balance that leaves you feeling both accomplished and recharged overall. Self-reflection on what really relieves your stress can help tweak your approach over time.
 
- Here is a summary of the key points:
+ 
 
 - The writer was asked about a study claiming the average size of Italian male genitalia has decreased 10% over 50 years. 
 

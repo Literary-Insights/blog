@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points:
+ 
 
 - The author originally wanted to be a doctor but changed course after an unpleasant frog dissection experience in college. He became interested in economics instead. 
 
@@ -37,7 +37,7 @@ BOOK LINK:
 
 - The author aims to provide clear, comprehensive, economics-based guidance to help people make smart financial decisions.
 
- Here is a summary of the key points:
+ 
 
 - Economists have long studied personal finance, but historically their work has been academic and inaccessible to the general public. 
 
@@ -55,7 +55,7 @@ BOOK LINK:
 
 In summary, economics and computing advances now allow for personalized, optimized financial planning focused on maximizing long-term living standards, moving beyond traditional rules of thumb and generic advice.
 
- Here is a summary of the key points:
+ 
 
 - The author has created a "living standard machine" (personal finance software) to help people raise their standard of living in three key ways: making more money, reducing risk, and getting more happiness from spending. 
 
@@ -85,7 +85,7 @@ In summary, economics and computing advances now allow for personalized, optimiz
 
 The key is thoroughly researching potential careers and doing the math on lifetime earnings to make the best choice. Be open to pivoting as you learn more about yourself and the job market.
 
- Here is a summary of the key points:
+ 
 
 - The BLS website provides helpful data on salaries, required education, and projected job growth for different careers like O&Ps and HAs. This data suggests O&Ps have higher salaries and faster wage growth. 
 
@@ -103,7 +103,7 @@ The key is thoroughly researching potential careers and doing the math on lifeti
 
 In summary, weigh salaries, job duties, career longevity, taxes, location, and training costs when choosing a career. Leverage BLS data and networking to make an informed decision.
 
- Here is a summary of the key points:
+ 
 
 - Jobs that involve non-repetitive tasks and human interaction, like healthcare roles, are less likely to be outsourced or automated. Consider careers in rapidly growing industries or geographic areas where new jobs are constantly emerging.
 
@@ -131,7 +131,7 @@ In summary, weigh salaries, job duties, career longevity, taxes, location, and t
 
 - Keep an open mind about retirement timing based on your health, job satisfaction, spouse's situation, etc. Don't retire just because it seems expected. Make an informed choice.
 
- Here is a summary of the key points:
+ 
 
 - The large baby boomer generation is retiring early despite having saved little for retirement. Nearly half of retired boomers have minimal savings. 
 
@@ -167,7 +167,7 @@ In summary, weigh salaries, job duties, career longevity, taxes, location, and t
 
 - Make a customized claiming plan - work with an expert to analyze your full situation and optimize claiming.
 
- Here is a summary of the key points:
+ 
 
 - Social Security benefits are extremely important financially for most people, often being their largest asset. You need to actively manage this asset. 
 
@@ -185,7 +185,7 @@ In summary, weigh salaries, job duties, career longevity, taxes, location, and t
 
 The Social Security system is extremely complex, and the staff are underpaid, overworked, and undertrained. As a result, they often provide inaccurate or misleading information. To get the benefits you deserve, you need to educate yourself, be persistent, and not take no for an answer. Shop around between different offices and staffers. You can appeal if they deny you benefits you believe you qualify for. Avoid the Social Security Administration's own benefit calculators, as they can significantly over- or underestimate. The best strategy is often to delay claiming benefits until age 70, as this can substantially increase lifetime benefits. But beware - the SSA may try to scam you into taking benefits earlier with a retroactive lump sum payment that results in lower benefits long-term. Overall, you need to be very proactive to get the most out of the system. The staff mean well but are not always competent.
 
- Here is a summary of the key points:
+ 
 
 - Waiting until age 70 to collect Social Security can increase your benefits substantially due to delayed retirement credits that increase benefits 8% per year between full retirement age and 70. This advantage remains even if benefits are cut in the future.
 
@@ -197,7 +197,7 @@ The Social Security system is extremely complex, and the staff are underpaid, ov
 
 - Timing Social Security is complex, with tradeoffs between individual and spousal/family benefits. But in general, delaying benefits as long as possible, up to age 70, is advised to maximize lifetime benefits.
 
- Here is a summary of the key points:
+ 
 
 - If eligible, you can collect spousal benefits while letting your own retirement benefit grow. For example, a 69-year-old wife with a 62-year-old husband who claims benefits early can collect half of the husband's full benefit for a year before switching to her own larger benefit at 70. 
 
@@ -209,7 +209,7 @@ The Social Security system is extremely complex, and the staff are underpaid, ov
 
 - Earning more income during your career can raise your retirement benefits. Your benefits are based on your top 35 years of earnings, so working more years can replace lower earnings years. Even small increases late in your career can mean higher benefits.
 
- Here is a summary of the key points:
+ 
 
 - Social Security benefits are based on your primary insurance amount (PIA), which is calculated using your 35 highest years of earnings. Earnings before age 60 are indexed for wage growth, but earnings after 60 are not indexed. 
 
@@ -263,7 +263,7 @@ The Social Security system is extremely complex, and the staff are underpaid, ov
 
 In summary, 401(k) and IRA contribution limits and tax treatment depend on account type, income level, and access to an employer plan. Carefully check the rules each year.
 
- Here is a summary of the key points:
+ 
 
 - Traditional IRAs allow you to make tax-deductible contributions, lowering your current taxable income. Withdrawals in retirement are taxed as ordinary income. Contribution limits depend on your age and whether you have a retirement plan through work.
 
@@ -281,7 +281,7 @@ In summary, 401(k) and IRA contribution limits and tax treatment depend on accou
 
 - You can time tax payments by choosing between pre-tax (deductible) and after-tax (Roth) retirement contributions based on expected income and tax brackets now versus in retirement.
 
- Here are the key points:
+ 
 
 - Contributing to a traditional IRA or 401(k) can provide large lifetime spending gains due to tax-deferred growth and being taxed at a lower rate in retirement. For example, contributing 6% of his salary to an IRA could give a 25-year-old named Jerry an extra $39,403 in lifetime spending.
 
@@ -297,7 +297,7 @@ In summary, 401(k) and IRA contribution limits and tax treatment depend on accou
 
 - Starting tax-deferred withdrawals at the optimal age (like 62 for Jean) can also produce tax savings versus withdrawing too early or too late.
 
- Here is a summary of the key points:
+ 
 
 - Delay claiming Social Security benefits until age 70 to maximize the benefit amount. 
 
@@ -335,7 +335,7 @@ In summary, 401(k) and IRA contribution limits and tax treatment depend on accou
 
 In summary, being house rich means finding the optimal housing situation that aligns with your financial resources and broader life goals. Carefully weigh the pros and cons of buying versus renting, mortgage payoff strategies, cohabitation, downsizing, and tapping home equity.
 
- Here is a summary of the key points:
+ 
 
 - The author was skeptical about moving from Boston to Providence due to cheaper housing, but it ended up being a great decision. Housing in Providence was a third the price per square foot of their Boston condo.
 
@@ -347,7 +347,7 @@ In summary, being house rich means finding the optimal housing situation that al
 
 - They spent 25% of income on housing in Boston, now just 12.5% in Providence. Moving raised their living standard substantially by cutting housing costs.
 
- Here are the key points:
+ 
 
 - Mortgage payments are not inherently part of the cost of owning a home. The cost comes from the interest rate differential between the mortgage rate and the safe interest rate you could earn on investments. 
 
@@ -359,7 +359,7 @@ In summary, being house rich means finding the optimal housing situation that al
 
 - The decision depends on multiple factors like mortgage balance, rate, years to retirement, other savings, and more. There is no one-size-fits-all answer. The key is to run the numbers for your specific situation.
 
- Here is a summary of the key points:
+ 
 
 - Paying off your mortgage with retirement account assets can provide a large gain in lifetime spending due to the interest rate differential - retirement accounts typically earn higher returns than mortgage rates.
 
@@ -373,7 +373,7 @@ In summary, being house rich means finding the optimal housing situation that al
 
 In summary, homeownership, if affordable, provides valuable financial security and tax benefits that can substantially increase retirement wealth. Strategically using home equity is a key retirement strategy.
 
- Here is a summary of the key points:
+ 
 
 - Selling your house and using the proceeds to pay for a nicer eldercare facility is a common strategy for upper-middle-class households to gain access to decent long-term care. However, the funds may run out quickly with an extended stay. 
 
@@ -391,7 +391,7 @@ In summary, homeownership, if affordable, provides valuable financial security a
 
 - Tapping home equity - Reverse mortgages and home equity lines let seniors access equity without moving.
 
- Here is a summary of the key points:
+ 
 
 - Downsizing to a smaller home can significantly increase retirement spending, especially when interest rates are high. For example, a couple could gain over 5% more in lifetime discretionary spending by downsizing from a $1M home to a $500K home.
 
@@ -501,7 +501,7 @@ Marriage is a risky business with a high divorce rate, but be careful about endi
 
 The key is to carefully calculate the financial costs, know the laws, time divorce strategically if needed, and aim for an amicable settlement. The financial stakes are high.
 
- Here is a summary of the key points:
+ 
 
 - Getting divorced often leads to long, expensive legal battles that enrich lawyers but drain the finances of both spouses. Judges have a lot of power to decide divorce settlements, and their personal biases can influence outcomes.
 
@@ -531,7 +531,7 @@ The key is to carefully calculate the financial costs, know the laws, time divor
 
 The key is to think through college borrowing very carefully, as student debt can severely limit finances and options for years to come. Avoid loans if at all possible, and if taking them, borrow minimally and wisely.
 
- Here is a summary of the key points:
+ 
 
 - College students, especially minorities, are taking on large amounts of debt. Collectively they owe $1.6 trillion and their parents owe over $100 billion. 
 
@@ -551,7 +551,7 @@ The key is to think through college borrowing very carefully, as student debt ca
 
 - Focus on minimizing loans, comparing interest rates, and income-based repayment plans when borrowing. The key message is to avoid debt if at all possible.
 
- Here is a summary of the key points:
+ 
 
 - College dropout rates are high, with only about 3 in 5 students graduating within 6 years. This reflects a diverse student body with varying financial resources and interests. 
 
@@ -565,7 +565,7 @@ The key is to think through college borrowing very carefully, as student debt ca
 
 - The key is to weigh the costs versus expected earnings boost from a particular school. Prestige helps but is not everything. An affordable education with less debt is often the better economic choice.
 
- Here is a summary of the key points:
+ 
 
 - Boston University's published maximum net price is $25,900, which is far higher than the advertised price of $7,500. This shows that the true cost of attending can be much higher than advertised. 
 
@@ -581,7 +581,7 @@ The key is to think through college borrowing very carefully, as student debt ca
 
 - Defaulting on student loans leads to severe consequences like garnished wages and seized tax refunds. Student debt is extremely difficult to discharge.
 
- Here is a summary of the key points:
+ 
 
 - Student loan debt is extremely difficult to discharge through bankruptcy. Unpaid interest and fees continue accumulating, so the debt can spiral out of control. This is illustrated by the case of Chris, whose $79,000 in loans ballooned to $236,000 after 17 years of wage garnishment. 
 
@@ -607,7 +607,7 @@ The key points are:
 
 In summary, you can strategically get an elite-caliber education for much less by being an informed consumer, taking advantage of online resources, and focusing on the research credentials of professors over general college rankings or amenities. Seek out educational quality over brand names.
 
- Here is a summary of the key points:
+ 
 
 - Consider getting a degree online from a prestigious university for low cost. You can take individual courses and get certificates to signal skills to employers. 
 
@@ -625,7 +625,7 @@ In summary, you can strategically get an elite-caliber education for much less b
 
 - Your goal should be to minimize debt while maximizing education quality and signaling to employers. Mix smart strategies to achieve this.
 
- Here are the key points:
+ 
 
 - Federal student loans like Direct and Grad PLUS loans have fixed interest rates ranging from 2.75% to 5.3%. Private student loans can have much higher variable rates from 3.5% to 14.5%.
 
@@ -671,7 +671,7 @@ In summary, you can strategically get an elite-caliber education for much less b
 
 - Instead, insure, diversify, think marginal, and consider risk. Your goal is to raise your living standard over time, not beat the market.
 
- Here is a summary of the key points:
+ 
 
 - Conventional investment advice is flawed because it encourages overly risky and expensive investments based on incorrect assumptions about saving, spending, and investing. 
 
@@ -689,7 +689,7 @@ In summary, you can strategically get an elite-caliber education for much less b
 
 - The author also acknowledges his own motives may be scrutinized, but his goal is to educate based on economics research, not sell products.
 
- Here is a summary of the key points:
+ 
 
 - The author acknowledges he has a conflict of interest in promoting economics-based planning as his company sells related software. However, he provides evidence that conventional financial planning is not endorsed by PhD economists or taught in top economics programs. 
 
@@ -717,7 +717,7 @@ In summary, you can strategically get an elite-caliber education for much less b
 
 The key ideas are to spend cautiously, diversify holdings, reduce debts/obligations, and choose your asset mix based on risk tolerance, with the goal of tilting your cone up and narrowing it. The optimal asset mix changes over your lifetime.
 
- Here are the key points:
+ 
 
 - The richer you are, the more conservatively you should invest. The poor should take more risks with their money.
 
@@ -769,7 +769,7 @@ The key points are to protect your standard of living against company-specific a
 
 The other tips cover things like avoiding fees, purchasing experiences over objects, negotiating prices, networking, advancing your career, starting side businesses, learning continuously, and leaving a legacy. The key is to implement as many smart money habits as possible. Small changes compound over time into enormous benefits.
 
- Here is a summary of the key points:
+ 
 
 - This book provides 50 essential money management tips across a range of financial topics. The tips are not presented in any particular order, which highlights that there are many ways to improve your finances. 
 
@@ -801,7 +801,7 @@ The other tips cover things like avoiding fees, purchasing experiences over obje
 
 - Use economics-based planning software like MaxiFi to efficiently run these analyses if doing them manually seems too daunting.
 
- Here is a summary of the key points:
+ 
 
 - Making your own financial calculations (rather than relying on simple rules of thumb) enables you to truly understand and control your financial future. Financial planning software like MaxiFi makes these calculations easy.
 

@@ -171,7 +171,7 @@ Unstable forms of uranium and plutonium were used in the atomic bombs dropped on
 
 In summary, the production of elements in stars and their connection to astronomical objects is discussed, along with historical details of how several elements obtained their names.
 
- Here is a summary of the key points:
+ 
 
 - Spheres are a common natural shape due to forces like surface tension and gravity pulling matter into the minimum surface area shape. Small objects like soap bubbles form spheres for this reason. 
 
@@ -253,7 +253,7 @@ In summary, the production of elements in stars and their connection to astronom
 
 - Oxygen and methane levels point clearly to life, but the aliens would need to interpret whether signals also indicate intelligence or technology. Communication attempts may follow if life is suspected.
 
- Here is a summary of the key points:
+ 
 
 - While astronomy provides a grand and inspiring perspective of humanity's small place in the vast cosmos, this view can sometimes cause one to forget about social and environmental problems on Earth. 
 

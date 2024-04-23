@@ -57,7 +57,7 @@ BOOK LINK:
 
 - More recently, foreign government policies like protectionism in East Asia hollowed out US manufacturing, while domestic policies failed to adequately address these challenges or develop new industries. Overall, the US government has played a major role in intentionally reshaping and designing the economy over its history in pragmatic, experimental ways rather than ideological ones.
 
- Here is a summary of the key points:
+ 
 
 - East Asian economies like Japan, Korea, and China pursued a strategy of state-led industrialization and export-oriented growth. They aggressively protected domestic industries from imports, provided cheap capital and technology, and focused industries on exports to drive economic growth and industrialization. 
 
@@ -109,7 +109,7 @@ So in summary, the British Empire was deliberately pursued as a naval and econom
 
 Hamilton had a dissenting view. He believed liberty and prosperity required urbanization, commerce, industry and international trade. He implemented policies like tariffs, infrastructure spending and a national bank to purposefully reshape America's economy away from agriculture and towards manufacturing to make the nation economically independent and self-sufficient. Over time, Hamilton's vision proved far more successful and took hold, though Jefferson's agrarian ideal still had political influence for some time.
 
- Here is a summary of the key points:
+ 
 
 - The first generation of industrial technologies developed in 18th century Britain because they were optimized for British factor prices and proportions at that time, particularly cheap coal. 
 
@@ -179,7 +179,7 @@ In essence, free labor policy sought to abolish slavery in order to truly free l
 
 - Roosevelt deregulated the dollar and established lasting financial regulations through Glass-Steagall. The New Deal focused on emergency relief over innovative growth strategies. It prioritized humanitarian aid, redistribution, fairness and financial stability through an experimental and pragmatic approach.
 
- Here is a summary of the key points:
+ 
 
 - Eisenhower's vision emphasized continuing and expanding the New Deal programs and policies that defined post-WWII American liberalism and the role of government in supporting the economy and average Americans. 
 
@@ -439,7 +439,7 @@ So in summary, Kahn spearheaded transportation deregulation which was popular bu
 
 - This means the financial barrier to entry for starting new companies and ideas has dropped drastically, as founders no longer need millions in funding to get started and can launch businesses for much less.
 
- Here is a summary of the key points:
+ 
 
 - The 2010 China Statistical Yearbook on Science and Technology reported growth rates for different categories of technology spending in China between 2000-2009: 
    - In-house expenditures on R&D grew 25% 
@@ -450,7 +450,7 @@ So in summary, Kahn spearheaded transportation deregulation which was popular bu
 
 No other context is provided about what these excerpts are from or responding to. The summary focuses on concisely outlining the key statistics mentioned from the China Yearbook and noting that while the categories aren't fully clear, the numbers provide some indication of China's technology strategy and pique further interest/questions.
 
- Here is a summary of the key points:
+ 
 
 - Consumption increased domestically during the Eisenhower era, supported by suburbanization and rising incomes. 
 

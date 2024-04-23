@@ -117,7 +117,7 @@ The passage also discusses qualities that determine whether a source can be trus
 
 In the end, the author argues we can learn from challenges by focusing on absorbing useful advice from trustworthy coaches, rather than dwelling on weaknesses, in order to continuously improve public speaking and other skills.
 
- Here are the key points:
+ 
 
 - Sponges are responsible for complex life on Earth. They helped oxygenate the oceans, allowing for more advanced organisms to evolve. Without sponges, humans may not exist.
 
@@ -169,7 +169,7 @@ The summary focuses on how the passage discusses transforming daily practice and
 
 - The key to her mastery was finding a way to make practice a source of joy through "deliberate play" rather than tedious repetition. This helped unlock her hidden potential in a fun and engaging way.
 
- Here is a summary of the key points:
+ 
 
 - A communication course for pharmacy students allowed them to better identify patients' chief complaints and empathize with concerns, improving their performance on patient examinations. 
 
@@ -221,7 +221,7 @@ The chapter discusses how skills often plateau and then decline slightly before 
 
 - It notes how progress is not always linear, and periods of stagnation or feeling "stuck" are common when making a major change or climbing to a new level. This state of languishing can deplete motivation if it persists too long without any noticeable progress. Periodically taking breaks or detours may be needed to refuel emotionally and cognitively.
 
- Here is a summary of the key points:
+ 
 
 - In 1944, 16 Black men were selected to be the first to undergo officer training in the segregated U.S. Navy, despite longstanding discrimination and doubts about their abilities. 
 
@@ -249,7 +249,7 @@ The group studied intensely together each night, with each member teaching their
 
 The key points are that Alison faced doubts about being able to summit Everest due to her physical limitations, but persevered through many dangers to lead her team in a heroic climbing expedition, even if they narrowly missed the summit.
 
- Here is a summary of the key points:
+ 
 
 - Alison Levine faced criticism and skepticism after failing to reach the summit of Mount Everest in her first attempt in 2002. She felt like a failure and sank into self-doubt. 
 

@@ -475,7 +475,7 @@ The key ideas are that the ideology of individual opportunity is used to elicit 
 
 The key ideas are that opportunity is scarce and unequally distributed in the current system, leading to negative social and health consequences. Victim-blaming others is a counterproductive reaction that obscures the real issues. Systemic changes are needed to open up and distribute opportunity and power more broadly.
 
- Here is a summary of the key points:
+ 
 
 • Standards for professional qualification reflect the interests and values of dominant groups in society. The criteria for becoming a doctor traditionally favored middle-class white males. 
 
@@ -683,7 +683,7 @@ The key point is that professional education involves ideological indoctrination
 
 - The summary reinforces the themes of discrimination, lack of accommodation, and the significant barriers women and minorities can face in male-dominated professions and programs. Despite facing harassment and threats of removal, Nan showed remarkable perseverance in continuing her program to advocate for change.
 
- Here is a summary of the key points:
+ 
 
 1) Universities and graduate schools make judgments about students and determine who receives professional credentials. They claim these judgments are based on technical ability and scores on qualifying exams. However, the exams themselves reflect certain values and attitudes, not just technical skills. Students who do not demonstrate these preferred values and attitudes will not pass, even if they have strong technical skills. 
 
@@ -996,7 +996,7 @@ The passage provides examples of each feature and first-person accounts of exper
 
 - In summary, the graduate program exercised a high degree of control over students' time, environment, and access to outside perspectives. However, the researcher was able to find ways to maintain his independence and community through building connections outside the department and appropriating time for unstructured thinking with like-minded peers. His experience shows how important it is for students in such programs to actively work to stay grounded and connected to their own values.
 
- Here are the key points:
+ 
 
 1. Totalist organizations are authoritarian and do not tolerate dissent or questioning of authority. Orders and dogma come from the top down.
 

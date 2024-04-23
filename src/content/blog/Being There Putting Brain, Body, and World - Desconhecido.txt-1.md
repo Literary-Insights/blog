@@ -53,7 +53,7 @@ In summary, the key ideas are:
 
 6) This new science points to a vision of cognition based on dynamics and feedback rather than logic and data storage.
 
- Here is a summary of the key points:
+ 
 
 • The classical view of intelligence as a disembodied logical reasoning system is challenged by studies of biological cognition, which requires real-time responsiveness and embodied action in the real world. The cockroach escape behavior is a good example of this challenging view. 
 
@@ -279,7 +279,7 @@ Source: The source of the passage is Morrissey, 1982.
 
 6. To understand such opportunistic, extended cognitive systems, a methodology of rational reconstruction that seeks an abstract optimal solution will not suffice. We need a methodology that can capture how solutions emerge from interactions between embodied, environmentally embedded agents and their problem-solving environments. Local rules and the accumulation of small changes can lead to functional global solutions without global oversight or representation.
 
- Here is a summary of the key points:
+ 
 
 1. Studying the embodied, embedded mind is challenging because nature's solutions often confound our intuitions and the conceptual distinctions we rely on. The biological brain is both constrained and empowered in non-intuitive ways. 
 
@@ -397,7 +397,7 @@ Does this summary accurately reflect the key ideas and concepts around emergence
 
 - A study of rhythmic finger movement shows how Dynamical Systems theory can explain a pattern of results. The theory looks at what variables and control parameters underlie the observed patterns of behavior over time, like the abrupt shift from anti-phase to in-phase movement at a critical frequency.
 
- Here is a summary of the key points:
+ 
 
 1. The crucial variable that Haken et al. discovered was one that tracked the phase relationship between the fingers. This variable is constant over a range of frequencies but changes suddenly at a critical frequency. It is a collective variable that can only be defined for the whole system, not individual components. 
 
@@ -744,7 +744,7 @@ Connectionist networks are constrained to explore at the edges of current knowle
 
 - In sum, while minds are rooted in biology, they are not confined to the brain. They extend, in principled ways, into the world. The complementarity between biology and extended cognitive scaffolding creates a kind of symbiosis.
 
- Here is a summary of the key points:
+ 
 
 1. Biological systems are adept at exploiting and manipulating environmental structure to aid their own processing and problem solving. Dolphins and tuna provide striking examples of this. They do not simply negotiate an external problem domain; they actively mold and control it to their advantage. 
 

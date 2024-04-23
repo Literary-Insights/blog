@@ -199,7 +199,7 @@ Romero and his team had made a demo of a Super Mario Bros game using computers t
 
 - Carmack was also pursuing 3D graphics as the next step, hoping to create truly immersive first-person experiences.
 
- Here is a summary of the key points:
+ 
 
 - Authors like Aldous Huxley and Ray Bradbury envisioned immersive experiences combining sights, sounds, and other senses to transport the viewer to another world or reality. This concept of "virtual reality" predated modern technology.
 
@@ -239,7 +239,7 @@ Romero and his team had made a demo of a Super Mario Bros game using computers t
 
 - Ideas and leadership were shifting within id, as Romero's influence grew and Tom's declined some. Overall, tensions were rising but they were optimistic about remaking Wolfenstein with new technology.
 
- Here is a summary of the key points:
+ 
 
 - Id Software was working on a new first-person shooter called Wolfenstein 3D, taking inspiration from games like Castle Wolfenstein and aiming to revolutionize the genre with fast-paced, brutal gameplay. 
 
@@ -467,7 +467,7 @@ The 1993 release of the hugely popular first-person shooter Doom reignited contr
 
 - Bob and Kee attended id's Doom II launch party, posing as contestants to get in. They lost quickly in the deathmatch tournament. They finally tracked down Jay Wilbur but he blew them off, not interested in their idea at the time.
 
- Here is a summary of the key points:
+ 
 
 - Romero was intrigued by a demo disk that two fans, Kee and Bob, showed him for a multiplayer Doom game over a modem connection called DWANGO. 
 
@@ -495,7 +495,7 @@ The 1993 release of the hugely popular first-person shooter Doom reignited contr
 
 - As other projects grew, all eyes remained on Quake, which id hyped but had not shown yet as Carmack refined his new 3D engine technology.
 
- Here is a summary of the key points:
+ 
 
 - An id fan started collecting and sharing quotes from id members in an online newsletter called QuakeTalk. Romero shared early screenshots of Quake to generate hype. 
 
@@ -707,7 +707,7 @@ Meanwhile, id was also in conflict with their publisher GT Interactive over shar
 
 - At Ion Storm, development of Daikatana was also troubled. Under crunch, employees were pulling long hours with little break. Romero was pushing for total control over the game, leading to conflicts with Todd Porter and eventual acceptance that Todd would leave Ion Storm.
 
- Here is a summary of the key points:
+ 
 
 - Jerry reluctantly agreed to go to the Eidos press event, but it was more about actors Rob Lowe and Heather Graham doing a photoshoot than anything related to Ion Storm. 
 

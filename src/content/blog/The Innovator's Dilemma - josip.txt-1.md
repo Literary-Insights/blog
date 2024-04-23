@@ -27,7 +27,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 In summary, the book examines why successful, well-managed companies that do "all the right things" can still lose their leadership when disruptive technological changes emerge. It highlights the challenges such companies face in adapting to these disruptive innovations.
 
- Here is a summary of the key points:
+ 
 
 - Many leading and well-managed companies like Xerox, Sears, Digital Equipment Corporation etc. declined or failed when confronted with disruptive changes in technology or market structure. 
 
@@ -43,7 +43,7 @@ In summary, the book examines why successful, well-managed companies that do "al
 
 - The book aims to help managers in both manufacturing and service firms in dealing with innovation, whether in rapidly or slowly changing environments. The concepts apply beyond just technology to marketing, investment and management processes.
 
- Here is a summary of the key points:
+ 
 
 - Disruptive technologies are innovations that undermine and eventually displace established technologies and the leading companies that rely on them. Examples include personal computers disrupting mainframes and minicomputers, discount retailing disrupting department stores, and hydraulic excavators disrupting cable-actuated models.
 
@@ -55,7 +55,7 @@ In summary, the book examines why successful, well-managed companies that do "al
 
 - The objective is to propose laws or principles of disruptive technology that, if understood and harnessed appropriately, can help managers pilot their companies through disruptive technological change storms rather than being overcome by them.
 
- Here is a summary of the key points:
+ 
 
 - Principle 1: Companies depend on customers and investors for resources. Established firms often fail with disruptive technologies because their customers don't want them initially. The solution is to set up an autonomous organization focused on the disruptive technology with a cost structure suited to the new low-margin market.
 
@@ -67,7 +67,7 @@ In summary, the book examines why successful, well-managed companies that do "al
 
 - Principle 5: Technology supply may not equal market demand. Disruptive technologies are initially inferior to established products in the mainstream market. But they can improve in performance over time to meet mainstream market needs. However, this supply trajectory lags the mainstream market's demand trajectory. Managers must recognize this lag and the traps it creates.
 
- Here is a summary of the key points:
+ 
 
 - The disk drive industry provides a great example for understanding why leading firms can fail. Its rapid rate of technology change makes it like "fruit flies" for business research. 
 
@@ -79,7 +79,7 @@ In summary, the book examines why successful, well-managed companies that do "al
 
 - Recognizing these patterns of innovation can help managers in other industries avoid the "innovator's dilemma" of investing too much in what current customers want versus emerging opportunities. The disk drive case provides a framework for identifying when too much listening to customers can lead to missed disruptive threats.
 
- Here is a summary of the key points:
+ 
 
 - The first disk drive was developed by IBM researchers in the 1950s. It was refrigerator-sized and could store 5 megabytes of data. 
 
@@ -97,7 +97,7 @@ In summary, the book examines why successful, well-managed companies that do "al
 
 - The pace of technological change did not cause established firm failures. Their capabilities were misaligned with disruptive innovations that redefined performance.
 
- Here is a summary of the key points:
+ 
 
 - The disk drive industry has seen sustained improvements in recording density through a series of technological innovations. Three graphs show how new technologies like thin-film heads and disks allowed density to keep improving at historical rates.
 
@@ -109,7 +109,7 @@ In summary, the book examines why successful, well-managed companies that do "al
 
 - So the failure of leading firms was not because they couldn't keep up with technology, but because disruptive innovations allowed competition from new entrants targeting overlooked segments. This was what really caused the leading firms to fail.
 
- Here is a summary of the key points:
+ 
 
 - The capacity demanded by typical mainframe computer users grew at a 15% annual rate between 1978-1993. At the same time, the capacity of the average 14-inch hard drive introduced each year grew even faster, at 22% annually. 
 
@@ -123,7 +123,7 @@ In summary, the book examines why successful, well-managed companies that do "al
 
 - Incumbents were often "held captive" by established customers and slow to enter new size markets, losing out to new entrants instead.
 
- Here is a summary of the key points:
+ 
 
 - In the disk drive industry, disruptive innovations were often technologically straightforward - they packaged known technologies in new architectures to enable use in new applications where storage was not previously feasible. 
 
@@ -137,7 +137,7 @@ In summary, the book examines why successful, well-managed companies that do "al
 
 - The pattern shows established firms get "held captive" by current customers, missing opportunities to enter new markets enabled by disruptive technologies. Entrants are able to adopt disruptive innovations early.
 
- Here is a summary of the key points:
+ 
 
 - The chapter examines why leading firms often struggle with disruptive innovations. 
 
@@ -153,7 +153,7 @@ In summary, the book examines why successful, well-managed companies that do "al
 
 - The analysis suggests that sound management practice can be a reason leading firms struggle with disruptive innovations. Their capabilities become mismatches for the new tasks/problems posed by disruptive technologies emerging in new value networks.
 
- Here is a summary of the key points:
+ 
 
 - Two main theories have been proposed to explain why successful companies fail: 
 
@@ -175,7 +175,7 @@ In summary, the book examines why successful, well-managed companies that do "al
 
 - Failure results when firms get stuck in their original value network rather than moving into the new network. The value network concept explains the disk drive industry history.
 
- Here is a summary of the key points:
+ 
 
 - Value networks exhibit different rank-orderings of important product attributes, even for the same product. For example, in disk drives, mainframe computers value capacity, speed, and reliability, while portable computers value ruggedness, low power, and small size. 
 
@@ -191,7 +191,7 @@ In summary, the book examines why successful, well-managed companies that do "al
 
 - Incumbents tend to lead sustaining innovations within a value network, while entrants are more likely to disrupt across networks. This is due to differences in network position rather than capabilities.
 
- Here is a summary of the key points:
+ 
 
 - Established firms face enormous risks in committing to new technologies long before they are needed. Yet managers in the disk drive industry were remarkably agile in navigating sustaining innovations. 
 
@@ -209,7 +209,7 @@ In summary, the book examines why successful, well-managed companies that do "al
 
 In summary, rational decisions shaped by established firms' value networks led them to succeed with sustaining innovations but fail with disruptive ones. Good managers made decisions that made sense for their networks but missed disruptive changes.
 
- Here is a summary of the key points:
+ 
 
 - Established disk drive manufacturers initially dismissed the disruptive potential of smaller disk drives like 3.5" models, seeing them as having unattractive margins and insufficient capacity for existing customers. 
 
@@ -225,7 +225,7 @@ In summary, rational decisions shaped by established firms' value networks led t
 
 - In contrast, the capabilities viewpoint sees disruption as a failure of established firms' skills and expertise to adapt to new technologies.
 
- Here is a summary of the key points:
+ 
 
 - Multiple frameworks like capabilities, organizational structure, and technology S-curves provide insights into whether established firms will succeed or fail with disruptive innovations. 
 
@@ -237,7 +237,7 @@ In summary, rational decisions shaped by established firms' value networks led t
 
 - Value networks strongly define and limit what companies can do. Successful firms will innovate incrementally within their value network but struggle with disruptive innovations that only serve emerging networks initially.
 
- Here is a summary of the key points:
+ 
 
 - Decisions to ignore technologies that don't address customer needs can be fatal when two trajectories interact: the performance demanded over time in a value network, and the performance technologists can provide within a paradigm. 
 
@@ -267,7 +267,7 @@ In summary, rational decisions shaped by established firms' value networks led t
 
 - Hydraulics found a foothold in new applications like mining and excavating hard rock. As the technology improved, hydraulic excavators invaded and disrupted the mainstream market.
 
- Here is a summary of the key points:
+ 
 
 - Mechanical excavators like bulldozers and loaders are used to move earth in construction projects. Their functionality is measured by reach and cubic yards lifted per scoop. 
 
@@ -281,7 +281,7 @@ In summary, rational decisions shaped by established firms' value networks led t
 
 - Hydraulic excavator entrants dominated the market until the late 1960s when cable shovel makers finally introduced hydraulic models as the technology improved enough to meet mainstream market needs.
 
- Here is a summary of the key points:
+ 
 
 - Hydraulics technology initially emerged as a disruptive innovation in the excavator industry in the 1940s-1950s. It was not capable of meeting the needs of mainstream excavation contractors at first. 
 
@@ -307,7 +307,7 @@ In summary, rational decisions shaped by established firms' value networks led t
 
 - The integrated steel mills faced a similar challenge - their cost structures prevented them from viably competing with minimills utilizing electric arc furnaces, a disruptive technology invading from the low end. The integrated mills found moving downmarket very difficult.
 
- Here is a summary of the key points:
+ 
 
 - Successful disk drive companies became very profitable in their "home" value networks, tailoring their cost structures to meet customer needs and compete effectively. This led to characteristic gross margins in each value network. 
 
@@ -323,7 +323,7 @@ In summary, rational decisions shaped by established firms' value networks led t
 
 - This screening process and incentive system makes it difficult for disruptive innovations targeting new markets to get resources and upward mobility easier.
 
- Here is a summary of the key points:
+ 
 
 - Companies that don't systematically target product development towards customer needs will fail. Resource allocation involves thousands of decisions daily by hundreds of people. Even if a senior manager decides to pursue a disruptive technology, employees may ignore or reluctantly cooperate if it doesn't fit their view of success.
 
@@ -337,7 +337,7 @@ In summary, rational decisions shaped by established firms' value networks led t
 
 - Three factors drive the powerful impetus to move upmarket: the promise of higher margins, customers moving upmarket, and the difficulty of cutting costs to move downmarket profitably. This creates a vacuum that draws in new entrants with technologies suited to low-end competition.
 
- Here is a summary of the key points:
+ 
 
 - Minimills, which use electric arc furnaces, are a disruptive technology in steelmaking. They are much less expensive to build than traditional integrated steel mills. 
 
@@ -379,7 +379,7 @@ In summary, the integrated steel mills missed the opportunity that the disruptiv
 
 - The evidence suggests the second option has a higher probability of success, as it harnesses rather than fights against the tendency of customers to control resource allocation. Managers who align with this tendency are more likely to succeed.
 
- Here is a summary of the key points:
+ 
 
 - Resource allocation processes in companies are designed to identify and fund proposals for products that customers want. This helps ensure the company invests in profitable products.
 
@@ -409,7 +409,7 @@ In summary, the integrated steel mills missed the opportunity that the disruptiv
 
 - The evidence suggests companies rarely succeed at disruptive technology while remaining competitive in mainstream markets. Separate organizations embedded in the appropriate value networks are needed. Managers who try to straddle both mostly fail.
 
- Here are the key points:
+ 
 
 - Discount retailers like Kmart gained market share from traditional retailers at a stunning rate in the 1960s, going from 10% of revenues in 1960 to 40% by 1966. 
 
@@ -421,7 +421,7 @@ In summary, the integrated steel mills missed the opportunity that the disruptiv
 
 - Had HP not set up inkjet as a separate organization, it likely would have languished within the laser jet division. Instead, inkjet is disrupting laser jet from below, even though its quality is inferior.
 
- Here is a summary of the key points:
+ 
 
 - Leadership is more critical when dealing with disruptive technologies than sustaining ones. IBM led in introducing thin-film head technology, a sustaining innovation, but other firms like Fujitsu and Hitachi waited much longer before adopting it and suffered little competitive disadvantage. 
 
@@ -433,7 +433,7 @@ In summary, the integrated steel mills missed the opportunity that the disruptiv
 
 - Creating new markets with disruptive technologies is less risky and more rewarding than fighting established competitors in existing markets. But successful firms find it increasingly difficult to enter emerging markets early enough. Setting up independent organizations on a regular basis allows large firms to continue tapping into disruptive innovations.
 
- Here is a summary of the key points:
+ 
 
 - Leaders in adopting sustaining technologies did not gain significant competitive advantage over followers. Pioneering firms in thin-film disk drive technology did not attain higher market share or density levels compared to later adopters. This was true for other sustaining technologies in the disk drive industry as well.
 
@@ -443,7 +443,7 @@ In summary, the integrated steel mills missed the opportunity that the disruptiv
 
 - Larger, successful firms find it difficult to enter emerging disruptive markets early, even though that is crucial for success. Growth rate pressures and the mathematics of large vs. small firms makes it hard for big companies to place bets in small, uncertain markets.
 
- Here are the key points:
+ 
 
 - Big companies need to find large amounts of new revenue each year to sustain growth, but emerging disruptive markets are initially small and can't provide that. This is a key challenge.
 
@@ -465,7 +465,7 @@ In summary, the integrated steel mills missed the opportunity that the disruptiv
 
 In summary, large companies can improve their chances of succeeding with disruptive innovations by structurally separating them into autonomous organizations that are sized to match the small opportunity size in emerging markets. This avoids rejection by the mainstream business while allowing focus on capabilities needed for the disruption.
 
- Here are the key points:
+ 
 
 - Small companies with annual revenues under $20 million are ideal for launching products based on disruptive technologies. 
 
@@ -479,7 +479,7 @@ In summary, large companies can improve their chances of succeeding with disrupt
 
 - There are advantages to smallness and independence in pursuing disruptive innovations. Johnson & Johnson leverages this through acquiring small companies focused on disruptive technologies.
 
- Here is a summary of the key points:
+ 
 
 - Disk/Trend has a remarkable track record in forecasting markets for sustaining disk drive technologies, but has struggled to accurately predict the size of markets enabled by disruptive technologies. 
 
@@ -493,7 +493,7 @@ In summary, large companies can improve their chances of succeeding with disrupt
 
 - Managers should plan for learning and discovery rather than execution when dealing with disruptive innovation. Applying processes suited for sustaining innovation typically fails.
 
- Here is a summary of the key points:
+ 
 
 - Honda initially tried and failed to enter the North American motorcycle market with large, powerful bikes designed for highway driving. The engines had problems and warranty costs were high.
 
@@ -509,7 +509,7 @@ In summary, large companies can improve their chances of succeeding with disrupt
 
 - Rather than a story of strategic brilliance, Honda stumbled into this disruptive new motorcycle market niche and then capitalized on it successfully.
 
- Here is a summary of the key points:
+ 
 
 - Honda entered the North American motorcycle market with small, inexpensive 50cc motorbikes that were disruptive relative to large, expensive bikes from Harley-Davidson and others. Honda used innovative manufacturing and continued moving upmarket, gaining share. 
 
@@ -521,7 +521,7 @@ In summary, large companies can improve their chances of succeeding with disrupt
 
 - Established firms often fail at disruptive technologies because their values and cost structure lock them into their existing customer base and markets. Their resources and processes make it hard to change direction flexibly.
 
- Here is a summary of the key points:
+ 
 
 - In large companies, individual managers are often afraid to champion projects that might fail, as failures can hurt their careers. But some failure is inevitable when searching for the right markets for disruptive technologies.
 
@@ -533,7 +533,7 @@ In summary, large companies can improve their chances of succeeding with disrupt
 
 - With disruptive tech, managers need to take an "agnostic marketing" approach where they don't assume they know how products will be used. They need to create knowledge about new markets and customers through real-world experimentation.
 
- Here is a summary of the key points:
+ 
 
 - Organizations have capabilities and disabilities that affect what they can and cannot do successfully. These organizational capabilities arise from three classes of factors: resources, processes, and values.
 
@@ -545,7 +545,7 @@ In summary, large companies can improve their chances of succeeding with disrupt
 
 - Therefore, processes and values that define an organization's capabilities in its mainstream business often create disabilities when adapting to new technologies or opportunities that require different processes and values. Good managers assess capabilities and disabilities before assigning innovation tasks.
 
- Here is a summary of the key points:
+ 
 
 - Successful companies often increase overhead costs as they move into premium market tiers, which can erode margins that were once attractive. Toyota is an example - it entered the North American market with low-cost models but eventually developed more upscale vehicles, improving margins but also increasing costs. 
 
@@ -557,7 +557,7 @@ In summary, large companies can improve their chances of succeeding with disrupt
 
 - Founders strongly influence early process and value formation. If methods are flawed the company may fail, but if they are useful employees validate them through experience.
 
- Here is a summary of the key points:
+ 
 
 - As companies mature, processes and values that were consciously decided early on gradually become assumed and embedded in the company's culture. This culture enables employees to act consistently and autonomously, but it can also become a disability when problems facing the company change. 
 
@@ -569,7 +569,7 @@ In summary, large companies can improve their chances of succeeding with disrupt
 
 - DaimlerChrysler merger demonstrates peril of integrating two companies when key value is in acquiree's processes. Integrating risks vaporizing the capabilities that made acquisition attractive.
 
- Here is a summary of the key points:
+ 
 
 - Companies often struggle to create new capabilities needed to address disruptive changes. Three mechanisms for developing new capabilities are 1) acquiring another company, 2) creating new capabilities internally, and 3) spinning out an independent organization. 
 
@@ -579,7 +579,7 @@ In summary, large companies can improve their chances of succeeding with disrupt
 
 - Spinning out an independent organization is required when the mainstream organization's values would prevent it from allocating necessary resources to the innovation. The innovation cannot be forced to compete for resources with mainstream projects. Physical separation is less important than independence from resource allocation. Success requires the CEO's personal oversight, as only the CEO can ensure the spin-out gets the required resources and freedom to create appropriate new processes and values.
 
- Here is a summary of the key points:
+ 
 
 - Managers need to assess whether their organization has the appropriate processes and values to support an innovation, not just the resources. Existing processes and values are capabilities but also disabilities.
 
@@ -593,7 +593,7 @@ In summary, large companies can improve their chances of succeeding with disrupt
 
 - The framework helps managers tailor organizational structures and locations to the needs of each innovation project.
 
- Here is a summary of the key points:
+ 
 
 - Performance oversupply occurs when the performance provided by a product exceeds what the market demands or can absorb. This happened with disk drives - by 1988, capacity supplied surpassed capacity demanded in the PC market. 
 
@@ -607,7 +607,7 @@ In summary, large companies can improve their chances of succeeding with disrupt
 
 - Commoditization happens when performance oversupply occurs across all attributes buyers value. Disk drives became commoditized as capacity, size, and reliability needs were oversupplied.
 
- Here is a summary of the key points:
+ 
 
 - By around 1988, the 5.25-inch disk drive had become a commodity in the desktop PC market, with price as the main basis of competition. Meanwhile, the 3.5-inch drive was still commanding a premium price. 
 
@@ -621,7 +621,7 @@ In summary, large companies can improve their chances of succeeding with disrupt
 
 - Successful disruptive innovation often starts by finding a market that values the attributes of the disruptive technology, rather than trying to improve it for the mainstream market.
 
- Here is a summary of the key points:
+ 
 
 - In the construction equipment industry, hydraulic excavators outpaced cable-actuated models because they provided adequate bucket capacity and were more reliable, even though cable-actuated had potential for higher capacity. Established companies tend to overload disruptive products with unnecessary features. 
 
@@ -677,7 +677,7 @@ The key is to identify disruptiveness early, then nurture in new markets rather 
 
 In summary: electric vehicles represent a disruptive technology, but will only succeed if marketed appropriately to non-traditional customers who value their specific capabilities over those of traditional gas autos. Established automakers are struggling to see this new value network.
 
- Here is a summary of the key points:
+ 
 
 - Mainstream auto companies like Chrysler view electric vehicles as unable to meet consumer needs without a major breakthrough in battery technology. They are trying to position electric cars as sustaining innovations for the mainstream market. 
 
@@ -691,7 +691,7 @@ In summary: electric vehicles represent a disruptive technology, but will only s
 
 In summary, the recommendations are to leverage disruptive innovation strategies of entering with a simple, low-cost electric vehicle in an emerging value network first, rather than pushing for a breakthrough battery to compete in the mainstream market immediately.
 
- Here is a summary of the key points:
+ 
 
 - Disruptive products often redefine dominant distribution channels because existing dealers' business models are shaped by the mainstream value network. Sony's transistor radios disrupted appliance stores, and Honda's motorbikes were rejected by mainstream motorcycle dealers. 
 

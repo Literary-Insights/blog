@@ -47,7 +47,7 @@ In summary, the book teaches a breakthrough approach to copywriting focused on t
 
 In summary, the presentation provides an updated definition of copywriting, emphasizes understanding the full customer journey and testing different approaches, and outlines a holistic model for developing strong copywriting skills focused on results.
 
- Here is a summary of the key points:
+ 
 
 - Traditional school teaching trains people to be reactive, subservient, and obedient, but copywriting requires being proactive to stir emotions and provoke responses. 
 
@@ -59,7 +59,7 @@ In summary, the presentation provides an updated definition of copywriting, emph
 
 - Start with understanding the customer thoroughly, then define the offer or solution, then work on implementing that understanding and offer into the copy itself through emotionally compelling language that builds up the customer's emotional bank account.
 
- Here is a summary of the key points:
+ 
 
 - Effective copywriting should mimic a conversational style, not a formal written style. It's like having a direct conversation with the reader. 
 
@@ -109,7 +109,7 @@ So roll up your sleeves, steep in that target tribe, and unleash your inner word
 
 The overall message is that copywriting templates provide a starting point for crafting effective headlines even without experience, by focusing on universal customer benefits and using proven headline styles.
 
- Here is a summary of the key points:
+ 
 
 - In the 1970s/80s, there was a marketer named Bo who would run full-page newspaper ads with the headline "The Lazy Man's Way to Riches". 
 
@@ -167,7 +167,7 @@ So in summary, stories are a powerful copywriting tool for engaging readers emot
 
 - Crafting stories with visual descriptions, dialogue, feelings and a clear beginning, middle and end makes them more compelling and easy to follow. Stories are a direct route to the unconscious mind to stir desires and learning.
 
- Here is a summary of the key points:
+ 
 
 - Negative Optism in copywriting involves acknowledging and validating the negative feelings or problems a prospect may be experiencing. This builds empathy, rapport, and trust. 
 
@@ -213,7 +213,7 @@ While these techniques aim to resolve negative emotions, using your understandin
 
 The technique aims to disguise objection handling so the reader processes the benefits without conscious resistance forming first. It seeks to guide them toward an enthusiastic buying frame of mind.
 
- Here is a summary of the key points:
+ 
 
 - People may want to meet someone new but also have doubts or reservations about it. They are torn between these conflicting desires. 
 
@@ -237,7 +237,7 @@ So in summary, this technique seduces people into an idea by first establishing 
 
 - These DNA themes can be woven throughout copy, especially at decision points like early on, before benefits lists, after announcing price, and in postscripts, to give that extra push. Using these themes taps into powerful psychological and storytelling factors.
 
- Here is a summary of the key points:
+ 
 
 - The offer reveals the reader's unrecognized greatness that has been discovered. This introduces the idea that by taking the offer, one will unlock or achieve something great. 
 
@@ -249,7 +249,7 @@ So in summary, this technique seduces people into an idea by first establishing 
 
 - Key things to remember are starting where the reader is, personalizing it to them, showing how easy it is via the offer, and maintaining an enjoyable storyline that guides them to take action. The length just needs to be enough to accomplish those goals.
 
- Here is a summary of the key points:
+ 
 
 - Enter the conversation already going on in the customer's mind by anticipating what they might be thinking or asking themselves. Write as if having a conversation with them. 
 

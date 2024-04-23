@@ -33,7 +33,7 @@ BOOK LINK:
 
 - Later chapters discuss why people stay in toxic relationships, cultivating independence, and mental health factors that can contribute to abusive dynamics. The overall goal is to help readers avoid or exit such relationships by improving their ability to accurately assess other people.
 
- Here is a summary of the key points:
+ 
 
 - People often lie with their words, facial expressions, and actions. It's important to be able to read people and detect lies because lies can mislead us or harm us. 
 
@@ -87,7 +87,7 @@ So in summary, this particular person's behavior harmed the writer but their int
 
 - Bad people get into social circles because humans are social and seek survival benefits and emotional fulfillment from relationships. Bad people do this too but don't value closeness and will use and dispose of others. Proper caution is needed.
 
- Here is a summary of the key points:
+ 
 
 - Bad Guys do not value others intrinsically, they are willing to harm others, and they try to collect social circles. 
 
@@ -127,7 +127,7 @@ In summary, the sunk cost fallacy, insecurity about our future without the perso
 
 - It's difficult to identify our own excuses because the core reasons manifest differently based on our unique situations. But excuses ultimately come back to insecurity, attraction, and fear of change or unknown outcomes. We need to acknowledge the real reasons to make progress in ending unhealthy relationships.
 
- Here is a summary of the key points:
+ 
 
 - Narcissism involves seeing oneself as more important and special than others. The DSM lists criteria for narcissistic personality disorder. 
 
@@ -143,7 +143,7 @@ In summary, the sunk cost fallacy, insecurity about our future without the perso
 
 In summary, narcissism revolves around an inflated, grandiose self-image combined with a lack of empathy that enables narcissists to view and treat others as mere objects for boosting their fragile ego.
 
- Here is a summary of the key points:
+ 
 
 - Narcissists tend to only associate with people they see as perfect, hoping their perfection will rub off on them. However, this sets those people up for disappointment and anger once the narcissist's rose-colored glasses come off. 
 
@@ -241,7 +241,7 @@ There are verbal and physical signs that can indicate when someone is lying. Ver
 
 Confronting a pathological liar is difficult as they may find the truth uncomfortable or be ashamed of lying. They will likely deny or explain away the lies rather than admit to manipulating. The best approach is to calmly correct the record and then disengage without getting into an argument. It's important to also address any aftermath or unresolved issues caused by the uncorrected lies.
 
- Here is a summary of the key points:
+ 
 
 - Many bad guys are thrill-seekers who chase adrenaline rushes through risky and harmful behaviors like drugs, gambling, extreme sports, unprotected sex, etc. 
 
@@ -303,7 +303,7 @@ In summary, while mental illness does not fully explain bad behavior, recognizin
 
 - Ongoing self-reflection is needed to identify potential "bad guys" in one's own life who are harmful drains of time, energy or pose risks, and set appropriate boundaries with them or end toxic relationships if needed to care for oneself. This can be difficult but is important for well-being and safety.
 
- Here is a summary of the key points:
+ 
 
 - We should remember the good times with people we cut ties with, but also accept that maintaining the relationship may not always be possible or healthy. 
 
@@ -347,7 +347,7 @@ This book covers various goals and life improvements including financial, sports
 
 The book provides actionable advice and real-world examples to help the reader make positive changes in different areas of life through applying science-backed insights and techniques.
 
- Here is a summary of the key points from the provided text:
+ 
 
 - The book discusses mindfulness and its benefits such as increased focus, calmness, discipline and happiness. It claims mindfulness can transform one's life. 
 

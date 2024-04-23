@@ -35,7 +35,7 @@ BOOK LINK:
 
 In summary, the introduction outlines the comprehensive scope of the book in teaching readers how to successfully grow a broad range of plants through practical, easy-to-follow guidance.
 
- Here is a summary of the key points:
+ 
 
 - Different plant types play different roles in the garden, such as annuals for color, perennials for structure, grasses for movement. 
 
@@ -217,7 +217,7 @@ The passage describes how to create a shady rockery garden that is well-suited f
 
 So in summary, allow for good drainage by using pot shards on the bottom, fill about 1/3 of the pot with soil, leave space at the top, and firm plants gently into the soil when planting.
 
- Here is a summary of the key points:
+ 
 
 - Water in well-established main stems of plants grown on a trellis to keep them healthy. Tie new growth to the trellis as it develops. 
 
@@ -362,7 +362,7 @@ The passage describes how to create living screens and walls using willow or shr
 
 The passage provides instructions for making willow screens and tunnels as living fences or barriers, as well as planting shrubbery walls for ornamental structure, foliage, flowers and berries in the garden. Regular pruning and care is emphasized.
 
- Here is a summary of the key points from the provided text:
+ 
 
 - An ivy arch can provide colorful foliage and textures during winter months. To create, erect a garden arch and plant ivy around it, securing stems to the arch with twine as they grow. Water and trim as needed. 
 
@@ -590,7 +590,7 @@ So in summary, mandarin, key lime and kumquat are some of the easiest citrus fru
 
 - Fill the reservoir once a week during summer. Soften the look with suitable planting like Mediterranean plants, lavender, rock roses, roses, honeysuckle or daisies.
 
- Here is a summary of the key points:
+ 
 
 - Constructing a wildlife wall creates habitats for beneficial insects like ladybugs and ground beetles. It can be made from various materials like bricks, tiles, wood planks, and roof tiles, leaving gaps for insects to nest. 
 
@@ -622,7 +622,7 @@ So in summary, mandarin, key lime and kumquat are some of the easiest citrus fru
 
 The passage discusses growing exotic orchids as houseplants. It recommends choosing orchids that can thrive in home conditions, such as moth orchids or Cymbidiums. Healthy orchids will have green roots and firm buds. Orchids prefer small clear plastic pots to allow their aerial roots to photosynthesize. Overwatering is a common cause of orchid death, so water once or twice a week in spring/summer and less in winter. Use warm water and wipe off excess moisture. Fertilize when plants are first acquired and follow package instructions. Provide warm mist instead of cold water spray. Proper care allows orchids to live long happily as home plants.
 
- Here is a summary of the key points:
+ 
 
 - Orchid soil contains no nutrients, so orchids must be fed weekly or biweekly with a proprietary fertilizer. Different orchid types have different watering needs - some need more frequent watering than others.
 
@@ -656,7 +656,7 @@ Proper drainage is important, so the container should have drainage holes covere
 
 So in summary, the key steps are assessing plant needs, providing proper growing conditions and light levels, avoiding overfeeding, and trimming flower spikes to encourage additional blooms. Proper repotting and fertilizing are also important to keep the plant healthy and promote flowering.
 
- Here is a summary of the key points:
+ 
 
 - Begonias and Pilea prefer bright, diffused light and a temperature of 64-70°F. 
 
@@ -682,7 +682,7 @@ So in summary, the key steps are assessing plant needs, providing proper growing
 
 - Containers dry out quickly and may need daily watering in summer. Lining porous pots with plastic can help retain moisture.
 
- Here is a summary of the key points:
+ 
 
 - Bananas, tree ferns, and frost-sensitive plants like Alstroemeria prefer dry soil conditions and may suffer in wet winters. Protect them by constructing a wire cage topped with straw or other waterproof material like clear plastic sheeting. 
 
@@ -744,7 +744,7 @@ So in summary, the key aspects of lawn care are watering, mowing, edging, aerati
 
 So in summary, it gives guidance on how often to mow the lawn at different times of year, what to do with clippings, and when and how to water established and new lawns.
 
- Here is a summary of the key points:
+ 
 
 - slug: s and snails damage plants by chewing leaves, petals, stems and fruit. Look for tattered leaves and ragged flowers. 
 

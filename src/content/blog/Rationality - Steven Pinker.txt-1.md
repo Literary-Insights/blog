@@ -89,7 +89,7 @@ In summary, the passage thanks contributors to the author's book and dedicates i
 
 - The passage concludes by introducing another famous problem involving conditional probabilities - the Monty Hall dilemma about choosing doors on a game show to win a car. It sets up the scenario but does not provide the solution.
 
- Here is a summary of the key points:
+ 
 
 - The Monty Hall dilemma became famous in 1990 when presented in Marilyn vos Savant's column. She correctly said players should switch doors, but received over 10,000 letters disputing her, many from PhDs. 
 
@@ -147,7 +147,7 @@ While rationality cannot be proven with an ultimate "reason for reason", committ
 
 Institutions like science, law and open debate promote rationality by discouraging biases and ego from overriding evidence. While rationality is an imperfect ideal, it is the best standard available to approach objective truth collectively.
 
- Here is a summary of the key points:
+ 
 
 - Agreement and disagreement among people is necessary for deliberation and progress. Discussing differing perspectives gives us a better chance of getting closer to the truth. 
 
@@ -237,7 +237,7 @@ So in summary, the passage argues that disagreement, analysis of reasoning, prac
 
 - In summary, the passage uses dialog from a movie and logical concepts like truth tables, conditionals, and valid inference rules to illustrate both the utility and limitations of a formal logical approach to analyzing everyday language.
 
- Here is a summary of the key points:
+ 
 
 - A valid argument is one where the conclusion logically follows from the premises according to the rules of logic. It makes no claim about whether the premises are actually true. 
 
@@ -305,7 +305,7 @@ In summary, the passage discusses Wittgenstein's theory of family resemblance ca
 
 - While neural networks are good at fuzzy categories, human rationality is a hybrid of pattern matching and logical rule-based reasoning. Formal logic can help overcome biases from pattern matching and allow conclusions like "all humans are equal." Both are important for science, morality and law.
 
- Here is a summary of the key points:
+ 
 
 - There are different interpretations of what probability means: classical (equally likely outcomes), physical disposition/propensity, subjective credence, evidentiary strength, frequentist (relative frequency). 
 
@@ -333,7 +333,7 @@ The key idea is that there are different valid interpretations and uses of proba
 
 - While availability biases perceptions, the overreactions can also reflect rational goals beyond accuracy, like deterring future attacks or addressing perceptions of inequity and threat felt by some groups. Probability alone does not explain human fear and risk judgments.
 
- Here is a summary of the key points:
+ 
 
 - Public outrage over a flagrant attack or killing can mobilize collective action for self-defense, justice or revenge. This sends a signal that deters future premeditated attacks. 
 
@@ -347,7 +347,7 @@ The key idea is that there are different valid interpretations and uses of proba
 
 - It's important to properly understand concepts like conjunction, disjunction and conditional probabilities when assessing risks, rather than making assumptions that ignore independence or interdependence of events.
 
- Here is a summary of the key points:
+ 
 
 - Parents may have gender preferences for their children, wanting only boys or only girls. If the first child's gender matches their preference, they are more likely to pursue having another child of the same gender. This means the probabilities are not independent. 
 
@@ -403,7 +403,7 @@ The key idea is that there are different valid interpretations and uses of proba
 
 So in summary, the passage discussed two experiments where subtle external or primed internal factors non-consciously influenced behaviors, and noted concerns about common questionable research practices used by researchers to find statistically significant results, rather than evidence of intentionally fabricated data.
 
- Here is a summary of the key points:
+ 
 
 - Bayes' rule is a formula for calculating conditional probability. It gives the probability of a hypothesis given some evidence or data. 
 
@@ -445,7 +445,7 @@ So in summary, it discusses Bayes' rule, how people don't actually use it intuit
 
 - Base rates still have important uses in understanding insurance risks, social phenomena and distinguishing ongoing discrimination from other historical factors, so they cannot be universally forbidden from research. There are good reasons for their selective use or prohibition depending on the context and goals.
 
- Here is a summary of the key points:
+ 
 
 - Rational choice theory, also known as expected utility theory, predicts that rational actors will choose options that maximize their expected utility, which is the sum of possible rewards weighted by their probabilities. 
 
@@ -471,7 +471,7 @@ So in summary, the passage discusses rational choice theory, the negative percep
 
 - The theory provides a framework for characterizing rational decision making, even if actual human choices sometimes depart from it. It sheds light on paradoxes of rationality and can offer life lessons, although its assumptions of rationality are not necessarily descriptive of human psychology.
 
- Here is a summary of the key points:
+ 
 
 - The expected utility of betting on "7" in craps is -0.17, while the expected utility of betting on "7" in roulette is -0.05. So betting on roulette has a higher expected utility.
 
@@ -503,7 +503,7 @@ So in summary, the passage discusses rational choice theory, the negative percep
 
 So in summary, the passage discusses how real decision-making diverges from rational choice theory due to cognitive limitations and emotional/psychological factors, but still aims to be good enough given practical barriers to full rational optimization.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses irrational behaviors in decision-making that violate rational choice theory, as identified by Kahneman and Tversky in their prospect theory. Examples include framing effects, loss aversion, and non-linear weighting of probabilities. 
 
@@ -531,7 +531,7 @@ In summary, the passage outlines Kahneman and Tversky's prospect theory and how 
 
 So in summary, signal detection theory provides a rational approach to making decisions under uncertainty by distinguishing beliefs from actions, and weighing likelihoods of different outcomes. This has important applications in fields like medicine, law, and security monitoring.
 
- Here is a summary of the key points:
+ 
 
 - Signal detection theory looks at the probability of making observations given that a signal is present or absent. Observations fall into bell curves for signal-present and signal-absent conditions, with some overlap. 
 
@@ -545,7 +545,7 @@ So in summary, signal detection theory provides a rational approach to making de
 
 - In practical decisions like medical diagnosis or national security, expected costs/benefits must be considered to determine the optimal response bias, though assigning numerical values is challenging. The general framework still provides a rational approach.
 
- Here is a summary of the key points:
+ 
 
 - Signal detection theory examines how people make decisions when there is uncertainty, such as distinguishing between signals (e.g. criminals) and noise (e.g. innocent people). Two important factors are the response criterion (cutoff for deciding signal vs noise) and sensitivity (how separable the signal and noise distributions are). 
 
@@ -559,7 +559,7 @@ So in summary, signal detection theory provides a rational approach to making de
 
 - Signal detection theory can provide a framework to evaluate whether legal practices and standards of evidence align with moral and ethical values regarding conviction of the innocent vs acquittal of the guilty. It reveals shortcomings and aspirations in the criminal justice system.
 
- Here is a summary of the key points:
+ 
 
 - Current approaches to justice often focus too much on convictions and punishments without considering the tradeoff between accuracy (hits) and falsely accusing innocents (false alarms). Lowering the threshold for conviction will inevitably lead to more innocent people being punished. 
 
@@ -571,7 +571,7 @@ So in summary, signal detection theory provides a rational approach to making de
 
 - The rate of non-replication in science may stem partly from researchers falsely claiming significance when testing many hypotheses or samples. Strictly speaking, significance tests alone do not establish scientific conclusions, prior probabilities must also be considered.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses rational choice theory and game theory, specifically analyzing situations where an individual's interests depend on the choices of others. 
 
@@ -657,7 +657,7 @@ So in summary, it discusses how coordination games can model social situations w
 
 - Randomized experiments are needed to rigorously establish causal relationships when simply observing correlations, as they can help control for third factors and reverse causation. But in many contexts experiments are difficult or unethical to conduct.
 
- Here is a summary of the key points:
+ 
 
 - Randomized experiments are the best way to establish causation because they involve randomly assigning subjects to different conditions (e.g. treatment vs control groups) to minimize confounding factors. This allows researchers to determine if changes are due to the variable being tested (the putative cause) rather than other influences. 
 
@@ -681,7 +681,7 @@ So in summary, it discusses how coordination games can model social situations w
 
 - Understanding causes as multiple and interactive, rather than single or simply additive, provides a more accurate picture of relationships in the social sciences and epidemiology. Specific techniques like cross-lagged correlations, matching, and multiple regression with interaction terms allow investigating these complex relationships.
 
- Here is a summary of the key points:
+ 
 
 - The graph shows the risk of experiencing a depressive episode for women who had undergone a severe stressor (right side points) compared to women who had not (left side points). 
 
@@ -701,7 +701,7 @@ So in summary, it discusses how coordination games can model social situations w
 
 So in summary, the graph demonstrates that both heredity/genes and life experiences impact depression risk, and they interact such that genes are especially important when stress is present. It provides insight into the underlying causal factors.
 
- Here is a summary of the key points:
+ 
 
 - The world economy has struggled during the rollout of 5G networks due to the COVID-19 pandemic. There were also concerns that the head of the NIH, Anthony Fauci, could profit from vaccine development. 
 
@@ -771,7 +771,7 @@ So in summary, the passage explores how and why many beliefs can exist in a myth
 
 - However, standards of rationality and evidence have advanced over time, reducing beliefs in things like supernatural phenomena. While certain issues become politically polarized, most scientific topics are not. And people generally change beliefs when presented with clear corrections, showing rational thinking is possible.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses the issue of openness to evidence and being willing to change one's beliefs in the face of new information. It notes that around 1/5 of Americans say they are impervious to evidence, while most aspire to be open-minded. 
 
@@ -795,7 +795,7 @@ In summary, the passage examines the concept of openness to evidence, factors th
 
 - Overall, consciously applying reason and thinking critically about decisions has the potential to improve lives and outcomes in a way that simply following intuition or gut feelings does not. Rationality done well can help people avoid harm from their own cognitive tendencies and biases.
 
- Here is a summary of the key points:
+ 
 
 - Conspiracy theories, misinformation, and belief in the supernatural can pose real harms. Examples given include someone who died after rejecting medical insulin based on herbalist advice, a child who died during faith healing, and a tiger killed due to shape-shifting beliefs. 
 
@@ -895,7 +895,7 @@ Douglass eloquently made moral and logical arguments against slavery while drawi
 
 - Gould 1988 discussed Stephen Jay Gould's work on probabilistic reasoning.
 
- Here is a summary of the key points:
+ 
 
 - The example has been adjusted for inflation, meaning the dollar amount or figures referenced in the example have been updated to reflect current dollar values after accounting for the effects of inflation over time. 
 

@@ -55,7 +55,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 • To build emotional resilience, focus on self-awareness, managing stress, developing skills and practicing new habits of thoughts and action. Be willing to move out of your comfort zone, ask for feedback and learn from your experiences. Maintaining a balanced and meaningful life will support your workplace performance and emotional resilience.
 
- Here is a summary of the key points:
+ 
 
 • Emotional resilience focuses on the ability to manage your emotions and those of others effectively. It enables you to sustain high performance during challenging times. 
 
@@ -85,7 +85,7 @@ The first section lists the six core aspects of emotional self-awareness: self-w
 
 The first chapter focuses on self-worth, which is defined as your self-respect and belief in the unique value you provide at work. Self-worth depends on early experiences but can be improved by managing your self-talk, behaviors, and reactions. Leaders often struggle with self-worth, measuring themselves against others’ success rather than their own qualities and achievements. Self-worth impacts relationships, health, and teamwork. Improving self-worth requires noticing both signs of your own success as well as changing how you view your own work.
 
- Here is a summary of the key points:
+ 
 
 • Self-worth is important for health and well-being throughout our lives. Low self-worth is linked to higher levels of the stress hormone cortisol, which can lead to health issues. Increasing self-worth can help lower cortisol. 
 
@@ -143,7 +143,7 @@ Replace "should" with "want" in your self-talk. Focus on what you want, not what
 
 Action center: Be self-responsible, have clear objectives and time management, reflect daily, use scripts to buy time, eat healthy, exercise, and manage your energy.
 
- Here is a summary of the key points:
+ 
 
 Mood is your overall emotional state at a given moment. It influences your choices and behaviors. 
 
@@ -188,7 +188,7 @@ What language do these people use as reflective of their positive mood, even whe
 How do they plan for a positive result?
 What actions do they take as reflective of their reasonable confidence in accomplishing success?
 
- Here is a summary of the key points:
+ 
 
 Objective: Focus on the objective or purpose of the meeting. Do not deviate from the set agenda or discussion topics. 
 
@@ -464,7 +464,7 @@ My effectiveness varies but I aim to improve by:
 
 Overall, I see this as an area I can continue to develop and strengthen through conscious effort and practice. The key is awareness - noticing when emotions arise and addressing them in a productive manner. With regular use of helpful tools and techniques, I believe I can enhance my effectiveness in solving problems of an emotional nature.
 
- Here is a summary of the key points:
+ 
 
 •Expressing your feelings and thoughts at work is an important communication skill. It allows you to build strong relationships and be heard.
 
@@ -594,7 +594,7 @@ Using negative emotions at little cost:
 
 • Follow up appropriately. Make sure any solutions or next steps are clear to avoid future confusion or frustration. Be open to feedback and willing to revisit the discussion if needed. Continuous dialogue is most effective.
 
- Here is a summary of the key points:
+ 
 
 • Our hormonal system and emotional states are closely linked. The levels of cortisol (the stress hormone) and DHEA (the anti-aging hormone) in our body indicate our resilience and ability to handle stress. High cortisol and low DHEA lead to health issues and faster aging. Positive emotions help increase DHEA and lower cortisol. 
 
@@ -664,7 +664,7 @@ These attributes manifest themselves in your workplace through your motivation, 
 
 In summary, to positively influence at work, develop and sustain your emotional resilience, maintain high energy and effectiveness, reduce decision fatigue, and pursue purposeful action aligned with your values. The specific tools and strategies provided in this summary can help strengthen these areas.
 
- Here is a summary of the key points:
+ 
 
 What gives me energy:
 Human interaction
@@ -730,7 +730,7 @@ Necessities:Meet essential financial obligations. Have meaningful work that util
 
 The overall themes are: gaining clarity on what motivates and fulfills you; intentionally planning how you allocate your time; setting goals and working steadily toward them; and utilizing effective time management strategies. Focusing on these areas can help create a more balanced and meaningful life, even when changing jobs is not currently possible.
 
- Here is a summary of the key points:
+ 
 
 Finish on time:
 

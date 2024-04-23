@@ -30,7 +30,7 @@ The Challenge aims to help even those with little dating experience or success t
 
 The passage frames the Challenge as a fitness program for one's social and dating life that provides a shortcut to skills and confidence that usually take years to develop. By completing all 30 days, participants will have the ability to meet and attract nearly any woman they desire.
 
- Here are the key points:
+ 
 
 The author’s limiting beliefs about his looks were holding him back from dating success. Once he started approaching women regularly, he discovered that looks mattered far less than he thought. Limiting beliefs often involve telling yourself you “can’t” do something that is possible. They can be dispelled by considering examples that contradict them.
 
@@ -586,7 +586,7 @@ To throw a successful dinner party:
 
 •Don't dote on the woman or get jealous if other men talk to her. Remain the confident host. Let a trusted friend share how impressive you are. The goal is for everyone to have a good time, not just focus on the woman. If you accomplish this, attraction will follow.
 
- Here is a summary of the key points:
+ 
 
 • Forget everything you’ve learned so far about approaching and interacting with women. Improvise and have a genuine conversation without relying on techniques or material. 
 

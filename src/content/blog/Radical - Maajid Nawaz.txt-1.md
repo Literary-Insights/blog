@@ -281,7 +281,7 @@ When Sa'eed arrives, he confronts the African student with the penknife, Ayotund
 
 - While active in recruitment, the author felt something was missing personally and sought a meaningful relationship, having had previous romantic experiences dating back to secondary school.
 
- Here is a summary of the key points:
+ 
 
 - In 1999, Maajid Nawaz traveled to Pakistan at age 22, full of Islamist zeal, with his wife Rabia. Their goal was to help Hizb ut-Tahrir (HT) foment a military coup in Pakistan. 
 

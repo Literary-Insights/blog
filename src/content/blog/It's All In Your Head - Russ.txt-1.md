@@ -35,7 +35,7 @@ BOOK LINK:
 
 The key message is that focused thinking, belief, and feeling are powerful tools for manifesting your goals. By embracing your desired reality, you can translate your vision into achievement.
 
- Here is a summary of the key points:
+ 
 
 - Believe in yourself and your potential more than anything else. Be delusionally confident. 
 
@@ -51,7 +51,7 @@ The key message is that focused thinking, belief, and feeling are powerful tools
 
 The key message is that unshakable self-confidence and belief in your own potential is essential to achieving your dreams. Take consistent action from a place of positivity and faith in yourself. What you conceive in mind and spirit, you can achieve in the material world through focused effort.
 
- Here is a summary of the key points:
+ 
 
 - Pursuing your passion requires extreme self-confidence and a thick skin. It will offend some people but also draw others to you who are inspired. 
 
@@ -65,7 +65,7 @@ The key message is that unshakable self-confidence and belief in your own potent
 
 - Passion breeds passion. Surround yourself with supportive people who fan your flames, not extinguish them. The energy of pursuing dreams is contagious.
 
- Here is a summary of the key points:
+ 
 
 - Success requires an incredible work ethic, not just talent. Work hard at what you love. 
 
@@ -81,7 +81,7 @@ The key message is that unshakable self-confidence and belief in your own potent
 
 The main message is that passion plus tireless work ethic overrides doubts and obstacles. Russ succeeded through self-belief despite lacking natural talent. By committing fully to what he loved, the work itself became fulfilling.
 
- Here is a summary of the key points:
+ 
 
 - Vulnerability is a strength, not a weakness. Being honest about your insecurities disarms others from using them against you. 
 
@@ -97,7 +97,7 @@ The main message is that passion plus tireless work ethic overrides doubts and o
 
 - Vulnerability requires having the courage to reveal yourself openly and authentically, even if it feels uncomfortable. But it builds connection and is the path to fulfillment.
 
- Here is a summary of the key points:
+ 
 
 - Be self-sufficient and do things yourself rather than relying on others. This gives you freedom and control. 
 
@@ -113,7 +113,7 @@ The main message is that passion plus tireless work ethic overrides doubts and o
 
 The key is self-sufficiency, knowledge, control and independence. Do it yourself as much as possible to navigate your career and creativity successfully.
 
- Here is a summary of the key points:
+ 
 
 - Don't fall for society's pre-defined paths and boxes. Build your own reality and follow your own path, even if others think you are lost. 
 

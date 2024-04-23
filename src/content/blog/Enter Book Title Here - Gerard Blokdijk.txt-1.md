@@ -171,7 +171,7 @@ Common topics in SaaS blogs include recommendations for how to price SaaS and wh
 
 Overall, SaaS blogs provide commentary and perspectives that can help improve SaaS business models and applications over time through feedback and discussions around important pricing, marketing and technical considerations.
 
- Here is a summary of the key points:
+ 
 
 - There are economic pressures driving both software makers and enterprises to see the SaaS business model as attractive. It offers lower costs of software ownership, flexibility to adjust usage over time, more cost-effective business cases, and faster rollout. 
 
@@ -225,7 +225,7 @@ Overall, SaaS blogs provide commentary and perspectives that can help improve Sa
 
 - SaaS allows businesses to access software applications virtually without having to manage their own servers or software licensing. It provides flexibility and ease of use globally for companies.
 
- Here is a summary of the key points:
+ 
 
 - Software as a service (SaaS) has come a long way since the 1990s and more companies are shifting to the purely web-based SaaS model over locally installed software. 
 
@@ -237,7 +237,7 @@ Overall, SaaS blogs provide commentary and perspectives that can help improve Sa
 
 - Utility computing services, like SaaS, allow companies to pay only for computing resources that are used on demand. This slashes IT budgets and gives more control over expenses.
 
- Here is a summary of the key points:
+ 
 
 - SaaS allows different customers (individuals, small/large businesses) to run the same software program simultaneously via a shared multi-tenant architecture. 
 

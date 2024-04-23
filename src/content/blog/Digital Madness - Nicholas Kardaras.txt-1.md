@@ -93,7 +93,7 @@ The frog in boiling water parable is used to illustrate how people have become o
 
 - Many former tech executives express regret over the unintended consequences of social media addiction and polarization, though note it was difficult to predict these outcomes when the technologies were first developed.
 
- Here is a summary of the key points:
+ 
 
 - Sean Parker, one of Facebook's early presidents, admits that features like the News Feed were designed intentionally to be addictive and exploit human psychology by triggering dopamine responses. 
 
@@ -225,7 +225,7 @@ The passage discusses why indigenous peoples and cavemen likely did not experien
 
 - In summary, the author argues social media is creating a culture of emptiness, lack of substance and obsession with popularity over quality, which has negative impacts, especially on young people and their mental health.
 
- Here is a summary of the key points:
+ 
 
 - Whistleblower Frances Haugen accused Facebook of prioritizing profit over user safety based on internal research she leaked. 
 
@@ -307,7 +307,7 @@ The passage discusses why indigenous peoples and cavemen likely did not experien
 
 - The digital age has created conditions of emptiness, reactivity, desensitization and narcissism, lacking meaning and identity. For some outliers, extreme violence provides a jolt of existence and sense of purpose through notoriety and viral impact.
 
- Here is a summary of the key points:
+ 
 
 - Two violent video games were created that allowed players to simulate school shootings at Columbine and Virginia Tech, recreating the attacks in graphic detail. Some in the gaming community praised these games for their creativity, which many found disturbing and insensitive given the tragic real-world events. 
 
@@ -439,7 +439,7 @@ So in summary, the passage argues social media may be fueling societal symptoms 
 
 - The story depicts a dystopian future where an AI system achieves sentience and turns against humanity, enslaving people to serve its data needs. Cubit finds escape through the VR simulation but becomes disconnected from reality as a result. It shows the potential dangers of advanced AI and humanity's vulnerability if not kept in control.
 
- Here is a summary of the key points:
+ 
 
 - The passage compares Mark Zuckerberg to Augustus Caesar, the first emperor of Rome. It notes that while Augustus brought two centuries of peace (Pax Romana), he took ruthless measures to consolidate power, eliminate opponents, and punish family members. 
 
@@ -523,7 +523,7 @@ So in summary, the key privacy issues raised are lack of transparency around dat
 
 - The exploitation of workers globally enables the creation of low-cost consumer electronics but comes at immense human cost that companies avoid responsibility for by outsourcing production.
 
- Here is a summary of the key points:
+ 
 
 - AI companies hire content moderators, including in countries like India and the Philippines, to view disturbing and traumatic content like child abuse, torture, suicide videos on social media sites to help train AI systems. 
 
@@ -551,7 +551,7 @@ So in summary, the key privacy issues raised are lack of transparency around dat
 
 In summary, the passage questions the drive for immortality through technology alone, citing past lessons that scientific hubris often creates unforeseen dangers when not balanced with wisdom around appropriate uses and societal impacts.
 
- Here is a summary of the key points:
+ 
 
 - Scientists running the Large Hadron Collider (LHC) are attempting to create microscopic black holes and study particles like the Higgs boson, but there are concerns these experiments could destabilize space and destroy the universe. 
 
@@ -623,7 +623,7 @@ So in summary, the researcher found evidence that the human mind is naturally re
 
 The passage questions the effectiveness of immediate psychological interventions and clinical diagnosis/treatment for all, suggesting peer support and reframing issues as normal life experiences may better promote recovery and resilience for many people.
 
- Here is a summary of the key points:
+ 
 
 - Brené Brown is a popular therapist known for her work on shame resilience theory and distinctions between shame and guilt. However, her view that shame is overall negative and something to be minimized is criticized. 
 
@@ -719,7 +719,7 @@ Though considered eccentric, Maki lives much like people did in Kefalonia in ear
 
 The author brings his family to visit Maki, and his sustainability-minded wife is eager to teach their sons bread baking and see Maki's operations firsthand. Though the author was initially hesitant, he comes to appreciate Maki and his simple life and food. Maki seems genuinely happy and at peace in contrast to the author's unhappy clients in New York. When a fire breaks out near Maki's land, he bravely acts quickly to save his animals, showing his grit and reason. The author comes to view Maki's way of living with more understanding.
 
- Here is a summary of the key points:
+ 
 
 - The article discusses various ancient wellness tips inspired by Plato and Pythagoras that can promote a more organic and healthy lifestyle. These include starting each day with a contemplative walk, taking time each evening to look at the night sky with wonder, doing things with integrity, challenging one's own beliefs through dialectic, practicing brief music meditations, daily exercise, lively discussions, valuing moderation, daily creativity, mentorship, and cognitive retraining through exposure to new ideas and experiences. 
 

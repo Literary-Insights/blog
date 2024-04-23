@@ -257,7 +257,7 @@ The alarm bells were ringing in her head. Something didn't feel right.
 
 • Avoid contempt. Accept her flaws and resolve to be at peace with them. Keep your word. Treat her well but not too well. Express that you chose to be with her.
 
- Here is a summary of the key points:
+ 
 
 - Expect the woman to contribute to the relationship by doing things like cooking, cleaning, and assisting with various tasks. Express appreciation for these contributions. The author believes women like to feel needed and helpful in a relationship. 
 

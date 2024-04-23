@@ -141,7 +141,7 @@ The key takeaways are that the passage outlines a 4 phase model for Design Think
 
 - Organizing by phase provides a point-in-time snapshot but teams must have flexibility to revisit earlier phases as understanding improves. The goal is delivering incremental value throughout the process.
 
- Here is a summary of the key points from the provided text:
+ 
 
 - Design Thinking techniques and exercises can help individuals and teams in areas like learning more quickly, thinking and problem solving differently, coping with ambiguity, prioritizing, and executing effectively. 
 
@@ -185,7 +185,7 @@ The key takeaway is that Design Thinking offers a toolkit of techniques that can
 
 The key message is that Design Thinking provides various techniques for building, maintaining and working effectively as resilient and sustainable tech teams.
 
- Here is a summary of the key points:
+ 
 
 - Coldplay has been able to remain consistent over 25 years through using a set of simple rules to guide their approach to sound, output, audience appeal and self-image. 
 
@@ -373,7 +373,7 @@ Together, these three dimensions provide a framework for assessing an organizati
 
 - The Power/Interest Grid can be used to strategize around high power/interest stakeholders, raise interest of others, and monitor low priority ones. Elements like shared objectives, peer pressure and comparisons can shift stakeholder priorities over time.
 
- Here is a summary of the key points:
+ 
 
 - Perform stakeholder mapping to identify different stakeholder groups and their interests in the initiative. Map stakeholder sentiment over time using a color-coding system. 
 
@@ -403,7 +403,7 @@ Together, these three dimensions provide a framework for assessing an organizati
 
 - Personas, empathy mapping, empathy immersion and journey mapping are design thinking tools that help teams build empathy for users and understand problems from the user's perspective in order to create effective solutions.
 
- Here is a summary of the key points:
+ 
 
 - Drawing a map or journey map of a user's typical work day is a useful way to understand their daily challenges and identify opportunities for improvement. 
 
@@ -419,7 +419,7 @@ Together, these three dimensions provide a framework for assessing an organizati
 
 - It's important not to ignore the 20% minority of tasks or users, as that is where hidden opportunities and costs may lie. Understanding variety is important for an inclusive design.
 
- Here is a summary of the key points from the provided text:
+ 
 
 - After empathy, the next important step is properly identifying and understanding the problem before jumping to solutions. 
 
@@ -520,7 +520,7 @@ So in summary, it discusses the importance of both divergent and convergent thin
 
 - The case calls for helping the team restore confidence by thinking differently with guidance on productive guardrails and exercises to get past sticking points in their thinking.
 
- Here is a summary of the key points:
+ 
 
 - Nearly empty funnel: We may need to brainstorm new ways to attract more leads/customers into our sales funnel. Some ideas include exploring new marketing channels, improving our messaging, targeting different demographics, etc. 
 
@@ -534,7 +534,7 @@ So in summary, it discusses the importance of both divergent and convergent thin
 
 In summary, these techniques focus on considering additional perspectives (time pressure, multiple scales), checking underlying assumptions (validation), and exploring the problem space more fully (empty funnel, reverse logic) to generate fresh solutions. Examining the problem from different angles could help uncover opportunities to further stock the sales funnel.
 
- Here is a summary of the key points:
+ 
 
 - Inclusive and accessible thinking involves considering the needs of people who may be marginalized or overlooked, such as those with disabilities or limitations. It aims to design solutions that can be accessed and used by the entire community. 
 
@@ -546,7 +546,7 @@ In summary, these techniques focus on considering additional perspectives (time 
 
 - The key insights are to consider the diverse needs of the entire community, find ways to develop solutions flexibly over time, and use techniques like premortems to anticipate potential problems upfront. This supports designing solutions that can serve the needs of the whole community in an inclusive manner.
 
- Here is a summary of the key points:
+ 
 
 - A premortem exercise helps teams brainstorm potential issues, risks, and failures that could occur in a project by imagining the project has already failed in the future and working backwards. 
 
@@ -564,7 +564,7 @@ In summary, these techniques focus on considering additional perspectives (time 
 
 - Moäbius ideation looks to optimize resource usage by considering alternative configurations or uses to gain more value from existing assets.
 
- Here is a summary of the key points:
+ 
 
 - Satish has asked you to help a OneBank initiative team that failed spectacularly in their first attempt to upgrade a critical customer relationship management system. The goal was to upgrade the merged systems sitting on a common platform after a merger. 
 
@@ -618,7 +618,7 @@ So in summary, Running the Swamp employs time pressure, visual aids and divergen
 
 The techniques discussed focus on reducing uncertainty by sequencing thought exercises in a customized way. Possible Futures Thinking uses a wheel analogy to model different future scenarios based on trends, allowing one to identify opportunities, risks, and strategic considerations. Aligning Strategy to Time Horizons visually aligns long-term goals, mid-term initiatives, and near-term projects/tasks to help prioritize and sequence work. Backporting into the Past leverages existing skills, experiences, team strengths, and past work to creatively adapt to current constraints and limitations. Adjacent Space Exploration explores lower-risk next steps that are similar but not identical to the current situation, providing a potential time-saving or decision-making intermediate path forward. Together, these techniques essentially create a customized approach to systematically thinking through uncertainties.
 
- Here is a summary of the key points:
+ 
 
 - Hods can help us make meaningful progress in the short term by exploring adjacent spaces or areas near what we already know and are experts in. This allows us to build on existing knowledge and skills while incrementally expanding into new areas. 
 
@@ -642,7 +642,7 @@ The techniques discussed focus on reducing uncertainty by sequencing thought exe
 
 - These exercises can help a team gain shared understanding of options, surface insights, and make progress on decision making when faced with complex landscapes and situations with many choices. Additional techniques like matrices may also be helpful for certain comparisons.
 
- Here is a summary of the key points from the provided text:
+ 
 
 - The techniques covered in this hour can help bridge the gap from divergent to convergent thinking, focusing on narrowing ideas and exploring potential solutions. 
 
@@ -686,7 +686,7 @@ The overall message is that Brainstorming and SCAMPER can help converge and prob
 
 - Looking back through the development cycle to see if engagement could occur earlier is one way to potentially deliver value sooner. More involvement from developers in requirements could help smarten the process.
 
- Here is a summary of the key points:
+ 
 
 - Hour 15 introduces Part IV of the curriculum, which focuses on delivering value through techniques like prototyping, solutioning, and delivering solutions at velocity. 
 
@@ -700,7 +700,7 @@ The overall message is that Brainstorming and SCAMPER can help converge and prob
 
 - The hour concludes with a summary and case study to apply the concepts learned about cross-team collaboration and communications. The overall focus is on developing skills and processes to deliver value through multi-team coordination and solution development.
 
- Here is a summary of the key points:
+ 
 
 - Effective cross-team work requires establishing a supportive culture through time, care and attention. 
 
@@ -756,7 +756,7 @@ The overall message is that Brainstorming and SCAMPER can help converge and prob
 
 The key is crafting stories intentionally around themes that bring people together, like understanding, collaboration or problem-solving. Used sparingly but authentically, stories are an effective cross-team communication technique. The human connections they foster aid organizational alignment.
 
- Here is a summary of the key points from the provided text:
+ 
 
 - Prototyping is a way to take ideas from our heads and put them in a physical or visual form so others can see, consider, learn from, iterate on, and improve them. This helps externalize thinking and create shared understanding. 
 
@@ -820,7 +820,7 @@ In summary, the passage advocates getting ideas out of our heads and into tangib
 
 So in summary, these techniques help incrementally learn through doing while planning for predictable progress by time boxing, considering natural distributions of task size, and pacing changes to a community's regular cycles.
 
- Here is a summary of the key points:
+ 
 
 - The EC is an organization leading multiple initiatives spanning countries and user communities. They are concerned about managing all the ongoing changes.
 
@@ -860,7 +860,7 @@ The EC is looking for guidance on applying agile and lean methodologies at progr
 
 Sustained delivery of value at pace requires balancing many factors. The key is continuous learning and improvement through applying techniques iteratively based on insight from each delivery.
 
- Here is a summary of the key points:
+ 
 
 - Sprints are typically one to four weeks long and are run sequentially to form a release, which is a larger project component. Releases and sprints help create a project plan and see the big picture. 
 
@@ -910,7 +910,7 @@ The main takeaway is that change control, done thoughtfully, is not anti-velocit
 
 The different testing types build on each other and are important for validating functionality, integration, user experience, and system performance and reliability before full deployment. Together they provide thorough checks that solutions work as expected.
 
- Here is a summary of the key points:
+ 
 
 - The system's performance under load or stress should be tested once it is stabilized and ready for performance testing. This includes load, stress, scalability, and other performance-related testing as part of the traditional testing framework. 
 
@@ -924,7 +924,7 @@ The different testing types build on each other and are important for validating
 
 In summary, thorough performance testing early helps characterize expected behaviors under load. Ongoing monitoring then helps communicate expectations and address issues to maintain adequate performance for users throughout their usage cycles.
 
- Here is a summary of the key points:
+ 
 
 - Solution Interviewing gives richer feedback than just noting failures from transactions and business processes. It allows learning what users like, dislike and want changed through verbal discussions. 
 
@@ -952,7 +952,7 @@ In summary, thorough performance testing early helps characterize expected behav
 
 - Gathering feedback frequently and from multiple sources through the project lifecycle helps teams learn and enhance their work on an ongoing basis. It's a key part of the design thinking process.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses avoiding "perfection traps" when deploying products and solutions. True perfection is not achievable, so we have to decide when something is ready to deploy. 
 
@@ -998,7 +998,7 @@ Slaying the Hero tests systems and processes by temporarily removing key individ
 
 Both techniques aim to strengthen the team's resilience through intentional redundancies, sharing of knowledge and responsibilities, and identifying weaknesses to improve coverage for potential issues like absences, failures, or disasters. They help operationalize principles of antifragility at the team level.
 
- Here is a summary of the key points:
+ 
 
 - We need to think about how to sustain systems and continue delivering value over the long run once a solution is implemented. This requires strategies for operating, monitoring, upgrading, evolving and extending the solution. 
 
@@ -1058,7 +1058,7 @@ So in summary, it discusses using various Design Thinking techniques to assess a
 
 So in summary, it focuses on how to use Design Thinking approaches to strategically influence key project management areas and continuously learn/improve, in order to increase the speed and success of initiatives and change efforts.
 
- Here is a summary of the key points:
+ 
 
 - The article discusses how the Design Thinking cycle of progress can be applied to each of the PMI (Project Management Institute) project management knowledge areas, performance domains, and guiding principles. 
 
@@ -1116,7 +1116,7 @@ Some quality techniques to consider are Snaking the Drain (Hour 10) to re-examin
 
 Techniques like Cover Story Mockup (Hours 3, 16), Active Listening (Hour 6), and Storytelling (Hour 15) could help initiative leaders better connect with stakeholders, while Concentric Communications (Hour 15) and Inclusive Communications (Hour 15) may strengthen team communications.
 
- Here is a summary of the key points:
+ 
 
 - One of the most ambiguous and complex problems in Design Thinking is time. Design Thinking provides a framework for problem solving and value creation, but solutions need to be revisited over time as contexts change. 
 
@@ -1146,7 +1146,7 @@ The summary emphasizes these four techniques for problem validation through appr
 
 The Design Thinking techniques covered in hours 23 and 24 that could help the OneBank initiative leaders improve governance, manage scope and schedule, enhance quality, and improve communications include establishing Simple Rules and Guiding Principles, running stakeholder mapping exercises, using timeboxing and pacing techniques, running journey mapping and prioritization exercises, applying quality-focused techniques like premortem and worst case ideation, employing communication techniques like cover story mockups, active listening and inclusive storytelling. Specific techniques highlighted were stakeholder+ mapping, power/interest grid, boats and anchors, snaking the drain, and establishing simple rules and principles to provide structure and clarity across the initiatives.
 
- Here is a summary of the key points:
+ 
 
 - The techniques focus on better connecting and communicating with stakeholders and teams through approaches like AEIOU questioning, structured text/interviews, and mesh networking.
 

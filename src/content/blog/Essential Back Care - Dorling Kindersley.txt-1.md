@@ -746,7 +746,7 @@ Medications for back and neck pain:
 - Low-dose tricyclic antidepressants (e.g. amitriptyline): Suppress nerve pain, relieve muscle tension and insomnia. Require prescription.
 - Anticonvulsants (e.g. carbamazepine, gabapentin): Soothe chronic nerve pain. Require prescription.
 
- Here is a summary of the key points:
+ 
 
 • Gabapentin, pregabalin, and bamazepine are anticonvulsant medications used to treat neuropathic pain. They work by reducing pain signals in the brain and spinal cord.
 
@@ -1184,7 +1184,7 @@ lower pain threshold.Lack of sleep gets you down, reduces ability to heal and co
 
 Does this summary cover the main points regarding positions and strategies to help relieve back pain when sleeping, resting and being intimate with your partner? Let me know if you would like me to clarify or expand on any part of the summary.
 
- Here is a summary of the key points:
+ 
 
 • Consult your doctor or physical therapist before starting an exercise program, especially if you have an existing injury or health condition.
 
@@ -1444,7 +1444,7 @@ Treatment: anticonvulsants, anti-inflammatories,  cortisone injections, decompre
 
 In summary, these terms refer to a range of conditions causing back, pelvic and leg pain arising from problems  with the joints, muscles, nerves and connective tissue of the spine and pelvis.
 
- Here is a summary of the key points:
+ 
 
 - Stenosis refers to narrowing of the spinal canal or nerve root canals in the spine. It can cause pain, numbness, and weakness.
 

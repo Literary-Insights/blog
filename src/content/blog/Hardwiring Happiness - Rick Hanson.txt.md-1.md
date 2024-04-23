@@ -29,7 +29,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 The main messages are: (1) the brain evolved a negativity bias for survival but this tendency causes suffering today;  and (2) We can use our mind and conscious cultivation of positive experiences to overcome this negativity bias by building neural pathways for greater happiness, inner peace, and well-being. Positive experiences become more salient and rewarding over time through the process of taking in the good.
 
- Here is a summary of the key points:
+ 
 
 • The human brain has evolved multiple operating systems to help meet our core needs for safety, satisfaction, and social connection. These systems can function in either a responsive mode or a reactive mode.
 
@@ -47,7 +47,7 @@ The main messages are: (1) the brain evolved a negativity bias for survival but 
 
 Does this summary accurately capture the essence of the concepts and arguments presented? Please let me know if you would like me to clarify or expand on any part of this summary.
 
- Here is a summary of the key points:
+ 
 
 • Look for good facts in your life—things that are pleasing, helpful, went well, or weren’t as bad as expected. Notice details you normally miss. Finding good facts is a skill that improves with practice.
 

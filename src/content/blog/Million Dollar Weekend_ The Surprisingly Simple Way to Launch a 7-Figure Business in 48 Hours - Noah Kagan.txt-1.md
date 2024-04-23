@@ -203,7 +203,7 @@ So in summary, the person advocated for using online marketplaces and social med
 
 The main message is that social media should be used to authentically build genuine connections with a small group of "true fans" over the long run, rather than trying to amass a large following quickly. This results in a powerful community that can significantly help and support your ventures through both funding and word-of-mouth. It emphasizes quality over quantity and the value of patience.
 
- Here are the key points:
+ 
 
 - The author explains that their success was possible because they put themselves out there publicly, including failures. For example, Seth Godin responded to one of their blog posts, enabling them to meet. They also got a job at Mint because of building their profile publicly. 
 

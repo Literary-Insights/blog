@@ -171,7 +171,7 @@ The signal travels through the feed horn which increases the signal strength. Th
 
 - The subsurface ocean and potential habitability make Europa an intriguing target in the search for life elsewhere in the solar system. However, penetrating the thick icy crust to sample the ocean remains a major technological challenge.
 
- Here is a summary of the key points:
+ 
 
 - Saturn has a prominent ring system made up of countless chunks of almost pure water ice orbiting the planet. The rings include the bright A ring and B ring, as well as fainter outer rings like the E ring. 
 
@@ -273,7 +273,7 @@ The signal travels through the feed horn which increases the signal strength. Th
 
 - Eventually all the core's fuel is exhausted. For the Sun, it will become a red giant in about 5 billion years, potentially engulfing Mercury, Venus, and maybe Earth before shrinking again.
 
- Here is a summary of the key points:
+ 
 
 - Medium-mass stars like the Sun end their lives as faint planetary nebulae that gradually fade, leaving behind white dwarf stars. 
 
@@ -489,7 +489,7 @@ So in summary, the first satellite to orbit Earth was Sputnik, launched by the S
 
 - Other space telescopes study high-energy phenomena like X-rays, gamma rays using specialized designs like grazing-incidence mirrors due to interactions of these wavelengths with normal mirrors.
 
- Here is a summary of the key points:
+ 
 
 - The Hubble Space Telescope (HST) revolutionized our understanding of the universe by taking high-quality images from its location in low Earth orbit, unhindered by the Earth's atmosphere. 
 

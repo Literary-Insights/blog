@@ -370,7 +370,7 @@ The key message is that without self-awareness and ego management, success often
 
 The summary highlights the key themes around self-management, leadership, and why DeLorean's company failed due to his poor management and Eisenhower's success due to his organization and delegation. The ego, entitlement, control and paranoia are flagged as toxic behaviors that undermine effectiveness. And the conclusion emphasizes that talent and skill must be paired with self-management and leadership for great and lasting success.
 
- Here are the key points:
+ 
 
 • Becoming a great leader is difficult. It requires managing yourself and others, which often means overcoming your ego and selfish tendencies. 
 

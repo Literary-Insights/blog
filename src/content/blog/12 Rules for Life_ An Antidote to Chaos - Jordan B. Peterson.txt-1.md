@@ -452,7 +452,7 @@ Importantly, further experiments found that the level of cheating did not increa
 
 - The results contradict theories that dishonesty increases with a lower likelihood of getting caught. Vendors and taxi drivers showed ethical and benevolent behaviors even when it was easy to cheat the blind researcher without consequence. This suggests that humans are influenced by more than just rational self-interest.
 
- Here are the key points:
+ 
 
 - The passage summarizes research showing dishonesty is more complex than a simple cost-benefit analysis. Small amounts of cheating still occur even when the probability of getting caught is high. 
 
@@ -580,7 +580,7 @@ In a second experiment, participants were depleted using a Stroop task where col
 
 - Occasionally, depletion can be beneficial by allowing a release from control. However, this should not be used as an excuse for the regular temptation to succumb. Understanding depletion helps navigate life's difficult choices.
 
- Here is a summary of the key points from the provided text:
+ 
 
 - The author attends a talk at Harper's Bazaar magazine and is gifted an authentic Prada bag. This makes him aware of how carrying a designer brand can subtly influence one's confidence and presentation of self. 
 

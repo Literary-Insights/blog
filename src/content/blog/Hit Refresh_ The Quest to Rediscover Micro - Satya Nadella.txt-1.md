@@ -319,7 +319,7 @@ The author also shares reflecting on their experience as an immigrant and facing
 
 - Analysts believe virtual/mixed reality technologies are 5-10 years from mainstream adoption, but HoloLens provides an early glimpse of the potential in fields like education, healthcare, and more.
 
- Here is a summary of the key points:
+ 
 
 - Experience in mixed reality must allow for three types of interactions: input of analog data, output of digital data, and haptics/touch feedback. 
 
@@ -535,7 +535,7 @@ In summary, while industrial robots may initially reduce some jobs, new complex 
 
 - For developing nations, AI and digital technologies can play a vital role in economic development if barriers to access and skills are addressed. This includes using technologies to boost productivity, healthcare, education and more.
 
- Here is a summary of the key points:
+ 
 
 - ina, 86, 195, 220, 222, 229, 232, 236 refer to page numbers in a source text. 
 

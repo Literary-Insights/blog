@@ -121,7 +121,7 @@ The key points focus on understanding the business, conducting analysis, decidin
 
 - Businesses need to assess actual demand for their products/services through objective research, not just enthusiasm. Factors like price sensitivity, distribution channels and product benefits should be considered. Oversupplying can drive down prices and reduce profits.
 
- Here is a summary of the key points:
+ 
 
 - Assessing demand is important to identify if there is enough demand for your business idea to be viable and profitable. 
 
@@ -255,7 +255,7 @@ The key things to identify are the essential startup purchases, whether certain 
 
 - Calculations are needed to determine if the business concept is financially viable and when it may start generating enough income for you to live on. Reality checking is important given many uncertainties when a business is new.
 
- Here is a summary of the key points:
+ 
 
 - There are different types of funding available for a new business, including using personal savings/income (bootstrapping), taking on debt through loans or credit cards, crowdfunding, and getting equity investment. 
 
@@ -358,7 +358,7 @@ Fintech companies utilize digital technology to offer cheaper financial services
 
 - Even if an owner can currently run things alone, they should consider how hiring a manager may help as the business continues to grow in the future.
 
- Here is a summary of the key points:
+ 
 
 one boss. The
 
@@ -594,7 +594,7 @@ The overall aim is recruiting the right people, clearly communicating expectatio
 
 - Well-managed supply chains and optimized processes can significantly boost revenue, save costs, and increase business performance over time. Continuous improvement is important.
 
- Here is a summary of the key points:
+ 
 
 - Businesses should regularly review their processes to stay competitive and meet customer expectations. Making continuous improvements over time is better than sporadic "step changes". 
 
@@ -622,7 +622,7 @@ Expanding a business involves diversifying or growing operations beyond the orig
 
 The right time to expand is usually when organic growth starts slowing down. However, expanding too quickly can strain resources if not managed properly. Businesses need to prepare infrastructure, personnel, capital, and delegating structures to support expansion plans. The goal is to maximize growth potential while avoiding issues like lost customer focus, overworked staff, or cash flow problems from expanding too rapidly. Overall expansion is a bigger step than regular growth and requires thorough research, planning and execution.
 
- Here is a summary of the key points:
+ 
 
 - Crossing borders physically or online can provide opportunities but also logistical challenges. 
 
@@ -690,7 +690,7 @@ The right time to expand is usually when organic growth starts slowing down. How
 
 So in summary, the main types differ in who bears the investment risk (employer or member), how the benefit is determined, and whether they are provided through the state, employer or individually. Employers should set aside regular contributions/savings to fund pensions.
 
- Here is a summary of the key points:
+ 
 
 - QuickBooks, FreshBooks, and NetSuite are common bookkeeping systems that help keep finances organized. 
 
@@ -702,7 +702,7 @@ So in summary, the main types differ in who bears the investment risk (employer 
 
 - Basic bookkeeping, marketing/advertising, and market research were identified as important areas for small businesses to focus on. Using the right tools can help businesses in these key areas as they grow and expand.
 
- Here is a summary of the key points:
+ 
 
 - Recruiting includes job descriptions, induction plans, and retaining talent through flexibility, investing in teams, and rewarding staff. 
 

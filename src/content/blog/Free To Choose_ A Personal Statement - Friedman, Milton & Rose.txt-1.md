@@ -101,7 +101,7 @@ Prices enable this complex cooperation without central planning. When buyers and
 
 - Government is a form of voluntary cooperation but also has a monopoly on legitimate use of force, and its role in using force to impose restraints has changed over time and societies.
 
- Here is a summary of the key points:
+ 
 
 - Adam Smith argued that the role of government should be limited to three main duties: protecting society from external threats, protecting citizens from injustice/oppression by others in society, and providing certain public goods that private markets cannot efficiently provide. 
 
@@ -179,7 +179,7 @@ In summary, the key fallacy is looking at wages in isolation rather than real st
 
 - Eliminating trade barriers is the most effective way to ensure competition, as it opens domestic markets to competition from foreign producers on a global scale. This makes the establishment of monopolies or cartels much more difficult.
 
- Here is a summary of the key points:
+ 
 
 - The passage argues that central economic planning tends to lead to tyranny and controls over the economy and citizens, while limiting individual freedom and living standards. Countries with free markets and private enterprise tend to prosper more with higher living standards and more individual freedom and control over destiny. 
 
@@ -223,7 +223,7 @@ In summary, the key fallacy is looking at wages in isolation rather than real st
 
 - In response, Congress established the Federal Reserve System in 1913 to serve as the nation's central bank and lender of last resort, aiming to prevent future panics and recessions through monetary policy management. However, failures of Federal Reserve policy would later contribute to the onset of the 1929 depression.
 
- Here is a summary of the key points:
+ 
 
 - In the banking panic of 1907, many depositors tried to withdraw their deposits from banks all at once due to fears of bank insolvency. This led to "bank runs" as everyone tried to get their money out before banks failed. 
 
@@ -267,7 +267,7 @@ In summary, the key fallacy is looking at wages in isolation rather than real st
 
 - Repeated failures to act aggressively contributed to multiple banking panics in 1931-1933 until the eventual bank holiday was declared under Roosevelt in March 1933.
 
- Here is a summary of the key points:
+ 
 
 - The monetary stock (deposits and currency) drastically declined during the Great Depression, falling from $3 per person in 1929 to less than $2 per person in 1933. This monetary collapse was unprecedented. 
 
@@ -311,7 +311,7 @@ New York City tried to meet every social need through expansive government progr
 
 It concludes the largest US welfare program, Social Security, faces complaints about inadequate benefits, heavy payroll taxes, and projections that current funding cannot sustain projected obligations into the future given America's aging population. Both public assistance and Social Security costs have grown substantially over time.
 
- Here is a summary of the key points:
+ 
 
 - In 1978, Social Security payments totaled more than $130 billion and were made to over 40 million recipients for retirement, disability, unemployment, hospital/medical care and survivor benefits. Additional public assistance payments of over $40 billion went to over 17 million recipients. 
 
@@ -325,7 +325,7 @@ It concludes the largest US welfare program, Social Security, faces complaints a
 
 So in summary, the author criticizes the misleading framing of Social Security and argues it represents an unsustainable transfer system rather than true insurance.
 
- Here is a summary of the key points:
+ 
 
 - Social Security is a large program benefiting the middle class that is financed by taxes paid partly by the poor and wealthy. It fits Director's Law that public programs mainly benefit the middle class. 
 
@@ -455,7 +455,7 @@ This passage discusses the problem of increasing bureaucratization and centraliz
 
 So in summary, the key difference is around who has control - centralized administration vs empowering parental choice through a portable voucher system.
 
- Here is a summary of the key points:
+ 
 
 - Currently, taking a child out of public school and putting them in private school saves taxpayers $2,000 per year, but parents have to pay private school tuition on top of their taxes. This creates an incentive to keep children in public schools. 
 
@@ -471,7 +471,7 @@ So in summary, the key difference is around who has control - centralized admini
 
 Overall, the voucher plan aims to increase school choice for parents while addressing financial barriers to choosing private school over public school.
 
- Here is a summary of the key points:
+ 
 
 (1) The possibility of fraud in redeeming vouchers for cash instead of schooling. The voucher system aims to curb fraud by only allowing vouchers to be redeemed at approved schools for school-related costs, not converted to cash. This would reduce but not eliminate all fraud.  
 
@@ -583,7 +583,7 @@ So in summary, it traces the rise of consumer protection regulations but argues 
 
 - ICC granted few new trucking licenses and recently blocked new competitive authority, protecting existing firms from competition. Trucking certificates became valuable assets. Studies showed deregulation would drastically lower shipping costs.
 
- Here is a summary of the key points:
+ 
 
 - The passage criticizes the ICC (Interstate Commerce Commission) for "sitting on its hands doing nothing" and stifling free enterprise and competition in the transportation industry. 
 
@@ -677,7 +677,7 @@ So in summary, the passage disputes that unions or government were the main driv
 
 - By limiting supply of certain jobs, unions drive up wages for their members but reduce availability of those jobs overall. The gains for union members come at the expense of other workers who are pricing out of those jobs or forced to settle for lower paying alternatives.
 
- Here is a summary of the key points:
+ 
 
 - Unions aim to raise wages for their members, but this usually comes at the expense of reducing wages for non-union workers. Higher wages for some groups means lower wages for others. 
 
@@ -791,7 +791,7 @@ Now, the passage argues, this tide has crested. Government failures and negative
 
 While the new tide has not been clearly defined yet, in favor of either more freedom or greater government control, the author argues public opinion will determine its direction first, and policy will follow. Significant examples are given of how intellectual climate of opinion has strongly influenced major policy changes and interpretations of institutions like the US Constitution over time. Evidence that the liberal tide is receding includes how people are now finding ways around government obstacles.
 
- Here is a summary of the key points:
+ 
 
 - Pat Brennan started a private delivery service in Rochester called messengers that delivered mail and packages around the city at a lower cost than the US Postal Service. 
 
@@ -889,7 +889,7 @@ So in summary, it aims to constitutionally cap federal spending increases based 
 
 So overall income increased in the lower two brackets but decreased significantly in the highest income bracket of $10,000 and over.
 
- Here is a summary of the key points:
+ 
 
 - Salvador Allende was the democratically elected Marxist president of Chile who was overthrown in a 1973 coup. 
 

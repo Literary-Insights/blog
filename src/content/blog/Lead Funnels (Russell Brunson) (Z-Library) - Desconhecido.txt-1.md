@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points:
+ 
 
 - A lead funnel is a marketing strategy that generates leads but also builds trust, grows an email list, builds relationships, converts leads to customers, recoups ad costs, and helps customers upgrade their purchase over time. 
 
@@ -49,7 +49,7 @@ BOOK LINK:
 
 - The key is to attract leads with a valuable free offer, build trust by delivering on promises, then make offers to convert those leads into paying customers and grow the customer base over time.
 
- Here is a summary of the key points:
+ 
 
 - Lead magnets are free digital products (ebooks, checklists, reports, etc.) that are given away in exchange for someone's email address. This starts building an email list. 
 
@@ -292,7 +292,7 @@ Thank you for the opportunity to receive an estimate from a local tree service c
 
  To receive one chance to spin the "Discount Wheel" to see if you get a discount on your purchase.
 
- Here is a summary of the key points:
+ 
 
 - The page shares multiple lead magnet templates for marketing campaigns, including headlines, stories, and offers for each template. 
 

@@ -119,7 +119,7 @@ How's that summary? Let me know if you would like me to expand on or modify any 
 
 In summary, the main message is to get started by leveraging your talents and interests, even without a clear plan. Stay flexible and keep iterating as you go, focusing your time and energy in a way that reflects your full potential.
 
- Here is a summary of the key points:
+ 
 
 • To succeed, play the game in a way that leverages your strengths. Sometimes this means reinventing the game altogether. 
 
@@ -159,7 +159,7 @@ The main message here regarding passion is that truly pursuing your goals requir
 
 Hope this summary helps! Let me know if you have any other questions.
 
- Here is a summary of the key points:
+ 
 
 • Pursuing your passions and doing work that aligns with your values and interests is important for meaning and fulfillment in life. 
 
@@ -201,7 +201,7 @@ The key themes are the importance of avoiding narrow focus, seeking failure as a
 
 In summary, the key message is to avoid getting stuck when facing uncertainty. Move forward by focusing on the right motivators and maintaining an open, balanced view of events rather than rushing to judge them as purely good or bad luck. Much of life unfolds through chance, so make the most of opportunities and deal with challenges as they arise.
 
- Here is a summary of the key points:
+ 
 
 1. Focus on doing a few important things well rather than trying to do everything. Comparing it to a buffet, choosing too many priorities leads to feeling "frantic, depleted, and overwhelmed."
 
@@ -233,7 +233,7 @@ In summary, the main message is that planning ahead and looking 10 feet in front
 
 In a fast-paced world, it's important to be intentional and selective about what you give your attention to. Trying to keep up with all the information and speed of the modern world is counterproductive and risky. You need to learn to say "no" to articles, emails and calls that are not priorities in order to stay grounded and focus on what's truly important. This requires being willing to miss out on some information, but focusing only on what matters most helps avoid exhaustion, confusion and missing important things right in front of you.
 
- Here is a summary of the key points:
+ 
 
 1. Decide when and where you are going to do something to increase the likelihood that you will actually do it. Having a specific time planned helps turn intentions into actions.
 
@@ -380,7 +380,7 @@ In summary, intrinsic motivation and our self-concept play an important role in 
 
 In summary, the three question test is proposed as a way for you to appropriately decide when to say "yes" to requests from others, in order to maximize your productivity and value.
 
- Here is a summary of the key points:
+ 
 
 1. Wait until something happens three times before addressing it. This gives the other person the benefit of the doubt that the first instance may have been an accident or oversight. 
 
@@ -396,7 +396,7 @@ In summary, the three question test is proposed as a way for you to appropriatel
 
 In summary, waiting until the third instance strikes a good balance between being overly permissive or overly critical. It allows for some grace while still addressing problems that emerge as actual trends.
 
- Here is a summary of the key points:
+ 
 
 • Short transition times can actually be productive if used to plan and prepare for the next task or activity. Taking a few minutes before a meeting or call to think about how to make it shorter and more effective can improve its outcome.
 

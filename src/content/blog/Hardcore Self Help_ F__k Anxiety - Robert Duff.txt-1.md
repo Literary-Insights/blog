@@ -35,7 +35,7 @@ BOOK LINK:
 
 So in summary, it provides an accessible introduction to understanding anxiety from a biological and psychological perspective, along with practical non-clinical suggestions for overcoming anxious feelings and thoughts.
 
- Here is a summary of the key points:
+ 
 
 - The chapter introduces the cognitive triangle - how thoughts, feelings and behaviors influence each other. Unhelpful thinking patterns (cognitive distortions) can lead to negative feelings and behaviors.
 
@@ -47,7 +47,7 @@ So in summary, it provides an accessible introduction to understanding anxiety f
 
 The key idea is that recognizing how our thinking impacts our emotions and actions is an important part of addressing anxiety through cognitive behavior therapy techniques. Spotting cognitive distortions can help gain insights on mental "douchebaggery" and how to counteract anxious patterns.
 
- Here is a summary of the key points:
+ 
 
 - The cognitive triangle (A-B-C model) is used to break down anxiety-provoking situations into the activating event (A), beliefs about the event (B), and emotional consequences (C). This helps identify maladaptive thoughts that are fueling anxiety. 
 
@@ -83,7 +83,7 @@ The key is finding a balance - using technology to support anxiety management go
 
 While technology offers benefits, the chapter cautions that it's important for mental health to not let it completely take over one's life and disrupt important activities like sleep, meals, relaxation and breaks from work/information flow. Awareness of personal habits and impacts is presented as the first step to making positive changes.
 
- Here is a summary of the key points:
+ 
 
 - The chapter discusses various anxiety disorders including generalized anxiety disorder (GAD), panic disorder (PD), and phobias. 
 
@@ -117,7 +117,7 @@ Key points made in the sample letter include:
 
 The chapter aims to help those with anxiety better communicate their experience to people who don't understand the disorder or its impact.
 
- Here is a summary of the key points:
+ 
 
 - Therapy can help many people with anxiety in different ways, such as changing unhelpful thought patterns, understanding the roots of anxiety, and learning new behaviors. However, it's not necessary for everyone - some can find relief through self-help methods alone. 
 
@@ -131,7 +131,7 @@ The chapter aims to help those with anxiety better communicate their experience 
 
 - College counseling centers and training clinics offer lower-cost options. Insurance directories can help find in-network providers in the community. Online searches allow filtering by specialty or approach. Confidentiality rules protect privacy even if the therapist is encountered elsewhere on campus.
 
- Here is a summary of the key points:
+ 
 
 - The chapter discusses options for therapy if someone does not have insurance, such as looking for therapists that offer sliding scale fees based on income or free community resources. 
 
@@ -145,7 +145,7 @@ The chapter aims to help those with anxiety better communicate their experience 
 
 So in summary, the chapter discusses affordable therapy and medication options, and encourages the reader to get pumped and take actionable steps towards managing their anxiety through skill-building.
 
- Here is a summary of the key points:
+ 
 
 - Resources mentioned for self-improvement include elfhelp.com, following psychologist Duff the Psych on Twitter and liking his Facebook page. 
 

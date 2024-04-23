@@ -55,7 +55,7 @@ This illustrates how determining the real stakes or "pie" in a negotiation requi
 
 The key takeaway is to focus on the pie - the additional value created by cooperation. Splitting this fairly requires looking beyond superficial splits like proportionate or halfway offers. The pie perspective provides a principled rationale for an even split.
 
- Here is a summary of the key points:
+ 
 
 - Anju used an example to convince Bharat that his proposed proportional division of interest was not fair. She showed that if a $25,000 CD paid 2% interest, proportional division would give Bharat all the extra interest while Anju did the work to make that extra interest possible. 
 
@@ -81,7 +81,7 @@ The key takeaway is to focus on the pie - the additional value created by cooper
 
 The key is to separate the independent value of the BATNA from the negotiated value of the pie. A weak BATNA hurts you, but not because it reduces your power or fair share of the pie. The negotiation itself depends solely on splitting the pie evenly.
 
- Here is a summary of the key points:
+ 
 
 - In a two-party negotiation, each side contributes equally to creating the pie (total value), even if their individual contributions look very different. Their contributions are equally essential for the deal to happen.
 
@@ -95,7 +95,7 @@ The key is to separate the independent value of the BATNA from the negotiated va
 
 - Extreme ratios like Coke's 2000:1 purchasing power show the absurdity of proportional divisions. Both sides' contributions are essential for the savings, even if one brings more resources.
 
- Here is a summary of the key points:
+ 
 
 - Barry Nalebuff co-founded Honest Tea with Seth Goldman in the late 1990s. After 10 years, it was still a small company doing around $20 million in annual sales. 
 
@@ -109,7 +109,7 @@ The key is to separate the independent value of the BATNA from the negotiated va
 
 - The pie splitting deal enabled the rapid growth of Honest Tea over the following decade after Coke acquired the remainder of the company.
 
- Here is a summary of the key points:
+ 
 
 - Contracts sometimes get broken, resulting in lawsuits and disputes over damages. The pie approach can help resolve these conflicts by determining fair damages and providing incentives to minimize losses. 
 
@@ -139,7 +139,7 @@ The key is to separate the independent value of the BATNA from the negotiated va
 
 - In general, properly splitting the pie requires accounting for effort costs in expanding the pie.
 
- Here is a summary of the key points:
+ 
 
 - The pie framework for thinking about negotiations is still relatively novel and not widely used. Most people rely on simple heuristics or default approaches that often lead to unfair splits.
 
@@ -177,7 +177,7 @@ The key is starting with a shared understanding that power is equal and the goal
 
 - The key is reaching an agreement, since a "no deal" destroys pie. Arbitrary traditional approaches to splitting pie are unfair and make agreements harder. The pie-splitting approach aims to be principled and fair to facilitate agreement.
 
- Here is a summary of the key points:
+ 
 
 - We often face the challenge of figuring out how to share costs fairly when parties are in unequal positions, such as splitting vacation costs when couples use different numbers of bedrooms. 
 
@@ -193,7 +193,7 @@ The key is starting with a shared understanding that power is equal and the goal
 
 - Splitting the pie fairly is relevant not just for interpersonal negotiations but also for cost-sharing between companies and even countries. It provides a principled method for treating unequal parties equally.
 
- Here is a summary of the key points:
+ 
 
 - Small examples like splitting an expense report or Uber ride illustrate how to apply logic and fairness when dividing costs. These simple cases provide lessons that apply to dividing large infrastructure costs. 
 
@@ -237,7 +237,7 @@ The author provides examples of how this pie approach could work for companies n
 
 - The core principle remains splitting the pie evenly, just generalized to account for differences in how the pie is valued by each side. Caring more doesn't have to lead to getting less.
 
- Here is a summary of the key points:
+ 
 
 - In some negotiations, the size of the pie is uncertain as it has not yet materialized. This creates problems because one side may have better information about the potential pie size and take advantage. Even when both sides are equally uncertain, agreeing on a division today means one side will likely end up with more than half once the pie's actual size is revealed.
 
@@ -249,7 +249,7 @@ The author provides examples of how this pie approach could work for companies n
 
 - Ex post splits require trust in the other party's good faith and accurate reporting. If the pie size is not objectively verifiable, one side may lie about the true size to claim a bigger share. The solution is to build in objective verification through open books, audits, or linking payouts to objective metrics.
 
- Here is a summary of the key points:
+ 
 
 - When splitting a pie of uncertain value, it is better to agree on a contingent split based on the eventual outcome rather than try to estimate the value upfront. This avoids the risk of an uneven split if the value turns out differently than expected. 
 
@@ -261,7 +261,7 @@ The author provides examples of how this pie approach could work for companies n
 
 - Overall, contingent splits based on realized value allow parties to split an uncertain pie evenly ex post. This is better than having to commit to splits ex ante without knowing the pie size. It removes the risk of a bad split resulting from information gaps between the parties.
 
- Here is a summary of the key points:
+ 
 
 - In a "merger of equals", the two companies split the synergistic gains in proportion to their pre-merger sizes, not 50/50. This means the larger company gets more of the gains. 
 
@@ -309,7 +309,7 @@ In summary, the author argues for splitting synergistic gains in M&A deals evenl
 
 The key is figuring out the probable fallback pairs to determine BATNAs when negotiating a complex multi-party deal. Logical analysis of interests and incentives helps identify the likely combinations.
 
- Here is a summary of the key points:
+ 
 
 - With 3 or more parties, if they can't reach an agreement, the likely fallback is a smaller subset of parties reaching a deal instead.
 
@@ -351,7 +351,7 @@ C pays full cost of the third segment
 
 - The ideas extend to other negotiations like a buyer with multiple sellers or a seller with multiple buyers.
 
- Here is a summary of the key points:
+ 
 
 - In multi-party negotiations, one party can end up being used as a "pawn" to help another party get a better deal, without receiving any benefits themselves. This happened to Holland Sweetener when it entered the aspartame market to compete with NutraSweet, but ended up only getting a tiny amount of business from Coke and Pepsi while Monsanto kept most of the business.  
 
@@ -385,7 +385,7 @@ The key is figuring out what the other side really values, not just what they ar
 
 The key point is that to get what you want in a negotiation, it helps to understand what the other side wants and try to give it to them. This motivates them to reach a deal. Michael, the seller of a gas station, made the mistake of basing the price on the cost of his dream sailing trip, rather than the market value of the station. The buyer, Meghan, didn't care about funding his trip and got annoyed. If Meghan had been more curious about Michael's plans, she could have offered him a job upon his return, which would have lowered the sales price while still allowing him to afford the trip. The lesson is that by understanding the other side's interests and finding creative ways to satisfy them, you can often grow the pie and achieve better outcomes for both parties. Focus on understanding the other party's desires, not just stating your own position.
 
- Here is a summary of the key points:
+ 
 
 - Reaching an agreement requires giving the other side what they want so you can get what you want. 
 
@@ -433,7 +433,7 @@ In summary, the core issue is the parties see different pies due to disagreeing 
 
 - Instead of procedural fairness, the focus should be on reaching a substantively fair outcome based on the true merits and value to each side.
 
- Here is a summary of the key points:
+ 
 
 - Daylian Cain is an expert on business ethics and poker. His research shows that disclosing conflicts of interest can paradoxically make the problem worse - people feel more justified acting in their self-interest after disclosing and others don't sufficiently discount their biased advice. 
 
@@ -449,7 +449,7 @@ In summary, the core issue is the parties see different pies due to disagreeing 
 
 In summary, validating the other side's perspective before redirecting is an effective negotiation technique recommended by Daylian Cain. It applies whether you are negotiating with a child or a counterpart.
 
- Here is a summary of the key points:
+ 
 
 - When presenting a new solution, lead with the part the other side will like rather than the part you like. Get their attention first before delivering any bad news. 
 
@@ -461,7 +461,7 @@ In summary, validating the other side's perspective before redirecting is an eff
 
 - In general, be more allocentric (focused on the other side's interests) rather than egocentric (focused on your own interests) when presenting an offer or solution. Highlight why it's good for them before highlighting why it's good for you.
 
- Here is a summary of the key points:
+ 
 
 - To get the other side's attention and motivate them to consider your proposal, focus on conveying why the result is a win for them. Think about how they will explain the agreement to their own stakeholders.
 
@@ -491,7 +491,7 @@ In summary, validating the other side's perspective before redirecting is an eff
 
 - Take the other side's perspective to best anticipate their arguments and counter them. Imagine representing them first before representing yourself.
 
- Here is a summary of the key points:
+ 
 
 - To understand the other side's perspective, you need to move away from seeing things only from your own perspective. Adopt an "allocentric" view that considers the other side's viewpoint. 
 

@@ -93,7 +93,7 @@ Some key points:
 
 So in summary, the passage discusses strategies a teacher can use like creating a conceptual mind map to help a struggling student by identifying gaps in prerequisite knowledge and teaching topics incrementally from basic to more advanced. This makes the material more comprehensible for the student.
 
- Here is a summary of the key points:
+ 
 
 - Organizing information in a visual concept map or outline is useful for teaching complex topics in a structured way. It breaks the topic down into manageable subunits and shows their relationships/connections.
 
@@ -149,7 +149,7 @@ The goal of this method is to be an active, focused reader who understands relat
 
 - Both SQ3R and Bloom's taxonomy promote active, engaged learning over passive reading. They structure the learning process to build expertise over time.
 
- Here is a summary of the key points:
+ 
 
 - Spaced repetition, or distributed practice, involves spacing out studying/rehearsal of material over time rather than cramming. This is better for memory retention as it allows time for neural connections to form and strengthen. 
 
@@ -163,7 +163,7 @@ The goal of this method is to be an active, focused reader who understands relat
 
 So in summary, spaced repetition spacing out study in short sessions over multiple days is an effective evidence-based technique for improving memory and retention of information.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses the Cornell Note-taking system, which is a format for organizing notes that is intended to help with recall and review. 
 
@@ -185,7 +185,7 @@ So in summary, the Cornell system provides a structured format for organizing no
 
 Taking effective notes requires actively engaging with course material through techniques like annotating texts with questions and comments, setting reading goals, and linking new concepts to prior knowledge in order to deeply process and retain information.
 
- Here is a summary of the key points:
+ 
 
 - Problem-based learning (PBL) is an instructional approach where students learn through solving complex, real-world problems. It contrasts with more traditional approaches where material is presented in a linear fashion. 
 
@@ -229,7 +229,7 @@ Taking effective notes requires actively engaging with course material through t
 
 So in summary, the Socratic Method involves thoughtful, open-ended questioning to stimulate critical examination of ideas, reasoning and assumptions in order to promote deeper understanding and identify gaps or flaws in logic. It represents an important approach to developing strong critical thinking skills.
 
- Here is a summary of the key points:
+ 
 
 - Critical thinking refers to the process of learning rather than just absorbing content. It involves questioning assumptions, being open-minded, and approaching ideas skeptically rather than accepting them at face value. 
 
@@ -295,7 +295,7 @@ The key is giving students opportunities to actively engage with and apply the l
 
 - Gamifying content delivery methods rather than just content itself enhances psychological satisfaction and cognitive retention by tapping into intrinsic human drives to be productive and challenge ourselves in an engaging way. This means learning doesn't need to feel like a serious chore.
 
- Here is a summary of the key points:
+ 
 
 - Gamification in the classroom uses game-like elements and principles to motivate students and make learning more engaging and fun. It encourages an active, discovery-based approach to learning rather than passive absorption of content. 
 

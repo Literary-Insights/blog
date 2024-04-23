@@ -37,7 +37,7 @@ BOOK LINK:
 
 - The book shares scientific insights into how to implement these four ingredients to self-motivate.
 
- Here is a summary of the key points:
+ 
 
 - Powerful goals energize us and pull us toward achieving our desires. They feel exciting, not like chores. 
 
@@ -51,7 +51,7 @@ BOOK LINK:
 
 - Powerful goals feel worth the effort and price tag. They pull us toward our greatest wishes. But we must set them wisely, considering if they are right for our circumstances.
 
- Here is a summary of the key points:
+ 
 
 - We dislike paying for means (e.g. parking, shipping) rather than ends. Companies try to hide means costs to make deals seem better. 
 
@@ -83,7 +83,7 @@ BOOK LINK:
 
 In summary, putting a quantifiable number on your goals makes them more concrete, accountable, and motivating. Choose numbers wisely based on your unique situation.
 
- Here is a summary of the key points:
+ 
 
 - Numerical targets (e.g. save $10,000) are a common and effective tool for motivation. They pull us toward a goal and help us monitor progress. 
 
@@ -97,7 +97,7 @@ In summary, putting a quantifiable number on your goals makes them more concrete
 
 - Overall, numerical targets motivate us by pulling us toward them. We work hard to avoid the disappointment of falling short.
 
- Here are the key points:
+ 
 
 - People often set early deadlines to motivate themselves to start working sooner. In a study, students who expected a difficult assignment and set earlier deadlines finished earlier than those who expected an easy assignment. 
 
@@ -125,7 +125,7 @@ In summary, putting a quantifiable number on your goals makes them more concrete
 
 - Incentives are most effective when used thoughtfully and sparingly. Make sure they don't become the sole motivator or overshadow the end goal.
 
- Here is a summary of the key points:
+ 
 
 - Radical behaviorists believed that human behavior could be fully explained and predicted by understanding a person's history of incentives and rewards. Though modern psychologists no longer subscribe to this view, research on incentives stems from behaviorism. 
 
@@ -161,7 +161,7 @@ In sum, well-designed incentives require rewarding the right behaviors, in moder
 
 - Incentives can backfire when they dilute the original purpose of an activity. Before adding incentives, consider whether they will support or overshadow your original goal.
 
- Here are the key points:
+ 
 
 - Incentives can sometimes obscure people's true motivations and goals. Children in particular may misattribute their motivation to an external incentive rather than their inherent enjoyment. 
 
@@ -191,7 +191,7 @@ In sum, well-designed incentives require rewarding the right behaviors, in moder
 
 - Harnessing intrinsic motivation is key for goal success, whether it's exercise, work, hobbies, or any other goal. Finding ways to increase enjoyment and excitement of the process makes goals easier to stick to.
 
- Here is a summary of the key points:
+ 
 
 - Intrinsic motivation refers to doing an activity for its own sake rather than as a means to an end. The more an activity feels like an end in itself, the more intrinsically motivated you are to do it.
 
@@ -229,7 +229,7 @@ In sum, well-designed incentives require rewarding the right behaviors, in moder
 
 - Myths persist that others don't care as much about intrinsic motivation and that we'll care less in the future. But awareness of these myths helps us connect better to others and set more achievable goals.
 
- Here is a summary of the key points:
+ 
 
 - We tend to see ourselves as more intrinsically motivated than others. This "better-than-average" effect is particularly strong when it comes to intrinsic motivation like learning, enjoyment, and meaning. 
 
@@ -243,7 +243,7 @@ In sum, well-designed incentives require rewarding the right behaviors, in moder
 
 - Ask yourself questions like how you can make a goal more fun and immediately rewarding. This will lead to wiser goal setting and behavior.
 
- Here is a summary of the key points:
+ 
 
 - Progress is a powerful motivator. The more progress you make toward a goal, the more motivated you become to keep pursuing it. This is known as the "goal gradient effect."
 
@@ -257,7 +257,7 @@ In sum, well-designed incentives require rewarding the right behaviors, in moder
 
 - Strategically framing progress is also key - focusing on how much you have left to do versus how far you've come can affect your motivation.
 
- Here is a summary of the key points:
+ 
 
 - All-or-nothing goals (like graduating college) are highly motivating as you get closer to completion because the reward is conditional on reaching the goal. In contrast, with accumulative goals (like exercising regularly) you gain benefits incrementally, so progress is less motivating. 
 
@@ -299,7 +299,7 @@ In sum, well-designed incentives require rewarding the right behaviors, in moder
 
 The key is to understand both dynamics and choose progress monitoring strategies that align with the predominant tendency. Matching approach to dynamic sustains motivation most effectively.
 
- Here is a summary of the key points:
+ 
 
 - There are two dynamics of goal motivation - consistency (like alcoholics pursuing sobriety) and balancing (like dieters allowing some splurging). Religious ideologies also differ in their prescribed dynamics. 
 
@@ -313,7 +313,7 @@ The key is to understand both dynamics and choose progress monitoring strategies
 
 The key distinction is between consistency versus balancing dynamics and between focusing on completed versus missing actions. The former impacts satisfaction and ambition while the latter impacts motivation and goal representation.
 
- Here are the key points:
+ 
 
 - Motivation often decreases in the middle stages of pursuing a goal. This "middle slump" is common as initial excitement fades before the satisfaction of completing the goal is reached.
 
@@ -339,7 +339,7 @@ The beginning and end of goal pursuit tend to be celebrated with parties and eve
 
 In the middle of pursuing a goal, it's easier for actions to go unnoticed by others and even yourself. People tend to remember beginnings and endings better than middles. Knowing the middle will be forgotten, people are more likely to relax standards and "cut corners" in the middle while maintaining higher motivation at the start and end. To keep motivation and ethics high even during long goal middles, we should find ways to make actions more visible and memorable to ourselves and others.
 
- Here is a summary of the key points:
+ 
 
 - In an experiment, people cut corners and made sloppier shapes when they were in the middle of a project of cutting out identical shapes. This demonstrates that people tend to lower standards or "cut corners" in the middle of goal pursuit. 
 
@@ -377,7 +377,7 @@ In the middle of pursuing a goal, it's easier for actions to go unnoticed by oth
 
 The key is to stay motivated, pay close attention, extract lessons, and use negative feedback productively as fuel for growth rather than as a judgment on your worth.
 
- Here is a summary of the key points:
+ 
 
 - Humans have a tendency called the "ostrich effect" where we avoid information that we think will make us feel bad, even if that information could help us make better decisions. For example, avoiding going to the doctor when you suspect you may get bad news.
 
@@ -391,7 +391,7 @@ The key is to stay motivated, pay close attention, extract lessons, and use nega
 
 - Two key strategies are: 1) Protect your ego by viewing failures as learning opportunities 2) Seek out and pay attention to failures, not just successes, as they often provide more useful information.
 
- Here is a summary of the key points:
+ 
 
 - Experiments by psychologist Martin Seligman showed that animals and humans can develop "learned helplessness" after repeated exposure to negative events they cannot control. This makes them passively accept negative outcomes rather than trying to avoid them.
 
@@ -417,7 +417,7 @@ The expert's main motivation is to explain how commitment to a goal and expertis
 
 In summary, the passage explores how commitment level and expertise shape reactions to negative feedback, with the goal of explaining how we can stay motivated despite mistakes or failures. The expert uses research evidence to shed light on this important motivational issue.
 
- Here is a summary of the key points:
+ 
 
 - We hear more about successes than failures, even when failures are equally or more common. This "asymmetry of information" is likely due to a human tendency to hide failures and present ourselves in a positive light.
 
@@ -449,7 +449,7 @@ In summary, the passage explores how commitment level and expertise shape reacti
 
 - Managing competing goals well involves assessing how they facilitate or inhibit each other and picking the right battles to focus on at the right times.
 
- Here is a summary of the key points:
+ 
 
 - Pandas enjoy eating bamboo more than humans enjoy anything, because bamboo fully satisfies pandas' hunger goal. In contrast, humans have many food options that serve additional goals beyond hunger, so no single food fully satisfies us.
 
@@ -463,7 +463,7 @@ In summary, the passage explores how commitment level and expertise shape reacti
 
 - In general, simple unifinal means tend to feel more "right" psychologically, even if logically multifinal means could achieve more goals. The dilution effect makes multifinal options seem less effective for each goal.
 
- Here are the key points:
+ 
 
 - People sometimes engage in harmful behaviors like self-harm or joining extremist groups because it helps them fit in and achieve a sense of belonging with a particular social group. Even though these behaviors undermine other goals like being healthy and safe, the need for belonging and significance can override those concerns.
 
@@ -493,7 +493,7 @@ In summary, the passage explores how commitment level and expertise shape reacti
 
 In summary, self-control involves making choices aligned with values and goals rather than momentary temptations. It is a learnable skill that can be strengthened over time through practice and the use of supportive strategies. A resilient, balanced approach helps people maintain self-control and progress toward their important aims.
 
- Here is a summary of the key points:
+ 
 
 - Self-control is needed when there is a clear conflict between what you want to do (temptation) and what you should do to achieve your goals. It is not needed for difficult decisions where both options have merit. 
 
@@ -507,7 +507,7 @@ In summary, self-control involves making choices aligned with values and goals r
 
 - Once a temptation is detected, behavioral science offers strategies to help battle temptation and strengthen self-control.
 
- Here is a summary of the key points:
+ 
 
 - Detecting temptation is easier if you consider the cumulative impact of giving in, rather than looking at each instance in isolation. For example, taking office supplies may seem trivial, but can add up over time. 
 
@@ -519,7 +519,7 @@ In summary, self-control involves making choices aligned with values and goals r
 
 - Envisioning your future self and long-term aspirations helps you take a broad view and resist temptation in the present. Feeling connected to your future self makes you care more about that person's welfare.
 
- Here are the key points:
+ 
 
 - Identifying a self-control conflict is the first step. When a choice threatens your goal, pay attention to detect the temptation. 
 
@@ -535,7 +535,7 @@ In summary, self-control involves making choices aligned with values and goals r
 
 - Overall, identifying self-control conflicts and being prepared to exercise self-control are key to battling temptation. Your identity and expectations determine how much self-control is needed.
 
- Here is a summary of the key points:
+ 
 
 - There are two main categories of self-control strategies: those that change the situation itself and those that change how we think about the situation. 
 
@@ -549,7 +549,7 @@ In summary, self-control involves making choices aligned with values and goals r
 
 - The key distinction is between strategies that change the external situation versus those that change your internal mindset. Both can help overcome self-control challenges.
 
- Here is a summary of the key points:
+ 
 
 - Exercising self-control is effortful and depleting, making it harder to resist temptation when exhausted. It's best to make decisions requiring self-control when your willpower is strongest. 
 
@@ -573,7 +573,7 @@ In summary, self-control involves making choices aligned with values and goals r
 
 - To be more patient, it's important to be self-aware about our tendencies and proactively put strategies in place. Planning ahead and forming habits can also help. Ultimately, patience is a skill that can be learned and improved over time.
 
- Here is a summary of the key points:
+ 
 
 - Apple's strategy of building anticipation for new products led to the creation of rumor sites like MacRumors that reveal details early to impatient tech fans. This shows that the longer the wait, the more value people assign to a product, but waiting is hard. 
 
@@ -609,7 +609,7 @@ In summary, self-control involves making choices aligned with values and goals r
 
 - Social support - Surround yourself with patient role models who can encourage patience in you. Their example can be motivating.
 
- Here is a summary of the key points:
+ 
 
 - Social support from others is critical for helping us stay motivated and achieve our goals, as the COVID-19 pandemic has made clear. 
 
@@ -639,7 +639,7 @@ In summary, working with others amplifies our motivation through role modeling, 
 
 - Overall, the presence of others, especially close others, powerfully shapes our own motivation through this psychological overlap and resulting conformity. We adopt others' preferences and pursue parallel goals, whether consciously or unconsciously.
 
- Here are the key points:
+ 
 
 - We tend to conform more to those we feel close to, forming a "shared reality" where we adopt similar viewpoints and goals. 
 
@@ -651,7 +651,7 @@ In summary, working with others amplifies our motivation through role modeling, 
 
 - The reason for nonconformity influences how we diverge. If motivated by uniqueness, we may just oppose others. If trying to complement others, we may dissent in a more fitting way, like playing devil's advocate.
 
- Here is a summary of the key points:
+ 
 
 - Social loafing refers to the tendency for people to reduce their individual effort when working in a group compared to working alone. This happens because individual contributions are less visible in a group setting.
 
@@ -667,7 +667,7 @@ In summary, working with others amplifies our motivation through role modeling, 
 
 In summary, social loafing and free riding can be reduced by increasing the visibility of individual contributions, defining clear responsibilities, and promoting group identity and cohesion. When people feel accountable and connected to the group effort, they are more motivated to fully contribute.
 
- Here are the key points:
+ 
 
 - Social loafing refers to people putting in less effort when working in groups compared to working alone. This can be due to feeling less accountable and that your contribution is a "drop in the bucket". 
 
@@ -679,7 +679,7 @@ In summary, social loafing and free riding can be reduced by increasing the visi
 
 - Potential solutions to reduce selfish social loafing include increasing accountability (e.g. attaching names to contributions), breaking large groups into smaller teams, and enabling people to make unique, personal contributions.
 
- Here is a summary of the key points:
+ 
 
 - In close relationships, people are more willing to take resources from each other in a way that maximizes total benefits for the group, even if it means one person gains more than the other loses. This "friendly taking" stems from a focus on collective welfare rather than selfishness. 
 
@@ -705,7 +705,7 @@ In summary, social loafing and free riding can be reduced by increasing the visi
 
 - Ultimately, relationships are about connecting with people who help you achieve what you want in life. Supporting each other's goals is what makes relationships last.
 
- Here is a summary of the key points:
+ 
 
 - Our friends and relationships tend to support the goals we have at different stages of life. In high school, friends support looking cool and fashionable. At work, friends support career goals like hard work and honesty. 
 
@@ -721,7 +721,7 @@ In summary, social loafing and free riding can be reduced by increasing the visi
 
 - We connect through having similar goals, supporting each other's goals, and pursuing shared goals together. Working toward a common goal bonds people.
 
- Here is a summary of the key points:
+ 
 
 - People connect through sharing goals and helping each other achieve them. Couples, families, and organizations can develop "joint goal systems." 
 
@@ -737,7 +737,7 @@ In summary, social loafing and free riding can be reduced by increasing the visi
 
 - Overall, we connect with others through sharing goals and understanding each other's inner motivations and perspectives. This creates bonds that can improve health and relationships.
 
- Here is a summary of the key points:
+ 
 
 - People often feel more "known" in relationships than they actually are. We tend to overestimate how much our partners, friends, etc. know about us. 
 
@@ -751,7 +751,7 @@ In summary, social loafing and free riding can be reduced by increasing the visi
 
 - Ask yourself questions to gain insight into how much you really know others and how well they support your motivations. This can help improve relationship satisfaction.
 
- Here is a summary of the key points:
+ 
 
 Part I: 
 
@@ -903,7 +903,7 @@ CHAPTER 10
 
 137 Stressed-out medical residents were randomly assigned to give a short speech about compassion: Weng, H. Y., Fox, A. S., Shackman, A. J., Stodola, D. E., Caldwell, J. Z., Olson, M. C., ... and Davidson, R. J. (2013). Compassion training alters altruism and neural responses to suffering. Psychological Science, 24(7), 1171-1180.
 
- Here is a summary of the key points:
+ 
 
 - Self-control is the ability to override impulses and desires in order to achieve long-term goals. It improves as we age and predicts success in life.
 
@@ -915,7 +915,7 @@ CHAPTER 10
 
 - Self-control tends to decline over the course of the day as people get mentally fatigued, which can impact behaviors like hand washing compliance and antibiotic prescribing. Taking breaks and structuring tasks accordingly can counteract this effect.
 
- Here is a summary of the key points:
+ 
 
 - Solomon Asch's conformity experiments showed people often go along with the majority, even when the majority is clearly wrong. 
 

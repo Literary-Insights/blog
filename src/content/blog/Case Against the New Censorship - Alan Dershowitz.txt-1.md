@@ -35,7 +35,7 @@ BOOK LINK:
 
 - If today's attitudes towards free speech among progressives and millennials become the norms, it could lead to major losses of freedom of thought, expression and dissent in the future.
 
- Here is a summary of the key points:
+ 
 
 - Some liberal opponents of Trump sought to remove him at all costs through unconstitutional means like censorship and repressive measures, distorting the Constitution rather than upholding civil liberties. This created conflict with their commitment to civil liberties for all. 
 
@@ -45,7 +45,7 @@ BOOK LINK:
 
 - Other petitions aimed to blacklist and censor anyone involved in the Trump administration from publishing or teaching. Comparing this to McCarthyism, precedents of censorship established today may be turned against the left in the future. Upholding civil liberties for all, even those with despised views, remains important.
 
- Here is a summary of the key points:
+ 
 
 - The author recalls growing up during McCarthyism and not understanding how good people could support censorship and denying civil liberties to those accused of Communism. 
 
@@ -83,7 +83,7 @@ The passage argues for developing neutral rules around when boycotts and speech 
 
 Overall, the passage's position is that while boycotts may be constitutionally protected, some can be morally wrong if they restrict the free speech and learning of others. It advocates countering objectionable ideas with open debate rather than censorship or restrictions on platforms selling diverse ideas. Dangerous speech must be tolerated as the risks of censorship outweigh the risks it poses, according to the marketplace of ideas concept.
 
- Here is a summary of the key points:
+ 
 
 - Mill argued for relatively unrestricted freedom of speech, even for offensive, rude or false speech. He believed the benefits of free expression outweighed restrictions. 
 
@@ -113,7 +113,7 @@ So in summary, Mill supported broad free speech but allowed for narrow exception
 
 - The struggle for free speech is ongoing and must be actively fought against any form of censorship from any side through persuasive arguments in the marketplace of ideas.
 
- Here is a summary of the key points:
+ 
 
 - The author wrote a series of op-eds pre-2020 election discussing free speech and the potential for violence depending on the election outcome. 
 
@@ -221,7 +221,7 @@ The Constitutional case argues that once President Trump leaves office on Januar
 
 So in essence, the historic and important point is that universities must protect freedom of inquiry and expression for faculty and students across a diversity of viewpoints, and not compel loyalty to or uniformity in particular ideological stances or commitments.
 
- Here is a summary of the key points:
+ 
 
 - Jamie Raskin, leading the House impeachment managers, is focusing a lot on establishing that Trump made false claims about the election being stolen. There are two possible explanations for this.
 

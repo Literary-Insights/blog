@@ -7,7 +7,7 @@ excerpt: ""
 category: "self-help"
 author: "matheus-puppe"
 publishDate: "2024-04-21T00:00:00.000Z"
-image: "./src/assets/book_images/worthy-jamie-kern-lima.jpg"
+image: "./src/assets/book_images/brain-for-innovation-the-neuroscience-of-imagination-and-abstract-thinking-a-jung-min.jpg"
 ---
 
 **"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
@@ -79,7 +79,7 @@ The passage discusses how memory of an event can differ from what actually occur
 
 So in summary, place cells and hippocampal replay demonstrated through animal studies help explain how the same neural circuits in the hippocampus can underlie both remembering the past and imagining possible future events.
 
- Here is a summary of the key points:
+ 
 
 - Matt Wilson developed a new parallel tetrode recording technique that allowed simultaneous recording of up to 100 hippocampal neurons in freely behaving rats. This was a major advancement that enabled the study of real-time neural network dynamics. 
 

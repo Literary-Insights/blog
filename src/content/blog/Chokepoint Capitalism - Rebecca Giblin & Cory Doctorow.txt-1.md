@@ -559,7 +559,7 @@ Policymakers are considering reforms, like the UK recommending reversion after 2
 
 The passage proposes a more radical possibility - automatically returning rights to creators 25 years after transfer, allowing them to re-exploit works through original investors or new ones. This would maintain incentives to initially produce and distribute content, while getting control back to creators in time for subsequent commercial cycles. Twenty-five years is considered sufficient to incentivize major investments. More rights granted further in the future provide little additional incentive value. Such a law could meaningfully help creators regain profits and culture remain accessible.
 
- Here is a summary of the key points:
+ 
 
 - Automatically returning copyright to creators after 25 years could significantly change the dynamics in creative industries like music. Artists would be able to renegotiate contracts to get higher royalties as their works become more valuable over time. 
 
@@ -737,7 +737,7 @@ If a company shuts down a mandated interoperability system, comcom shifts the eq
 
 - The current system concentrates wealth and power in the hands of a tiny elite who use their wealth to influence policy and rig the economy in their favor, creating a self-reinforcing cycle of extraction that primarily benefits investors and the ultra-rich.
 
- Here are the key points:
+ 
 
 - Chokepoint capitalism, where a few large corporations dominate key industries, hurts workers in many fields like banking, farming, wrestling, nursing, teaching, and more. 
 
@@ -893,7 +893,7 @@ That provides a high-level summary of the key details and outcome addressed in t
 
 - Artists and rights holders argue streaming royalties should be higher to better compensate for the massive global usage of streaming music services. Spotify and others argue they are still building the market and revenues will grow over time.
 
- Here is a summary of the key points:
+ 
 
 - sts, 59, 180, 220 - these appear to be statistical numbers but without context it's unclear what they refer to. 
 

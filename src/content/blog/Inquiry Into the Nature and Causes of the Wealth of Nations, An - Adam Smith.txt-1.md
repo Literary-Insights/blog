@@ -47,7 +47,7 @@ The passage discusses the advantages of the division of labor. It provides three
 
 The passage concludes by emphasizing how modern goods are a result of this extensive division and collaboration of labor across many industries and locations. Even basic goods rely on a vast network and variety of production tasks. Division of labor is what drives widespread prosperity in societies.
 
- Here is a summary of the key points:
+ 
 
 - The passage argues that the accommodation (living standards) of an European prince does not always greatly exceed that of an industrious peasant, in the same way that the peasant's accommodation exceeds that of many African kings. 
 
@@ -75,7 +75,7 @@ The passage concludes by emphasizing how modern goods are a result of this exten
 
 - Early civilizations tended to develop first along fertile coastlines with navigable rivers, like ancient Egypt and China, where agriculture and industry could advance.
 
- Here is a summary of the key points:
+ 
 
 - In a commercial society, individuals specialize in production and exchange surplus produce for goods they need from others through trade. This relies on the ability to exchange, which was difficult before division of labor when finding someone with matching needs was challenging. 
 
@@ -107,7 +107,7 @@ Gold and silver, which are used as currency, fluctuate in value over time depend
 
 While the amount of labor is equally valuable to laborers, its apparent value fluctuates to employers based on the goods it can purchase. Rents reserved in money fluctuate more than those in corn, as corn preserves value better. Corn rents are less impacted by money debasement over time. Overall, labor and corn provide more stable measures of value than precious metals used as currency.
 
- Here is a summary of the key points:
+ 
 
 - Silver has historically been used as the standard measure of value for calculating the prices of goods and services, as its value does not fluctuate much from year to year. 
 
@@ -197,7 +197,7 @@ Wages can rise above this minimum level when the demand for labor is continuousl
 
 Areas with the fastest economic growth, like North America at the time, see the highest wages even if not as wealthy overall as places like England. The thriving economy and rapidly increasing population in the colonies drives frequent need for more laborers and bidding up of wages. Wages remain low if an economically stationary country does not have continuously growing funds available for hiring more workers.
 
- Here is a summary of the key points:
+ 
 
 - China has long been one of the richest and most populous countries in the world, yet wages have remained very low and the standard of living for laborers is poor, just barely enough to survive. 
 
@@ -287,7 +287,7 @@ So in summary, it discusses the complex relationships between wages, profits, st
 
 - In a fully developed country with max wealth/population, wages and profits would be low due to competition. Interest rates would also be very low, making it hard for those with small fortunes to live off interest income alone.
 
- Here is a summary of the key points:
+ 
 
 - In a free society where people can choose occupations, wages and profits tend to equalize across different jobs over time as people flock to more advantageous fields and leave less advantageous ones. 
 
@@ -373,7 +373,7 @@ The passage claims most trades can be learned within a few weeks or days, not ye
 
 Corporation laws and guilds were established by town governments dominated by tradesman to prevent competition and keep market prices high. This benefits workers and employers within towns but burdens farmers and laborers in surrounding countries who must pay more for manufactured goods. In summary, the passage is largely critical of restrictive apprenticeship and corporation laws of the time.
 
- Here is a summary of the key points:
+ 
 
 - In Europe, there are far more people who have acquired great fortunes through trade and manufacturing (town industries) compared to farming and agriculture (country industries). This indicates that town industries are better rewarded. 
 
@@ -395,7 +395,7 @@ Corporation laws and guilds were established by town governments dominated by tr
 
 The passage argues these policies by European governments and institutions create inequality in employment opportunities and compensation across different occupations and social classes. Privileges restrict competition while subsidies can cause overcrowding in fields like the church.
 
- Here is a summary of the key points:
+ 
 
 - In ancient Greece, prominent teachers like Plato, Aristotle, Protagoras and others commanded high fees for their instruction, sometimes earning fortunes. Some like Georgias donated extravagantly to temples. 
 
@@ -419,7 +419,7 @@ The passage argues these policies by European governments and institutions creat
 
 - When regulations favored workers, they tended to be fair, but regulations favoring masters were sometimes unjust, such as limiting tailors' wages despite rising costs of living. Overall the system restricted labor mobility and fairness.
 
- Here is a summary of the key points:
+ 
 
 - Historically, governments tried to regulate wages and prices by imposing limits (called combinations) on what workers could earn or merchants could charge. However, this led to negative consequences and was seen as unfair.
 
@@ -561,7 +561,7 @@ So the evidence for a long-term decline in silver's value is questionable based 
 
 - Labor, not any single commodity, is the true measure of value for both metals and goods. Grain best reflects labor value cross-culturally due to being widely farmed and consumed.
 
- Here is a summary of the key points:
+ 
 
 - Precious metals like gold and silver will naturally increase in quantity over time due to vanity and luxury demands, not just practical use. Their value is linked more to overall wealth than mining output. 
 
@@ -647,7 +647,7 @@ So in summary, the growing interconnected global markets between Europe, the Ame
 
 So in summary, it analyzes how the discovery of new world resources changed historic gold-silver value ratios on global trade networks over the 1700-1800 period.
 
- Here are the key points:
+ 
 
 - Taxes on silver mining in Spanish America gradually made the mines more expensive to operate as they had to dig deeper to find silver. 
 
@@ -671,7 +671,7 @@ As for cattle and other livestock naturally produced without labor, their number
 
 The passage argues it was difficult for most Scottish farms before the early 18th century to fully cultivate their lands, since cattle prices had not risen enough to make maintaining higher livestock numbers profitable. This kept manure supplies low and forced farmers to leave large areas of land uncultivated or used poorly as pasture. Economic progress requires rising livestock stocks and improved lands to advance together over long periods.
 
- Here is a summary of the key points:
+ 
 
 - In new colonies, there is plenty of inexpensive pasture land for grazing cattle initially. But it takes time for the cultivation of crops to become profitable due to lack of manure and imbalance between livestock and cultivated land. 
 
@@ -693,7 +693,7 @@ Scottish dairy prices are still too low for this, but rising. Quality also lags 
 
 Some products like wool and hides have market scope beyond their home country due to ease of transport. Their prices versus livestock prices were historically higher in undeveloped places due to limited meat demand. Now meat demand is broader, so relative prices shifted. Some underdeveloped areas still mainly value livestock for hides, wool and tallow alone over meat. Improving populations and trade give value to other outputs.
 
- Here is a summary of the key points:
+ 
 
 - In the early stages of a society's development, the market for meat is limited to the local area, but the market for wool and hides can extend globally. As a country improves and populations grow, the meat market expands but the wool/hide markets may not grow as much due to broader global factors. 
 
@@ -729,7 +729,7 @@ However, the passage notes that such a change would have little real disadvantag
 
 In conclusion, the passage weighs the significant potential advantage of increased silver quantity against the minimal potential disadvantage of marginal price increases for some goods. It ultimately concludes that the world could derive substantial benefit on net from events that increase the silver supply and lower its value.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses the increasing value of land as Britain's most important and durable form of wealth. Having proof of rising land values can be useful for the public.
 
@@ -743,7 +743,7 @@ In conclusion, the passage weighs the significant potential advantage of increas
 
 So in summary, it discusses trends in land values, food prices, wage adjustments and long term declines in manufacturing costs driven by technological progress.
 
- Here is a summary of the key points:
+ 
 
 - In the past, the price of a yard of cloth was equivalent to 8 shillings and 9 pence worth of wheat, which was considered a large amount that would require a poor servant to give up a significant portion of their means of subsistence. 
 
@@ -757,7 +757,7 @@ So in summary, it discusses trends in land values, food prices, wage adjustments
 
 - The chapter concludes by summarizing how improvements in society, cultivation, and production tend to raise land rents while declines have the opposite effect.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses the accumulation and employment of stock (savings/capital) in different stages of society. 
 
@@ -781,7 +781,7 @@ As the accumulation of stock is necessary to allow specialization and division o
 
 Society's overall stock naturally divides into three parts. First, the portion reserved for immediate consumption that yields no profit. Second, capital stock employed in trade by circulating goods for profit. Third, fixed capital employed in land improvement, machinery, etc. that yields profit without circulating further. Different occupations require different mixes of fixed and circulating capital. Merchants require all circulating capital while manufacturers require some fixed capital in tools and buildings.
 
- Here is a summary of the key points:
+ 
 
 - Stocks can be divided into three portions: consumer goods stock, fixed capital stock, and circulating capital stock. 
 
@@ -831,7 +831,7 @@ Exported specie is used to purchase foreign goods, either for re-sale between ot
 
 When calculating a society's employable industry, money must be deducted, as it serves only to circulate materials, tools and wages, not as something to work on or with itself. Paper money substitutes for specie free up precious metals for use in industry and trade, just as mechanization might for an entrepreneur.
 
- Here is a summary of the key points:
+ 
 
 - Different authors have estimated the circulating money (gold/silver coins) used for transactions as comprising 5-30% of the total annual value produced in an economy. However, only a fraction of annual production is actually used to maintain industry/economic activity. 
 
@@ -847,7 +847,7 @@ When calculating a society's employable industry, money must be deducted, as it 
 
 - In summary, the paper money and banking system in Scotland is argued to have considerably increased national trade and prosperity in the late 18th/early 19th century by substantially increasing the money supply and flexibility of credit.
 
- Here is a summary of the key points:
+ 
 
 - The total value of paper currency (e.g. banknotes) circulating in a country cannot exceed the value of gold and silver that would be needed for transactions. If there is excess paper currency, it will quickly be returned to banks for redemption in gold/silver.
 
@@ -897,7 +897,7 @@ This allowed A to raise money but at an enormous expense, with interest rates of
 
 - The bank's effects seem to have been opposite to its intentions, producing problems rather than solutions.
 
- Here is a summary of the key points:
+ 
 
 - A new bank was established in Scotland in the 1720s to support various business projects and undertakings across the country. This bank aimed to take over the banking business from other established Scottish banks.
 
@@ -921,7 +921,7 @@ This allowed A to raise money but at an enormous expense, with interest rates of
 
 - The author discusses how banking can increase economic activity by allowing capital to be more productively employed rather than sitting idle, and the risks of relying too heavily on paper money circulation.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses the use of paper money (bank notes) versus gold/silver coins in circulating money. 
 
@@ -985,7 +985,7 @@ Where capital predominates, industry prevails. Increasing or decreasing capital 
 
 - National production can only increase by adding more productive laborers through capital accumulation, or by improving laborers' productivity via technology or specialization. Both require additional capital investment over time. Economic progress relies on a growth in productive capital from conduct of frugal individuals.
 
- Here is a summary of the key points:
+ 
 
 - The annual produce and wealth of a country is difficult to assess over short periods, as gradual improvements may not be obvious. Books were often published claiming England's wealth was declining, though this was not always true. 
 
@@ -1009,7 +1009,7 @@ While hospitality spending also supports people, much is wasted and it does not 
 
 Overall, durable goods spending is seen as more conducive to public wealth growth since it results in accumulated valuable goods, encourages private saving, and maintains productive industries and workers in a country.
 
- Here is a summary of the key points:
+ 
 
 - A loan of capital at interest can be seen as an agreement where the lender assigns a portion of the annual production to the borrower in exchange for interest payments and repayment of the capital. The interest is a small annual portion and the repayment is an equally sizable portion at the end. 
 
@@ -1021,7 +1021,7 @@ Overall, durable goods spending is seen as more conducive to public wealth growt
 
 - Usury laws prohibiting interest led to higher effective costs as borrowers had to insure lenders against penalties, counteracting the intent of the laws. Permitted interest rates should be above the market rate to prevent usury.
 
- Here is a summary of the key points:
+ 
 
 - Capital can be employed in four main ways: 1) procuring raw materials for production, 2) manufacturing/processing raw materials, 3) transporting goods, 4) breaking down goods into smaller retail portions. 
 
@@ -1119,7 +1119,7 @@ The passage suggests this system of peasant farming gradually replaced slave sys
 
 - Historically, tenants owed arbitrary private and public services to landlords and were subject to oppressive taxes, further hindering improvement of lands. Reforms improved conditions for tenants over time.
 
- Here is a summary of the key points:
+ 
 
 - After the fall of the Roman Empire, farmers and landowners generally lived in fortified castles on their estates, surrounded by tenants and dependents. Towns were inhabited by tradesmen, mechanics, and other servile people. 
 
@@ -1133,7 +1133,7 @@ The passage suggests this system of peasant farming gradually replaced slave sys
 
 - These increasing rights and privileges elevated town-dwellers out of near-servility into a truly free status compared to occupants of land still under feudal systems. Their independence was important for economic and civic functions.
 
- Here is a summary of the key points:
+ 
 
 - In medieval Europe, weaker subjects had no protection from oppression by powerful lords. Cities formed leagues for mutual defense against lords. 
 
@@ -1149,7 +1149,7 @@ The passage suggests this system of peasant farming gradually replaced slave sys
 
 - The Crusades favored growth of Italian commercial cities situated along trade routes between Europe and the Holy Land.
 
- Here is a summary of the key points:
+ 
 
 - During the Crusades, trading cities like Venice, Genoa and Pisa benefited by transporting armies to the Holy Land and supplying them with provisions. This highly destructive conflict was a source of wealth for these republics. 
 
@@ -1195,7 +1195,7 @@ While territorial jurisdictions predated feudal law, it did little to curb the p
 
 - Overall the passage analyzes the relationship between foreign trade, industry and agriculture across European history, finding agriculture generally improved slower than commerce/manufacturing and required secure property rights and investment in land to develop fully.
 
- Here is a summary of the key points:
+ 
 
 - Under the commercial/mercantilist system of political economy, wealth was viewed as consisting primarily of gold and silver (money). Countries sought to accumulate these precious metals. 
 
@@ -1255,7 +1255,7 @@ While importing gold and silver is important, foreign trade more significantly b
 
 The discovery of the Cape route to Asia was also important, though Europe benefited less due to early trade monopolies. In general, foreign trade increases national wealth more than just imports of bullion.
 
- Here is a summary of the key points:
+ 
 
 - Countries impose tariffs and bans on imports of goods that can be produced domestically in order to secure a monopoly in the domestic/home market for their own domestic industries that produce those goods. This is intended to encourage and support those domestic industries. 
 
@@ -1269,7 +1269,7 @@ The discovery of the Cape route to Asia was also important, though Europe benefi
 
 The passage discusses using trade to benefit domestic industries and economic growth. It argues that free trade allowing businesses to import goods from wherever is cheapest is generally best for a nation's economy. While protecting certain domestic industries through monopoly or import restrictions may help develop those industries faster, it ultimately diminishes the total wealth and growth of the economy. By forcing resources into less optimal uses, it reduces the value of total production. Over time, completely free trade will still allow domestic industries to develop naturally as they become competitive through innovation and advantages in certain goods. While governments may aim to develop certain industries, centrally planning the economy in this way risks doing more harm than good by distorting the natural flows of trade and capital. Overall economic health depends on allowing markets and businesses to direct resources to their most valuable uses.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses the idea of using trade restrictions or tariffs to promote domestic industries even if those industries are much less efficient than importing from abroad. 
 
@@ -1293,7 +1293,7 @@ However, there are two cases where restricting some foreign trade may be advanta
 
 The second case is implementing equivalent taxes on imports when domestic production of similar goods is taxed. This maintains a level playing field between domestic and foreign goods. However, the passage is skeptical of broadly taxing all foreign goods when domestic necessities are taxed, as the effects on prices are hard to accurately measure and such policies restrict industry adjustment. Overall the performance of an economy is better served by allowing it to accommodate to circumstances rather than imposing overly restrictive trade barriers.
 
- Here is a summary of the key points:
+ 
 
 - High import taxes ("duties") on foreign goods are generally harmful when they grow to a significant level, similar to natural disasters. However, some prosperous nations have imposed such high taxes. 
 
@@ -1409,7 +1409,7 @@ Over time, rules around drawbacks became more complex, but generally aimed to fa
 
 - Trades done at a loss need bounties to compensate losses and encourage continuing or starting that trade. But bounties distort trade away from the most advantageous channels.
 
- Here is a summary of the key points:
+ 
 
 - A bounty on wheat exports leads to higher prices for both exported and domestically consumed wheat. This imposes a significant tax on consumers through higher food prices. 
 
@@ -1475,7 +1475,7 @@ Years of famine have historically been caused not by sellers colluding to restri
 
 Corn merchants play an important role but face public hatred in times of dearth. Ancient European policies tried to demonize and restrict their trade, thinking people could get corn directly from farmers more cheaply. But intermediaries help link farmers to consumers, and unrestrained freedom in the corn trade is the most effective way to deal with supply issues.
 
- Here is a summary of the key points:
+ 
 
 - Laws in the past tried to regulate different trades, like forcing farmers to act as corn merchants and prohibiting manufacturers from being retailers. 
 
@@ -1489,7 +1489,7 @@ Corn merchants play an important role but face public hatred in times of dearth.
 
 - The statute tried to eliminate middlemen between farmers and consumers, but middlemen like corn merchants help prevent dearth by taking crops quickly and supporting farmers during hard times. Their trade is very beneficial to agriculture.
 
- Here is a summary of the key points:
+ 
 
 - Early laws restricted 'engrossing' (buying up large quantities) and 'forestalling' (buying before goods reached market) of corn out of concerns these practices could hurt the public. Later laws gradually eased these restrictions. 
 
@@ -1525,7 +1525,7 @@ So in summary, the passage critically discusses popular assumptions around engro
 
 - Bounty laws do not deserve praise for British prosperity, which was better explained by security of property rights solidified in the Revolution.
 
- Here is a summary of the key points:
+ 
 
 - Treaties that grant preferential trade terms to one country, like lowering tariffs or allowing entry of certain goods, give advantages to merchants/manufacturers of that country by creating a more extensive and advantageous market for their goods. 
 
@@ -1603,7 +1603,7 @@ European colonies in the Americas and West Indies had more abundant land and dis
 
 Brazil was Portugal's oldest colony in the Americas, growing substantially during a period of neglect before gold/silver was found. The Dutch seized parts of Brazil but were expelled by Portuguese colonists. Sweden and Denmark also established short-lived colonies. In the 17th century, other European powers increasingly colonized the Americas as Spain's naval power declined after failing to invade England.
 
- Here is a summary of the key points:
+ 
 
 - Many early Dutch and French colonies in the Americas were governed by exclusive trading companies, which hindered their growth and prosperity compared to privately governed colonies. 
 
@@ -1721,7 +1721,7 @@ Colonies mainly import manufactured goods rather than raw materials. The colonia
 
 Britain has faced less severe impacts due to greater general trade freedoms compared to issues like monopolies, currency devaluations, taxation, and uneven justice faced in Spain and Portugal. Overall the passage considers the colony trade beneficial to Britain despite some negatives from the monopoly.
 
- Here is a summary of the key points:
+ 
 
 - The liberty for British subjects to export goods duty-free to foreign countries and transport goods freely within Britain encourages domestic industry without bureaucratic interference. This, along with impartial justice, incentivizes all forms of industry. 
 
@@ -1803,7 +1803,7 @@ The Dutch Cape of Good Hope and Batavia colonies thrived due to their strategic 
 
 2. The administration of the colonies by the East India Company is problematic. As merchants themselves, the company servants have private interests that conflict with their duties. They aim to establish monopolies over trade which stifles growth. Their interests are not aligned with the long-term welfare of the colonies. The situation incentivizes oppressive behavior toward the colonies for private gain.
 
- Here is a summary of the key points:
+ 
 
 - The text discusses incentives and regulations around the importation of goods and raw materials for manufacturing in Britain. 
 
@@ -1879,7 +1879,7 @@ The passage criticizes these restrictions as "written in blood" and giving manuf
 
 So in summary, it outlines Colbert's policies promoting towns over agriculture, and a contrasting philosophy arguing agriculture alone creates wealth while manufacturing creates no new value.
 
- Here is a summary of the key points:
+ 
 
 - Lacemakers and other craftspeople in expensive manufactures barely earn enough through their labor to cover their subsistence costs. Their work does not increase the overall value produced.
 
@@ -1895,7 +1895,7 @@ So in summary, it outlines Colbert's policies promoting towns over agriculture, 
 
 - Merchant states are also useful to other countries by filling the role of domestic merchants, manufacturers, etc. It is not in the interest of "landed nations" to discourage these merchant states.
 
- Here is a summary of the key points:
+ 
 
 - Gradually, as art and skill improve, manufacturers in landed nations will be able to export their goods to foreign markets and displace manufacturers from mercantile nations. This exports surplus production. 
 
@@ -1951,7 +1951,7 @@ It focuses specifically on the expenses related to defense or military protectio
 
 However, as societies become more commercial and settled, standing armies are needed for defense. Maintaining these peacetime forces and waging war requires major expenses. The chapter will examine what defense expenses should be covered by public funds versus private sources, and different methods of raising public revenue to pay for these obligations of the sovereign.
 
- Here is a summary of the key points:
+ 
 
 - Large numbers of nomadic shepherds or hunters can march together as they take their herds/flocks to new grazing areas, with seemingly no limit to the army size as long as supply lines remain open. Shepherds in particular can become a formidable military force. 
 
@@ -2049,7 +2049,7 @@ In summary, the key point is that large-scale projects with diffuse public benef
 
 So in summary, the passage analyzes pros and cons of using turnpike tolls for broader revenue and compares foreign road policies to those in Britain.
 
- Here is a summary of the key points:
+ 
 
 - Local administration and taxation of infrastructure like streets and roads tends to be more efficient and less costly than national administration and taxation. Local communities have more incentive to properly manage funds for local services they directly benefit from. 
 
@@ -2061,7 +2061,7 @@ So in summary, the passage analyzes pros and cons of using turnpike tolls for br
 
 - Regulated companies resemble trade guilds and impose burdensome regulations to restrict competition, while joint-stock companies share profits/losses among members. Both types sometimes have exclusive trade privileges granted by the state.
 
- Here is a summary of the key points:
+ 
 
 - Regulated companies like the Russia, Eastland, Hamburgh and Turkey companies were once oppressive monopolies that imposed high fines and restrictions on trade. 
 
@@ -2081,7 +2081,7 @@ It then discusses the Royal African Company, which initially had an exclusive ch
 
 In summary, the passage examines the differences between joint-stock companies and private partnerships, and how the Royal African Company struggled to compete without an exclusive monopoly despite trying to tax private traders. It suggests joint-stock management structures made negligence more common.
 
- Here is a summary of the key points:
+ 
 
 - The Royal African Company struggled financially from 1712 onwards due to large debts. In 1730 their affairs were in great disorder and they could no longer properly maintain their forts. 
 
@@ -2201,7 +2201,7 @@ Private teachers in ancient times were highly successful without modern constrai
 
 In conclusion, some degree of government involvement is needed in education to prevent intellectual and social decline among the populace performing repetitive jobs in developed economies, unlike in more primitive societies where varied work prevents stagnation.
 
- Here is a summary of the key points:
+ 
 
 - In a primitive society, each individual performs a variety of tasks but society as a whole lacks variety. In a civilized society, there is great diversity of occupations across society despite less variety for individuals. 
 
@@ -2341,7 +2341,7 @@ However, stock, credit and capital are unstable revenue sources for governments.
 
 So in summary, it uses the British land tax to illustrate key principles of tax design and some of the potential issues that can arise from a fixed valuation system depending on changing economic conditions over time.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses different views on how to tax land rents, including a system used in Venice where land given to farmers is taxed at 10% of rent. This is considered more equitable than England's land tax. 
 
@@ -2367,7 +2367,7 @@ The key point is the passage discusses proposals for implementing a more efficie
 
 So in summary, it provides a detailed examination and comparison of different historical land taxation systems, focusing on issues like surveys, treatment of church lands, inequality of output/produce taxes, and disincentives to improvement.
 
- Here is a summary of the key points:
+ 
 
 - Madder cultivation was originally confined to the Netherlands due to an exemption from "tythe", a destructive tax that supported the church. When England later allowed madder cultivation with a fixed fee per acre instead of tythe, it helped introduce the plant. 
 
@@ -2405,7 +2405,7 @@ A tax on house rent could reveal tenants' spending habits. If very high, many ma
 
 - Taxing interest directly may not raise interest rates as the quantity of money and stock available wouldn't change. However, assessing private stock levels would be challenging due to fluctuations. Stock can also be moved unlike land.
 
- Here is a summary of the key points:
+ 
 
 - Stockholders/proprietors of stock are citizens of the world and not necessarily attached to any particular country. They would be likely to remove their stock from a country that imposed a heavy or burdensome tax on it. 
 
@@ -2531,7 +2531,7 @@ Excise duties are most productive if levied on mass consumption of the many, not
 
 - Overall it analyzes the revenue and economic impacts of shifting excise duties more towards malt production and away from downstream beer, ale, and spirits to reduce opportunities for tax evasion.
 
- Here is a summary of the key points:
+ 
 
 - A tax on wine or sugar (monopoly goods) would necessarily reduce the rent and profits of vineyards/sugar plantations, as the price is already at the maximum level. The full weight of the tax would fall on producers. 
 

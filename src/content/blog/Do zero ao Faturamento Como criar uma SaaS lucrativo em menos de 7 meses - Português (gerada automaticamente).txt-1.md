@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points:
+ 
 
 - The speaker is discussing how to go from zero to revenue with a Software as a Service (SaaS) business. 
 
@@ -39,7 +39,7 @@ BOOK LINK:
 
 So in summary, the speaker aims to help attendees overcome barriers to starting a SaaS by sharing their proven method and experience building multiple successful SaaS products.
 
- Here is a summary of the key points:
+ 
 
 - The person's first SAS was a website for evangelical churches, though they were not evangelical themselves. It was basic and required a lot of manual work like creating payment files. 
 
@@ -55,7 +55,7 @@ So in summary, the speaker aims to help attendees overcome barriers to starting 
 
 - The key lessons are to keep SAS simple, focused on solving specific problems, reduce costs for clients, and regularly test new strategies like different customer segments. Large, complex systems require too many resources.
 
- Here is a summary of the key points:
+ 
 
 - The person invested a lot in marketing, sales, and product courses as well as doing several immersions to develop a software project (called a "saz") over 9 months. 
 
@@ -207,7 +207,7 @@ In summary, it outlines the process one founder went through in developing their
 
 - The mentor believes replicating or directly competing against large existing solutions may not be the best approach due to required resources and preference is given to ensuring participants can launch independently without external investment.
 
- Here is a summary of the key points:
+ 
 
 - The speaker recommends negotiating contracts without a lawyer first, then tightening them up with a lawyer later if needed, especially for a first contract. It's not necessary to be too formal. 
 
@@ -241,7 +241,7 @@ In summary, it outlines the process one founder went through in developing their
 
 - An e-commerce store could be considered low complexity, depending on the market. Niche e-commerce targeting specific problems can be opportunities. Ideas sometimes come from observing a partner/friend's specific issue that likely impacts others.
 
- Here is a summary of the key points:
+ 
 
 - The person was discussing different types of online businesses that could be built as SAS (software as a service) models, such as e-commerce stores for makeup, jewelry, etc. 
 
@@ -257,7 +257,7 @@ In summary, it outlines the process one founder went through in developing their
 
 - Pricing a SAS needs to be aligned with the size and scope of problems being solved for different types and sizes of clients. Overly complex pricing can discourage sales.
 
- Here is a summary of the key points:
+ 
 
 - The person is discussing different pricing models for a software or service based on number of monthly page views/access. For example, R$500/month for 1,000 views, R$600/month for 2,000 views, R$800/month for 10,000 views. 
 

@@ -183,7 +183,7 @@ So in summary, it outlines building different components that interface with Bit
 
 So in summary, it provides an introduction to getting started technically with the Bitcoin platform and core concepts like transactions, scripts and the blockchain validation process. The focus is on using the Bitcoin Core client and JavaScript libraries for learning purposes.
 
- Here is a summary of the key points:
+ 
 
 - The project aims to build a Bitcoin payment gateway using the Bitcoin Payment Protocol (BIP70) to enable direct Bitcoin payments on an e-commerce website. 
 
@@ -281,7 +281,7 @@ The key steps involve setting up the BitcoinJ libraries, interacting with the BI
 
 So in summary, it sets up an RSK node, deploys a sample smart contract, and demonstrates basic interactions to get a sense of how to write and execute smart contracts on the Bitcoin blockchain using the Rootstock platform.
 
- Here is a summary of the key points:
+ 
 
 - We build the Bitcoin source code to understand the process before making any modifications for our own cryptocurrency. 
 
@@ -373,7 +373,7 @@ The key steps focus on replacing SAToshi's hardcoded genesis block values with t
 
 - A Readercoin network was built by installing the software on two nodes (Node A and B), configuring them to connect to each other via addnode calls or in the readercoin.conf file, and verifying they were connected using getpeerinfo.
 
- Here is a summary of the key points:
+ 
 
 - You can run RPC commands from the ReaderCoin GUI without using the terminal by accessing the debug window and console. 
 

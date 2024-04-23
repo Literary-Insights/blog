@@ -85,7 +85,7 @@ So in summary, it outlines the purpose of copyright to protect creative works, w
 
 - While GDP generally correlates with success in other indices, economic growth underpins improvements in other areas like health and quality of life. GDP provides a snapshot but other data is needed to assess economic health over time.
 
- Here is a summary of the key points:
+ 
 
 - GDP has become the main measure for comparing economic progress across countries, but it has limitations in capturing non-monetary factors like quality of life. 
 
@@ -261,7 +261,7 @@ While globalization succeeded in integrating trade and capital flows, it has don
 
 However, open-door migration also faces challenges due to concerns about impacts on income inequality, job prospects and welfare systems. Greece's economic crisis demonstrated a rejection of imposed globalization and austerity. Protectionist measures today may provide quick fixes but ultimately inhibit long-term growth by reducing cross-border investment and adoption of more local business models. A more fragmented world will see slower overall growth.
 
- Here is a summary of the key points:
+ 
 
 - Businesses fund themselves through various sources like equity financing (issuing stocks), debt financing (loans, bonds), and retained earnings. They structure costs between fixed costs (rent, utilities, salaries) and variable costs (materials, shipping). They view long-term growth as a key proposition to attract investors and funding. 
 
@@ -303,7 +303,7 @@ In other words, Macmillan posed the central geopolitical issue of the time as wh
 
 - While models vary, expanding government intervention worldwide poses risks if it undermines effectiveness or crowds out the private sector as the primary engine of growth. The Chinese model also has limitations that make it difficult for other countries to replicate.
 
- Here is a summary of the key points:
+ 
 
 - The passage argues that short-termism in both business and democratic politics is a major drag on long-term economic growth. Politicians focus too much on short-term gains to get re-elected rather than taking actions that may provide long-term benefits. 
 
@@ -483,7 +483,7 @@ Advocates for reform may come from outside the existing political system, such a
 
 - Reforming democracy is essential to sustain economic growth, equality, poverty reduction and prevent worsening conflicts. But it will be difficult. Warning signs regarding future crises must not be ignored again.
 
- Here is a summary of the key points:
+ 
 
 - Dambisa Moyo is an economist who has written several bestselling books on global economics and development. In this book, she seeks to motivate a debate on how to upgrade and improve the democratic system. 
 
@@ -495,7 +495,7 @@ Advocates for reform may come from outside the existing political system, such a
 
 - The book is dedicated to her younger sister who passed away during the writing, devastating her family. Her goal is to discuss how democracies can evolve to better serve citizens in the future.
 
- Here is a summary of the key points:
+ 
 
 - Most countries do not allow lawmakers or executives to commit to long-term agreements that extend beyond their terms. 
 

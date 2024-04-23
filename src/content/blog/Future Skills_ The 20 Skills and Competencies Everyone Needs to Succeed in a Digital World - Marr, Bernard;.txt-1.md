@@ -111,7 +111,7 @@ The key is being comfortable with technology, willing to learn new tools, and ha
 
 In summary, data literacy creates a workforce that is empowered by data, not intimidated by it. This allows organizations to tap the full potential of their data assets. Data literacy is therefore an essential workforce skill in the 21st century.
 
- Here is a summary of the key points:
+ 
 
 - Data is exploding in volume. By 2025 there could be 175 zettabytes of data in the world. 
 
@@ -291,7 +291,7 @@ Practicing these strategies, and applying critical thinking skills regularly to 
 
 - Decision-making skills involve gathering information, anticipating consequences, considering personal values, evaluating tradeoffs, and implementing the choice effectively. Techniques like listing pros/cons and seeking outside perspectives can improve decision quality.
 
- Here is a summary of the key points:
+ 
 
 - Individuals often oversimplify complex issues and make poor decisions as a result. For example, smokers may believe that smoking harms others but not themselves, so they continue the habit. 
 
@@ -413,7 +413,7 @@ The future of work will rely heavily on strong interpersonal communication, even
 
 - Overall, the gig economy is a growing force reshaping the future of work. Embracing it wisely could unleash benefits for workers and organizations. But we must remain vigilant about potential downsides.
 
- Here is a summary of the key points:
+ 
 
 - The gig economy involves businesses hiring independent contractors and freelancers for short-term work rather than permanent employees. It is growing rapidly.
 
@@ -493,7 +493,7 @@ The future of work will rely heavily on strong interpersonal communication, even
 
 The key is recognizing that diversity is a strength to be leveraged, not a problem to be solved. With openness, empathy and respect, we can create workplaces where our differences are celebrated.
 
- Here is a summary of the key points:
+ 
 
 - Cultural intelligence (CQ) is the ability to relate to and work effectively with people from different cultural backgrounds. It is an important skill for success in diverse workplaces. 
 
@@ -597,7 +597,7 @@ The key is recognizing that diversity is a strength to be leveraged, not a probl
 
 In summary, a strong personal brand is about so much more than social media followers or being "famous" online. It's a strategic way to build trust, credibility and connections to propel your career forward.
 
- Here are the key points:
+ 
 
 - Building your personal brand can help you secure exciting new job opportunities, bring in new clients if self-employed, get a promotion, inspire trust, expand your network, and progress your career. 
 
@@ -649,7 +649,7 @@ The key is to work smarter, not just longer, in order to get the most out of you
 
 In summary, cultivating an insatiable curiosity is one of the most important skills for the future. It opens up a world of possibilities and ensures we never stop growing.
 
- Here is a summary of the key points:
+ 
 
 - Curiosity is the desire to learn and understand new things. It fuels a journey of continual, lifelong learning. 
 
@@ -715,7 +715,7 @@ In summary, cultivating an insatiable curiosity is one of the most important ski
 
 - Looking after yourself boosts creativity and problem-solving, helping you thrive at work. It also makes you a better partner, parent, and friend. Overall, it enables you to get the most out of life. Small steps towards better balance add up over time.
 
- Here is a summary of the key points:
+ 
 
 - Stress is a major issue, with most people feeling overwhelmed or unable to cope at times. Work is one of the biggest causes of stress. 
 

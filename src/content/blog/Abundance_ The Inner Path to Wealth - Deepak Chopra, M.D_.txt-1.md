@@ -303,7 +303,7 @@ So in summary, it's about using words consciously and strategically to promote u
 
 - While family upbringing influences emotional development, healing from past trauma happens internally through one's awareness practice. The goal is not to erase the past but heal from within by becoming both healer and healed. An imbalanced fourth chakra can lead to emotional poverty if not addressed.
 
- Here is a summary of the key points:
+ 
 
 - Self-awareness is essential to identify symptoms of emotional poverty like anxiety, short temper, difficulty expressing emotions, fear of intimacy, feeling embarrassed by emotions, etc. 
 

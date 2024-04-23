@@ -45,7 +45,7 @@ BOOK LINK:
 
 - The expansion of the Universe continues today, with more distant galaxies receding faster. Most models suggest the expansion will continue forever, although some theories propose the Universe may undergo future contractions in a "Big Bounce".
 
- Here is a summary of the key points:
+ 
 
 - The Big Bang theory describes how the universe began as a single point which exploded approximately 13.8 billion years ago. 
 
@@ -125,7 +125,7 @@ Major concepts covered include:
 
 So in summary, it is discussing the coordinate system used in astronomy to locate objects in the night sky, and how it parallels the grid system used for maps on Earth.
 
- Here is a summary of the key points:
+ 
 
 - The invention of the telescope revolutionized astronomy by allowing astronomers to collect more light from distant objects than the human eye, enabling the formation of magnified images. 
 
@@ -145,7 +145,7 @@ The passage provides details about the Lunar Module and its parts that landed as
 
 It then provides a brief overview of the Cassini-Huygens mission to Saturn, including its launch date, planetary flybys on the way to Saturn, and details about the Cassini orbiter and Huygens lander. The Cassini orbiter studied Saturn until 2017 while the Huygens probe landed on Titan in 2004 to learn more about its atmosphere and surface.
 
- Here is a summary of the key points:
+ 
 
 - The Earth's plates slowly move due to convections in the mantle over hundreds of millions of years. This causes the splitting and joining of continents.
 
@@ -423,7 +423,7 @@ So in summary, while humans evolved for bipedal land movement, birds' anatomy is
 
 So in summary, the passage discusses the social structure, physical features, communication methods, and threats faced by elephant families and calves.
 
- Here is a summary of the key points:
+ 
 
 - Many animal species are eager to mate but provide some level of parental care for their young after mating to improve survival chances. Some animals like scorpions and newts even perform coordinated dances together. 
 
@@ -449,7 +449,7 @@ So in summary, the passage discusses the social structure, physical features, co
 
 - Rattlesnakes, owls, and coyotes all rely on hunting small mammals and other prey in the desert ecosystem. Snakes play an important role as predators.
 
- Here is a summary of the key points:
+ 
 
 - Coral reefs are underwater structures formed by corals secreting calcium carbonate over hundreds of years. The Great Barrier Reef off Australia is the largest structure made by living organisms. 
 
@@ -505,7 +505,7 @@ So in summary, the passage discusses the social structure, physical features, co
 
 - Joints with ligaments and cartilage allow bones to flexibly connect in the skeleton, enabling movement. Examples are ball-and-socket and hinge joints.
 
- Here is a summary of the key points:
+ 
 
 - The muscular system has over 640 muscles arranged in layers between the skin and bones. Muscles are connected to bones by tendons.
 
@@ -561,7 +561,7 @@ The large intestine is twice as wide as the small intestine but only a quarter o
 
 - So in summary, your heart rate speeds up and beats faster during physical activity or when excited, and slows down and beats slower when at rest or sleeping. The passage compares the faster and slower beating speeds of the heart under different conditions.
 
- Here is a summary of the key points:
+ 
 
 - The kidneys filter around 1,700 liters of blood every day to clean it and remove waste. 
 
@@ -705,7 +705,7 @@ The fetus will continue growing throughout pregnancy, with major developments ha
 
 So in summary, the key points are that water can exist as a solid, liquid or gas depending on temperature and pressure conditions, and the phase of any substance depends on the strength of bonding between its atoms/molecules.
 
- Here is a summary of the key points:
+ 
 
 - A firework consists of an explosive charge that is launched high into the sky before exploding in a controlled and colorful reaction. 
 
@@ -752,7 +752,7 @@ Forces:
 
 - Examples are given of how applying different levels of force to a ball of the same mass results in different accelerations according to the second law of motion.
 
- Here is a summary of the key points:
+ 
 
 - Robert Goddard (1882-1945) was an American scientist and inventor who is considered the father of modern rocketry. 
 
@@ -846,7 +846,7 @@ YEAR
 
 - Insulation and other techniques can help buildings use energy more efficiently and reduce heat loss, saving money and resources.
 
- Here is a summary of the key points:
+ 
 
 - GPS (Global Positioning System) uses satellites to determine the exact location of a GPS receiver like a cell phone. At least 4 GPS satellites are needed to calculate the position.
 
@@ -896,7 +896,7 @@ Overall, the VLT is a very powerful optical telescope facility that has helped a
 
 - Nuclear power generates electricity via fission reactions that split uranium atoms and release massive amounts of energy. Radioactive isotopes also have other applications in addition to power generation like medical uses.
 
- Here is a summary of the key points:
+ 
 
 - Nuclear power works by splitting atoms (fission) inside a reactor to generate heat. Water circulates through an inner and outer loop to absorb and transfer this heat. 
 
@@ -966,7 +966,7 @@ Overall, the VLT is a very powerful optical telescope facility that has helped a
 
 - Stone tools indicate the beginning of tool use and technology among early humans. Their development marked important progress.
 
- Here is a summary of the key points:
+ 
 
 - Ancient Egypt had a detailed system of hieroglyphic writing and specially trained scribes to keep records of wealth, ownership, and other important information. Only certain elite members of society such as priests were taught to read and write. 
 
@@ -1016,7 +1016,7 @@ The Romans were famous for grand public entertainments like acrobats, wild beast
 
 - The Great Wild Goose Pagoda in Xi'an, China was built in 652 under the Tang dynasty as a Buddhist monument.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses the major world religions: Christianity, Islam, Hinduism, Buddhism, Judaism, and Sikhism. These six religions comprise about 85% of the global religious population. 
 
@@ -1142,7 +1142,7 @@ The Mughals were Central Asian warrior invaders who conquered northern India in 
 
 - In 1783, Britain signed a peace treaty recognizing American independence and ceding territory. The former colonies became the first states of the new United States of America.
 
- Here is a summary of the key points:
+ 
 
 - The French Revolution saw the overthrow of the French monarchy and the establishment of a republic. It began in 1789 due to economic troubles and unfair taxation under King Louis XVI. 
 
@@ -1186,7 +1186,7 @@ The Civil War began in 1861 between Northern and Southern states over the issues
 
 - Key battles included the Battle of the Atlantic between German U-boats and Allied convoys critical for supplies between the US and Britain/USSR.
 
- Here is a summary of the key points:
+ 
 
 - The plugboard of the Enigma machine hugely increased the number of coding combinations by allowing cipher operators to swap individual input and output signals. 
 
@@ -1238,7 +1238,7 @@ The famous Woodstock music festival represented the youth counterculture of the 
 
 - The world population lives predominantly in Asia, Europe, and South America. Asia is the most populated continent led by China and India, comprising over 60% of the global population.
 
- Here is a summary of the key points:
+ 
 
 - The map shows the continents and countries divided according to geographic and political boundaries. 
 
@@ -1299,7 +1299,7 @@ Temperature:
 
 So in summary, some of the most incredible things in history include massive empires, transformative technologies, ambitious ancient constructions, and history's more unusual rulers. Major wars, inventions, and architectural achievements continue to impact the world today.
 
- Here is a summary of the key points:
+ 
 
 - Nebuchadnezzar II was a Babylonian king who spent seven years believing he was a cow after going mad. 
 
@@ -1315,7 +1315,7 @@ So in summary, some of the most incredible things in history include massive emp
 
 - Several structures are mentioned, such as temples, statues and gardens that were architectural wonders in the ancient world.
 
- Here is a summary of the key points:
+ 
 
 - A habitat is the natural home or environment of an animal, plant, or other organism.
 
@@ -1522,7 +1522,7 @@ cra). 142 Corbis: Sepp Jäger / MINDEN PICTURES (cla, cra). 143 Corbis: Valentin
 
 (clas). 179 Corbis: Tabish Alam (cra). 180 Dorling Kindersley: Natural History Museum, London (cra). 181 Corbis: Sepp Jäger / Image Broker (cra); Andrew Syred (cla). 182 Sepp Jaeger / ImageBroker.net (cra); Encyclopaedia Britannica / UIG (cla). 183 Corbis: Sepp Jäger / ImageBroker.net (cra); Encyclopaedia Britannica /UIG (bla). 184 Dorling Kindersley: Tyen / Cultura / Science Source (cra). 185 Corbis: Brandon Seidel (cra); Science Photo Library (cla/embryo). 186 Corbis: Sepp Jäger / Imagebroker.net (cra); Encyclopaedia Britannica / UIG (cla). 187 Corbis: Sepp Jäger / Imagebroker.net (cra); Encyclopaedia Britannica / UIG (cla). 188 Corbis: Wildlife / Picture Library (cla, cra). 189 Corbis: Michael Nichols / Biosphoto / naturepl.com (cra); Encyclopaedia Britannica /UIG (cla). 190 Corbis: Sepp Jäger / imagebroker (cra); Encyclopaedia Britannica / UIG (cla). 191 Corbis: Sepp Jäger / imagebroker (cra); Encyclopaedia Britannica / UIG (cla). 192 Dorling Kindersley: Natural History Museum, London / Encyclopaedia Britannica / UIG (cla); Melissa Murphy / Image Works (cra). 193 Dorling Kindersley: Melissa Murphy (cla); Aad Goudappel Photography / Cultura / Getty Images (cra). 194 Corbis: NOAA-Fisheries Permit #932-1489-00 (cla); Jiro Hyakutake (cra). 195 Corbis: WWF-Canon / Rosie Cooney (cla); Michel Roggo / imageBroker (cra). 196 Corbis: Pernetty / imagebroker.net (cra, cla). 197 Corbis: Reinhard Dirscherl / imagebroker.net (cla); OceanPhoto.com (cra). 198 Dorling Kindersley: Tim Draper/ Natural History Museum, London (cla); Asia Images Group / Getty Images (cra). 199 Dorling Kindersley: Tim Draper / Natural History Museum, London (cra). 200 Corbis: Steve Raymer / Nat Geo Image Collection (cla); Shaen Adey (cra). 201 Corbis: Walter Chandoha / imageBroker (cla); Alexander Semenov; WWF-Canon / Alex Pham (cra). 202 Corbis: Walter Chandoha / imageBroker (cla); Shaen Adey Photographic (cra). 203 Corbis: Myrtle Conger / The Image Works (cla); Shaen Adey Photographic (cra). 204 Corbis: Brian J. Skerry / National Geographic Stock (cla); imageBroker / Anthropic (cra). 205 Corbis: Andy Rouse / WWF-Canon (br); Greg Armfield / WWF-Canon (cra). 206 Corbis: Michael Patrick O'Neill / Alamy Stock Photo (cla); Bob Gibbons / BBC (cra). 207 Dorling Kindersley: Terry Whittaker / Mint Images (cla); Andrew Leppard / Mint Images (cra). 208 Corbis: Charlie Hamilton James / Mint Images (cla); Dave Watts / Mint Images (cra). 209 Corbis: Barry Cook (cla); Judi Joy (cra). 210 Corbis: Dennis Kunkel Microscopy, Inc. / Science Source (cla, cra). 211 Dorling Kindersley: Natural History Museum, London / Encyclopaedia Britannica / UIG (cla); Esther Bubley (cra). 212 Corbis: Chuck Frayer / Image Works Photography (cra); Jacques Descloitres, MODIS Rapid Response Team at NASA GSFC (cla). 213 - 214 Science Photo Library: U.S. Navy (tc). Science Photo Library: © Photoshot Holdings Ltd (c). Corbis: © U.S. Navy (bl). Corbis: J.A. Clauss / U.S. Navy (br). Corbis: Lee Stringer / U.S. Navy (tl). Corbis: Charles Norman Shuman / U.S. Navy (tr). 215 Science Photo Library: © Photoshot Holdings Ltd (crb). Corbis: © U.S. Navy (cla). Corbis: Gerald L. Flores / U.S. Navy (bc). Corbis: U.S. Navy Photographer's Mate Airman Sai Yin Ho (cra). 216 Corbis: Philippe Psaila (br). 217 Corbis: Chen Wang / SOPA Images / LightRocket via Getty Images (cla);Bernard Spragg. NZ / Alamy Stock Photo (cra). 218 NASA: (c). 219 Dorling Kindersley: Natural History Museum, London / Atomodel (cla); NASA (cra). 220 Dorling Kindersley: Science Museum / Science & Society Picture Library (cla); NASA (cra). 221 Corbis: NASA / Bill Ingalls (cla); NASA / Bill Ingalls (cra). 222 Dorling Kindersley: Natural History Museum, London (cra). 223 Corbis: Kecia Bal / Alamy Stock Photo (cla); Jean-Pierre de Muer / Science Source (cra). 224 Corbis: NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington (cla); ESA/Hubble & NASA (cra). 225 Corbis: NASA (
 
- Here is a summary of the key points:
+ 
 
 - Paul Harding World Imagery and inden Pictures provided stock photos marked (fbr). 
 
@@ -1540,7 +1540,7 @@ cra). 142 Corbis: Sepp Jäger / MINDEN PICTURES (cla, cra). 143 Corbis: Valentin
 
 - National Air and Space Museum, NASA, Boston Dynamics, Warwick Mobile Robotics, and others provided images or granted permission for their use.
 
- Here is a summary of the key points:
+ 
 
 - The book provides an overview of science topics related to the universe, Earth, life science, and human history. 
 

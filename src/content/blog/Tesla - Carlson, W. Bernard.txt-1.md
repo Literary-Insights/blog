@@ -121,7 +121,7 @@ So in summary, it provides background on Tesla's Serbian ancestry and migration 
 
 - When another illness nearly killed Tesla, his father promised he could study engineering if he recovered. After spending months recovering and hiding from military conscription, Tesla conceptualized some ambitious transcontinental and global transportation schemes using pressurized pipelines and an equatorial ring around Earth. This revealed his talent for grand, system-level inventions based solely on his powerful imagination and visualization skills.
 
- Here is a summary of the key points:
+ 
 
 - Tesla arrived at the Joanneum Polytechnic School in Graz, Austria in 1875 to study mathematics and physics with the intention of becoming a professor. 
 
@@ -163,7 +163,7 @@ Importantly, Tesla did not just envision motors, but whole systems comprising in
 
 Tesla's mental engineering through detailed visualization, his shift to considering AC power systems rather than individual machines, and conceptualizing motors as interlinked with generators set him on the path to successfully developing a practical motor without a commutator.
 
- Here is a summary of the key points:
+ 
 
 - Tesla moved to Budapest in 1881 seeking work helping to build a new telephone exchange supervised by Ferenc Puskás. Tesla had a recommendation from his uncle Pavle, who had served with Ferenc in the military. 
 
@@ -277,7 +277,7 @@ So in summary, Tesla came to work for Edison but left disappointed, then started
 
 - However, Tesla had problems getting a large enough temperature differential between the heating and cooling cycles to generate significant electricity. The design did not work well in practice.
 
- Here is a summary of the key points:
+ 
 
 - George Westinghouse was an inventor and businessman who founded the Westinghouse Electric Company. He possessed both technical skills and business acumen. 
 
@@ -315,7 +315,7 @@ So in summary, Tesla came to work for Edison but left disappointed, then started
 
 - The goal was profiting from their investment in Tesla not through long-term manufacturing, but through shorter-term patent sales or licensing deals with others better equipped to commercialize the inventions.
 
- Here is a summary of the key points:
+ 
 
 - Peck and Brown chose to promote and sell Tesla's patents as their strategy to make money. However, promoting patents was risky since there were many competing patents and inventors at the time. 
 
@@ -345,7 +345,7 @@ In summary, Peck and Brown strategically promoted Tesla's inventions through dem
 
 - Concerned about potential patent issues, Westinghouse representatives tested Tesla's motors and were impressed, though acknowledging the description was difficult to fully understand. Westinghouse moved forward with negotiations to acquire the Tesla patents.
 
- Here is a summary of the key points:
+ 
 
 - Tesla developed AC induction motors and worked with investors Alfred Brown and Charles Peck to develop and demonstrate the motor designs. 
 
@@ -439,7 +439,7 @@ In summary, Peck and Brown strategically promoted Tesla's inventions through dem
 
 - This combination of factors led Tesla to leave his experimental work and return to public lecturing in Europe to set the record straight on the invention of technologies like his rotating magnetic field AC motor.
 
- Here is a summary of the key points:
+ 
 
 - In 1891, German engineer Otto von Miller built the world's first long-distance high-voltage power transmission line from Lauffen to Frankfurt, a distance of 110 miles. 
 
@@ -825,7 +825,7 @@ Through more experimentation in 1896-1897, Tesla focused on improving his oscill
 
 - In Colorado Springs, Tesla worked on tuning techniques to provide "secrecy, immunity, and selectivity" for secure communication. He developed a system using two distinct frequencies sent and received simultaneously.
 
- Here is a summary of the key points:
+ 
 
 - Tesla was working to develop a system for wireless transmission of energy and telegraphy without wires over long distances. His goal was speeds of 1500-2000 words per minute. 
 
@@ -839,7 +839,7 @@ Through more experimentation in 1896-1897, Tesla focused on improving his oscill
 
 - The lack of witnessed experiments is puzzling given Marconi was regularly demonstrating his wireless system to reporters and investors at the time. It leaves questions about how far Tesla was truly able to transmit power wirelessly.
 
- Here are the key points:
+ 
 
 - Tesla did not feel extensive distance testing was necessary to prove his wireless system worked, as he was confident stationary waves propagated through the earth without loss of energy over any distance. 
 
@@ -861,7 +861,7 @@ Through more experimentation in 1896-1897, Tesla focused on improving his oscill
 
 - However, Tesla did not systematically try to disprove his hypotheses or "torture test" his ideas and inventions while in Colorado. He eagerly seized on any confirmatory evidence for his ideas about wireless power and long-distance communication, without rigorously examining alternatives or where his ideas might fail. This confirmatory bias prevented him from truly knowing the limitations of his work.
 
- Here is a summary of the key points:
+ 
 
 - Tesla was pleased with the wireless patent he had written during his experiments in Colorado Springs in 1899. He believed it was one of his best patents. 
 
@@ -879,7 +879,7 @@ Through more experimentation in 1896-1897, Tesla focused on improving his oscill
 
 - Tesla decided to promote his wireless plans in popular magazines rather than scientific journals to attract investors. This led to his lengthy article in The Century magazine outlining his vision.
 
- Here is a summary of the key points:
+ 
 
 - Tesla published an article in The Century Magazine outlining his visions for wireless transmission of energy and its potential applications. This generated interest but also skepticism from the scientific community. 
 
@@ -1013,7 +1013,7 @@ Tesla then scrambled to find new funding sources over the next two years. He tri
 
 - But Morgan refused to budge, and Tesla's efforts to find new backers for Wardenclyffe through aggressive marketing of the potential of wireless power continued failing without Morgan's full backing and commitment.
 
- Here is a summary of the key points:
+ 
 
 - Tesla was struggling to find investors to complete his Wardenclyffe wireless power transmission project on Long Island. Morgan had previously provided funding but refused more money. 
 
@@ -1075,7 +1075,7 @@ Tesla then scrambled to find new funding sources over the next two years. He tri
 
 - The announcement drew publicity but serious scientists were skeptical it could work as claimed due to the immense power needed over long distances. It reflected concepts in particle accelerators but not a realistic weapon.
 
- Here is a summary of the key points:
+ 
 
 - Tesla claimed to have developed a particle beam weapon that could destroy aircraft and ships from 100 miles away. He tried to sell this weapon to various governments in the 1930s including the US, UK, and Soviet Union. 
 
@@ -1203,7 +1203,7 @@ The notes discuss Nikola Tesla's early life and education in Croatia and his dev
 
 - The notes discuss Tesla's early life experiences and education that helped lay the intellectual foundations for his revolutionary work on electric power systems and motors. His time in Graz and Budapest were particularly formative in the development of his motor ideas.
 
- Here is a summary of the key points from the provided text:
+ 
 
 - In 1886, Nikola Tesla developed an induction motor that used alternating current and a rotating magnetic field. This was a breakthrough invention. 
 
@@ -1233,7 +1233,7 @@ The notes discuss Nikola Tesla's early life and education in Croatia and his dev
 
 - This marked a major success for Tesla after years of work developing his motor and struggling to win backing. It established his induction motor as the standard that would transform the industry.
 
- Here is a summary of the key points:
+ 
 
 - Tesla filed several patents related to AC induction motors in the late 1880s and early 1890s, improving on his original designs. This included work at his new lab in New York.
 
@@ -1425,7 +1425,7 @@ This passage is from an article in the New York Herald dated November 8, 1898 ab
 
 - The name Wardenclyffe proved short-lived and was changed to Shoreham in 1906 after construction had halted. While Tesla's unfinished tower remains shrouded in mystery, it appeared designed to fully demonstrate his innovations in wireless energy and global communication networks.
 
- Here is a summary of the key points:
+ 
 
 - The passage references letters, articles, and records from Tesla's papers at various archives like the Library of Congress, as well as books and interviews about Tesla's life and work. 
 

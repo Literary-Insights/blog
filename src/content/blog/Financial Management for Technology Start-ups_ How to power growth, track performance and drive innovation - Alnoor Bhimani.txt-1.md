@@ -49,7 +49,7 @@ BOOK LINK:
 
 - The book provides the financial lens and knowledge needed to power a tech startup's growth from launch through scaling.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses the need for founders to evaluate whether their startups are achieving their intended goals and using resources efficiently. 
 
@@ -189,7 +189,7 @@ This revised use of the growth-share matrix provides a useful framework for anal
 
 It stresses the importance of an ongoing process of planning, doing, checking, adjusting for startups given their unstable environment and lack of precedent. The financial control loop helps formalize fundraising and then supports ongoing feedback between planning, implementing, monitoring impacts and using those learnings to continuously improve.
 
- Here is a summary of the key points:
+ 
 
 - The figures shown represent different levels of units produced, from 5,000 to 20,000. As units produced increases, the fixed cost per unit decreases. This shows how fixed costs are shared over more units resulting in lower per unit costs. 
 
@@ -289,7 +289,7 @@ It stresses the importance of an ongoing process of planning, doing, checking, a
 
 - Net income shows overall profitability for the period and is a key metric analyzed by stakeholders.
 
- Here is a summary of the key points:
+ 
 
 - The income statement shows a company's financial performance over a period of time, usually a year. It displays revenues, expenses, and net profit/loss. 
 
@@ -379,7 +379,7 @@ It stresses the importance of an ongoing process of planning, doing, checking, a
 
 - Financial statement analysis of metrics like ratios over time and compared to competitors can help assess a start-up's progress by identifying shifts in performance and efficiency. Both horizontal analysis (comparing figures over time) and vertical analysis (expressing figures as percentages of totals) are useful analytical tools.
 
- Here is a summary of the key points:
+ 
 
 - Financial ratios can be used to assess the status of investments, compare current performance to past and planned performance, and performance against competitors. This helps identify strategies to pursue. 
 
@@ -413,7 +413,7 @@ It stresses the importance of an ongoing process of planning, doing, checking, a
 
 The summary provides the definitions and calculations of common financial ratios like ROE, ROA, profit margins, and investment ratios including DPS, dividend yield, dividend cover and EPS. All ratios are calculated using Microsoft's financial data for fiscal year 2019 from their annual report.
 
- Here is a summary of the key points:
+ 
 
 - Investors use earnings per share (EPS) to assess a company's investment potential and compare profitability between similar companies. EPS is calculated as net income divided by weighted average shares outstanding. 
 
@@ -515,7 +515,7 @@ So in summary, the passage discusses why cash budgeting is important for busines
 
 - Future funding rounds would dilute the holdings of earlier investors like the angel, so consideration needs to be given to how their stake will be impacted over time.
 
- Here is a summary of the key points:
+ 
 
 - The investor, Investix Inc, is investing $1 million in BlueTech Inc in exchange for Series A preferred stock. This values BlueTech at a pre-money valuation of $4 million. 
 
@@ -557,7 +557,7 @@ In summary, the term sheet outlines the key business and financial terms of the 
 
 - Overall, the references provide startup founders and entrepreneurs with information on different financing options (venture capital, crowdfunding), negotiating investment deals, legal considerations, valuation, and ensuring successful execution after raising funds. The guides aim to help businesses and entrepreneurs successfully structure and manage financing relationships.
 
- Here is a summary of the key points:
+ 
 
 - Costing a product involves tracing the direct material, direct labor, and allocating overhead costs that cannot be tied to individual units. 
 
@@ -757,7 +757,7 @@ It recommends tracking these metrics over time via a scorecard to monitor perfor
 
 - Venture capitalists provide capital for new or expanding startups.
 
- Here is a summary of the key points:
+ 
 
 - Fixed assets included intangible assets worth $79 million and tangible assets worth $79 million. Long-term investments were $78 million and long-term receivables were $79 million. 
 
@@ -773,7 +773,7 @@ It recommends tracking these metrics over time via a scorecard to monitor perfor
 
 - Companies discussed included Amazon, Apple, Facebook, Microsoft, and startups like Photon, Holotech, and Sciensus.
 
- Here is a summary of the key points:
+ 
 
 - The chapter discusses ratio analysis and different types of ratios, including liquidity ratios (current ratio, quick ratio), profitability ratios (gross profit margin, net profit margin, return on equity, return on assets), and vertical and horizontal analysis. 
 

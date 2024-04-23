@@ -127,7 +127,7 @@ In summary, the passage discusses how understanding the evolutionary development
 
 - Simulations exaggerate pleasures and solidify beliefs, but real experiences often differ. They also reinforce past pains and imagined future threats that may not materialize. Overall, the simulation process contributes to suffering by distracting from reality.
 
- Here is a summary of the key points:
+ 
 
 - Suffering comes from two types of "darts": the first dart is unavoidable physical or mental discomfort that is part of the human experience, like pain, sadness, or feeling rejected. The second dart is our own reactions to the first dart, which often amplify and prolong the suffering. Most of our suffering comes from these secondary reactions.
 
@@ -137,7 +137,7 @@ In summary, the passage discusses how understanding the evolutionary development
 
 - Understanding how secondary reactions are amplified physically through our stress response systems can help see suffering as an impersonal conditioned process rather than something truly inherent in external events or personal defects. This perspective facilitates responding to adversity with greater equanimity instead of amplifying distress through unnecessary secondary reactions.
 
- Here is a summary of the key points:
+ 
 
 - When stressed or threatened, the sympathetic nervous system (SNS) is activated, preparing the body for the fight-or-flight response. 
 
@@ -171,7 +171,7 @@ So in summary, acute stress prepares the body for emergency response, but chroni
 
 By consciously focusing on and internalizing positive experiences through these steps, we can balance out the negativity bias and develop a more well-rounded, optimistic perspective shaped by both positive and negative implicit memories. This serves to reduce unnecessary suffering.
 
- Here is a summary of the key points:
+ 
 
 - Mindfully savor positive experiences to strengthen their neural associations in memory through repeated recollection. Focus on emotions, sensations, rewards to increase dopamine and attention. 
 
@@ -201,7 +201,7 @@ By consciously focusing on and internalizing positive experiences through these 
 
 - Taking in the good highlights positive states of mind to return to for spiritual practice, builds conviction through results, and nourishes wholeheartedness. It's not about denial but nourishing well-being as an inner refuge.
 
- Here is a summary of the key points:
+ 
 
 - Progressive muscle relaxation involves tensing and relaxing different muscle groups in the body one by one, starting from the feet and working your way up to the face. This can be done with eyes open or closed.
 
@@ -357,7 +357,7 @@ The passage provides guidance for developing a personal "code of unilateral rela
 
 The key messages are that kindness stems from wanting others to be happy, not just oneself. It is expressed through everyday caring behaviors and cultivated through establishing intentions, wishes, feelings, and neurological factors that reinforce kindness. Both kindness meditation and everyday kind acts serve to strengthen this quality.
 
- Here is a summary of the key points:
+ 
 
 - When practicing loving-kindness meditation, start with someone who is only mildly difficult for you, like an annoying coworker who also has good qualities. Ease into directing kindness towards more challenging people. 
 
@@ -483,7 +483,7 @@ So in summary, the passage explores experientially how relaxing the sense of a f
 
 So in summary, the passage argues that while a sense of self arises, there is no unchanging, inherent self that exists. It emerges through conditions and can be influenced by factors like feeling tone, social context, and thought patterns of identification.
 
- Here is a summary of the key points:
+ 
 
 - Trying to possess things, take things personally, or separate yourself from others causes suffering as these things inevitably change and end. Relaxing the sense of self and going with the flow of life leads to more happiness. 
 

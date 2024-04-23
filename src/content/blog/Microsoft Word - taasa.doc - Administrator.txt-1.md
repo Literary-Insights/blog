@@ -357,7 +357,7 @@ Does this summary accurately reflect the key ideas and arguments presented in th
 
 That covers the essence of the key ideas and arguments conveyed in the summary regarding learning, meaning making, and the subjective nature of knowledge and perception. Please let me know if you would like me to clarify or expand on any of these points.
 
- Here is a summary of the key points:
+ 
 
 1. Meaning making is central to reading and learning. Teachers can only work with the meanings students construct. Lessons should focus on helping students understand how they make meaning and improve their meaning making abilities. 
 
@@ -395,7 +395,7 @@ The key points in the passage are:
 
 In summary, the key proposals are that education should focus on metalinguistic awareness and applying theories of language like Korzybski's general semantics. The ultimate goal is to produce thinkers who can evaluate language and meaning in a sophisticated, critical way.
 
- Here is a summary of the key points:
+ 
 
 1. Words themselves are not what upset the Post Office; rather, it is the meaning and connotations of certain words that are deemed objectionable. The Post Office censors not events themselves but the words and language used to describe those events.
 
@@ -775,7 +775,7 @@ In summary, the key suggestions are for teachers to relinquish some control and 
 
 The key argument is that social institutions and education need to adapt to radical, rapid changes in society's environment by promoting new concepts and ways of thinking. Failure to change in response to the changing environment results in a loss of relevance and 'future shock.'
 
- Here is a summary of the key points:
+ 
 
 1. The canon of logic and language established by the Greeks has dominated Western thought for over 2000 years. This canon assumes that mastery of logic and language leads to clear and efficient thinking. 
 

@@ -108,7 +108,7 @@ Good sleep is the most effective way to recharge this battery and restore willpo
 
 - Broader societal expectations that overtax people mentally and lead to chronic depletion of executive function resources also need to be addressed to help support positive individual-level changes. Strategies in the book aim to equip the reader to start improving habits even when mentally fatigued.
 
- Here is a summary of the key points:
+ 
 
 - Habit formation techniques like pre-commitment and willpower strategies may seem effective, but they require sustained willpower over time which can be difficult to maintain, especially during periods of low mental energy. Unless the habit is well established, people are prone to lapse back into old behaviors when willpower is low. 
 
@@ -352,7 +352,7 @@ The key themes are how interruptions, both external and internal, disrupt focus 
 
 - Completely cutting off technology access is not practical or sustainable. Instead, we need to develop wise technology habits and recognize the wider societal pressures that reduce focus and increase workload.
 
- Here is a summary of the key points:
+ 
 
 - Admin tasks can be grouped into dedicated "admin blocks" on days with many interruptions like meetings. This provides a space to slot in minor tasks without self-interrupting focused work. 
 
@@ -496,7 +496,7 @@ The key points are about the brain centers involved in emotions and regulation, 
 
 So in summary, while phone/technology use associations are observed, causation is difficult to determine and issues are probably influenced much more by multiple other life factors than technology alone based on current evidence.
 
- Here is a summary of the key points:
+ 
 
 - The researchers employed a pre-registered analysis method to prevent cherry-picking data that supports a predetermined narrative. This helps address issues that have affected many studies on smartphone use.
 
@@ -510,7 +510,7 @@ So in summary, while phone/technology use associations are observed, causation i
 
 - The relationship with phones is likely overemphasized as an issue compared to other more significant factors impacting mental health. A balanced, knowledge-based perspective is needed rather than fear-mongering rhetoric.
 
- Here is a summary of the key points:
+ 
 
 - Social media has become an inextricable part of modern life, though it also poses challenges for our cognitive processes and mental well-being. 
 
@@ -548,7 +548,7 @@ In summary, while social media can exacerbate body image and mental health issue
 
 - Studies on quitting social media show no clear benefits to well-being or mood. Intentional, mindful use avoiding overuse is healthier than complete avoidance. Setting boundaries through supportive habits allows social benefits while regulating potential negatives. Complete breaks don't necessarily build better habits long-term.
 
- Here is a summary of the key points:
+ 
 
 - Instead of many mindless, brief social media checks, it is better to plan a limited number of intentional checks per day. This leverages anticipatory dopamine and fosters a sustainable habit pattern.
 
@@ -562,7 +562,7 @@ In summary, while social media can exacerbate body image and mental health issue
 
 - Limiting habitual, compulsive refreshing is important to avoid disappointment from not receiving expected rewards and make social media use more enjoyable and balanced.
 
- Here is a summary of the key points:
+ 
 
 - Establised habits of disproportionately monitoring social media metrics like likes and comments can feel like wasted time and increase digital stress. Constant short checks become intrusive. 
 

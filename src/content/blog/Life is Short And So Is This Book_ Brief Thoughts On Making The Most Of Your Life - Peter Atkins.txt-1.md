@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points:
+ 
 
 - Life is short, so make the most of your time. Prioritize what's important.
 
@@ -95,7 +95,7 @@ The main themes are: develop strong character and integrity, take care of your p
 
 - Doing the same things over and over while expecting different results is insanity. Be willing to try new approaches.
 
- Here is a summary of the key points:
+ 
 
 - Be curious and open-minded. There is wisdom to be gained from observing the world and listening to others. 
 
@@ -119,7 +119,7 @@ The main themes are: develop strong character and integrity, take care of your p
 
 - Live in the present. Appreciate the journey. Don't just focus on distant goals.
 
- Here is a summary of the key points:
+ 
 
 - Life is imperfect and has real problems, but we in the developed world live dramatically better than even kings did hundreds of years ago. 
 
@@ -133,7 +133,7 @@ The main themes are: develop strong character and integrity, take care of your p
 
 - The message is to appreciate the progress made, while continuing to thoughtfully address the world's problems. Despite challenges, there are also many reasons for optimism about the future.
 
- Here is a summary of the key points:
+ 
 
 - Juli Douglas did the beautiful cover art. She always does great work. 
 

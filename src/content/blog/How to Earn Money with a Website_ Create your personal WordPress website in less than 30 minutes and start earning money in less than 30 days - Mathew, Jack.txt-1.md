@@ -39,7 +39,7 @@ BOOK LINK:
 
 - With a website, you can earn money online in a scalable way like running a virtual business with low costs and effort compared to a physical business.
 
- Here is a summary of the key points:
+ 
 
 - The website promotes making money online as being fun, easy, and profitable with little work required. 
 
@@ -55,7 +55,7 @@ BOOK LINK:
 
 - The key is providing valuable, relevant content to attract visitors and answer their questions on topics of interest. Tools like Google Keyword Planner help identify popular search terms to focus content around.
 
- Here is a summary of the key points:
+ 
 
 - Google is by far the most widely used search engine, so focus your efforts on optimizing your website for Google searches. 
 

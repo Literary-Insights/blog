@@ -166,7 +166,7 @@ While stress responses evolved to address physical threats, modern stresses are 
 
 - Resilience comes from finding purpose and meaning, meditating to stay focused, managing work-life balance, changing what you can control, and embracing what you can't through acceptance. Reconnecting with others and spreading joy also help maintain emotional balance in stressful times.
 
- Here is a summary of the key points:
+ 
 
 - Resilience and handling stress can involve making mid-course corrections, such as changing careers or jobs to find something more rewarding. 
 
@@ -226,7 +226,7 @@ The main points are that empathy is important for building strong relationships 
 
 The person being coached should pursue their own life goals and develop more of their strengths, rather than just evaluating where they are now. The coaching aims to help the person improve and grow, not just maintain the status quo. Pursuing goals and strengthening abilities allows the person to become better version of themselves over time, rather than remaining static. The focus is on potential and positive development.
 
- Here is a summary of the key points:
+ 
 
 - Teams at Pfizer and Biogen found a new, quicker way to develop the COVID-19 vaccine and met ambitious time and production goals, providing a breakthrough that improved many people's lives. 
 
@@ -296,7 +296,7 @@ During crises especially, a leader's emotional intelligence impacts employee wel
 
 Ultimately, leadership is about influence, and skillfully expressing emotions can inspire and comfort others. But leaders must be sensitive to workplace norms around emotion expression. Emotional intelligence helps ensure emotions are expressed naturally and appropriately.
 
- Here is a summary of the key points:
+ 
 
 - Aaron, the CEO of a company, expressed his feelings to employees after a close friend and colleague passed away. He acknowledged how they might be feeling and encouraged them to express their feelings to loved ones. 
 
@@ -356,7 +356,7 @@ The pandemic made it harder to establish these relationship-building norms and s
 
 So in summary, the passage discusses how applying EI principles in training and group discussions can build empathy, strengthen relationships, and help organizations effectively address DEI challenges. Research supports the ability of these approaches to increase collective EI over time.
 
- Here is a summary of the key points:
+ 
 
 - Using emotional intelligence (EI) tests to screen job candidates poses legal risks, as tests could reflect or worsen biases. Instead, organizations should focus on training and development to improve EI. 
 
@@ -388,7 +388,7 @@ Richard Boyatzis' Intentional Change Theory incorporates these key elements and 
 
 The key idea is that building an emotionally intelligent organizational culture requires fully integrating EI principles and skills into the company's systems and practices, not just one-time training programs. Leader role modeling and support are also important.
 
- Here are the key points:
+ 
 
 - Leaders who champion emotional intelligence (EI) are critical to building an emotionally intelligent organization. This is more effective than HR alone trying to impose EI skills. 
 
@@ -414,7 +414,7 @@ So in summary, having influential leaders vocally champion and model EI is key t
 
 - Developing emotional intelligence takes patience and years of effort. But it can result in stronger connections among employees and with customers. Progressive Insurance is an example of a company that invested in EI over the long term.
 
- Here is a summary of the key points:
+ 
 
 - Emotional intelligence will remain crucial in the future workplace as jobs change due to AI and automation. Soft skills like emotional skills will be increasingly important to differentiate humans from machines. 
 
@@ -582,7 +582,7 @@ So in summary, the meta-analysis provides empirical evidence that leadership sty
 
 - The American Psychologist article provided a high-level summary of Deci and Ryan's seminal work exploring how environmental factors impact intrinsic motivation and self-determined behavior as developed in their book and numerous other studies.
 
- Here is a summary of the key points:
+ 
 
 - The author discusses their views on belonging, team-building, and coaching. Belonging is important for things like conflict and crisis management. Team-building exercises can help with feedback and building psychological safety. 
 

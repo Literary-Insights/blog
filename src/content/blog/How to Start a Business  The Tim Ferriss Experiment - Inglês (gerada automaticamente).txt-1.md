@@ -45,7 +45,7 @@ The key events are evaluating Cindy's current teaching, defining financial and l
 
 - The goal is to help Cindy develop her business to a point of automation and scale, so she is not limited by teaching classes herself. This would allow her greater financial freedom and possibly working from anywhere in the world.
 
- Here is a summary of the key points:
+ 
 
 - The speaker presented footage from 5 different shows they captured on a subject. 
 

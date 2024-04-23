@@ -71,7 +71,7 @@ So in summary, the Dedication is short and simply dedicated to the author's fami
 
 - Retiring outdated terms through "euphemism treadmills" may not fully erase stigma, but listening to impacted groups encourages more respectful language over time through evolving social norms. Old terms that were meant neutrally can still become tainted through negative associations.
 
- Here is a summary of the key points:
+ 
 
 - The word "niggardly" is unrelated etymologically to the racial slur but sounds similar, so some who have used it have faced backlash, even being fired in one case. 
 
@@ -113,7 +113,7 @@ So in summary, the Dedication is short and simply dedicated to the author's fami
 
 - Finally, it discusses how sensitivity readers are increasingly used in publishing to screen for controversial issues, reflecting struggles to address industry's prejudiced legacy in a sensitive cultural climate.
 
- Here is a summary of the key points:
+ 
 
 - There has been a lack of diversity in children's book publishing, with glaring underrepresentation of authors from minority groups. Organizations like We Need Diverse Books have worked to increase equity and representation. 
 
@@ -173,7 +173,7 @@ Boldly defending controversial speech, while condemning harm, allows disagreemen
 
 So in summary, the passage discussed different approaches organizations and universities have taken when facing pressure over supporting or standing by speakers with offensive or controversial past statements, and some factors they consider in making these decisions.
 
- Here is a summary of the key points:
+ 
 
 - The Arendt Center at Bard College invited an AfD politician named Björn Höcke to discuss rising authoritarianism in Europe. The AfD is a right-wing populist party that has taken anti-immigrant positions. 
 
@@ -217,7 +217,7 @@ The passage discusses the importance of understanding context and intent when ev
 
 The passage argues understanding context involves understanding both the speaker's intent as well as deeper cultural issues in some cases. It stresses how media have a responsibility to verify information rather than spread misinformation. Overall it advocates understanding context, intent, and all facets of a situation before making judgments about speech.
 
- Here is a summary of the key points:
+ 
 
 - A 2014 Charlie Hebdo cover depicted a black woman as a gorilla, which is a racist trope, but it was actually satirizing the far-right National Front party in France that had used racist imagery. The woman depicted, Christiane Taubira, understood the satirical intent. 
 
@@ -229,7 +229,7 @@ The passage argues understanding context involves understanding both the speaker
 
 - There is debate around use of the n-word in educational/scholarly contexts, with some arguing it can be used when directly relevant and not as an epithet, while many students say it should never be uttered by white people. Intent and context can be difficult to fully recognize.
 
- Here is a summary of the key points:
+ 
 
 - There is debate around narrowing the boundaries of acceptable speech and whether popular attitudes should outweigh questions of intent and meaning. Academia aims to allow open examination of ideas. 
 
@@ -357,7 +357,7 @@ So in summary, the passage discusses both individual and institutional risks to 
 
 - There are open questions about when and how heavily to weigh different types of harm from speech in balancing with free expression. The summary argues not all harms are equal.
 
- Here is a summary of the key points:
+ 
 
 - Speech and violence intersect but are fundamentally different. Violence involves physical force and harm, while speech is an expression of ideas. 
 
@@ -433,7 +433,7 @@ In summary, the passage cautions against conflating speech and violence, arguing
 
 - In summary, it analyzes different perspectives in the campus free speech debate and argues constructively engaging all views is important to avoid further polarizing the issue.
 
- Here is a summary of the key points:
+ 
 
 - The event refers to controversy over the ACLU defending the legal rights of white nationalists who organized the "Unite the Right" rally in Charlottesville in 2017. Protesters criticized the ACLU for enabling hate speech and white supremacy through its free speech advocacy. 
 
@@ -461,7 +461,7 @@ Some critics argue that recent Supreme Court free speech decisions have further 
 
 - The passage contrasts the modern, strict standard for incitement from broader restrictions allowed in early 20th century cases during times of war or national emergency. This reflects an evolution toward stronger, more speech-protective jurisprudence.
 
- Here is a summary of the key points:
+ 
 
 - Courts have found that urging lawless or violent action at a future time, or in a contingent way, does not meet the legal definition of illegal incitement. Fiery or emotive rhetoric alone is also usually protected free speech if it stops short of a direct call for immediate violence. 
 
@@ -527,7 +527,7 @@ While hate speech is concerning, the passage argues strict laws have historicall
 
 - The risks of both expanded government regulation and expanded unchecked corporate controls on speech are acknowledged, as each could threaten open exchange of ideas and disproportionately benefit those enforcing the controls. Finding the right balance is challenging.
 
- Here is a summary of the key points:
+ 
 
 - Internet platforms like Facebook, YouTube, Twitter have become major markets for information, communication and commerce, but are privately controlled by the companies. 
 
@@ -605,7 +605,7 @@ It presents some proposals to hold tech companies more accountable, such as dema
 
 The passage notes that while breaking up tech giants through antitrust enforcement may lead to more choice in online content standards, ultimately users, citizens and civil society groups must pressure companies to properly balance limiting online harms with not unduly restricting free expression. The concerns discussed relate to tech platforms having outsized influence over public discourse without sufficient consideration of users' perspectives.
 
- Here is a summary of the key points:
+ 
 
 - Freedom of speech is essential for promoting the discovery of truth, as the competition of ideas allows truths to be refined and falsehoods exposed over time. Censorship can suppress new and valid ideas. 
 
@@ -663,7 +663,7 @@ However, after negotiations including a difficult trip to Pakistan to meet with 
 
 - "PEN America, 'United States Government Must Explain Decision to Deny Entry to Activist Author Omar Barghouti,’ April 11, 2019.": This discusses the US government denying entry to Palestinian activist and author Omar Barghouti and argues for the right to exchange ideas.
 
- Here is a summary of the key points:
+ 
 
 - Hate speech can contribute to a climate where hate crimes and other harms against minority groups increase. Studies have found increases in hate crimes correlated with Trump campaign rallies and language targeting minority groups. 
 
@@ -687,7 +687,7 @@ This effect was only observed for issues the participants personally cared about
 
 In summary, the article explores how verbal expressions and speech patterns may influence how integrated morality feels to one's sense of self. Finding brief cues like tone of voice can affect moral identity points to the self-shaping power of language.
 
- Here is a summary of the key points:
+ 
 
 - The study conducted a field experiment to test for racial discrimination in hiring. It sent nearly 5,000 fictitious resumes in response to help-wanted ads in Chicago and Boston newspapers. The resumes were randomly assigned either African American- or white-sounding names. 
 

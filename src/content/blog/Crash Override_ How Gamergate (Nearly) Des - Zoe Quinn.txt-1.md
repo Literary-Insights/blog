@@ -227,7 +227,7 @@ That covers the key points on how disinformation spreads, the role of algorithms
 
 The key message is that marginalized groups face disproportionate and intersecting types of abuse online that are frequently left out of mainstream discussions on harassment. Their experiences are treated as less central and less human.
 
- Here is a summary of the key points:
+ 
 
 Tone: The tone is solemn and disconcerted as the author recounts how her online accounts were hacked and used to spread misinformation in order to discredit her. She expresses feelings of panic, confusion and helplessness in the face of the coordinated attacks.
 

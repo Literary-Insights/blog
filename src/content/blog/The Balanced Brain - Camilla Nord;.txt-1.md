@@ -75,7 +75,7 @@ That covers the key ideas presented in the introduction regarding the author's p
 
 - More advanced techniques are needed to directly measure pleasure in the brain, since focusing only on associated behaviors makes it difficult to separate pleasure from other drives that could produce similar responses. Overall, investigating the neurobiology of pleasure and pain involves challenges in objectively quantifying subjective internal experiences.
 
- Here is a summary of the key points:
+ 
 
 - Measuring pleasure or other experiences in humans is easier than animals, as you can directly ask humans how they are feeling. 
 
@@ -103,7 +103,7 @@ In summary, the passage discusses some of the techniques, insights and limitatio
 
 - Laughter's ability to trigger mass opioid release may facilitate social bonding and group cohesion, providing an evolutionary advantage for survival. Alternative pain treatments are needed to avoid addiction risks from opioids.
 
- Here is a summary of the key points:
+ 
 
 - Researchers Scott, Carolyn McGettigan and Nadine Lavan have conducted experiments showing that laughter serves not just to promote social bonding, but also regulates negative emotional experiences. Laughter can immediately lift mood and have long-term benefits for relationships. 
 
@@ -265,7 +265,7 @@ So in summary, the chapter outlines how prediction error learning, driven by dop
 
 - Heath's experiments found brain stimulation could produce subjective pleasurable experiences in humans. However, they also had unethical dimensions and side effects like severe addiction to self-stimulation in some patients. The discovery of brain reward pathways had both advanced scientific understanding but also been pursued in a reckless and harmful manner.
 
- Here is a summary of the key points:
+ 
 
 - Heath's experiments on humans stimulating brain regions involved in reward and motivation raised many ethical concerns that were not fully addressed at the time. 
 
@@ -415,7 +415,7 @@ In summary, it discusses how recreational drugs should be regulated based on sci
 
 - Street cannabis has shifted to being higher in THC over time, which could impact cannabis users' mental health. More research is still needed to understand the complex relationship between cannabis and psychosis.
 
- Here is a summary of the key points:
+ 
 
 - Cave murals in southeast Algeria dating back 8,000 years depict local hallucinogenic mushroom species, providing early evidence of psychedelic use.
 

@@ -417,7 +417,7 @@ Other powers will also act to counter a united Germany and Russia:
 
 In sum, a number of militating factors argue the cooperation between Germany and Russia can only be brief before sliding towards confrontation.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses how France seeks dominance in a post-Order world without American global leadership and constraints. 
 
@@ -597,7 +597,7 @@ An alliance with Israel provides intelligence and weapons support but is limited
 
 So in summary, advances in 15th-16th century European shipbuilding and navigation undermined the Ottoman Empire's strategic positioning by enabling global trade networks independent of Ottoman control over land routes. This long-term technological change was a major contributor to the decline of the once-powerful empire.
 
- Here is a summary of the key points:
+ 
 
 - Turkey was once a major empire but collapsed after World War 1, losing most of its territory. It spent decades isolated and rebuilding. 
 
@@ -619,7 +619,7 @@ So in summary, advances in 15th-16th century European shipbuilding and navigatio
 
 - Challenging Russian influence in Ukraine and beyond could significantly benefit Turkey economically and strategically by removing a regional rival. It could also potentially allow Turkey to become the dominant power in the Caucasus again. However, this strategy also carries risks in confronting Russia.
 
- Here is a summary of the key points:
+ 
 
 - Turkey sees opportunities to expand its influence in areas that were previously part of the Ottoman Empire, such as the Crimean Peninsula, Northern Iraq/Syria, and the Eastern Mediterranean region including Greece and Cyprus. 
 
@@ -977,7 +977,7 @@ In summary, the passage argues that America's lack of a coherent strategic visio
 
 - They state their work would not be possible without this support network and research resources, and hope the team is ready to start work on the next book.
 
- Here is a summary of the key points:
+ 
 
 - Denmark, Germany, France, and Russia are mentioned in relation to their history and relationships with the US during and after the Bretton Woods global order period from 1945-1973. Germany had close economic ties to the US during this period. 
 
@@ -1021,7 +1021,7 @@ In summary, the passage argues that America's lack of a coherent strategic visio
 
 - Context is provided on related topics like mercantilism, the global war on terror, regional issues like the Middle East, and foreign policy toward countries like Venezuela, Vietnam, and Uruguay.
 
- Here is a summary of the key points:
+ 
 
 - In the US, 500 miles is typically considered the maximum distance for high-voltage transmission lines to transmit power, after which the transmission costs equal the costs of locally generated coal power. 
 

@@ -11,7 +11,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 ---
 
 
- Here is a summary of the key points:
+ 
 
 • The “attention merchants” refer to an industry devoted to capturing people’s attention and selling it to advertisers and others for commercial gain. This industry barely existed a century ago but has grown enormously since then. 
 
@@ -1220,7 +1220,7 @@ However, critics argued that advertising manipulated consumers and encouraged ov
 
 So in summary, while innovative marketing and spin helped popularize smoking, especially among women in the 1920s, it also fueled criticism about the manipulative power and negative impacts of advertising on society. The battle between advocates of commercial advertising and its critics would continue for decades.
 
- Here is a summary of the key points:
+ 
 
 • In the early 1920s, radio broadcasting was still in its infancy but growing rapidly. Advertisers began to recognize its potential for reaching mass audiences. 
 
@@ -1327,7 +1327,7 @@ Horton and Wohl propose the concept of "parasocial interaction" - the illusions 
 
 The established media capitalized on new opportunities, including new distribution platforms and content formats. People met demand for celebrity news. MTV leveraged new technology and shaped youth culture. An American Family and The Real World pioneered reality TV by recording the drama of everyday lives.
 
- Here is a summary of the key points:
+ 
 
 • In the late 1990s, Bill Gates declared that “content is king” and argued that the companies that would dominate the digital age would be those that controlled the flow of content. He envisioned Microsoft facilitating and enabling access to content. 
 

@@ -35,7 +35,7 @@ BOOK LINK:
 
 - The author observed successful "Big Winners" to identify 92 subtle techniques they use to get what they want in life. The book shares these techniques.
 
- Here is a summary of the key points:
+ 
 
 - The author explored techniques used by successful people in various fields to influence and persuade others. She broke them down into concrete, easy-to-use communication techniques. 
 
@@ -51,7 +51,7 @@ BOOK LINK:
 
 - Mastering these techniques will make people open up to you and want to know you better. You will stand out in any crowd.
 
- Here is a summary of the key points:
+ 
 
 - The author describes how his friend "Missy" had developed a new, slower smile after taking over her father's corrugated box business. Her father had advised her that slowing down her quick smile would give her more gravitas and credibility with clients. 
 
@@ -63,7 +63,7 @@ BOOK LINK:
 
 - The author advocates using strong eye contact judiciously, being aware of cultural and individual differences in comfort with it. Mastering eye contact is described as registering your eyes as "psychological lethal weapons."
 
- Here is a summary of the key points:
+ 
 
 - The author introduces techniques for making eye contact that make people feel you are interested in them, like "Sticky Eyes" where you maintain eye contact even after the other person finishes speaking. 
 
@@ -75,7 +75,7 @@ BOOK LINK:
 
 - Using these techniques projects a visceral message of respect, comprehension, knowledge and confidence. They make people feel captivated by you and convey that you are a "Winner".
 
- Here is a summary of the key points:
+ 
 
 - Good posture, a heads-up look, a confident smile, and direct gaze are the basics for projecting a successful image. 
 
@@ -89,7 +89,7 @@ BOOK LINK:
 
 - The key is to make people feel good about themselves when they're with you, by validating them through positive body language, full attention, and enthusiastic responses.
 
- Here is a summary of the key points:
+ 
 
 - To make people like you, you must show how much you like them through your body language and demeanor. Be warm, friendly, and enthusiastic. 
 
@@ -103,7 +103,7 @@ BOOK LINK:
 
 - Overall, making a great impression is about showing you are a friendly, genuine, confident person who is happy to connect authentically with others.
 
- Here are the key points:
+ 
 
 - When people lie, they often show physical signs of arousal like fidgeting. But fidgeting can also happen when you're nervous or feeling intimidated, even if you're telling the truth. Professional communicators train themselves not to fidget to avoid appearing suspicious.
 
@@ -129,7 +129,7 @@ BOOK LINK:
 
 - Techniques can help you smoothly begin conversations without awkward silences, start positively, and progress to deeper conversation. Mastering them can make you a great conversationalist.
 
- Here is a summary of the key points:
+ 
 
 - Small talk is not about conveying facts or clever words, it is about making a connection through matching moods and energy levels, like music. 
 
@@ -145,7 +145,7 @@ BOOK LINK:
 
 In summary, attentiveness to others' state of mind, empathic matching of mood, and passionate delivery are key to making a connection before conveying content. Small talk is about musical rapport, not facts.
 
- Here is a summary of the key points:
+ 
 
 - Don't worry too much about your first words when meeting someone. As long as you avoid negativity, almost anything you say to break the ice is fine. Deliver it with passion.
 
@@ -161,7 +161,7 @@ In summary, attentiveness to others' state of mind, empathic matching of mood, a
 
 The main ideas are to avoid negativity in your first words, use props or techniques to initiate conversations, and give open-ended responses to common questions to keep the conversation flowing. The focus is on being passionate and interested in the other person.
 
- Here is a summary of the key points:
+ 
 
 - The author was invited to be the keynote speaker at an association event on networking and conversational skills. Upon arriving, he was introduced to the head of the association, Mrs. Devlin, who asked where he was from. 
 
@@ -225,7 +225,7 @@ The key is making the storyteller feel interesting and admired for their tale wi
 
 The key is showing genuine interest in the whole person, not just their occupation. With practice, you can discover mutual interests and make valuable connections without putting someone on the spot about their work status.
 
- Here is a summary of the key points:
+ 
 
 - Instead of asking "What do you do?" which can come across as prying, ask "How do you spend most of your time?" This allows the other person to share as much or as little about their work as they want. 
 
@@ -235,7 +235,7 @@ The key is showing genuine interest in the whole person, not just their occupati
 
 - Use rich vocabulary words, but make sure they fit smoothly into your natural speaking style. Don't force in big words just to try to sound smart.
 
- Here is a summary of the key points:
+ 
 
 - Acquiring a rich vocabulary is easy - you only need to learn about 50 new words to sound impressive. Look up common words in a thesaurus and try out new synonyms.
 
@@ -265,7 +265,7 @@ The key is showing genuine interest in the whole person, not just their occupati
 
 The main idea is that strategic use of "you" and tailoring your smiles for each person and situation give you more influence and likability.
 
- Here is a summary of the key points:
+ 
 
 - Clichés should be avoided when speaking with highly successful people, as they may see it as a sign of unoriginal thinking. Come up with your own clever phrases instead. 
 
@@ -281,7 +281,7 @@ The main idea is that strategic use of "you" and tailoring your smiles for each 
 
 The main point is to make your communication more dynamic, memorable and tailored to each situation when conversing with highly successful people. Avoid seeming unoriginal or inappropriate.
 
- Here is a summary of the key points:
+ 
 
 - Use clever quotations, rhymes, and humor in your speech to engage your audience, but ensure they are relevant. 
 
@@ -295,7 +295,7 @@ The main point is to make your communication more dynamic, memorable and tailore
 
 The passages provide advice for speaking and communicating like "Big Winners" - being direct yet sensitive, using humor and discretion, and standing firm in the face of unwelcome probing. The techniques help establish credibility and authority.
 
- Here is a summary of the key points:
+ 
 
 - When you find yourself among a group of people who all share an interest or profession you know nothing about, don't panic. You can still participate in the conversation. 
 
@@ -311,7 +311,7 @@ The passages provide advice for speaking and communicating like "Big Winners" - 
 
 - Be an informed conversationalist, not an expert. With a little preparation, you can find common ground with any group and make them feel you are one of them.
 
- Here is a summary of the key points:
+ 
 
 - Rita is an avid bowler who is single and looking for a relationship. Her friend Walter is a white water rafting enthusiast who is also single. When introduced, they struggled to find common ground to talk about because they knew little about each other's hobbies. 
 
@@ -323,7 +323,7 @@ The passages provide advice for speaking and communicating like "Big Winners" - 
 
 - To learn key questions, you can ask friends in that profession for the typical opening questions they ask each other. This gives you enough knowledge to start and steer conversations.
 
- Here is a summary of the key points:
+ 
 
 - Learn some key phrases ("gobbledygook") in the language of the profession you'll be interacting with. Insiders appreciate when outsiders make the effort to learn their lingo. 
 
@@ -339,7 +339,7 @@ The passages provide advice for speaking and communicating like "Big Winners" - 
 
 The key ideas are to learn some insider language, discover their hot button issues, and expose yourself to more specialized worlds through reading to fuel insightful conversations. A little targeted preparation goes a long way in sounding like an insider.
 
- Here is a summary of the key points:
+ 
 
 - The author got interested in buying different magazines each week, particularly Flower and Garden Magazine. This paid off when a potential consulting client who had beautiful gardens invited the author to dinner. The author was able to impress her with knowledge of flowers and gardening terms learned from the magazine. 
 
@@ -349,7 +349,7 @@ The key ideas are to learn some insider language, discover their hot button issu
 
 - This "read their rags" technique allows you to relate to clients better and sound like an industry insider, even if you're not. The author considers this a valuable networking and relationship-building tactic.
 
- Here is a summary of the key points:
+ 
 
 - To get the best deals, learn some insider terminology relevant to the product or service you want to purchase. This signals to the seller that you are knowledgeable, and they are more likely to offer you a good price. 
 
@@ -365,7 +365,7 @@ The key ideas are to learn some insider language, discover their hot button issu
 
 - Reveal appropriate personal information about yourself that matches up with someone's interests or experiences to help them feel more kindred with you.
 
- Here is a summary of the key points:
+ 
 
 - Echoing means repeating back the exact words and phrases someone uses when speaking with them. This creates rapport by making them feel heard and understood. 
 
@@ -379,7 +379,7 @@ The key ideas are to learn some insider language, discover their hot button issu
 
 - Echoing is an easy but powerful way to make people feel you truly understand them. It connects you subliminally through your shared language.
 
- Here is a summary of the key points:
+ 
 
 - The author had a roommate named Brenda who was obsessed with tap dancing. Brenda said she became interested in tap "from the moment she first opened her ears", indicating she was very auditory. 
 
@@ -395,7 +395,7 @@ The key ideas are to learn some insider language, discover their hot button issu
 
 In summary, using references to all five senses, not just the one you suspect is primary, is an easy way to empathize with listeners. It connects your message through their dominant perception.
 
- Here is a summary of the key points:
+ 
 
 - Use "anatomically correct empathizers" to match your language to how the other person is speaking. If they use visual language, respond with visual phrases. If they use auditory or kinesthetic language, match that. 
 
@@ -407,7 +407,7 @@ In summary, using references to all five senses, not just the one you suspect is
 
 The techniques help make people feel closer to you by matching their language and creating a sense of shared experience and intimacy, even if you just met.
 
- Here is a summary of the key points:
+ 
 
 - Praise and flattery can be effective techniques for getting what you want from someone, but they must be done skillfully. Unskilled or insincere praise can backfire. 
 
@@ -423,7 +423,7 @@ The techniques help make people feel closer to you by matching their language an
 
 - The art of praise is complex, but mastering it can help win friends, influence people, and boost egos. The key is sincerity, timing and skill.
 
- Here are the key points:
+ 
 
 - Grapevine Glory, Carrier Pigeon Kudos, Implied Magnificence, and Accidental Adulation are four covert ways to compliment others. Slip praise into conversations indirectly. 
 
@@ -433,7 +433,7 @@ The techniques help make people feel closer to you by matching their language an
 
 - It's important to notice and appreciate when someone has done something good. Don't let loved ones wonder if you've noticed their efforts. Compliment them on jobs well done with Little Strokes.
 
- Here is a summary of the key points:
+ 
 
 - Little gestures like a smile, kind word, or touch mean a lot to people. Small compliments make someone feel appreciated. 
 
@@ -461,7 +461,7 @@ The techniques help make people feel closer to you by matching their language an
 
 - In summary, turn your gestures into talk and punch up your vocal energy to convey your engaging personality over the phone. Shower the conversation with the caller's name to connect.
 
- Here is a summary of the key points:
+ 
 
 - Saying someone's name frequently in person can sound manipulative, but on the phone it keeps their attention and recreates a sense of familiarity. Use people's names more often on the phone than in person. 
 
@@ -473,7 +473,7 @@ The techniques help make people feel closer to you by matching their language an
 
 In essence, use people's names, express enthusiasm specifically for them and their reason for calling, and don't take screening personally, as these are common practices even for big players. A positive phone attitude gets better results.
 
- Here is a summary of the key points:
+ 
 
 - The author became friends with Mrs. Big Cat (Sylvia) when consulting for her husband's organization. One day they were having tea and the phone rang. 
 
@@ -501,7 +501,7 @@ In summary, the secret is that Mrs. Big Cat is the real brains behind the operat
 
 In summary, use various techniques like cliffhangers, casual language, time zone translating, and acknowledging background noises to come across as an exceptionally thoughtful communicator on the phone.
 
- Here is a summary of the key points:
+ 
 
 - Listen to important phone conversations again by recording them to pick up on subtleties you may have missed the first time. This "instant replay" technique can help you catch key details. 
 
@@ -513,7 +513,7 @@ In summary, use various techniques like cliffhangers, casual language, time zone
 
 - Approach parties strategically like a politician would. Consider who you want to meet, when to arrive to meet certain people, what your goals are, why you want to attend, where the party is being held, and how you will accomplish your objectives. Arrive early and leave when you've met your goals.
 
- Here is a summary of the key points:
+ 
 
 - Politicians arrive at parties without food or drink in hand so they can focus fully on mingling. They eat beforehand. 
 
@@ -525,7 +525,7 @@ In summary, use various techniques like cliffhangers, casual language, time zone
 
 The main themes are that politicians are very strategic in how they navigate party mingling - from their entrance to how they survey the room for promising contacts to how they follow up afterwards. Their focused techniques help them use parties productively for networking.
 
- Here is a summary of the key points:
+ 
 
 - When looking to make meaningful connections with people, take an active role in seeking out individuals you find interesting rather than waiting for them to approach you. 
 
@@ -553,7 +553,7 @@ The main themes are that politicians are very strategic in how they navigate par
 
 - The bottom line is that customers give involuntary physical cues that the skilled salesperson watches for and reacts to, rather than just delivering a canned sales pitch. Eyeball Selling is about tuning into these nonverbal signals.
 
- Here is a summary of the key points:
+ 
 
 - Big Winners don't react to or comment on others' minor mistakes and embarrassing moments (e.g. spilled drinks, dropped trays). They ignore "bloopers". 
 
@@ -565,7 +565,7 @@ The main themes are that politicians are very strategic in how they navigate par
 
 - The next time someone near you drops something or makes a minor mistake, simply continue your conversation as if nothing happened. Don't call attention to their blunder with a reaction or comment. Practice this to exude Big Winner vibes.
 
- Here is a summary of the key points:
+ 
 
 - A friend habitually points out when the narrator sneezes, stumbles, or looks tired. While well-meaning, this is annoying as it draws attention to minor failings. The narrator wishes the friend would be silent about these small imperfections.
 
@@ -579,7 +579,7 @@ The main themes are that politicians are very strategic in how they navigate par
 
 - After someone does you a favor, wait a while before asking for another. Space requests out so as not to seem demanding. Gratitude, time, and reciprocity keeps the favor fabric strong.
 
- Here is a summary of the key points:
+ 
 
 - There are three unspoken "safe havens" where even tough people know not to attack or confront others: parties, meals, and the bedroom.
 
@@ -593,7 +593,7 @@ The main themes are that politicians are very strategic in how they navigate par
 
 - Timing is crucial. Wait for the right time and place to bring up difficult subjects. Don't confront people in relaxed social settings or intimate moments. Choose the proper setting to have serious discussions.
 
- Here is a summary of the key points:
+ 
 
 - Big winners know that business should not be discussed at social occasions. They enjoy each other's company over meals and save business talks for the conference table. 
 
@@ -709,7 +709,7 @@ Walters - Conversational techniques to connect with anyone through humor, intere
 
 Ziglar - Motivational sales advice focused on attitude, relationships, and serving customers.
 
- Here is a summary of the key points:
+ 
 
 Leil Lowndes is an author and communications expert based in New York City. She has written articles for popular magazines like Redbook, New Woman, Psychology Today, Penthouse, and Cosmopolitan. She is the author of four books, including the bestsellers How to Talk to Anyone and How to Make Anyone Fall in Love with You. 
 

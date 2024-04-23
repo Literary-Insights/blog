@@ -211,7 +211,7 @@ In short, test your marketing to make sure the engine will provide enough power 
 
 A good leader will have their team build a test marketing page before launching a new product. That way they can get real data on customer interest and buy-in before investing too heavily. It’s a smart strategy to make sure you have the right engine to power your new “plane.”
 
- Here is a summary of the key points:
+ 
 
 •A clear marketing message is critical to attracting customers and selling products. 
 

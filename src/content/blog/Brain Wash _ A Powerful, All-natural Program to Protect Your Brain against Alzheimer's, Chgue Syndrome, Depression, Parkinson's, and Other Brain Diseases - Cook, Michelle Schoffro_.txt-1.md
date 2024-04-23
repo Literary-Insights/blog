@@ -81,7 +81,7 @@ So in summary, the axons and synapses between neurons act like telephone lines, 
 
 Heavy metals like cadmium, aluminum, lead, and mercury can seriously impact brain health. Cadmium inhibits enzymes and nutrient absorption, potentially causing high blood pressure, kidney damage, and other issues. Aluminum is linked to Alzheimer's disease and can cross the blood-brain barrier, causing nerve cell death and inflammation. Exposure comes from industrial sources, fertilizers, cigarettes, food, water, vaccines, dental fillings and other common items. Minimizing intake through diet and lifestyle choices can help reduce toxic metal levels in the body. Getting tested can identify any excess levels, which natural treatments may then help address.Overall, limiting exposure to heavy metals is important for protecting brain function and preventing neurological diseases.
 
- Here is a summary of the key points:
+ 
 
 - Aluminum is linked to over 50 brain chemical reactions and its relationship to Alzheimer's disease is clear. Additional studies are finding links between aluminum and other neurodegenerative diseases like Parkinson's. 
 
@@ -95,7 +95,7 @@ Heavy metals like cadmium, aluminum, lead, and mercury can seriously impact brai
 
 - Milk consumption may actually increase absorption of lead and cadmium, due to proteins, fat and lactose enabling higher uptake into the body and brain.
 
- Here is a summary of the key points:
+ 
 
 - Lead is commonly found in homes through old paint but can also be found in ceramic dishes, dust from vinyl blinds, and tap water depending on the home's plumbing materials. 
 
@@ -135,7 +135,7 @@ Heavy metals like cadmium, aluminum, lead, and mercury can seriously impact brai
 
 - Key sources of toxins include pesticides, air pollution from transportation and industry, consumer products, and contamination of food and water sources. This "toxic load" and "body burden" is concerning for brain health.
 
- Here is a summary of the key points:
+ 
 
 - Air pollution from agricultural spraying, land spraying, electromagnetic emissions, and chemical dumping introduce air pollutants. 
 
@@ -175,7 +175,7 @@ Heavy metals like cadmium, aluminum, lead, and mercury can seriously impact brai
 
 - Fungicide catan used on foliage, seed and soil is linked to genetic mutation.
 
- Here is a summary of the key points:
+ 
 
 - A study found that exposing 19-day old mice to flame retardants caused behavioural abnormalities, but the same dose given to 19-day old mice caused no changes. Scientists theorize the flame retardants interfered with hormone development during the brain growth period in early life for rodents (and humans have a similar brain growth spurt from late pregnancy to age 2). 
 
@@ -221,7 +221,7 @@ Heavy metals like cadmium, aluminum, lead, and mercury can seriously impact brai
 
 The chapter discusses how the standard diet deprives the brain of needed nutrients and exposes it to harmful chemical additives and toxins at high levels, threatening brain health. It emphasizes the importance of avoiding processed foods, MSG, sugars and choosing whole, organic foods instead.
 
- Here is a summary of the key points:
+ 
 
 - The average person consumes around 60 pounds of sugar per year, which is nearly unbelievable for most. Sugar hides in many processed foods and beverages like soda, meat, cereal, etc. 
 
@@ -263,7 +263,7 @@ So in summary, the passage establishes that gut health and proper digestion are 
 
 - Proper digestion is important for brain health to prevent overgrowth of harmful microbes. Factors like not chewing well, drinking with meals, and stress can impair digestion. Maintaining beneficial gut bacteria through diet supports overall health and brain health.
 
- Here is a summary of the key points:
+ 
 
 - Eating large or complex meals can negatively impact digestion as the stomach may dump food into the small intestine prematurely before it is fully broken down. The small intestine is not equipped to do the stomach's job of breaking down food. 
 
@@ -361,7 +361,7 @@ So in summary, certain vitamins, minerals and fiber obtained through a healthy d
 
 - Detoxification requires adequate intake of nutrients involved in the process from foods like carrots, greens, nuts and mushrooms.
 
- Here is a summary of the key points:
+ 
 
 - Niacin is found in avocados, dates, figs, green vegetables, whole grains, brown rice, and sunflower seeds.
 
@@ -419,7 +419,7 @@ Some key points:
 
 - Specific dosages or preparation methods are provided for some of the herbs, such as making decoctions or taking standardized extracts. Overall these herbs are said to support the digestive and detoxification systems to benefit brain health.
 
- Here is a summary of the key points:
+ 
 
 - Follow a 5-step plan to build a better brain: 1) Lessen exposure to neurotoxins, 2) Follow Brain Wash dietary suggestions, 3) Add brain-boosting foods, 4) Add targeted supplements, 5) Engage in brain-stimulating activities. 
 
@@ -457,7 +457,7 @@ Supplements suggested include alpha lipoic acid, CoQ10, chlorella, cellfood, pro
 
 Mental exercise through activities like puzzles, learning something new, asking questions and laughter are recommended to "use it or lose it" and prevent diseases like Alzheimer's. Maintaining an overall brain-healthy lifestyle is the goal.
 
- Here is a summary of the key points:
+ 
 
 - Laughing releases endorphins that boost our immune system and make us feel good. It's important to find humor in life and spend time with funny people. 
 
@@ -481,7 +481,7 @@ Mental exercise through activities like puzzles, learning something new, asking 
 
 - Moderate sun exposure boosts vitamin D levels which may reduce risk of conditions like multiple sclerosis by protecting the brain and nervous system.
 
- Here is a summary of the key points:
+ 
 
 - The passage advocates for letting children get sun exposure to gain health benefits and avoid autoimmune diseases. It says sunscreen may block beneficial UV rays and has been linked to cancer. 
 
@@ -553,7 +553,7 @@ Managing CFS holistically focuses on rest, stress reduction, dietary changes lik
 
 - If no improvement after 3 months, work with a practitioner to consider increasing DHEA levels.
 
- Here is a summary of the key points:
+ 
 
 - Multiple chemical sensitivity (MCS) has been linked to abnormal brain waves, immune abnormalities, and impaired detoxification mechanisms. The causes are still being researched.
 
@@ -1055,7 +1055,7 @@ C 
 
 - Exposure to toxins like lead, pesticides and air pollution can harm brain development and function. Detoxifying the home and body is recommended.
 
- Here is a summary of the key points:
+ 
 
 - Ion program discusses methods to balance ions in the body from pages 231-235. 
 

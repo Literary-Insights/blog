@@ -43,7 +43,7 @@ BOOK LINK:
 
 - Jenna Fischer is excited as a longtime fan of Kendra's podcast and says her wisdom will light a fire to do what matters and chill about the rest.
 
- Here is a summary of the key points:
+ 
 
 - The introduction tells a story about trying to fill an endless hole in the sand as a metaphor for how women try to juggle all their responsibilities but feel like they are getting nowhere. 
 
@@ -99,7 +99,7 @@ Some examples of areas to decide once include:
 
 Making fixed decisions relives mental strain and allows focus on what really matters. It's about loosening the grip on endless options and choosing intentionally to add ease to daily living.
 
- Here is a summary of the key points:
+ 
 
 - The author advocates for deciding things once to reduce mental energy spent on decisions and free up time and focus for other priorities. This principle of "deciding once" makes life easier.
 
@@ -125,7 +125,7 @@ Making fixed decisions relives mental strain and allows focus on what really mat
 
 - Small steps work because they are doable and sustainable, allowing for continuous movement toward one's goals over time through repetition versus sporadic bursts that are hard to maintain.
 
- Here is a summary of the key points:
+ 
 
 - The author struggled with chaos during the busy time after school when trying to balance multiple tasks like homework, meal prep, cleaning, etc. Either being too lazy or too rigid in their plans led to stress. 
 
@@ -137,7 +137,7 @@ Making fixed decisions relives mental strain and allows focus on what really mat
 
 - The key is starting a productive chain reaction with one small step now rather than trying to eliminate all urgency. This question helps stay one step ahead through sustainable daily habits.
 
- Here is a summary of the key points:
+ 
 
 - The Magic Question is "What can I do now to make [something] easier later?" It prompts you to think of small preparations you can do in advance to reduce hassle and stress in the future. 
 
@@ -239,7 +239,7 @@ The passage encourages readers to think about areas of regular conflict in their
 
 - Over time, paying attention to what items get moved around or ignored will reveal what is really useful and deserves space versus what can be donated or discarded. Developing organizational habits helps maintain a clutter-free home focused on priority possessions.
 
- Here are the key points:
+ 
 
 - Cleaning up and putting toys away is annoying but helps kids see what's available to play with and prevents overwhelmed feelings from too much choice. 
 
@@ -255,7 +255,7 @@ The passage encourages readers to think about areas of regular conflict in their
 
 The key message is that maintaining an organized home space helps kids and facilitates connection, but cleanliness itself doesn't determine a person's value. Forming relationships takes vulnerability and small acts of opening up.
 
- Here is a summary of the key points:
+ 
 
 - The author acknowledges common reasons people may be hesitant to have others over or accept help, such as feeling busy, not wanting to cook, fear of rejection, etc. But encourages trying to overcome those reasons just once to pursue connection. 
 
@@ -269,7 +269,7 @@ The key message is that maintaining an organized home space helps kids and facil
 
 The overall message encourages overcoming reasons to isolate and focus on superficial things, instead prioritizing meaningful connection and community through simple acts of hospitality and vulnerability about everyday challenges.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses the importance of sharing small, everyday "eye poke" moments with close friends and family, not just serious crises. These little moments build deep connections. 
 
@@ -335,7 +335,7 @@ The author advocates a three-step process for essentializing: 1) Name what reall
 
 The key points are that essential doesn't have to mean minimal, and the individual gets to choose what matters to them. Essentializing can be applied to any area of life by starting small. The overall message is that stripping away distractions allows one to better focus on what is truly important.
 
- Here is a summary of the key points:
+ 
 
 - The passage advocates for going about tasks in the "right order" by following 3 steps: 1) Remember what matters, 2) Calm the crazy, and 3) Trust yourself. 
 
@@ -379,7 +379,7 @@ So in summary, the post advocates for the importance of scheduling regular rest,
 
 The key messages are that rest is something you actively schedule and prioritize, not just a passive luxury, and it's about incorporating enjoyable small rituals rather than waiting for ideal vacation opportunities that may not materialize. Starting simple is recommended over trying to achieve an impossible standard of perfection.
 
- Here is a summary of the key points:
+ 
 
 - Self-care is about doing what makes you feel like yourself, not just pampering. It's important to schedule rest and not just let it happen randomly. 
 
@@ -419,7 +419,7 @@ Making space for self-kindness, compassionate self-reflection and celebrating pr
 
 - Learning to celebrate yourself through these practices is an important way to show yourself kindness and nurture self-worth. It should feel fun rather than like a burden.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses how a military wife named Bri can take a Lazy Genius approach to moving to a new city. It uses Bri's situation as a case study for applying the 13 principles. 
 
@@ -431,7 +431,7 @@ Making space for self-kindness, compassionate self-reflection and celebrating pr
 
 - The key is not to overcomplicate it but run situations through the principles to see what changes in mindset or approach could make things more manageable.
 
- Here is a summary of the key points from the provided text:
+ 
 
 - Always wear an apron when cooking to feel a sense of purpose in the kitchen. 
 

@@ -131,7 +131,7 @@ The main message is that emotions themselves are not the problem and they do not
 
 The key message is that there are many signs you're doing okay in life, even if you don't realize it. Appreciating the small things and focusing on personal growth are good ways to feel more content and realize you're doing better than you may think.
 
- Here is a summary of the key points:
+ 
 
 • Most people self-sabotage and prevent themselves from being truly happy due to their “upper limit”—the maximum amount of happiness they are comfortable experiencing and allow themselves to feel. Going beyond this threshold makes them uncomfortable, so they sabotage their happiness to return to what they know. 
 
@@ -267,7 +267,7 @@ In summary, you must let go of the expectations that you can control life and ho
 
 • We cannot numb selective emotions. When we numb one emotion, we numb them all, including positive ones like joy and gratitude. It is healthiest to experience a full range of emotions.
 
- Here is a summary of the key points:
+ 
 
 •Focus on appreciating what you currently have rather than chasing what you don’t have. Make goals centered around loving your life as it is. 
 
@@ -345,7 +345,7 @@ In summary, you must let go of the expectations that you can control life and ho
 
 •Imagine speaking to your wisest future self. This provides perspective and guidance.
 
- Here is a summary of the key points:
+ 
 
 • Creativity is an innate human ability and instinct, not a luxury. Humans have always found ways to express themselves creatively, even in ancient times.
 
@@ -457,7 +457,7 @@ The overall message is that how you think about your life and circumstances, not
 
 The key message is to shift your focus from how your life looks to how it feels. Pay attention to the meaningful experiences, moments and relationships that actually fulfill you rather than chasing an image meant to impress imaginary “people.” Let go of the need to control appearances and instead focus on living a life of purpose and meaning.
 
- Here is a summary of the key points:
+ 
 
 1. Practice conscious awareness of your thoughts and feelings. Become aware of the messages you send yourself about yourself. Notice negative or self-sabotaging thoughts and work to replace them with more constructive ones. 
 
@@ -1074,7 +1074,7 @@ In summary, while positive thinking does not come naturally, it is a choice we c
  accountable for an issue.
 Shoulds.
 
- Here is a summary of the key points:
+ 
 
 - Your experience of the world is constructed by your mind and perceptions. You can choose to shift your focus and create a different experience.
 
@@ -1118,7 +1118,7 @@ We need to teach emotional intelligence and help children process emotions rathe
 
 Our emotions are subtle physical sensations, but we tend to interpret them through the lens of thought. We have to learn to distinguish raw feelings from the stories we tell ourselves about them. Feelings just are - they do not require justification or explanation. We can choose to not be ruled by them.
 
- Here is a summary of the key points:
+ 
 
 1. Reconnect with your life. Connect with the present moment, other people, and yourself. Anxiety stems from disconnection in one or more of these areas. 
 

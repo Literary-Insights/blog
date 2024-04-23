@@ -27,7 +27,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - Marketing has fundamentally changed. Companies must innovate, stop just advertising, and build "Purple Cows" with marketing baked into the offering.
 
- Here is a summary of the key points:
+ 
 
 - Traditional mass marketing tactics like TV advertising are becoming less effective as consumers are overwhelmed with choices and have less time and attention to devote to ads. 
 
@@ -73,7 +73,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 The key is to come up with an innovation that is both useful and highly visible to consumers. Something distinctive that makes shoppers take notice when walking down the laundry aisle. It needs to stand out as new and exciting compared to the sea of similar-looking detergent bottles.
 
- Here are the key points:
+ 
 
 - Successful new products follow a pattern: they are first purchased by innovators, then early adopters, then the early and late majority. The majority of consumers ignore new products until peers have adopted them. 
 
@@ -85,7 +85,7 @@ The key is to come up with an innovation that is both useful and highly visible 
 
 - Don't try to appeal to everybody. Target a niche market first where your idea can spread quickly among early adopters and sneezers before diffusing more widely.
 
- Here are the key points:
+ 
 
 - Not all customers are equally valuable. Some customers, like the 10% of heavy online banking users for the bank, are far more profitable than others. 
 
@@ -97,7 +97,7 @@ The key is to come up with an innovation that is both useful and highly visible 
 
 - Leave the least profitable segments to competitors. Specialize on the slices of the market that are most valuable to you.
 
- Here are the key points:
+ 
 
 - Being "purple" (remarkable) is effective for standing out, but rare because people are afraid of criticism. 
 
@@ -111,7 +111,7 @@ The key is to come up with an innovation that is both useful and highly visible 
 
 - Take the risk to stand out, be criticized, and be remarkable. This is the only way to cut through the clutter.
 
- Here is a summary of the key points:
+ 
 
 - Boring business strategies are risky because they make it easy for competitors to copy you and erode your market share. Being remarkable and pioneering new ideas is less risky in the long run. 
 
@@ -209,7 +209,7 @@ The key is having a systematic process to push boundaries and ideate, while grou
 
 The key is that remarkable originates from intuition and passion, whether your own innate obsession or projected understanding of others' interests. But pure projection gives you more options to identify the seeds of a remarkable product or experience.
 
- Here is a summary of the key points:
+ 
 
 - The traditional marketing and advertising model that has worked in the past is no longer as effective for many companies. As the marketplace gets more crowded, simply doing more ads and promotions is not cutting through the noise. 
 
@@ -267,7 +267,7 @@ The key insight is that advertising alone is no longer sufficient to build stron
 
 - The key is finding unexplored combinations of attributes that create something remarkable and new. Every product should go through this analysis.
 
- Here are the key points:
+ 
 
 - Remarkable products or services get talked about and spread through word of mouth. John Waters' early weird movies developed a cult following this way. 
 
@@ -287,7 +287,7 @@ The key insight is that advertising alone is no longer sufficient to build stron
 
 - Some entrepreneurs succeed in dying industries like music by being remarkable and focusing on indie musicians.
 
- Here are the key points:
+ 
 
 - New musicians and customers are embracing innovative music distribution companies like CDBaby.com, Oasis CD Duplication, and Airshow Mastering that offer more customized services compared to the slow-moving major music labels. 
 

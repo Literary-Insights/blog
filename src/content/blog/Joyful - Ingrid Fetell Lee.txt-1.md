@@ -43,7 +43,7 @@ Similarly, Ruth Lande Shuman founded Publicolor to brighten dreary New York City
 
 Research shows that colorful work environments boost alertness, joy, and productivity. Bright palettes may act as stimulants that stir us from complacency. They signal that spaces are alive and conductive to thriving. Although initially resisted, vivid colors prove transformative when authentically applied at a systemic scale. Overall, the essay explores how color signifies life and cultivates conditions supporting community well-being.
 
- Here is a summary of the key points:
+ 
 
 - The architect's Peter Stamberg and Paul Aferiat used bold colors at their Saguaro Hotel, helping make it one of the most Instagrammed hotels. They said people fear color out of not wanting to make a mistake with their choices. 
 
@@ -157,7 +157,7 @@ Disorderly environments have been linked to adverse psychological effects, while
 
 Our brains are wired to perceive similarity - grouping like objects together simplifies information processing. Collections and organized displays feel joyful because our eyes see relationships between items. Interior designers advise using consistent elements like color, size, or material to instill a sense of unity. Putting order in chaos through repetition, balance, and an underlying structure can enhance complex spaces.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses how symmetry pleases the human eye and brain. We intuitively prefer symmetrical shapes and arrangements over asymmetrical ones. 
 
@@ -411,7 +411,7 @@ Carnival artist Peter Minshall is known for his elaborate and innovative costume
 
 - Oversize elements signal something important is being celebrated by standing out from the everyday. They function as a nucleus, drawing people together in shared joy. Without such a focal point, celebrations lack a center of gravity.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses a Turkish artist named Zencirli, who live streams her celebrations to share joy with others. This reminds the author that historically, celebrations were public affairs that brought whole communities together. 
 
@@ -443,7 +443,7 @@ The passage discusses how floral patterns and blossoming shapes can bring a sens
 
 It then describes designer Eva Zeisel and what made her designs so appealing. Though she worked in the modernist era when organic forms were unfashionable, Zeisel incorporated voluptuous, curving shapes into her pieces. Her assistant, Olivia Barry, noticed Zeisel's curves always matched templates called French curves. When asked about this, Zeisel replied that her designs used "obvious curves" - the most satisfying and pleasurable curves to look at, potentially drawing from nature or mathematics. In contrast to her modernist peers who favored strict angles, Zeisel felt curves were indispensable for creating designs with emotional appeal and sensitivity. Her use of curving forms brought an organic quality that was unconventional for the time but ultimately made her works feel alive and joyful to touch.
 
- Here is a summary of the key points:
+ 
 
 - Hungarian designer Maria Zeisel was famous for using organic, flowing S-curves in her ceramic and metalwork designs, which drew inspiration from natural shapes, like plant growth. She viewed the S-curve as the most expressive line that suggested dynamism.
 
@@ -479,7 +479,7 @@ The passage calls for restoring joy as a priority in life, work, and design thro
 
 In summary, it is a framework that uses aesthetics as a starting point for thoughtfully designing projects, environments, and experiences to cultivate greater joy.
 
- Here are the key points:
+ 
 
 - Declutter the entryway and organize collections. 
 

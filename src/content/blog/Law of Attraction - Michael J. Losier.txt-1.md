@@ -31,7 +31,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 The key message is that you attract what you focus on, so focus on what you want.  Raise your vibration and open yourself up to receiving it.  Let go of doubt and limitation.  The Law of Attraction can help you achieve your dreams.
 
- Here is a summary of the key points:
+ 
 
 - The Law of Attraction states that you attract into your life whatever you focus on, whether positive or negative. 
 
@@ -61,7 +61,7 @@ That's a high-level summary of the key points regarding the Law of Attraction ac
 
 - Words are emphasized in the Law of Attraction because the words we use generate the vibrations we emit. By choosing our words deliberately, we can choose the vibrations we send out and what we attract.
 
- Here is a summary of the key points:
+ 
 
 e you selfish about what you hear? 
 
@@ -98,7 +98,7 @@ It’s ok to be selfish by identifying what makes you feel good and doing more o
 
 The amount of time you spend focused on contrast is up to you. Observe it briefly then refocus on clarity.
 
- Here is a summary of the key points:
+ 
 
 cting Mor
 
@@ -282,7 +282,7 @@ Repeating your Desire Statement, especially when you first wake up and before be
 - Monitor how thoughts and statements feel to you. If they feel good, you're offering a positive vibration. If they feel bad, you're offering a negative vibration. Adjust as needed.
 - Keep practicing vibration-raising tools. Your vibration will improve over time. Stay focused on what you want, not what you don't want.
 
- Here is a summary of the key points:
+ 
 
 - Allowing is the absence of negative vibration (doubt)
 - Doubt creates resistance, canceling out your desire

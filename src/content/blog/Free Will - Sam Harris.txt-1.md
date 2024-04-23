@@ -37,7 +37,7 @@ It cites neurological studies showing intentions are formed in the brain millise
 
 The passage also says the distinction between voluntary vs involuntary actions does not support free will. While intentions signal something meaningful about a person, their origins remain mysterious. Where thoughts and intentions come from cannot be traced to a conscious point of origin or decision. Overall, the passage makes a strong deterministic argument that free will as commonly conceived does not exist, since our mental states are produced by prior unconscious causes rather than by conscious choice.
 
- Here are the key points:
+ 
 
 - The passage argues that we are not truly free or in control of our thoughts and actions in the way that most people suppose. Our thoughts and behavior are determined by unconscious neural and other prior causal factors that we have no control over. 
 
@@ -79,7 +79,7 @@ While people's choices and efforts do matter and influence outcomes, they themse
 
 - Overall, the passage makes the case that while free will may be an illusion, understanding the lack of it can paradoxically increase control over one's life and allow for a more ethical and compassionate view of human behavior and responsibility.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses 5 cases of intentional killings and how our moral judgment of the perpetrators differs based on their backgrounds and circumstances. 
 

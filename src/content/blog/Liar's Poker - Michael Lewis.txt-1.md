@@ -117,7 +117,7 @@ BOOK LINK:
 
 - This intense competitive environment and lack of transparency or support from management ultimately undermined collaboration and cooperation among the trainees.
 
- Here is a summary of the key points:
+ 
 
 - Salomon Brothers highly valued the few Japanese traders they employed and treated them differently than other employees. 
 
@@ -305,7 +305,7 @@ Dall needed a trader and financier to lead the new department. He chose Stephen 
 
 - Salomon mortgage traders felt they dominated the US mortgage market and saw themselves as uniquely bold and profitable. But the firm's loose controls failed to properly monitor costs and risks.
 
- Here is a summary of the key points:
+ 
 
 - In the 1980s, Lew Ranieri pitched mortgage-backed securities to institutional investors like pension funds and insurance companies, struggling to convince them to buy despite the higher yields. 
 
@@ -507,7 +507,7 @@ After discussing it with Alexander and getting assurances from his supervisor "T
 
 Strauss was praised and celebrated within Salomon for making the sale. However, he later had nightmares about letting down his client by selling him such risky bonds. The chapter shows the internal conflict Strauss felt between wanting to please his employer for profits and bonuses, versus acting in his client's best interests. It reveals some of the ethical challenges of working as an investment banker.
 
- Here is a summary of the key points:
+ 
 
 - The narrator is an investment banker working in London for Salomon Brothers in August 1986. 
 
@@ -657,7 +657,7 @@ The passage describes the rise of the junk bond market and corporate takeovers i
 
 The passage describes the aftermath of mass layoffs at Salomon Brothers during the stock market crash of October 1987. Over 170 people in the London office lost their jobs after struggling through treacherous conditions to get to work, only to be individually called into meetings and fired. Most were embarrassed at having failed. Others tried to transfer to different departments that weren't cutting jobs. Management took the easiest route and fired the newest, youngest employees who lacked influence. A disproportionate number of women were also let go. As people were fired, there was weeping and comfort on the normally stoic trading floor. The author witnessed similar scenes in New York, where empty desks and motivational signs remained from those suddenly laid off from the money market department. It was an unsettling time of upheaval and uncertainty during a major market collapse.
 
- Here is a summary of the key points:
+ 
 
 - The stock market crash led to a boom in the bond market as money flooded into safe haven assets like bonds. One bond trader who bet against this movement lost money and angrily shouted curses at the Statue of Liberty. 
 

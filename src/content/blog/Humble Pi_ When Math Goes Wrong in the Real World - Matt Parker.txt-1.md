@@ -101,7 +101,7 @@ So in summary, it discusses a famous court case around a Pepsi commercial, uses 
 
 - Bridges and buildings can resonate not just vertically and side-to-side, but also in twisting motions. Engineering failures sometimes emerge from pushing designs to new lengths without fully understanding new dynamics that may appear. Progress involves testing beyond current knowledge.
 
- Here is a summary of the key points:
+ 
 
 - The Dee Bridge collapse in 1847 was the first major incident attributed to "torsional instability" - a twisting force in a structure that causes failure if not properly accounted for in design. 
 
@@ -115,7 +115,7 @@ So in summary, it discusses a famous court case around a Pepsi commercial, uses 
 
 - Overall the passage discusses how failures continuously teach engineers new lessons that feedback into stronger designs, despite the gaps that remain between theory and real-world complexity.
 
- Here is a summary of the key points:
+ 
 
 - The walkway over the edge was a modification to the original design of a hotel walkway between the second and fourth floors. The modification involved splitting long metal support rods in half to make installation easier. 
 
@@ -199,7 +199,7 @@ So in summary, the passage cautions against over-reliance on spreadsheets for da
 
 - The rest of the story gives other examples where geometry and doors/locks were not properly thought through, sometimes with dangerous consequences like a theater disaster in the UK in 1883 where 183 children died crushed against doors that opened inward during an emergency evacuation.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses doors and evacuation issues from some major historical fires, including the Iroquois Theater fire of 1903 and the Cocoanut Grove fire of 1942. These fires highlighted the importance of outward-opening doors in buildings. 
 
@@ -259,7 +259,7 @@ So in summary, a bodybuilding forum saw a major impromptu debate break out when 
 
 So in summary, it discusses issues with ambiguity around time periods, off-by-one errors, accurately calculating combinations, and a case where McDonald's significantly overstated the choices provided by their menu for marketing purposes through incorrect math.
 
- Here is a summary of the key points:
+ 
 
 - In early Civilization computer games, Gandhi was coded with the lowest possible aggression rating of 1. However, later in the game all ratings would decrease by 2. For Gandhi, this caused an overflow error - decreasing 1 by 2 results in 255, the maximum aggression rating. 
 
@@ -325,7 +325,7 @@ So in summary, 8-bit binary rollover errors can cause unintended consequences li
 
 - While lotteries are statistically unfavorable bets, people are motivated by the small chance of a large payout rather than expected returns. Operators aim to skew the prize distribution as much as possible away from average returns to encourage more ticket sales.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses probability and the lottery, including how changes in lottery rules impact odds of winning. For example, increasing numbers you can choose from decreases odds. 
 
@@ -351,7 +351,7 @@ So in summary, it discusses common misconceptions around probability and lottery
 
 In summary, the report criticized NASA for ignoring signs of technical issues uncovered during testing in favor of subjective judgments, and for inaccurately calculating safety risks as a result, directly contributing to the loss of Challenger.
 
- Here is a summary of the key points:
+ 
 
 - In 2012, Knight Capital, a financial services firm, experienced a major technical glitch that caused its trading algorithms to buy and sell stocks incorrectly for over an hour. This resulted in a $461 million loss for the company in a single day. 
 
@@ -397,7 +397,7 @@ In summary, the report criticized NASA for ignoring signs of technical issues un
 
 So in summary, it discusses the history and impact of options pricing models, research on CEO stock options, and examples of how politicians try to exploit rounding definitions to their benefit.
 
- Here is a summary of the key points:
+ 
 
 - In the 1980s, the Vancouver Stock Exchange launched an index to track stock prices but made a calculation error. It discarded the last decimal place rather than rounding, causing the index value to gradually decrease over time even when the market was stable. 
 
@@ -475,7 +475,7 @@ So in summary, the passage questions the significance of very precise figures, a
 
 - Defining sea level can also cause issues like engineers building a bridge between Germany and Switzerland failing to account for their different sea level definitions, resulting in a mismatched bridge.
 
- Here is a summary of the key points:
+ 
 
 - An Air Canada Boeing 767 flying from Montreal to Edmonton took off with far too little fuel due to multiple errors in fuel calculations and conversions between pounds and kilograms. 
 
@@ -491,7 +491,7 @@ So in summary, the passage questions the significance of very precise figures, a
 
 - The accident highlighted the dangers of unit conversion errors and the importance of redundancy in aviation safety systems. It became known as the "Gimli Glider" crash that was successfully landed without loss of life.
 
- Here is a summary of the key points:
+ 
 
 - Having a piece of a crashed plane is thought by some to bring good luck, but most planes don't crash so it's debatable if it's actually good or bad luck. The author attached a piece of a crashed plane to their laptop but it doesn't seem to have affected the laptop's functioning. 
 
@@ -603,7 +603,7 @@ So in summary, it discusses the Ariane 5 explosion caused by a software error wh
 
 - Programmers are encouraged to write helpful comments to explain their code, as future readers including their future selves may not understand the original logic and assumptions.
 
- Here is a summary of the key points:
+ 
 
 - Trey Harris was a system administrator at UNC in the late 1990s when different university departments ran their own email servers. 
 
@@ -647,7 +647,7 @@ Overall, the passage advocates for designing medical technology, processes, and 
 
 In summary, medical calculations demand precision to avoid dangerous mistakes, but failures will still occur. Systems need robust error-checking and an understanding that changes can have unintended downstream effects requiring oversight. Learning from mistakes could be improved if more information was shared, within legal and ethical reason.
 
- Here is a summary of the key points:
+ 
 
 - Nurses at hospitals would sometimes scan the same medication container twice instead of scanning two different containers if they looked identical, to save time. This led to less thorough checks of patients and medications. 
 

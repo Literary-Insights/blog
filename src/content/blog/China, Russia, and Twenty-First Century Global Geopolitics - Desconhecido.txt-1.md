@@ -45,7 +45,7 @@ BOOK LINK:
 
 - Producing the book required significant time and contributions from numerous colleagues, friends, and family members over an extended period. The authors express gratitude to all those who supported and assisted with the project.
 
- Here is a summary of the key points:
+ 
 
 - Since the mid-1990s, China and Russia have developed a strategic partnership based on political, economic, and security cooperation. However, Western policies have driven them even closer together since 2014. 
 
@@ -421,7 +421,7 @@ In summary, it outlines the transition of both economies, current economic chall
 
 - Internal Russian politics, pricing disputes, and geopolitical concerns previously slowed Chinese-Russian energy cooperation, frustrating Chinese officials. Four main obstacles cited were fears of Chinese threats, concerns about Russian dependency, competing Russian corporate interests, and disagreements over distribution of gains.
 
- Here is a summary of the key points:
+ 
 
 - There has historically been some mistrust between Russia and China, with China believing Russia played countries off each other for economic gains, and Russia reluctant to allow major Chinese investments in its energy sector. 
 
@@ -457,7 +457,7 @@ The article discusses Russia surpassing Saudi Arabia as the top supplier of oil 
 
 The text also analyzes Russia and China's cooperation on natural gas, with agreements signed for a Power of Siberia pipeline to supply China. However, some challenges have emerged from pipeline price disputes and China's economic slowdown reducing gas demand growth. Overall, the passage examines how energy trade has strengthened the economic relationship between Russia and China, with oil and gas ties becoming an important component of their broader political and strategic partnership.
 
- Here is a summary of the key points from the provided text:
+ 
 
 - Russia and China both perceive threats to their security from internal unrest, domestic weaknesses, and external forces. Both use their relationship with each other as leverage in countering these threats. 
 
@@ -1201,7 +1201,7 @@ So in summary, it outlines the strategic approaches and increasing cooperation b
 
 - Debate around these approaches, with some arguing they exacerbate tensions while others see cooperation as important to address shared threats. Overall it analyzes the laws, policies and debates around countering extremism in Russia and China.
 
- Here is a summary of the key points from the sources:
+ 
 
 - More than 100 Chinese Muslims have joined ISIS in Syria according to reports from 2016. ISIS has also executed some Chinese militants. 
 
@@ -1279,7 +1279,7 @@ So in summary, it outlines the strategic approaches and increasing cooperation b
 
 - Both countries supported each other's positions on non-interference in internal affairs and advocated for a multipolar global order.
 
- Here is a summary of the key points:
+ 
 
 - Cities: Modernization efforts between 113-114 and 121 emphasized organizational reforms 114-115 and spending 115 but faced weaknesses 115. 
 

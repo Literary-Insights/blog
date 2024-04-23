@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points:
+ 
 
 - The world is changing rapidly and unpredictably, forcing organizations in all sectors to urgently innovate to stay competitive. 
 
@@ -37,7 +37,7 @@ BOOK LINK:
 
 - The goal is to help leaders instill "the innovating habit" and systematically prime the innovation engine in their organizations.
 
- Here is a summary of the key points:
+ 
 
 - Organizations need two engines: an execution engine to carry out day-to-day operations efficiently, and an innovation engine to continuously generate new ideas and improvements. Most focus only on execution. 
 
@@ -73,7 +73,7 @@ BOOK LINK:
 
 - The goal is to embed innovating as an everyday habit involving everyone, not just scattered genius individuals. This creates collective genius.
 
- Here is a summary of the key points:
+ 
 
 - BASF is the world's largest chemical company, with a long history of innovation and R&D. However, in the mid-2000s, BASF recognized the need to supplement its scientific strengths with a broader, more collaborative approach to innovation. 
 
@@ -123,7 +123,7 @@ BOOK LINK:
 
 In summary, BASF's outside-in focus and systematic approach to both product and business model innovation has made them an innovation leader able to continually adapt and create value.
 
- Here is a summary of the key points:
+ 
 
 - W.L. Gore & Associates was founded in 1958 by Bill and Vieve Gore to explore innovative uses of polytetrafluoroethylene (PTFE). 
 
@@ -157,7 +157,7 @@ In summary, BASF's outside-in focus and systematic approach to both product and 
 
 - Getting every employee to participate in both execution and innovating requires instilling both mindsets. Examining Gore's unusual practices provides insights into how this can be accomplished.
 
- Here is a summary of the key points:
+ 
 
 - W.L. Gore & Associates pioneered a non-hierarchical, egalitarian management style that empowers employees to innovate and manage their own time and projects. 
 
@@ -175,7 +175,7 @@ In summary, BASF's outside-in focus and systematic approach to both product and 
 
 - Asking these questions consistently helps determine if an idea deserves further exploration and development.
 
- Here is a summary of the key points:
+ 
 
 - Samsung has gradually risen to become a world leader in innovation through building a systematic process for generating and implementing new ideas. 
 
@@ -221,7 +221,7 @@ In summary, BASF's outside-in focus and systematic approach to both product and 
 
 - Paying attention to customer needs is difficult. Success often breeds complacency about the need for innovation. Helping customers articulate unfamiliar needs is an art few businesses have mastered.
 
- Here is a summary of the key points:
+ 
 
 - Many businesses fail to consistently innovate in a customer-centered way because they erect barriers that prevent them from hearing and responding to customer needs. These barriers include only listening to current customers, fearing that new innovations will cannibalize existing products, and taking the path of least resistance rather than truly engaging with customers.
 
@@ -237,7 +237,7 @@ In summary, BASF's outside-in focus and systematic approach to both product and 
 
 - Ecocem's approach illustrates how companies can adopt the customer-side view by learning from both current customers and noncustomers, overcoming inertia and fear of cannibalization, and putting in place practices that force engagement with outside voices. This enables more consistent customer-centered innovation.
 
- Here is a summary of the key points:
+ 
 
 - Teaming up salespeople with technology experts at Ecocem, a cement company, allowed for greater understanding of customer needs and preferences. This led to new product innovations tailored to customer problems. 
 
@@ -249,7 +249,7 @@ In summary, BASF's outside-in focus and systematic approach to both product and 
 
 - The key point is that actively collaborating with and learning from customers, non-customers, and external partners through co-creation can lead to valuable innovations tailored to customer needs. This is especially useful when tackling complex challenges.
 
- Here is a summary of the key points:
+ 
 
 - The innovating engine relies on three key processes: creation, integration, and reframing. 
 
@@ -265,7 +265,7 @@ In summary, BASF's outside-in focus and systematic approach to both product and 
 
 - Adopting these three processes of innovating - creation, integration, reframing - is key to building a powerful, productive innovating engine.
 
- Here is a summary of the key points:
+ 
 
 - Kordsa faced innovation challenges as a mature business in a slow-growing commodity industry. The end of a joint venture with Dupont meant it lost access to R&D capabilities. 
 
@@ -281,7 +281,7 @@ In summary, BASF's outside-in focus and systematic approach to both product and 
 
 - The case shows how investing in R&D, integrating across silos, and reframing the business model enabled innovation and growth despite competitive challenges. Key roles were played by the CEO, head of innovation, and work with key customers.
 
- Here is a summary of the key points:
+ 
 
 - Kordsa was a Turkish company that produced industrial fabrics and composite materials. It was part of the Sabancı group. 
 
@@ -305,7 +305,7 @@ In summary, BASF's outside-in focus and systematic approach to both product and 
 
 - Kordsa became a top innovator in Turkey, with constant small innovations from frontline workers. It cemented innovation in its culture.
 
- Here is a summary of the key points:
+ 
 
 - Kordsa's stage-gate system gave new businesses 5 years to grow without needing to meet the company's usual profit requirements. This allowed them time to scale up and work out any issues with the profit model. 
 
@@ -319,7 +319,7 @@ In summary, BASF's outside-in focus and systematic approach to both product and 
 
 - Like for-profits, nonprofits like the YMCA must innovate and reframe themselves to stay relevant. The YMCA has repeatedly innovated its service model to address new social challenges over its history. Most dramatically in the past decade, the YMCA has reframed itself as a holistic community health organization.
 
- Here is a summary of the key points:
+ 
 
 - Fiskars Corporation is one of Europe's oldest yet most innovative companies, approaching its 400th birthday but more innovative than ever. 
 
@@ -349,7 +349,7 @@ In summary, BASF's outside-in focus and systematic approach to both product and 
 
 - Innovation in all areas has helped Fiskars grow into a global company with $1.4 billion in annual revenue in 2020. Its systematic approach to innovation continues to drive new products, services, and processes.
 
- Here is a summary of the key points:
+ 
 
 - Fiskars innovates not just in product design but in business processes like merchandising and marketing. For example, Ivar Zehme rethought their approach to in-store displays, developing the "Ambassador system" which organized tools by tasks rather than categories. This boosted sales significantly when tested in Germany. 
 
@@ -377,7 +377,7 @@ In summary, BASF's outside-in focus and systematic approach to both product and 
 
 - Fiskars' relatively flat structure and small size help sustain an innovative, democratic culture where all employees feel empowered to contribute.
 
- Here is a summary of the key points:
+ 
 
 - Frontline innovators play a crucial role in the process of creating new ideas and innovations. They have the most direct contact with customers and daily work processes, giving them unique insights into unmet needs and opportunities for improvement. 
 
@@ -391,7 +391,7 @@ In summary, BASF's outside-in focus and systematic approach to both product and 
 
 - To leverage frontline innovation, organizations need to shift mindsets when frontline workers enter the "innovating engine" and empower them to look for new value-creating ideas.
 
- Here is a summary of the key points:
+ 
 
 - Marriott International acquired Starwood Hotels, bringing together 30 hotel brands and over 6,700 hotels globally. This created opportunities but also challenges in balancing operational execution with innovation. 
 
@@ -437,7 +437,7 @@ In summary, BASF's outside-in focus and systematic approach to both product and 
 
 - The key is to minimize hierarchy and rules in the innovation engine so frontline staff feel able, capable, and motivated to innovate. But companies should be cautious about eliminating management entirely.
 
- Here is a summary of the key points:
+ 
 
 - Allianz experienced a flood of employee innovation submissions after training programs, but then the rate plummeted. Rather than giving up, they appointed local innovation coordinators to provide feedback within 15 days. This quickly resumed the flow of ideas. 
 
@@ -449,7 +449,7 @@ In summary, BASF's outside-in focus and systematic approach to both product and 
 
 - Over time, the culture of innovation became deeply embedded across Allianz through the work of these midlevel coaches. The i2s program is no longer needed, though Allianz Consulting still provides support. Innovation is now driven from within business units.
 
- Here is a summary of the key points:
+ 
 
 - Companies like Apple, Google, Facebook, etc. get a lot of attention for innovation, but some more traditional companies like IBM are also highly innovative. 
 
@@ -473,7 +473,7 @@ In summary, BASF's outside-in focus and systematic approach to both product and 
 
 - When senior leaders use their position to focus the entire company on innovation, it becomes embedded in the organization's culture and activities. But leaders can't just talk about innovation - they must back up their words with concrete actions and participation.
 
- Here is a summary of the key points:
+ 
 
 - Under President Jonathan Becher, formerly of SAP, the San Jose Sharks have become the most innovative NHL team by applying Becher's talent for digital innovation. 
 
@@ -485,7 +485,7 @@ In summary, BASF's outside-in focus and systematic approach to both product and 
 
 - Overall, the sustainable fan base Becher built calls for constant innovation beyond the sports industry norm. His experience shows innovation can strengthen traditions rather than threaten them.
 
- Here is a summary of the key points:
+ 
 
 - Jonathan Becher, CEO of the San Jose Sharks, demonstrated how a top leader can stimulate innovation throughout an organization. He did this by focusing on three key levers: organizational structure, processes, and culture. 
 
@@ -521,7 +521,7 @@ In summary, BASF's outside-in focus and systematic approach to both product and 
 
 - Getting the right balance of governance and coordination is key to igniting the innovation engine across a multifaceted organization. Leaders must be actively involved but also enable autonomy and experimentation.
 
- Here is a summary of the key points:
+ 
 
 - Bayer is best known for developing aspirin, but the company's success depends on continuously innovating in areas like agriculture, pharmaceuticals, and healthcare. 
 
@@ -537,7 +537,7 @@ In summary, BASF's outside-in focus and systematic approach to both product and 
 
 - Bayer's approach shows how large companies can develop dual systems - hierarchical for execution and horizontal networks for innovation. This "innovation engine" complements the traditional structure.
 
- Here is a summary of the key points:
+ 
 
 - Bayer created an online crowdsourcing platform called WeSolve where employees can post problems and solicit solutions from others across the company. It has been very successful, with over 200 challenges posted per year and high engagement (50,000 employees participate despite only 50,000 speaking English). About 50% of problems get solved and another 30% generate useful insights. 
 
@@ -577,7 +577,7 @@ In summary, BASF's outside-in focus and systematic approach to both product and 
 
 - Companies need both an efficient execution engine and a vibrant innovation engine. Leaders must nurture both types of activities.
 
- Here is a summary of the key points:
+ 
 
 - Marvel Comics fell on hard times in the 1990s due to corporate raiders and debt. By the late 1990s, it was struggling to survive on declining comic book sales. 
 
@@ -597,7 +597,7 @@ In summary, BASF's outside-in focus and systematic approach to both product and 
 
 - The author then introduces a Seven-Step Innovating Process integrating the most powerful elements of Blue Ocean Strategy and additional exploration tools. This process aims to help innovators restructure their thinking to come up with great new ideas.
 
- Here is a summary of the key points:
+ 
 
 - The author recommends using Blue Ocean Strategy tools to help pivot from a supplier-side view to a customer-side view and move from execution to innovation. However, he is open to other innovation methodologies as well.
 
@@ -635,7 +635,7 @@ In summary, BASF's outside-in focus and systematic approach to both product and 
 
 - Comments can spark innovating ideas - likes suggest enhancing value, dislikes suggest fixing problems, wishes suggest satisfying desires. Deep customer understanding is key to generating useful innovations.
 
- Here is a summary of the key points:
+ 
 
 - Observing customers in their natural environments can provide valuable insights into their reactions and needs that may not be captured through traditional market research. Kordsa discovered a problem customers were having by observing them at a tire plant. 
 
@@ -656,7 +656,7 @@ In summary, BASF's outside-in focus and systematic approach to both product and 
 
 - The Seven-Step Process is designed to be easily replicated across units and over time to build an organization's innovation capabilities.
 
- Here is a summary of the key points:
+ 
 
 - The Seven-Step Innovating Process is a systematic approach to fostering innovation within organizations. It involves steps like choosing innovation topics, taking a customer perspective, exploring non-customer spaces, generating ideas, selecting ideas, testing concepts, and defining competitive strategy. 
 
@@ -670,7 +670,7 @@ In summary, BASF's outside-in focus and systematic approach to both product and 
 
 - Sustaining innovation over the long-term remains challenging. Methodical approaches like the Seven-Step process can provide guidance when innovation begins to lag.
 
- Here is a summary of the key points:
+ 
 
 - Domino's Pizza was struggling in 2010 with a poor reputation and falling market share. To turn things around, they launched an innovative multi-year campaign to reinvent themselves.
 
@@ -686,7 +686,7 @@ In summary, BASF's outside-in focus and systematic approach to both product and 
 
 - Through persistent company-wide innovating, Domino's transformed its reputation and reversed falling fortunes. It shows how innovating can become an organizational habit.
 
- Here is a summary of the key points:
+ 
 
 - Domino's Pizza has pioneered numerous innovations over the past decade that have transformed how customers order and receive pizza. These include online ordering, order tracking, pizza profiles, autonomous delivery vehicles, and more. 
 

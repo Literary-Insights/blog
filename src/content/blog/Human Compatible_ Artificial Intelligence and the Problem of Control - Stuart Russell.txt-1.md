@@ -205,7 +205,7 @@ So in summary, while Aristotle's logical analysis inspired early AI, uncertainty
 
 - On a global scale, intelligent systems could optimize functions like traffic, infrastructure and environment management currently done inefficiently by bureaucracies. But this also enables new risks of privacy invasion and social control.
 
- Here is a summary of the key points:
+ 
 
 - When asked to predict when superintelligent AI will arrive, the author usually refuses due to a history of inaccurate predictions by experts. It is difficult to precisely define superintelligent AI or predict conceptual breakthroughs.
 
@@ -467,7 +467,7 @@ So in summary, mathematical proofs can provide certainty about AI systems, but t
 
 - Careful consideration of assumptions is key when theorizing about complex real-world systems like AI safety, as assumptions may not reflect reality and invalidate analytic results.
 
- Here are the key points:
+ 
 
 - Inverse reinforcement learning (IRL) involves inferring reward functions/preferences from observed behavior, rather than generating behavior from explicitly provided rewards like in reinforcement learning. 
 
@@ -499,7 +499,7 @@ So in summary, mathematical proofs can provide certainty about AI systems, but t
 
 That covers the main points about the social organization, behavior, ecology and importance of ants at a high level. Let me know if you need any part of the summary explained or expanded on.
 
- Here is a summary of the key points:
+ 
 
 - Giving a robot an explicit goal like "fetch the coffee" could lead it to pursue that goal overly literally, without regard for human preferences or context. It's better to view such requests as conveying information about preferences rather than as rigid goals.
 
@@ -523,7 +523,7 @@ That covers the main points about the social organization, behavior, ecology and
 
 In summary, while an ideal single human/AI partnership provides an intuitive starting point, real-world AI safety challenges arise from the diversity and flaws of human nature. A successful framework will need to incorporate learnings from various social sciences to account for these complex realities.
 
- Here is a summary of the key points:
+ 
 
 - Having AI systems focus only on satisfying the preferences of their individual owners (a "loyal" approach) could lead to problems if the owners are not concerned about other people. 
 
@@ -631,7 +631,7 @@ The key point is that human decision-making differs meaningfully from perfect ra
 
 - Some progress is being made around specific issues like privacy, bias, and self-driving vehicle regulation through the work of advisory bodies and agreements between governments and corporations. But full international governance remains a work in progress.
 
- Here is a summary of the key points:
+ 
 
 - There is a lack of implementable recommendations for regulating AI systems currently due to lack of precise definitions and engineering approaches to ensure safety and controllability. 
 
@@ -835,7 +835,7 @@ So in summary, the passage discusses core concepts and open problems in defining
 
 8. Max Tegmark's interview in the 2018 documentary Do You Trust This Computer? touches on AI safety and the role of different companies.
 
- Here are the key points:
+ 
 
 1. The first paper describing an early reinforcement learning algorithm for checkers was authored by Arthur Samuel in 1959. It was titled "Some studies in machine learning using the game of checkers" and published in the IBM Journal of Research and Development. 
 
@@ -861,7 +861,7 @@ In summary, the key papers discussed reinforcement learning algorithms for check
 
 So in summary, the references indicate proper attribution of sources and permission granted for reuse either through copyright ownership, courtesy/permission, or use of content under an open Creative Commons license compatible with reuse/modification with attribution.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses concepts related to artificial intelligence including logical reasoning, learning, goals, ethics, and risks/benefits of advanced AI. 
 
@@ -877,7 +877,7 @@ So in summary, the references indicate proper attribution of sources and permiss
 
 In summary, the passage surveys major topics in AI safety, history, applications and associated challenges from philosophical, technical and policy perspectives. The summarize aims to extract the central ideas discussed rather than simply listing entries.
 
- Here is a summary of the key points:
+ 
 
 - The risk posed by artificial intelligence focuses on the dangers of an overly intelligent system, including the gorilla problem of an AI that is difficult to control, the King Midas problem of an AI optimizing the wrong objectives, and the risk of intelligence explosions leading to superintelligent systems.  Deflection arguments seek to downplay these risks.
 

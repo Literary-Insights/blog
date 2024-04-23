@@ -171,7 +171,7 @@ Long-lasting trauma may develop into post-traumatic stress disorder, characteriz
 
 - Identifying these thought patterns is the first step to challenging and correcting them, as negative automatic thinking can be overwhelming and damage self-esteem if left unaddressed. The essay provides background on meditation, tai chi, and automatic negative thinking.
 
- Here is a summary of the key points:
+ 
 
 - The passages provide examples of negative and positive thought patterns. 
 

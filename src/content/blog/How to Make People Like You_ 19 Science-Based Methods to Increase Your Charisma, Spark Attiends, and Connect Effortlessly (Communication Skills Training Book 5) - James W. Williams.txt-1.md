@@ -57,7 +57,7 @@ BOOK LINK:
 
 The key ideas are that connecting with others requires overcoming fears of initiating contact first. Smiling helps but small talk, asking for help, and incremental confidence-building are important methods to form relationships and make yourself more approachable.
 
- Here is a summary of the key points:
+ 
 
 - Asking for advice or suggestions from coworkers is a way to build intimacy and trust in professional relationships. It shows you respect their judgment and wisdom.
 
@@ -177,7 +177,7 @@ The key message is that charisma develops through self-awareness, integrity to y
 
 In summary, the key lessons focus on developing confidence and emotional control, embracing one's authentic self, pushing outside comfort zones, and acknowledging the role of appearance and hygiene in social interactions.
 
- Here is a summary of the key points:
+ 
 
 - Taking care of your appearance and hygiene is important for boosting confidence and making a good impression on others. This includes finding your own style, maintaining good hygiene habits, exercising regularly, and eating healthy.
 
@@ -189,7 +189,7 @@ In summary, the key lessons focus on developing confidence and emotional control
 
 - Trust is a crucial part of relationships. Even small white lies damage trust over time. It's important to be honest, particularly about personal struggles, and prove consistency to build strong relationships based on trust.
 
- Here is a summary of the key points:
+ 
 
 - Being honest and trustworthy is important for building strong relationships both professionally and personally. A lack of trust was cited as a major threat to company stability in a global CEO study. 
 
@@ -217,7 +217,7 @@ It also discusses developing patience through mindfulness like breathing before 
 
 In summary, the key messages are to prioritize alone time weekly, remain patient through mindfulness, and find relief through forgiveness in order to bring one's best self to nurturing relationships. Individuality, calmness, and release of pain benefit both self and connections with others.
 
- Here is a summary of the key points:
+ 
 
 - Boosting charisma and confidence through better social skills can help you build an extensive network of relationships and opportunities. Relationships are important for success in life. 
 

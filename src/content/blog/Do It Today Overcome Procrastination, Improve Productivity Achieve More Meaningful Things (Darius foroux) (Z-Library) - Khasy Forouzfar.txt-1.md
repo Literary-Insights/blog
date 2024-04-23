@@ -105,7 +105,7 @@ In summary, improving productivity starts with understanding where your time goe
 
 The key message is that implementing certain habits, rules and rituals can improve your productivity, willpower and focus, allowing you to live a more authentic and fulfilling life on your own terms. Saying no, writing things down, learning, and disconnecting from technology are some of the habits highlighted.
 
- Here is a summary of the key points:
+ 
 
 • Research shows that distractions are associated with higher stress, frustration, time pressure and effort. Focused work is hard to achieve due to ubiquitous technology and internet access.
 
@@ -257,7 +257,7 @@ The main takeaways are:
 
 How does this summary capture the main ideas for you? Let me know if you'd like me to expand on or modify anything.
 
- Here is a summary of the key points:
+ 
 
 • Motivation like #mondaymotivation is not practical or useful in the long run. It fades quickly. 
 
@@ -279,7 +279,7 @@ How does this summary capture the main ideas for you? Let me know if you'd like 
 
 • In summary, cultivate belief in yourself as an instrument to achieve your goals and create the life you want. Focus on creating value, not competition. Act with an abundance mindset.
 
- Here is a summary of the key points:
+ 
 
 • Important factors to measure your life progress are energy, work and relationships.
 

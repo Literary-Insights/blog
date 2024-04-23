@@ -18,7 +18,7 @@ BOOK LINK:
 [CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=be-your-future-self-now-dr-benjamin-hardy)
 
 
- Here is a summary of the key points:
+ 
 
 - In October 2015, 17-year-old Jimmy Donaldson made 4 YouTube videos where he spoke candidly to his future self six months, 12 months, five years, and ten years in the future. He scheduled the videos to be published on those future dates. 
 
@@ -40,7 +40,7 @@ BOOK LINK:
 
 - The common thread in the reactions seems to be shock, disbelief, immense gratitude, and being moved to tears by the life-changing amounts of money. These windfalls elicited emotional solid responses for people struggling financiallyhey realized how significantly it could improve their lives. Jimmy's videos show unexpected money's dramatic impact on people, evoking reactions from laughter to tears.
 
- Here is a summary of the key points:
+ 
 
 - Humans are primarily driven by fear and short-term thinking rather than courage and long-term vision. This leads to poor decision-making. 
 
@@ -54,7 +54,7 @@ BOOK LINK:
 
 - The author provides an example of connecting with his Future Self as an older father to be more present with his young kids. He imagined himself looking back with nostalgia on this precious Time.
 
- Here is a summary of the key points:
+ 
 
 - The author decided to try an exercise inspired by Viktor Frankl - to live the rest of the day as if he was his Future Self 20 years in the future, given the chance to travel back and relive today. 
 
@@ -86,7 +86,7 @@ BOOK LINK:
 
 The book provides practical steps to define, believe in, and become your Future Self. This gives you hope, meaning and the power to shape your life.
 
- Here is a summary of the key points:
+ 
 
 - Frankl believed that having hope and purpose toward the future is essential for a meaningful life. Without hope, people lose motivation and fall into despair. 
 
@@ -100,7 +100,7 @@ The book provides practical steps to define, believe in, and become your Future 
 
 - By focusing on building his Future Self through learning and contribution, Ben overcame the threat of being defined by past trauma. Our past does not have to define our future.
 
- Here is a summary of the key points:
+ 
 
 - Threat #3 needs to know how your environment influences your goals and personal evolution. 
 
@@ -166,7 +166,7 @@ The key is widening your vision beyond the day-to-day and taking control of your
 
 The key is to avoid paralysis by analysis, silence your doubters, and take action to enter the arena. This is where real growth and achievement happen, not on the sidelines. Learning requires doing, so get in the game.
 
- Here is a summary of the key points:
+ 
 
 - The psychological definition of courage is proactively pursuing a noble, worthwhile goal involving risk. Courage is the doorway to positive change. 
 
@@ -184,7 +184,7 @@ The key is to avoid paralysis by analysis, silence your doubters, and take actio
 
 - To sustain success, continually update your vision and filter out distractions. Stay focused on your future self, not short-term dopamine loops.
 
- Here is a summary of the key points:
+ 
 
 - Ferdinand Marcos was president of the Philippines from 1965-1986. He claimed to be a war hero to gain popularity but was highly corrupt, stealing billions from the government. 
 
@@ -198,7 +198,7 @@ The key is to avoid paralysis by analysis, silence your doubters, and take actio
 
 - Ninoy sacrificed his life for the democratic future he envisioned for the Philippines. His why was so strong he was willing to die for it. His death ultimately led to that vision becoming a reality.
 
- Here is a summary of the key points:
+ 
 
 - Ninoy Aquino was a leader of the opposition to the Marcos regime in the Philippines. He was assassinated in 1983 upon returning from exile, which galvanized further opposition. 
 
@@ -222,7 +222,7 @@ The key is to avoid paralysis by analysis, silence your doubters, and take actio
 
 7) Your Future Self can inspire others - it becomes an example.
 
- Here are the key points:
+ 
 
 - All human behavior is goal-driven, even if the goals are small or subconscious. More intentional goals lead to more intelligent and unrestrained behavior.
 
@@ -252,7 +252,7 @@ The critical point is that our future selves will differ more than we expect due
 
 - Your Future Self has more potential than you realize. Valuing your Future Self increases the worth of your current self and small actions today.
 
- Here is a summary of the key points:
+ 
 
 - Having a clear, detailed vision of your future self with measurable goals helps you progress faster. Kaleb's tennis skills improved rapidly once he had a specific ranking goal and milestones.
 
@@ -268,7 +268,7 @@ The critical point is that our future selves will differ more than we expect due
 
 The key is to have a clear, measurable, and motivating vision of your future self. This provides direction and ignites motivation to progress quickly toward your biggest goals.
 
- Here is a summary of the key points:
+ 
 
 - Josh Waitzkin was a chess prodigy who became disillusioned with chess and left the game to pursue meditation, philosophy, and tai chi. 
 
@@ -282,7 +282,7 @@ The key is to have a clear, measurable, and motivating vision of your future sel
 
 - Failing against superior opponents as your Future Self is better than succeeding as your current self because it drives necessary adaptation and growth.
 
- Here is a summary of the key points:
+ 
 
 - Adolf Hitler wanted to be an artist in his youth. He failed to get accepted into art school twice, a significant blow. This rejection ultimately led Hitler down a very different and darker path rather than pursuing his original dream. 
 
@@ -294,7 +294,7 @@ The key is to have a clear, measurable, and motivating vision of your future sel
 
 - You can only judge someone's success by knowing their aims. If they aren't pursuing their real dreams and being true to their future self, they aren't truly successful, no matter how it appears externally.
 
- Here is a summary of the key points:
+ 
 
 - Your view of God directly impacts your view of your future self and potential. Any view that limits your future self should be questioned. 
 
@@ -340,7 +340,7 @@ The key is to get ultra-precise on the 1-3 most important objectives right now. 
 
 - The key is to be focused, intentional, and purposeful about several seed investments/priorities to maximize your future self's growth and compounding results.
 
- Here is a summary of the key points:
+ 
 
 - To achieve 10x growth on a goal, you likely need to completely rethink your approach rather than try harder at your current strategy. Be willing to experiment and iterate.
 
@@ -356,7 +356,7 @@ The key is to get ultra-precise on the 1-3 most important objectives right now. 
 
 - To become your future self, continually refine your purpose, eliminate lesser goals and distractions, and evolve your identity. It's an ongoing process requiring mindfulness and discernment.
 
- Here is a summary of the key points:
+ 
 
 - Amanda Palmer made money as a living statue, handing flowers for tips. As her music career took off with the band The Dresden Dolls, she missed the direct human interaction from her statue days. 
 
@@ -386,7 +386,7 @@ The key is to get ultra-precise on the 1-3 most important objectives right now. 
 
 - Committing to your Future Self and simplifying objectives helps create effective systems. Be patient as techniques are refined over Time.
 
- Here is a summary of the key points:
+ 
 
 - To become your Future Self, prioritize and schedule Time for your top goals and priorities. Your schedule should reflect your Future Self, not just your current battles and distractions.
 
@@ -402,7 +402,7 @@ The key is to get ultra-precise on the 1-3 most important objectives right now. 
 
 - Continually refine your schedule as your goals evolve. Time mastery is an ongoing process of prioritizing your Future Self over lesser goals wanting your attention.
 
- Here is a summary of the key points:
+ 
 
 - The seven steps to being your Future Self now are:
 
@@ -426,7 +426,7 @@ The key is to get ultra-precise on the 1-3 most important objectives right now. 
 
 - Freedom lies in boldly being your Future Self now, not waiting for some distant future date. The Time is now to shape your life through focused vision, priorities, and action.
 
- Here is a summary of the key points:
+ 
 
 - Ren and I had just finished undergrad degrees and lived in her parents' basement. I had been rejected from 15 PhD programs and felt uncertain about the future, though I knew I wanted to be an author someday. 
 
@@ -442,7 +442,7 @@ The key is to get ultra-precise on the 1-3 most important objectives right now. 
 
 - Congratulations on investing in yourself by reading this book. Go now and be your future self.
 
- Here is a summary of the key points:
+ 
 
 - A sense of meaning and purpose is critical for well-being and motivation. Viktor Frankl emphasized finding meaning amidst suffering. 
 

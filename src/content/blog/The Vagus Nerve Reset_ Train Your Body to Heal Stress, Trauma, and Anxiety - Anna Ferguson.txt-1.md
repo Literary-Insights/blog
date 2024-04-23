@@ -95,7 +95,7 @@ BOOK LINK:
 
 - A healthy vagus nerve supports feelings of safety, connection, empathy and relaxation. Activities that stimulate the vagus can help shift out of stress states into social engagement and feelings of safety. Building social connections also supports vagal activation and mental well-being.
 
- Here is a summary of the key points:
+ 
 
 - Anxiety is a normal and evolved physiological response to threats, rooted in the body's survival instincts. It prepares the body to either fight, flee, or freeze in response to perceived danger.
 
@@ -197,7 +197,7 @@ So in summary, it discusses the science behind the mind-body connection and how 
 
 - It discusses the mind-body connection and how emotional well-being impacts physical health and vice versa. The reset program teaches ways to heal trauma, reconnect with the body, and apply techniques to real life through the vagus nerve.
 
- Here is a summary of the key points:
+ 
 
 - The program is divided into phases that should be worked through at one's own pace, without strict timelines. Spending longer on each phase is encouraged to fully integrate the skills and practices. 
 
@@ -315,7 +315,7 @@ The overall aim is to integrate mind and body, clear past influences, and build 
 
 The text discusses methods for reconnecting with one's body through conscious movement and restorative yoga practices. It describes how activities like swaying, rocking, swinging, child's pose and savasana can help build body awareness by focusing attention on internal sensations. Regular gentle movement is recommended to stimulate the sensory system in a calm way. Building body awareness through these practices can help reduce stress and fears associated with bodily sensations. Paying attention to how the body feels during yoga poses and movements allows one to become more in touch with held tensions. The goal is to relax and release stress within the body through conscious awareness of physical sensations.
 
- Here is a summary of the key points:
+ 
 
 - The passage introduces several balance exercises that can help improve coordination, strength, mobility, flexibility, ability to focus, and body awareness. These include glute bridges, crab walks, and balancing on one foot. 
 
@@ -427,7 +427,7 @@ When considering how to structure things going forward, they suggested bolding s
 
 The rest of the template outlines a sample structure for daily practices, optional ones, and some one-off things to revisit. But don't feel pressed to do it all - listen to your body and take what fits for you. Keep tweaking things and using your judgment for what practices best serve you in a given season of life. The goal isn't perfection, just continued integration of these tools into how you move through your world. Does this help summarize the main points? Let me know if any part needs more explanation.
 
- Here is a summary of the key points:
+ 
 
 - Nourishing your basic needs journal exercise - Create action items to meet your basic needs like food, water, sleep, etc. 
 

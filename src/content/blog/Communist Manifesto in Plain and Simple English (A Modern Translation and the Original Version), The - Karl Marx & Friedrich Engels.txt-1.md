@@ -33,7 +33,7 @@ BOOK LINK:
 
 - The Manifesto is a call for the proletariat of the world to unite against the oppression of the bourgeoisie and to overthrow capitalist society through a proletarian revolution. It outlines communism as the goal to replace private ownership with common ownership.
 
- Here is a summary of the key points:
+ 
 
 - The bourgeoisie has historically progressed from an oppressed class under feudal nobility to gaining exclusive political control in modern representative states. Each step saw a corresponding political advancement. 
 
@@ -71,7 +71,7 @@ The proletariat's struggle against the bourgeoisie began with individual and loc
 
 Early labor movements were scattered and disorganized. Workers united out of necessity under the leadership of the bourgeoisie to fight common political enemies of both classes, like absolute monarchy or landed interests. But victory for the proletariat still meant victory for the bourgeoisie at this stage.
 
- Here is a summary of the key points:
+ 
 
 - As industry develops, the proletariat (working class) not only grows in numbers but becomes more concentrated and organized. Their shared economic interests make class solidarity stronger. 
 
@@ -95,7 +95,7 @@ The passage discusses the relationship between Communists and the proletarian mo
 
 The Communists are distinguished from other working-class parties in two ways. First, in national struggles they point out the common interests of the entire proletariat across nationality. Second, in different stages of the working class struggle against the bourgeoisie, they represent the interests of the movement as a whole. The overall message is that Communists stand with and represent the interests of the proletarian/working class movement and do not form a separate group with their own agenda.
 
- Here is a summary of the key points:
+ 
 
 - Communists are the most advanced and theoretically informed section of the working class movement in each country. They push the movement forward. 
 
@@ -149,7 +149,7 @@ However, to gain sympathy for their critiques, the aristocrats had to portray th
 
 Feudal socialism was thus a half complaint and half comedy that both echoed the past and threatened the future. While its critiques sometimes struck at the heart of the bourgeoisie, it was always ridiculous due to its total inability to comprehend the march of modern history from a reactionary perspective. In summary, it discussed the rise of reactionary socialist literature from displaced aristocrats after they lost political power.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses different forms and critiques of early socialism that emerged in response to the rise of capitalism and the bourgeoisie. 
 
@@ -253,7 +253,7 @@ Criticisms of the abolition of the family, women's role, culture, nationality ar
 
 In general, the ruling ideas of any age serve the interests of the ruling class. As exploitation ends, so will antiquated social forms and the ideas that justified them. The communist revolution marks the most radical break with the past yet.
 
- Here is a summary of the key points:
+ 
 
 - The passage outlines different types of socialist and communist literature that emerged in reaction to the rise of the bourgeoisie and capitalist society. 
 
@@ -317,7 +317,7 @@ The proletariat begins to organize and resist the bourgeoisie through individual
 
 - Communists and other proletarian parties share the immediate goal of overthrowing bourgeois supremacy. Communists uniquely advocate the global, long-term interests of the working class movement and understand its overall direction and consequences.
 
- Here is a summary of the key points:
+ 
 
 - Wage labor allows workers to only earn enough for a bare existence to reproduce their labor. Their labor primarily exists to increase capital for the ruling class. 
 
@@ -359,7 +359,7 @@ So in summary, it presents Marx's view that intellectual production and ruling i
 
 So in summary, it traces the early development and shortcomings of different early socialist schools according to Marx's theory of historical materialism and class struggle.
 
- Here is a summary of the key points:
+ 
 
 - Critiques forms of utopian and communist socialism that emerged in the early 19th century, seeing them as reactionary for proposing unrealistic perfect societies detached from the real class struggle. 
 

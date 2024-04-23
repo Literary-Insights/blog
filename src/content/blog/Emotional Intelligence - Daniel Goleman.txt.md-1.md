@@ -119,7 +119,7 @@ The key takeaway is that emotional regulation abilities in early childhood, like
 
 In summary, the divergent emotional socialization of men and women contributes to their differing experiences of relationships but can also be a source of richness when understood and bridged. Emotional skills education helps couples tap into this potential to improve their emotional and relational competence. 
 
- Here is a summary of the key points:
+ 
 
 1. Emotional intelligence refers to the ability to perceive, understand, regulate, and harness emotions in a constructive way. It is crucial for success in the workplace. 
 

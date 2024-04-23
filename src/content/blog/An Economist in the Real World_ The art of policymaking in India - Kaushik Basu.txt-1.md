@@ -77,7 +77,7 @@ BOOK LINK:
 
 So in summary, the author outlines India's economic trajectory, values providing historical context, and discusses the intellectually vibrant environment of the Delhi School of Economics and its influential Coffee House in the 1980s.
 
- Here is a summary of the key points:
+ 
 
 - The Coffee House at Delhi School of Economics was a hub of intellectual discussion and debate in the 1980s-early 1990s. It brought together students, academics, politicians, economists with diverse ideological views. 
 
@@ -115,7 +115,7 @@ So in summary, the author outlines India's economic trajectory, values providing
 
 - The fluctuations in India's growth were in line with other emerging countries but government economic policy tended to be cautious, aimed at stability over risks. Table 2.1 provides historical context on GDP growth and investment trends.
 
- Here is a summary of the key points:
+ 
 
 - India generally saw steady but modest economic growth under political institutions that avoided major gambles or policies that could lead to large fluctuations. In contrast, China experienced much more volatile growth under Mao's rule due to policies like the Great Leap Forward. 
 

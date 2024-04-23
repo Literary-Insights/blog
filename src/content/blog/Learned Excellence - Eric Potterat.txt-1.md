@@ -93,7 +93,7 @@ The passage discusses developing a personal values credo by writing down emotion
 
 Creating a clear values credo helps provide identity, direction and meaning. It allows you to make decisions and evaluate opportunities based on your core values rather than reputation. Developing a strong sense of identity insulated several people mentioned, like David Colturi and Ted Brown, from ups and downs so they could perform at their best. Having values beyond just work or performance helped ensure well-being even after retiring from competition/careers. The process of reflecting deeply on values can provide clarity and strength in challenging times. Overall, regularly referencing a personal credo centered on core values and identity was said to yield substantial benefits.
 
- Here is a summary of the key points:
+ 
 
 - Carli Lloyd attributes much of her success as a soccer player, including two World Cup and two Olympic gold medals, to setting goals and writing them down. She still uses this process today for both soccer goals and life goals.
 
@@ -107,7 +107,7 @@ Creating a clear values credo helps provide identity, direction and meaning. It 
 
 - Iconic baseball player Yogi Berra emphasized the importance of everyone having their own "engine" or internal motivation to succeed, whether it be to not lose, to win, or something else that drives them. This stuck with the author and influenced his work.
 
- Here is a summary of the key points:
+ 
 
 - It is important to understand what truly motivates you at a core level, beyond surface level answers like money or fame. Asking "what is your engine?" and probing deeper into the reasons behind motivations can provide insight. 
 
@@ -163,7 +163,7 @@ These placebo effects demonstrate how beliefs impact performance. Choosing a gro
 
 - The key point is that after he fell, Dave didn't fall again, showing how positive self-talk can help overcome challenges and lead to success.
 
- Here is a summary of the key points:
+ 
 
 - Practicing failure is an excellent way to develop a growth mindset. Failing allows you to learn from mistakes and get better. Successful performers regularly fail and learn from it. 
 
@@ -175,7 +175,7 @@ These placebo effects demonstrate how beliefs impact performance. Choosing a gro
 
 - Start practicing failure in low-stakes environments to build up your ability to handle it. Then you'll be better equipped for bigger failures and challenges in life. Failure leads to success if you learn the right lessons from it.
 
- Here is a summary of the key points:
+ 
 
 - A former SEAL Team leader, Jimmy, gets out of his comfort zone by challenging himself physically, like practicing shooting left-handed despite being right-handed. He also can't sit back and relax like others his age.
 
@@ -191,7 +191,7 @@ These placebo effects demonstrate how beliefs impact performance. Choosing a gro
 
 So in summary, the anecdote illustrates how a former SEAL leader challenges himself physically and mentally to stay out of his comfort zone, and how adopting simple routines can help shift mindsets effectively between roles like work and home.
 
- Here is a summary of the key points:
+ 
 
 - Loss aversion is the innate human bias to play not to lose rather than play to win when holding a lead. As we get closer to winning, we worry more about losing. 
 
@@ -225,7 +225,7 @@ So in summary, the anecdote illustrates how a former SEAL leader challenges hims
 
 - While some resist filling calendars, the author finds this approach actually reduces stress by gaining control over time instead of being interrupted-driven. Disciplined time management is a hallmark of high performers.
 
- Here is a summary of the key points:
+ 
 
 - The passage describes an anecdote about an athlete who got unsolicited advice from a barista on improving his techniques. While well-meaning, the barista was not an expert and did not have enough data/insights to properly diagnose issues. 
 
@@ -279,7 +279,7 @@ The passage also provides examples of individuals who successfully used failure 
 
 - The camp demonstrates that even elite performers can improve their mental toughness through controlled exposure to stressors and practicing stress tolerance skills. It helps build confidence and composure under pressure.
 
- Here is a summary of the key points:
+ 
 
 - The passage describes the human stress response and how the body's hypothalamic-pituitary-adrenal (HPA) axis helps trigger the fight, flight or freeze response when faced with danger. This includes increases in heart rate, blood pressure, breathing, muscle tension, etc to ready the body for emergency action. 
 
@@ -323,7 +323,7 @@ The passage also provides examples of individuals who successfully used failure 
 
 - In summary, thorough contingency planning for potential issues helps people perform under pressure by reducing stress and allowing automatic responses if problems do arise.
 
- Here is a summary of the key points:
+ 
 
 - Deep breathing is one of the most effective ways to combat stress and activate the parasympathetic nervous system, which helps return the body to a relaxed state. 
 
@@ -337,7 +337,7 @@ The passage also provides examples of individuals who successfully used failure 
 
 So in summary, regular deep breathing practice is positioned as one of the most effective tools for managing stress and performing at one's best even in stressful or high-pressure scenarios.
 
- Here is a summary of the key points:
+ 
 
 - Joe, a surgeon, describes a stressful surgery where he needed to remove a tumor near a delicate facial nerve. He became very anxious during the surgery. 
 
@@ -349,7 +349,7 @@ So in summary, regular deep breathing practice is positioned as one of the most 
 
 So in summary, the passage discusses how Joe dealt with stress and anxiety during a high-pressure surgery by taking breaks to reset himself through breathing exercises and physical activity like running, in order to return focused and perform the delicate surgery successfully.
 
- Here is a summary of the key points:
+ 
 
 - Goal segmentation involves breaking down large, distal goals into smaller, proximal goals that are more easily achievable in the short term. This reduces stress and builds confidence by allowing people to track incremental progress. 
 
@@ -383,7 +383,7 @@ Many players adopted this black-boxing technique to avoid getting derailed by mi
 
 So in summary, the passage discusses how focusing too much only on work led Steve to lose balance and lash out, and how finding better balance across different life areas is important for well-being. The author frames these different areas as pillars that together support a fulfilled life.
 
- Here is a summary of the key points:
+ 
 
 - Maintaining balance across six pillars (health, career, relationships, spirituality, community, hobbies) is important for well-being and high performance. Relying on just one pillar leaves you vulnerable if that pillar fails. 
 
@@ -451,7 +451,7 @@ The key is balancing support with gentle pushes out of comfort zones, so kids le
 
 The passage discusses various techniques parents use to raise resilient, curious children. It focuses on asking questions to encourage critical thinking rather than simply providing answers. This allows kids to develop problem-solving skills through self-discovery. Promoting a growth mindset is important to help children view challenges not as failures but as learning opportunities. Negative self-talk can start early so vigilance is needed to catch it and replace doubts with positive affirmations. Pushing kids outside their comfort zone in a supportive way helps them build confidence through practice handling new experiences. Kindness, especially to oneself, is important for developing resilience. Overall, the approach aims to instill habits of lifelong learning by engaging children's natural curiosity and fostering an attitude of resilience through question-based discussions.
 
- Here is a summary of the key points:
+ 
 
 - Set 6-month goals in the areas of career, relationship, health and break them down into smaller 1-month goals using the SMART framework. Measure progress on the smaller goals monthly. 
 

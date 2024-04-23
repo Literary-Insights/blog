@@ -27,7 +27,7 @@ BOOK LINK:
 
 - Overall, the dedication personalizes the book and reveals the author's belief that some things, like love, transcend what data can tell us. It hints that while data is powerful, human judgment still matters - a theme that likely carries throughout the book.
 
- Here is a summary of the key points:
+ 
 
 - In 2002, the Oakland A's baseball team pioneered the use of data and analytics ("Moneyball") to make better decisions and outperform expectations. This suggested that relying on data instead of instinct could revolutionize decision-making.
 
@@ -39,7 +39,7 @@ BOOK LINK:
 
 - The author aims to find the "Bill Jameses" of life domains like relationships, happiness, etc. and allow readers to make more data-driven decisions. Just as Moneyball revolutionized baseball strategy, this "Moneyball for life" approach could optimize major life choices.
 
- Here are the key points:
+ 
 
 - This book focuses on using data and research to make better life decisions, unlike the author's previous book Everybody Lies which explored unusual Google search data. 
 
@@ -53,7 +53,7 @@ BOOK LINK:
 
 - Big data offers an alternative to our flawed intuitions. This book aims to provide data-driven "algorithms" to help with major life decisions like who to marry, what career to choose, etc.
 
- Here is a summary of the key points:
+ 
 
 - Samantha Joel led a large study to see if data science could predict successful romantic relationships. She combined data from 85 researchers on over 11,000 couples. 
 
@@ -67,7 +67,7 @@ BOOK LINK:
 
 - Data science can't yet predict romantic success well, but it reveals insights about dating behaviors. This suggests many people could benefit from dating differently than they currently do.
 
- Here is a summary of the key points:
+ 
 
 - Researchers have analyzed data from online dating sites to determine what traits make people more romantically desirable. 
 
@@ -83,7 +83,7 @@ BOOK LINK:
 
 - In summary, the data shows people care a lot about looks, height, race, income, and occupation when judging romantic desirability, even if they won't admit it.
 
- Here is a summary of the key points:
+ 
 
 - Research on online dating shows that people are drawn to certain qualities like attractiveness, height, occupation, etc. when choosing a romantic partner. 
 
@@ -99,7 +99,7 @@ BOOK LINK:
 
 Data shows that people compete for mates with shiny, attention-grabbing qualities like attractiveness even though those traits don't predict happiness, so focusing romantic attention on undervalued groups like short men and less attractive people can increase chances of finding a compatible mate.
 
- Based on the research, it seems like the overall effects of parenting on children's outcomes are more limited than most people expect. Here are the key points:
+ Based on the research, it seems like the overall effects of parenting on children's outcomes are more limited than most people expect. 
 
 - Studies show that parenting decisions account for a small portion of the variation in children's outcomes. Genetics and environmental factors outside the home have a much bigger influence.
 
@@ -113,7 +113,7 @@ Data shows that people compete for mates with shiny, attention-grabbing qualitie
 
 So in summary, parents matter less than we think for most outcomes, but there are a few key decisions that have big impacts. The overall effects are smaller than we imagine, but not completely negligible. The most important thing is the environment you raise your kids in, not the specifics of how you raise them.
 
- Here is a summary of the key points:
+ 
 
 - The story explores whether great parents can help raise a child from a middle income job (e.g. plumber, flight attendant) to an upper middle class job (e.g. engineer, judge). 
 
@@ -145,7 +145,7 @@ So in summary, parents matter less than we think for most outcomes, but there ar
 
 - The research suggests neighborhoods have substantial causal effects on children's outcomes. This lends support to the "village" perspective and initiatives to improve disadvantaged neighborhoods.
 
- Here is a summary of the key points:
+ 
 
 - Raj Chetty is considered a genius economist who has won numerous prestigious awards and honors. 
 
@@ -187,7 +187,7 @@ So in summary, parents matter less than we think for most outcomes, but there ar
 
 - The key point is that while genetics matter for athletic success, certain sports may still give opportunities to those without elite genetics if they have passion and are willing to work hard. The author is searching for data to shed light on which sports rely most on genetics versus effort.
 
- Here is a summary of the key points:
+ 
 
 - Behavioral geneticists use twins to study the influence of nature vs nurture on traits. Identical twins share 100% of genes while fraternal twins share 50% on average. 
 
@@ -217,7 +217,7 @@ So in summary, parents matter less than we think for most outcomes, but there ar
 
 - The data highlights that fragmented, mundane industries with steady demand offer a path to wealth unknown to most. Passion and persistence pays off.
 
- Here is a summary of the key points:
+ 
 
 - Until recently, there was limited data on who exactly is rich in America and how they attained their wealth. Academics gained access to comprehensive IRS data to study this.
 
@@ -265,7 +265,7 @@ The Big Six offer a path to wealth not by being glamorous or sexy, but by struct
 
 In summary, the passage argues against the myth of the young entrepreneur and shows how purposefully building expertise, skills, and networks for over a decade before starting a company in middle age boosts the odds of entrepreneurial success.
 
- Here are the key points:
+ 
 
 - Older founders (until age 60) are more likely to create successful startups than younger founders. The average age of a profitable tech founder is 42.3 years old, contradicting the myth that young people are more successful.
 
@@ -275,7 +275,7 @@ In summary, the passage argues against the myth of the young entrepreneur and sh
 
 - While some of these findings seem intuitive, they contradict popular narratives and myths about entrepreneurship that are often perpetuated in media and culture. The data shows that industry experience, age, and prior success are key predictors of entrepreneurial achievement.
 
- Here is a summary of the key points:
+ 
 
 - In 2007, Brian Chesky and Joe Gebbia came up with the idea for Airbnb as a way to rent air mattresses in their apartment to attendees of a design conference. 
 
@@ -291,7 +291,7 @@ In summary, the passage argues against the myth of the young entrepreneur and sh
 
 - The story illustrates how success often requires not just a good idea but also persistence through early struggles, influential social connections, and helpful mentoring/support. Luck and timing play big roles too.
 
- Here is a summary of the key points:
+ 
 
 - Airbnb founders Chesky and Gebbia got several big breaks early on, including meeting Paul Graham of Y Combinator, who gave them $20,000 in seed funding. 
 
@@ -315,7 +315,7 @@ In summary, the passage argues against the myth of the young entrepreneur and sh
 
 - The main point is that while success involves luck, people can increase their chances by putting themselves in a position to capitalize on lucky opportunities. Complaining about luck is less productive than adopting proven strategies for creating luck.
 
- Here is a summary of the key points:
+ 
 
 - Physicist Albert-László Barabási and colleagues studied career trajectories of nearly 500,000 painters using an art app's data. 
 
@@ -331,7 +331,7 @@ In summary, the passage argues against the myth of the young entrepreneur and sh
 
 - The data shows that talent alone is not enough - you have to put yourself out there through a relentless search to get discovered and succeed.
 
- Here is a summary of the key points:
+ 
 
 - Bruce Springsteen became famous not just because of his talent, but because he was willing to travel across the country for gigs to get his music heard. Success requires more than just talent - you have to put yourself out there. 
 
@@ -383,7 +383,7 @@ You're absolutely right that this research is interesting but needs to be interp
 
 In summary, smartphone data gives more accurate insights into happiness than our own flawed predictions. The data suggests practical ways to build happier days through our daily activities and routines.
 
- Here is a summary of the key points:
+ 
 
 - In the second part of the study, researchers recruited people who had already gone through the tenure process. Some had gotten tenure, some had been denied. 
 
@@ -447,7 +447,7 @@ The path to happiness is complex. Criticizing modern life or work has merit, but
 
 - Overall, playing sports is a great way to increase happiness. Watching sports can also provide a moderate happiness boost, though not as much as playing. Doing sports with friends gives the biggest happiness gain.
 
- Here are the key points:
+ 
 
 - A study by MacKerron and Dolton found that sports fans experience a bigger decrease in happiness when their team loses compared to the increase in happiness when their team wins. This suggests being a passionate sports fan may make people less happy overall.
 
@@ -459,7 +459,7 @@ The path to happiness is complex. Criticizing modern life or work has merit, but
 
 - The takeaway is that consuming sports and alcohol more mindfully, rather than over-attaching as a fan or over-drinking at fun events, may optimize their contributions to happiness. Moderation is key.
 
- Here is a summary of the key points:
+ 
 
 - Data from the Mappiness app shows that people report higher happiness when doing activities in natural environments like coasts, mountains, and forests compared to urban settings. Being in nature provides a substantial boost to mood.
 
@@ -471,7 +471,7 @@ The path to happiness is complex. Criticizing modern life or work has merit, but
 
 - The research demonstrates how our external environment and surroundings have a substantial influence on our internal emotional states. Small changes like going for a hike or working outside on a sunny day can meaningfully impact happiness.
 
- Here is a summary of the key points:
+ 
 
 - A study by MacKerron and Mourato looked at how people's happiness changes with the weather. Sunny days make people happier than rainy days, and warm days make people happier than cold days. 
 
@@ -701,7 +701,7 @@ New York, NY 10007
 
 www.harpercollins.com
 
- Here is a summary of the key points:
+ 
 
 - Romantic relationships are incredibly complex and difficult to predict, but data science has uncovered some useful insights. Similarity, responsiveness, and positivity are key predictors of successful relationships. 
 

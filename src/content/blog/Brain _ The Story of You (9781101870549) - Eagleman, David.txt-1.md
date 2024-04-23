@@ -59,7 +59,7 @@ So in summary, the brain develops by initially growing many connections, then pr
 
 - Brain changes due to disease or injury can also profoundly alter personality and behavior, as seen in Charles Whitman's case where a small tumor affected his amygdala function leading to out-of-character violence. More subtle changes from substances, seizures or conditions like Parkinson's can also influence personality traits.
 
- Here is a summary of the key points:
+ 
 
 - Our brains and bodies are constantly changing over time. Physically, we are not the same from moment to moment as atoms and cells are regularly replaced. 
 
@@ -285,7 +285,7 @@ A key part of decisions involves predicting future rewards - both basic needs an
 
 - When people view facial expressions, their own facial muscles minutely mirror what they see through automatic mirroring. This likely aids in rapid social cognition and may explain why long-married couples' faces resemble each other more over time. Mirroring serves an important social function.
 
- Here is a summary of the key points:
+ 
 
 - Botox is made from a botulinum toxin that paralyzes facial muscles when injected. This reduces wrinkles, but also lessens the ability of those muscles to mirror other people's expressions unconsciously.
 
@@ -381,7 +381,7 @@ The computational hypothesis proposes that what matters for consciousness and th
 
 - An alternative view is that consciousness could emerge from the complex interactions of brain components, just as higher-level behaviors emerge in ant colonies from individual ant actions. Consciousness may not reside in individual parts but rather how they function together as a system.
 
- Here is a summary of the key points:
+ 
 
 - Leaf-cutter ant colonies exhibit sophisticated behavior like agriculture and waste disposal, but there is no centralized coordination or leadership. Each ant follows simple local rules based on chemical signals. 
 

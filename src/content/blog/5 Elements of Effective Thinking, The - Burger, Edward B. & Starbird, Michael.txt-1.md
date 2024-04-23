@@ -33,7 +33,7 @@ BOOK LINK:
 
 In essence, the introduction establishes that genius and brilliance are not inborn traits, but rather are achieved through mastering simple methods of thinking that anyone can learn and apply. The book will equip readers with these powerful techniques.
 
- Here is a summary of the key points:
+ 
 
 - Education does not end with formal schooling. You can always improve your thinking and learning habits. Apply the methods in this book to become more successful in school, work, and life.
 
@@ -69,7 +69,7 @@ In essence, the introduction establishes that genius and brilliance are not inbo
 
 The key is being ruthlessly honest with yourself about the depth of your comprehension. Avoid superficial familiarity and seek true mastery. Mastering the basics unlocks the ability to excel at higher levels.
 
- Here is a summary of the key points:
+ 
 
 - When faced with a difficult problem, break it down into simpler, more manageable sub-problems. Thoroughly solve the sub-problems first, as this will provide insights into the larger problem. 
 
@@ -83,7 +83,7 @@ The key is being ruthlessly honest with yourself about the depth of your compreh
 
 The key ideas are breaking problems down, isolating essence, mastering basics, focused attention on details, and indirect creative approaches rather than direct attacks on complexity.
 
- Here is a summary of the key points:
+ 
 
 - Real issues are often obscured by surrounding history, context, and complications. By systematically stripping away the peripheral details, we can uncover the core themes and gain clearer understanding. 
 
@@ -97,7 +97,7 @@ The key ideas are breaking problems down, isolating essence, mastering basics, f
 
 - Being honest about what we know and don't know helps fill holes in understanding. The interface between knowledge and ignorance is where growth occurs.
 
- Here is a summary of the key points:
+ 
 
 - People often accept ideas based on authority and repetition rather than evidence. This makes it hard to separate what we really know from what we just believe. 
 
@@ -129,7 +129,7 @@ The key ideas are breaking problems down, isolating essence, mastering basics, f
 
 The key is maintaining a positive mindset. Mistakes are not failures, but opportunities to gain insights and improve. By analyzing and learning from mistakes in a constructive way, you can fail your way to success!
 
- Here is a summary of the key points:
+ 
 
 - Mary was a student who hated math but was forced to take a math class she had no interest in. She was disengaged in class. 
 
@@ -181,7 +181,7 @@ The key is shifting perspective to value the learning process over perfect outco
 
 The key insight is that framing good questions, even if you know the answers, focuses your mind in a productive direction leading to new discoveries and solutions. Questioning yourself constantly with curiosity is a powerful thinking tool.
 
- Here is a summary of the key points:
+ 
 
 - Asking basic questions openly, even if they seem "stupid", demonstrates confidence and leads to greater understanding. Leaders should not be afraid to ask fundamental questions. 
 
@@ -263,7 +263,7 @@ Calculus is an idea that has been extraordinarily fruitful and influential acros
 
 The key is to make change a habit. Alter your mindset and behaviors bit by bit through consistent micro-wins. Progress compounds. You'll look back one day and be amazed at how far you've come.
 
- Here is a summary of the key points:
+ 
 
 - Doing a task with true understanding is easier than doing it by rote memorization or formulas without comprehension. Understanding provides context and meaning that makes facts and procedures more memorable.
 
@@ -279,7 +279,7 @@ The key is to make change a habit. Alter your mindset and behaviors bit by bit t
 
 The key is focusing on transforming our thinking process rather than just exerting more effort, and being willing to question assumptions and change course as needed. With the right mental habits and effort, we are all capable of expertise and creativity beyond what we imagine.
 
- Here is a summary of the key points:
+ 
 
 - Strive for rock-solid understanding of fundamentals (Earth)
 - Learn from mistakes and failures (Fire)  
@@ -301,7 +301,7 @@ The passage emphasizes deeply understanding basics, clearing away clutter to fin
 
 - Imagine how an expert would approach a task differently than you currently do. Their knowledge and skills would make it easier. Transform yourself through the learning process.
 
- Here is a summary of the key points:
+ 
 
 - Apply the four elements of effective thinking (Earth, Fire, Air, Water) in your own life to improve your thinking skills. Adopt these as lifelong habits.
 

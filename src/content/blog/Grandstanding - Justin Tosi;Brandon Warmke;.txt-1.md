@@ -79,7 +79,7 @@ Empirical research has found grandstanding can serve prestige functions, like wa
 
 When grandstanding, people express something - their "grandstanding expression" - through speech or writing to get others to see them as morally exceptional. While the desire for recognition doesn't have to be the sole motive, it must be strong enough that failing to impress others would lead to disappointment. Grandstanders use indirect language in their expressions rather than directly stating their moral greatness, to maintain plausible deniability and avoid social proscriptions against boasting.
 
- Here is a summary of the key points:
+ 
 
 - Grandstanders use indirect or ambiguous language like "As someone who has long fought for the poor..." instead of more direct statements like "I am the most morally sensitive person here...". This allows them to deny they are grandstanding even though their intent is obvious from context. 
 
@@ -159,7 +159,7 @@ The passage also introduces the concept of "trumping up", which is making spurio
 
 Overall, the key points are that grandstanding involves prioritizing recognition of one's moral views over substance, and it often manifests through strategic behaviors like ramping up or trumping up claims in discussions to appear morally superior to others.
 
- Here is a summary of the key points:
+ 
 
 - Grandstanding often involves trumping up moral issues by taking non-moral issues and presenting them as moral problems to attract attention. This is like an invasive species that spreads unchecked. 
 
@@ -201,7 +201,7 @@ So in summary, the social costs are that it replaces honest, solutions-oriented 
 
 So in summary, grandstanding is presented as having real social costs like increased polarization as people strategically adopt more extreme views for reputation rather than truth-seeking, which can undermine reasonable discourse and compromise.
 
- Here is a summary of the key points:
+ 
 
 - Grandstanding-driven polarization tends to cause people to have false beliefs because the incentives of competitive grandstanding focus on ramping up extreme positions and trumping others, rather than discovering the truth. 
 
@@ -329,7 +329,7 @@ In summary, the article argues that constant displays of anger and moral condemn
 
 In summary, the chapter argues that according to traditional conceptions of virtue and evaluations of moral character, a truly virtuous person would likely not engage in grandstanding given its underlying egoistic motivations. Grandstanding seems more a defect in character than the mark of strong virtue.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses different types of motivations people can have for volunteering or engaging in public discourse - altruistic, dutiful, and egoistic. 
 
@@ -417,7 +417,7 @@ Grandstanding may also involve attacking the out-group to draw sharp contrasts. 
 
 - The "expressive policy problem" arises when policies are supported simply to express certain values or oppose the other side's values, rather than based on their actual effectiveness or merits. This makes politics more of a morality pageant than a practical problem-solving process.
 
- Here is a summary of the key points:
+ 
 
 - Rent control policies are often supported for their expressive value in appearing to make housing more affordable, even if they do not actually achieve that outcome in practice. 
 
@@ -451,7 +451,7 @@ Overall, the Display Test and willingness to acknowledge policy weaknesses can s
 
 - In conclusion, the passage argues that while grandstanding may sometimes be tolerated for politicians, on balance it likely does more harm than good by damaging political discourse and hindering compromise. However, a complete ban on grandstanding would also be unrealistic and problematic. More constructive approaches to addressing the issue are needed.
 
- Here is a summary of the key points:
+ 
 
 - The passage cautions against publicly accusing or "calling out" someone for grandstanding. Even if the accusation is justified, it typically leads to an unproductive discussion and makes the situation worse. 
 
@@ -517,7 +517,7 @@ The notes contain citations and references to various academic sources on topics
 
 Overall, the notes touch on a variety of academic sources and studies relating to political psychology, media effects, and ethical theories. The citations provide supporting references for points made about these topics.
 
- Here is a summary of the key points:
+ 
 
 - Bradley (2005) shows that virtue consequentialism and what the view says are more complicated matters than some simplifications suggest. 
 

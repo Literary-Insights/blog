@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points:
+ 
 
 - The book shares a step-by-step process for starting a business in a weekend, focusing on the parts of starting and building it. 
 

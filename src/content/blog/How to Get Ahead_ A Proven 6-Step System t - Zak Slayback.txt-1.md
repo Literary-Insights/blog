@@ -143,7 +143,7 @@ The main points of the advice are:
 
 The key is determining what really matters to you in your career by tapping into your intuition. Then set a concrete plan to work toward that in a methodical and optimistic way. Continually check that your actions and goals align with what you value to build a fulfilling career path.
 
- Here is a summary of the key points:
+ 
 
 • You have an unfair advantage when starting something new because you can learn from those who came before you. This allows you to shave years off the learning curve.
 
@@ -187,7 +187,7 @@ The key is determining what really matters to you in your career by tapping into
 
 - Follow up with maintenance emails and expressions of thanks to keep these relationships going. But only meet or call again when you have a clear purpose.
 
- Here is a summary of the key points:
+ 
 
 •Knowledge from mentors comes in the form of tacit knowledge and experience. Work closely with mentors to gain relevant skills and experience. Observe them in action, be aware of their processes, and understand the rationale behind their decision making. 
 
@@ -225,7 +225,7 @@ That covers the key highlights for finding and developing a strong relationship 
 
 • Simon landed a mentor in under 4 months by researching video production companies, reaching out with examples of his work, and staying in touch. His mentor eventually gave him project work, then hired him full-time. Simon turned his creative hobby into a paid career by finding the right mentor.
 
- Here is a summary of the key points:
+ 
 
 • Avoid burnout and continue getting important work done by using a simple personal project management system like the Result-Orient-Keep (ROK) system. 
 
@@ -289,7 +289,7 @@ The key tools for this process are simple writing tools to capture your thinking
 
 • In summary, win your week by scheduling high-priority, result-generating work early and often, leaving adequate buffer room for the unexpected. This approach helps you feel focused and in control rather than constantly behind and burned out. Make progress on what matters to you by designing your days and weeks for success.
 
- Here is a summary of the key points:
+ 
 
 • Your personal brand is your reputation and what people associate with you. It exists whether you build it intentionally or not.  You have a choice to craft it or let others define it for you.
 

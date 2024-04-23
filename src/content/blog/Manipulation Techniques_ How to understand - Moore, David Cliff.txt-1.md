@@ -23,7 +23,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 In summary, the passage outlines several common manipulation techniques, how they work, and keys to detecting and countering them. While manipulation is often viewed negatively, some forms of influence and persuasion are a normal part of human relationships and workplace dynamics. But manipulators who rely primarily on deception and insincerity should be approached with caution.
 
- Here is a summary of the key points:
+ 
 
 • Manipulation is using subtle tactics to influence someone's thoughts or actions. It ranges from persuasion to coercion. Persuasion uses charm and ingratiation, while coercion uses subtle threats and fear.
 

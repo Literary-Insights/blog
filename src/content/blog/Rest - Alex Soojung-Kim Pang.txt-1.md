@@ -311,7 +311,7 @@ This finding challenges the assumption that cultivation of the mind requires den
 
 The passage discusses how some intellectual communities in the 19th century viewed sports and academic study as mutually supportive. At Cambridge University, many top performers on the grueling Tripos exams participated in regular physical exercise like rowing. They believed exercise complemented and facilitated intense study. Charles Sherrington's laboratory at Oxford attracted accomplished scientists who were also athletes. Sherrington himself was a committed athlete. His students included prominent sports players who went on to make contributions to neuroscience. Other intellectual communities that combined academics and athletics included mountain climbers and scientists in the early-to-mid 20th century. While Sherrington's students did not study the effects of exercise on cognition, modern research shows physical fitness improves brain structure and function, and can boost intelligence and mental performance. Activities like running specifically stimulate neurogenesis and the production of brain-derived neurotrophic factor.
 
- Here is a summary of the key points:
+ 
 
 - Aerobic exercise has been shown to provide a small boost to creativity for people who are physically fit, though not for non-exercisers. 
 
@@ -603,7 +603,7 @@ The other papers examine the benefits of vacations and time off from work. They 
 
 - No direct quotes are included from these additional sources, just an acknowledgment that they are further references on the topic of international experience and its impacts.
 
- Here is a summary of the key points:
+ 
 
 - Olf, Lin-Manuel Miranda, Tom Morello, Edward Morley, and mountain climbing are mentioned as examples to analyze rest practices in different fields like music, literature, and athletics. 
 

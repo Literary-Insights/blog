@@ -61,7 +61,7 @@ Some key points:
 
 The overall message encourages writers to not be too hard on themselves, enjoy the creative season, and let ideas develop naturally before worrying about publishing goals or outputs for readers. Taking pressure off enables one to more freely pursue their purpose as a writer.
 
- Here is a summary of the key points:
+ 
 
 - The author argues that coming up with completely new and original story ideas is not necessary for writers. Most storytelling tropes and ideas have been done before in some form. 
 
@@ -111,7 +111,7 @@ The main messages are to pay close attention to developing complex, relatable ch
 
 So in summary, the passage advises crafting layered, flawed characters with clear motivations and room for growth to foster reader investment and meet audience expectations in different genres.
 
- Here is a summary of the key points:
+ 
 
 - The author discusses different approaches to plotting a story - "plotters" who outline carefully before writing vs. "pantsers" who discover the story as they write without outlines. 
 
@@ -143,7 +143,7 @@ So in summary, the passage advises crafting layered, flawed characters with clea
 
 - Some key tentpole plot elements that are useful to outline include: the inciting incident, protagonist's flaw/misbelief, allies, antagonist, character's objective/goal, obstacles/conflicts, climax and resolution. Outlining these elements provides the framework for an effective story structure.
 
- Here is a summary of the key points:
+ 
 
 - The inciting incident occurs, introducing the central conflict. This may hint at a theme or lesson the protagonist will later learn. The protagonist usually rejects this idea initially. 
 
@@ -339,7 +339,7 @@ Receiving multiple perspectives can be useful but challenging if viewpoints dire
 
 The key advice is to use the outline as an active tool for planning and tracking changes made during the revision process. Manipulating the outline first helps set direction before revising large portions of text. Keeping it updated ensures it remains an accurate guide.
 
- Here is a summary of the key points:
+ 
 
 - Chapters and scenes should advance the understanding of characters, plot, and stakes. Anything that doesn't meaningfully contribute should be removed or repurposed. 
 
@@ -395,7 +395,7 @@ He got home.
 
 - Rejection is part of the process and most queries do not succeed initially. Keep learning from each response and experience.
 
- Here is a summary of the key points:
+ 
 
 - A fraction of submissions may get no response at all, so you need to emotionally prepare for some radio silence. Requests for full manuscripts or revise-and-resubmit notes mean you are close to breaking through. 
 
@@ -407,7 +407,7 @@ He got home.
 
 - Submission strategy is complex but revising and resubmitting judiciously is a solid approach, while continuing to submit elsewhere simultaneously. Nurturing the creative self is important for the long haul of any writing journey.
 
- Here is a summary of the key points:
+ 
 
 - The passage talks about some of the ups and downs that can happen in writing and publishing, like a book flopping, getting rejected, delays in responses, etc. It notes that these things are normal even if they are difficult. 
 

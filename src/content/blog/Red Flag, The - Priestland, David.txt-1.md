@@ -41,7 +41,7 @@ In 1984 as a 19-year-old student, they visited Moscow during the height of Cold 
 
 As a graduate student from 1987-1988, they had a chance to study the mysterious Stalin's Terror in-depth while living in Moscow. This was during Gorbachev's glasnost period of more open debate. If any time could reveal the attitudes underlying Communism, this seemed to be it as the system was starting to unravel. Again, what they witnessed left them confused about Communism and the Soviet Union.
 
- Here is a summary of the key points:
+ 
 
 - Mikhail Gorbachev's reforms of perestroika and glasnost were aimed at restructuring and liberalizing the Soviet system. However, reactions within Russia were mixed, with some eagerly embracing capitalism while others hoped to reform communism. 
 
@@ -265,7 +265,7 @@ In contrasting Tsarist Russia with Pudovkin's vision, it discusses how Russia co
 
 Eventually, many frustrated industrial workers like Kanatchikov and Shapovalov decided to take action by joining larger revolutionary organizations. They looked to the radical intelligentsia, another excluded social group determined to overcome Russia's divisions and accelerate modernization, for leadership of these organizations. The radical intelligentsia included socialist intellectuals like Chernyshevskii, whose influential novel What is to be Done? inspired many young people with utopian socialist ideas and ideals of the "new people." It promoted concepts like egalitarian communes, cooperative workshops, and rational social organization. It also introduced the ascetic revolutionary figure of Rakhmetov, who dedicated himself completely to serving the people. Many saw the novel as a call to emulate Rakhmetov and overthrow the old unequal order through dedicated revolutionary action. This led some students to argue for immediate interaction with workers and peasants over prioritizing education, in line with Bakunin's views.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses the emergence and development of Marxism in Russia in the late 19th century. Initially, Russian socialists embraced agrarian socialism and believed in the revolutionary potential of the peasantry. 
 
@@ -331,7 +331,7 @@ The petition to the Tsar called for democratic reforms like universal suffrage, 
 
 - Lenin justified this as temporarily abandoning workers' democracy until socialism could fully develop, portraying it as consistent with Marxism. However, it centralized power in the vanguard party rather than the soviets.
 
- Here is a summary of the key points:
+ 
 
 - Dernity (early Soviet society) aimed for mass education, welfare, secularism and women's emancipation, but made little progress especially on women's equality. 
 
@@ -557,7 +557,7 @@ The petition to the Tsar called for democratic reforms like universal suffrage, 
 
 - Stalin's ideal society judged people not on wealth but heroic deeds, with status based on politics not money. However, the paternalistic state ultimately controlled rewards. Stalin's leadership cult portrayed him as father-figure granting benefits to grateful children.
 
- Here is a summary of the key points:
+ 
 
 - Stalin was seen publicly as the "father of the nation" who looked after and provided for the Soviet people. This paternalistic view coexisted with the idea of social mobility under communism. 
 
@@ -915,7 +915,7 @@ The Communists were organized, powerful in China, and offered moral education an
 
 - The Communist bloc was more diverse than the West realized. By 1949, Communist regimes ruled over a third of the world's population, with most closely allied to Moscow. Few would have predicted this outcome just eight years earlier when the Nazis threatened Moscow and Communism was on the verge of collapse.
 
- Here is a summary of the key points:
+ 
 
 - After WWII, the Soviet Union faced immense challenges of reconstruction with a devastated economy and population. Stalin prioritized rebuilding military strength over living standards. 
 
@@ -1023,7 +1023,7 @@ The Communists were organized, powerful in China, and offered moral education an
 
 - In Eastern Europe, collectivization followed the more coercive Soviet 1930s model, with simultaneous dekulakization pressure. Peasants resisted giving up land and faced intense quotas, leading to widespread alienation. Conditions on collective farms were poor. Overall, peasants lost economic independence and status to a new exploitative hierarchy.
 
- Here is a summary of the key points:
+ 
 
 - In 1950, Milovan Djilas conceived of a new economic model for Yugoslavia where factories would be left in the hands of workers, with workers paying taxes to fund the military and essential state needs. 
 
@@ -1411,7 +1411,7 @@ Surveys showed youth valued black market jobs most, followed by military and car
 
 The film "The Blonde Round the Corner" displayed concerns about consumerism as a rival system with different values than communism. It portrayed the hero rejecting a woman symbolizing consumerism and shallow pleasures over commitment to ideology.
 
- Here is a summary of the key points:
+ 
 
 - In 1968, an American Peace Corps volunteer organized a fashion show at Addis Ababa University in Ethiopia featuring African fabrics, in response to criticism of a prior show featuring Western clothing like miniskirts. 
 
@@ -1763,7 +1763,7 @@ So in summary, it provides brief contextual details and images related to key in
 
 - Former Communist parties in Europe adopted social democratic positions and quieted criticism of new capitalist systems, while Asian Communist parties embraced markets. Ideological commitments weakened everywhere except China.
 
- Here is a summary of the key points:
+ 
 
 - Local party pressure in China often leads to politically-motivated rather than economically-sound investment decisions, posing a dilemma for political elites trying to direct the economy without independent oversight. Anti-corruption campaigns lose steam over time.
 
@@ -1799,7 +1799,7 @@ Communist regimes often pursued radical transformation using militaristic method
 
 While communism brought benefits like education and welfare, economic problems grew and citizens saw a gap with consumer Western societies. By the 1970s, few believed the USSR party sought true equality. Memories of violence also discredited communism's goals. In the end, economic crisis may fuel nostalgia but a communist return is unlikely given its failures.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses the emergence of left-wing populism in some countries in response to deep economic inequalities. However, extreme inequalities alone are rarely sufficient for extreme leftist success - empires/entrenched hierarchies have often also been needed. 
 
@@ -1909,7 +1909,7 @@ So in summary, the provided sources cite or reference various primary sources, b
 
 That covers the key points regarding power and its different bases discussed on pages 64-67 of the assigned reading. Let me know if you need any clarification or have additional questions.
 
- Here is a summary of the key points:
+ 
 
 - Early revisionist works challenge the traditional narrative of Allied diplomacy leading up to WWII, as seen in Kolko's book. Westad edited a review of the historiography of the Cold War. 
 
@@ -1931,7 +1931,7 @@ That covers the key points regarding power and its different bases discussed on 
 
 - Mao's regime in China established itself amid divisions with the Nationalists in the 1920s-40s period covered.
 
- Here is a summary of the key points from the provided text:
+ 
 
 - Mao is argued to be firmly within the ambiguous Marxist tradition by Nick Knight. Knight examines this point in chapter 6 of his book Rethinking Mao. 
 
@@ -2152,7 +2152,7 @@ The sources cover various communist and revolutionary movements and periods of t
 
 - Hungary: Experienced economic reforms, attitudes changed in the 1980s, had instability in leadership, radical Marxism failed earlier in the 20th century, workforce was dissatisfied.
 
- Here is a summary of the key points:
+ 
 
 - Persecution of 'counter-revolutionaries' in the USSR increased after Lenin's death in the early 1920s under Stalin's leadership. Thousands were arrested and imprisoned. 
 
@@ -2170,7 +2170,7 @@ The sources cover various communist and revolutionary movements and periods of t
 
 - The Khmer Rouge ruled Cambodia with an extreme form of agrarian communism in the 1970s that led to mass killings and human rights abuses.
 
- Here is a summary of the key points:
+ 
 
 - Peasants in China were difficult to mobilize for revolution due to their isolated nature. Guerrilla movements played an important role in mobilizing peasants in revolutions. 
 

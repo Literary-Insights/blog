@@ -49,7 +49,7 @@ In summary, the introduction frames "money blocks" as limiting subconscious beli
 
 So in summary, it addresses commonly held subconscious beliefs that act as obstacles when it comes to money and how overcoming these can help improve one's financial situation.
 
- Here is a summary of the key points:
+ 
 
 - Many people hold limiting beliefs about money, wealth, and being financially successful that hold them back from achieving their full potential. Some of these limiting beliefs originate from childhood messages received from religious institutions or family members. 
 

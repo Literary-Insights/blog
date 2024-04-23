@@ -102,7 +102,7 @@ The overall message is that small, simple actions can strengthen self-control an
 
 - The key messages are having open yet caring discussions, understanding addiction as a disease, setting boundaries to avoid enabling, getting one's own support, and educating children about risks while fostering compassion. The overall aim is addressing addiction issues compassionately within relationships.
 
- Here is a summary of the key points:
+ 
 
 - Vincent Felitti was a clinical professor of medicine who founded the Department of Preventive Medicine at Kaiser Permanente San Diego. 
 
@@ -160,7 +160,7 @@ The Philadelphia ACE Project added five questions to the questionnaire to accoun
 
 - The rest of the passage outlines the 7 PCE questions and provides suggestions for incorporating each PCE into adult life through relationships, traditions, communication skills, and finding a sense of belonging.
 
- Here is a summary of the key points:
+ 
 
 - Having a solid circle of close friends who support each other is important, especially as people get older. It's worthwhile to put in the effort to maintain strong friendships.
 
@@ -172,7 +172,7 @@ The Philadelphia ACE Project added five questions to the questionnaire to accoun
 
 - Having at least 2-3 such caring non-parent adults in your life as a child is a protective factor, while their continued presence can help you navigate challenges later in life.
 
- Here is a summary of the key points:
+ 
 
 - Professor Bruce Alexander created an experiment called "Rat Park" at Simon Fraser University to study addiction risk factors. 
 
@@ -222,7 +222,7 @@ If we don't create environmental conditions that support recovery from addiction
 
 - In summary, the passage discusses research showing strong links between socioeconomic and community-level environmental factors to both psychological and biological health. This highlights the interconnected relationship between a person and their surrounding environment.
 
- Here is a summary of the key points:
+ 
 
 - Your risk of addiction is linked to your environment. If you feel stuck or lack opportunities for socializing, exercising, and entertainment, you may be more likely to turn to substance use. Feeling like you're "in a Skinner box" can trigger addictive behaviors. 
 
@@ -234,7 +234,7 @@ If we don't create environmental conditions that support recovery from addiction
 
 The key messages are about understanding how environmental factors influence addiction risk, avoiding judgments, and making intentional choices to alter one's environment and coping strategies for healthier outcomes. The goal is recognizing personalized risk factors and promoting well-being.
 
- Here is a summary of the key points:
+ 
 
 - Benzodiazepines like Valium were commonly prescribed in the 1960s-70s for anxiety, insomnia, and as a "female tranquilizer" to address societal pressures on women. Valium became one of the most commonly prescribed drugs.
 
@@ -258,7 +258,7 @@ So in summary, it outlines how Valium was commonly but problematically prescribe
 
 - The risks of benzodiazepines are compared to opioids, both of which can start as medical treatments but carry addiction risks that transform them into problems over time if misused. Careful management of such drugs is important.
 
- Here is a summary of the key points:
+ 
 
 - The story outlines the parallels between the benzodiazepine and opioid crises, where both types of medications were falsely marketed as non-addictive but led to surging rates of addiction and dependence. 
 
@@ -274,7 +274,7 @@ So in summary, it outlines how Valium was commonly but problematically prescribe
 
 In summary, the key message is warning about the addictive potential of certain prescription medications, especially when taken improperly or combined with other risk factors, based on lessons from past drug crises. Careful use and monitoring is emphasized.
 
- Here is a summary of the key points:
+ 
 
 - Benzodiazepines, opioids, and stimulants all work on the same brain pathways and receptors as alcohol, heroin, cocaine respectively. This can lead people to chase euphoric effects and develop addictions. 
 
@@ -286,7 +286,7 @@ In summary, the key message is warning about the addictive potential of certain 
 
 - A computer card game called the Iowa Gambling Task showed that abstaining from cocaine for 6 months allowed people's brains and decision making to recover, choosing less risky options as brain structure improved. This demonstrates addiction is treatable and the brain can recover through abstinence.
 
- Here is a summary of the key points:
+ 
 
 - It is important to have open conversations with your doctors about risk factors for substance use disorders, in order to be proactive in preventing problems. 
 
@@ -316,7 +316,7 @@ In summary, the key message is warning about the addictive potential of certain 
 
 So in summary, the passage discusses how adversity like poverty and stress can impact health over time. It also provides an example of how Geronimus' research challenging traditional views on this topic was misrepresented in the media, upsetting some parents.
 
- Here is a summary of the key points:
+ 
 
 - Aravah Geronimus conducted research in the 1980s that found teenage mothers had lower infant mortality rates than mothers in their 20s in the same communities. This went against the prevailing view that teen pregnancy was universally bad. 
 
@@ -380,7 +380,7 @@ So in summary, the passage discusses how adversity like poverty and stress can i
 
 So in summary, the key is providing a judgment-free listening ear, validating experiences, respecting needs and boundaries, taking responsibility if needed, and helping to resolve issues smoothly whether the identities are the same or different. The focus is on supporting the individual seeking support.
 
- Here is a summary of the key points:
+ 
 
 - Culture plays a significant role in influencing substance use and addiction risk. It includes both macro and micro factors.
 
@@ -400,7 +400,7 @@ He took the issue to the board of directors. The board deliberated and decided q
 
 The move was seen as CVS asserting its responsibility to prioritize customers' health over profits. It prompted broader discussions about the role of corporations in influencing health behaviors and environments. While a bold financial decision, it marked an efforts by a major retailer to take a stand against one of the leading causes of preventable death in the US.
 
- Here is a summary of the key points:
+ 
 
 - CVS Health became the first major pharmacy chain to stop selling tobacco products in the U.S. in 2014. This was a major shift as tobacco sales brought in $2 billion annually for CVS. 
 
@@ -414,7 +414,7 @@ The move was seen as CVS asserting its responsibility to prioritize customers' h
 
 So in summary, CVS Health's decision to stop tobacco sales had meaningful public health impacts by altering the retail environment and cultural acceptability of smoking in certain communities, in turn helping to reduce cigarette consumption and support smokers who wanted to quit.
 
- Here is a summary of the key points:
+ 
 
 - Peer pressure can occur at any age, as humans have a strong innate tendency toward herd mentality and following the behaviors of our social groups. This evolved as a survival mechanism. 
 
@@ -450,7 +450,7 @@ So in summary, CVS Health's decision to stop tobacco sales had meaningful public
 
 The overall message is that while broader cultural forces shape risks, individuals retain agency over their own choices and can establish healthier norms through preparedness, communication and gradual skill-building in navigating social pressures around substance use.
 
- Here is a summary of the key points:
+ 
 
 - Olivia, a woman from an unnamed company, messaged the author asking to learn more about what their company is trying to do. 
 
@@ -526,7 +526,7 @@ So in summary, Alexander's Rat Park experiment challenged prevailing views of ad
 
 - Studies found new mothers were frequently prescribed opioids after childbirth, putting them at risk for addiction. By 2020, anxiety and benzodiazepine prescribing was rising again during the COVID pandemic. Regulators are warning about overprescribing and addiction risks.
 
- Here is a summary of the key points:
+ 
 
 - The FDA issued its strongest drug safety warning about the serious risks and potential fatal consequences of combining opioid pain or cough medicines with benzodiazepines. 
 

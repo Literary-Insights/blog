@@ -31,7 +31,7 @@ BOOK LINK:
 
 - The successes of AlphaGo and these tech platforms exemplify the potential of digital technologies like machine learning and platforms to transform industries in novel ways.
 
- Here is a summary of the key points:
+ 
 
 - Companies like Uber, Airbnb, Alibaba, and Facebook have achieved massive success and growth despite owning few long-lived physical assets. They rely on software, algorithms, and network effects.
 
@@ -45,7 +45,7 @@ BOOK LINK:
 
 - This highlights how even giants see value in using networked communities and assets like software and data, not just physical assets, to innovate in the modern economy. Asset-light models are spreading.
 
- Here is a summary of the key points:
+ 
 
 - Recent advances in AI, platforms, and crowdsourcing are disrupting businesses and industries. Three examples: 
 
@@ -63,7 +63,7 @@ BOOK LINK:
 
 - The goal of the book is to provide lenses to make sense of these changes and guide business success. Rebalancing mind and machine, product and platform, and core and crowd is essential.
 
- Here is a summary of the key points:
+ 
 
 - The second phase of the second machine age is characterized by AI systems that can do non-routine work like creative tasks and natural language processing. Powerful mobile devices have also spread rapidly, connecting billions of people digitally. 
 
@@ -75,7 +75,7 @@ BOOK LINK:
 
 - Incumbents can be blinded by their existing knowledge and success with the status quo, making it hard to adapt to new technologies, even if initially only marginally better. This "curse of knowledge" helps explain why technological disruptions often catch experts by surprise.
 
- Here is a summary of the key points:
+ 
 
 - In the mid-1990s, IBM's Deep Blue chess computer defeated world champion Garry Kasparov, demonstrating the growing capability of AI systems. More recently, Google's AlphaGo AI beat the world's top Go player Lee Sedol. These victories illustrate how machines are becoming increasingly intelligent and able to perform complex tasks that were previously only done by humans.
 
@@ -89,7 +89,7 @@ BOOK LINK:
 
 - Each chapter will summarize key takeaways and questions for applying the ideas. The overall aim is to help businesses capitalize on the opportunities of the second machine age.
 
- Here is a summary of the key points:
+ 
 
 - Twenty years ago, businesses adopted a division of labor where computers handled routine tasks like math, record-keeping, and data transmission, freeing up people to exercise judgment, creativity, and problem-solving.
 
@@ -101,7 +101,7 @@ BOOK LINK:
 
 - However, recent AI advances are challenging this division of labor, as machines become capable of some tasks requiring judgment, not just routine calculation. This raises questions about the human role in an AI-capable world.
 
- Here is a summary of the key points:
+ 
 
 - Many believe people should focus on using intuition and judgment (System 1 thinking), while machines handle logical and analytical tasks (System 2 thinking). This is called the "standard partnership."
 
@@ -125,7 +125,7 @@ BOOK LINK:
 
 - More companies are relying on data over intuitions and judgments. The "standard partnership" does not always work well. Human judgment still has a role but should be relied on less.
 
- Here is a summary of the key points:
+ 
 
 - Algorithms and data-driven models are increasingly outperforming human experts in making decisions and predictions in a wide variety of domains. Examples include diagnosing medical conditions, making business forecasts, and assessing creditworthiness. 
 
@@ -139,7 +139,7 @@ BOOK LINK:
 
 - Many highly automated decisions are already common, like credit scoring, e-commerce recommendations, and dynamic pricing. The "second economy" of fully automated decisions is expanding.
 
- Here is a summary of the key points:
+ 
 
 - Dan Wagner and his colleagues on the 2012 Obama campaign used machine learning to score each voter on their likelihood to support Obama, turn out to vote, and be persuaded by campaign messaging. This allowed more targeted and effective TV ad buying compared to traditional demographic-based approaches. 
 
@@ -151,7 +151,7 @@ BOOK LINK:
 
 - Some balance of human and machine intelligence is likely best. Humans are needed to define problems, objectives, and evaluation criteria. Machines are good for optimization and pattern recognition once goals are properly defined.
 
- Here is a summary of the key points:
+ 
 
 - Humans have strengths like gathering diverse sensory data and using common sense that computers currently lack. The "broken leg role" involves humans noticing exceptions that trip up computer models. 
 
@@ -177,7 +177,7 @@ BOOK LINK:
 
 - Organizations should move away from long-term forecasts and toward constant experimentation and testing.
 
- Here is a summary of the key points:
+ 
 
 - Since the advent of digital computers, researchers have tried to get them to mimic human intelligence and reasoning. This field became known as artificial intelligence (AI). 
 
@@ -197,7 +197,7 @@ BOOK LINK:
 
 - Recently, statistical AI has seen major advances thanks to bigger data sets, neural networks, and increased computing power. This has enabled impressive accomplishments in areas like computer vision and natural language processing.
 
- Here is a summary of the key points:
+ 
 
 - Early attempts at symbolic AI, based on codifying rules, failed to achieve human-level performance in complex real-world tasks like speech recognition and translation. These systems performed poorly, generating unintelligible or nonsensical outputs. 
 
@@ -221,7 +221,7 @@ BOOK LINK:
 
 - Overall, the field of AI seems to be finally fulfilling some of its long-standing promise, thanks to neural nets and deep learning. These techniques are likely to continue spreading rapidly and impacting industries and economies unevenly in the coming years.
 
- Here is a summary of the key points:
+ 
 
 - The symbolic, rule-based approach to AI has declined in favor of statistical, machine learning techniques like deep learning. This is because machine learning has proven much more effective at tackling difficult problems like speech recognition and natural language processing. 
 
@@ -233,7 +233,7 @@ BOOK LINK:
 
 - Unsupervised learning, where systems learn patterns from raw data rather than being explicitly trained, is seen as key to achieving artificial general intelligence. But current successes in AI rely primarily on supervised learning.
 
- Here is a summary of the key points:
+ 
 
 - Eatsa is a restaurant that offers nutritious, tasty, and affordable vegetarian meals with quinoa as the main ingredient. Customers order, pay, and receive their food without interacting with any employees.
 
@@ -249,7 +249,7 @@ BOOK LINK:
 
 - As more processes become virtualized, companies and customers need to consider the tradeoffs involved and the effects on jobs, customer service, and human relationships.
 
- Here is a summary of the key points:
+ 
 
 - Virtualization of services is accelerating as networks and digital devices become more ubiquitous. For example, the number of bank tellers has declined as online and mobile banking has grown. 
 
@@ -279,7 +279,7 @@ The Cambrian Explosion was a brief period when most major forms of life on Earth
 
 Together these advancements are fueling a robotic Cambrian Explosion as innovators rapidly experiment, generate data, and improve algorithms. Robots are well suited for dull, dirty, dangerous and expensive tasks. Examples include construction site monitoring by drones and crop monitoring in agriculture. The explosion in robotics will likely lead to major economic disruption as many jobs are automated.
 
- Here is a summary of the key points:
+ 
 
 - Drones and other machines are taking over dull, dirty, dangerous, and expensive (dull, dirty, dear) tasks previously done by humans, like crop monitoring, equipment inspection, and spraying. This frees up humans to use our minds in more valuable ways. 
 
@@ -327,7 +327,7 @@ Our social nature also gives us an edge over computers. Jobs tapping into human 
 
 The key is combining computers' strengths with human strengths like creativity and emotional intelligence. This allows more total creativity and progress in the world.
 
- Here is a summary of the key points:
+ 
 
 - In the mid-1990s, many traditional industries like newspapers, magazines, radio, and recorded music were thriving and generating billions in revenue annually. 
 
@@ -339,7 +339,7 @@ The key is combining computers' strengths with human strengths like creativity a
 
 - The speed and scale of the disruption across so many industries was unprecedented in business history. The Internet fundamentally transformed the economy.
 
- Here is a summary of the key points:
+ 
 
 - Many industries were disrupted in the 1990s and 2000s by digital technologies, including music, newspapers, magazines, malls, telecommunications, and radio. 
 
@@ -359,7 +359,7 @@ The key is combining computers' strengths with human strengths like creativity a
 
 - Digital technologies allowed disruption by making information goods free, perfect in quality, and instantly distributable. This challenged traditional business models.
 
- Here is a summary of the key points:
+ 
 
 - Platforms like the internet leverage the economics of being free, perfect, and instant to rapidly grow and disrupt incumbent businesses. The marginal cost of distribution and reproduction is nearly zero.
 
@@ -375,7 +375,7 @@ The key is combining computers' strengths with human strengths like creativity a
 
 - Platforms can proliferate and disrupt rapidly due to their ability to leverage the economics of being free, perfect, and instant, build on other platforms, and benefit from network effects.
 
- Here is a summary of the key points:
+ 
 
 - The internet and digital technologies have disrupted many industries over the past 20 years, leading to falling revenues but more options for consumers. This happened due to the "free, perfect, and instant" economics of digital information goods on networks. 
 
@@ -391,7 +391,7 @@ The key is combining computers' strengths with human strengths like creativity a
 
 - Platforms are transforming business models across industries. Traditional practices face upheaval due to the economics of platforms and digitization.
 
- Here is a summary of the key points:
+ 
 
 - In 2007, Steve Jobs and Apple launched the revolutionary iPhone, which was an instant success. However, Jobs initially refused to allow third-party apps on the iPhone, wanting Apple to control the platform. 
 
@@ -421,7 +421,7 @@ The key is combining computers' strengths with human strengths like creativity a
 
 - Many developers were willing to make free apps, creating tremendous consumer surplus, which greatly increased demand for the iPhone.
 
- Here is a summary of the key points:
+ 
 
 - When apps like Angry Birds and Shazam are free, it generates consumer surplus for iPhone users who feel like they are getting a bargain. It also shifts the iPhone demand curve outward since more people are willing to pay for the iPhone due to the availability of desirable free apps.
 
@@ -433,7 +433,7 @@ The key is combining computers' strengths with human strengths like creativity a
 
 - Curation through app approval processes and reputation systems can help platform owners maintain quality and control. Platform owners have significant discretion over how they configure and curate their creations.
 
- Here is a summary of the key points:
+ 
 
 - Platforms like Apple's App Store and Google's Android can force hard choices on companies in their sphere of influence, as they rely on these platforms for distribution and revenue. 
 
@@ -463,7 +463,7 @@ The key is combining computers' strengths with human strengths like creativity a
 
 In summary, platforms leverage network effects and complements to grow demand. Good curation and user experience help them succeed. Many have two-sided network effects.
 
- Here is a summary of the key points:
+ 
 
 - Xercise seems an unlikely activity for digital disruption, but ClassPass shows how platforms can transform atom-based industries like fitness studios. 
 
@@ -477,7 +477,7 @@ In summary, platforms leverage network effects and complements to grow demand. G
 
 - Platforms like ClassPass face unique challenges bringing the economics of digital goods to physical services with finite capacity. But complements like software can align incentives.
 
- Here is a summary of the key points:
+ 
 
 - ClassPass ran into issues with its unlimited offering because costs grew faster than revenues as usage increased. This was because revenues were tied to number of members while costs were tied to number of classes taken.
 
@@ -489,7 +489,7 @@ In summary, platforms leverage network effects and complements to grow demand. G
 
 - Core economic fundamentals that made digital platforms successful also apply to these O2O platforms. We can expect them to continue spreading throughout the economy.
 
- Here is a summary of the key points:
+ 
 
 - O2O (online-to-offline) platforms like Airbnb, Uber, and Instacart are using technology to make traditional services and businesses more convenient and efficient. 
 
@@ -503,7 +503,7 @@ In summary, platforms leverage network effects and complements to grow demand. G
 
 - Successful O2O platforms are emerging around the world, tailored to local environments and opportunities. Examples include BlaBlaCar, Go-Jek, Edaixi, and others.
 
- Here is a summary of the key points:
+ 
 
 - Digital platforms like Uber, Airbnb, and ClassPass are spreading into industries that deal with physical goods and services (online-to-offline or O2O platforms). 
 
@@ -536,7 +536,7 @@ In summary, platforms leverage network effects and complements to grow demand. G
 
 The key takeaway is that platforms benefit from strong network effects and ecosystem control, which allows them to capture the lion's share of profits in many industries, relegating product makers to low/no margin utility roles. This trend will likely continue as platforms become more pervasive.
 
- Here is a summary of the key points:
+ 
 
 - Platforms like Stripe, ClassPass, Postmates, and Transfix are part of a larger trend of platforms diffusing into many industries. This will continue due to the significant advantages platforms have over competitors. 
 
@@ -554,7 +554,7 @@ The key takeaway is that platforms benefit from strong network effects and ecosy
 
 - Overall, platforms will continue spreading due to their advantages, though not all industries will be subsumed. Both platform owners and ecosystem participants can profit, but platforms are gaining power.
 
- Here is a summary of the key points:
+ 
 
 - Platforms like ClassPass want to attract prestigious brands but also want to keep consumer mindshare and wallet share. Platforms have an advantage in controlling the user interface and experience.
 
@@ -572,7 +572,7 @@ The key takeaway is that platforms benefit from strong network effects and ecosy
 
 In summary, platforms subsidize the side of the market that is most price sensitive, in order to harness cross-side network effects and maximize overall platform participation. This often leads platforms to prefer lower prices than sellers.
 
- Here are the key points:
+ 
 
 - Platforms like Uber rely on network effects and low prices to grow rapidly. Uber offers low prices to attract more riders, which in turn attracts more drivers. 
 
@@ -616,7 +616,7 @@ The differentiation in lodging keeps it from becoming a single-product market vu
 
 - Overall, the author sees the crowd as a powerful new way to gather diverse knowledge, enabled by the economics of free digital information. It represents a major change from traditional hierarchical institutions.
 
- Here is a summary of the key points:
+ 
 
 - The crowd can produce high-quality content when people contribute in good faith. Powerful search tools and enlightened platform policies that assume good faith help minimize bad content. 
 
@@ -644,7 +644,7 @@ The differentiation in lodging keeps it from becoming a single-product market vu
 
 So in summary, principles like openness, noncredentialism, verifiable contributions, clear outcomes, self-organization, and geeky leadership helped Linux become collaboratively developed by a crowd of volunteers. The software could tap into diverse motivations and skills without traditional limitations.
 
- Here is a summary of the key points:
+ 
 
 - The crowd is large, diverse, and unpredictable, the opposite of the core. But crowd-based models like stock markets, prediction markets, and search engines can extract valuable information from the crowd's emergent structure. 
 
@@ -674,7 +674,7 @@ So in summary, principles like openness, noncredentialism, verifiable contributi
 
 - To leverage online crowds, organizations must properly structure challenges and incentives to attract participation and effort. But doing so reliably produces superior solutions.
 
- Here is a summary of the key points:
+ 
 
 - Organizations often set up teams or departments to tackle challenges, but these "cores" are frequently misaligned or mismatched to the problems they face. Meanwhile, the "crowd" outside the organization, because it is so large and diverse, is often better equipped to solve these problems.
 
@@ -686,7 +686,7 @@ So in summary, principles like openness, noncredentialism, verifiable contributi
 
 - The core and the crowd can complement each other. The core sets the strategy and oversees quality, while the crowd provides skills, ideas, and perspectives.
 
- Here is a summary of the key points:
+ 
 
 - Crowdfunding reverses the traditional model of developing and marketing a product before assessing market demand. Instead, it allows companies to gauge interest and secure funding from the crowd before investing heavily in manufacturing. This provides valuable customer feedback and pre-sales. 
 
@@ -696,7 +696,7 @@ So in summary, principles like openness, noncredentialism, verifiable contributi
 
 - In investing, quantitative algorithms have long been used by specialized firms to automate trading decisions. John Fawcett founded Quantopian in 2011 to open up quantitative investing to the broader crowd by building a robust technology platform for testing trading algorithms. This aims to democratize algorithmic trading beyond the few thousand specialized quants in the industry.
 
- Here is a summary of the key points:
+ 
 
 - The "maker movement" consists of tinkerers, do-it-yourselfers, engineers, and scientists who help each other online by sharing instructions, recipes, blueprints, etc for making things ranging from autonomous go-carts to synthetic biology experiments. 
 
@@ -708,7 +708,7 @@ So in summary, principles like openness, noncredentialism, verifiable contributi
 
 - This highlights the "permissionless innovation" of maker crowds - by collaborating and sharing designs openly they can create affordable solutions without needing approval from established institutions.
 
- Here is a summary of the key points:
+ 
 
 - Economist John Maynard Keynes observed that influential deceased economists can shape the world through their ideas long after they are gone. 
 
@@ -726,7 +726,7 @@ So in summary, principles like openness, noncredentialism, verifiable contributi
 
 - Truly decentralized models have yet to change the world but contain immense potential to distribute power away from centralized hierarchies in radical new ways.
 
- Here is a summary of the key points:
+ 
 
 - Satoshi Nakamoto published a paper in 2008 proposing Bitcoin, a new digital currency that aimed to enable online payments without banks or other financial intermediaries. 
 
@@ -744,7 +744,7 @@ So in summary, principles like openness, noncredentialism, verifiable contributi
 
 - The paper proposed a novel technical solution to enable a decentralized digital currency, at a time when many people were losing faith in banks and governments after the 2008 financial crisis.
 
- Here is a summary of the key points:
+ 
 
 - Bitcoin emerged after the Great Recession as a decentralized digital currency independent of governments and institutions. It appealed to those disillusioned with the status quo. 
 
@@ -760,7 +760,7 @@ So in summary, principles like openness, noncredentialism, verifiable contributi
 
 - The blockchain enables trusted recording of events and transactions without central authorities. Its potential is still being explored across industries.
 
- Here is a summary of the key points:
+ 
 
 - In June 2016, the Republic of Georgia announced a project with economist Hernando de Soto to design a blockchain-based land title registry system. This could reduce costs and corruption by creating immutable records. 
 
@@ -792,7 +792,7 @@ So in summary, principles like openness, noncredentialism, verifiable contributi
 
 In summary, while Bitcoin and blockchains are innovative, companies will remain essential elements of a prosperous economic system for the foreseeable future.
 
- Here is a summary of the key points:
+ 
 
 - The DAO was created as a decentralized autonomous organization that would function purely through open-source software and smart contracts, with no human oversight. It raised $162 million in crowdfunding, aiming to democratize business and funding decisions.
 
@@ -806,7 +806,7 @@ In summary, while Bitcoin and blockchains are innovative, companies will remain 
 
 - These cases illustrate the difficulties of replacing traditional corporate structures with autonomous, decentralized software systems at this point. Technical and governance vulnerabilities can arise. More work is needed to achieve the ideal of a fully decentralized organization.
 
- Here are the key points:
+ 
 
 - Coase's 1937 paper "The Nature of the Firm" posed a fundamental question: If markets are so efficient, why do firms exist? His answer was that firms can minimize certain transaction costs compared to pure markets. 
 
@@ -820,7 +820,7 @@ In summary, while Bitcoin and blockchains are innovative, companies will remain 
 
 - So firms are likely to remain important and dominant, even as disruptive innovations like blockchain decentralize certain activities. The economics suggest a more nuanced rather than all-or-nothing shift.
 
- Here is a summary of the key points:
+ 
 
 - Transaction costs are important in determining whether markets or hierarchies (firms) are more efficient. Markets tend to have lower production costs, while firms have lower coordination costs. 
 
@@ -838,7 +838,7 @@ In summary, while Bitcoin and blockchains are innovative, companies will remain 
 
 - Fully decentralized, crowd-based entities will likely never dominate as they cannot solve the problems of incomplete contracts and lack of residual control.
 
- Here is a summary of the key points:
+ 
 
 - Companies exist in large part because complete contracts are impossible to write. Technologies like sensors and AI may help anticipate more outcomes, but contracts will remain incomplete. 
 
@@ -866,7 +866,7 @@ In summary, while Bitcoin and blockchains are innovative, companies will remain 
 
 In summary, Udacity uses a project-based course model and reduced grading costs by shifting from employees to crowdsourced evaluators. This enabled rapid scaling while lowering costs.
 
- Here is a summary of the key points:
+ 
 
 - Technological progress tests companies. The average lifespan of S&P 500 companies has fallen from 60 years in 1960 to less than 20 years today due to creative destruction in the digital era. 
 
@@ -880,7 +880,7 @@ In summary, Udacity uses a project-based course model and reduced grading costs 
 
 - More power through technology means values matter more than ever. We should ask not "what will technology do to us?" but "what do we want to do with technology?"
 
- Here is a summary of the key points:
+ 
 
 - New technologies like artificial intelligence are allowing machines to master complex tasks like the board game Go, which was long considered too intuitive for computers. This demonstrates the rapid advances being made in AI.
 
@@ -892,7 +892,7 @@ In summary, Udacity uses a project-based course model and reduced grading costs 
 
 - This revolution presents challenges for traditional companies and workers, but also great opportunities if the technology is steered toward inclusive growth rather than concentration of power. The choices societies make about how to use these technologies will shape the future.
 
- Here is a summary of the key points:
+ 
 
 - In 1993, business process reengineering (BPR) emerged as a hot new management trend, promising dramatic performance improvements by radically rethinking business processes. However, BPR failed to live up to the hype, with over 60% of projects failing to achieve the desired results. 
 
@@ -964,7 +964,7 @@ So in summary, many major industries faced significant disruption in a short per
 
 - Technological improvements like cheaper data storage and the "death of distance" enabled by the internet have fueled massive disruption of traditional industries. New internet companies like Craigslist and AppNexus have taken business from traditional media.
 
- Here is a summary of the key points:
+ 
 
 - Steve Ballmer and Microsoft initially dismissed the iPhone's high price tag, not realizing the power of Apple's platform business model. 
 
@@ -992,7 +992,7 @@ So in summary, many major industries faced significant disruption in a short per
 
 - The article highlights how poorly strategic some of these large tech mergers and acquisitions have turned out, failing to create value and synergies as intended. The deals ended up being costly write-downs and disasters.
 
- Here is a summary of the key points:
+ 
 
 - Baidu, a major Chinese search engine, announced plans to invest $3.2 billion in online-to-offline services over 3 years. This is part of Baidu's strategy to expand beyond search into newer areas like food delivery, travel booking, etc. 
 

@@ -11,7 +11,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 ---
 
 
- Here is a summary of the key points:
+ 
 
 - The author reflects on her own experience with technology as a girl growing up with a Dell computer and internet access. This experience shapes her view that technology is meant to enrich human life and connect people. 
 

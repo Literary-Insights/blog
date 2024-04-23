@@ -35,7 +35,7 @@ BOOK LINK:
 
 - The introduction sets up exploring what truly makes humans exceptional versus our core biological similarities to other animals.
 
- Here is a summary of the key points:
+ 
 
 - Neanderthals were more closely related to modern humans than traditional views recognized. They diverged from a common ancestor over 500,000 years ago but interbred with migrating human populations around 50,000 years ago in Europe and Asia. 
 
@@ -177,7 +177,7 @@ Overall, the emergence of Acheulian tool making represented an important cogniti
 
 - While humans have evolved tools that make killing more efficient, nuclear deterrence suggests we may be moving away from mutually assured destruction. Our reasons for warfare are difficult to justify through evolution alone.
 
- Here is a summary of the key points:
+ 
 
 - Gongylidia are nutritious structures produced by fungi that are farmed by leafcutter ants. They exist solely as a result of the mutualistic relationship between the fungi and ants.
 
@@ -247,7 +247,7 @@ Overall, the emergence of Acheulian tool making represented an important cogniti
 
 In summary, the passage discusses the widespread behaviors of masturbation and oral sex across human and animal species and considers various evolutionary and pleasure-based explanations.
 
- Here is a summary of the key points:
+ 
 
 - Many animals engage in non-reproductive sexual behaviors like oral sex, masturbation, and sex acts between same-sex partners. This includes species like fruit bats, dunnocks, bears, bonobos, and others. 
 
@@ -459,7 +459,7 @@ So in summary, the experiment provided evidence that rats can demonstrate regret
 
 So in summary, the passage discusses emerging evidence that efficient cultural transmission through growing and interconnected populations was crucial for the development of advanced human traits and societies. Population dynamics may have been a neglected but pivotal influence on human evolution.
 
- Here is a summary of the key points:
+ 
 
 - There was no single genetic change that made humans Homo sapiens - our evolution involved many gradual genetic changes over time. Our genomes provide the framework for human traits and abilities to emerge. 
 

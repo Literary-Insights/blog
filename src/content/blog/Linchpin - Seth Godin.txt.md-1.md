@@ -135,7 +135,7 @@ That covers the main ideas around overcoming resistance, anxiety, and perfection
 
 • The key message is that reviving gift culture and strengthening community connections offers a path to prosperity and meaning. Generosity and reciprocity build influence and amplify creative work. Although commerce has a role, it should not displace the human need for gift giving. Restoring balance will require openness to giving and receiving with the right spirit.
 
- Here is a summary of the key points:
+ 
 
 •Linchpins distinguish between busywork and essential work. They focus their effort on work that really matters rather than just being busy. 
 

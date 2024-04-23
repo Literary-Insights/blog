@@ -87,7 +87,7 @@ The remaining chapters focus on objectives related to management accounting conc
 
 - Accounting involves analytical thinking and problem-solving rather than just memorization. Students should focus on understanding principles.
 
- Here is a summary of the key points:
+ 
 
 urton Lt made op
 
@@ -269,7 +269,7 @@ preparing customer quotations. The learning objectives are also outlined.
 
 - Other branches that have developed include taxation, financial management, and dealing with insolvency/bankruptcy situations. Accounting now caters to more users beyond just owners/managers.
 
- Here is a summary of the key points:
+ 
 
 - External auditors examine more than just financial accounts, such as entity's planning, control procedures, and value-for-money tests. 
 
@@ -283,7 +283,7 @@ preparing customer quotations. The learning objectives are also outlined.
 
 - Insolvency accounting deals with bankruptcies and liquidations, which involve formal legal procedures to protect individuals and wind up companies' affairs in financial difficulties.
 
- Here is a summary of the key points:
+ 
 
 - The trading sector includes businesses like retailers and wholesalers that buy goods and sell them without major production work. This includes shops, supermarkets, builders' merchants, etc. 
 
@@ -424,7 +424,7 @@ In summary, immateriality allows for flexibility and a balanced perspective in f
 
 - Understanding accounting concepts and terminology helps non-accountants interpret financial reports, discuss issues with accountants, and assess reliability of information presented.
 
- Here is a summary of the key points:
+ 
 
 - Double-entry bookkeeping has been used for accounting for over 600 years and is now used globally. 
 
@@ -498,7 +498,7 @@ Credit accounts that pay out money or record income/revenues/equity.
 
 - Key questions for managers to ask about the accounting system and trial balance are identified to verify its integrity and reliability for managerial decision making.
 
- Here is a summary of the key points:
+ 
 
 - N is the carrying out and performance of a particular business activity or event. 
 
@@ -548,7 +548,7 @@ So in summary, this chapter provides important context for non-accountants on ho
 
 - Retained earnings from the statement of retained earnings need to be included in the statement of financial position to balance it.
 
- Here is a summary of the key points:
+ 
 
 - 4000 is a source of debt funding or borrowing for a business. This refers to long-term loans that are due for repayment more than 12 months in the future. 
 
@@ -596,7 +596,7 @@ Trade receivables: £33,000
 Less: Allowance for doubtful debts: £1,500
    Net trade receivables: £31,500
 
- Here is a summary of the key points:
+ 
 
 - Accounting profit calculated using historic cost accounting is an arbitrary number that does not accurately reflect a company's economic reality or value. It is subject to significant criticisms. 
 
@@ -650,7 +650,7 @@ Total Equity £62,000
 Payables £24,000
 Total Equity and Liabilities £86,000
 
- Here is a summary of the key points from the provided text:
+ 
 
 - This chapter focuses on preparing financial statements for a company, building on the sole trader accounts covered in Chapter 4. Company accounts have more complexity due to limited liability and various types of companies. 
 
@@ -772,7 +772,7 @@ So in summary, the passage discusses the National Audit Office's view that gover
 
 - The manufacturing account is part of the double entry system and included in periodic financial statements to calculate the cost of converting raw materials into finished goods for manufacturing entities.
 
- Here is a summary of the key points from the provided text:
+ 
 
 - Direct material cost includes the cost of raw materials purchased plus the closing inventory of raw materials minus the opening inventory of raw materials. This is also sometimes referred to as materials consumed. 
 
@@ -973,7 +973,7 @@ The key learning objectives are for Edgar to gain an understanding of:
 
 - The chapter is important for non-accountants to understand annual reports as they may need to analyze them for work or investments. Understanding the structure and content will help readers interpret these documents.
 
- Here is a summary of the key points from the provided text:
+ 
 
 - Some companies include corporate governance information in a statutory directors' report, while others present it separately as its own section. 
 
@@ -987,7 +987,7 @@ The key learning objectives are for Edgar to gain an understanding of:
 
 So in summary, the corporate governance section provides transparency around a company's leadership, oversight, controls, and shareholder accountability based on evolving voluntary governance codes and recommendations.
 
- Here is a summary of the key points:
+ 
 
 - The UK Corporate Governance Code lays out detailed corporate governance disclosure requirements for listed companies in their annual reports. It deals with board structure and operations, board evaluation, shareholder engagement, committee work, directors' duties, and more. 
 
@@ -1132,7 +1132,7 @@ Ordinarily, an annual report and financial statements for a listed company like 
 
 The annual report and financial statements will include the key financial statements like the income statement, balance sheet, cash flow statement. It will also include notes to the financial statements providing additional details and explanations. Other non-financial information about the company's strategy, operations, corporate social responsibility initiatives, board of directors etc. are also typically included.
 
- Here is a summary of the key points:
+ 
 
 - Ratio analysis is an important technique for interpreting financial statements and putting the numbers into context. It allows comparisons over time and between companies. 
 
@@ -1148,7 +1148,7 @@ The annual report and financial statements will include the key financial statem
 
 So in summary, ratio analysis is a critical tool for evaluating financial statements by establishing meaningful relationships between key metrics both over time and against peers through various calculation techniques.
 
- Here is a summary of the key points:
+ 
 
 - Dragons (investors) on the TV show Dragons' Den evaluate start-up business proposals to decide whether to invest. 
 
@@ -1341,7 +1341,7 @@ In summary, the passage describes the historical evolution of management account
 
 - Direct materials consist of raw materials and component parts incorporated into production. There can be issues with identifying direct material costs due to size, timing and purchasing practices. Appropriate pricing methods need to be determined.
 
- Here is a summary of the key points:
+ 
 
 - There are three main methods for pricing direct materials: FIFO, average cost, and standard cost. 
 
@@ -1409,7 +1409,7 @@ So in summary, direct labor cost is calculated based on employee time spent on a
 
 - The aim is to ultimately allocate all indirect costs to production cost centers so they can be added to the cost of specific units passing through those centers.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses different methods that can be used to absorb overhead costs into the cost of production, including direct labor cost method, prime cost method, direct labor hours method, and machine hours method. 
 
@@ -1451,7 +1451,7 @@ So in summary, direct labor cost is calculated based on employee time spent on a
 
 So in summary, part B compares the overhead costs allocated to each unit under the traditional method vs the activity-based costing (ABC) method, showing ABC achieves a fairer allocation of overhead costs.
 
- Here is a summary of the key points:
+ 
 
 - Service cost centers' costs may be allocated separately or apportioned in total to production cost centers. 
 
@@ -1519,7 +1519,7 @@ In summary, a production manager is accountable for efficiently managing all asp
 
 - All relevant budgets are to be prepared from the information provided, including sales, production, materials, labor, overhead, costs of goods sold, cash, profit and loss, and balance sheet.
 
- Here is a summary of the key points:
+ 
 
 - Flexible budgeting allows budgets to be adjusted based on actual activity levels, as some costs vary with activity while others remain fixed. 
 
@@ -1533,7 +1533,7 @@ In summary, a production manager is accountable for efficiently managing all asp
 
 - Involving managers in budget preparation and not imposing budgets from above helps gain their acceptance and commitment to the budgeting system.
 
- Here is a summary of the key points:
+ 
 
 - Budgetary control involves comparing actual results to a budget/plan on a frequent basis to identify any deviations and take corrective action. 
 
@@ -1559,7 +1559,7 @@ In summary, a production manager is accountable for efficiently managing all asp
 
 - It is commonly used in manufacturing where processes are repetitive, to facilitate budgeting, cost control and decision making. Periodic adjustment of standards may be needed due to changing costs or conditions.
 
- Here is a summary of the key points:
+ 
 
 - An ideal standard makes no allowance for normal losses or inefficiencies and can only be achieved under perfect conditions. An attainable standard accounts for some reasonable level of losses and inefficiencies. 
 
@@ -1571,7 +1571,7 @@ In summary, a production manager is accountable for efficiently managing all asp
 
 - Key performance measures that can be calculated from standard costing data include efficiency ratio, capacity ratio and production volume ratio. These help evaluate performance against budgets and standards.
 
- Here is a summary of the key points:
+ 
 
 - The management of Frost Production company will need to investigate why only 90 units were produced instead of the expected 100 units in the budget. Producing fewer units than budgeted is unfavorable to meeting production and profitability targets.
 
@@ -1581,7 +1581,7 @@ In summary, a production manager is accountable for efficiently managing all asp
 
 - Achievable and motivational production targets set through the standard costing system can help control costs, identify inefficient areas, and reward managers who meet standards. This in turn contributes to increased production and profitability.
 
- Here is a summary of the key points:
+ 
 
 - A favorable direct materials price variance can be offset by an adverse direct materials usage variance because lower purchase prices may result in greater wastage of materials if inferior quality materials are used. 
 
@@ -1589,7 +1589,7 @@ In summary, a production manager is accountable for efficiently managing all asp
 
 So in both cases, an adverse cost variance in one area can potentially be offset by a favorable variance in another related area, resulting in the variances offsetting each other to some degree. The overall impact on profit depends on the magnitude of the favorable versus unfavorable variances.
 
- Here is a summary of the key points:
+ 
 
 - LP management will need to decide which variances to investigate based on company policy. Only significant or "exceptional" variances are typically investigated due to time and resource constraints. 
 
@@ -1653,7 +1653,7 @@ The key point is that contribution analysis assumes variable costs and fixed cos
 
 In my view, these issues around the assumptions of strict fixed vs variable cost classification and behavior are the most significant weaknesses since they undermine the underlying model that marginal costing/contribution analysis is based on. Issues like time period of analysis and non-quantitative factors are also important limitations but the cost classification issues strike at the core of the technique.
 
- Here is a summary of the key points:
+ 
 
 - The company's budget is to break even at 15,000 units or make a profit target at 25,000 units. 
 
@@ -1687,7 +1687,7 @@ In my view, these issues around the assumptions of strict fixed vs variable cost
 
 So in summary, the key point is that while contribution analysis and marginal costing are useful tools, fixed costs cannot be entirely ignored when making specific management decisions, as they simplify reality and may omit important cost factors.
 
- Here is a summary of the key points:
+ 
 
 - Deciding whether we supply or make our own materials and components involves determining whether to procure materials from external suppliers or manufacture them internally. This decision considers factors like relative costs, quality control, reliability of supply, etc. 
 
@@ -1725,7 +1725,7 @@ So in summary, the key point is that while contribution analysis and marginal co
 
 - Transfer pricing is also an issue when one part of an organization sells to another, requiring an internal price to be set.
 
- Here is a summary of the key points:
+ 
 
 - It matters what prices are charged for internal transfers between segments because segments are often given autonomy and may purchase from external suppliers if they offer better prices or service. 
 
@@ -1761,7 +1761,7 @@ So in summary, the key point is that while contribution analysis and marginal co
 
 The summary highlights the main points around the role of management accountants in decision making and key cost considerations and pricing approaches discussed in the chapter. Let me know if you need any clarification or have additional questions.
 
- Here is a summary of the key points:
+ 
 
 - Conoco Phillips, a major US oil and gas producer, announced a 25% cut to its 2016 capital spending budget vs 2015, reducing it to $7.7 billion. This is less than half of what it spent in 2014. 
 
@@ -1793,7 +1793,7 @@ The key techniques discussed are payback period, discounted payback period, inte
 
 - Advantages of NPV and IRR are they consider time value of money. Disadvantages are difficulty estimating cash flows and discount/required rates of return. ARR is simpler but does not consider time value of money. NPV is generally considered the most robust method.
 
- Here is a summary of the key points:
+ 
 
 - The internal rate of return (IRR) method was used to calculate the rate of return for the new project. 
 
@@ -1829,7 +1829,7 @@ The key techniques discussed are payback period, discounted payback period, inte
 
 So in summary, the passage discusses the accountant's role in objectively assessing costs and benefits of potential capital projects using tools like NPV, while also noting their analysis should not preclude projects on its own - management still needs to make the final call based on both financial and non-financial factors. The accountant aims to inform rather than dictate the investment decision.
 
- Here is a summary of the key points:
+ 
 
 - The business environment has changed significantly over the last 40 years due to factors like globalization, new technologies, and economic shifts. 
 
@@ -1855,7 +1855,7 @@ So in summary, changes to the business environment drove the need for new manage
 
 - A number of emerging management accounting techniques were summarized, including activity-based management, balanced scorecard, benchmarking, target costing, etc. Future changes in management accounting practices are expected to be evolutionary rather than revolutionary.
 
- Here is a summary of the key points:
+ 
 
 - The M system (Activity-Based Management) is difficult to reduce activities to a practical level and determine precise activity boundaries. It also causes resentment by cutting across departmental structures. It's not clear who is in charge of activities. As a result, ABM has not been widely adopted despite discussion. 
 
@@ -1869,7 +1869,7 @@ So in summary, changes to the business environment drove the need for new manage
 
 - Beyond budgeting recognizes changes in the business environment. It proposes relating budgets to strategy, shorter forecast periods, rolling forecasts on outcomes, focusing on activities/processes not departments, and flexible discretionary costs. But a full replacement model for budgeting has not been developed yet.
 
- Here is a summary of the key points:
+ 
 
 - Marketing, research and training costs from short-term forecasts should be excluded from comprehensive budgets, as they focus more on long-term planning. 
 
@@ -1895,7 +1895,7 @@ So in summary, changes to the business environment drove the need for new manage
 
 - Adoption in practice has been limited despite theoretical benefits. Estimating lifetime costs remains difficult but comparing objectives to results still provides valuable insights for cost control.
 
- Here is a summary of the key points:
+ 
 
 - Target costing determines the maximum amount that can be spent on manufacturing, marketing, selling, and distributing goods based on the difference between the desired selling price and profit. This becomes the target cost. 
 
@@ -2182,7 +2182,7 @@ Therefore, the decision should be to accept Contract 2, as it results in the hig
 
 A careful assessment of more profitable alternative work that could be displaced is also recommended before accepting a contract.
 
- Here is a summary of the key points:
+ 
 
 - Behavioural considerations are important in management accounting, such as how budgets can affect employee behaviour. 
 

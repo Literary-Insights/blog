@@ -111,7 +111,7 @@ BOOK LINK:
 
 - The passage advocates focusing on the present moment rather than the future when dealing with chronic or acute pain. It also acknowledges the loneliness that often accompanies chronic illness or disability. More work remains to address loneliness as a wider social problem.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses the distinction between loneliness and solitude. Loneliness involves emotional pain from social disconnection, while solitude is simply being alone without feelings of loneliness. 
 
@@ -359,7 +359,7 @@ In summary, the author argues against utopian thinking and for a focus on illumi
 
 - The question of meaning implies seeking some truth about our place in the universe that can guide our attitude and feelings toward existence.
 
- Here is a summary of the key points:
+ 
 
 - The author argues that religion provides a "total reaction upon life" by offering a metaphysical view of the world that guides how we feel about life, the universe, and existence. This metaphysical view could involve God/gods or not (as in Buddhism).
 
@@ -373,7 +373,7 @@ In summary, the author argues against utopian thinking and for a focus on illumi
 
 - The author ultimately argues that considering a grim scenario like humanity becoming infertile/facing extinction could provide an answer to life's meaning - it would likely cause widespread despair, loss of meaning, and societal breakdown since we exist for future generations in an implicit "collective afterlife."
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses existential questions around meaning and purpose in the face of human extinction, as depicted in the film Children of Men. 
 
@@ -403,7 +403,7 @@ In summary, the author argues against utopian thinking and for a focus on illumi
 
 - Overall the passage examines the multifaceted nature of hope - how it can be both necessary and problematic, helpful yet risky. It acknowledges the ambiguities in defining and evaluating the role of hope in human life.
 
- Here is a summary of the key points:
+ 
 
 - Hope itself does not inspire action or bring about change. It is a prerequisite for action, but not the driving force. Grief, rage, fear can be stronger motivators. 
 
@@ -419,7 +419,7 @@ In summary, the author argues against utopian thinking and for a focus on illumi
 
 - Key is not whether to hope but what to hope for - hope should motivate action for justice and social change, not just personal fulfillment or happiness.
 
- Here is a summary of the key points:
+ 
 
 - The passage describes the plot of the ancient Greek play Philoctetes by Sophocles. In it, Odysseus and Neoptolemus travel to the deserted island of Lemnos to retrieve Philoctetes and his magical bow, which prophecies say the Greeks need to win the Trojan War. 
 
@@ -557,7 +557,7 @@ So in summary, the note references cover a range of philosophical sources, biogr
 
 - Individual carbon footprints and criticism of rhetoric that shifts blame to consumers.
 
- Here is a summary of the key points:
+ 
 
 - The blue caution tape reference is to a 2014 demonstration by Fossil Free MIT marking a flood level from climate change. 
 
@@ -581,7 +581,7 @@ p. 115: This note refers to the philosophical work of Samuel Scheffler and his e
 
 p. 169: This note refers to concepts discussed by Scheffler in Death and the Afterlife, including the idea of a "collective afterlife" (p. 64) and references James' Children of Men (p. 9) in relation to Scheffler's discussion of how "pleasure now comes" (p. 43). It also mentions Scheffler's discussion of "the Alvy Singer problem" (pp. 62-64, 188-90) in reference to the Woody Allen film Annie Hall.
 
- Here is a summary of the key points from the provided text:
+ 
 
 - Annie Hall (film), 162–63: Briefly mentions this Woody Allen film from 1977. 
 
@@ -603,7 +603,7 @@ p. 169: This note refers to concepts discussed by Scheffler in Death and the Aft
 
 So in summary, it provides see also references and page number lookups for key philosophers, concepts, and literary works discussed across the larger text this summary is pulled from.
 
- Here is a summary of the key points:
+ 
 
 - Hillel, Rabbi - briefly mentioned 
 - Hitz, Zena - discusses loneliness and grief

@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points:
+ 
 
 - This is an introduction to a book of affirmations meant to help the reader cultivate more happiness in their life. Affirmations are short, positive statements that can inspire change by shifting one's mindset and perspective. 
 

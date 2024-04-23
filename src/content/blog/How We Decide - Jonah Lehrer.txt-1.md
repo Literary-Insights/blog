@@ -123,7 +123,7 @@ Stein relies on instincts refined over decades. During complex scenes, he orches
 
 - The ACC helps adjust predictions by remembering lessons from prediction errors. This incorporates past experiences into future decision making.
 
- Here is a summary of the key points:
+ 
 
 - Backgammon is one of the oldest board games dating back to ancient Mesopotamia over 5000 years ago. It has changed little in terms of rules over the centuries. 
 
@@ -299,7 +299,7 @@ Mischel's marshmallow test from the 1970s similarly showed how four-year-olds di
 
 In summary, the ability to delay gratification and exercise self-control is linked to the development and function of the prefrontal cortex in regulating impulses and directing rational thought.
 
- Here is a summary of the key points:
+ 
 
 - The passage describes an experiment by cognitive psychologist Mark Jung-Beeman investigating the neural processes involved in insightful problem-solving. 
 
@@ -341,7 +341,7 @@ In summary, the ability to delay gratification and exercise self-control is link
 
 - While rational thinking saved the flight, the chapter notes it is not a perfect solution and can involve overthinking sometimes. Managing emotions and focusing deliberate thought was essential for Haynes to improvise a solution in the crisis.
 
- Here are the key points:
+ 
 
 - There is a common belief that more deliberation and careful, rational thinking always lead to better decisions than impulsive decisions. This is based on the idea that rationality is perfect and can solve all problems. 
 
@@ -353,7 +353,7 @@ In summary, the ability to delay gratification and exercise self-control is link
 
 In summary, while rational thinking is essential, the new science shows it has clear limitations. More deliberation can backfire in high-pressure situations where performance relies on ingrained automatic skills. Both impulsive and extremely rational approaches have downsides.
 
- Here is a summary of the key points:
+ 
 
 - Psychologist Timothy Wilson conducted an experiment replicating a Consumer Reports taste test of strawberry jams. College students' jam preferences closely matched the expert panel's, suggesting the innate ability to judge flavor. 
 
@@ -503,7 +503,7 @@ The passage then provides an example of how this played out with the introductio
 
 - This showed that the monkeys were empathetic and cared about another monkey they did not even know getting hurt. Their behavior changed immediately after witnessing the shock to the other monkey.
 
- Here is a summary of the key points:
+ 
 
 - Researchers conducted an experiment where they scanned subjects' brains using fMRI while presenting them with shopping options where the cost of an item was significantly lower than usual. 
 
@@ -517,7 +517,7 @@ The passage then provides an example of how this played out with the introductio
 
 - In summary, the experiment showed that purchasing decisions are more influenced by an "emotional tug-of-war" in the brain between pleasure and negativity centers than rational deliberation. Retail environments expertly exploit this for increased sales.
 
- Here is a summary of the key points:
+ 
 
 - Political scientist Larry Bartels analyzed survey data from the 1990s which showed that even Republican voters who were well-informed (read the news regularly, could identify their representatives) wrongly believed the budget deficit increased under Clinton, when it declined by over 90%. 
 

@@ -23,7 +23,7 @@ BOOK LINK:
 
 The preface discusses how the COVID-19 pandemic led to widespread shutdowns of schools, businesses, and public places, forcing people to stay home. This led to a surge in streaming entertainment as people looked for things to watch while quarantined. The author notes that while traditional TV initially saw a boost from news coverage of the pandemic, its limitations were quickly exposed as productions shut down and live events were cancelled. In contrast, Netflix and other streaming services thrived, offering thousands of on-demand shows and movies. The pandemic underscored the indispensability of streaming in modern life. People not only watched more, but work, school, religious services, and entertainment all shifted online. The preface conveys how the pandemic accelerated existing trends toward streaming while also revealing its necessity as both an entertainment escape and virtual public square.
 
- Here is a summary of the key points:
+ 
 
 - The book originally aimed to document the major new streaming services (Apple, Disney, HBO Max, Peacock) launching within a 7-month period in late 2019/early 2020, as well as mobile-only Quibi. 
 
@@ -41,7 +41,7 @@ The preface discusses how the COVID-19 pandemic led to widespread shutdowns of s
 
 - The landscape seemed familiar yet totally altered, like walking in a neighborhood during lockdown. The book captured a pivotal moment of massive change in entertainment.
 
- Here is a summary of the key points:
+ 
 
 - The Game of Thrones season 8 premiere at Radio City Music Hall marked the end of an era for HBO. The network was undergoing major changes after being acquired by AT&T. 
 
@@ -55,7 +55,7 @@ The preface discusses how the COVID-19 pandemic led to widespread shutdowns of s
 
 - The extravagant premiere marked the end of HBO's golden era of prestige TV. The network faced an uncertain future under new corporate ownership focused on the streaming wars.
 
- Here is a summary of the key points:
+ 
 
 - AT&T held a flashy premiere for Game of Thrones' final season at Radio City Music Hall, showing off its big-budget acquisition of Time Warner. But AT&T CEO John Stankey admitted he hadn't actually watched the show yet. 
 
@@ -67,7 +67,7 @@ The preface discusses how the COVID-19 pandemic led to widespread shutdowns of s
 
 - The major media companies face challenges in competing with Netflix's head start while also financing their traditional content businesses. But NBCUniversal CEO Steve Burke believes the playing field will level out as Netflix loses its monopoly position.
 
- Here is a summary of the key points:
+ 
 
 - Apple's The Morning Show started out as a more straightforward drama about morning TV news, based on the book Top of the Morning. But after high-profile sexual misconduct scandals involving Matt Lauer and Charlie Rose, the show was redeveloped to tackle gender issues and the #MeToo movement. This required major rewriting and revamping under tight deadlines. 
 
@@ -95,7 +95,7 @@ The preface discusses how the COVID-19 pandemic led to widespread shutdowns of s
 
 - The technology required to stream a feature film in 1993 pushed the limits of computing power available.
 
- Here is a summary of the key points:
+ 
 
 - The article traces the history of streaming video, beginning with Mark Blair's 1992 film Wax: The Discovery of Television Among the Bees. Blair streamed the film online in what was likely the first internet movie broadcast. 
 
@@ -121,7 +121,7 @@ The preface discusses how the COVID-19 pandemic led to widespread shutdowns of s
 
 - Icon represents how Hollywood is now dominated by technology companies like Netflix rather than the old studio system. It signals a shift in Hollywood's center of gravity away from the traditional studios towards streamers and tech giants.
 
- Here is a summary of the key points:
+ 
 
 - Netflix's sleek, modern headquarters building called Icon reflects its status as the leading force in streaming video. The building's minimalist facade evokes a sense of the digital, like the Netflix home screen. 
 
@@ -133,7 +133,7 @@ The preface discusses how the COVID-19 pandemic led to widespread shutdowns of s
 
 - They proved the viability of mailing DVDs by sending a test disc through the postal system unsleeved in an envelope. With $1.9 million in funding, the startup then took off.
 
- Here is a summary of the key points:
+ 
 
 - Netflix was founded in 1998 by Reed Hastings and Marc Randolph as a DVD rental and sales website, when there were limited options for buying/renting DVDs online. 
 
@@ -157,7 +157,7 @@ The preface discusses how the COVID-19 pandemic led to widespread shutdowns of s
 
 - Hastings has applied the keeper test ruthlessly, even firing close friends and original team members like Neil Hunt and Patty McCord, one of the culture deck's creators. This approach keeps Netflix dynamic but can be jarring for employees.
 
- Here is a summary of the key points:
+ 
 
 - Netflix pioneered a data-driven, personalized approach to understanding consumer preferences, setting it apart from Hollywood studios that focused on mass marketing tactics. 
 
@@ -173,7 +173,7 @@ The preface discusses how the COVID-19 pandemic led to widespread shutdowns of s
 
 - Early streaming efforts were modest with a small team and library. Netflix partnered with Anthony Wood who advocated for a streaming device connecting internet to TVs.
 
- Here is a summary of the key points:
+ 
 
 - Netflix began developing its own streaming device called the Netflix Player in 2007, code-named Project Griffin. However, CEO Reed Hastings pulled the plug before launch out of concern it would complicate relationships with hardware partners like Apple. The hardware operation was spun out into Roku. 
 
@@ -185,7 +185,7 @@ The preface discusses how the COVID-19 pandemic led to widespread shutdowns of s
 
 - Meanwhile, Netflix began financing its own original content, led by Ted Sarandos and Cindy Holland. While Hollywood underestimated the threat, Netflix built up a large subscriber base and content library.
 
- Here is a summary of the key points:
+ 
 
 - Lisa Nishimura joined Netflix in 2007 to help acquire streaming content. She had previously worked at a DVD delivery startup called Kozmo. 
 
@@ -211,7 +211,7 @@ The preface discusses how the COVID-19 pandemic led to widespread shutdowns of s
 
 - Debates ensued over naming the new streaming service. Research pointed to using Warner Bros. but Bob Greenblatt pushed for HBO. He won out, risking dilution of HBO's prestige brand. This signaled AT&T was willing to leverage HBO to quickly build up its streaming platform.
 
- Here is a summary of the key points:
+ 
 
 - HBO executives were puzzled by AT&T's insistence on running ads on HBO Max, given HBO's longstanding ad-free prestige brand. 
 
@@ -227,7 +227,7 @@ The preface discusses how the COVID-19 pandemic led to widespread shutdowns of s
 
 So in summary, HBO built a strong brand with bold, prestigious programming but struggled to transition to streaming due to complacency and restrictions, puzzling AT&T executives wanting to run ads.
 
- Here is a summary of the key points:
+ 
 
 - After the AOL-Time Warner merger in 2000, there was a disconnect between the divisions leading to missed opportunities. The merger quickly deteriorated. 
 
@@ -253,7 +253,7 @@ So in summary, HBO built a strong brand with bold, prestigious programming but s
 
 - Disney finally shifted to streaming, but only after seeing the success of Netflix and others. It demonstrated a reactive rather than pioneering approach to digital.
 
- Here is a summary of the key points:
+ 
 
 - In 2004, an article by Chris Anderson predicted the internet would allow niche content to flourish. Disney CEO Bob Iger asked his team to examine how this could impact Disney's mass-market content. 
 
@@ -267,7 +267,7 @@ So in summary, HBO built a strong brand with bold, prestigious programming but s
 
 - The summary captures Disney strategically acquiring IP and advancing digitally while still tied to profitable legacy cable business, facing the "innovator's dilemma" Iger described.
 
- Here is a summary of the key points:
+ 
 
 - TV networks wanted to offer streaming of their shows online, but only to cable/satellite subscribers, not to everyone for free like Hulu. This was called TV Everywhere.
 
@@ -307,7 +307,7 @@ So in summary, HBO built a strong brand with bold, prestigious programming but s
 
 - Apple would leverage its huge device ecosystem to promote TV+ and bundle it with other services like music, news, and games. The event showed Apple was serious about streaming but underscored the challenges it faced against established players.
 
- Here is a summary of the key points:
+ 
 
 - Zack Van Amburg and Jamie Erlicht, former Sony executives, were hired by Apple in 2017 to lead its original video programming efforts. Their goal was to develop a small number of high-quality, "prestige" TV shows and movies worthy of Apple's premium brand image. 
 
@@ -321,7 +321,7 @@ So in summary, HBO built a strong brand with bold, prestigious programming but s
 
 - The executives cited the decline of Sony's once-dominant Trinitron TV as a lesson in constantly innovating. Apple wants to keep giving customers reasons to buy its devices.
 
- Here is a summary of the key points:
+ 
 
 - Jeffrey Katzenberg first revealed his vision for a short-form mobile video service, called "NewTV," at the 2017 Allen & Co. Sun Valley Conference. He aimed to raise $2 billion for high-quality 7-10 minute videos designed for viewing during brief moments of downtime. 
 
@@ -331,7 +331,7 @@ So in summary, HBO built a strong brand with bold, prestigious programming but s
 
 - The rise and fall of Quibi illustrates the difficulties of disrupting entrenched players like Netflix and YouTube with an unproven mobile-only video model. Despite big investments, Quibi failed to achieve product-market fit.
 
- Here is a summary of the key points:
+ 
 
 - The article describes a meeting led by Jeffrey Katzenberg, founder of Quibi, a short-form video streaming startup, in Los Angeles in early March 2020. 
 
@@ -345,7 +345,7 @@ So in summary, HBO built a strong brand with bold, prestigious programming but s
 
 - Meg Whitman, former eBay and HP Enterprise CEO, was recruited by Katzenberg to be Quibi's CEO and oversee operations.
 
- Here is a summary of the key points:
+ 
 
 - Jeffrey Katzenberg raised $1.75 billion for Quibi, attracting interest from Hollywood creators looking for a new platform. Producer Jason Blum sold multiple projects to Quibi, as did many A-list creators. 
 
@@ -385,7 +385,7 @@ When Comcast took full ownership of NBCUniversal in 2013, it was not inclined to
 
 A key insight was to make the service free and ad-supported rather than a paid subscription model like Netflix. Given NBCU's huge ad business, preserving ads made sense. While the conventional wisdom was that TV spots were dying, services like Pluto TV and Hulu's basic tier showed free, ad-supported streaming could work. A subscription service seemed too challenging compared to leveraging NBCU's core ad business.
 
- Here are the key points:
+ 
 
 - NBCUniversal initially took a cautious approach to streaming under CEO Steve Burke, preferring to build on the company's strengths in cable TV and broadcast rather than disrupt that business model. 
 
@@ -409,7 +409,7 @@ A key insight was to make the service free and ad-supported rather than a paid s
 
 - ESPN has slowly added some streaming elements like ESPN3 and ESPN+, but hasn't put marquee content outside the pay TV bundle. Determining when and how to fully transition ESPN is an ongoing debate.
 
- Here are the key points:
+ 
 
 - ESPN president Jimmy Pitaro is considering taking ESPN's flagship SportsCenter show direct-to-consumer, though no changes are imminent. This reflects the broader shift from linear TV to streaming. 
 
@@ -439,7 +439,7 @@ Overall, advertising and subscription models are evolving as television transiti
 
 - Hulu faced skepticism internally, with different divisions at News Corp and NBC fearing it would disrupt their businesses. But leaders pushed ahead, seeing it as inevitable and wanting to get ahead of the curve.
 
- Here is a summary of the key points:
+ 
 
 - Kilar is portrayed as having a wholesome, Boy Scout image, growing up with a journalist mother and engineer father. As a child, his family life was written about humorously in his mother's newspaper column. 
 
@@ -451,7 +451,7 @@ Overall, advertising and subscription models are evolving as television transiti
 
 - After considering selling Hulu, the owners doubled down by investing $750 million to grow it. This returned Hulu to growth, though it still faced challenges acquiring content.
 
- Here is a summary of the key points:
+ 
 
 - In November 2018, AT&T executives held an analyst day to present their vision for the company after acquiring Time Warner. They aimed to leverage AT&T's distribution networks with Time Warner's content. 
 
@@ -463,7 +463,7 @@ Overall, advertising and subscription models are evolving as television transiti
 
 - Overall, AT&T aimed to leverage its distribution networks and acquire key content assets like Time Warner to drive a virtuous cycle of growth in streaming, although some early moves like FilmStruck's shutdown caused concerns. The company still lacked specifics like pricing and branding for its streaming plans.
 
- Here is a summary of the key points:
+ 
 
 - Warner Bros. was seeking to save its classic film streaming service FilmStruck after announcing plans to shut it down, prompting outrage from filmmakers and Hollywood figures. 
 
@@ -477,7 +477,7 @@ Overall, advertising and subscription models are evolving as television transiti
 
 - AT&T plans to convert its existing pay-TV subscribers to the new streaming platform. It believes leveraging existing users gives it an advantage over other new entrants.
 
- Here is a summary of the key points:
+ 
 
 - Disney held an investor day in April 2019 to reveal details about its upcoming streaming service Disney+. The event was highly anticipated, as Disney has a reputation for splashy marketing events. 
 
@@ -491,7 +491,7 @@ Overall, advertising and subscription models are evolving as television transiti
 
 - Overall, Disney aimed to showcase its streaming capabilities and content library to position itself as a formidable competitor in the streaming wars against Netflix and other new entrants.
 
- Here is a summary of the key points:
+ 
 
 - Disney invested significant time and resources into developing and rehearsing the storyline and presentation for the launch of Disney+ in April 2019. 
 
@@ -523,7 +523,7 @@ Overall, advertising and subscription models are evolving as television transiti
 
 - The announcements drove Disney's stock to record highs and dented Netflix's stock price, showing confidence in Disney's streaming strategy over Netflix. Apple's stock also rose on its streaming announcement.
 
- Here is a summary of the key points:
+ 
 
 - At an Apple event in September 2019, Tim Cook unveiled details about the upcoming Apple TV+ streaming service, including pricing ($4.99/month), launch date (November 1, 2019), and some of the original shows like The Morning Show, See, For All Mankind, and Dickinson. 
 
@@ -535,7 +535,7 @@ Overall, advertising and subscription models are evolving as television transiti
 
 - Apple applied meticulous attention to detail in shows like For All Mankind, but some agents sensed an inherent buoyancy to Apple's shows that differed from Netflix's edgier fare. Apple was sensitive about content that could tarnish its consumer brand.
 
- Here is a summary of the key points:
+ 
 
 - Quibi spent $5 million on a Super Bowl ad just weeks before the game, against the advice of their marketing team. The ad featured bank robbers distracted by Quibi and was seen as an ineffective use of money. 
 
@@ -565,7 +565,7 @@ In summary, Quibi made expensive, ineffective ad buys against internal advice an
 
 - Quibi shut down after just 7 months in October 2020, failing to gain traction. Katzenberg was criticized for not listening to warnings about content and audience.
 
- Here is a summary of the key points:
+ 
 
 - NBCUniversal named its streaming service Peacock, a reference to its colorful logo. The name got mixed reactions, with some feeling it was silly and others appreciating it wasn't just "+". 
 
@@ -577,7 +577,7 @@ In summary, Quibi made expensive, ineffective ad buys against internal advice an
 
 - Peacock planned to leverage the 2020 Olympics for promotion. The pressure intensified on NBCUniversal to launch a viable streaming competitor amid the launches of Disney+ and Apple TV+.
 
- Here is a summary of the key points:
+ 
 
 - Matt Strauss, chairman of Peacock and NBCUniversal Digital Enterprises, drew on his experience at Comcast to shape Peacock's strategy of "zigging where others zag" in the crowded streaming market. He wanted Peacock to feel timely and current like TV, not like other streamers. 
 
@@ -587,7 +587,7 @@ In summary, Quibi made expensive, ineffective ad buys against internal advice an
 
 - NBCU honchos expressed confidence in Peacock's distribution prospects given its free tier and integration with parent company Comcast. The presentation sold Peacock as a comfortable, non-disruptive new NBC product, not a high-tech interloper.
 
- Here is a summary of the key points:
+ 
 
 - WarnerMedia held an event to unveil its new streaming service, aiming to wow attendees like Disney did for its investor day. They brought people to the Warner Bros. studio lot, highlighted the studio's history, and teased the service's content library. 
 
@@ -603,7 +603,7 @@ In summary, Quibi made expensive, ineffective ad buys against internal advice an
 
 - Analysts and reporters were impressed by the content breadth but questioned the branding strategy and tech execution vs rivals. Overall reactions were positive but cautious about its chances against Netflix and Disney+.
 
- Here is a summary of the key points:
+ 
 
 - WarnerMedia held an event to unveil HBO Max, its new streaming service. There was immense pressure to justify AT&T's $85 billion acquisition of Time Warner and articulate a streaming strategy. 
 
@@ -615,7 +615,7 @@ In summary, Quibi made expensive, ineffective ad buys against internal advice an
 
 - Greenblatt was focused on programming and eager to move from broadcast TV to prestige content at HBO. Reilly and Greenblatt had parallel careers and knew each other well, though there was uncertainty about their new working relationship.
 
- Here is a summary of the key points:
+ 
 
 - Bob Greenblatt was hired by AT&T to oversee content for the new WarnerMedia streaming service HBO Max. He had worked with previous WarnerMedia execs for years, but they were not thrilled to have him as a new boss. 
 
@@ -629,7 +629,7 @@ In summary, Quibi made expensive, ineffective ad buys against internal advice an
 
 - Pressure mounted as Apple and Disney prepared streaming launches ahead of HBO Max, making it likely the last to market. Despite obstacles, the WarnerMedia team pressed ahead to get HBO Max ready for its debut.
 
- Here is a summary of the key points:
+ 
 
 - The day before WarnerMedia Day, AT&T and activist investor Elliott Management announced a truce after Elliott had pushed for changes at AT&T. Elliott agreed to give the AT&T leadership team a chance to get HBO Max off the ground. 
 
@@ -653,7 +653,7 @@ In summary, Quibi made expensive, ineffective ad buys against internal advice an
 
 - Hastings said competition makes them better, though there are challenges adapting to a saturated market. Netflix is betting it can continue thriving amidst intense streaming competition.
 
- Here is a summary of the key points:
+ 
 
 - Netflix was firmly established as the top streaming service while rivals struggled to gain footing in the new streaming landscape. Its culture of innovation allowed it to stay ahead of larger competitors. 
 
@@ -679,7 +679,7 @@ In summary, Quibi made expensive, ineffective ad buys against internal advice an
 
 - The outage showed the challenges of launching a major new streaming service even with experience and preparation. Disney+ regained service after several hours but the glitch tarnished its debut.
 
- Here is a summary of the key points:
+ 
 
 - Disney+ experienced major technical issues on launch day in November 2019, with many users unable to access the service. The problems were traced to issues with Disney's app architecture and search functions.
 
@@ -693,7 +693,7 @@ In summary, Quibi made expensive, ineffective ad buys against internal advice an
 
 - The pandemic boosted demand for streaming overall. A year after launch, Disney+ surpassed 100 million subscribers globally. Apple TV+ gained subscribers but Disney+ saw much faster growth out of the gate.
 
- Here is a summary of the key points:
+ 
 
 - Apple TV+ launched in November 2019 with The Morning Show as its flagship series, but struggled initially to find its footing with a limited content slate. It started gaining traction in 2020 with shows like Ted Lasso. 
 
@@ -703,7 +703,7 @@ In summary, Quibi made expensive, ineffective ad buys against internal advice an
 
 - All three services faced challenges launching during the pandemic, including marketing and production setbacks. But the huge growth in at-home streaming offered opportunities amidst the difficulties. Apple and HBO in particular overcame hurdles to find success.
 
- Here is a summary of the key points:
+ 
 
 - HBO Max launched in May 2020 without some of its most anticipated original content, including the Friends reunion special and a new season of sci-fi series Westworld. This left HBO Max leaning heavily on the Warner Bros. library and third-party acquisitions at launch.
 
@@ -727,7 +727,7 @@ In summary, Quibi made expensive, ineffective ad buys against internal advice an
 
 - Even without theatrical releases, streaming films with stars can move the subscriber needle. Movies represent about a third of Netflix viewing despite its focus on binge series. As competition heats up, films are a key battleground between services.
 
- Here is a summary of the key points:
+ 
 
 - Netflix's Ted Sarandos had early success acquiring a large volume of titles, but realized that quality was more important than quantity. In 2014, Netflix began producing high-quality original content. 
 
@@ -739,7 +739,7 @@ In summary, Quibi made expensive, ineffective ad buys against internal advice an
 
 - Directors Joe and Anthony Russo, despite their success with Marvel, embraced streaming by making The Gray Man, Netflix's most expensive original film at $200 million. Netflix aims to scale up with weekly original film releases.
 
- Here is a summary of the key points:
+ 
 
 - Disneyland suffered greatly during the pandemic, with 28,000 employees laid off and the park closed for the longest stretch in its history. This was in contrast to Disney parks in other locations that managed to reopen. 
 
@@ -753,7 +753,7 @@ In summary, Quibi made expensive, ineffective ad buys against internal advice an
 
 - As Disney recovers, Chapek is positioned to accelerate the company's streaming-first strategy. This involves leveraging Disney's wealth of IP and pivoting the company to succeed in the digital era.
 
- Here is a summary of the key points:
+ 
 
 - Bob Chapek rose through Disney's ranks as a disciplined, operationally-focused executive known for cutting costs and boosting profits, though he lacked Iger's charisma. As head of parks and consumer products, he introduced innovations like premium video-on-demand to maximize revenues. 
 
@@ -777,7 +777,7 @@ In summary, Quibi made expensive, ineffective ad buys against internal advice an
 
 - The pandemic put pressure on theatrical releases in 2020. Warner Bros. brought in $4.4 billion globally in 2019, so there were concerns about losing revenue from delayed movie openings.
 
- Here is a summary of the key points:
+ 
 
 - Warner Bros' release of Tenet in theaters during the pandemic was a major disappointment, losing $100 million despite director Christopher Nolan's pleas for a theatrical release. This showed the instability of theaters in 2020.
 
@@ -791,7 +791,7 @@ In summary, Quibi made expensive, ineffective ad buys against internal advice an
 
 - The goal was to boost HBO Max subscriptions. Despite backlash over content strategy, distribution improved in 2020 through deals with Amazon and Roku.
 
- Here is a summary of the key points:
+ 
 
 - Amazon announced a $8.45 billion deal to acquire MGM studios in May 2021, gaining access to MGM's library of 4,000 films, 17,000 TV episodes, and franchises like James Bond that can be reimagined. The deal signals Amazon's ambition to create a global smash hit on the level of Game of Thrones for its Prime Video streaming service. 
 
@@ -805,7 +805,7 @@ In summary, Quibi made expensive, ineffective ad buys against internal advice an
 
 - The MGM acquisition brings well-known franchises and IP like James Bond and Rocky that can help Amazon Studios create globally appealing films and shows. With deep pockets, Amazon aims to be a streaming powerhouse.
 
- Here is a summary of the key points:
+ 
 
 - Amazon Prime Video began acquiring content like films and TV shows to compete with Netflix's streaming service. But it realized it needed original content to differentiate itself. 
 
@@ -819,7 +819,7 @@ In summary, Quibi made expensive, ineffective ad buys against internal advice an
 
 - Scandals led to Price's ouster. Jennifer Salke was hired as new studio head and oversaw Amazon's greatest streaming successes like The Marvelous Mrs. Maisel.
 
- Here is a summary of the key points:
+ 
 
 - Amazon Prime Video has evolved into a major force in streaming under the leadership of Jen Salke and Albert Cheng. Salke focused on acquiring talent and high-profile projects, while Cheng brought data analytics to help guide decisions. 
 
@@ -833,7 +833,7 @@ In summary, Quibi made expensive, ineffective ad buys against internal advice an
 
 - The evolution of Prime Video shows Amazon's determination to be a streaming powerhouse, using video content to attract and retain Prime subscribers globally.
 
- Here is a summary of the key points:
+ 
 
 - The premiere of In the Heights at the Tribeca Film Festival marked the celebratory return of moviegoing after the pandemic. Lin-Manuel Miranda and the cast attended the premiere at the restored United Palace theater in the film's namesake neighborhood. 
 
@@ -845,7 +845,7 @@ In summary, Quibi made expensive, ineffective ad buys against internal advice an
 
 - A Discovery executive at the premiere expressed optimism about merging corporate cultures after the deal closes. His presence signaled the continuing trend of media consolidation amid the streaming wars.
 
- Here is a summary of the key points:
+ 
 
 - 2017-2018 saw a wave of major media mergers worth hundreds of billions of dollars, including AT&T acquiring Time Warner, Disney acquiring 21st Century Fox assets, and Discovery acquiring Scripps. These deals led to thousands of layoffs as media companies consolidated. 
 
@@ -857,7 +857,7 @@ In summary, Quibi made expensive, ineffective ad buys against internal advice an
 
 - Theatrical exhibition contracted with studios splitting efforts between theaters and streaming. Pay TV likely faces a gradual decline rather than sudden collapse. Overall the streaming landscape remains turbulent with continued consolidation expected.
 
- Here is a summary of the key points:
+ 
 
 - Streaming has led to an overwhelming amount of choice for consumers, prompting services like Netflix to add features like "Play Something" to help users paralyzed by options. 
 
@@ -887,7 +887,7 @@ In summary, Quibi made expensive, ineffective ad buys against internal advice an
 
 - Overall, the massive scale and subscriber bases of Netflix, Disney, and Amazon give them unmatched financial power in the streaming landscape today. This allows them to shape the future of the industry through content acquisitions and production.
 
- Here is a summary of the key points:
+ 
 
 - The book draws on interviews with executives, technologists, producers, consultants, agents, and others, as well as the authors' own reporting for Deadline and Forbes. It aims to provide a stand-alone narrative rather than just aggregate previous reporting. 
 
@@ -985,7 +985,7 @@ In summary, streaming wars heated up as legacy media companies like Disney and W
 
 - Overall, the book examines how streaming has disrupted Hollywood and the massive changes underway in the media landscape.
 
- Here is a summary of the key points:
+ 
 
 - Y Tu Mamá También (2001) is a Mexican road trip comedy film directed by Alfonso Cuarón. 
 

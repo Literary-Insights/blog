@@ -163,7 +163,7 @@ Creating short-term, purposeful goals can help you achieve this balance. Focus o
 
 The summary focuses on the key ideas around balancing present-moment contentment and purposeful progress toward the future through short-term, meaningful goals. The details around the SMART acronym and the six-step process for setting goals are omitted for brevity. Please let me know if you would like me to clarify or expand on any part of this summary.
 
- Here is a summary of the key points:
+ 
 
 •Answer three questions: What are my personal obligations? What are my priority projects? How much time do I have? Respond honestly and schedule only what you can realistically accomplish. 
 

@@ -25,7 +25,7 @@ Part 4 rethinks political conflict dimensions, discussing borders and property, 
 
 In conclusion, the book provides a sweeping historical analysis of inequality regimes, ideologies, and potential policy solutions for greater equality. It aims to learn from history to rethink the dimensions of inequality and to develop a more just economic system.
 
- Here is a summary of the key points:
+ 
 
 - Every society develops ideologies and narratives to justify economic and social inequalities. In modern societies, these narratives emphasize meritocracy, entrepreneurship, and property rights. 
 
@@ -37,7 +37,7 @@ In conclusion, the book provides a sweeping historical analysis of inequality re
 
 - The goal is to sketch the outlines of a new "participatory socialism" - a universalistic, egalitarian ideology and narrative - that is more optimistic about human nature and firmly rooted in lessons from global history.
 
- Here are the key points:
+ 
 
 - Inequality regimes consist of a set of coherent answers about political and property rights that justify social inequality. These answers imply commitments to educational, fiscal, etc regimes. 
 
@@ -67,7 +67,7 @@ In conclusion, the book provides a sweeping historical analysis of inequality re
 
 In summary, the author advocates a nuanced, empirical, comparative approach to ideology, inequality and institutions to derive potential lessons for improving social, political and economic organization.
 
- Here are the key points:
+ 
 
 - The book draws on two main types of historical sources: data to measure the evolution of different forms of inequality, and sources to study changes in ideology and representations of inequality. 
 
@@ -81,7 +81,7 @@ In summary, the author advocates a nuanced, empirical, comparative approach to i
 
 - Overall, the goal is to study inequality and its justification historically and comparatively, using a diverse range of sources. This can yield lessons for understanding and addressing inequality in the present day.
 
- Here is a summary of the key points:
+ 
 
 - There has been substantial human progress in health and education worldwide over the past two centuries. Life expectancy and literacy rates have increased dramatically. 
 
@@ -97,7 +97,7 @@ In summary, the author advocates a nuanced, empirical, comparative approach to i
 
 - Overall, human progress exists but it is fragile. We must be vigilant against forces that generate inequality and division. With the right ideologies and policies, more prospering and egalitarian societies can be achieved.
 
- Here is a summary of the key points:
+ 
 
 - Income inequality has increased in most parts of the world since the 1980s, after a more egalitarian period from 1950-1980. 
 
@@ -117,7 +117,7 @@ In summary, the author advocates a nuanced, empirical, comparative approach to i
 
 - The key question is not just the level of inequality but its origin and justification - was wealth justly acquired or through rent-seeking? A nuanced debate is needed.
 
- Here are the key points:
+ 
 
 - The "elephant curve" shows that from 1980-2018, the bottom 50% of the global income distribution saw substantial income growth (60-120%) while the top 1% saw even stronger growth (80-240%). This indicates decreasing inequality between the bottom and middle and increasing inequality between the middle and top. 
 
@@ -129,7 +129,7 @@ In summary, the author advocates a nuanced, empirical, comparative approach to i
 
 In summary, while globalization decreased inequality between the bottom and middle, extreme inequality has grown between the middle and top, requiring scrutiny of how gains are distributed and learning from historical attempts to address inequality.
 
- Here is a summary of the key points:
+ 
 
 - The collapse of colonialist society in the 20th century transformed the structure and justification of inequality, leading to the present state of affairs. Countries like France, the UK, and Germany became more egalitarian between 1914-1945 due to the shocks of that period. 
 
@@ -151,7 +151,7 @@ The passage then discusses the emergence of egalitarian coalitions in the mid-20
 
 It analyzes electoral patterns, arguing the left vote initially corresponded to the "workers' party" but later reflected the choice of the educated, while the wealthiest remained wary of the left. It concludes political conflict used to be structured along class lines but this has decomposed, making building majoritarian coalitions complex.
 
- Here is a summary of the key points:
+ 
 
 - From 1980-2000, the dimensions of social inequality (education, income, wealth) became disconnected, dividing the elite into an intellectual/cultural elite and a commercial/financial elite. 
 
@@ -167,7 +167,7 @@ It analyzes electoral patterns, arguing the left vote initially corresponded to 
 
 - To form a new egalitarian coalition requires radically redefining its intellectual and ideological basis, especially regarding the boundaries of community and transnational social justice.
 
- Here is a summary of the key points:
+ 
 
 - This book relies primarily on natural language rather than mathematical language. Natural language is important for expressing social identities, political ideologies, and conducting social science research. 
 
@@ -207,7 +207,7 @@ It analyzes electoral patterns, arguing the left vote initially corresponded to 
 
 - The transition from ternary to modern societies involved a complex process of power centralization in states and a justification of inequality based on property rather than trifunctional schema. Understanding this transformation requires comparing ternary societies' dynamics over time and place.
 
- Here is a summary of the key points:
+ 
 
 - Ternary societies consisted of three groups - clergy, nobility, and commoners - with each providing different services to society. This trifunctional structure was closely interrelated at the local level. 
 
@@ -219,7 +219,7 @@ It analyzes electoral patterns, arguing the left vote initially corresponded to 
 
 - Studying efforts by states to categorize groups yields insight into political intentions as well as social structures. Overall, examining the rise and fall of ternary societies illuminates processes of social transformation relevant today.
 
- Here is a summary of the key points:
+ 
 
 - Ternary societies, which divided people into three groups (clergy, nobility, commoners), should not be seen as completely static or different from modern societies. There was some social mobility between groups, though limited. 
 
@@ -275,7 +275,7 @@ It analyzes electoral patterns, arguing the left vote initially corresponded to 
 
 - This illustrated the tensions in ternary societies between traditional powers and emerging centralized states.
 
- Here is a summary of the key points:
+ 
 
 - Under the Ancien Régime in France, there were no official national estimates of the population of each estate. Estimates relied on imperfect local data and calculations. 
 
@@ -347,7 +347,7 @@ Clerical celibacy, required for priests and other Church officials, aimed to pre
 
 As a wealthy landowner relying on serf labor, the medieval Church sat atop the trifunctional hierarchy of medieval society. Its elevated economic status, along with doctrines like clerical celibacy, reinforced the Church's moral authority and political sway in medieval Europe. Challenges to Church power, like Protestant criticisms of clerical corruption, eventually emerged but did not fundamentally undermine Catholic dominance until later eras.
 
- Here are the key points:
+ 
 
 - In 1789, the French Revolution sought to overhaul power and property relations by abolishing the privileges of the clergy and nobility. A key issue was determining which existing claims should be preserved as new property rights versus abolished without compensation. 
 
@@ -359,7 +359,7 @@ As a wealthy landowner relying on serf labor, the medieval Church sat atop the t
 
 - Comparison with other European countries shows there were multiple pathways in transforming trifunctional societies into ownership societies, involving both revolutionary rupture and more gradual change. The French case was an extreme form of revolutionary overhaul.
 
- Here is a summary of the key points:
+ 
 
 - The National Assembly abolished fiscal privileges and public seigneuries without compensation, as well as the ecclesiastical tithe, nationalizing church property. This aimed to establish the state's monopoly over the judicial system and public finances. 
 
@@ -371,7 +371,7 @@ As a wealthy landowner relying on serf labor, the medieval Church sat atop the t
 
 - As the Revolution radicalized, the feudal system broke down. Peasant uprisings attacked lords and burned titles. The republican triumph against nobles in the Valmy campaign seemed to make the old warrior nobility obsolete.
 
- Here is a summary of the key points:
+ 
 
 - The French Revolution abolished many feudal rights and privileges. One example was the lod, a payment made to lords when peasant land usage rights were transferred. 
 
@@ -387,7 +387,7 @@ As a wealthy landowner relying on serf labor, the medieval Church sat atop the t
 
 - Overall the legal changes led to many lawsuits over property as different revolutionary laws were implemented and sometimes reversed. Resolving the status of complex property rights took decades.
 
- Here is a summary of the key points:
+ 
 
 - The French Revolution attempted to abolish feudal privileges through a "Great Demarcation" that separated regalian functions (now the role of the centralized state) from private property rights. However, this led to contradictions as social roles like the Church were eliminated without replacement. 
 
@@ -401,7 +401,7 @@ As a wealthy landowner relying on serf labor, the medieval Church sat atop the t
 
 - Inequality of ownership was not coherently addressed due to the pace of events and lack of concrete models. The Revolution encouraged wealth accumulation and concentration rather than redistribution.
 
- Here is a summary of the key points:
+ 
 
 - Debates about seigneurial rights and privileges had been occurring for centuries, but often dealt with general historical considerations rather than concrete solutions. Jurists like Dumoulin, Bodin, and Loyseau had criticized lords for acquiring excessive rights by taking advantage of weak princes. Defenders like Boulainvilliers and Montesquieu insisted the nobility had gained legitimacy through protecting people over time. 
 
@@ -417,7 +417,7 @@ As a wealthy landowner relying on serf labor, the medieval Church sat atop the t
 
 - There were intellectual conflicts over how to define and eliminate privileges and regulate property. The debates involved complex social learning with many proposals and perspectives.
 
- Here is a summary of the key points:
+ 
 
 - The French Revolution illustrates the tension between the emancipatory potential of property rights and the tendency to sacralize existing property relations. 
 
@@ -431,7 +431,7 @@ As a wealthy landowner relying on serf labor, the medieval Church sat atop the t
 
 - Once feudal privileges were abolished, many paths were possible within the proprietarian framework. The tension between emancipation through property and sacralization of existing relations persisted.
 
- Here is a summary of the key points:
+ 
 
 - The French Revolution introduced ambiguous reforms regarding property rights. It abolished feudal privileges and protections but largely maintained existing property relations and inequalities. 
 
@@ -463,7 +463,7 @@ As a wealthy landowner relying on serf labor, the medieval Church sat atop the t
 
 - The fiscal system established during the Revolution, which relied heavily on regressive taxes, persisted into the 20th century and did little to limit wealth concentration.
 
- Here is a summary of the key points:
+ 
 
 - Wealth inequality in France steadily increased throughout the 19th century up until World War I. Looking at Paris specifically, the wealthiest 1% owned about 50% of all property in 1800-1810, rising to over 65% by 1910. 
 
@@ -477,7 +477,7 @@ As a wealthy landowner relying on serf labor, the medieval Church sat atop the t
 
 - The emergence of a property-owning middle class in the 20th century represented a major social and political shift, contributing to reduced inequality, greater social mobility, and stronger growth.
 
- Here is a summary of the key points:
+ 
 
 - Wealth inequality in Paris was extremely high in the Belle Époque period (1880-1914), with the top 1% owning over two-thirds of all wealth. 
 
@@ -489,7 +489,7 @@ As a wealthy landowner relying on serf labor, the medieval Church sat atop the t
 
 - The novelist Balzac's depictions of inequality in the early 19th century capture some key features of the later Belle Époque wealth distribution and "ownership society."
 
- Here is a summary of the key points:
+ 
 
 - Between 1880-1914 there was extreme concentration of wealth in Paris, with the top 1% owning 70% of wealth. This was more unequal than pre-Revolutionary France. 
 
@@ -503,7 +503,7 @@ As a wealthy landowner relying on serf labor, the medieval Church sat atop the t
 
 In summary, the post-Revolution tax system enabled rising inequality and wealth concentration, confounding expectations of continual progress towards equality. Fears of threatening private property blocked inheritance tax reform.
 
- Here is a summary of the key points:
+ 
 
 - Revolutionary legislators in France established a system of direct taxes in 1790-1791 called the "quatre vieilles" (four old ones) that were based on proxies for wealth rather than income. This spared the bourgeoisie from high taxes and intrusive procedures. 
 
@@ -515,7 +515,7 @@ In summary, the post-Revolution tax system enabled rising inequality and wealth 
 
 - The 1901 inheritance tax and 1914 income tax laws were key steps toward modern fiscal progressivity, though effects were limited until after WW1. Breaking with proportional taxes required lengthy debates and overcoming conservative opposition.
 
- Here is a summary of the key points:
+ 
 
 - The French tax system from the Revolution to WWI favored the wealthy through low taxes on capital and inheritances. This allowed the wealthy to accumulate and perpetuate large fortunes.
 
@@ -531,7 +531,7 @@ In summary, the post-Revolution tax system enabled rising inequality and wealth 
 
 - WWI budget needs helped push through income tax. But real progressive rates didn't come until the interwar period.
 
- Here is a summary of the key points:
+ 
 
 - France has long presented itself as a champion of liberty, equality and fraternity due to events like the 1789 revolution. However, the promise of equality was never fully realized. 
 
@@ -545,7 +545,7 @@ In summary, the post-Revolution tax system enabled rising inequality and wealth 
 
 - Proprietarianism can be seen as the political ideology focused on absolute property protection, while capitalism is the historical form proprietarianism took in the industrial/financial era. Capitalism constantly pushes to expand property rights beyond existing bounds.
 
- Here is a summary of the key points:
+ 
 
 - Capitalism in the late 19th and early 20th centuries led to growing tensions between capitalists and the urban proletariat as industry expanded. This was reflected in 19th century novels - Balzac depicted an earlier period with less direct class confrontation, while Zola's Germinal showed violent clashes. 
 
@@ -571,7 +571,7 @@ In summary, the post-Revolution tax system enabled rising inequality and wealth 
 
 - The size and influence of the clergy declined earlier and more abruptly in the UK compared to Spain and France, going along with the rise of an extreme form of proprietary logic in the UK.
 
- Here are the key points:
+ 
 
 - The nobility represented a much smaller portion of the population in some European countries like France, the UK and Sweden (1-2%) compared to others like Spain, Portugal, Poland, Hungary and Croatia (5-8%). 
 
@@ -587,7 +587,7 @@ In summary, the post-Revolution tax system enabled rising inequality and wealth 
 
 - Gradual change in the UK still involved important ruptures reflecting the multiplicity of possible trajectories for inegalitarian regimes.
 
- Here is a summary of the key points:
+ 
 
 - In the 16th century, conflict between the English monarchy and the Catholic Church led to a reduction in the political power of the clergy and the dissolution of monasteries. This upset the traditional equilibrium between the nobility, clergy, and commoners. 
 
@@ -613,7 +613,7 @@ In summary, the post-Revolution tax system enabled rising inequality and wealth 
 
 - Novelists like Austen and Balzac convey individuals' feelings and space for freedom despite the determinism of money and capital. Their role is not to imagine different systems but show humanity within the existing one.
 
- Here is a summary of the key points:
+ 
 
 - Contrasting meritocratic discourse plays little role in justifying ownership society in the 19th century. Such discourse emerged later with industrial capitalism and especially in the hypercapitalist era of 1990-2020. 
 
@@ -687,7 +687,7 @@ The historical systems for allocating political power based on property ownershi
 
 - Three main challenges faced by ownership societies were high inequality, dependence on colonialism, and limitations to voting rights. This led to the emergence of socialist and social democratic movements.
 
- Here is a summary of the key points:
+ 
 
 - The proprietarian order of the 19th century faced three main fragilities: the rise of the labor movement challenging economic inequality, the growth of anti-colonial movements in the colonies, and the rise of nationalism and competition between European nation-states. 
 
@@ -717,7 +717,7 @@ The historical systems for allocating political power based on property ownershi
 
 - In the US, slavery and racial inequality have had a lasting impact on the structure of inequality and politics.
 
- Here is a summary of the key points:
+ 
 
 - The UK passed the Slavery Abolition Act in 1833, which gradually abolished slavery in British colonies over the next decade. 
 
@@ -735,7 +735,7 @@ The historical systems for allocating political power based on property ownershi
 
 - The abolition and compensation in Britain was extremely gradual compared to revolutions in Haiti and elsewhere. It reflected the British preference for slow, orderly change.
 
- Here is a summary of the key points:
+ 
 
 - The British Slavery Abolition Act of 1833 emancipated around 800,000 slaves, mostly in the British West Indies. Slaveholders were fully compensated by the government, at great expense to taxpayers. This compensation is considered a major cause of Britain's decline in the 20th century.
 
@@ -747,7 +747,7 @@ The historical systems for allocating political power based on property ownershi
 
 - France abolished slavery in two stages - in 1794 after a slave revolt, and then again in 1848 after the earlier abolition was reversed by Napoleon. The 1848 abolition did not involve compensation, showing evolution in attitudes.
 
- Here is a summary of the key points:
+ 
 
 - Slavery was abolished in the French colonies during the French Revolution in 1794, following a major slave uprising in Saint-Domingue (Haiti). However, it was later reinstated by Napoleon. 
 
@@ -761,7 +761,7 @@ The historical systems for allocating political power based on property ownershi
 
 - The French case shows that while abolitionist movements were important, the decisive factor was the slaves' own rebellions and the fear of further unrest that pushed slave owners and governments to accept abolition.
 
- Here are the key points:
+ 
 
 - Haiti was forced to pay enormous sums to France as "compensation" for French slaveowners' losses from the Haitian revolution. This amounted to about 15% of Haiti's national income annually for over a century. 
 
@@ -781,7 +781,7 @@ The Emancipation Act of 1848 in France abolished slavery but did not provide rea
 
 This illustrates the power of sacralized private property rights in the 19th century. Politicians like Schoelcher felt slaveowners had to be compensated since slavery was legally enshrined, even if morally wrong. Haiti was forced to repay its odious debt to France for over a century, until 1950. France still refuses reparations, though it pays compensation for 20th century injustices. The refusal to repay Haiti while compensating more recent crimes risks giving the impression some are more deserving than others. There is a case for French reparations to Haiti and for transparency regarding compensation to French slaveowners.
 
- Here is a summary of the key points:
+ 
 
 - Slavery was critical to the economic rise of Europe and the United States in the 18th and 19th centuries, especially through the production of cotton in the American South. 
 
@@ -807,7 +807,7 @@ The North wanted new western territories to be free states, while the South fear
 
 The 13th Amendment abolished slavery with no compensation to slaveowners or slaves. Gradual abolition with compensation, as Lincoln proposed earlier, was likely impossible without huge transfers from the North or extending slavery for decades. In 1860, the market value of slaves exceeded 250% of Southern income and nearly 100% of US income. Compensating slaveowners would have saddled taxpayers with massive debts for generations.
 
- Here is a summary of the key points:
+ 
 
 - Abolishing slavery posed ideological challenges for 19th century proprietarian societies, which feared that freeing slaves without compensating owners would undermine the whole system of private property. In the US, the cost of compensating slaveowners would have been enormous - around one year's national income. 
 
@@ -851,7 +851,7 @@ The 13th Amendment abolished slavery with no compensation to slaveowners or slav
 
 The emancipation of serfs in Russia in 1861 was an incomplete reform that did little to transform power relations in the countryside. The imperial government lacked capacity to guarantee property rights, establish an independent legal and fiscal system, or limit the power of local elites. As a result, former serf owners maintained control over the peasantry, whose mobility remained restricted. The government required serfs to compensate landlords over 49 years rather than providing monetary redemption through public debt. Further reforms were attempted but failed to progress before the Bolshevik revolution of 1917. The failed emancipation in Russia shows that transitioning away from serfdom requires a centralized state able to limit local elite power through an autonomous bureaucracy and fiscal system. Without this, subaltern classes remain dependent. Russia transitioned directly to a communist society rather than completing the shift to an ownership society.
 
- Here are the key points:
+ 
 
 - France debated compensating slave owners when abolishing slavery in the 1840s. Proposed compensation averaged around 1,300 francs per slave. 
 
@@ -879,7 +879,7 @@ The emancipation of serfs in Russia in 1861 was an incomplete reform that did li
 
 - Debates occurred about potential democratic federalism and independence, but lasting inequality and domination were entrenched by colonialism's institutions and mentalities. Lessons remain to be learned about transnational democratic governance.
 
- Here is a summary of the key points:
+ 
 
 - European settlement in colonies during 1850-1960 was generally very limited compared to the large indigenous populations. For example, Europeans were only 0.1% of the population in British India and French Indochina. 
 
@@ -907,7 +907,7 @@ The emancipation of serfs in Russia in 1861 was an incomplete reform that did li
 
 - Overall, colonial societies ranked among the most unequal in history, though the extent varied. The racial domination of the colonizers was a key dimension of inequality.
 
- Here is a summary of the key points:
+ 
 
 - There is a distinction between inequality of property (ownership of assets) and inequality of income. Property inequality can be extreme, with the top 10% or 1% owning nearly everything. 
 
@@ -921,7 +921,7 @@ The emancipation of serfs in Russia in 1861 was an incomplete reform that did li
 
 - Income inequality has limits - the share of the bottom 50% is always at least 5-10%. The top centile's share rarely exceeds 20-30% of income.
 
- Here is a summary of the key points:
+ 
 
 - Colonies were organized primarily to benefit the colonizers and metropole, with very limited investment in social/educational improvements for colonized populations. This persisted even in territories that remained part of France. 
 
@@ -935,7 +935,7 @@ The emancipation of serfs in Russia in 1861 was an incomplete reform that did li
 
 - The colonial system operated in a highly unequal way and seems to have been resistant to reform.
 
- Here is a summary of the key points:
+ 
 
 - Educational inequality in French colonial Algeria was extremely high. In the 1950s, the top 10% (children of colonizers) received over 80% of education spending, compared to only 38% in France in 1910. This shows the privileging of colonizers over the colonized.
 
@@ -947,7 +947,7 @@ The emancipation of serfs in Russia in 1861 was an incomplete reform that did li
 
 - Colonial rivalries, as over Morocco, exacerbated tensions between European powers before WWI. Ultimately colonies were largely to benefit the colonizing countries and populations rather than the colonized.
 
- Here is a summary of the key points:
+ 
 
 - France and Britain accumulated enormous foreign assets during the late 19th and early 20th centuries, reaching 125-191% of national income by 1914. This was far higher than foreign asset levels seen since then. 
 
@@ -959,7 +959,7 @@ The emancipation of serfs in Russia in 1861 was an incomplete reform that did li
 
 - So while less overtly violent than the slave trade, this financial imperialism was often not purely voluntary and involved significant coercion. The distinction between the two eras is therefore more complex than a simple contrast between immoral coercion and virtuous commerce.
 
- Here are the key points:
+ 
 
 - France and Britain's foreign assets in 1880-1914 partly came from trade surpluses, but these were facilitated by their colonial domination and cannot fully explain the large accumulation of assets. Appropriations and high returns on investments also played a role.
 
@@ -969,7 +969,7 @@ The emancipation of serfs in Russia in 1861 was an incomplete reform that did li
 
 - International property relations, like property relations in general, are complex and conflictual, not spontaneously harmonious. Institutions are needed to regulate their scope and transmission, whether through unions, rent controls, estate taxes, etc. The fairy tale of mutually advantageous property relations told in economics textbooks does not match reality.
 
- Here is a summary of the key points:
+ 
 
 - Property relations between colonizing and colonized countries often involved the colonized paying profits, rents, and dividends to the colonizers over long periods of time. This made property relations complex and potentially explosive.
 
@@ -989,7 +989,7 @@ The emancipation of serfs in Russia in 1861 was an incomplete reform that did li
 
 The French colonies had a complex system of laws governing relationships between Europeans and natives. Interracial marriages were discouraged, and there was a separate legal system for natives that often contradicted principles of French law. One example was the legal framework for forced labor from 1912-1946. The colonial administration demanded unpaid labor from natives as a form of tax payment. In reality, the demanded labor often far exceeded the legal limits and occurred under brutal conditions, as in the building of the Congo-Ocean Railway where many workers died. The International Labor Organization criticized France's use of forced labor as similar to servile labor, but France rejected this, defending the labor as "services" and conscription. Forced labor continued until after World War II when France sought to preserve its empire. Apartheid in South Africa from 1948-1994 was an extreme system separating colonizers and colonized.
 
- Here is a summary of the key points:
+ 
 
 - At the end of the Boer War in 1902, the Union of South Africa was established, unifying several previously separate territories. 
 
@@ -1007,7 +1007,7 @@ The French colonies had a complex system of laws governing relationships between
 
 - The South African case shows the enduring power of proprietarian inegalitarian mechanisms, where formal equality of rights has not been enough to undo entrenched racial disparities in wealth.
 
- Here is a summary of the key points:
+ 
 
 - In the aftermath of World War II, France sought to reform its relationship with its African colonies. Some African leaders pushed for an egalitarian federal structure linking France and its colonies called the "Franco-African Union." However, this was rejected in 1946 due to fears by French conservatives that it would give too much power to Africans. 
 
@@ -1019,7 +1019,7 @@ The French colonies had a complex system of laws governing relationships between
 
 - Vestiges of political links between France and former colonies remain today through parliamentary representation of overseas departments/territories. But the vision of an egalitarian Franco-African federation was abandoned as colonies gained independence without cross-border cooperation.
 
- Here is a summary of the key points:
+ 
 
 - European colonization led to extreme inequality between Europeans and indigenous populations in the Americas, Africa, and Asia. In places like Saint-Domingue (Haiti), the top decile's share of income exceeded 100% at times.
 
@@ -1047,7 +1047,7 @@ The French colonies had a complex system of laws governing relationships between
 
 - Since 1947, independent India has tried to use the state's legal powers to correct the legacy of caste but with limited success. Caste identities remain socially relevant.
 
- Here is a summary of the key points:
+ 
 
 - India has had a very large population for centuries, even compared to China and Europe. However, Indian unity and a unified Indian state are recent developments. 
 
@@ -1061,7 +1061,7 @@ The French colonies had a complex system of laws governing relationships between
 
 - India has achieved administrative and political unification as a democracy after 1947, on a larger scale than ever before in history.
 
- Here is a summary of the key points:
+ 
 
 - The religious structure of India has been relatively stable from 1871 to 2011, with Hindus accounting for around 75-80% of the population, Muslims around 10-20%, and other religions like Sikhs, Christians, Buddhists around 5%. 
 
@@ -1075,7 +1075,7 @@ The French colonies had a complex system of laws governing relationships between
 
 - The caste categories have taken new forms like SC/ST post-independence, but risks of discrimination remain.
 
- Here is a summary of the key points:
+ 
 
 - The Manusmriti set forth an ideal Hindu social hierarchy consisting of four varnas (classes): Brahmins (priests), Kshatriyas (warriors), Vaishyas (merchants), and Shudras (workers). This hierarchy placed Brahmins at the top under a logic of intellectual and spiritual superiority. 
 
@@ -1089,7 +1089,7 @@ The French colonies had a complex system of laws governing relationships between
 
 - The confusion between jatis and varnas stems from Indian elites trying to organize society based on the varna hierarchy as well as the British colonial influence. In reality, the jatis reflect a more complex lived social experience.
 
- Here is a summary of the key points:
+ 
 
 - Before British colonial rule, India's social structures were complex and constantly evolving. They were not rigid, frozen caste systems as often depicted. 
 
@@ -1107,7 +1107,7 @@ The French colonies had a complex system of laws governing relationships between
 
 - Social structures complex and evolving over time. Colonial freezing of caste for power was an oversimplification.
 
- Here is a summary of the key points:
+ 
 
 - Hindu varnas (castes) in 17th-18th century India were flexible categories used by warriors and priests to justify rule, not fixed social classes. Indian society was evolving rapidly like Europe's.
 
@@ -1121,7 +1121,7 @@ The French colonies had a complex system of laws governing relationships between
 
 - Da Gama mistakenly thought Hindu temples were churches, reflecting Portuguese ignorance about India. His voyage led to European discovery of extensive Indian Ocean trade networks centered on Arab, Indian, and Chinese merchants.
 
- Here is a summary of the key points:
+ 
 
 - The Portuguese were the first Europeans to reach India in 1498, seeking spices and converts to Christianity. Their messianic zeal led them to conflict with local Muslim and Hindu rulers. 
 
@@ -1137,7 +1137,7 @@ The French colonies had a complex system of laws governing relationships between
 
 - Overall, European colonialism in Asia evolved from religious conversion to trade to more formal imperialism justified via cultural domination and racial ideologies. The legacies influenced post-colonial perceptions and conflicts.
 
- Here is a summary of the key points:
+ 
 
 - The British initially struggled to understand India's complex caste system when conducting early censuses in the 1860s-1870s. They attempted to categorize castes based on the varnas but found jatis to be more relevant. 
 
@@ -1171,7 +1171,7 @@ The French colonies had a complex system of laws governing relationships between
 
 - The passage suggests Brahmins and Kshatriyas maintained a strong presence and high status in Indian society in the colonial era, though the British categorized and viewed them through an imperial lens.
 
- Here is a summary of the key points:
+ 
 
 - The British colonial authorities attempted to categorize Indian society into castes based on the varna system, but this proved challenging and disruptive. 
 
@@ -1201,7 +1201,7 @@ The French colonies had a complex system of laws governing relationships between
 
 - India's affirmative action system is among the most extensive attempted globally, unlike the limited preferential policies in the US. Caste inequalities and conflicts over quotas continue to this day.
 
- Here is a summary of the key points:
+ 
 
 - The Indian constitution established quotas for historically disadvantaged groups - the scheduled castes (SC), scheduled tribes (ST), and other backward classes (OBC) - in education, government jobs, and political representation. 
 
@@ -1215,7 +1215,7 @@ The French colonies had a complex system of laws governing relationships between
 
 - The impact of quotas is complex, but they have likely reduced caste-based inequality of opportunity, though not fully eliminated caste identity or disadvantage. Continued evolution of India's affirmative action system seems likely.
 
- Here is a summary of the key points:
+ 
 
 - India has made significant progress in reducing inequality between disadvantaged lower castes (scheduled castes and tribes) and the rest of the population through policies like reserving seats in legislative bodies. However, inequalities remain high compared to reductions in other countries. 
 
@@ -1227,7 +1227,7 @@ The French colonies had a complex system of laws governing relationships between
 
 - International trends like tax competition made it harder for poor countries like India to fund an ambitious welfare state. But domestic political culture and elitism also played a role in the inadequacy of social spending.
 
- Here is a summary of the key points:
+ 
 
 - There were debates in India in the 1950s-1960s about the usefulness of agrarian reform and basing quotas on objective criteria rather than caste. Some argued caste was key for reducing inequality, while others worried reform would be hard to end once started. 
 
@@ -1265,7 +1265,7 @@ The French colonies had a complex system of laws governing relationships between
 
 - European military and economic domination was underpinned by brutal coercion, especially slavery. However, state fiscal/administrative capacity driven by intra-European competition was a key factor enabling this colonial expansion and exploitation.
 
- Here is a summary of the key points:
+ 
 
 - Tax receipts of European states increased dramatically between 1500-1800, from 100-150 tons of silver in 1500-1550 to 1600-1900 tons in the 1780s for powers like England and France. Meanwhile, Ottoman tax receipts stagnated at 150-200 tons. 
 
@@ -1279,7 +1279,7 @@ The French colonies had a complex system of laws governing relationships between
 
 - The rise of European state capacity went hand in hand with the development of ownership societies and proprietary ideologies at home and colonialism and slavery abroad.
 
- Here is a summary of the key points:
+ 
 
 - Between 1500-1800, leading European states increased their tax revenues from 1-2% to 6-8% of national income. This coincided with the development of colonial empires abroad. 
 
@@ -1297,7 +1297,7 @@ The French colonies had a complex system of laws governing relationships between
 
 So in summary, interstate competition drove state capacity building and colonial exploitation provided resources that helped fuel industrialization in Europe.
 
- Here is a summary of the key points:
+ 
 
 - Europe's economic development was aided in large part by silver mined in America starting in the 16th century. By 1830, Britain's imports of cotton, wood, and sugar required exploiting over 10 million hectares of land in its colonies, 1.5-2 times the cultivable land in Britain itself. 
 
@@ -1311,7 +1311,7 @@ So in summary, interstate competition drove state capacity building and colonial
 
 So in summary, Europe's economic success was aided by colonialism and military might, not just virtuous Smithian institutions. China functionally had better institutions but was overcome militarily.
 
- Here is a summary of the key points:
+ 
 
 - European military and colonial domination in the 18th-19th centuries, along with related financial and technological innovations, played a decisive role in the "Great Divergence" between Europe and Asia. Mercantilist policies like protectionism helped Europe gain a comparative advantage. 
 
@@ -1323,7 +1323,7 @@ So in summary, Europe's economic success was aided by colonialism and military m
 
 - The Meiji elite modernized Japan by abolishing feudalism, investing in education and industry, and adopting some Western practices. But they maintained imperial ideology and traditional inequality between warriors, priests, and commoners. This shaped Japan's distinctive pathway to modernity.
 
- Here is a summary of the key points:
+ 
 
 - Japan's defeat by Western powers in the 1850s-60s led to intense political and ideological reflection, resulting in the Meiji Restoration of 1868. This ended the Tokugawa shogunate and restored symbolic imperial authority, with the goal of rapidly modernizing Japan to compete with the West.
 
@@ -1349,7 +1349,7 @@ So in summary, Europe's economic success was aided by colonialism and military m
 
 - Long-term policies of social and educational integration have aimed to overcome prejudice and raise the status of marginalized groups in China, similar to efforts with burakumin and lower castes in Japan and India.
 
- Here is a summary of the key points:
+ 
 
 - Imperial Chinese society was highly hierarchical and divided into literati (scholar-officials), landowners, and warriors (bannermen). 
 
@@ -1363,7 +1363,7 @@ So in summary, Europe's economic success was aided by colonialism and military m
 
 - Overall, the regime balanced power among the elite groups of literati, landowners, and warriors. It was not static and conflicts arose, but no group managed to gain decisive power over the others before the Qing empire fell in 1911. Missed opportunities for major change came during periods of unrest.
 
- Here is a summary of the key points:
+ 
 
 - Iran offers an example of a late constitutionalization of a clerical government with the creation of the Islamic Republic of Iran in 1979. 
 
@@ -1377,7 +1377,7 @@ So in summary, Europe's economic success was aided by colonialism and military m
 
 - The 1979 revolution against the Shah was contingent on various factors, including backlash to his ties to Western governments and oil companies, and Khomeini's leadership. But the possibility of a clerical republic traces back to the Shiite clerical tradition and authority.
 
- Here is a summary of the key points:
+ 
 
 - In the 16th century, the Safavid dynasty in Persia converted the country to Shiism and gave more power to Shiite clerics. This helped establish the bond between clerics and disadvantaged groups that persists today. 
 
@@ -1391,7 +1391,7 @@ So in summary, Europe's economic success was aided by colonialism and military m
 
 - The Iranian regime portrays itself as more moral and egalitarian than Sunni monarchies like Saudi Arabia, but both have elite rule and dependence on oil wealth in practice.
 
- Here is a summary of the key points:
+ 
 
 - Iran regularly accuses Gulf oil monarchies of using religion to hide the concentration of wealth by ruling families/clans. In contrast, Iran claims to stand for republican equality without dynastic privilege, and for the wisdom of religious scholars regardless of background. 
 
@@ -1405,7 +1405,7 @@ So in summary, Europe's economic success was aided by colonialism and military m
 
 - This lack of transparency and redistributive ambition in zakat is common to religions generally, not just Islam. The tithe in Christianity and Mormonism operates similarly.
 
- Here is a summary of the key points:
+ 
 
 - The first two parts of the book examined the transformation of trifunctional societies into ownership societies, and the impact of European colonialism on trifunctional societies in other parts of the world. 
 
@@ -1417,7 +1417,7 @@ So in summary, Europe's economic success was aided by colonialism and military m
 
 - Key lessons include the failure of the proprietarian promise to diffuse wealth, the hypocrisy of civilizing rhetoric and racial/cultural domination, and the lasting effects of state codification of status inequalities. Overall, the history illustrates the political and ideological nature of social inequality.
 
- Here is a summary of the key points:
+ 
 
 - The economic divergence between Europe and Asia began around 1750-1800, not earlier as some Eurocentric views argue. Recent research shows the advanced parts of Asia were on par economically with Europe until the late 18th century. 
 
@@ -1433,7 +1433,7 @@ So in summary, Europe's economic success was aided by colonialism and military m
 
 - The analysis aims to go beyond Eurocentric views and examine global economic interconnections in explaining the great divergence.
 
- Here are the key points:
+ 
 
 - The power of the papacy in medieval Europe found an official counterpart in the Holy Roman Empire, though this political system was fragile and limited. In contrast, Confucian literati served the Chinese emperor, not the papacy.
 
@@ -1461,7 +1461,7 @@ So in summary, Europe's economic success was aided by colonialism and military m
 
 - While specific events and chaotic politics shaped decisions 1914-1950, they were underpinned by deep shifts in perceptions of capitalism's legitimacy and ability to provide prosperity and stability. The postwar period saw a turn to social democracy and socialism in Europe and the New Deal in the US.
 
- Here is a summary of the key points:
+ 
 
 - Income inequality in Europe was very high in the late 19th and early 20th centuries, with the top decile receiving around 50% of total income. This began to fall dramatically between 1914-1945, stabilizing around 30% in the post-WW2 period until 1980. 
 
@@ -1491,7 +1491,7 @@ So in summary, Europe's economic success was aided by colonialism and military m
 
 - After 1950 private property stabilized at a lower level before rising again by 2000-2010, but remained more evenly distributed than in the 19th century.
 
- Here is a summary of the key points:
+ 
 
 - The ratio of private wealth to national income was very high from 1700-1914, around 6-8 years of national income. This reflects the extensive opportunities for accumulating wealth during this period. 
 
@@ -1509,7 +1509,7 @@ So in summary, Europe's economic success was aided by colonialism and military m
 
 - Overall, the period 1914-1950 saw a dramatic collapse in the value of private property in Europe, driven by war, economic crisis, ideological changes, and decolonization. This transformed the structure of wealth and reduced inequalities.
 
- Here is a summary of the key points:
+ 
 
 - Between 1914-1950, private wealth fell substantially in Europe, due largely to destruction from the world wars as well as policies that regulated real estate and financial markets. This reflected a shift in attitudes about private property and inequality.
 
@@ -1537,7 +1537,7 @@ So in summary, Europe's economic success was aided by colonialism and military m
 
 - The summary provides examples of how exceptional taxes on wealth allowed countries like Germany and Japan to reduce debt after World War 2 in a way that promoted social reconstruction and economic growth more effectively than inflation would have.
 
- Here is a summary of the key points:
+ 
 
 - Between 1914 and 1945-1950, the total value of private property in Europe collapsed due to destruction, expropriation, and inflation. This coincided with a sharp decrease in wealth concentration that began in 1914-1945 and continued through the 1970s. 
 
@@ -1549,7 +1549,7 @@ So in summary, Europe's economic success was aided by colonialism and military m
 
 - The experience shows that a combination of shocks and progressive taxation can substantially reduce wealth concentration over the long run. This has lessons for addressing inequality today.
 
- Here is a summary of the key points:
+ 
 
 - In the late 19th and early 20th centuries, the wealthiest 1% of Parisians had incomes 30-40 times larger than average workers. They paid little in taxes (under 5%) and could maintain their standard of living across generations. 
 
@@ -1563,7 +1563,7 @@ So in summary, Europe's economic success was aided by colonialism and military m
 
 - The US and UK played a key role in developing highly progressive income and inheritance taxes, much more so than France and Germany. The goal was to transform inequality through steeply progressive taxes.
 
- Here is a summary of the key points:
+ 
 
 - The Democratic Party in the late 19th century appealed to working-class whites, small farmers, and recent immigrants by attacking the wealthy northeastern elites and calling for more equitable distribution of wealth. 
 
@@ -1609,7 +1609,7 @@ So in summary, Europe's economic success was aided by colonialism and military m
 
 - There were also common, increasingly global experiences that could accelerate the spread of certain practices and transformations across countries.
 
- Here is a summary of the key points:
+ 
 
 - Karl Polanyi argued in The Great Transformation that 19th century civilization rested on pillars like the self-regulated market that ultimately collapsed. He showed how unregulated labor markets treat people as commodities, and how the gold standard's collapse in the 1920s caused social chaos. 
 
@@ -1619,7 +1619,7 @@ So in summary, Europe's economic success was aided by colonialism and military m
 
 - Polanyi believed the failures of self-regulation necessitated socially embedding the economy via collective bargaining and democratic socialism. The fragility of Europe's equilibrium spiraled into the continent's self-destructive and genocidal wars.
 
- Here is a summary of the key points:
+ 
 
 - France's demand for reparations from Germany after WWI was valid to some extent, but the sums demanded were over 10 times greater than what France paid Prussia after the Franco-Prussian War in 1870. This convinced many Germans that military power was necessary for national survival. 
 
@@ -1647,7 +1647,7 @@ So in summary, Europe's economic success was aided by colonialism and military m
 
 - Key issues were how to reduce inequality and transcend capitalism versus constitutionally enshrining economic liberalism. The eventual form and content of new federalism remained uncertain.
 
- Here is a summary of the key points:
+ 
 
 - In April 1940, a group of British and French academics met in Paris to discuss ideas for a potential Franco-British federal union, and possibly a wider European union, but they did not reach agreement on the economic and social principles it should be based on. 
 
@@ -1661,7 +1661,7 @@ So in summary, Europe's economic success was aided by colonialism and military m
 
 - So the challenges of determining the appropriate form and content of transnational political entities to truly regulate capitalism remain today.
 
- Here is a summary of the key points:
+ 
 
 - The capital/income ratio in Europe fell sharply between 1913 and 1950, from about 6-7 to 2-3, due to war destruction, inflation, and capital controls. 
 
@@ -1707,7 +1707,7 @@ In summary, the period 1913-1950 saw major shocks to private capital in Europe, 
 
 In summary, the social-democratic societies of postwar Europe demonstrated it was possible to combine free markets and democracy with substantially greater equality and social support than in liberal societies. But this model also faced limitations in growth, fiscal pressures, and adapting to globalization, illustrating the difficulties of balancing different values and economic objectives.
 
- Here is a summary of the key points:
+ 
 
 - Between 1914 and 1945, the prosperous and solid capitalist societies that existed on the eve of World War I collapsed. This collapse was so complete that even nominally capitalist countries turned into social democracies between 1950-1980 through policies like nationalizations, public education, health and pension reforms, and progressive taxation. 
 
@@ -1721,7 +1721,7 @@ In summary, the social-democratic societies of postwar Europe demonstrated it wa
 
 - The New Deal in the US established a bargain-basement form of social democracy compared to Europe in terms of taxation and spending. The US never achieved universal health coverage on the European model.
 
- Here is a summary of the key points:
+ 
 
 - Social democratic societies like those in Europe developed generous social welfare systems and progressive taxation between 1950-1980, reducing inequality compared to earlier periods. However, inequality has risen again since 1980.
 
@@ -1747,7 +1747,7 @@ In summary, the social-democratic societies of postwar Europe demonstrated it wa
 
 - The German and Nordic examples provide useful historical experience to build on as we seek to increase social ownership and redistribute power and wealth more broadly. But new solutions will likely need to go beyond the incomplete reforms instituted so far.
 
- Here is a summary of the key points:
+ 
 
 - Co-management, where workers have representation on company boards, is well-established in Germany and the Nordic countries but has diffused slowly elsewhere. It emerged in these countries due to strong labor mobilization and a revision of corporate law.
 
@@ -1759,7 +1759,7 @@ In summary, the social-democratic societies of postwar Europe demonstrated it wa
 
 - Overall, co-management remains confined mostly to Germany and Scandinavia and has seen only tentative adoption elsewhere. This contrasts with the wider embrace of progressive taxation across many countries after World War I. The radical conceptual change required likely explains the slower, more limited diffusion.
 
- Here is a summary of the key points:
+ 
 
 - The British Labour Party's 1918 constitution set "common ownership of the means of production" as a central goal, similar to other socialist/social democratic parties like those in France and Germany at the time. This was interpreted as promoting nationalization.
 
@@ -1773,7 +1773,7 @@ In summary, the social-democratic societies of postwar Europe demonstrated it wa
 
 - The history of property regimes contains many switch points and is not deterministic. Further evolution of social ownership and power sharing within firms remains possible through new proposals like employee shareholding.
 
- Here is a summary of the key points:
+ 
 
 - The influence of the property-owning middle class has declined as wealth concentration has increased dramatically in recent decades. More progressive fiscal policies and incentives for employee stock ownership could help change this.
 
@@ -1785,7 +1785,7 @@ In summary, the social-democratic societies of postwar Europe demonstrated it wa
 
 - Access to education, especially higher education, has played a key role in inequality regimes. The US long held an educational lead over Europe, helping explain its productivity edge. But this has eroded recently as Europe has expanded access. Education access and funding are key issues for social democracies today.
 
- Here is a summary of the key points:
+ 
 
 - The United States had an early lead in labor productivity and education compared to Western European countries like Germany, France and the UK in the 19th and early 20th centuries. 
 
@@ -1827,7 +1827,7 @@ In summary, the social-democratic societies of postwar Europe demonstrated it wa
 
 - Redistribution helps reduce inequality but does not address the underlying differences in primary income distribution. Policies to influence pre-distribution are also needed, such as reforms to corporate governance, minimum wage, and education access.
 
- Here is a summary of the key points:
+ 
 
 - The purchasing power of the U.S. minimum wage has declined remarkably over the past half century despite economic growth. This contrasts with France where the minimum wage has risen with productivity. The decline in the U.S. minimum wage has contributed to rising inequality.
 
@@ -1837,7 +1837,7 @@ In summary, the social-democratic societies of postwar Europe demonstrated it wa
 
 - Overall, the reversal in U.S. income inequality since the 1970s reflects ideological shifts that led to changes in institutions and policies which previously constrained inequality. This includes labor laws, corporate governance, tax policy, and educational access.
 
- Here is a summary of the key points:
+ 
 
 - Education in the US is highly decentralized and relies heavily on local property taxes, leading to significant inequality between wealthy and poor communities. Compared to other developed countries, secondary education is less universal.
 
@@ -1857,7 +1857,7 @@ In summary, the social-democratic societies of postwar Europe demonstrated it wa
 
 The advent of mass higher education in the late 20th century posed new challenges for educational equality compared to earlier expansions of primary and secondary education. With tertiary education, it became unrealistic to think every student would pursue advanced degrees, and the variety of fields and aspirations lent itself more to hierarchical organization. This influenced social and professional hierarchies after graduation. Even with Europe's more egalitarian systems compared to the US, educational investment stagnated at around 5-6% of GDP from 1990-2015, rather than increasing to account for rising college attendance. This likely contributed to rising inequality and slowing growth. The US saw growth halve from 2.2% in 1950-1990 to 1.1% in 1990-2020 as inequality rose and top tax rates fell. Europe saw a similar pattern. Strongly progressive taxes and lower inequality are not obstacles to growth, as the mid-20th century showed, contrary to claims that pre-WWI inequality was necessary for growth. The conservative revolution of the 1980s failed to raise growth. Egalitarian educational investment, which gave the US an advantage over Europe in the 19th and early 20th centuries, illustrates the importance of policies that promote equal opportunity.
 
- Here is a summary of the key points:
+ 
 
 - Social democracy in the 20th century focused on nationalizing private firms as a way to transcend capitalism, but this neglected other approaches like progressive taxation, co-management, and self-management. 
 
@@ -1873,7 +1873,7 @@ The advent of mass higher education in the late 20th century posed new challenge
 
 In summary, social democracy made strides within 20th century nation-states but failed to sufficiently develop progressive taxation or new transnational forms, undermining the long-term viability of its achievements. A focus on nationalization also neglected other approaches to transcending capitalism.
 
- Here is a summary of the key points:
+ 
 
 - The ideology of competition in Europe is a response to past crises, but in pursuing this Europe forgot the need to temper markets with regulations. 
 
@@ -1887,7 +1887,7 @@ In summary, social democracy made strides within 20th century nation-states but 
 
 - The high concentration of wealth and capital income in Europe has tested consent to taxation, as complex tax systems and lack of coordination tended to favor those who benefited most from globalization.
 
- Here is a summary of the key points:
+ 
 
 - Liberalizing capital flows without fiscal coordination can undermine tax progressivity, as seen in many European countries in 1990-2020. Wealthy individuals can pay less taxes on capital income compared to labor income. 
 
@@ -1901,7 +1901,7 @@ In summary, social democracy made strides within 20th century nation-states but 
 
 - Permanent annual wealth taxes have a more limited history but are central to 21st century debates on increased wealth concentration since the 1980s. They could help counter inequality and fund egalitarian investments.
 
- Here are the key points:
+ 
 
 - There are two groups of countries when it comes to historical experiments with annual wealth taxes:
 
@@ -1917,7 +1917,7 @@ In summary, social democracy made strides within 20th century nation-states but 
 
 - The debate over wealth taxation has recurred throughout history, with figures like Henry George and Huey Long proposing various policies, but annual progressive wealth taxes have faced resistance from property owners in some countries. Their implementation represents a political shift toward egalitarianism.
 
- Here is a summary of the key points:
+ 
 
 - There are two main differences between a progressive wealth tax and existing property/real estate taxes. First, property taxes are proportional rather than progressive - the tax rate is the same regardless of how much property one owns. A wealth tax would be progressive, with higher rates on larger fortunes. 
 
@@ -1929,7 +1929,7 @@ In summary, social democracy made strides within 20th century nation-states but 
 
 - Wealth inequality has risen sharply since the 1980s, creating conditions for a challenge to the conservative turn of the 1980s. Leading Democrats are now proposing higher top rates on incomes and estates, signaling wealth taxes could make a comeback.
 
- Here is a summary of the key points:
+ 
 
 - Some Democratic candidates in the US have proposed a wealth tax, such as Elizabeth Warren's plan for a 2% tax on fortunes over $50 million and 3% above $1 billion. This is intended to put wealth back into circulation from the largest fortunes. 
 
@@ -1943,7 +1943,7 @@ In summary, social democracy made strides within 20th century nation-states but 
 
 - There is an ongoing need to reassess property, inheritance, income and wealth taxes comprehensively to create a just tax system suited for the high inequality of wealth today.
 
- Here is a summary of the key points:
+ 
 
 - Social democratic policies in Europe in the 20th century, while achieving many successes, had some shortcomings in areas like social ownership, education access, transcending nationalism, and progressive wealth taxation. 
 
@@ -1953,7 +1953,7 @@ In summary, social democracy made strides within 20th century nation-states but 
 
 - More broadly, the thirst for fiscal justice tends to grow with education/information. Avoiding debate on progressive wealth taxes risks social division and hostility. Historical debates should inform balanced efforts for fiscal and social solidarity.
 
- Here is a summary of the key points:
+ 
 
 - The mixed economy that emerged after World War II, combining a large public sector with private property and markets, led to a period of strong economic growth and reduced inequality in Western countries. 
 
@@ -1963,7 +1963,7 @@ In summary, social democracy made strides within 20th century nation-states but 
 
 - possible reforms: increased worker representation on company boards (similar to Germany's co-determination system), more progressive taxation, work-time reduction, new forms of property ownership (like cooperatives and foundations), and reform of the media sector. But such reforms require rebuilding unions and left-wing parties, and overcoming capital owners' resistance.
 
- Here are the key points:
+ 
 
 - Workers' preferences for leisure vs income and social norms around working hours influence average hours worked. Some evidence suggests workers value leisure time, but no individual wants to be the first to work less. 
 
@@ -1975,7 +1975,7 @@ In summary, social democracy made strides within 20th century nation-states but 
 
 - Optimal top tax rates on labor income could be over 80% to curb excessive pay-setting power of executives and prevent bargaining failures. Top tax rates have fallen more dramatically in the US than Europe.
 
- Here is a summary of the key points:
+ 
 
 - There is growing awareness of the outsized influence of large private monopolies, especially big tech firms, in the US economy and the potential need for greater public oversight. 
 
@@ -1989,7 +1989,7 @@ In summary, social democracy made strides within 20th century nation-states but 
 
 - The EU's single market rules have limited member states' ability to regulate capital flows and corporate taxation, contributing to a "race to the bottom." This tends to benefit the wealthy.
 
- Here is a summary of the key points:
+ 
 
 - Wealth inequality varies greatly by age group in France, with the 20-39 age group having the highest concentration (62% of wealth held by top 10%) due to the importance of inheritances. 
 
@@ -2015,7 +2015,7 @@ In summary, social democracy made strides within 20th century nation-states but 
 
 - Overall, the communist experiment reinforced the ideology of private property rather than overcoming capitalism. The failures of communism were a key factor in the 1980s rise of economic liberalism and new forms of sacralization of private property.
 
- Here is a summary of the key points:
+ 
 
 - The Soviet regime failed to fully eliminate private property and small businesses, despite its ideological commitment to do so. This led to widespread petty theft and a large prison population of people accused of stealing state property to survive.
 
@@ -2029,7 +2029,7 @@ In summary, social democracy made strides within 20th century nation-states but 
 
 - Overall, the Soviet system failed to live up to its egalitarian ideals and resorted to mass incarceration, privilege and repression to sustain itself. But it did reduce monetary inequality compared to the past.
 
- Here is a summary of the key points:
+ 
 
 - There were significant gaps in living standards between Eastern and Western Europe under Soviet rule, but measuring them is challenging due to differences in accounting methods. Estimates suggest Russia's income per adult stagnated at around 35-40% of Western Europe's level from 1870-1980, before rising to 60% by 1950 where it remained until 1990. 
 
@@ -2039,7 +2039,7 @@ In summary, social democracy made strides within 20th century nation-states but 
 
 - The communist bloc lost its moral high ground on issues like repression of dissidents and poor economic performance. By the 1980s, the Soviet ideal had declined from its position as a champion of antiracism and anticolonialism.
 
- Here is a summary of the key points:
+ 
 
 - In the 1950s-1980s, communist regimes like the Soviet Union promoted women's equality through policies like public childcare and high representation of women in government. However, leadership remained male-dominated and assemblies had limited power. 
 
@@ -2067,7 +2067,7 @@ In summary, social democracy made strides within 20th century nation-states but 
 
 - While incomes have recovered somewhat since the 1990s, overall economic performance has been mediocre compared to communist times, with average incomes at 70% of Western European levels.
 
- Here is a summary of the key points:
+ 
 
 - A significant amount of wealth belonging to rich Russians is hidden abroad in tax havens, using complex legal arrangements like trusts and shell corporations. This allows assets to be kept outside of Russia's legal jurisdiction. 
 
@@ -2081,7 +2081,7 @@ In summary, social democracy made strides within 20th century nation-states but 
 
 In summary, a huge amount of Russian wealth is hidden abroad, enabled by globalization and lack of regulation. This originated from misguided Western economic policies in the 1990s transition.
 
- Here is a summary of the key points:
+ 
 
 - Russia's transition from communism to capitalism in the 1990s led to extreme inequality, with oligarchs capturing most of the country's wealth. This was partly due to the shock therapy approach and lack of democratic processes. 
 
@@ -2095,7 +2095,7 @@ In summary, a huge amount of Russian wealth is hidden abroad, enabled by globali
 
 - The contrast shows the importance of political-ideological dynamics and crises in shaping inequality regimes and their changes over time.
 
- Here is a summary of the key points:
+ 
 
 - The Chinese state owns around 55% of the capital of Chinese firms, a share that has remained stable since 2005-2006. This gives the state significant control over the economy and scope for economic intervention. 
 
@@ -2119,7 +2119,7 @@ In summary, a huge amount of Russian wealth is hidden abroad, enabled by globali
 
 - The summary does not directly address global warming or knowledge appropriation as these were not major topics covered in the excerpt. The passage focuses more on public versus private capital and inequality.
 
- Here is a summary of the key points:
+ 
 
 - Income inequality in China increased sharply between 1980 and 2018, though it remains below the level of the United States. China's level of inequality rose from one of the most egalitarian in the 1980s to close to the high inequality of the US today. 
 
@@ -2131,7 +2131,7 @@ In summary, a huge amount of Russian wealth is hidden abroad, enabled by globali
 
 - Overall, the rapid rise in inequality and lack of transparency around inequality measurement in China highlights potentially serious issues for a regime that officially promotes socialism, and limits analysis of the distributional impacts of China's economic growth.
 
- Here is a summary of the key points:
+ 
 
 - China's political system combines communist ideology with plutocratic practices. The example of Hong Kong illustrates this - its governance shifted from being controlled by British elites to being controlled by pro-Beijing business elites after the handover to China. 
 
@@ -2143,7 +2143,7 @@ In summary, a huge amount of Russian wealth is hidden abroad, enabled by globali
 
 - It remains unclear whether the Chinese government will be able to avoid high inequality and corruption without implementing concrete policies beyond imprisoning some oligarchs. The belief in Chinese exceptionalism may prevent learning from other countries' experiences.
 
- Here are the key points:
+ 
 
 - The passage discusses the Chinese regime's critique of Western parliamentary democracy. The Chinese argue that equal political rights are illusory when the media and political parties are captured by moneyed interests.  
 
@@ -2159,7 +2159,7 @@ In summary, a huge amount of Russian wealth is hidden abroad, enabled by globali
 
 - Overall, the passage uses Chinese critiques not to condemn democracy, but to urge addressing its conceptual gaps and excesses in a thoughtful way.
 
- Here is a summary of the key points:
+ 
 
 - The Chinese government argues its single-party system allows for more stable, harmonious, and rational policymaking compared to Western electoral democracy. It claims the CCP represents all segments of society and its large membership deliberates decisions in the national interest. 
 
@@ -2171,7 +2171,7 @@ In summary, a huge amount of Russian wealth is hidden abroad, enabled by globali
 
 - Overall, China's arguments defending party-managed democracy raise interesting points but currently lack convincing evidence of superior deliberation and representation compared to electoral democracy. More transparency and power-sharing with other parties could help strengthen the legitimacy of the system.
 
- Here is a summary of the key points:
+ 
 
 - Income inequality rose sharply in Eastern Europe after the fall of communism, though not as much as in Russia. Inequality remains lower in Eastern Europe than in the US. 
 
@@ -2183,7 +2183,7 @@ In summary, a huge amount of Russian wealth is hidden abroad, enabled by globali
 
 - The post-communist experience in Eastern Europe shows disillusionment and misunderstandings despite joining the prosperous EU. Dilemmas over foreign ownership and influence remain unresolved.
 
- Here is a summary of the key points:
+ 
 
 - Eastern European countries have seen large outflows of private profits to Western corporations since the 1990s, despite hopes that transitioning to capitalism would raise wages. This is due to the bargaining power of Western investors. 
 
@@ -2195,7 +2195,7 @@ In summary, a huge amount of Russian wealth is hidden abroad, enabled by globali
 
 - A social-democratic European project with shared fiscal and social policies could reduce these tensions and build a post-national community. But this requires challenging the notion of sacrosanct market forces and building cross-national solidarity.
 
- Here is a summary of the key points:
+ 
 
 - Disillusionment with communism and socialism runs deep in postcommunist societies. This colors their political attitudes and opposition to anything that seems similar to past regimes. However, this disillusionment sometimes lacks nuance in distinguishing different historical experiences. 
 
@@ -2253,7 +2253,7 @@ In summary, a huge amount of Russian wealth is hidden abroad, enabled by globali
 
 - Significant diversity in inequality regimes continues to exist globally despite greater interconnection. Understanding inequality requires looking beyond national averages at distribution between income groups.
 
- Here are the key points:
+ 
 
 - Global inequality has increased sharply since the 1980s, reversing the decline seen over the 20th century. 
 
@@ -2265,7 +2265,7 @@ In summary, a huge amount of Russian wealth is hidden abroad, enabled by globali
 
 - Democratic, egalitarian, and postnational solutions are required to reduce global inequality. The status quo of power relations and property rights has failed to yield viable development models.
 
- Here is a summary of the key points:
+ 
 
 - Inequality poses a profound challenge to the idea of progress and is closely tied to the climate crisis. Tackling global warming requires lifestyle changes that must be distributed equitably. 
 
@@ -2279,7 +2279,7 @@ In summary, a huge amount of Russian wealth is hidden abroad, enabled by globali
 
 - Greater fiscal transparency can help fight corruption and mobilize the public to demand change. But overcoming government resistance and international tax avoidance are ongoing challenges.
 
- Here is a summary of the key points:
+ 
 
 - Measuring national income and wealth is complicated by the degradation of natural capital and the environment. Carbon emissions and climate change impose large social costs not fully captured in GDP. 
 
@@ -2307,7 +2307,7 @@ In summary, properly measuring environmental impacts and accounting for them in 
 
 - Just climate policy requires new forms of transnational taxation and transparency around inequality data. Abdication by governments to address inequality undermines climate action.
 
- Here is a summary of the key points:
+ 
 
 - There are many unclear aspects of recent developments in wealth and income inequality data, paradoxically making older data (1900-1990) more reliable than newer data (1990-2020). This is due to poorer quality sources and lack of tools to track international wealth flows.
 
@@ -2321,7 +2321,7 @@ In summary, properly measuring environmental impacts and accounting for them in 
 
 - Overall, there has been a degradation in the quality of available wealth data due to political choices, even though technology could enable better tracking of asset holdings and income. More systematic financial reporting and public wealth registers would help overcome the opacity of inequality data.
 
- Here are the key points:
+ 
 
 - Wealth inequality statistics in Europe and the U.S. rely entirely on self-reported surveys, with no verification against administrative or financial data. This makes tracking the evolution of wealth, especially financial assets, impossible. 
 
@@ -2335,7 +2335,7 @@ In summary, properly measuring environmental impacts and accounting for them in 
 
 - International initiatives to increase financial transparency have faced resistance. Overcoming neo-proprietarian opposition to wealth transparency is key to reducing dangerous wealth inequalities.
 
- Here is a summary of the key points:
+ 
 
 - Europe has been hit by several financial and fiscal scandals in recent years, such as LuxLeaks in 2014, which revealed how the Luxembourg government allowed companies to pay lower tax rates through secret agreements. This demonstrated the extent of tax evasion in Europe. 
 
@@ -2349,7 +2349,7 @@ In summary, properly measuring environmental impacts and accounting for them in 
 
 - The lack of precise public data on wealth inequality indicates a failure of institutions to address these democratic issues adequately. Calls are growing in some countries like the US for more progressive taxation on the wealthy.
 
- Here is a summary of the key points:
+ 
 
 - Wealth inequality has resurged in recent decades, coupled with increased financial opacity through the use of tax havens and complex legal entities. This represents a return to neo-proprietarian inequality. 
 
@@ -2361,7 +2361,7 @@ In summary, properly measuring environmental impacts and accounting for them in 
 
 - The concentration of wealth has exacerbated gender inequality in asset division among siblings and couples, as the wealthy seek to marry those with comparable assets. This reflects a return to patrimonial marriage patterns.
 
- Here is a summary of the key points:
+ 
 
 - There has been a return to high levels of patrimonial homogamy (marrying someone of similar wealth) like in the 19th century, facilitated by rising professional homogamy (marrying someone of similar profession/education). This contributes to increased inequality between households.
 
@@ -2373,7 +2373,7 @@ In summary, properly measuring environmental impacts and accounting for them in 
 
 - Since 2008, central banks have dramatically increased money creation, altering perceptions of their role. This represents a profound shift away from the pre-crisis consensus on restrained money creation and inflation targeting.
 
- Here is a summary of the key points:
+ 
 
 - Prior to the 2008 financial crisis, central banks like the Federal Reserve and European Central Bank had balance sheets equivalent to only 5-10% of GDP, consisting primarily of short-term loans to banks. 
 
@@ -2415,7 +2415,7 @@ In summary, properly measuring environmental impacts and accounting for them in 
 
 - Overall, neo-proprietarianism is complex and evolving, not a single coherent doctrine. The EU embodies some related ideas but is more unstable and open-ended. Critically examining meritocracy can help analyze today's inequality.
 
- Here is a summary of the key points:
+ 
 
 - The emergence of meritocratic ideology helped justify inequality in modern societies. It shifted focus from overt ownership of the poor classes to justifying their lower status based on merit and discourse. 
 
@@ -2427,7 +2427,7 @@ In summary, properly measuring environmental impacts and accounting for them in 
 
 - Today's ideology glorifies entrepreneurs and billionaires as having singly created innovations and prosperity. This overlooks their monopolistic practices, tax breaks, and use of public resources. Meritocracy is used to justify their status and wealth.
 
- Here is a summary of the key points:
+ 
 
 - Extreme inequality exists in many parts of the world today, including Brazil, India, the Middle East, and South Africa. Inequality in the Middle East is the highest globally. 
 
@@ -2439,7 +2439,7 @@ In summary, properly measuring environmental impacts and accounting for them in 
 
 - Tackling inequality requires transparency about taxes and spending, progressive taxation, inheritance taxation, and creating opportunities for citizens to participate equally in shaping public policy. Alternatives like participatory socialism could help move beyond current limitations of parliamentary democracy.
 
- Here is a summary of the key points:
+ 
 
 - National income accounts are an essential tool for measuring inequality, but current methods underestimate inequality by excluding capital income and overestimating growth. 
 
@@ -2473,7 +2473,7 @@ In summary, properly measuring environmental impacts and accounting for them in 
 
 The key sources referenced are: de 2017 presentation, Piketty's Capital in the Twenty-First Century, Zucman's The Hidden Wealth of Nations, Pogge and Mehta's Global Tax Fairness.
 
- Here is a summary of the key points:
+ 
 
 - Gender inequality in labor income has declined substantially in recent decades, but large gaps remain, especially at the top of the distribution. 
 
@@ -2499,7 +2499,7 @@ The key sources referenced are: de 2017 presentation, Piketty's Capital in the T
 
 - Understanding the multidimensional nature of political conflict and social class is key for making progress towards equality through democratic deliberation and participation.
 
- Here is a summary of the key points:
+ 
 
 - In the postwar period until around 1980, lower classes tended to vote for left/social democratic parties while upper classes voted for conservative/right wing parties, with wealth being the most divisive factor followed by income and then education. 
 
@@ -2527,7 +2527,7 @@ The key sources referenced are: de 2017 presentation, Piketty's Capital in the T
 
 - It differs by identifying major transformations since the 1950s, and focusing on education, income and wealth rather than their cleavages. The ethno-racial dimension is also examined systematically.
 
- Here is a summary of the key points:
+ 
 
 - The framework proposed by Lipset and Rokkan completely ignores ethno-racial cleavages, which have become more prominent political issues in recent decades in both Europe and the US.  
 
@@ -2539,7 +2539,7 @@ The key sources referenced are: de 2017 presentation, Piketty's Capital in the T
 
 - Terminology of "left" and "right" is vehemently rejected currently in France, indicating a redefinition of the main political cleavage is underway. Historical study of the left-right divide in France and partisan divides elsewhere can shed light on this shift.
 
- Here is a summary of the key points:
+ 
 
 - The concepts of "left" and "right" have no fixed meaning, but are sociohistorical constructs that structure political conflict in different contexts. Their meaning has constantly evolved, especially when new political cleavages emerge.
 
@@ -2555,7 +2555,7 @@ The key sources referenced are: de 2017 presentation, Piketty's Capital in the T
 
 - The most striking evolution is the reversal of the educational cleavage, with the left attracting the least educated and the right the most educated, the opposite of the 1950s-1970s pattern.
 
- Here is a summary of the key points:
+ 
 
 - In the 1956 French legislative elections, left-wing parties (Socialists, Communists, Radicals) received 57% of the vote from those with only primary education (72% of electorate) compared to 49% from those with secondary education (23% of electorate) and just 37% from those with tertiary education (5% of electorate). 
 
@@ -2589,7 +2589,7 @@ The key sources referenced are: de 2017 presentation, Piketty's Capital in the T
 
 - The social hypothesis seems more convincing as the reversal started before immigration became a major issue in Europe. Also, turnout of disadvantaged groups is low, suggesting dissatisfaction with electoral choices.
 
- Here is a summary of the key points:
+ 
 
 - Among the descendants of left-leaning 1956 voters, those who attained higher education continued voting left, while those with less education grew disenchanted with left parties. 
 
@@ -2617,7 +2617,7 @@ The key sources referenced are: de 2017 presentation, Piketty's Capital in the T
 
 - Electoral support for the left among low-income groups has declined significantly since the 1950s. The left is now associated more with the educated elite. Issues like inheritance tax play a role, as does perception the left disregards working classes.
 
- Here is a summary of the key points:
+ 
 
 - The profile of left-wing support has historically been quite flat across the lower 90% of the income distribution, but drops off sharply among the top 10-1% earners, especially from the 1950s-1970s. 
 
@@ -2629,7 +2629,7 @@ The key sources referenced are: de 2017 presentation, Piketty's Capital in the T
 
 - It remains to be seen whether the highly educated will align more with high earners in the future within left-wing parties, or whether suspicions of the left among higher earners will persist.
 
- Here is a summary of the key points:
+ 
 
 - From the 1950s to 1970s, lower income groups in France consisted largely of independent workers like peasants and small business owners. They were suspicious of leftist plans for collectivization. 
 
@@ -2673,7 +2673,7 @@ The key sources referenced are: de 2017 presentation, Piketty's Capital in the T
 
 - Research shows Muslims face discrimination in France and Europe, especially in employment. This likely further encourages them to vote for left-wing parties.
 
- Here is a summary of the key points:
+ 
 
 - The French electorate has fractured into four roughly equal ideological groups based on attitudes towards immigration and inequality: egalitarian internationalists, inegalitarian nativists, inegalitarian internationalists, and egalitarian nativists. 
 
@@ -2685,7 +2685,7 @@ The key sources referenced are: de 2017 presentation, Piketty's Capital in the T
 
 - The egalitarian internationalist bloc is pro-immigrant, pro-redistribution, educated but relatively low income. The inegalitarian internationalist bloc represented by Macron is pro-immigrant, pro-rich, wealthy and educated. The inegalitarian nativist bloc of Fillon is anti-immigrant, pro-rich. The egalitarian nativist bloc of Le Pen is anti-immigrant, pro-poor.
 
- Here is a summary of the key points:
+ 
 
 - In the 2017 French presidential election, the electorate was divided into four roughly equal quarters representing different ideological positions: 
 
@@ -2707,7 +2707,7 @@ The key sources referenced are: de 2017 presentation, Piketty's Capital in the T
 
 - The political debate risks being simplistically framed as "progressives" vs "nationalists." This binary view is misleading and dangerous.
 
- Here is a summary of the key points:
+ 
 
 - The political landscape in France and other countries is multidimensional, with an egalitarian internationalist bloc that advocates for immigrant rights and redistribution of wealth. The size and influence of this bloc varies by context. 
 
@@ -2723,7 +2723,7 @@ The key sources referenced are: de 2017 presentation, Piketty's Capital in the T
 
 - Overall, the EU risks being seen as an instrument of the neo-proprietarian bloc unless it undertakes reforms for greater fiscal and social justice.
 
- Here is a summary of the key points:
+ 
 
 - There has been a dramatic transformation in the political cleavage structure in France and other Western countries in recent decades. The traditional left-right divide based on economic class has weakened.
 
@@ -2743,7 +2743,7 @@ The key sources referenced are: de 2017 presentation, Piketty's Capital in the T
 
 - The new cleavage threatens social cohesion and democratic institutions. But the forces shaping it can be influenced by political choices and institutions.
 
- Here is a summary of the key points:
+ 
 
 - Piketty analyzes survey data on voting patterns in France, the US, and the UK from 1948-2017 to study the evolution of political cleavages. 
 
@@ -2759,7 +2759,7 @@ The key sources referenced are: de 2017 presentation, Piketty's Capital in the T
 
 - Piketty connects his analysis back to the framework of Lipset and Rokkan and discusses how it could be expanded beyond Europe to analyze cleavages in party systems like the US.
 
- Here is a summary of the key points:
+ 
 
 - Voter turnout in the US is generally higher in presidential elections than in congressional or senate races, with a notable peak when Obama was first elected in 2008. 
 
@@ -2775,7 +2775,7 @@ The key sources referenced are: de 2017 presentation, Piketty's Capital in the T
 
 - The populist right has recently begun to attract less educated voters who feel alienated from the educated urban left-wing parties.
 
- Here is a summary of the key points:
+ 
 
 - The educational cleavage in countries like the US, where private higher education plays a large role, shows the adaptability of the new meritocratic ideology. 
 
@@ -2795,7 +2795,7 @@ The key sources referenced are: de 2017 presentation, Piketty's Capital in the T
 
 - Brief communist participation in government after WWII helped establish major social reforms.
 
- Here is a summary of the key points:
+ 
 
 - The post-war period in France saw a gradual weakening of the influence of religion on voting behavior. The proportion of regular churchgoers declined steadily. 
 
@@ -2809,7 +2809,7 @@ The key sources referenced are: de 2017 presentation, Piketty's Capital in the T
 
 - Overall, the influence of religion on voting has declined in France while that of immigrant origin has increased on the left, reflecting long-term social changes. Class identity remains influential.
 
- Here is a summary of the key points:
+ 
 
 - The electoral geography of the 2017 French presidential election reveals a divided France, with Le Pen's support coming mainly from peripheral regions and smaller towns and cities, while Macron did well in large metropolitan areas. 
 
@@ -2867,7 +2867,7 @@ The key sources referenced are: de 2017 presentation, Piketty's Capital in the T
 
 So in summary, starting in the 1960s the Democratic party became seen as the party advancing civil rights, cementing an enduring loyalty from black voters, while Republicans tapped into white racial resentment, dividing the parties sharply along racial lines. This racial divide between the two major parties continues to define much of American politics today.
 
- Here is a summary of the key points:
+ 
 
 - The Democratic Party, historically associated with slavery and segregation, became the preferred party of African Americans and other minorities starting in the 1960s. Meanwhile, the Republican Party, originally the party of Lincoln and emancipation, became the refuge for whites opposed to civil rights and integration.
 
@@ -2881,7 +2881,7 @@ So in summary, starting in the 1960s the Democratic party became seen as the par
 
 - The stark divide between overwhelming minority support for Democrats and majority white support for Republicans reflects deep conflicts over racial equality and integration in American politics and society.
 
- Here is a summary of the key points:
+ 
 
 - In both the US and France, there is a massive electoral cleavage of around 40 percentage points based on racial/religious identity. Over 90% of African Americans vote Democratic in the US, while over 90% of Muslims vote left in France.
 
@@ -2909,7 +2909,7 @@ So in summary, starting in the 1960s the Democratic party became seen as the par
 
 In summary, the cleavage reversal likely stems from a change in the Democratic Party's priorities over decades as well as the Republicans' successful exploitation of racial issues, not race alone. The Democrats have struggled to put forth an egalitarian economic agenda to counter the conservative revolution.
 
- Here is a summary of the key points:
+ 
 
 - The structure of the electorate in British elections has been more complex and fluctuating compared to the bipartite system in the US, with the Labour and Conservative parties being dominant but smaller parties playing a role too. 
 
@@ -2925,7 +2925,7 @@ In summary, the cleavage reversal likely stems from a change in the Democratic P
 
 - The rise of UKIP and Brexit reflected this working class discontent, leading to greater fragmentation and four-party politics today.
 
- Here is a summary of the key points:
+ 
 
 - In the 1945 election, Labour won a major victory, replacing the Liberals as the main alternative to the Conservatives. This marked a major shift as Labour became a party that could hold power.
 
@@ -2937,7 +2937,7 @@ In summary, the cleavage reversal likely stems from a change in the Democratic P
 
 - Since the 1980s-90s, higher income voters have supported Labour more, such as with Tony Blair's New Labour. Like the US Democrats, Labour largely validated the economic reforms of previous Conservative governments.
 
- Here is a summary of the key points:
+ 
 
 - In the postwar period until the 1990s, the Labour Party was associated with lower levels of education, income, and wealth. Since the 1990s, it has become associated with high levels of education. 
 
@@ -2951,7 +2951,7 @@ In summary, the cleavage reversal likely stems from a change in the Democratic P
 
 - The growing education and ethnic/religious divides have led to increased instability and fragmentation in UK politics in recent decades. Various syntheses between elite groups remain possible depending on party strategies.
 
- Here is a summary of the key points:
+ 
 
 - UK postelection surveys have included questions on ethnic self-identification since 1983, allowing respondents to classify themselves as "White," "African-Caribbean," "Indian-Pakistani," or "other." 
 
@@ -2971,7 +2971,7 @@ In summary, the cleavage reversal likely stems from a change in the Democratic P
 
 - In the 2010s, UKIP attacked immigration and the EU, pressuring the Conservatives towards a Brexit referendum.
 
- Here is a summary of the key points:
+ 
 
 - The UK's vote to leave the EU in 2016 (Brexit) exposed deep social divisions, with less educated, lower income, and less wealthy voters strongly supporting "Leave" while the upper classes voted for "Remain."
 
@@ -2989,7 +2989,7 @@ In summary, the cleavage reversal likely stems from a change in the Democratic P
 
 - Overall, the European project needs to embody transparent social and fiscal justice to gain greater support among all classes.
 
- Here is a summary of the key points:
+ 
 
 - There is a clear educational divide in voting patterns in the US and France, with more educated voters tending to support Democrats/the left and less educated voters supporting Republicans/the right. This educational effect has strengthened over time.
 
@@ -3027,7 +3027,7 @@ In summary, the cleavage reversal likely stems from a change in the Democratic P
 
 - Overall, the passage analyzes common political realignments across advanced democracies and argues that responding to economic anxieties without fueling identity politics will be key challenges going forward.
 
- Here is a summary of the key points:
+ 
 
 - The reversal of the educational cleavage from left-leaning less educated voters to left-leaning more educated voters occurred not just in France, the US, and UK, but across Western democracies including Germany, Sweden, Norway, Italy, Netherlands, Switzerland, Canada, Australia, and New Zealand. 
 
@@ -3039,7 +3039,7 @@ In summary, the cleavage reversal likely stems from a change in the Democratic P
 
 - Finally, the book will outline elements of a program for new forms of participatory socialism adapted to the 21st century, learning from the previous analysis.
 
- Here is a summary of the key points:
+ 
 
 - The left-right political party system that dominated Western democracies in the postwar period from 1950-1980 has gradually broken down over the past several decades. 
 
@@ -3057,7 +3057,7 @@ In summary, the cleavage reversal likely stems from a change in the Democratic P
 
 In summary, the postwar class-based party system collapsed due to the left's failure to address rising education, globalization, and reduce inequality, as well as the end of communism. This disillusionment paved the way for new nationalistic political forces.
 
- Here are the key points:
+ 
 
 - In Poland, the postcommunist Social Democratic Left Alliance (SLD) adopted pro-market policies in the 1990s-2000s to facilitate EU accession, leading to rising inequality and disillusionment. 
 
@@ -3071,7 +3071,7 @@ In summary, the postwar class-based party system collapsed due to the left's fai
 
 - Eastern Europe serves as a laboratory for trends also visible in Western Europe, including the rise of social nativism combining nationalism with redistributive social policies.
 
- Here are the key points:
+ 
 
 - In Italy, the collapse of the postwar party system in the 1990s led to the emergence of new parties on both the left and right. On the right, the Lega Nord became an anti-immigrant nationalist party. On the left, the Democratic Party (PD) lost working class support due to its centrist economic policies. 
 
@@ -3083,7 +3083,7 @@ In summary, the postwar class-based party system collapsed due to the left's fai
 
 - Key factors enabling the Italian social-nativist alliance were the collapse of old party loyalties and distinctive features of Italian immigration debates that blurred left-right divides. This highlights the potential for volatility when traditional political coordinates break down.
 
- Here is a summary of the key points:
+ 
 
 - Italy became a major destination for refugees from Syria and Africa fleeing via Libya, but other European countries refused to share responsibility for taking in refugees. France was particularly hypocritical, turning back immigrants at the border and taking in far fewer refugees than Germany. 
 
@@ -3095,7 +3095,7 @@ In summary, the postwar class-based party system collapsed due to the left's fai
 
 - Overall, the Italian case shows how anti-immigrant rhetoric can be combined with anti-elite and anti-EU sentiment as well as social policies to create a dangerous but potentially popular coalition. Preventing similar developments will require mobilizing around alternative policies.
 
- Here are the key points:
+ 
 
 - The Polish government has reduced certain tax deductions that benefit high-income people, so they end up paying somewhat more taxes than before. 
 
@@ -3111,7 +3111,7 @@ In summary, the postwar class-based party system collapsed due to the left's fai
 
  I cannot fully summarize the passage, as that would require copying large portions of the text verbatim. However, in summary, the passage discusses the possibility of developing social federalism and greater democratic participation in Europe to address economic inequality and other challenges. It critiques the current decision-making structure of the EU as limiting democratic deliberation and favoring national interests over pluralistic debate. The author advocates reforming European institutions to allow for more robust parliamentary debate and oversight, particularly on fiscal and social policies. Developing a transnational democratic space with greater public participation is presented as an alternative to rising nationalism and nativism. The passage overall argues for a more integrated European Union with shared fiscal policies and democratic accountability as a means to promote equitable growth and social justice.
 
- Here is a summary of the key points:
+ 
 
 - The European Parliament is better suited than ministerial councils to deliberate on new taxes and budgets for Europe. However, there are still challenges with this approach.  
 
@@ -3129,7 +3129,7 @@ In summary, the postwar class-based party system collapsed due to the left's fai
 
 - Overall, building European parliamentary sovereignty on top of national sovereignty is a promising approach for a transnational European democracy.
 
- Here is a summary of the key points:
+ 
 
 - The T-Dem proposal would establish a transnational parliamentary assembly with the power to levy taxes and make budgets. This provides a new model of federalism tailored to Europe's political realities.
 
@@ -3143,7 +3143,7 @@ In summary, the postwar class-based party system collapsed due to the left's fai
 
 In summary, the T-Dem proposal lays out a concrete path for constructing a new social-federalist European Union built on justice, democracy and solidarity to overcome the current climate of division and distrust.
 
- Here is a summary of the key points:
+ 
 
 - The emergency measures agreed by Eurozone countries to address the debt crisis failed to resolve long-term issues and will need to be revisited. 
 
@@ -3161,7 +3161,7 @@ In summary, the T-Dem proposal lays out a concrete path for constructing a new s
 
 - Overall, parliamentary democracy rather than automatic budget rules is needed for legitimate and adaptive fiscal decisions in the Eurozone.
 
- Here is a summary of the key points:
+ 
 
 - The author proposes a "social-federalist" approach where a core group of European countries forms a stronger political and fiscal union called the European Parliamentary Union (EPU), while still remaining part of the broader EU. 
 
@@ -3175,7 +3175,7 @@ In summary, the T-Dem proposal lays out a concrete path for constructing a new s
 
 - The risks of inaction may become high enough that a subgroup of countries will eventually pursue bolder steps toward integration like the EPU, despite resistance from defenders of the status quo.
 
- Here is a summary of the key points:
+ 
 
 - The social-federalist transformation of Europe is urgent to address rising inequality, tax competition between countries, and the loss of sovereignty on fiscal policy. However, progress has been slow due to resistance from political leaders who still see benefits in fiscal competition.
 
@@ -3187,7 +3187,7 @@ In summary, the T-Dem proposal lays out a concrete path for constructing a new s
 
 - In summary, Europe needs social-federalist reforms but faces obstacles from fiscal competition defenders and separatist movements. Concrete plans and solidarity are needed to transform Europe while maintaining public support.
 
- Here is a summary of the key points:
+ 
 
 - Catalonia's desire for independence is partly driven by a desire to keep more tax revenue rather than share it with the rest of Spain. This illustrates the dangers of fiscal competition between regions. 
 
@@ -3213,7 +3213,7 @@ In summary, the T-Dem proposal lays out a concrete path for constructing a new s
 
 - This reflects a politicization of ethnic and religious divides, though economic left-right conflicts remain relevant. Overall, India moved from one-party dominance to a complex multiparty system with competing visions of Indian identity.
 
- Here is a summary of the key points:
+ 
 
 - In a 1939 essay, Golwalkar, a leader of the Hindu nationalist organization RSS, argued that Islam had profoundly handicapped the development of Hinduism and Indian civilization, which he saw as more refined than Christianity or Islam. This sense of humiliation under British rule fueled Hindu nationalism.
 
@@ -3223,7 +3223,7 @@ In summary, the T-Dem proposal lays out a concrete path for constructing a new s
 
 - Over time, Congress has lost upper caste support to the BJP. It once did well across castes as the dominant independence party, but now relies more on Muslims and lower castes while the BJP captures more upper caste votes. Caste and religion have become deeply politicized divides.
 
- Here is a summary of the key points:
+ 
 
 - India's party system has shifted from a nationalist, cross-class system under Congress to a more "classist" system where upper castes vote BJP and lower castes vote Congress/left. This diverges from Western democracies where class cleavages are disappearing. 
 
@@ -3237,7 +3237,7 @@ In summary, the T-Dem proposal lays out a concrete path for constructing a new s
 
 So in summary, India has developed classist voting cleavages based on caste identity itself, not just socioeconomics, shaped by the quota system and party strategies.
 
- Here is a summary of the key points:
+ 
 
 - Parties representing lower castes have played a major role since 1990 in politicizing inequality and mobilizing disadvantaged groups in India. This has created some solidarity between disadvantaged Hindus and Muslims, similar to how disadvantaged blacks and whites were brought together by New Deal policies in the US.
 
@@ -3249,7 +3249,7 @@ So in summary, India has developed classist voting cleavages based on caste iden
 
 - The future will depend on the relative strength of classist redistributive forces versus identitarian nationalist forces. But redistribution requires first defining the boundaries of the community.
 
- Here is a summary of the key points:
+ 
 
 - The Congress Party's proposal for a basic income scheme called NYAY had some shortcomings, including lack of detail on financing and not going far enough on progressive taxation. This was likely due to fear of backlash from BJP and business interests. 
 
@@ -3273,7 +3273,7 @@ So in summary, India has developed classist voting cleavages based on caste iden
 
 - Two main political cleavages can be seen across societies: identitarian revolving around community boundaries, and classist revolving around inequality/redistribution. The weakening wealth cleavage and strengthened identity cleavage since the 1980s helps explain rising inequality.
 
- Here is a summary of the key points:
+ 
 
 - The term "populism" is unhelpful for understanding current political conflicts, which involve multiple dimensions like attitudes to wealth and borders. It is often used by the privileged to dismiss dissent.
 
@@ -3287,7 +3287,7 @@ So in summary, India has developed classist voting cleavages based on caste iden
 
 In summary, the populism concept muddles more than it clarifies. A careful, contextual analysis of specific political conflicts and demands is required, without resorting to simplistic labeling.
 
- Here is a summary of the key points:
+ 
 
 - The term "populism" is vague and can be used both positively and negatively. It is better to focus on specific policies and institutions rather than using this ambiguous term. 
 
@@ -3315,7 +3315,7 @@ In summary, the populism concept muddles more than it clarifies. A careful, cont
 
 - Ultimately the goal should be "ever closer union" via democratic means, not interstate competition. But this requires convincing metropolitan elites and peripheries there is an alternative to nationalism.
 
- Here is a summary of the key points:
+ 
 
 - The qualified majority rule for EU decision-making requires 55% of countries representing 65% of the EU population. This was introduced in the Lisbon Treaty and has been in effect since 2014, replacing a previous system of weighted national votes. 
 
@@ -3345,7 +3345,7 @@ In summary, the populism concept muddles more than it clarifies. A careful, cont
 
 - T-Dem would also increase ECB oversight and allow states to leave the euro if desired, enhancing monetary sovereignty. The goal is to open discussion on democratization.
 
- Here are the key points:
+ 
 
 - Countries can unilaterally tax profits shifted by multinationals to tax havens, if they cooperate to define a common tax base. This only requires political will, not changing global rules.
 
@@ -3359,7 +3359,7 @@ In summary, the populism concept muddles more than it clarifies. A careful, cont
 
 The key ideas are that unilateral actions by states are possible, further political integration is needed in bodies like the EU, and recent policy shifts have undermined egalitarian taxation. Democratic control and progressive international coordination are essential to remedy this.
 
- Here is a summary of the key points:
+ 
 
 - The threat of socialism and left-wing ideologies is taken very seriously by the current U.S. administration, as evidenced by the White House Council of Economic Advisors' report against socialism. Significant resources have been allocated to fight this ideological battle. 
 
@@ -3375,7 +3375,7 @@ The key ideas are that unilateral actions by states are possible, further politi
 
 - Overall, the Indian case demonstrates how identity-based politics and dramatization of cultural cleavages can thrive in modern democracies.
 
- Here is a summary of the key points:
+ 
 
 - Modi's BJP party in India has exploited religious antagonism between Hindus and Muslims to gain political support, similar to accusations of "Islamo-leftism" in France. 
 
@@ -3409,7 +3409,7 @@ The key ideas are that unilateral actions by states are possible, further politi
 
 - Deliberation and mobilization for change are key - ideology will continue to play a central role.
 
- Here is a summary of the key points:
+ 
 
 - Grand declarations like those in the French Revolution or US Declaration of Independence did little to prevent large inequalities or unjust systems like slavery and colonialism in those countries. 
 
@@ -3429,7 +3429,7 @@ The key ideas are that unilateral actions by states are possible, further politi
 
 - The proposals are put forth to spur experimentation and collective deliberation, not as definitive solutions. Improving justice requires ongoing debate.
 
- Here is a summary of the key points:
+ 
 
 - Germano-Nordic co-management, where workers get half the board seats in firms, has been successful in promoting worker involvement, counterbalancing short-term financial interests, and developing a more productive and egalitarian economic model. It should be extended to other countries.
 
@@ -3443,7 +3443,7 @@ The key ideas are that unilateral actions by states are possible, further politi
 
 - An annual progressive wealth tax is important to complement income and inheritance taxes, as wealth itself indicates capacity to contribute and is harder to manipulate. It can help achieve true circulation of capital.
 
- Here is a summary of the key points:
+ 
 
 - A progressive wealth tax can adapt more quickly to changes in wealth and ability to pay than inheritance taxes, which rely on wealth being passed down at death. 
 
@@ -3459,7 +3459,7 @@ The key ideas are that unilateral actions by states are possible, further politi
 
 - Precise parameters require democratic discussion, but this system could enable broader circulation of wealth and economic participation.
 
- Here is a summary of the key points:
+ 
 
 - The author proposes a system of participatory socialism with two main pillars: social ownership and shared voting rights in firms, and temporary ownership and circulation of capital. 
 
@@ -3473,7 +3473,7 @@ The key ideas are that unilateral actions by states are possible, further politi
 
 - The author sees these proposals as a culmination of an evolution away from private capitalism that began in the 19th and 20th centuries. The proposals would achieve a genuine transcendence of capitalism, in the author's view.
 
- Here is a summary of the key points:
+ 
 
 - Progressive taxation originated in the early 20th century as part of a social democratic project to reduce inequality, but this stalled in the 1980s due to the failure of social democrats to innovate and the rise of deregulation after the fall of Soviet communism. 
 
@@ -3485,7 +3485,7 @@ The key ideas are that unilateral actions by states are possible, further politi
 
 - The key obstacles are political and ideological rather than technical. Experiments with innovative policies for reducing inequality are needed to pave the way for broader change.
 
- Here is a summary of the key points:
+ 
 
 - Implementing new forms of fiscal progressivity and wealth circulation may require constitutional changes in some countries. Constitutions often enshrine strong property rights and limit progressive taxation.
 
@@ -3499,7 +3499,7 @@ The key ideas are that unilateral actions by states are possible, further politi
 
 - Constitutional courts are important institutions but can overstep if judges inject partisan interests. Reforms should aim to check potential judicial abuses in fiscal and social domains.
 
- Here is a summary of the key points:
+ 
 
 - The progressive income tax is essential for financing the welfare state and public spending on areas like education and health. It is more transparent and fairer than indirect taxes like VAT. 
 
@@ -3511,7 +3511,7 @@ The key ideas are that unilateral actions by states are possible, further politi
 
 - The basic income supplements but does not replace this broader institutional framework for achieving a just distribution of income and power. It should not be seen as a standalone solution.
 
- Here is a summary of the key points:
+ 
 
 - Progressive taxation of carbon emissions is needed to combat climate change and reduce inequality. The carbon tax should be integrated into the progressive income tax system to compensate lower- and middle-class households and fund the transition to renewable energy. 
 
@@ -3525,7 +3525,7 @@ The key ideas are that unilateral actions by states are possible, further politi
 
 - Overall, progressive taxation and greater educational equality are needed to construct norms of justice and strengthen participatory socialism.
 
- Here is a summary of the key points:
+ 
 
 - There are large disparities in public educational investment per student in France, ranging from 65,000-70,000 euros for the bottom 10% to 200,000-300,000 euros for the top 10%. 
 
@@ -3541,7 +3541,7 @@ The key ideas are that unilateral actions by states are possible, further politi
 
 - Overall, transparency is essential for developing norms of educational justice that inspire collective confidence in the system. Countries need to learn from experiments elsewhere while crafting solutions specific to their context.
 
- Here is a summary of the key points:
+ 
 
 - Inequality regimes are intimately tied to political regimes throughout history. Transforming inequality requires changing political rules. 
 
@@ -3555,7 +3555,7 @@ The key ideas are that unilateral actions by states are possible, further politi
 
 - The goal is to empower ordinary citizens and counter the outsized influence of wealth in politics. Political regime reform is key for progress on inequality.
 
- Here is a summary of the key points:
+ 
 
 - Democratic equality vouchers would provide public financing for political parties in a more egalitarian way compared to the current system. Citizens would receive a voucher that they can allocate to a party of their choice. This avoids biasing the political process towards the wealthy as occurs with private political financing.
 
@@ -3569,7 +3569,7 @@ The key ideas are that unilateral actions by states are possible, further politi
 
 - The goal should be trade and finance as means to higher ends, not ends in themselves. This can help resolve the contradictions between global economic integration and national policy autonomy.
 
- Here is a summary of the key points:
+ 
 
 - Development strategies have had varying degrees of success and failure. The norm today is for countries to devote 1% of GDP to developmental assistance, which is substantial but not extraordinarily generous. 
 
@@ -3581,7 +3581,7 @@ The key ideas are that unilateral actions by states are possible, further politi
 
 - The goal is to move decision-making into an open, deliberative setting instead of closed-door meetings dictated by national interests. This could transform debates on issues like taxing multinationals, climate change, migration, etc.
 
- Here is a summary of the key points:
+ 
 
 - The author describes an ideal scenario where transnational democratic assemblies could approve policies like free movement of people, equal access to education globally, and progressive taxation at the transnational level. However, currently EU states struggle to agree on common taxes and policies. 
 
@@ -3597,7 +3597,7 @@ The key ideas are that unilateral actions by states are possible, further politi
 
 Social democratic capitalism, which developed in the 1980s, is in crisis as rising inequality has made lower and middle classes wary of economic liberalism. This has fueled nationalist and authoritarian movements that could challenge the current trade system. Nationalist ideology will likely intensify competition between states, leading to fiscal and social dumping while encouraging anti-immigrant policies to unite native populations against foreign enemies. This is already happening in Europe, the US, India, Brazil, and China. To overcome these contradictions, we must move toward participatory and internationalist socialism based on social-federalist structures and a new cooperative world economy. While not answering every question, some solutions could gradually enable progress, demonstrating societies' capacity to imagine new ideological and institutional arrangements. The future will require transnational ideologies, but no society can live without an ideology to justify its inequalities.
 
- Here are the key points:
+ 
 
 - The proposed tax system consists of a progressive tax on property, a progressive tax on inheritance, and a progressive income tax, along with a carbon tax. No indirect taxes like VAT.
 
@@ -3611,7 +3611,7 @@ Social democratic capitalism, which developed in the 1980s, is in crisis as risi
 
 - The tax system aims to promote justice and equal opportunity. The revenues raised would allow investments in education, health, and the environment.
 
- Here is a summary of the key points:
+ 
 
 - The inheritance tax schedule in Table 17.1 proposes rates up to 90% on the largest inheritances, to finance a universal capital endowment of 120,000 euros per young adult. This would require extensive discussion. 
 
@@ -3627,7 +3627,7 @@ Social democratic capitalism, which developed in the 1980s, is in crisis as risi
 
 - Legal reforms may be needed to enable progressive taxes, such as constitutional amendments in the US. But overwhelmingly adopting progressive taxes can shift perceptions over time.
 
- Here is a summary of the key points:
+ 
 
 - Hollande's government did not fully implement his campaign promise to create a 75% tax bracket on incomes over 1 million euros. Ultimately, a temporary surtax was applied only to firms paying salaries over 1 million euros in 2013-2014. 
 
@@ -3641,7 +3641,7 @@ Social democratic capitalism, which developed in the 1980s, is in crisis as risi
 
 - Educational budgets should be rebalanced to avoid extreme concentration of resources in elite institutions attended by a small minority, and to improve access to higher education.
 
- Here is a summary of the key points:
+ 
 
 - Local taxes largely finance secondary education in the U.S., leading to inequality. Possible solutions include charging high tuition to wealthier students to subsidize poorer ones, or using educational capital allotments before age 25. 
 
@@ -3657,7 +3657,7 @@ Social democratic capitalism, which developed in the 1980s, is in crisis as risi
 
 - Parliamentary diversity should be encouraged through social quotas or sortition. Capital mobility rules that enable tax evasion should be challenged.
 
- Here is a summary of the key points:
+ 
 
 - The history of human societies can be seen as a continual struggle between competing ideologies about justice and equality. Ideas and ideologies matter greatly in shaping history. 
 
@@ -3673,7 +3673,7 @@ Social democratic capitalism, which developed in the 1980s, is in crisis as risi
 
 - The quest for justice is ongoing. Conclusions about inequality are always tentative and require more research and reflection. But studying history can clarify ideas about equality.
 
- Here is a summary of the key points:
+ 
 
 - The history of human societies can be seen as a quest for justice, involving the struggle of ideologies and clearly defined positions and antagonists. 
 
@@ -3853,7 +3853,7 @@ In summary, the chapter examines how modern property rights took shape after the
 
 So in summary, decolonization reshaped global politics but did not always change inequality within new nations. And the transition from communism often opened the door to new forms of oligarchy and unfair wealth concentration, sparking nationalist backlashes.
 
- Here is a summary of the key points:
+ 
 
 - The chapter examines political cleavages, electoral trends, and ideological divisions from 1945 to the present in France and other European countries. 
 

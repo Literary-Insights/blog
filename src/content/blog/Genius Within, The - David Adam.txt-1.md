@@ -57,7 +57,7 @@ BOOK LINK:
 
 - Our lives and opportunities are shaped by how well our brains perform at key moments. People seek ways to artificially boost intelligence for exams, interviews, first impressions, etc. which determine success or failure and the labels that stick with us.
 
- Here is a summary of the key points:
+ 
 
 - The passage compares immutable mental abilities (intelligence) to mutable physical attributes. Intelligence is still widely seen as fixed, whereas physical performance can be improved through medicine, exercise, etc. 
 
@@ -93,7 +93,7 @@ BOOK LINK:
 
 - The narrator joins Mensa after taking an IQ test but wants to improve his score through "cognitive enhancement." He decides to wait a year to retake the test to avoid the retest effect of familiarity. This gives him time to research ways to reliably increase intelligence and IQ, but he finds defining and measuring intelligence is very complex with ongoing debates. His goal of using enhancement to game the IQ test may not be so straightforward.
 
- Here is a summary of the key points:
+ 
 
 - The passage presents a thought experiment about 10 men and asks how many handshakes there would be total if they all shook hands with each other. It then provides the answer of 45 and explains the logic. 
 
@@ -149,7 +149,7 @@ Spearman built on Galton's work, testing children's senses and musical abilities
 
 So in summary, taking the experimental cognitive enhancement drug is what mainly led to his upturn in fortunes and new highly productive and successful lifestyle. The drug's effects on his mind is what propelled his changes.
 
- Here is a summary of the key points:
+ 
 
 - Modafinil and other "smart drugs" are purported to improve focus, reaction times and reduce fatigue, making them appealing study aids for students. However, others argue their use provides an unfair advantage and should be considered cheating.
 
@@ -225,7 +225,7 @@ However, the narrator also notes potential side effects and unknown long-term im
 
 - Genetics strongly influence brain wiring and circuitry underlying intelligence, similar to physical traits, though environment still plays a role. Brain connectivity patterns accurately predict intelligence based on cognitive task brain scans.
 
- Here is a summary of the key points:
+ 
 
 - The passage describes the controversial history of testing and research into the genetics of human intelligence. Early IQ tests in the US military had questionable validity but contributed to fears of "feeble-mindedness". 
 
@@ -249,7 +249,7 @@ However, the narrator also notes potential side effects and unknown long-term im
 
 - People could be diagnosed after brief examinations and sent away, stripping them from families and opportunities. Many were wrongly diagnosed, sometimes due to malice. Former inmates later spoke of being misdiagnosed.
 
- Here is a summary of the key points:
+ 
 
 - The book examines how tens of thousands of people were wrongly classified as "feeble-minded" and locked up by the British government for decades. An estimated 40,000 people were wrongly institutionalized. 
 
@@ -445,7 +445,7 @@ The passage discusses evidence that memories can be unexpectedly triggered in pe
 
 - With extensive practice, a psychology student was able to develop calendar calculating abilities similar to savants by automatizing the underlying calculations subconsciously, even if he could no longer explain his process consciously. This supports the idea savants rely on general subconscious mechanisms as well.
 
- Here is a summary of the key points:
+ 
 
 - The author attended a Mensa weekend meeting in Glasgow to learn more about high IQ society members and what united them. 
 
@@ -521,7 +521,7 @@ So in summary, the writer experimented with low-level electrical brain stimulati
 
 - While cognitive training may help prevent losses for older adults, doubts remain about broad claims of boosting general intelligence. More research is still needed.
 
- Here is a summary of the key points:
+ 
 
 - As people age, their mental faculties can decline, making everyday tasks like cooking, cleaning, personal finances more difficult. Brain training aims to mitigate these impacts but evidence is limited. 
 

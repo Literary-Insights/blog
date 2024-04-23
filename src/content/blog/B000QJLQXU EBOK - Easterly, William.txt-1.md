@@ -271,7 +271,7 @@ The experience suggests imposing private property through titling alone may incr
 
 - Despite failures of top-down reforms, there have been positive bottom-up market trends in Africa, Latin America and ex-Communist countries as new generations embrace opportunities and technologies like movies, phones, TVs and internet spread rapidly without government intervention. Individual stories also show people climbing out of poverty through entrepreneurship.
 
- Here is a summary of the key points:
+ 
 
 - Bolivia has struggled with political instability and economic stagnation for centuries, having had 195 presidents by the 1830s. This reflects deep divisions in its multi-ethnic society dominated by a white elite. 
 
@@ -409,7 +409,7 @@ But aid can also potentially worsen governance issues. High aid revenues that go
 
 - In general, the aid system struggles with conflicting goals of reforming governments, promoting government "ownership" and bypassing governments to directly fund projects. A gradual, experimental approach may work better than universal models.
 
- Here is a summary of the key points:
+ 
 
 - The passage cautions against giving governments a "blank check" through foreign aid, as some governments may abuse this power. It is difficult for outsiders to reliably determine which governments cannot be trusted in this way. 
 
@@ -425,7 +425,7 @@ But aid can also potentially worsen governance issues. High aid revenues that go
 
 - The principle should be nonintervention - don't reward bad governments but also don't try to overthrow or control them. Both the donor and recipient status quos need reform.
 
- Here is a summary of the key points:
+ 
 
 - The international aid bureaucracy, which includes organizations like the World Bank and USAID, has spent $2.3 trillion on poverty but has not been very effective in delivering critical services to the poor. 
 
@@ -481,7 +481,7 @@ Some factors that may have contributed to past success stories in aid include:
 
 Areas less likely to succeed involve goals that are general, invisible, and lack individual accountability, like overall economic growth. Aid agencies may overemphasize reporting on inputs like money spent rather than outputs or results due to lack of accountability. Politicians then reward agencies based on inputs rather than outcomes.
 
- Here is a summary of the key points:
+ 
 
 - Aid agencies produce many reports, frameworks and summits to showcase their activities and commitments to international goals like the Millennium Development Goals (MDGs). This emphasis on observable outputs over real results reinforces their incentive to set goals rather than achieve them. 
 
@@ -493,7 +493,7 @@ Areas less likely to succeed involve goals that are general, invisible, and lack
 
 - Some reports from aid agency research departments can still be valuable if produced through professional standards and accountable to external scrutiny, like some World Bank and IMF studies.
 
- Here is a summary of the key points:
+ 
 
 - The IMF's flagship report is the World Economic Outlook, which provides high-quality analysis of the global economy and its prospects. It receives significant media coverage. 
 
@@ -539,7 +539,7 @@ Some key points:
 
 So in summary, it advocates a more bottom-up and localized methodology that truly involves the poor and focuses on learning from experience rather than top-down utopian planning.
 
- Here is a summary of the key points:
+ 
 
 - Bureaucracies often struggle to effectively supply what the poor need due to complex and challenging conditions. The UN bureaucracy faces especially difficult problems as it has 191 member states with different political goals and lacks a clear constituency. 
 
@@ -589,7 +589,7 @@ While the IMF argues its financial discipline is needed, critics say imposing nu
 
 So in summary, independent financing could compromise stability and reforms, while forgoing IMF technical support and the role as lender of last resort might increase risks and costs of sovereign borrowing.
 
- Here is a summary of the key points:
+ 
 
 - The IMF often displayed overly optimistic assumptions in its country programs, underestimating risks and downplaying them in presentations to its Executive Board. This led to promises in programs that were difficult to achieve.
 
@@ -603,7 +603,7 @@ So in summary, independent financing could compromise stability and reforms, whi
 
 - In summary, the IMF's repeated lending and overly optimistic assumptions contributed to failure of adjustment programs and unsustainable debt burdens in many poor countries.
 
- Here is a summary of the key points:
+ 
 
 - AIDS has devastated many parts of sub-Saharan Africa, spreading from southern Uganda in the 1980s to present-day South Africa where 30% of pregnant women in their 20s test HIV positive. Countries like Botswana, Lesotho, Swaziland and Zimbabwe have HIV rates of over 30% among adults. 
 
@@ -627,7 +627,7 @@ Foreign aid is impacted by this paradox in its response to the AIDS crisis in Af
 
 In contrast, foreign aid has had successes in health areas like immunization and disease eradication. These narrower objectives that directly help the poor may be easier for aid to achieve when goals are clear, monitorable, and politically supported.
 
- Here is a summary of the key points:
+ 
 
 - Early in the AIDS epidemic, prevention efforts were lacking even though "an ounce of prevention is worth a pound of cure." Agencies were slow to recognize and address the growing crisis in Africa. 
 
@@ -667,7 +667,7 @@ In contrast, foreign aid has had successes in health areas like immunization and
 
 - While more funding for health in developing countries is needed, prioritizing the highest impact interventions is important given limited resources. Spending on education to reduce transmission has far higher impact than expensive treatment per person saved. But aid agencies avoid making difficult trade-offs.
 
- Here is a summary of the key points:
+ 
 
 - Money for aid and healthcare is limited, so trade-offs must be made between spending on different health issues like AIDS, malaria, diarrhea, etc. Spending vast amounts on AIDS treatment means less available for other life-saving interventions. 
 
@@ -683,7 +683,7 @@ In contrast, foreign aid has had successes in health areas like immunization and
 
 So in summary, it argues the case for prioritizing AIDS treatment is flawed given limited resources and weak healthcare systems, and prevention should be the main focus to actually stop the crisis.
 
- Here is a summary of the key points:
+ 
 
 - There is a renewed interest in imperialism and neotrusteeship/postmodern imperialism in Western policy circles. This involves high levels of foreign control over domestic politics and economies in weak states. 
 
@@ -929,7 +929,7 @@ In summary, the passage discusses how homegrown reforms and searchers, not Weste
 
 - Nyarko became an expert in game theory and economics, joining the faculty at Brown and now NYU, where he also helps develop NYU's study site in Accra to support research and education in Ghana.
 
- Here is a summary of the key points:
+ 
 
 - Yaw Nyarko is a professor who has volunteered his time to teach economics at Ashesi University in Ghana. He wants to start an interdisciplinary research center in Africa at NYU called Africa House. 
 
@@ -941,7 +941,7 @@ In summary, the passage discusses how homegrown reforms and searchers, not Weste
 
 - In summary, it analyzes criticisms of foreign aid's past approaches and offers cautious thoughts on reforms to make aid more accountable and effective at achieving outcomes that help individuals out of poverty.
 
- Here is a summary of the key points:
+ 
 
 - Aid agencies need to move away from top-down planning and collective responsibility, and toward managing for results based on close dialogue with partner governments and stakeholders. 
 
@@ -955,7 +955,7 @@ In summary, the passage discusses how homegrown reforms and searchers, not Weste
 
 - Both targeted experiments and statistical analysis are needed, as well as problem-solving adapted to local contexts, for aid to be most effective. Ongoing learning and evaluation should guide reform efforts.
 
- Here is a summary of the key points:
+ 
 
 - Aid agencies tend to shift staff frequently, so staff do not gain enough localized experience and knowledge of particular problems. This leads to a lack of specialized expertise. 
 
@@ -1059,7 +1059,7 @@ In summary, the passage discusses how homegrown reforms and searchers, not Weste
 
 The sources then provide analyses and evidence related to institutions, governance, democracy, development and economic growth across various countries.
 
- Here is a summary of the key points:
+ 
 
 - The World Bank initially saw AIDS as mainly an economic issue and tried to target "core transmitters" like prostitutes, but Helen Epstein argued it spread through general sexual networks. 
 

@@ -40,7 +40,7 @@ BOOK LINK:
 
 - Incentives are tools to motivate behavior change, but they must be designed carefully to also reinforce positive social and self signals, not just create direct economic motivation. Simply providing incentives does not guarantee success if they undermine intrinsic motivation.
 
- Here is a summary of the key points:
+ 
 
 - Signals play an important role in signaling credibility and distinguishing authenticity from faking. Costly signals that are difficult to fake, like tattoos, are more credible than reversible signals like clothing. 
 
@@ -184,7 +184,7 @@ The key takeaway is that if you want to encourage long-term success, you need to
 
 - The size of fines sends strong signals about what behavior is acceptable. Small fines can reframe negative behaviors as tolerable by establishing them as a price. Incentives must consider psychological and signaling effects to avoid unintended consequences.
 
- Here is a summary of the key points:
+ 
 
 - A mother from New Zealand was fined $55 for being one minute late to pick up her child from daycare. The daycare has a flat $20 fee for being late, plus $35 for 1-30 minutes late and $85 for 31-60 minutes late. 
 
@@ -218,7 +218,7 @@ The key takeaway is that incentives need to be carefully designed to change beha
 
 - A school experiment tested "loss aversion" incentives, giving teachers $8,000 upfront to return based on student performance, versus traditional bonuses. It aimed to leverage people's tendency to lose more psychologically from losses than gain equally from gains.
 
- Here is a summary of the key points:
+ 
 
 - Loss aversion and regret aversion are psychological phenomena where people are motivated more by avoiding losses and regrets than gaining rewards. 
 
@@ -316,7 +316,7 @@ The study demonstrates the value of using incentives experimentally to properly 
 
 - In summary, a pay to quit offer can reveal an employee's actual motivation level and commitment, improving employee quality over the long run through self-selection and incentivizing better performance from those who choose to stay.
 
- Here is a summary of the key points:
+ 
 
 - It is common for people to make New Year's resolutions or health goals after a doctor's visit but fail to follow through in maintaining the changed behavior over time. People tend to be overconfident in their ability to sustain motivation and change habits long-term.
 
@@ -342,7 +342,7 @@ The study demonstrates the value of using incentives experimentally to properly 
 
 - Understanding how incentives interact with habit formation and motivation is key to using incentives to promote sustained behavior change in domains like health, productivity, and environment.
 
- Here is a summary of the key points:
+ 
 
 - A study found that people tended to overestimate how often they would continue exercising after an incentive program ended. They were partially naive about their own lack of self-control. 
 
@@ -480,7 +480,7 @@ To counter this, the passage recommends front-loading incentives so rewards are 
 
 So in summary, anchoring and contrast effects are cognitive biases that negotiations can strategically leverage to one's advantage through the initial offer or asking price.
 
- Here is a summary of the key points:
+ 
 
 - An experiment presented students with two job options at different magazines. Option A had a higher salary but other workers made more, while option B had a lower salary but other workers made less. More students chose option B when asked which job they'd be happier at, even though the salary was lower. 
 
@@ -494,7 +494,7 @@ So in summary, anchoring and contrast effects are cognitive biases that negotiat
 
 - The norm of reciprocity means people feel obliged to return favors. A seller who negotiates in good faith and makes concessions can trigger this norm to get the buyer to make further concessions in return.
 
- Here is a summary of the key points:
+ 
 
 - Robert Cialdini argues in his book Influence that the norm of reciprocity can elicit favors even when an initial kindness is not genuine, but specifically created to induce a return favor. He gives the example of Hare Krishna devotees who give out flowers and then immediately ask for donations. 
 
@@ -518,7 +518,7 @@ So in summary, anchoring and contrast effects are cognitive biases that negotiat
 
 - While incentives have mainly encouraged vaccination, some see mandates and "health passes" as overreach that impose beliefs, and there are legal and moral objections to consider as well just as there were for seatbelt laws. Overall it's a complex issue with reasonable arguments on both sides.
 
- Here is a summary of the key points:
+ 
 
 - In the late 1980s, some resisted seatbelt laws by cutting belts out of cars or challenging laws in court on individual freedom grounds. They argued the government shouldn't "tie up Americans" in seat belts. 
 
@@ -624,7 +624,7 @@ Today, trulli are mainly used as homes, shops, or attractions for tourists. The 
 
 - Social incentives through comparative feedback on behaviors like energy use can motivate changes. Prosocial incentives appeal to altruism rather than money.
 
- Here is a summary of the key points:
+ 
 
 - The PWYW (pay what you want) pricing model allows customers to pay any amount for a good or service, including nothing. This can increase access but may reduce revenues. It was used for CD sales by radiohead and books by author Mike Young. 
 

@@ -115,7 +115,7 @@ The passage discusses some fundamental principles about love. It argues that tru
 
 The overall message is that love is internal, not external. True love is expressed through understanding others and meeting their needs, not through seeking validation, approval or reciprocation from them. One must cultivate love from within to share it authentically with others.
 
- Here is a summary of the key points:
+ 
 
 - Loss is not just about losing a person through death, but also losing dreams, hopes, plans, etc. that didn't come to fruition. These types of non-physical losses can still have a major impact if not properly acknowledged and processed. 
 
@@ -169,7 +169,7 @@ The passage notes that when people do fail or face rejection, it confirms deep-s
 
 - To move past fear, one must question the meanings and perceptions behind it rather than taking the fear itself at face value. Fear is a subjective, constructed experience rather than an objective threat.
 
- Here is a summary of the key points:
+ 
 
 - The story describes how a person's life has become consumed by fear, taking over their prime time and sense of identity. Fear now drives their actions and choices rather than being a companion. 
 
@@ -211,7 +211,7 @@ So in summary, the person is using fear as their primary identity but is learnin
 
 - Having the right relationship with failure is important. You don't need to love failure, but you shouldn't be afraid or discouraged by it either - see it as an inevitable part of success and keep pursuing your goals.
 
- Here is a summary of the key points:
+ 
 
 - The passage encourages the reader to consider their "life's work" or legacy - what they want to leave behind after they die. It stresses the importance of having a purpose or project that outlives the individual. 
 

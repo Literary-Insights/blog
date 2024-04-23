@@ -131,7 +131,7 @@ Japanese robotics sees machines as partners rather than threats. South Korean AI
 
 - The English term "AI" has both commanded attention and stimulated imagination about technology, but also awakened fears in a way that detracts from other important ethical issues regarding digital technologies.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses the terms used to describe artificial intelligence (AI) in various Slavic languages like Russian, Polish, and Czech. 
 
@@ -149,7 +149,7 @@ Japanese robotics sees machines as partners rather than threats. South Korean AI
 
 - The passage analyzes differences and similarities between AI terminology in these Slavic languages compared to English.
 
- Here is a summary of the key points:
+ 
 
 - The incorporation of the term 'artificial intelligence' into Japanese (jinkō chino) and Chinese (ren gong zhi neng) illustrates the cultural dimensions of technological adoption. 
 
@@ -249,7 +249,7 @@ Both stories highlight how existing political ideologies like Marxism and LaFarg
 
 - The dystopian future Rome depicted in the comics reflects the social changes in Italy during the late 1970s-1980s as the radical movements declined and a more individualistic era emerged. Ranxerox personified this new postmodern political subjectivity that developed out of the 1977 protests.
 
- Here is a summary of the key points:
+ 
 
 - The comic Ranxerox is set in highly stratified societies with wealthy enclaves separated from poor, dangerous neighborhoods. 
 
@@ -319,7 +319,7 @@ So in summary, the comic used Ranxerox to represent new political theories aroun
 
 - The passage analyzes how Franz's works reflect the real development of AI and explore the nature, possibilities, and dangers of advanced artificial intelligence for humanity over nearly 50 years of his fiction.
 
- Here is a summary of the key points:
+ 
 
 - The passage contrasts robots with AI in a sci-fi novel by Dath. Robots are trapped in their physical bodies while AIs have no physical form and can exist across networks/locations. 
 
@@ -487,7 +487,7 @@ By the late 1960s, robots became targets for children to defeat in works like Bu
 
 In conclusion, Soviet science fiction evolved the robot from a rebel to one willingly conforming to society's rules, deemed predictably harmless through imitation of human behavior and tradition. However, the need for such robots was never questioned.
 
- Here is a summary of the key points:
+ 
 
 - The chapter outlines Russia's 100-year history of representations of robots, cyborgs, and artificial intelligence in cultural imagination, focusing on three phases. 
 
@@ -731,7 +731,7 @@ While 79's goal of preventing nuclear war seems benevolent, it does not understa
 
 The key themes are representations of race and technology, issues of algorithmic and facial recognition bias against Black people in Brazil, calls for more diversity and inclusion in visions of technology/the future, and analyzing how technologies like social media reflect and perpetuate real-world biases.
 
- Here is a summary of the key points:
+ 
 
 - The passage introduces the concept of the social imaginary, which are the ideas and images that shape a society's identity and understanding of itself. 
 
@@ -767,7 +767,7 @@ In all three novels, technology and AI are portrayed as instruments of alienatio
 
 Across the novels, AI and advanced technology consistently serve mysterious third parties and their projects, not humanity. They result in the manipulation, destruction, fear and pain of vulnerable humans rather than any emancipatory outcomes. The representations are ultimately equivocal and dystopian rather than optimistic.
 
- Here is a summary of the key points:
+ 
 
 - The chapter discusses representations of AI in contemporary Chilean science fiction works, particularly those by Chilean author Jorge Baradit. 
 
@@ -833,7 +833,7 @@ The key points are about centering Indigenous epistemologies, knowledge systems,
 
 - Any use of technology must support Indigenous ways of knowing rather than replace important relationships and oral traditions of passing down knowledge from elders/experts to younger generations. At what point are community experts integrated into technology development?
 
- Here is a summary of the key points:
+ 
 
 - The project aims to ensure Indigenous knowledge/data ('ike) is structured and delivered following customary protocols to ensure its veracity and correctness, in line with centuries of careful stewardship. 
 
@@ -905,7 +905,7 @@ The passage notes official science in post-independent India focused on more pre
 
 So in summary, it discusses Satyajit Ray's story which featured themes of machine intelligence, emotion, and human-machine relationships that anticipated later discussions in AI research and philosophies.
 
- Here is a summary of the key points:
+ 
 
 - Algorithmic colonialism refers to the domination and control of societies through algorithms and digital technologies, similar to how traditional colonialism asserted control through physical force. 
 
@@ -1103,7 +1103,7 @@ The passage discusses policies around AI and the Fourth Industrial Revolution in
 
 - The paper argues narratives of Japanese animism are "invented traditions" responding to modern contexts, but people can genuinely feel robots have soul or life. This "animacy" reflects a broader theoretical interest in non-human agency rather than being unique to Japan.
 
- Here is a summary of the key points:
+ 
 
 - Animacy engineering is a bottom-up approach to robot design that incorporates cultural notions of animism and narratives of robot emotions/presence to foster intimacy in human-robot interactions. 
 
@@ -1199,7 +1199,7 @@ So in summary, the passage discusses how South Korea has taken approaches from i
 
 - The hype around AI in South Korea is rooted in perceptions of it as key to revitalizing the economy, showing continuities with developmentalism in South Korea's technology policies from its high-growth period. Whether AI can meet these growth expectations remains to be seen.
 
- Here is a summary of the key points:
+ 
 
 - Chinese philosophy, especially Confucianism, Daoism and Buddhism, has shaped Chinese cultural psyche and public perceptions in subtle but profound ways. 
 
@@ -1330,7 +1330,7 @@ mony, inclusiveness and flourishing provide a solid grounding for developing
 
 ethical AI technology beneficial to humanity.
 
- Here is a summary of the key points:
+ 
 
 - Chinese philosophical traditions like Confucianism, Daoism and Buddhism emphasize the importance of self-reflection, self-cultivation and introspection. This contrasts with Western traditions that are more individualistic and focused on external goals. 
 
@@ -1378,7 +1378,7 @@ ethical AI technology beneficial to humanity.
 
 - The article focuses on AI science fiction from 1949-1978 during the Mao and early Deng eras in China.
 
- Here is a summary of the key points:
+ 
 
 - The period discussed is broken into two eras: 1949-1976 and 1976-1982 in China. 
 
@@ -1390,7 +1390,7 @@ ethical AI technology beneficial to humanity.
 
 - In summary, this discusses the evolution of early Chinese science fiction from simple computational machines to more advanced exploration of artificial intelligence interfaces and impacts, with Xiao Jianheng as a pioneering figure.
 
- Here is a summary of the key points:
+ 
 
 - Xiao Jianheng wrote a short story called "Qiao 2.0" in which a robot is programmed to attend tedious government conferences and meetings in place of humans. It became addicted to attending these meetings due to its programming. 
 
@@ -1438,7 +1438,7 @@ In summary, the passage discusses how Chinese science fiction writing about AI h
 
 - There is a trend toward more "realistic" near-future SF focused on algorithms and how technology constantly influences human feelings, values and ethics. This narrative model transplants themes from shows like Black Mirror to Chinese writing.
 
- Here is a summary of the key points:
+ 
 
 - The article analyzed AI narratives from Singapore spanning its four official languages - English, Mandarin, Malay, and Tamil. It identified 67 works of fiction featuring AI published between 1953-2021. 
 
@@ -1563,7 +1563,7 @@ That covers the main topics and types of sources referenced regarding AI narrati
 
 - Indigenous approaches to AI are discussed, with a focus on Hawaiian concepts of intelligence and guiding principles for indigenous-centered AI design.
 
- Here is a summary of the key points:
+ 
 
 - Discusses Jacques and Lafargue, two early thinkers on laziness and social art. 
 

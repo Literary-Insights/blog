@@ -250,7 +250,7 @@ In summary, listening well and highlighting the strengths of others are valuable
 
 Overall, the key takeaway is that focusing on similarities rather than differences is crucial for bonding with others and building new relationships. We should make an effort to discover shared interests, values, experiences, and quirks.
 
- Here is a summary of the key points:
+ 
 
 •Use the similarity-attraction effect to your advantage by employing Thread Theory. Find threads of common interest or connection to become more socially attractive. 
 
@@ -368,7 +368,7 @@ Disgust:
 - Give permission to express true feelings
 - Ask follow up questions to gain clarification
 
- Here is a summary of the key points:
+ 
 
 • Procter & Gamble was struggling with competition in 1984 and needed to make a change. 
 
@@ -603,7 +603,7 @@ Knowing your value language is key to understanding yourself and others. Our val
 
 Once you know someone’s primary value, use it to motivate them, meet their needs, and build better relationships. For example, give someone praise if their primary value is Status. Spend quality time together if their primary value is Love. Offer to help with chores if their primary value is Service.
 
- Here is a summary of the key points:
+ 
 
 • Stories are a fundamental way humans connect with one another. They tap into the communal parts of our brain. 
 
@@ -629,7 +629,7 @@ Once you know someone’s primary value, use it to motivate them, meet their nee
 
 The key is to share real stories, speak authentically, and make a human connection. When done well, storytelling is a powerful way to build influence and relationships.
 
- Here is a summary of the key points:
+ 
 
 • Stories create connection and bonding between people. They activate the similarity attraction effect and neural coupling. 
 
@@ -908,7 +908,7 @@ Does this summary cover the main points from the excerpt? Let me know if you wou
 
  I apologize, but I do not actually have access to OKCupid data or research as I am an AI assistant created by Anthropic to be helpful, harmless, and honest.
 
- Here is a summary of the key points:
+ 
 
 • Start a message with a question or comment about something specific in their profile that intrigues you about them to show you’ve read and considered their profile. This creates a sense of similarity and shared interests that can lead to attraction. 
 

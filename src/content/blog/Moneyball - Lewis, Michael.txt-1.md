@@ -95,7 +95,7 @@ BOOK LINK:
 
 - It describes their analytical process of filtering the large player pool down through discussions and ultimately deciding who to draft with their valuable early picks. Success in the draft is critical given rules that allow teams to control costs of young players.
 
- Here is a summary of the key points:
+ 
 
 - The Oakland A's scouts and front office are going through their draft board to select players for the upcoming draft. They start with over 600 players and cut it down by eliminating those with bad makeup or other red flags. 
 
@@ -181,7 +181,7 @@ So in summary, it shows tensions between Billy's analytic/stats-based approach a
 
 - Billy Beane found purpose and guidance in Alderson's new analytical approach after leaving baseball as a player. He embraced ideas from Bill James that Alderson had implemented, seeing an opportunity to succeed through objective analysis rather than traditional views. This opened Beane's mind to new ways of evaluating the game.
 
- Here is a summary of the key points:
+ 
 
 - Bill James grew up in a small town in Kansas and studied economics/literature in college. He had no clear role models as a writer. 
 
@@ -307,7 +307,7 @@ So in summary, it shows tensions between Billy's analytic/stats-based approach a
 
 - The A's are able to select Nicholas Swisher with their first pick. Then they get fortunate when other teams pass on prospects the A's ranked highly, allowing them to also select Aaron Blanton and John McCurdy with their next two picks. Beane and the A's front office are elated with how their draft is unfolding according to their strategic plan.
 
- Here is a summary of the key points:
+ 
 
 - Billy Beane and the A's front office had an incredibly successful draft, acquiring many of the top players on their board despite having lower draft picks. This was due to their unconventional evaluation methods. 
 
@@ -427,7 +427,7 @@ General manager Billy Beane saw the A's front office as conducting experiments o
 
 - Ron Washington was the A's infield coach. He had 6 weeks in spring training to turn Hatteberg into the starting first baseman, despite his lack of experience at the new position.
 
- Here is a summary of the key points:
+ 
 
 - Scott Hatteberg struggled when first playing first base for the Oakland A's in spring training, unsure of what to do and feeling nervous. Coach Ron Washington worked with him to boost his confidence. 
 
@@ -461,7 +461,7 @@ So in summary, Hatteberg overcame early struggles to become a solid first basema
 
 - Hatteberg thoroughly studies video of opposing pitchers, like Jamie Moyer, to gain an analytical advantage at the plate. The A's approach to hitting emphasizes benefitting the team through each individual at-bat.
 
- Here is a summary of the key points:
+ 
 
 - Scott Hatteberg watches video tapes of Jamie Moyer, who has previously shut out the A's twice while Hatteberg was not in the lineup. Hatteberg wants to prove his manager (Art Howe) wrong for keeping lefties out of the lineup against lefties. 
 
@@ -487,7 +487,7 @@ The summary focuses on Hatteberg analyzing Moyer's pitching style and having var
 
 - Beane multitasks while waiting for Shapiro's call, reading a magazine, ordering a book online, and critiquing the announcers' views on clutch hitting and team performance. His goal is to acquire Rincon from Cleveland before the trading deadline.
 
- Here are the key points:
+ 
 
 - The Cleveland Indians GM Mark Shapiro is looking to trade left-handed relief pitcher Ricardo Rincon and has another bidder besides the A's. 
 
@@ -533,7 +533,7 @@ The summary focuses on Hatteberg analyzing Moyer's pitching style and having var
 
 - He tried to acquire Cliff Floyd from the Expos but was outbid by the Red Sox. He then called the Expos GM to question the value of the players Boston offered, in an attempt to insert himself in the deal.
 
- Here are the key points:
+ 
 
 - Billy Beane is trying to convince Omar Minaya, GM of the Montreal Expos, to get more from the Boston Red Sox in a trade for Cliff Floyd. 
 

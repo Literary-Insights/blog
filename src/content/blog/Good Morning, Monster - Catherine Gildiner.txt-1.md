@@ -361,7 +361,7 @@ So in summary, through addressing the trauma of his childhood abuse, Peter was a
 
 - Over time, Danny shared more details of his childhood with the therapist in their weekly sessions. The therapist listened without judgement and tried to gain Danny's trust to help process his trauma from being taken to the residential school.
 
- Here is a summary of the key points:
+ 
 
 - Danny attended a residential boarding school for Indigenous children where speaking Indigenous languages was banned and punished. He was severely beaten for saying "hello" to his sister in Cree. 
 
@@ -377,7 +377,7 @@ So in summary, through addressing the trauma of his childhood abuse, Peter was a
 
 - Recounting these traumatic memories was very difficult for Danny, and at one point he abruptly left a therapy session, a sign of how deeply affected he remained.
 
- Here is a summary of the key points:
+ 
 
 - Danny abruptly left therapy in the middle of a session, the first time a patient had done so. This left the therapist concerned he had failed in some way. 
 
@@ -433,7 +433,7 @@ So in summary, through addressing the trauma of his childhood abuse, Peter was a
 
 - Danny began to see himself in a more objective, positive light as he made emotional progress in therapy over three years. But reconnecting with his Indigenous culture and healing was an important next step.
 
- Here is a summary of the key points:
+ 
 
 - Danny visits his father's reserve for the first time in decades. He is shocked by how his father has deteriorated physically and mentally due to alcoholism. 
 

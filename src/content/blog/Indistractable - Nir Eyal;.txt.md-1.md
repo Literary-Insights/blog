@@ -11,7 +11,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 ---
 
 
- Here is a summary of the key points:
+ 
 
 - We can strengthen our willpower and self-control through practice and by cultivating a growth mindset about abilities and personality. Our traits and capabilities are malleable, not fixed.
 

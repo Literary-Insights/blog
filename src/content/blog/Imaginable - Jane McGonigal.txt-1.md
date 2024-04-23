@@ -270,7 +270,7 @@ So in summary, the passage uses the example of changing sunrises/sunsets on Mars
 
 - Examples are given of how participants who imagined a pandemic scenario were mentally prepared when COVID-19 emerged, allowing them to act quickly and help others during the real crisis. Imagining the future can function like a kind of exposure therapy for difficult situations.
 
- Here are the key points:
+ 
 
 - Dator's Law states that different people find different future ideas ridiculous based on their own assumptions. The more ridiculous an idea seems, the more it challenges our assumptions.
 
@@ -988,7 +988,7 @@ Key points:
 
 In summary, this section analyzes emerging and long-term disease impacts, with a focus on Alpha-Gal Syndrome as an example of a emerging issue tied to environmental factors like climate change. It explores both scientific evidence and creative tools for building resilience.
 
- Here is a summary of the key points from the sources:
+ 
 
 - Climate change is increasing the risk of ticks and tick-borne diseases like Lyme disease in many parts of the world as temperatures rise and tick habitat expands. Ticks are being found in more northern and urban areas. 
 

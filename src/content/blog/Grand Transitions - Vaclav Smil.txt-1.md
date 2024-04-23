@@ -189,7 +189,7 @@ Declining mortality played a major role in triggering demographic transitions as
 
 - Other impacts were improved health, nutrition, education levels, female empowerment, and unprecedented population growth creating temporary rapid increases before slowing again.
 
- Here is a summary of the key points:
+ 
 
 - Global population growth rates increased steadily from the late 17th century until peaking at around 2.1% in the mid-20th century. Demographers predicted the growth would lead to a "singularity" in 2026 but this did not occur. 
 
@@ -353,7 +353,7 @@ In summary, urbanization has led to profound social changes while cities have be
 
 So in summary, broiler production has seen the greatest long-term efficiency gains, while beef remains inherently the least efficient meat to produce on a feed conversion basis. Pigs are more efficient than ruminants but breeding has reduced some gains from improved feeding.
 
- Here is a summary of the key points:
+ 
 
 - Reports of food consumption from surveys are estimates based on what people remember and report eating, not completely accurate records. 
 
@@ -447,7 +447,7 @@ So in summary, broiler production has seen the greatest long-term efficiency gai
 
 - Other issues discussed include soil contamination from heavy metals, plastic pollution from thin films used on fields, water contamination leading to dead zones, and greenhouse gas emissions from agriculture and food transportation.
 
- Here is a summary of the key points:
+ 
 
 - Before the Industrial Revolution, nearly all energy came from biomass fuels like wood, charcoal, and crop residues burned inefficiently in open fires. This produced high pollution indoors. 
 
@@ -999,7 +999,7 @@ As for how Pinker would classify mass incarceration, he would likely see it as a
 
 - The global energy system relies on fossil fuels for over 80% of energy. Replacing the infrastructure and systems at the terra-ton scale would cost over $30 trillion. National efforts alone cannot replace global emissions growth. Projections of rapid decarbonization are unrealistic given the complexity and scale of the transition required.
 
- Here is a summary of the key points:
+ 
 
 - Hydrogen has potential as a future fuel but electricity also has potential advantages with advancements in energy storage. It's too early to say which will dominate. 
 
@@ -1277,7 +1277,7 @@ The other sources are similarly summarized with key details about author(s), tit
 
 - Energy transitions involving shifts from traditional biomass to fossil fuels like coal have powered industrialization but also increased pollution levels. Countries are now transitioning to more sustainable energy sources.
 
- Here is a summary of the key points:
+ 
 
 - China's population is undergoing transitions including slowing population growth, aging, and potential future population decline. The one-child policy helped reduce fertility rates. Urbanization is increasing rapidly. 
 
@@ -1289,7 +1289,7 @@ The other sources are similarly summarized with key details about author(s), tit
 
 - Energy transitions included shifting from animate power to water and wind power, then to coal and oil. Electrification and more efficient engines drove major changes. Future transitions may focus on decarbonization and developing sustainable systems.
 
- Here is a summary of the key points from the provided text:
+ 
 
 - The tenment system in Europe during the late Middle Ages resulted in overuse of resources and land degradation as population grew. Landlords had little incentive to improve lands or practice sustainable management. 
 
@@ -1339,7 +1339,7 @@ Kuznets, Simon, 168, 279–80
 
 So in summary, the first entry notes obesity is a problem in Kuwait, and the second provides more context around the prominent 20th century economist Simon Kuznets and his influential theories around economic development and inequality.
 
- Here is a summary of the key points:
+ 
 
 - On: Refers to page numbers in a source text. 
 

@@ -37,7 +37,7 @@ BOOK LINK:
 
 - Reviews praise the insider perspective, unique points of view, compelling storytelling, and life-changing insights provided in the book.
 
- Here is a summary of the key points:
+ 
 
 - The author reflects on how Brian started the "doctor Bruh chain" on TikTok by tagging other doctors to respond to videos. 
 
@@ -231,7 +231,7 @@ The passage also discusses how parents initiate their children's extensive onlin
 
 It provides an example of a boy whose behavioral issues in school were widely shared online by his mother. The passage questions how the child may feel about this digital documentation of his childhood in the future and how it could impact him. Overall it raises legal and ethical issues around children's online presence and privacy.
 
- Here is a summary of the key points:
+ 
 
 - In the past, if something unusual or scandalous happened, there was less space in print media like newspapers for average people to share their stories. Extreme stories were often saved for tabloid publications like the National Enquirer. 
 
@@ -329,7 +329,7 @@ So in summary, it describes a more left-brained, logical, evidence-based and fac
 
 - In summary, various problematic online behaviors like misinformation, scams and deepfakes threaten trust and stability in society. While free speech must be balanced, such behaviors have the potential for significant harm if left unchecked.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses the potential differences between traditional celebrities and social media influencers. It lays out criteria to distinguish influencers from celebrities who are just active on social media. 
 
@@ -409,7 +409,7 @@ The chapter discusses how social media may negatively impact focus and productiv
 
 Overall, the passage discusses how social media is highly habit-forming due to psychological factors like dopamine responses. This constant checking and scrolling impacts productivity for students, workers, and impacts other areas of life due to the significant amount of daily time spent on platforms.
 
- Here is a summary of the key points:
+ 
 
 - The recruitment firm argues that social media can be addictive and cause employees to waste company time by browsing excessively even during breaks. It can also raise privacy, reputation and morale issues if overshared or controversial content is posted. 
 
@@ -467,7 +467,7 @@ So in summary, it discusses how social media enables the rapid formation and spr
 
 In summary, the article examines the thin line between religions, cults and social media influencers, highlighting cases where fame, isolation and deception have enabled exploitation and harm. It urges caution in putting trust in online personalities.
 
- Here is a summary of the key points:
+ 
 
 - Social media groups led by influencers can provide needed community and support for marginalized groups who may experience bullying or prejudice based on their sexual orientation. These groups allow people to be themselves without fear of taunts or threats. 
 
@@ -579,7 +579,7 @@ The key messages are that mistakes happen and should be an opportunity to improv
 
 Overall, the key message is that involved, engaged parenting around social media use helps safeguard children while passive, uninvolved parenting leaves them more vulnerable to online threats. Developing open communication and setting reasonable expectations supports children's healthy development.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses the future of social media influence and how certain trends may play out. It touches on topics like live video becoming more popular, anonymity declining which could curb trolling, and social media surpassing traditional search engines for information. 
 
@@ -593,7 +593,7 @@ Overall, the key message is that involved, engaged parenting around social media
 
 So in summary, the passage considers various ways social media trends, technology, and platforms may evolve in influencing society and individuals in the future, both within existing realms and possibly new virtual worlds.
 
- Here is a summary of the key points:
+ 
 
 - The word "meta" comes from the Greek word meaning "after" or "beyond". When used in terms like "metaphysical" it refers to something beyond the physical world or senses. 
 
@@ -665,7 +665,7 @@ The cursor up or down allows a user to view posts in chronological order on the 
 
 - Link 8 presents a conceptual framework examining how identity development, media influence, and social needs shape adolescent online behavior and its effects on well-being. It explores how social comparison on platforms may impact self-esteem.
 
- Here is a summary of the key points from the sources:
+ 
 
 - Influencer OnlyJayus on TikTok has faced criticism and a petition calling for her ban over controversial and potentially harmful content. Concerns include promoting self-harm, misrepresenting mental illness, and negatively influencing vulnerable youth. 
 

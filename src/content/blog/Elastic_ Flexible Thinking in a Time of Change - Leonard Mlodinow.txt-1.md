@@ -89,7 +89,7 @@ So in summary, it introduces the concept of "elastic thinking" as a cognitive st
 
 - In modern society, this same drive manifests in personal exploration through activities, socializing, hobbies, career changes, business ventures, and relationships.
 
- Here is a summary of the key points:
+ 
 
 - Thought involves processing sensory information and using it to interpret situations and choose appropriate actions, which helps animals solve problems of survival and reproduction. 
 
@@ -225,7 +225,7 @@ So in summary, the passage compares the distributed networks of concept cells th
 
 In summary, the brain and some organizations can benefit from a balance of bottom-up and top-down processing, generating both purposeful and creative/flexible outcomes. Ant colonies rely solely on bottom-up processes without higher-level control.
 
- Here are the key points:
+ 
 
 - David Wallerstein had an insight that people may want more popcorn but not want to look gluttonous by buying a second bag. 
 
@@ -441,7 +441,7 @@ Damage to the lateral PFC, as in the author's father after a stroke, can lead to
 
 The author argues that innovative ideas often sound "nutty" at first. Scientists must allow ideas to flow freely and not overly censor them based on initial assessments. Successful innovation requires generating many ideas and discarding failed concepts. Maintaining a sense of open-mindedness and curiosity can help resist over-filtering ideas as we gain experience.
 
- Here is a summary of the key points:
+ 
 
 - In 1978, George Lucas, Steven Spielberg, and Lawrence Kasdan had meetings in Los Angeles to discuss ideas for Indiana Jones films. A transcript of 90 pages reveals some questionable ideas they floated. 
 

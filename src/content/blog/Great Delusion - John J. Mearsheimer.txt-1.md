@@ -167,7 +167,7 @@ The passage discusses some key challenges to global domination or the formation 
 
 The core point is that geographical dispersion and barriers, as well as the willfulness of diverse human groups, pose fundamental obstacles to any attempt at total global domination or control by a single political entity. Distance and terrain diminish a expanding power's ability to assert its will over others.
 
- Here is a summary of the key points:
+ 
 
 - Political liberalism is founded on two main assumptions: 1) all individuals are equally entitled to natural rights like life, liberty, and the pursuit of happiness, and 2) humans have the ability to reason and resolve differences rationally. This represented a break from premodern theories that saw humans as naturally political/social beings or some as naturally fit to rule.
 
@@ -179,7 +179,7 @@ The core point is that geographical dispersion and barriers, as well as the will
 
 So in summary, liberalism is founded on ideas of individual rights and reason but acknowledges disagreement, proposing a limited state and political tolerance as a solution to maintain social peace in the face of philosophical/moral differences.
 
- Here is a summary of the key points:
+ 
 
 - Liberalism seeks to ameliorate political conflict by giving individuals freedom to live as they see fit, thus reducing reasons for fighting over core principles. However, this also risks emptying politics of meaningful debates. 
 
@@ -207,7 +207,7 @@ So in summary, liberalism is founded on ideas of individual rights and reason bu
 
 - The state's role should be limited to maintaining order and allowing people maximum freedom to live as they choose, with no place for an expansive welfare state. Overall it offers a limited and non-progressive view of politics.
 
- Here is a summary of the key points:
+ 
 
 - Bounded progressivism, as exemplified by Rawls, acknowledges that there is no consensus on life's big questions or universal principles. Citizens in liberal societies hold diverse, "reasonable" but irreconcilable comprehensive doctrines. 
 
@@ -411,7 +411,7 @@ So in summary, the author argues that the liberal concept of universal, inaliena
 
 - Pursuing an ambitious strategy of global regime change generally requires a highly powerful state able to topple foreign regimes at low cost and build stable liberal democracies, which modern liberalism is committed to but not always feasible.
 
- Here is a summary of the key points:
+ 
 
 - A liberal foreign policy seeks to maximize the number of liberal democracies in the world through pursuing three missions: protecting individual rights, building international institutions, and promoting an open international economy. 
 
@@ -425,7 +425,7 @@ So in summary, the author argues that the liberal concept of universal, inaliena
 
 So in summary, it outlines the goals of liberal foreign policy but argues realist competition makes its pursuit infeasible in a multipolar world system lacking a dominant authority.
 
- Here is a summary of the key points:
+ 
 
 - Intentions are difficult to discern as they are in the heads of policymakers, while capabilities like military assets are visible and easier to measure. During the Cold War, the US could count Soviet tanks but not know intentions.
 
@@ -607,7 +607,7 @@ The passage concludes by connecting these policies to James Scott's notion of "h
 
 - Even accepting the theories on their own terms, they do not diminish the importance states place on survival, which sits at the core of realism. By focusing on conditional claims and uncertainty, liberal theories do not provide a certain path to peace and supersede realism's emphasis on the survival motive. In total, liberal theories of peace are not persuasive and do not offer a clear formula for a peaceful world.
 
- Here is a summary of the key points:
+ 
 
 - Liberal theories like democratic peace theory, economic interdependence theory, and liberal institutionalism argue that factors like respect for rights, prosperity interests, and adherence to rules can dominate realist concerns about survival. 
 
@@ -623,7 +623,7 @@ The passage concludes by connecting these policies to James Scott's notion of "h
 
 So in summary, while liberal theories aim to diminish realist priorities, they ultimately cannot displace realist logic due to limitations in their scope and inability to guarantee no chance of war between states. Survival concerns therefore remain paramount for states.
 
- Here is a summary of the key points:
+ 
 
 - The passage questions the democratic peace theory, which claims that democracies rarely go to war with each other. It argues this theory has two major problems.
 
@@ -719,7 +719,7 @@ In the international system, there is no overarching authority to protect states
 
 - If Chinese growth slows significantly while the US continues growing, unipolarity may reemerge and allow the US to keep promoting liberal hegemony without challenge. Maintaining sole superpower status reduces the need for realism.
 
- Here is a summary of the key points:
+ 
 
 - Even if the US suffered further foreign policy disasters, its security would not be endangered as no other great power could directly threaten it due to geographic barriers. 
 
@@ -731,7 +731,7 @@ In the international system, there is no overarching authority to protect states
 
 - Younger generations and the public are promising audiences as they are less invested in the status quo. An appeal to balanced nationalism, focused on American well-being, could gain support for restraint over continued burden of liberal hegemony.
 
- Here is a summary of the key points:
+ 
 
 - The book argues for a realist-based foreign policy over the current liberal hegemony approach taken by the US. A realist policy emphasizes national interests and power politics over promoting democracy and human rights globally. 
 
@@ -759,7 +759,7 @@ In the international system, there is no overarching authority to protect states
 
 - Scholars note the social nature of human development and question theories that see humans as fundamentally atomistic individuals in a state of nature prior to society. Culture and community are highly influential.
 
- Here is a summary of the key points from the provided text:
+ 
 
 - Liberalism emerged as a philosophy that seeks to protect individual rights and limit the power of government and political authorities. Key early liberal thinkers included John Locke, who emphasized natural rights like life, liberty, and property. 
 
@@ -831,7 +831,7 @@ The passage provides references to various other academic works on topics relate
 
 - Fischer adds that both Hunt's and Moyn's accounts present human rights as ideological concepts that gain or lose political traction depending on circumstances, rather than as innate or naturally existing rights.
 
- Here is a summary of the key points:
+ 
 
 - Great powers are sometimes willing to allow an important ally to gain economic advantage at their expense because it is necessary to deter or fight against an especially powerful adversary. However, this realist logic has nothing to do with promoting global justice. 
 
@@ -851,7 +851,7 @@ The passage provides references to various other academic works on topics relate
 
 - A world state is impossible for similar geographical reasons that rule out global hegemony. The units that make up the international system, such as states, do not affect realism as a theory.
 
- Here is a summary of the key points:
+ 
 
 - Liberalism can contribute to instability and conflict in the international system in certain circumstances, contrary to its aspirations of promoting peace. Its emphasis on spreading democratic values and human rights can motivate interventionism. 
 
@@ -873,7 +873,7 @@ The passage provides references to various other academic works on topics relate
 
 - While Westphalia was important, sovereignty emerged gradually over time through the accumulation of state power rather than appearing instantly in 1648. The sources suggest Westphalia reflected and reinforced emerging norms of sovereignty but did not establish them on its own. The modern international system evolved over a long period.
 
- Here is a summary of the key points:
+ 
 
 - The US has adopted a largely "do-nothing" policy in the Middle East, providing some assistance to allies like Saudi Arabia but avoiding significant military intervention. 
 
@@ -971,7 +971,7 @@ The summary also mentions that the paragraphs reference additional works for fur
 
 - Key debates discussed include the appropriate role of the state, tensions between individualism/universalism and particularism/nationalism, and whether international politics is amenable to liberal principles or requires alternative frameworks like realism.
 
- Here is a summary of the key points:
+ 
 
 - Progressivism had both bounded and unbounded forms in the United States. Bounded progressivism sought modest reforms within the existing system, while unbounded progressivism pursued more extensive social engineering. 
 

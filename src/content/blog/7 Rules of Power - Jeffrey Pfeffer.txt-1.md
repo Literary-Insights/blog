@@ -25,7 +25,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 In summary, 7 Rules of Power makes the case that power is essential and provides research-backed techniques for accumulating it and using it for beneficial purposes. Pfeffer aims to empower more people to develop power and influence.
 
- Here is a summary of the key points:
+ 
 
 - The author thought he would never write another book on power, but four factors changed his mind:
 
@@ -81,7 +81,7 @@ In summary, 7 Rules of Power makes the case that power is essential and provides
 
 - Failing to understand power dynamics and being unwilling to do what's required to prevail often hinder people from achieving their goals.
 
- Here is a summary of the key points:
+ 
 
 - There is extensive empirical evidence showing that developing political skill and engaging in political behaviors significantly improves career outcomes such as salary, promotions, job satisfaction, and life satisfaction. 
 
@@ -97,7 +97,7 @@ In summary, 7 Rules of Power makes the case that power is essential and provides
 
 In summary, while learning about power can be emotionally tricky, research demonstrates its importance for career advancement and personal well-being. Denial and anger are common reactions, but accepting power's ubiquity can bring significant professional and personal benefits.
 
- Here is a summary of the key points:
+ 
 
 - The rules of power outlined in the book may seem to apply more to white men, since women and minorities face different expectations and obstacles in gaining power. However, the rules can still be helpful for women and minorities if applied strategically. 
 
@@ -109,7 +109,7 @@ In summary, while learning about power can be emotionally tricky, research demon
 
 - The rules require skills and qualities that can be learned and developed. Women and minorities should advocate for themselves and not forget their interests and agenda. The playing field may not be even, but the rules can still be applied effectively.
 
- Here is a summary of the key points:
+ 
 
 - Many talented people use self-descriptive, excessively modest, or self-deprecating language to undermine their power. This can limit their career prospects.
 
@@ -123,7 +123,7 @@ In summary, while learning about power can be emotionally tricky, research demon
 
 - Changing your behavior can lead to more empowering attitudes about yourself. Project confidence and power, and success is more likely to follow.
 
- Here is a summary of the key points:
+ 
 
 - People can influence their attitudes and emotions by observing their behavior and making inferences about their internal states. Acting more confidently or powerfully can boost one's confidence and sense of power.
 
@@ -139,7 +139,7 @@ In summary, while learning about power can be emotionally tricky, research demon
 
 In summary, overcoming internal barriers, being persistent, and employing bold and unconventional strategies enables people to gain power and make an impact. The determined pursuit of power, tempered by ethics and values, is often necessary for significant accomplishments.
 
- Here is a summary of the key points:
+ 
 
 - Persistence and resilience are essential qualities for gaining power. Judah Folkman demonstrated remarkable persistence over decades despite opposition to his ideas about cancer treatment. 
 
@@ -167,7 +167,7 @@ In summary, overcoming internal barriers, being persistent, and employing bold a
 
 - Arguments that being strategic will eventually be uncovered as deceptive are questionable - people tend to see what they want to see. The rules of power do not require changing one's personality, just practicing skills situationally.
 
- Here is a summary of the key points:
+ 
 
 - Motivated cognition refers to the tendency to think in ways that produce conclusions consistent with one's desires. This occurs across many domains, including interpersonal relationships, where people are motivated to believe others think well of them. 
 
@@ -181,7 +181,7 @@ In summary, overcoming internal barriers, being persistent, and employing bold a
 
 - The need for approval and acceptance can hold people back from taking risks and stepping outside conventions required for gaining power. Letting go of this overwhelming need is essential.
 
- Here is a summary of the key points:
+ 
 
 - Christina Troitino got into an exclusive dinner at the Sundance Film Festival by directly emailing the organizers and asking for an invitation, breaking the rules of waiting. 
 
@@ -203,7 +203,7 @@ In summary, overcoming internal barriers, being persistent, and employing bold a
 
 - The key is being proactive and not passive, taking initiatives others wouldn't expect.
 
- Here is a summary of the key points:
+ 
 
 - In the norm violation study, a bookkeeper who broke the rules was seen as more powerful than one who followed the rules. 
 
@@ -223,7 +223,7 @@ In summary, overcoming internal barriers, being persistent, and employing bold a
 
 - The lesson is that doing something makes it harder to reverse than if it's just a plan.
 
- Here is a summary of the key points:
+ 
 
 - Most people follow the rules and norms, even if they don't benefit them, because of the strong desire to fit in and avoid social disapproval. 
 
@@ -235,7 +235,7 @@ In summary, overcoming internal barriers, being persistent, and employing bold a
 
 - The main lesson is that although there are pressures to conform, breaking the rules and norms can often provide advantages and opportunities not available through conforming. People should be willing to break specific rules, like asking others for help, to get ahead.
 
- Here is a summary of the key points:
+ 
 
 - Keith Ferrazzi, a successful business leader, asked for special access and dinner with executives when deciding between job offers from McKinsey and Deloitte. His bold request got him what he wanted. 
 
@@ -287,7 +287,7 @@ In summary, overcoming internal barriers, being persistent, and employing bold a
 
 - Certain nonverbal behaviors like expanded posture signal power across cultures and genders. Leaders can adopt these behaviors to increase their perceived authority.
 
- Here is a summary of the key points:
+ 
 
 - Laura Chau was promoted to partner at Canaan Partners in 2020. She recognized the importance of building a solid personal brand.
 
@@ -301,7 +301,7 @@ In summary, overcoming internal barriers, being persistent, and employing bold a
 
 - The key is to develop a consistent, visible identity and image that positions you as an expert in your field. Your brand should communicate your unique value proposition.
 
- Here is a summary of the key points:
+ 
 
 - Laura Chau used blogging, newsletters, podcasts, and speaking engagements to build her brand in the venture capital community. This allowed her to position herself as an expert and thought leader. 
 
@@ -337,7 +337,7 @@ To build a personal brand:
 
 The key is consistently projecting your desired image across multiple platforms over time to shape your brand narrative. Leveraging others, like media, to tell your story can be more effective than direct self-promotion.
 
- Here is a summary of the key points:
+ 
 
 - Nora Chinchilla was skilled at cultivating media relationships to bring prominence to her work on work-family integration and women in the workplace. She made herself very accessible to journalists, provided them with data and access to her conferences, and focused on building long-term relationships with them. 
 
@@ -353,7 +353,7 @@ The key is consistently projecting your desired image across multiple platforms 
 
 The key is using media relationships, controversies, affiliations, and self-promotion to boost your brand and reputation.
 
- Here is a summary of the key points:
+ 
 
 - Omid Kordestani was an early employee at Google (employee #11) and became their first business hire. He later left Google with a net worth of over $2 billion. 
 
@@ -365,7 +365,7 @@ The key is using media relationships, controversies, affiliations, and self-prom
 
 - The key message is that networking and building relationships are critical for career advancement and visibility, even if it takes time to come naturally. Kordestani radically changed how he spent his time to focus more on this.
 
- Here is a summary of the key points:
+ 
 
 - People need to spend more time building professionally beneficial relationships and networking. Studies show that people spend only a tiny fraction of their socializing time interacting with work colleagues, bosses, clients, etc. 
 
@@ -411,7 +411,7 @@ The key is using media relationships, controversies, affiliations, and self-prom
 
 - Manage your networking time efficiently through technology like LinkedIn, relationship management software, and simple check-ins. Sustaining weak ties does not require deep interaction.
 
- Here is a summary of the key points:
+ 
 
 - When Lyndon B. Johnson assumed the presidency after JFK's assassination, he moved quickly to use his new power to accomplish significant policy goals. 
 
@@ -429,7 +429,7 @@ The key is using media relationships, controversies, affiliations, and self-prom
 
 - His example illustrates the importance of decisively using one's power early on to drive change and results.
 
- Here is a summary of the key points:
+ 
 
 - Leaders can use power effectively to bring in supporters and move out opponents. This helps them implement their vision and strategy. 
 
@@ -445,7 +445,7 @@ The key is using media relationships, controversies, affiliations, and self-prom
 
 - Effective use of power brings in supporters, removes opponents, and cements the leader's power to execute their vision and strategy. Doing it strategically maintains relationships and reputations.
 
- Here is a summary of the key points:
+ 
 
 - The example involves Frances Conley, a female neurosurgeon at Stanford who 1991, resigned in protest over the sexist culture and lack of advancement opportunities for women. Her resignation sparked outrage and investigations into discrimination at Stanford Medical School. 
 
@@ -457,7 +457,7 @@ The key is using media relationships, controversies, affiliations, and self-prom
 
 - Leaders can also entrench power by structuring rules and ownership like dual-class shares that consolidate voting control. Other examples are holding CEO and board chair roles and averting succession threats. The aim is to perpetuate power by showing it cannot be readily challenged.
 
- Here is a summary of the key points:
+ 
 
 - Senator Lindsey Graham went from strongly criticizing Donald Trump during the 2016 election to becoming one of his most loyal supporters once Trump was elected president. 
 
@@ -473,7 +473,7 @@ The key is using media relationships, controversies, affiliations, and self-prom
 
 - The author argues people shouldn't worry too much about the consequences of pursuing power because power can make problems disappear. Success excuses (almost) everything.
 
- Here is a summary of the key points:
+ 
 
 - Many believe that social and organizational processes balance power and punish misdeeds (a "homeostatic" view). However, existing advantages often get amplified over time (the "Matthew Effect"). 
 
@@ -489,7 +489,7 @@ The key is using media relationships, controversies, affiliations, and self-prom
 
 The main point is that power and success tend to excuse misdeeds and perpetuate future power rather than being balanced by social sanctions.
 
- Here is a summary of the key points:
+ 
 
 - Many prosecutors go on to work as defense attorneys, blurring the lines between adversaries in the legal system. This applies more broadly to elites in positions of power who travel in similar social circles. 
 
@@ -503,7 +503,7 @@ The main point is that power and success tend to excuse misdeeds and perpetuate 
 
 - The critical lesson is that success, wealth, power, and social connections can insulate people from consequences for misconduct. Maintaining an influential network is a form of protection.
 
- Here is a summary of the key points:
+ 
 
 - Once people attain power, wealth, and status, they tend to remain robust even if they misbehave because their position insulates them from consequences. Their connections and success protect them. 
 
@@ -531,7 +531,7 @@ The main point is that power and success tend to excuse misdeeds and perpetuate 
 
 - The powerful actively shape Relationships and reputations to maintain their position. They use resources to whitewash, reinterpret, or obscure history and forge advantageous relationships.
 
- Here are the key points:
+ 
 
 - The "great man" myth elevates the role of a single entrepreneur and writes others out of the story. As long as the narrative "sells" and inspires, people care more about the vision than factual accuracy. Telling one's story early and convincingly can perpetuate power. 
 
@@ -541,7 +541,7 @@ The main point is that power and success tend to excuse misdeeds and perpetuate 
 
 - Knowledge of power rules is only helpful if turned into action. Repeated practice turns knowledge into habitual behaviors. What the rules teach goes against norms, so the persistent effort is required. Success comes from frequently applying the rules until their use becomes natural.
 
- Here is a summary of the key points:
+ 
 
 - Leadership is about pragmatically getting things done, not morality. Since the principles in the book don't come naturally, you need help applying them.
 

@@ -331,7 +331,7 @@ It is natural for people to repeatedly defer or put off fully experiencing an on
 
 - The passage encourages the reader to identify low-risk activities or bets that could lead to significant rewards if successful, even if they might fail with little downside. It's an asymmetrical risk-reward approach.
 
- Here are the key points:
+ 
 
 - Do your research on any new type of asset before investing. The volatility and lack of regulation in emerging sectors like crypto means there is high risk of scams. 
 

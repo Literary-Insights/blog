@@ -35,7 +35,7 @@ BOOK LINK:
 
 That's my attempt at a concise summary of the key points from the excerpt. Let me know if you'd like me to clarify or expand on anything.
 
- Here is a summary of the key points:
+ 
 
 1. The author sees himself as an "ultraliberal" who does not align with either major political party. He supported Trump only in the sense of recognizing his persuasive skills and business acumen, not his political views.
 
@@ -51,7 +51,7 @@ That's my attempt at a concise summary of the key points from the excerpt. Let m
 
 In summary, the key points are that the author supported Trump's candidacy mainly because he recognized Trump's exceptional persuasive abilities and business acumen, not because of his political views. The author's primary lens is analyzing persuasion, and he sees Trump's win as dramatically illustrating flaws in people's understanding of reality.
 
- Here is a summary of the key points:
+ 
 
 • The author did not take Trump's campaign policies literally. He saw them as opening offers in a negotiation and expected Trump to moderate many of them after the election. 
 
@@ -99,7 +99,7 @@ That covers the major points outlined in the excerpt. Let me know if you would l
 
 How does this summary look? Let me know if you would like me to expand or modify any part of it.
 
- Here is a summary of the key points:
+ 
 
 1. Apologizing would be a sign of weakness in Trump's view. He sees apologies as inviting continuous demands for more apologies.
 
@@ -117,7 +117,7 @@ How does this summary look? Let me know if you would like me to expand or modify
 
 Does this cover the main points accurately? Let me know if you would like me to modify or expand the summary.
 
- Here is a summary of the key points:
+ 
 
 • Humans think they have an objective view of reality, but they are actually influenced by "filters" that distort their perception. 
 
@@ -131,7 +131,7 @@ Does this cover the main points accurately? Let me know if you would like me to 
 
 So in summary, the key idea is that humans perceive reality through "filters" that are influenced by persuasion and distort their objectivity, but that still manage to work for humans in practical terms. The author is using his own experiences to illustrate how filters shape one's worldview.
 
- Here is a summary of the key points:
+ 
 
 1. Filters are mental models that help us make sense of the world. They don't have to accurately reflect reality to be useful. Useful filters make us happy and help us predict the future.
 
@@ -295,7 +295,7 @@ The second part of the summary discusses President Trump's talent stack, which r
 
 In summary, the key point is that Trump's success in the election stemmed largely from his natural talent for and mastery of the art of persuasion, as evidenced by his response to Kelly's question and his utilization of various persuasion techniques throughout the campaign.
 
- Here is a summary of the key points:
+ 
 
 1. Trump embraced the "whiner" label in a clever way to set an anchor in people's minds that he is the loudest voice for change. 
 
@@ -573,7 +573,7 @@ That covers the main persuasion techniques called out in the summary. Let me kno
 
 In summary, the key elements of Trump's persuasive speaking style discussed are simplicity, strategic ambiguity, and the power of visual persuasion through actions. The author uses his predictions about the Trump campaign as an example of how different "filters on reality" can interpret the same events in different ways.
 
- Here is a summary of the key points:
+ 
 
 - The author claims he can predict Trump's moves based on his skill as a hypnotist and persuader, not just because of inside information. 
 
@@ -585,7 +585,7 @@ In summary, the key elements of Trump's persuasive speaking style discussed are 
 
 In summary, the key point is that the author claims his predictions and insights are based on his skill at identifying and applying persuasive techniques, not on insider information. He says this allows him to predict things that others cannot.
 
- Here is a summary of the key points:
+ 
 
 • The author does not vote because he believes it does not add any value or intelligence to the election outcome. He sees democracy as more of a mental condition than a political system. 
 
@@ -647,7 +647,7 @@ The author explained their prediction by citing factors like hidden Trump suppor
 
 The main lesson is that humans perceive reality through filters that shape their mental "movies" about what's happening. The author hints that different "movies" could all have the same ending, suggesting there may be forces at work beyond our perceptions.
 
- Here is a summary of the key points:
+ 
 
 • The author says that for many years, he has interpreted world events through different "movies" in his head. These mental movies help him make sense of and find meaning in things.
 
@@ -671,7 +671,7 @@ The main lesson is that humans perceive reality through filters that shape their
 
 Hope this summary helps! Let me know if you have any other questions.
 
- Here is a summary of the key points:
+ 
 
 • MP claims his predictions about Trump's win stemmed from insights into persuasion and human behavior, not just luck. 
 
@@ -687,7 +687,7 @@ Hope this summary helps! Let me know if you have any other questions.
 
 Does this look like a fair and reasonable summary of the key points? Let me know if you would like me to clarify or expand anything.
 
- Here is a summary of the key points from the provided text:
+ 
 
 1. The author argues that his influence during the 2016 election is difficult to determine with certainty. He may have influenced some people to change their votes, but he also correctly predicted the outcome of the election. It could be a mix of causing and predicting.
 

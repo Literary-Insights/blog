@@ -103,7 +103,7 @@ The key is to make people feel valued, understood, and appreciated. This builds 
 
 The key is to lead with positivity, empathy, and mutual understanding. Focus on what you have in common with others, not what divides you. This mindset and behavior creates amity and likeability.
 
- Here is a summary of the key points:
+ 
 
 - Trust is essential for enchantment and relationships. Tony Hsieh built Zappos on a two-way trust between the company and its customers. 
 
@@ -123,7 +123,7 @@ The key is to lead with positivity, empathy, and mutual understanding. Focus on 
 
 The key is to lead with trust and optimism about human nature, while using wisdom to avoid being exploited. This inspires trustworthiness and enchanting relationships.
 
- Here are the key points:
+ 
 
 - Be honest, fair, kind, and transparent (a "mensch") to build trustworthiness. 
 
@@ -169,7 +169,7 @@ The key is to deeply understand your customers and market, and then create offer
 
 - Stay positive, show respect, and restrain enthusiasm to communicate causes effectively.
 
- Here is a summary of the key points:
+ 
 
 - The author's wife's friend recommended a hotel in Paris, so he tried to book a room there. 
 
@@ -235,7 +235,7 @@ In summary, removing obstacles and barriers helps prepare to launch your cause b
 
 The key is to understand these sources of reluctance and address them by building trust, allowing gradual change, emphasizing benefits over losses, and convincing others to help drive change. Patience and persistence are critical.
 
- Here is a summary of the key points:
+ 
 
 - Role models are important because people look to others' behavior when deciding whether to adopt a new cause. Early adopters serve as role models and make it easier for others to give the cause a try. 
 
@@ -275,7 +275,7 @@ The key is to understand these sources of reluctance and address them by buildin
 
 - The main takeaway is to map out all the influencers on your target, understand their needs, and craft your enchantment strategy to win them over as well. This expands your sphere of influence and improves your chances of persuading the primary target.
 
- Here is a summary of the key points:
+ 
 
 - The goal of enchantment is long-lasting change, not one-time transactions. You want enchantment to endure and blossom by changing hearts, minds, and actions. 
 
@@ -293,7 +293,7 @@ The key is to understand these sources of reluctance and address them by buildin
 
 - Never stop enchanting - enchantment must be reinforced continually through consistent actions, values and interactions. It's an ongoing process.
 
- Here are the key points:
+ 
 
 - Enchantment needs to endure over time to be truly effective. Some ways to make it last are:
 
@@ -409,7 +409,7 @@ In summary, Reynolds has skillfully used Twitter to build an influential network
 
 - Enchant people on Facebook by providing value, building connections, and leveraging the platform's interactive features.
 
- Here are the key points:
+ 
 
 - Provide intrinsic value through inspiration, entertainment, enlightenment, or education. Viral videos are hard to create intentionally - focus on steadily supplying valuable content.
 
@@ -477,7 +477,7 @@ The key is to empower employees, lead by example, acknowledge them, and create a
 
 The basic mindset is to help your boss be more effective and successful. This means understanding what she cares about, taking initiative, and bringing value by solving problems. A boss who looks good thanks to your efforts will appreciate and reward you. Just don't be sycophantic - be genuinely helpful and strategic in making your boss look good.
 
- Here is a summary of the key points:
+ 
 
 - Making your boss look good is your day-to-day job. Support your boss while operating ethically. When your boss advances, you advance. 
 
@@ -499,7 +499,7 @@ The basic mindset is to help your boss be more effective and successful. This me
 
 - Make your boss look good by doing excellent work. Their success leads to your success.
 
- Here is a summary of the key points:
+ 
 
 - Avoid tempting situations where you may be persuaded to do something against your best interests, like store sales or auctions. Delay decisions if you can't avoid the situation.
 

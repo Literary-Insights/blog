@@ -81,7 +81,7 @@ I am financially wise and thriving through intelligent decisions and strong foun
 
 I accept my past and am resilient, never accepting defeat when disappointed.
 
- Here is a summary of the key points:
+ 
 
 - Expressing confidence, resilience, and a positive mindset. Being a winner, not a failure or disappointment. Accepting feelings and moving consistently forward in life.
 

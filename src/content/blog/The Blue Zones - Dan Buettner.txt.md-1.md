@@ -83,7 +83,7 @@ Does this summary accurately reflect the key details and main takeaways from the
 
 • In summary, certain environmental factors like abundant sunlight, hot dry climate, and mineral-rich water, along with lifestyle factors such as strong family/social ties, purpose or meaning in life, and physical activity may all contribute to the exceptional longevity found in Nicoya. A mix of these elements may create the right conditions for a long, healthy life.
 
- Here is a summary of the key points:
+ 
 
 Social networks and support systems are crucial for longevity and well-being:
 

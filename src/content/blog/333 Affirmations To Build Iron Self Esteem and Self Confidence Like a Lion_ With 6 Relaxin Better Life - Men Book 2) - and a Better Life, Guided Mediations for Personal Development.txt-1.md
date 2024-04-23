@@ -78,7 +78,7 @@ The affirmations encourage an optimistic, courageous and relaxed mindset. They p
 
 - Overall, the statement 'When I look into the mirror, I see a lion!' conveys a strong sense of newly found self-assurance, pride and empowerment. The narrator is portraying themselves in their most confident, lion-hearted form.
 
- Here is a summary of the key points:
+ 
 
 - The meditation guides the user to visualize positive concepts like productivity, confidence and strength filling their body at the cellular level. 
 

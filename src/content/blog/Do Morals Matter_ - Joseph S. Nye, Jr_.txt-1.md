@@ -55,7 +55,7 @@ Finally, America's vast size and location, protected by oceans, allowed focus on
 
 - In the 2016 election, Donald Trump capitalized on public discontent with arguments that the post-1945 order had disadvantaged the US economically and culturally, helping him gain popularity with his populist message. However, disputes over foreign policy were part of larger disagreements over issues like globalization and social changes.
 
- Here is a summary of the key points:
+ 
 
 - There is a debate between realists and liberals about whether morality applies to foreign policy. Realists argue the international arena is amoral, while liberals believe basic values are universal. 
 
@@ -71,7 +71,7 @@ Finally, America's vast size and location, protected by oceans, allowed focus on
 
 In summary, it outlines the debate on morality in foreign policy, discusses how humans form moral judgments, and suggests developing an evaluation framework while acknowledging the complexity of moral decision-making in foreign affairs.
 
- Here is a summary of the key points:
+ 
 
 - Moral decision-making in the brain involves both emotional/intuitive processes and more reasoned/utilitarian processes, with intuition sometimes overriding reason. Effective morality balances both. 
 
@@ -123,7 +123,7 @@ Some key points:
 
 In summary, the key perspectives discussed involve realist acceptance of potentially immoral acts in survival situations, cosmopolitan views on universal rights balanced with duties to closer communities, and the liberal belief that institutions and interdependence allow for moral choices in international politics in most cases.
 
- Here is a summary of the key points:
+ 
 
 - Presidents face difficult choices in foreign policy between prioritizing national security/realism versus human rights/cosmopolitanism. There is no single framework that fits all situations.
 
@@ -195,7 +195,7 @@ The passage advocates a multidimensional approach (3D ethics) that incorporates 
 
 - While relying on others, Truman had his own Wilsonian worldview and understanding of America's role that guided the formulation and implementation of containment policy.
 
- Here is a summary of the key points:
+ 
 
 - Truman insisted that the Marshall Plan be named for General George Marshall rather than President Truman himself, believing it would sell "a whole hell of a lot better in Congress." 
 
@@ -377,7 +377,7 @@ However, Carter struggled to present a coherent foreign policy and manage tensio
 
 - Reagan was ultimately pragmatic in negotiations, working constructively with Gorbachev. But the deepest causes of the Soviet collapse were structural issues within their economy and ideology, not purely Reagan's actions. Gorbachev's reforms accelerated this collapse, though that was not his intention. The end of the Cold War had inevitable, underlying causes more than it was caused by any single leader.
 
- Here is a summary of the key points:
+ 
 
 - Troika - Refers to the transitional leadership structure in the Soviet Union in the 1980s with Gorbachev, Ligachev, and Yegor Ligachev. 
 
@@ -467,7 +467,7 @@ So in summary, it evaluates Clinton positively overall despite flaws, while bein
 
 - In sum, the costs of the war in Iraq overshadow Bush's foreign policy successes. As a fiduciary of American interests, his decision-making on Iraq is considered a failure due to immense costs and strategic consequences.
 
- Here is a summary of the key points:
+ 
 
 - At the start of the 21st century, American power seemed supreme under Bush's unipolar foreign policy reflecting the hubris of that moment. 
 
@@ -491,7 +491,7 @@ So in summary, it evaluates Clinton positively overall despite flaws, while bein
 
 - Barack Obama entered office amid economic crisis and aimed to end the wars in Afghanistan and Iraq. His record on transforming foreign policy and international cooperation was mixed, as circumstances often required a more pragmatic reaction to ongoing crises.
 
- Here is a summary of the key points:
+ 
 
 - Obama aimed to avoid long and costly military conflicts, focusing more on short-term consequences than shaping history. This earned criticism that his strategy lacked clear priorities. 
 
@@ -565,7 +565,7 @@ So in summary, while Trump took some unilateral actions supported by some, his a
 
 In summary, the analysis finds Trump's foreign policy to be largely driven by narrow self-interest and lacking in ethical standards of responsible statecraft according to most contemporary observers, though the full impacts remain to be seen over time.
 
- Here is a summary of the key points:
+ 
 
 - The founding presidents of the post-WW2 order (FDR, Truman, Eisenhower) generally had moral intentions and consequences in their foreign policies, though sometimes fell short in their means/use of force. 
 
@@ -677,7 +677,7 @@ So in summary, presidents will face complex moral questions around balancing tec
 
 - Total withdrawal is not possible due to global interdependence, but unilateralism and isolation also fail to address shared global challenges like pandemics, climate change and technology disruptions. Limited, multilateral leadership through partnerships and institutions is needed.
 
- Here is a summary of the key points:
+ 
 
 - The choices involved in leadership and foreign policy are less clear now compared to the era of American primacy after WWII. The US no longer has preponderant power and the world is more complex. 
 

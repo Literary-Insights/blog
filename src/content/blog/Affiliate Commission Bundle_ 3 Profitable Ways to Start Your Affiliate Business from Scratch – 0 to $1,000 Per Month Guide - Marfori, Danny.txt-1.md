@@ -37,7 +37,7 @@ BOOK LINK:
 
 - Following this blueprint is presented as a way to start a successful part-time or full-time affiliate business through video marketing on Amazon.
 
- Here is a summary of the key points:
+ 
 
 - The method involves finding popular gift-related keywords that people search for on Google using keyword research tools. These keywords will be used to drive traffic to the website. 
 
@@ -99,7 +99,7 @@ So in summary, a wide range of gift cards and gifts were listed from $379k Talbo
 
 Let me know if any part of the process needs more clarification or if you have additional questions! Getting your basic WordPress site set up is pretty straightforward with these high-level steps.
 
- Here is a summary of the key points:
+ 
 
 - You registered a domain name and hosting through a registrar like Bluehost. 
 
@@ -157,7 +157,7 @@ The key points focus on setting up an Amazon affiliate website business by choos
 
 In summary, the process outlined is about researching buyer keywords, finding affiliate products to promote for those keywords, building a basic WordPress site, and signing up as an Amazon affiliate to monetize the site.
 
- Here is a summary of the key points:
+ 
 
 - Complete your Amazon Associates account profile with details about your website and choose product categories. 
 
@@ -177,7 +177,7 @@ In summary, the process outlined is about researching buyer keywords, finding af
 
 - The process involves researching keywords, creating website/video content, joining Amazon Associates, building PBNs/links, and promoting on YouTube to drive traffic to the website with affiliate links. The goal is to rank for keywords and generate sales commissions.
 
- Here is a summary of the key points:
+ 
 
 - The guide provides tips for creating an affiliate website and marketing products to generate sales commissions. 
 
@@ -191,7 +191,7 @@ In summary, the process outlined is about researching buyer keywords, finding af
 
 - Example affiliate websites are provided as models to learn content styles and types of products promoted at different price ranges. The goal is to build a successful affiliate site that can potentially be expanded into private labeling and branding opportunites.
 
- Here are the key points:
+ 
 
 - The number of reviews for a product doesn't necessarily indicate the quality of the product or opportunity for a new seller. It just means there are a lot of buyers in that market. 
 

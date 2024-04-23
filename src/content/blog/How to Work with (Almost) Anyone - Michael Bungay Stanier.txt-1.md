@@ -71,7 +71,7 @@ The key is choosing someone strategically important to your work where taking th
 
 The goal is to identify your steadiest rhythms, tendencies and needs when it comes to how you operate so you can better communicate and honor them. Don't overthink it - start with what comes to mind and build from there.
 
- Here is a summary of the key points:
+ 
 
 - The book A Short History of Nearly Everything by Bill Bryson makes science and the world feel more magical and extraordinary. It explains how the large size of the moon stabilized the Earth's axis, allowing for consistent seasons and agriculture, enabling civilization to develop. 
 
@@ -81,7 +81,7 @@ The goal is to identify your steadiest rhythms, tendencies and needs when it com
 
 - We often underestimate our own role and overestimate the other's role in a relationship's success. Make sure to celebrate what the other person did to make it successful before taking credit for your own contributions.
 
- Here is a summary of the key points:
+ 
 
 - The author recounts a story of how his Dungeons & Dragons team did really well in a tournament one year but then failed miserably the next year after not practicing in between. 
 

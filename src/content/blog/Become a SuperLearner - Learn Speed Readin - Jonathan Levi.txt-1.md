@@ -64,7 +64,7 @@ Practice each part 20-60 minutes a day until significant progress. Then move on.
 Build skills step by step. Do not rush. 
 Move at your own pace. Practice daily.
 
- Here is a summary of the key points:
+ 
 
 • Your brain is made up of neurons, which are electrically excitable cells that transmit information via electrochemical signals called synapses.
 

@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points:
+ 
 
 - MBA In A Day by Steven Stralser aims to provide readers with the most important concepts, tools, and principles taught at top business schools in a concise and accessible format. 
 
@@ -95,7 +95,7 @@ The leadership development program could help fill these gaps by providing cross
 
 - Organizational structures differ and influence how work is organized and processes are controlled within a company.
 
- Here is a summary of the key points:
+ 
 
 - Maslow's hierarchy of needs includes physiological needs, safety needs, social needs, esteem needs, and self-actualization. Needs lower down must be met before seeking higher level needs. 
 
@@ -143,7 +143,7 @@ The key aspects are that departments are formed based on the different customer 
 
 - Effective team building requires establishing common goals, roles, structure and accountability. It also involves developing trust, facilitating communication, handling conflicts, and recognizing contributions to keep teams motivated and productive. Good leaders empower teams to maximize their strengths.
 
- Here is a summary of the key points:
+ 
 
 - The organization chooses specific work targets and assigns employees to teams to carry out plans. Effective leadership is needed to motivate employees and ensure goals are achieved. 
 
@@ -285,7 +285,7 @@ The summary focuses on the key advice around adjusting negotiation style, separa
 
 - Accounting and finance support operations, control, decision making, compliance and performance measurement for a business. Accountants play many roles within a company.
 
- Here is a summary of the key points:
+ 
 
 - The accounting equation states that assets always equal liabilities plus owners' equity. This ensures the double-entry accounting system remains in balance. 
 
@@ -301,7 +301,7 @@ The summary focuses on the key advice around adjusting negotiation style, separa
 
 - Careful compliance with payroll laws is important since it is regulated. Automated payroll systems help ensure accurate records.
 
- Here is a summary of the key points:
+ 
 
 - An automated payroll system can save valuable time even for businesses that do manual bookkeeping. It helps with compliance by automating payroll tax calculations and payments. 
 
@@ -317,7 +317,7 @@ The summary focuses on the key advice around adjusting negotiation style, separa
 
 - Practical accounting activities include credit checking potential customers through reports, references, owner history and financial statements to assess risk before extending credit terms.
 
- Here is a summary of the key points:
+ 
 
 - To evaluate a company's creditworthiness, you can run a personal credit check on the owner or CEO. Their strong credit history suggests the company will pay bills on time. A history of debt issues could indicate the company may follow suit. 
 
@@ -367,7 +367,7 @@ The summary focuses on the key advice around adjusting negotiation style, separa
 
 - Emerging markets in Asia, Latin America, Africa, and Eastern Europe are increasingly important to the global economy. Their financial development impacts markets worldwide.
 
- Here is a summary of the key points:
+ 
 
 - There were primarily two competing economic systems in the 20th century - command (planned) economies directed by governments and market economies based on private enterprise. Command economies have not proven effective or sustainable. 
 
@@ -391,7 +391,7 @@ The passage then outlines the four stages of the business cycle: prosperity/boom
 
 Finally, the passage discusses factors that influence the stability of a nation's economy, such as productivity, inflation/deflation, employment levels, and economic indicators used to measure these factors like GDP, CPI, and unemployment rate. It defines types of unemployment and inflation and their economic impacts.
 
- Here is a summary of the key points:
+ 
 
 - Diversifying operations across multiple countries and market economies reduces risks from economic uncertainties in any one country. It also reduces political risks like changes in government policies or currency fluctuations. 
 
@@ -435,7 +435,7 @@ The key takeaways are that organizations should research markets, understand com
 
 - Porter's Five Forces model identifies five competitive forces that shape an industry's profitability - barriers to entry, threat of substitution, supplier power, buyer power, and rivalry. It provides a framework for strategic analysis.
 
- Here is a summary of the key points:
+ 
 
 - Barriers to entry are important for incumbent firms as well as new entrants because they protect the firm from competition. The main barriers identified by Porter include economies of scale, product differentiation, capital requirements, cost disadvantages, access to distribution channels, and government regulations. 
 
@@ -529,7 +529,7 @@ Important aspects to define in planning include the topic, time allotted, progra
 
 Preparation involves collecting relevant materials, organizing them by theme, writing an outline and rough draft, and thoroughly editing. Scheduling focused preparation time well in advance is crucial. Thorough planning pays off by increasing confidence and the effectiveness of the final presentation.
 
- Here is a summary of the key points:
+ 
 
 Review your presentation draft by reading it aloud to get feedback. Focus on whether the content is clear, themes are conveyed properly, and length fits the time allotted. 
 
@@ -541,7 +541,7 @@ When using PowerPoint, focus on basics rather than flashy elements. Limit each s
 
 Thoroughly rehearse your presentation, seeking feedback to improve eye contact, pacing, and delivery style. Reflect on how to engage your audience and answer questions confidently. Practice makes perfect!
 
- Here is a summary of the key points:
+ 
 
 - The presentation should stay focused on its main message and avoid going off on tangents. It's okay to fine-tune the presentation structure to better maintain audience attention and focus. 
 
@@ -695,7 +695,7 @@ Doing this allows an organization to better manage its knowledge and ensure crit
 
 - E-commerce enables automated order/shipping processes and tracking to streamline fulfillment. Outsourcing some functions lets the company focus on its strengths. Tracking data helps optimize the site and sales.
 
- Here is a summary of the key points:
+ 
 
 - A quality management system is a management technique used to define quality standards and influence employee actions to meet those standards. It establishes a vision, sets goals and standards, builds motivation, and helps direct corporate culture. 
 

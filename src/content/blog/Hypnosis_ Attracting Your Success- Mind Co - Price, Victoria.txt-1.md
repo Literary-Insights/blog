@@ -164,7 +164,7 @@ The key ideas are:
 
 6) Hypnosis does not necessarily produce a trance-like state but rather enhances focus and imagination, allowing for new perspectives.
 
- Here is a summary of the key points:
+ 
 
 • Hypnosis is a state of focused attention and concentration where a person's awareness is focused on a specific thought or memory. It is not a state where the mind is blank. 
 
@@ -252,7 +252,7 @@ Self-hypnosis works by reprogramming your subconscious mind. It helps you addres
 
 The keys to successful self-hypnosis are preparation, patience, practice, and persistence. Start with short sessions of 5-10 minutes and gradually go longer as you get more comfortable. Hypnosis is a skill that improves with regular use. Approach each session with a beginner's mind, without expectation of the outcome. Over time, you can unlock your hidden potential and live a happier, healthier life.
 
- Here is a summary of the key points:
+ 
 
 • NLP or Neuro Linguistic Programming was developed in the 1970s by John Grinder and Richard Bandler. 
 

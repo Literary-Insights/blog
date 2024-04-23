@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points:
+ 
 
 - Steven Levitt is an acclaimed young economist at the University of Chicago known for his unconventional approach to economics. He looks at everyday life puzzles rather than traditional economic issues. 
 
@@ -33,7 +33,7 @@ BOOK LINK:
 
 - The profile introduced Levitt and his unconventional brand of "empirical economics" focused on everyday puzzles to a broad audience, laying the groundwork for the bestselling book featured in the introduction.
 
- Here is a summary of the key points:
+ 
 
 - In the early 1990s, crime rates in the US were rising rapidly and experts warned they would continue to spike due to the threat of "superpredators." 
 
@@ -171,7 +171,7 @@ The passage discusses data on sumo wrestling matches in Japan that suggests matc
 
 - The internet has eroded some of this information asymmetry, shrinking the price gap agents achieve on their own homes versus client homes. However, all people tend to selectively frame information about themselves to their own advantage in different contexts like job interviews, dates, etc.
 
- Here is a summary of the key points:
+ 
 
 - The passage discusses using data from online dating sites to analyze how people present themselves and what traits/characteristics are deemed most desirable by others. 
 
@@ -317,7 +317,7 @@ So in summary, the largest factors leading to lower crime in the 1990s were incr
 
 - States with higher abortion rates in the 1970s saw larger crime drops in the 1990s, providing further evidence that legalized abortion significantly contributed to the decrease in US crime rates.
 
- Here is a summary of the key points:
+ 
 
 - Parenting experts often contradict each other on advice and conventional wisdom shifts frequently. There is little agreement on issues like breastfeeding, co-sleeping, stimulating babies, and disciplining children. 
 
@@ -337,7 +337,7 @@ It argues that modest interventions like pool fences and secure backyard access 
 
 In the end, the passage questions how much impact parents truly have on shaping a child's character and outcomes, given estimates that genes account for about half and other environmental factors beyond parenting also play large roles.
 
- Here is a summary of the key points:
+ 
 
 - Judith Rich Harris published a controversial 1998 book called The Nurture Assumption which argued that parents have less influence on a child's personality and development than commonly believed. She said peer influence is more important. 
 
@@ -365,7 +365,7 @@ In the end, the passage questions how much impact parents truly have on shaping 
 
 - Regression analysis of this data can help isolate the impact of individual factors on student performance by controlling for other variables.
 
- Here is a summary of the key points:
+ 
 
 - Black children have closed much of the test score gap with white children by the time they enter kindergarten. Socioeconomic factors like income and parents' education levels explain most differences. 
 
@@ -399,7 +399,7 @@ In general, the correlated factors describe the parents themselves (education, i
 
 - Fryer was studying this data to understand if distinct black cultural factors like names are a cause or consequence of economic disparities between black and white communities.
 
- Here is a summary of the key points:
+ 
 
 - Black Power movement in the 1960s/70s sought to promote African culture and fight claims of black inferiority. Naming children with distinctively African names was seen as one way to affirm black identity and culture. 
 
@@ -415,7 +415,7 @@ In general, the correlated factors describe the parents themselves (education, i
 
 - A name change may not necessarily impact outcomes, as motivation is a stronger factor than name alone. The type of parents who choose a black name tend to come from less advantageous backgrounds.
 
- Here is a summary of the key points:
+ 
 
 - Names given to children often correspond to the socioeconomic status and education level of the parents. Middle and high-income white families tend to give their children more traditional names like Sarah, Samuel, Benjamin, while low-income white families favor names like Kayla, Cody, Brandon. 
 
@@ -461,7 +461,7 @@ So in summary, the epilogue highlights the huge role that random chance and circ
 
 - The articles discusses the impact of the deaths on their families and communities, as well as the police investigation and lack of answers. It explores the possibility of a serial killer being involved in the mysterious hanging deaths.
 
- Here is a summary of the key points:
+ 
 
 - Gary Webb published a controversial series in the San Jose Mercury News in 1996 alleging that the CIA was connected to crack cocaine trafficking and the rise of crack in minority communities in the 1980s. This became known as the CIA-crack cocaine controversy. 
 
@@ -511,7 +511,7 @@ In summary, the article presents evidence from New York City that the emergence 
 
 - One longer note lists girls and boys names with the average education level of their mothers.
 
- Here is a summary of the key points:
+ 
 
 - The passage lists the names of 199 boys and their associated name popularity scores from a dataset. The names range from (14.93) to Zebulon (15.00). 
 
@@ -523,7 +523,7 @@ In summary, the article presents evidence from New York City that the emergence 
 
 - No other significant analyses or insights are included - it serves primarily to list the names and acknowledge the source of the data.
 
- Here is a summary of the key points:
+ 
 
 - Crime rates fell significantly in the U.S. from the early 1990s thanks to factors like increased policing, stricter gun laws, reduced drug markets, tougher sentencing, and economic growth. Homicide and violent crime fell especially dramatically. 
 
