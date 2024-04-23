@@ -7,6 +7,7 @@ excerpt: ""
 category: "self-help"
 author: "matheus-puppe"
 publishDate: "2024-04-21T00:00:00.000Z"
+image: "./src/assets/book_images/the-algorithm-hilke-schellmann.jpg"
 
 ---
 
@@ -16,9 +17,6 @@ publishDate: "2024-04-21T00:00:00.000Z"
 BOOK LINK:
 
 [CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-algorithm-hilke-schellmann)
-
-
-
 
 - The passage introduces the use of AI tools like HireVue in hiring, monitoring, promoting and firing employees. It notes how this area has become the "Wild West" without much regulation of algorithms. 
 
@@ -47,8 +45,6 @@ BOOK LINK:
 - While technology was meant to democratize hiring, some argue AI screening instead marginalizes groups and makes it difficult for many qualified people to find jobs, despite companies complaining of talent shortages. 
 
 - The chapter questions whether AI tools used to screen candidates actually help companies or cause more problems and discrimination against women, people of color and others.
-
- Here is a summary of the key points:
 
 - Résumé screeners that use AI/machine learning to analyze applicant résumés can potentially discriminate based on gender, race, nationality etc. if the training data is skewed or contains biases. 
 
@@ -701,49 +697,3 @@ Given these limitations, the passage questions whether companies should really h
 - Companies are also using AI to track existing employees, with some monitoring productivity, sentiment in messages, and external social signals to determine flight risks. 
 
 - This level of automation and tracking raises concerns about bias, fairness, lack of transparency and overlooking human qualities that are difficult for AI to assess but important for many roles. Overall the use of AI in hiring and employment is a profound societal shift that merits scrutiny and safeguards.
-
- Here are the summaries:
-
-Report no. GAO-23-106041 (2022):
-- Published by the US Government Accountability Office 
-- Analyzes the gender pay gap and finds it is greater for certain racial/ethnic groups and varies by education level
-
-Bureau of Labor Statistics report (2022):  
-- 19.1% of people with disabilities were employed in 2021, according to Bureau of Labor Statistics data
-
-Hidden Workers (2021):
-- Harvard Business School study finding millions of Americans are "hidden workers" - people who want work but have little to no work history in recent years 
-- Hurdles prevent many hidden workers from entering the formal workforce despite policy efforts
-- Recruiting hidden workers could help address labor shortages
-
-Leadership IQ study (2005):
-- Study by Leadership IQ on why new hires fail found top 3 reasons were bad hire, poor training, and wrong job match
-- Suggests companies need to improve candidate vetting, onboarding, and role suitability assessments
-
- I apologize, but I do not have access to the full text articles referenced in your summary request. Here is a brief summary of the key points without directly quoting or analyzing the contents of the protected works:
-
-The request refers to recent research analyzing how AI systems used for recruitment and hiring can unintentionally discriminate against or disadvantage people with disabilities. Scholars and advocates note that disability bias is more complex to address than other forms of discrimination, as the nature of certain disabilities intersects with performance assessments in ways that may be difficult for AI to disentangle. Researchers are working to develop technical approaches and policy frameworks to ensure equitable access to opportunities for all candidates regardless of disability status, with an emphasis on accessibility, reasonable accommodation, and meaningful participation in the development and oversight of these systems. The referenced materials discuss these challenges and potential solutions to achieving anti-discrimination objectives through continued technical progress and legal protections.
-
- Here is a summary of the key points from the articles:
-
-- AI and digital tools are increasingly being used by employers to monitor workers both on and off the job. This can include tracking locations, computer usage, biometrics, electronic communications and more. 
-
-- Companies argue this data collection helps improve productivity, but critics warn it invades privacy and can enable new forms of surveillance and control in the workplace. 
-
-- Tools like Microsoft Excel, Workplace from Facebook, and productivity apps provided by some employers track metrics like how often people type, click, meet and message each other. The data is used for analytics and sometimes shared with managers.
-
-- Some companies use fitness trackers and wellness apps to monitor employees’ step counts, stress levels and other health data. However, this raises privacy concerns about how sensitive medical info may be handled and shared.
-
-- Predictive analytics is being used to profile workers and supposedly foresee who is most likely to quit, be absent or experience a health issue. But these algorithms are opaque and there are questions about potential biases and unfair targeting. 
-
-- When workers complain about harassment or discrimination, some companies respond by recommending counseling or wellness services rather than addressing the misconduct claims directly. Critics argue this covertly shifts responsibility away from the employer.
-
-- Laws are lagging behind to regulate these new forms of digital surveillance and protect worker privacy rights in the age of remote and tech-mediated job monitoring. Clear rules are needed to curb potential abuses.
-
- Here is a summary of the key points without directly copying or reproducing copyrighted content:
-
-The article discusses Bank of America and AXA partnering to develop a workplace mental health scorecard tool. This tool would aim to assess workplace culture, policies and benefits related to mental health. 
-
-Separately, some emerging technologies are aiming to directly assess workers' mental states, such as through brain scanning or monitoring of biometric data. However, others raise ethical concerns about employers having direct access to employees' private physiological data. Some delivery drivers also felt forced to consent to monitoring due to pressure from their employers.
-
-Looking ahead, artificial intelligence technologies could increasingly be used in human resources functions like candidate screening and employee monitoring. However, there are open questions about how to ensure such systems are developed and applied in a fair, transparent and bias-free manner that respects employee privacy and autonomy. Ongoing discussion is needed around regulating the ethical uses and mitigating the downsides of these advancing workplace technologies.
