@@ -7,7 +7,7 @@ excerpt: ""
 category: "self-help"
 author: "matheus-puppe"
 publishDate: "2024-04-21T00:00:00.000Z"
-
+image: "./src/assets/book_images/worthy-jamie-kern-lima.jpg"
 ---
 
 **"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
@@ -16,27 +16,6 @@ publishDate: "2024-04-21T00:00:00.000Z"
 BOOK LINK:
 
 [CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=worthy-jamie-kern-lima)
-
-
-
- Here is a summary of the "Also by" and copyright information:
-
-- Jamie Kern Lima has previously authored a book titled "Believe IT: How to Go from Underestimated to Unstoppable".
-
-- Copyright for the book is 2024 by Jamie Kern Lima. 
-
-- The book is being published in the US, Australia, UK, and India by various Hay House publishing imprints. 
-
-- Cover design and interior design/illustrations are by Pete Garceau and Julie Davison respectively. Interior photos are courtesy of the author. 
-
-- An excerpt from another book is used with permission from the original copyright holder. 
-
-- Standard copyright information is provided noting that no part of the book can be reproduced or distributed without permission from the publisher. 
-
-- Medical or treatment advice is not being provided by the author. The intent is to provide general information to help with well-being.
-
-So in summary, it outlines the author's previous publication, provides standard copyright details, and disclaimer about medical advice.
-
  
 
 - The passage discusses living only partially authentically and expressing only parts of one's true essence. It talks about craving external validation and defining worth through accomplishments rather than an internal sense of worthiness. 
@@ -125,7 +104,6 @@ Even very confident people may still hide their true selves and feel unseen if t
 
 In summary, it advocates that developing a strong sense of internal self-worth is the key foundation for true fulfillment in life, more so than external achievements or self-confidence alone. Limiting beliefs around worthiness can undermine happiness and potential.
 
- Here is a summary of the key points:
 
 - Self-worth and how we view our own inherent value and worthiness impacts our relationships with ourselves, friends, partners and children. Issues with self-worth are often hidden even from close ones. 
 
@@ -766,17 +744,3 @@ The third step is practicing gratitude. Making a daily habit of appreciating wha
 The fourth and final step is boosting confidence through action. Taking on challenges, learning new skills, and stepping outside your comfort zone in positive ways trains the brain to feel more competent and secure in one's abilities over time. 
 
 In summary, the article provides a four-point plan for developing self-esteem centered around self-compassion, emphasizing strengths, gratitude, and building confidence through action and experience. Fostering these habits can help one feel better about themselves.
-
- Here are summaries of the three sources:
-
-1. rn to Love: Reflections on the Principles of “A Course in Miracles.” New York: HarperOne, 1996.
-
-This book contains reflections and teachings based on "A Course in Miracles", exploring its principles of love, forgiveness, and spiritual awakening. 
-
-2. Winfrey, Oprah, and Bruce D. Perry. What Happened to You?: Conversations on Trauma, Resilience, and Healing. New York: Flatiron Books, 2021. 
-
-This book discusses the lifelong effects of adverse childhood experiences and trauma, as well as the path to resilience and healing. It includes conversations between Oprah Winfrey and brain physician Bruce Perry.
-
-3. Zorn, Eric. “Without Failure, Jordan Would Be False Idol,” Chicago Tribune, May 19, 1997.
-
-This newspaper article argues that Michael Jordan's legacy and status as a basketball idol are largely due to his ability to recover from failures and setbacks over his career, suggesting he would not be as renowned if he never experienced failure.
