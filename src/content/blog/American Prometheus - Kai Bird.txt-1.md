@@ -869,7 +869,7 @@ In summary, Oppenheimer reported some approaches to share information with the S
 
 - Tatlock had a history of depressive episodes and was undergoing psychiatric treatment, though friends felt she was doing well. Her father's actions in burning materials suggest he wanted to conceal a personal aspect of her life exposed in the letters.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Jean Tatlock, Oppenheimer's former fiancée, committed suicide in January 1944 by drowning herself in her bathtub. She had taken barbiturates beforehand. 
 
@@ -1321,7 +1321,7 @@ In summary, the passage covers Oppenheimer's move to Princeton, his affair with 
 
 - The Institute provided an idyllic, supportive environment for research and was likened to a "Platonic heaven." Oppenheimer hoped it could unite the sciences and humanities in understanding the human condition, unlike the narrow focus of Los Alamos.
 
- Here's a summary:
+ 
 
 J. Robert Oppenheimer assembled an extraordinary faculty of brilliant, eccentric minds at the Institute for Advanced Study in Princeton. These included the logician Kurt Gödel, a reclusive genius obsessed with solving the continuum problem; physicist Paul Dirac, painfully literal and silent; mathematician John von Neumann, intellectually brilliant but extremist in his anti-Soviet views; and of course Albert Einstein, who stubbornly rejected quantum theory in favor of his own unified field theory. 
 
@@ -1443,7 +1443,7 @@ While Oppenheimer's strong leadership ruffled feathers at times, he handled conf
 
 - Though their marriage was volatile, Kitty had supportive friends. Robert endured through aloofness and detachment.
 
- Here is a summary of the key points from the passage:
+ 
 
 - In August 1949, the Soviets secretly exploded their first atomic bomb, sending shockwaves through the US government. Oppenheimer had long predicted the end of the US atomic monopoly. 
 
@@ -2137,7 +2137,7 @@ Does this help summarize the key points about Oppenheimer's time as a student at
 
 - Oppenheimer returned to Göttingen feeling intellectually transformed by his exposure to the new physics in Europe. He was ready to make original contributions to quantum mechanics.
 
- Here is a summary of the key points from the passage:
+ 
 
 - In the early 1930s, Oppenheimer taught physics at Caltech and Berkeley while also conducting his own research. He was known as an excellent teacher who could explain complex concepts clearly, though his lectures were sometimes obscure. 
 

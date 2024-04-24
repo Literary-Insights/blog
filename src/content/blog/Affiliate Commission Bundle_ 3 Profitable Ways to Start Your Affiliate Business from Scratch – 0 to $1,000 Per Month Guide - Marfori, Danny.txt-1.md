@@ -119,7 +119,7 @@ Let me know if any part of the process needs more clarification or if you have a
 
 - Keys for a successful affiliate site include relevant and compelling content, proper use of SEO tags, and outbound links to credible external sources.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The passage discusses setting up an Amazon affiliate website to earn commissions by promoting and reviewing products. 
 

@@ -637,7 +637,7 @@ In around 1500 BCE, George Catlin documented Native American breathing practices
 
 - The sources discuss the 1968 Olympics, the protests by US athletes against racism and injustice, and how the incident was still noteworthy and discussed decades later in reflecting on athlete activism and the civil rights movement during that era.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Several historical studies showed that average breathing rates have increased over time, from around 13 breaths per minute in the 1930s to 10-12 breaths per minute currently. 
 

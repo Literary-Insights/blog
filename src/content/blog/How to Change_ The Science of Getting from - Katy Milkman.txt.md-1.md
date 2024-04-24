@@ -27,7 +27,7 @@ The calendar offers fresh starts, but life events, educational transitions, spir
 
 In summary, recognizing and utilizing fresh starts and targeted solutions can motivate change, but their impact depends on individuals and circumstances. Fresh start messages and disruptions may inspire some yet annoy or demotivate others. Targeted solutions tailored to obstacles tend to be most effective, helping turn aspirations into actions and victories. Overall, the book provides a helpful framework and practical tools for making lasting change.
 
- Here's a summary:
+ 
 
 - Omar Andaya took over as CEO of Green Bank in the Philippines in the early 2000s. He wanted to help customers save more but wasn't sure how. 
 

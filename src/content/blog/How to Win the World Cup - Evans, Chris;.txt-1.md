@@ -366,7 +366,7 @@ In summary, Spain's World Cup hopes were severely disrupted by the late change o
 
 - The cultural context matters - captains in smaller nations often take on an important leadership role and can become figureheads. Strong captains like José Luis Chilavert of Paraguay can have influence far beyond the pitch.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Creating the right atmosphere and environment in a World Cup training camp is essential for team bonding and performance. 
 
@@ -674,7 +674,7 @@ In summary, managers go to great lengths to find an edge by innovating and tryin
 
 - Managers balance team talks with avoiding over-hyping the occasion. They aim to get their team in best mindset to execute the gameplan.
 
- Here is a summary of the key points from the passage:
+ 
 
 - In the build up to the 1998 World Cup final, Brazil star Ronaldo suffered a seizure before the match, throwing their preparations into chaos. However, he was later cleared to play. 
 
@@ -716,7 +716,7 @@ In summary, managers go to great lengths to find an edge by innovating and tryin
 
 - The bigger tournaments and greater tactical focus of modern football likely make retaining the trophy harder than in previous eras. But the repeated failures of past winners to defend their titles suggest a psychological factor makes it extremely difficult to repeat the feat.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Winning back-to-back World Cups is incredibly difficult, with only Italy and Brazil doing so in the 1930s. Since then, no defending champion has won the next World Cup. 
 

@@ -617,7 +617,7 @@ The large intestine is twice as wide as the small intestine but only a quarter o
 
 - Common vision problems like nearsightedness, farsightedness and astigmatism occur due to the eye's lens focusing light improperly on the retina. Glasses correct these issues.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The sense of taste comes from taste buds located on the tongue, roof of the mouth, throat, and even lungs. Taste buds detect 5 basic tastes: salty, sweet, sour, bitter, and umami (savory). 
 

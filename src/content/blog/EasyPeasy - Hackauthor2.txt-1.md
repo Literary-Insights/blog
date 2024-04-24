@@ -241,7 +241,7 @@ The key insights are: The willpower method fails primarily due to incorrect beli
 
 - In summary, cutting down on porn does not work and just prolongs the agony of addiction. The only way to overcome this addiction is to quit completely by breaking the brainwashing around porn and avoiding any peeks that could trigger a relapse.
 
- Here's a summary:
+ 
 
 • Convincing yourself that you can have 'just one' porn session is a myth. It leads to a lifetime of addiction and misery. 
 

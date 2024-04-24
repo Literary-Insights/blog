@@ -898,7 +898,7 @@ Overall, proponents argue a CBDC could modernize payment systems, increase finan
 
 - A successful CBDC poses risks of "disintermediating" commercial banks by allowing people to hold funds directly at the central bank rather than in bank accounts, impacting banks' deposit balances, income sources, and financial stability. Central banks and commercial banks are exploring solutions to this challenge.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The passage discusses six major trends that are disrupting the financial services industry: 1) online distribution of services, 2) automated back-office functions, 3) artificial intelligence upending strategic jobs, 4) movement of branch activity to smartphones, 5) revolution in digital payments threatening credit cards, 6) cryptocurrencies disintermediating central and commercial banks. 
 

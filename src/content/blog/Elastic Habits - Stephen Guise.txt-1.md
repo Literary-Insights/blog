@@ -148,7 +148,7 @@ The text then discusses "goal anchoring" which works similarly to price anchorin
 
 In summary, the key takeaways are the identification of the 3 motivational sweet spots for goals and how goal anchoring can further leverage these to increase motivation for goal pursuit. Small wins, medium wins and large wins each offer unique value when used strategically.
 
- Here is a summary of the key points from the passage:
+ 
 
 1. Anchoring makes mini habits more appealing by comparison. Without anchoring to larger goals, mini habits can feel abstract and unmotivating. But when compared to medium and large goals, mini habits appear incredibly easy and attainable. This increases their appeal.
 

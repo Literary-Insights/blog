@@ -267,7 +267,7 @@ The passage discusses why indigenous peoples and cavemen likely did not experien
 
 - The 1518 Dancing Plague of Strasbourg saw hundreds involuntarily dance for weeks, with some dying of exhaustion. Possible causes included ergot poisoning or mass hysteria from famine/disease stress, showing how social contagions can spread without modern technology.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The Werther Effect refers to how suicide can spread through social contagion, like how Goethe's novel The Sorrows of Young Werther inspired copycat suicides across Europe in the late 18th century. 
 

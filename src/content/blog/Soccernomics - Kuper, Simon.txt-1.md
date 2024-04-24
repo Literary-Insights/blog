@@ -812,7 +812,7 @@ In summary, the perception of frequent soccer-related suicides is essentially a 
 
 - More research is needed overall, but sports may contribute to and prevent suicides depending on the individual. For some vulnerable fans, losing their team may push them over the edge, while for others, the sense of community may keep them going.
 
- Here's a summary:
+ 
 
 The figures suggest sport is an important communal activity for many people. About a third of Americans watch the Super Bowl; soccer is even more popular in Europe, with most of the population watching major games in some countries. 
 

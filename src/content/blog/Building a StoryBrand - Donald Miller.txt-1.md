@@ -53,7 +53,7 @@ Does this summary accurately reflect the key points and main takeaways from the 
 
 - The narrative that comes out of and circulates within a company must be clear. Confusing communication leads to unmet objectives and missed opportunities.
 
- Here's a summary:
+ 
 
 - Business has an enemy called "noise" - too much clutter and confusion in marketing messages. This kills more businesses than recessions or lawsuits. 
 - A business owner thought his business was too complex to simplify its message. But a simple message like "We Paint All Kinds of S#*%" would likely grow his business. 
@@ -80,7 +80,7 @@ The primary factors responsible for Apple's growth are:
 
 In summary, Apple's growth can be attributed to their extreme clarity, simple story, use of familiar plot points, and ruthless focus—all of which allow customers to quickly understand how Apple's products can help them. This simple yet compelling brand message has propelled Apple to become the most valuable company in the world.
 
- Here's a summary:
+ 
 
 A good messaging filter will:
 
@@ -119,7 +119,7 @@ The SB7 Framework:
 
 In summary, the SB7 Framework uses storytelling principles to simplify marketing and messaging. It results in a single "BrandScript" to create improved marketing materials and a clear brand position. When customers understand how a brand can help them, the company will grow.
 
- Here's a summary:
+ 
 
 - Every story has a hero that wants something 
 - Brands should define what their customer wants so the customer becomes the hero of the story
@@ -219,7 +219,7 @@ The key takeaway is that customers want guidance, and brands that can embody the
 
 The key lesson is that brands should position themselves as the helpful guide in the customer's journey, not the hero of the story. Express empathy for the customer's problems, then demonstrate the authority and competence to help them overcome challenges and achieve their goals. But make sure the story remains centered on the customer, not the brand.
 
- Here's a summary:
+ 
 
 To position yourself as a guide, express empathy for your customers and demonstrate your competence. This establishes trust and authority. However, customers still need a plan to move forward. A plan creates clarity by showing customers exactly what to do and reduces their perception of risk. 
 
@@ -291,7 +291,7 @@ In the end, the effectiveness of your call to action will determine your ability
 
 - In summary, successful companies make their calls to action very clear through prominently featuring direct calls to action and using transitional calls to action to build relationships. Customers can’t read our minds, so we have to be explicit in what we want them to do.
 
- Here's a summary:
+ 
 
 • Great stories keep audiences engaged by continually posing the question: Will the hero succeed or fail? Brands must do the same by clarifying what's at stake for customers if they don't choose their product. 
 
@@ -445,7 +445,7 @@ That covers the key highlights and recommendations from the summary on building 
 
 In summary, the key idea is that organizations need a simple, compelling narrative as much as brands do in order to thrive. The StoryBrand Framework provides a method for crafting an internal narrative that gives employees meaning, purpose, and direction. By driving out confusion and disengagement, this narrative can have an enormous impact.
 
- Here's a summary:
+ 
 
 • Companies need more than just a mission statement. They need a unifying narrative or "story" that guides all of their activities and inspires their employees. Without this, companies can suffer from a "narrative void" that leads to disengagement and lack of growth. 
 
@@ -536,7 +536,7 @@ A one-liner is a powerful way to spread a clear, compelling message about your b
 
 • Don’t overthink it. Start with something simple like a downloadable PDF guide. You can build from there.
 
- Here's a summary:
+ 
 
 - Build an email list through a lead generator like an informative PDF guide. Even if open rates are low, it helps brand your company in customers' minds. 
 - Create an automated email drip campaign to stay in touch with potential customers. A nurturing campaign provides value through helpful advice and information. 
@@ -616,7 +616,7 @@ P.S. Did you know we offer discounts for clients who schedule recurring boarding
 
 • When businesses communicate clearly and help customers, it makes the world a better place. Although some businesses are bad, many provide jobs, community, and solve problems. StoryBrand helps good businesses and leaders find their voice.
 
- Here's a summary:
+ 
 
 The author is grateful to work with entrepreneurs and business owners to help them grow their companies. He understands the difficulties of running a business and built the StoryBrand Framework to help reduce stress, gain more customers, and increase revenue. 
 

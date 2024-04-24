@@ -33,7 +33,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 The summary outlines the key events in the start of CD Baby, the author's motivation and mindset, the 4 utopian points that guided it, and the main lesson from the story. Please let me know if you would like me to clarify or expand on any part of the summary.
 
- Here's a summary:
+ 
 
 Laws/rules:
 

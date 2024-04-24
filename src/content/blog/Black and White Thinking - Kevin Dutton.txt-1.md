@@ -319,7 +319,7 @@ In summary, Campbell highlights the limitations of simplistic binary categorizat
 
 - Overall, language plays a powerful role in constructing our reality, determining what we see and how we see it. The labels we use don't just reflect pre-existing categories, but actively create and constrain them. Our thoughts are shaped by the linguistic categories wired into our brains.
 
- Here's a summary:
+ 
 
 The article discusses how language shapes our perception of the world. It gives examples of how different languages divide up the color spectrum in different ways. Speakers of the Berinmo language, for instance, are very good at discriminating between shades of green because they have many words for different greens. But they struggle to tell blue from green because they lack a word for blue. 
 

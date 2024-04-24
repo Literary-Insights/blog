@@ -233,7 +233,7 @@ In summary, as branding proliferates, corporate sponsorship increasingly goes be
 
 - The pervasiveness of branding has led to less unmarketed artistic space. The desire to protect art from commercialism has been trampled by the "manic branding imperative." Brand managers now see themselves as culture makers, erasing the line between ads and art.
 
- Here's a summary:
+ 
 
 The passage discusses how brands have increasingly sought to associate themselves with popular celebrities and musicians, sometimes overshadowing the stars themselves. It provides examples of beer companies like Molson hosting secret concerts where the band's name is not announced beforehand, so that the brand gets more attention than the musicians. Nike is highlighted as a definitive example of a brand eclipsing the sports and athletes it sponsors, through its marketing campaigns portraying sports stars like Michael Jordan as larger-than-life superhumans. The summary touches on major points like brands competing directly with celebrities, the rise of pre-fabricated bands as brands, and Nike's strategies of turning athletes into Hollywood-style stars unmoored from their teams or sports. The overriding theme is brands' quest to absorb cultural space previously occupied by sponsored entities like sports leagues and musicians.
 
@@ -413,7 +413,7 @@ In summary, increased corporate sponsorship and research partnerships have threa
 
 - So while activists saw representation as a political goal, companies leveraged it for commercial aims. Identity politics was effectively absorbed into branding imperatives.
 
- Here's a summary:
+ 
 
 In the 1990s, many companies began using diverse and politically correct imagery in their advertising and branding. For example, Starbucks marketed itself as a "politically correct, cultured refuge", Abercrombie & Fitch had suggestive ads featuring same-sex couples, and brands like Pride Beer and Wave Water targeted the gay community. The Gap filled its ads with racially diverse models, while Nike featured quotes from Tiger Woods about racism. This embrace of diversity fitted with the rise of identity politics and the demand for better representation of marginalized groups. 
 
@@ -929,7 +929,7 @@ In summary, corporations' focus on self-interest and cost-cutting has damaged wo
 
 - Overall, culture jamming faces critiques of being a fad, lacking resources compared to the marketing industry, and questions of whether it can truly counterbalance marketing power and saturation.
 
- Here's a summary:
+ 
 
 The summary describes how corporate logos and branding have been appropriated and subverted by youth and counterculture movements like the rave scene. Brand logos appear on clothing, tattoos, and even ecstasy pills, a form of cultural jamming. This is seen as a reaction against invasive corporate marketing. 
 
@@ -1389,7 +1389,7 @@ However, market-driven policies failed to prevent 9/11 and were inadequate in th
 
 - This new activism aims to disperse power through decentralized networks, not seize it. The Zapatistas exemplify this goal of creating "free spaces" outside state control as counter-power, not taking over the state.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Marcos is a Zapatista spokesperson who hides his identity behind a black mask. He says the mask allows him to represent marginalized peoples everywhere. 
 

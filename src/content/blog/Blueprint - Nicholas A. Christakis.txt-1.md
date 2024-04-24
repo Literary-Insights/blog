@@ -1127,7 +1127,7 @@ This passage provides brief additional context about the Doddington shipwreck an
 
 - Collective child-rearing arrangements presented challenges like lack of individual attachment to parents and discontinuation of the model by subsequent generations. Factors like community size and interaction with the outside world influenced long-term survival of intentional communities.
 
- Here is a summary of the key points from the passage:
+ 
 
 - A lack of attachment to a primary caregiver in early childhood can have many negative effects on psychological and social development. 
 

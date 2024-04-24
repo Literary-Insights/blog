@@ -631,7 +631,7 @@ In summary, large companies can improve their chances of succeeding with disrupt
 
 - Overshooting demand with over-designed products is a common mistake. Market research doesn't always reveal it. Disruption often comes from focusing on ease of use and convenience rather than max performance. Established firms tend to overload disruptive products with unneeded features.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Ces (companies) focused on diabetes care are the leading customers in the insulin business. Their most important patients are those with the most advanced and difficult to treat forms of diabetes, like insulin resistance. 
 

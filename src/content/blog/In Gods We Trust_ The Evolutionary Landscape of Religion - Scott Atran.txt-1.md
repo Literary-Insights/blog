@@ -789,7 +789,7 @@ The summary neglects special attention to the supernatural aspects as requested,
 
 - The amygdala-hippocampus complex is neurobiologically linked to religious experiences involving visions, trance, and glossolalia as well as some pathological experiences. Seizure activity in these areas could produce hallucinations interpreted religiously.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Brain imaging has shown increased activity in the temporal lobes, especially around the amygdala-hippocampal complex, during religious experiences like meditation, prayer, speaking in tongues, and trance states. However, it has also been linked to pathological states like epileptic seizures and schizophrenic hallucinations. 
 

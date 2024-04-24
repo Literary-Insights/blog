@@ -724,7 +724,7 @@ So in summary, while limited liability clearly provides economic benefits, the m
 
 - Together these statements provide information on the company's performance and financial position over a period of time.
 
- Here is a summary of the key points from the passage:
+ 
 
 (1) A company pays tax on its profits, known as corporation tax. The tax due at the year-end is shown as a current liability in the statement of financial position. 
 
@@ -742,7 +742,7 @@ So in summary, while limited liability clearly provides economic benefits, the m
 
 (8) Depreciation is charged on non-current assets, accumulated depreciation is deducted from cost to arrive at the net book value shown in the statement of financial position.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The National Audit Office (NAO) examines how government departments spend taxpayers' money. 
 
@@ -955,7 +955,7 @@ The key learning objectives are for Edgar to gain an understanding of:
 
 - As an accountant, James would be able to reconcile the differences between the profit reported, the changes in cash per the cash flow statement, and the ending cash balances on the balance sheet. He could also explain where the profit ultimately went if it did not result in higher cash balances.
 
- Here is a summary of the key points from the passage:
+ 
 
 - This chapter covers annual reports and provides necessary background information to understand a company's annual report and accounts. 
 
@@ -1086,7 +1086,7 @@ The key aspects of the activity are:
 
 The goal is for students to gain experience evaluating and comparing the profit/loss statements reported in different companies' annual reports. By noting differences, they can better understand variations in financial statement presentation conventions.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The notes to the financial statements provide additional details and information to supplement what is presented on the face of the statements themselves. They avoid over-crowding the statements and allow for additional explanatory information. 
 
@@ -1815,7 +1815,7 @@ The key techniques discussed are payback period, discounted payback period, inte
 
 - Choosing a financing method for a capital investment project is an important decision that managers should get expert advice on. Key questions to ask accountants include what appraisal method they used, allowance made for inflation/taxation, the rate of return used, qualitative factors considered, and how to value those qualitative factors monetarily. Capital investment appraisal is complex and managers from different departments may have biased views, so questioning the financial analysis is important.
 
- Here is a summary of the key points from the passage:
+ 
 
 - A processing manager may be convinced that a new high-powered computer is essential for their operations. This could be one potential capital expenditure project the company is considering. 
 

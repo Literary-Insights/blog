@@ -233,7 +233,7 @@ Overall, the passage provides real-world examples of the author's copywriting pr
 
 - Feedback from the client would help refine the ideas and customize them to the brand's specific needs.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Tim Rich is interviewed about his work as a copywriter. He has an unusual perspective since he focuses on corporate communications work rather than fast-paced marketing. 
 
@@ -349,7 +349,7 @@ Overall, the passage provides real-world examples of the author's copywriting pr
 
 - Traditional craft skills of copywriting are less important today. The role is more about strategic thinking, idea generation, and illuminating a brand through stories - not necessarily through elegant prose.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The agency wasn't very interested in the 118 118 account at first. However, once they got the account, the writer was able to successfully apply meme theory to a particular campaign. 
 

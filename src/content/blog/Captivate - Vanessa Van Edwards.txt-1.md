@@ -165,7 +165,7 @@ The key to a great first impression is building trust, appearing confident, and 
 
 The biggest takeaway is that creating memorable and meaningful conversations requires effort and intention. Using strategies to build connection, share an exciting message, and induce pleasure through conversational sparks can turn anxious or mundane interactions into impactful ones. With regular practice, these techniques can become habitual.
 
- Here's a summary:
+ 
 
 The key to sparking an engaging conversation is using "conversation sparkers" instead of dull, generic questions. Conversation sparkers introduce novelty by asking unexpected questions that get people talking about topics they find interesting or exciting. Some highly-rated conversation sparkers include:
 
@@ -223,7 +223,7 @@ Sloan’s approach demonstrates two key skills:
 
 In summary, listening well and highlighting the strengths of others are valuable skills that can motivate people and build connections. Silent Sloan was a master of these techniques.
 
- Here's a summary:
+ 
 
 - Lewis Howes was a professional football player until he suffered a career-ending wrist injury at age 24.
 
@@ -647,7 +647,7 @@ The key is to share real stories, speak authentically, and make a human connecti
 
 • The key hack is using stories to capture imagination and attention, building connection and bonding. A Story Stack gives you a structure to do this.
 
- Here's a summary:
+ 
 
 The keys to effective storytelling are:
 
@@ -839,7 +839,7 @@ Does this help summarize the key points? Let me know if you would like me to cla
 
 • Managing people's fear responses and emotional hijacking requires addressing the underlying fears and helping engage the high road. Building self-awareness, addressing past triggers, and learning coping strategies can all help.
 
- Here's a summary:
+ 
 
 - Difficult people are often in a state of constant fear and survival, making it hard for them to connect rationally or show compassion. 
 

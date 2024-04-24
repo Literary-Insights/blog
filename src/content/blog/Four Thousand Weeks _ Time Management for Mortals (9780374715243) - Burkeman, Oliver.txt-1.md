@@ -297,7 +297,7 @@ More broadly, the author notes the tendency to treat all of life instrumentally,
 
 In summary, our instrumental view of time has made pure leisure and pleasure feel unproductive and indulgent. But rediscovering the value of rest for its own sake, not just as a means to improve our work, is important.
 
- Here's a summary:
+ 
 
 The article argues that leisure and rest have become solely a means to an end in modern society, rather than being seen as worthwhile in their own right. In the ancient world, leisure was viewed as the highest good - an end in itself that made other virtues worthwhile. But the rise of industrialization established work as the point of living, with leisure merely a way to recharge for more work. 
 
@@ -393,7 +393,7 @@ This impatience manifests in wanting to hurry along not just technology but othe
 
 - The takeaway is that while personal freedom over time has appeal, we thrive most when anchoring our lives to shared rhythms and rituals that bind us together. Total individual sovereignty over time has a cost.
 
- Here's a summary:
+ 
 
 The book argues that synchronized group activities like marching, singing, and dancing foster deep social cohesion and a feeling of connection to something larger than oneself. Even rivals spontaneously fall into sync, as when sprinters match each other's steps. Though individual freedom in managing time is culturally celebrated today, the book suggests that submitting to group rhythms brings profound meaning. As work schedules become more fragmented, it's harder to find shared time for mealtimes, social visits, and collective projects. The unbridled individual freedom to control one's schedule often leads to less freedom, as work intrudes on all aspects of life. Ultimately, synchronizing schedules with others brings a sense of belonging that strict personal time management can't provide.
 

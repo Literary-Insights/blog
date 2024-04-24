@@ -29,7 +29,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 The core message is that the comfort zone is not something to escape, but rather something to embrace and expand in order to achieve sustainable growth and fulfillment. Does this help summarize the key points? Let me know if you need any clarification or have additional questions!
 
- Here's a summary:
+ 
 
 The author has always been a dreamer, even amidst a difficult childhood of poverty, instability, and judgment from others. She was repeatedly told she needed to "step outside her comfort zone" in order to change her circumstances and achieve her big dreams. So she became obsessed with pushing herself beyond her limits, believing that hard work and discomfort would lead to success. 
 
@@ -195,7 +195,7 @@ The key is examining your beliefs about the Comfort Zone so you can release limi
 
 In summary, focusing on feeling good shifts you internally so you can hear your inner wisdom and take small, comfortable steps to build the life you want. Listening to this inner guidance is key.
 
- Here's a summary:
+ 
 
 After years of living outside her comfort zone, Kristen Canty began listening to her body, mind, and soul to understand what she truly needed. She replaced self-judgmental statements with compassionate questions to uncover her true desires. Trusting her intuition became her guide. Gratitude and affirmations became daily rituals. The more she allowed herself to feel comfortable, the more inspired she became. 
 

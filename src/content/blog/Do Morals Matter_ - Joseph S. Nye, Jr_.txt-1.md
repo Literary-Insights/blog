@@ -769,7 +769,7 @@ The passage discusses America's role in the world and the current international 
 
 In summary, the migration crisis of 2015 severely tested Europe's open border system and solidarity, while fueling a rise in anti-immigration populism across the continent. It highlighted the need for EU reform and coordination on asylum policy.
 
- Here is a summary of the key points from the passage:
+ 
 
 - ade, Walter, 110 - These are three data points that were provided but no context about what they refer to. 
 

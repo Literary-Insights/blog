@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points in the introduction:
+ 
 
 - The author, a Harvard Business School professor, spent time working at Osteria Francescana, a top Michelin-starred restaurant in Italy run by chef Massimo Bottura. He served dishes like "The Crunchy Part of the Lasagna" and "Boiled Meats, Not Boiled."
 

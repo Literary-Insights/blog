@@ -405,7 +405,7 @@ So in summary, Elliott became a major Twitter shareholder and applied pressure f
 
 - While Dorsey had saved and transformed Twitter, running it had become unenjoyable for him due to accountability demands, content decisions like banning Trump, and his shifting interests to Bitcoin and Square. His departure was a major moment but ensured product leaders would guide Twitter going forward.
 
- Here's a summary:
+ 
 
 - Elon Musk began secretly buying Twitter stock in January 2022, eventually acquiring over 9% and becoming the company's largest shareholder. 
 
@@ -651,7 +651,7 @@ In summary, Musk made an impromptu first visit to Twitter headquarters after the
 
 - The steep cuts left many operational holes in the company that existing staff worried could lead to outages or moderation issues ahead of the US midterm elections.
 
- Here's a summary:
+ 
 
 - Twitter laid off about 3,700 employees but faced lawsuits because Musk misrepresented how long they would be kept on payroll after layoffs (60 days notice required)
 

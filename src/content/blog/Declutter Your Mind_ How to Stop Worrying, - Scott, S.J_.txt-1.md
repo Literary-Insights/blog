@@ -113,7 +113,7 @@ Building the habit of reframing negative thoughts takes consistent practice of t
 
 The key is to start with awareness and make a habit of noticing your thoughts and the stories you tell yourself. Then reframe them in a way that empowers rather than victimizes you. This is a learnable skill that requires patience and practice. Keeping a meditation or thought diary can help show your progress over time.
 
- Here's a summary:
+ 
 
 - You can't overcome negative thinking completely, but you can manage it by being proactive with your thoughts. 
 - Interrupting negative thoughts is only part of the process. You need to fill the void with constructive thoughts to avoid falling back into old patterns.
@@ -129,7 +129,7 @@ The key is to start with awareness and make a habit of noticing your thoughts an
 
 - Examples: A value of freedom and flexibility allowed saying no to job opportunities that wouldn't provide happiness. Values act as a compass to move in your desired direction daily.
 
- Here's a summary:
+ 
 
 • Living in alignment with your core values leads to greater happiness and fulfillment. Identifying your values and priorities helps provide purpose and direction.
 
@@ -155,7 +155,7 @@ The key is to start with awareness and make a habit of noticing your thoughts an
 
 • Other tips: start with one priority or goal at a time. Review progress regularly. Learn from both successes and perceived "failures." Be flexible - life changes, and so can your goals and mission. But stay true to your core values.
 
- Here's a summary:
+ 
 
 Contentment and progress do not have to contradict each other. It's possible to be happy with your life now and still work toward a better future. Focusing completely on the present or solely on the future can both lead to suffering. The key is finding a balance between contentment in each moment and progress toward meaningful goals.
 
@@ -239,7 +239,7 @@ To break free from negative thoughts about past relationships:
 
 Summary: Stop comparing and ruminating. Accept yourself, change what you can, appreciate blessings. Resolve issues when possible, reframe your story, and forgive for your own wellbeing. This frees you to build fulfilling present relationships.
 
- Here's a summary:
+ 
 
 • Forgiving someone doesn't necessarily mean reconciling with them. It means letting go of resentment and anger so it doesn't further poison you. It can be hard, especially if the person hasn't taken responsibility for their actions. But you can start by recognizing they're doing the best they can. Shift your thoughts from them to yourself. Acknowledge your feelings without blaming them. Ask how you can improve. 
 
@@ -275,7 +275,7 @@ Summary: Stop comparing and ruminating. Accept yourself, change what you can, ap
 
 •Letting go of draining relationships frees you up to focus on healthy, positive relationships. Although difficult, it can lead to greater well-being and peace of mind.
 
- Here's a summary:
+ 
 
 • Decluttering your surroundings, especially your home, can help reduce stress, anxiety, and feeling overwhelmed. A cluttered environment distracts you, limits your ability to focus, and makes you feel agitated.
 
@@ -339,7 +339,7 @@ Some strategies to declutter your schedule and life:
 
 The key is making conscious choices to avoid an overcommitted life and focus on what gives you meaning, joy and fulfillment. While it may feel overwhelming at first, creating space in your life will reduce stress and increase happiness.  Your world will still continue even if you slow down.
 
- Here's a summary:
+ 
 
 • Set aside at least 15-30 minutes to enter a state of flow. Give yourself enough time to become fully immersed in the task. 
 

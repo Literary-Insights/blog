@@ -333,7 +333,7 @@ So in summary, it establishes the foundational concepts, terminology and rules n
 
 - This provides an example of calculating the probability of events based on the number of elements in the event compared to the total elements in the sample space. The empty set has a probability of 0, while the sample space itself has a probability of 1.
 
- Here is a summary of the key points from the passage:
+ 
 
 - A random variable assigns a numerical value to each possible outcome of a random experiment. It allows probabilities to be determined based on the values of the variable rather than enumerating each outcome. 
 

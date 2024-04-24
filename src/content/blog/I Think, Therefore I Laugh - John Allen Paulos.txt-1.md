@@ -59,7 +59,7 @@ So in summary, it introduces the two basic logic laws, provides examples of thei
 
 - In summary, for this third view, the law of the excluded middle is considered valid because for any proposition, it should be possible to construct a proof of its truth or falsity, with no third option of being undetermined. Truth is a matter of constructive provability under this view.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The passage discusses different types of logical arguments and fallacies, including self-referential statements like Epimenides' paradox "All Cretans are liars" and related liar paradoxes. 
 

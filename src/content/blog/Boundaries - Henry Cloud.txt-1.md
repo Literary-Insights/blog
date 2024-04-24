@@ -23,7 +23,7 @@ BOOK LINK:
 
 Sherrie: I wish, but my friend Martha canceled today’s visit.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Sherrie Phillips is a fashion designer who is constantly helping other people at the expense of her own needs. 
 

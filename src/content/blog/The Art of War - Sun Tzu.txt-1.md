@@ -187,7 +187,7 @@ The main themes are that speed, adaptability, division of enemies, and strategic
 
 The overall message is that the art of war values strategy over destruction, and views achieving victory through diplomacy and maneuvering as superior to winning through sheer force. The ideal is to defeat the enemy while keeping damage and casualties to a minimum on both sides.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The greatest victory is to overcome the enemy's army without fighting. This destroys their plans before they can mobilize. 
 
@@ -879,7 +879,7 @@ The passage discusses ways for military leaders to manage the energy and morale 
 
 The general ideas seem to be: carefully manage troop energy and morale throughout mobilization and combat; excite spirit when assembling, then increasingly temper and focus energy as battle nears; and maintain high and prolonged energy on the day of battle itself. This suggests the importance of strategic leadership in directing the psychological states of troops for optimal effectiveness.
 
- Here is a summary of the key points from the passage:
+ 
 
 - When assigning positions, match people's talents and capabilities to their roles. 
 
@@ -929,7 +929,7 @@ The key principles are adapting to circumstances, using terrain and positioning 
 
 The passage provides an overview of fundamental battle formation principles, though the fragmentary nature makes a comprehensive summary impossible. Key themes are the adaptability and strategic purpose behind different formations.
 
- Here is a summary of the key points from the passage:
+ 
 
 - To attack a round battle formation, feign retreat to split up and disrupt the enemy, then counterattack with full force. 
 

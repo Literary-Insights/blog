@@ -171,7 +171,7 @@ The trend toward larger family size began in the late 1930s in some countries, d
 
 Declining mortality played a major role in triggering demographic transitions as it reduced the need for large families. However, cultural values and economic factors also influenced fertility behavior. While mortality decline preceded fertility decline, in some cases fertility rose briefly after initial mortality declines. Wealthier families in countries like Italy tended to adopt birth control earlier. Theories propose both material factors like a "quantity-quality tradeoff" of fewer higher-investment children as well as cultural emancipation as drivers of lower fertility. Africa remains an exception with cultural preferences still favoring moderately high fertility in many societies. Overall most countries are now below replacement-level fertility and this global transition represents a major transformation in human demographic patterns.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Oded Galor attributed fertility decline to rising demand for human capital in the latter half of the 19th century, as incomes rose allowing more education investment in children. This created a self-reinforcing cycle of increasing education and technical progress. 
 

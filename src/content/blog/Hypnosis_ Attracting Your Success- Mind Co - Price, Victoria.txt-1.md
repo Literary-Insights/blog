@@ -240,7 +240,7 @@ The ultimate goal of hypnosis using any method is to access the subject's subcon
 
 • In summary, self-hypnosis is a useful skill that provides a means to harness the unconscious mind's power and overcome obstacles created by the conscious mind. With practice, it can be a tool for success and a happier, more fulfilling life.
 
- Here's a summary:
+ 
 
 Self-hypnosis works by reprogramming your subconscious mind. It helps you address negative triggers and beliefs that influence your thoughts and behaviors. The process involves three main parts:
 

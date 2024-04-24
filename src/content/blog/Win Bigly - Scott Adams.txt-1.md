@@ -559,7 +559,7 @@ In summary, while the scandal provided an opportunity for Trump supporters to cr
 
 That covers the main persuasion techniques called out in the summary. Let me know if you need any clarification or have additional questions.
 
- Here is a summary of the key points from the passage:
+ 
 
 1. Simple explanations look more credible than complicated ones. Trump's explanations tended to be simple and succinct, which added to their persuasive power.
 

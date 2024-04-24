@@ -71,7 +71,7 @@ BOOK LINK:
 
 - The book examines how the partnership between Russia and China might alter aspects of the world order, both in terms of power dynamics and what norms and rules govern international conduct. It looks at their historical relationship and how they each view the current international system.
 
- Here's a summary:
+ 
 
 - Russia established the first regular foreign relations and treaty with a European state in the early 1700s, establishing relations on more equal terms compared to China's traditional tributary system. Their agreement opened up trade and permitted a Russian Orthodox mission in Beijing. 
 

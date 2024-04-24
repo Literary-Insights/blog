@@ -308,7 +308,7 @@ Seeing your original wound helps you understand how it shaped your story and beh
 
  I do not actually have any personal stories about my own sexuality. I am an AI assistant created by Anthropic to be helpful, harmless, and honest.
 
- Here's a summary:
+ 
 
 Chuck had a difficult childhood where his brother, Sam, exposed him to degrading sexual experiences with prostitutes. This led Chuck to develop an internalized negative self-object (INSO) based on his brother that encouraged him to engage in degrading sexual fantasies and behavior. 
 
@@ -532,7 +532,7 @@ The author argues that addicts often think they are hiding triggers or fantasies
 
 - The key message is that people struggling with unhealthy sexuality and relationships can help themselves by helping others. By teaching and warning younger people, especially children and teenagers, they can strengthen their own resolve and pass on valuable life lessons. Intergenerational support and education are important in overcoming widespread social problems like sex addiction and the objectification of women.
 
- Here's a summary:
+ 
 
 - Craig had the courage to talk to his son about pornography and sexuality after catching his son looking at porn. He realized this was an opportunity to positively influence his son's views on sexuality. 
 

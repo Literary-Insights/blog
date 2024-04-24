@@ -105,7 +105,7 @@ In summary, while some degree of fear may be appropriate for deterring very youn
 
 The key ideas here are that comprehensive sex education and permissive attitudes have failed, abstinence education shows promise but needs support, and Bill Clinton's actions contributed to the moral decline of youth. The author argues for a return to traditional morality to address issues like teen pregnancy and STDs.
 
- Here's a summary:
+ 
 
 - 17% of guys have lied to a friend about going further with a girl than they really did.  
 - 17% of guys have lied to a girl about being a virgin when they weren't, so she wouldn't worry about STDs. 
@@ -148,7 +148,7 @@ In summary, the author argues that colleges promote a hyper-tolerant culture whe
 
 - In summary, the article portrays colleges as facilitating a hypersexualized culture while restricting free expression and moral views that contradict their own social liberalism. The universities have taken over parental roles but promote moral relativism rather than objective values.
 
- Here's a summary:
+ 
 
 - College administrators and professors today actively promote sexual experimentation and licentious behavior. They have fully embraced the radical student movements of the 1960s that rebelled against rules and authority. 
 
@@ -386,7 +386,7 @@ The author’s main argument seems to be that we need to pay more attention to t
 
 - In summary, the increasing sexualization of media and culture, especially advertising, risks compromising timeless values surrounding love, relationships, self-worth, and human dignity. Meaningful connections are replaced with superficial titillation and instant gratification.
 
- Here's a summary:
+ 
 
 - MTV targets teenagers and shapes their values and behavior. Studies show most teens watch MTV.
 
@@ -406,7 +406,7 @@ The author’s main argument seems to be that we need to pay more attention to t
 
 In summary, MTV and related media target impressionable youth and spread a toxic set of values focused on sex, drugs, partying, and materialism. They make teens into cultural icons to further spread these values and make them seem cool and rebellious. The result is a generation disconnected from stable values and focused on mindless self-indulgence.
 
- Here's a summary:
+ 
 
 - The sitcom Friends, which aired for 10 seasons between 1994 and 2004, promoted a liberal agenda regarding sex and relationships. 
 
@@ -422,7 +422,7 @@ In summary, MTV and related media target impressionable youth and spread a toxic
 
 In summary, Friends was a pop cultural phenomenon that promoted a permissive and liberal vision of sex, relationships and society. It reflected and influenced broader social changes in how sexuality and social issues were portrayed and perceived.
 
- Here's a summary:
+ 
 
 - Friends became enormously popular and influential, attracting young viewers coveted by advertisers. It promoted an extended adolescence and carefree lifestyle.
 
@@ -484,7 +484,7 @@ Berry’s first nude scene led to more, like an oral sex scene in “Monster’s
 
 In summary, the Hays Code established moral guidelines for movies that have eroded over time. Today, gratuitous nudity, profanity and sex are commonly used in films and even earn actresses critical acclaim and career success. The example of Halle Berry’s career shows how standards have declined in just a few decades.
 
- Here's a summary:
+ 
 
 - Halle Berry's Oscar win in 2002 was seen as long overdue by many, given her previous mediocre roles. In her acceptance speech, she claimed she had overcome huge obstacles as a "woman of color" to reach that point. Some criticized this as an overstatement. 
 
@@ -544,7 +544,7 @@ The summary outlines the major ideas and examples discussed in the passage on ac
 
 The key points are that pornography can be addictive and fuel unhealthy interests and behavior, particularly when viewers become desensitized and seek out increasingly extreme content. However, not all viewers will progress to this level or act violently. Moderation and the type of content are factors in the effect pornography has on individuals and society.
 
- Here's a summary:
+ 
 
 - The author discusses the views of talk show host Jaz McKay, who advocates for pornography and worked in the adult entertainment industry for years.  
 
@@ -687,7 +687,7 @@ The sources discuss concerns with the influence of pop culture, especially hip h
 
 In summary, the sources highlight debates around the impact of pop culture on teens, especially regarding issues of sexuality, body image, and youth rebellion. Provocative female pop artists like Britney Spears and t.A.T.u. in particular faced heavy criticism for being bad role models for their young fans.
 
- Here's a summary:
+ 
 
 - There has been an increase in sexually explicit ads, especially those targeting teens and youth. This is problematic and can negatively impact self-esteem and body image.
 

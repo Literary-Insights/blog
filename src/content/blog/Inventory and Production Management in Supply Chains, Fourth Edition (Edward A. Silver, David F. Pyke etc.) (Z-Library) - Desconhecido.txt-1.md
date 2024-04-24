@@ -717,7 +717,7 @@ So in summary, quantity discounts need to be accounted for and can impact the op
 
 So in summary, accounting for inflation involves discounting future costs to determine the optimal replenishment order quantity that minimizes total present value of costs over time.
 
- Here is a summary of the key points from the passage:
+ 
 
 - When inflation is high, all cash is quickly used to buy inventory since the increase in price exceeds the interest earned on invested capital. This section assumes more reasonable inflation levels. 
 
@@ -1384,7 +1384,7 @@ So in summary, simultaneous determination provides a more optimal solution for s
 
 - Some discussion is provided on deriving and interpreting the decision rule. Further references on related research are also given.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The heuristic described involves precomputing (s, S) values for various mean demand levels under stationary assumptions. It then approximates the non-stationary problem by averaging demand over an estimate of the optimal reorder period from the stationary problem. 
 
@@ -1875,7 +1875,7 @@ So in summary, the section extends the basic coordinated replenishment model to 
 
 - Many other heuristics have been developed since, as the CLSP is an important and difficult production planning problem with capacity constraints.
 
- Here is a summary of the key points from the passage:
+ 
 
 - lmeier and Derstroff (1996) present an approach to solving multi-item inventory problems. 
 
@@ -1921,7 +1921,7 @@ b) Use a modified Silver-Meal heuristic that iteratively calculates the order qu
 
 So in summary, the key steps are to 1) Formulate the problem, 2) Develop the algorithms for the two approaches, 3) Iteratively calculate the order quantities and costs for each approach over the time horizon, and 4) Compare the total costs to select the best approach.
 
- Here is a summary of the key points from the passage:
+ 
 
 - It presents a multi-item inventory model with coordinated replenishments at a single stocking point. The objective is to minimize total replenishment and holding costs. 
 

@@ -247,7 +247,7 @@ In summary, the text argues against restrictive dieting and advocates for a bala
 
 - Seeking complete purity in eating leads to stress and orthorexia. Allowing yourself to eat "impure" or shitty foods helps reduce obsession and fear. Purity doesn't exist - focus on reducing judgment of foods instead of avoiding anything deemed unhealthy.
 
- Here's a summary:
+ 
 
 The idea that we need to eat a "pure" diet to be healthy is misguided. It comes from a place of trying to control things out of fear. In reality, it's impossible to eat a 100% pure diet, and that shouldn't be the goal. 
 
@@ -289,7 +289,7 @@ The main points are that restricting food intake can paradoxically lead to overe
 
 In short, incorporating brief periods of conscious rest into your day has widespread benefits for your mind, body, and overall well-being. The simple ritual of lying down to do nothing for 10 minutes can go a long way.
 
- Here's a summary:
+ 
 
 The passage encourages rest as an essential part of the "Fuck It Diet" process, both physically and mentally. It points out that chronic stress puts the body in "fight or flight" mode, which causes inflammation and depletion over time. Rest helps activate the parasympathetic "rest and digest" nervous system to lower stress hormones and promote healing. 
 

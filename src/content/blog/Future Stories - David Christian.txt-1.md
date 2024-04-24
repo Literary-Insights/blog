@@ -781,7 +781,7 @@ In summary, if humanity survives this bottleneck period, our descendants may pop
 
 - The author also includes a glossary defining some key terms used in the book, covering concepts from various disciplines like physics, biology, philosophy, and more.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The era being described spans from the evolution of early humans hundreds of thousands of years ago until the end of the last ice age around 10,000 years ago. 
 

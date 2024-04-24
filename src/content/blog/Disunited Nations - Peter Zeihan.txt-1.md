@@ -191,7 +191,7 @@ Overall, geography and natural resources play a huge role in determining a count
 
 - The concept of a unified Chinese state is relatively recent, as periods of fragmentation and warlordism have been more common than sustained central rule in Chinese history. Food production and distribution have been major factors in states' stability or collapse.
 
- Here's a summary:
+ 
 
 - Without the American global order that stabilized supply chains and trade, the world's population expansion and food production since WW2 will go into reverse. Shorter supply chains mean less demand for raw materials, exports, and ability to import food. 
 

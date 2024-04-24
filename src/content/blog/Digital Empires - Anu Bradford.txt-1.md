@@ -1990,7 +1990,7 @@ In summary, the text provides an overview of digital platforms regulation intern
 
 - While ads have driven huge profits so far, Google and Facebook may need to adapt their business models to changing consumer privacy preferences, regulatory pressures, and competitive threats to sustain long-term growth. But transitioning away from ads presents major challenges.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Chinese state support for Chinese tech companies through funding, regulations, and efforts to promote their global influence. Examples given are 8-9, 71, 96, 391–92. 
 

@@ -241,7 +241,7 @@ In summary, the passage argues innovation is a complex, nonlinear, messy process
 
 - Pharmaceutical giants like Roche and Novartis located in Basel excel through niche innovation rather than scale due to Switzerland's high costs. Their presence has made Basel one of the most innovative cities globally on a per capita basis.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Innovation in the pharmaceutical industry tends to be slow, as drug development, testing and approval takes a long time. This makes market entry difficult and capital intensive. Returns depend on a few major new products. 
 

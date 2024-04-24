@@ -71,7 +71,7 @@ While celebrating recent triumphs of democracy and free markets, it cautions aga
 
 It emphasizes the importance of fully valuing and even enjoying the "plateau" periods of diligent practice with no outward progress. The author reflects on his experience with the martial art of aikido, where long plateaus taught him to persist through practice itself rather than attaching only to results. Learning to appreciate plateaus is key to developing a life of mastery instead of constantly seeking escapes from effort through quick fixes.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The author describes their journey practicing aikido regularly over many months and years at a dojo near their home. They attended classes 3-4 times per week and found great reward and joy in the regular routine of practice, even without clear goals or progress. 
 

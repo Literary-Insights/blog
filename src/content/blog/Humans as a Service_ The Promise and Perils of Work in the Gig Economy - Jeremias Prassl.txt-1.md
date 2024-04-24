@@ -105,7 +105,7 @@ Regulation is key to ensure platforms bear costs of their business model, establ
 
 - If platforms achieve monopoly status, investors expect they will then be able to recoup losses through monopoly rents in the future.
 
- Here is a summary of the key points from the passage:
+ 
 
 - There are contrasting views on the gig economy. Some see it as increasing competition and benefiting consumers and workers through flexible work and extra income. Others see it as exploitative and harming workers through low pay and poor conditions. 
 
@@ -420,7 +420,7 @@ In summary, by rebranding gig work as entrepreneurial innovation, platforms aim 
 
 - Restoring employment law responsibility will bring major benefits for workers and is key for the gig economy's long-term sustainability. The myth that rights contradict flexibility must be debunked.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The bargain between consumers and on-demand platforms may not be as good as promised. There are often issues with the quality of services provided.
 

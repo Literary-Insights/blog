@@ -654,7 +654,7 @@ Consecutive no-hitters and a 56-game hitting streak are both highly unlikely eve
 
 - By comparing expected values, we can make optimal 4th down decisions using concepts like state values and expected points. The same approach can be applied to other in-game decisions.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Football offense and defense can be modeled as a two-person zero-sum game. The offense wants to maximize yards gained, the defense wants to minimize yards allowed. 
 
@@ -1054,7 +1054,7 @@ In summary, advanced analytics can provide insights into optimal strategy, the r
 
 - eSports analytics is still a nascent field with great potential for growth as the popularity of competitive gaming continues rising.
 
- Here is a summary of the key points from the passage:
+ 
 
 - DotA 2 is a popular multiplayer online battle arena (MOBA) game with two competing teams trying to destroy each other's base. Various statistics like win rate and KDA ratio are tracked for each hero character. 
 
@@ -1397,7 +1397,7 @@ In summary, the evidence indicates back-to-backs hurt NBA team performance but b
 
 - The key is formulating the problem correctly with binary decision variables, an objective function to maximize points, and constraints to enforce roster rules and salary cap. Excel and Solver provide a convenient way to find the optimal lineup.
 
- Here is a summary of the key points from the passage:
+ 
 
 - A model was created to select an optimal fantasy basketball team by maximizing expected fantasy points (FPs) subject to constraints like salary cap. 
 

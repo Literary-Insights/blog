@@ -1011,7 +1011,7 @@ The passage provides background on some famous intellectual figures who suffered
 
 So in summary, the passages discuss the prevalence and costs of anxiety disorders, the genetic and intergenerational factors involved, increases in anxiety in modern life, and issues with diagnosis and treatment in primary care.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Anxiety disorders like phobias and panic disorder are highly treatable, with cognitive behavioral therapy (CBT) cure rates as high as 85% for specific phobias. David Barlow is a pioneer in CBT techniques for anxiety disorders. 
 

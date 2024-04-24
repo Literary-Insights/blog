@@ -1981,7 +1981,7 @@ In summary, the passage provides background on the significant contributions and
 
 - Factors like industrial protection, strategies promoting learning, quality of life, structural transformation, and the static vs dynamic nature of comparative advantage all relate to industrialization, economic growth, and development strategies relying on learning processes.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Discusses lump sum taxation in a closed economy model with fixed labor supply and two sectors. Lump sum taxes can be used optimally through subsidies. 
 

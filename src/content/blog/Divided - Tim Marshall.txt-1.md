@@ -129,7 +129,7 @@ BOOK LINK:
 
 - Changing demographics mean some states may become majority-Hispanic and adopt Spanish legally. In the long run some regions may seek greater autonomy, worrying those who want to preserve traditional American identity. The wall epitomizes this ongoing tension over national identity.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The US-Mexico border was established after the Mexican-American War ended in 1848, but the border was only lightly demarcated at first with few boundary markers. 
 

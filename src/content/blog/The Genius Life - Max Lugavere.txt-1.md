@@ -833,7 +833,7 @@ The key is focusing on whole, unprocessed foods that nourish your body and mind 
 
 - Getting a balance of omega-3s and omega-6s is important. The typical Western diet contains too many omega-6s from vegetable oils and processed foods.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Omega-6 fatty acids, oral health guidelines, and organic foods were discussed. 
 

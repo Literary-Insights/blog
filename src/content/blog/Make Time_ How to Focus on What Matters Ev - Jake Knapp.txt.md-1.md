@@ -11,7 +11,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 ---
 
 
- Here's a summary:
+ 
 
 The key message is to focus on meaningful daily activities or "Highlights" instead of being overly busy or distracted. Choosing a satisfying Highlight each day gives life more purpose and helps time feel fuller.
 
@@ -41,7 +41,7 @@ The key mindset is making time for Highlights part of your everyday life, not an
 
 Does this summary accurately reflect the key principles and recommendations from the original passage? Let me know if you would like me to clarify or expand on any part of the summary.
 
- Here's a summary:
+ 
 
 The author describes several tactics and strategies he has found helpful for reducing distraction and maximizing productivity:
 
@@ -91,7 +91,7 @@ Those are the key tactics and strategies the author has found most helpful for c
 
 The key philosophy is making distraction less convenient and reactive so you can shift to more intentional and focused use of your time and technology. With practice, these new habits can become your new defaults. Gaining control of your attention leads to greater productivity and well-being.
 
- Here's a summary:
+ 
 
 The key techniques for finding flow or entering "laser mode" are:
 

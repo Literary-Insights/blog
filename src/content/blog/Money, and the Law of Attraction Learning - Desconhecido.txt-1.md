@@ -83,7 +83,7 @@ Part III: Maintaining My Physical Well-Being
 
 That covers the main highlights and key points conveyed in the preface regarding the message and intention of the book. Please let me know if you would like me to explain or expand on any part of the summary.
 
- Here's a summary:
+ 
 
 • Over 40 years ago, the author discovered Napoleon Hill's Think and Grow Rich, which dramatically changed his beliefs about money and attracted financial success to him.
 
@@ -369,7 +369,7 @@ In summary, you cannot control others or be responsible for their experiences. F
 
 That’s the essence of reversing a downward financial spiral, according to Abraham. Ultimately, your power lies in choosing the thoughts you habitually think. Choose wisely.
 
- Here's a summary:
+ 
 
 • Your life experiences shape your beliefs, but you can start telling a new, positive story about your life to change your results, even if you can't let go of your current beliefs immediately. This will feel like magic as your life transforms.
 
@@ -453,7 +453,7 @@ Does this help summarize the key ideas about using your thoughts to maintain wel
 
 94
 
- Here's a summary:
+ 
 
 • Your thoughts and beliefs create your reality. Your physical body conditions reflect your patterns of thought. 
 

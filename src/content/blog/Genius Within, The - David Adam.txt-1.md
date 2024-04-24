@@ -307,7 +307,7 @@ However, the narrator also notes potential side effects and unknown long-term im
 
 - The stimulation seemed to "unlock" or activate dormant parts of his brain related to social-emotional processing. However, it also caused him difficulty regulating emotion. The long-term effects were unknown, but it gave hope to others with autism.
 
- Here is a summary of the key points from the passage:
+ 
 
 - While general intelligence (g) is important, it is not the only factor that determines one's intelligence. There are also specific mental abilities (s factors) that can vary between tasks. 
 

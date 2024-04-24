@@ -119,7 +119,7 @@ That summarizes the key points about the Schachter/Singer study, Ekman's develop
 
 - Emotions can compromise rational self-interest but enable costly commitments that sustain long-term relationships. They are how people negotiate engagements with others and avoid isolation. Overall, emotions play an important evolutionary role in solving problems of cooperation and commitment between individuals.
 
- Here's a summary:
+ 
 
 - The passage discusses William James's theory that emotions originate from bodily sensations and feelings, rather than facial expressions causing emotions. 
 

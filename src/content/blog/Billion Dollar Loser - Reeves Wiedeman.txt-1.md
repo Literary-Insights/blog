@@ -331,7 +331,7 @@ In summary, Neumann's reckless driving as a teenager presaged the same attribute
 
 - The private fundraising bonanza allowed WeWork to keep growing rapidly without having to go public right away, even though it was still losing lots of money.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Jackie Hockersmith started working at WeWork in January 2016. At orientation, she was given Setting the Table, a book arguing that treating people with respect is key to business success. 
 

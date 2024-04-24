@@ -277,7 +277,7 @@ Being aware of one's tendencies can help recognize when those patterns, like bei
 
 - This process of direct experience and attention, known as "second gear", works better than willpower alone because it hacks the brain's natural reward-based learning system to change associations rather than fighting against it.
 
- Here's a summary:
+ 
 
 - The chapter describes Dave's continued progress in managing his anxiety using habit change techniques. He was able to map out his anxiety habit loops and see that eating to cope didn't actually relieve his anxiety. This helped him lose a significant amount of weight. 
 

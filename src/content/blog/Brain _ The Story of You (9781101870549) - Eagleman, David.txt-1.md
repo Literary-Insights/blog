@@ -179,7 +179,7 @@ So in summary, the brain constructs our perception of reality through complex pr
 
 - In contrast, when I learn the skill, my brain expends more energy through slow, high-level areas involved in conscious control and coordination of movement. Austin's brain can perform it seamlessly without thinking.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Automated skills like walking or driving become unconscious and are harder to consciously control or recall in detail. This allows for more efficient "autopilot" functioning. 
 

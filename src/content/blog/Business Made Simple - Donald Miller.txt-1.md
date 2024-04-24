@@ -25,7 +25,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 •The book provides practical knowledge and skills that help readers succeed in business.
 
- Here's a summary:
+ 
 
 - Character and strong work ethic are key to becoming a value-driven professional
 - Ten characteristics of a value-driven professional: 
@@ -66,7 +66,7 @@ A value-driven professional:
 
 In short, a value-driven professional builds character and leadership ability over time through their attitudes and behaviors. They remain calm and solution-focused, open to feedback, able to navigate conflict, focused on results, and biased toward taking action. These qualities, consistently demonstrated, inspire others to follow their lead.
 
- Here's a summary:
+ 
 
 • A fixed mindset believes that abilities and intelligence are fixed traits that cannot be improved. People with a fixed mindset avoid challenges and become defensive in the face of failure or criticism.
 
@@ -137,7 +137,7 @@ Does this summary accurately reflect the key points around guiding principles an
 
 The key points focus on establishing the right mindset and habits to live purposefully and productively each day. The specific tools, like the planner, provide practical ways to implement productivity principles. But without the right mindset and motivation, the tools themselves are of little use. A productive professional develops both.
 
- Here's a summary:
+ 
 
 To be more productive, do the following:
 
@@ -463,7 +463,7 @@ To be an effective manager:
 
 •Recognize and reward good performance. Both financial incentives and personal recognition motivate team members and reinforce positive results and behaviors. Make rewards timely and specific.
 
- Here's a summary:
+ 
 
 - Coaches and cheerleaders both want their team to win. 
 - But they have different approaches. Cheerleaders just cheer the team on while coaches actually teach the team skills and strategies to help them succeed.
@@ -483,7 +483,7 @@ To be an effective manager:
 
 - The key business tip is: Coach each member of your team by teaching them frameworks they can use to succeed.
 
- Here's a summary:
+ 
 
 - Fuzzy priorities will constantly try to distract you and your team from accomplishing your goals. 
 
@@ -497,7 +497,7 @@ To be an effective manager:
 
 - The one-pager, speed checks, scoreboards, and celebrations provide the routine and cadence to turn your execution plan into a habit and accomplish your goals.
 
- Here's a summary:
+ 
 
 To celebrate wins and drive performance:
 

@@ -137,7 +137,7 @@ So in summary, growth rates declined starting in the late 1990s/early 2000s, lea
 
 - Along with slower human capital growth, slower physical capital growth is one factor behind the ongoing slow GDP growth, though not the only factor.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The previous chapter showed that growth rates of physical and human capital per capita have declined in recent decades. However, it did not show whether lower growth in these inputs fully explains the slowdown in GDP per capita growth. 
 
@@ -381,7 +381,7 @@ You do an excellent job explaining these points clearly and comprehensively. I a
 
 - Recent rises in market power have correlated with less investment and innovation, suggesting we are on the wrong side of the "innovation hill" where too little competition reduces the incentive to innovate.
 
- Here's a summary:
+ 
 
 The implication of increasing market power and markups for firms is that it may have gone past the "sweet spot" where competition induces innovation and investment. While firms can charge high markups, they may not face enough competition to innovate at an optimal rate. 
 

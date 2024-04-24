@@ -315,7 +315,7 @@ The key is setting intentionality around how you spend your attention, through s
 
 - A simplified environment makes it easier to notice when your mind wanders and return your focus. It also helps you get accustomed to working with less stimulation.
 
- Here's a summary:
+ 
 
 To improve your ability to focus, you should modify your environment to eliminate distractions. Do an audit of potential distractions, especially in places where you do focused work, and remove or distance yourself from the most problematic ones. Introduce some positive cues like plants, whiteboards, or books to remind you of your goals. Tidying your physical and digital spaces also eliminates distracting clutter. Mixing up your work location helps minimize environmental cues that trigger thoughts about other tasks. 
 

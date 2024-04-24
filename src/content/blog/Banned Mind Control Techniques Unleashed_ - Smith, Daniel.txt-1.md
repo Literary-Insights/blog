@@ -11,7 +11,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 ---
 
 
- Here's a summary:
+ 
 
 The book discusses five main types of mind control: brainwashing, hypnosis, manipulation, persuasion, and deception.
 
@@ -427,7 +427,7 @@ Deception also frequently appears in philosophy, for example in Descartes' notio
 
 In summary, the main tools of deception are plagiarism, fabrication, and distraction. Deception is commonly used in research and philosophy, though its use remains controversial.
 
- Here's a summary:
+ 
 
 Mind control refers to a process in which a person's psychology is manipulated to achieve certain goals or benefits. It can involve brainwashing, hypnosis, manipulation, persuasion or deception. Brainwashing is an intensive process of manipulating a person's beliefs and mental processes. It involves breaking down one's sense of self and rebuilding it to conform to certain ideologies or beliefs. Hypnosis is an altered state of awareness and increased suggestibility. It can be used therapeutically or in performance. 
 

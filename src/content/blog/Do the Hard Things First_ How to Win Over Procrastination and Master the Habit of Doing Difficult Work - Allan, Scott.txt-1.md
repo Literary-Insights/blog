@@ -71,7 +71,7 @@ BOOK LINK:
 
 - Together we can break the procrastination habit and help you achieve your greatest potential through a step-by-step system. You deserve to live your best life starting today.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The book provides a system for overcoming procrastination through four parts: 
 

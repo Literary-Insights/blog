@@ -573,7 +573,7 @@ So in summary, several European bodies and countries agreed to cooperate on resp
 
 The ending acknowledges all those who contributed to making the book a reality, from the agent, publisher, and developmental editor who helped guide the process, to friends and family who provided support and inspiration. It expresses gratitude for the many steps involved in turning an idea into a published book, from developing the initial proposal through editing, design, and marketing. The author especially thanks his agent, publisher, and developmental editor for trusting his vision and approach, and for allowing him creative freedom. Friends and family, like his grandmother, sister, brother, and cousin, are acknowledged for their influence and conversations that helped shape his career path and ability to write the book. Military mentors are also thanked for opportunities that redirected his path. Overall, it concludes by appreciating all those who have significantly shaped the author's thinking and career.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Putin discussed topics like AI, space, medicine and the human brain in a 45-minute lesson marking the start of the Russian school year which was broadcast to over 1 million people. He said whoever leads in AI will rule the world. 
 

@@ -221,7 +221,7 @@ A plan of action is important for success. Considerations for the plan include:
 
 With obstacles addressed and a good plan, the next step is developing tools for learning like methods to quickly gain a large vocabulary. The keyword method is a highly effective way to memorize many new words through visualization and association rather than boring rote repetition.
 
- Here's a summary:
+ 
 
 The concept of spaced repetition is using flashcards to build vocabulary in an efficient manner. Instead of going through a list of new words in order, you focus on the words you struggle with. Words you know well get pushed to the bottom of the deck, while words you struggle with stay at the top so you can practice them more frequently. This helps avoid wasting time reviewing words you've already memorized. 
 
@@ -283,7 +283,7 @@ The key takeaway is that active techniques like mnemonics, spaced repetition, an
 
 In summary, you do not need to buy a plane ticket to achieve immersion in your target language. With focus and the right mindset, you can create an effective learning environment through connecting with others via technology. Planning a trip to the country can provide motivation, but the most important element is speaking the language, which you can do from anywhere. Location is less important than dedicated practice.
 
- Here is a summary of the key points from the passage:
+ 
 
 • Exposure to native speakers of your target language is the most effective way to learn. You can surround yourself with native speakers in person or connect with them digitally. 
 
@@ -593,7 +593,7 @@ In summary, closely listening to, imitating, and mimicking native speakers in an
 4. Certain words and phrases simply "feel right" or "sound wrong" in the appropriate language context. This comes from mental association and reinforcement.
 5. Being in environments that require switching between languages. This helps strengthen the ability to keep languages separate.
 
- Here's a summary:
+ 
 
 • Practice speaking the language as much as possible, ideally with other humans. This is the most important aspect of learning a new language and cannot be replaced by any course or tool.
 
@@ -723,7 +723,7 @@ And besides that . . .
 Oh, I nearly forgot . . .
 And one more thing . . .  On the other hand . . .
 
- Here's a summary:
+ 
 
 - The book Fluent in 3 Months by Benny Lewis aims to show how anyone can learn a new language quickly. 
 

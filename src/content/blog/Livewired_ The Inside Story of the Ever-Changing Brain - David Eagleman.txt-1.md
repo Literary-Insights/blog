@@ -701,7 +701,7 @@ So in summary, the key ideas are about brain plasticity and remapping, direct br
 
 So in summary, putting an arm in a sling leads to changes in the brain's body map as other areas encroach on the shrinking representation of the immobilized arm, making rehabilitation more difficult. This effect is especially strong if immobilization occurs during development.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Memory formation is thought to involve long-term potentiation (LTP) and long-term depression (LTD) of synapses. LTP strengthens synapses while LTD weakens them. 
 

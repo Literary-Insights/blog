@@ -470,7 +470,7 @@ The passage discusses various thought experiments and scenarios involving life-o
 
 The passage notes that we routinely weigh lives against other considerations as well, like allowing household products that pose small individual death risks but provide convenience benefits to consumers. It suggests that in policymaking, what matters most is whether individual citizens are comfortable with the level of risk to their own lives, rather than just total numbers of lives lost. Overall the passage examines philosophical issues around quantifying and comparing the value of human lives in policy decisions involving risks and benefits to public safety and welfare.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The main principle outlined is to "give the people what they want" when making policy decisions. This means considering what the preferences and interests of those affected by the policy are.
 

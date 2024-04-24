@@ -479,7 +479,7 @@ This requires imagination and experimentation with new ways of structuring onlin
 
 - Overall, the excerpt argues that internet access should be recognized as a public good necessary for freedom and democracy. It advocates community-run networks as a way to make the internet more equitable and accountable to citizens rather than corporations.
 
- Here is a summary of the key points from the passage:
+ 
 
 - In 1995, Pierre Omidyar founded AuctionWeb, which later became eBay, as an online marketplace aiming to create a "perfect market." Omidyar saw the internet as a way to enable unfettered free trade between individuals. 
 

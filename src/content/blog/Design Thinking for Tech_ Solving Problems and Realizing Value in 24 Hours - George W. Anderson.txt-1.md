@@ -165,7 +165,7 @@ The key takeaway is that Design Thinking offers a toolkit of techniques that can
 
 - The key message is not to dismiss Design Thinking approaches as "not for me." While changes may feel unnatural, these techniques fundamentally rethink how teams learn, think and work, which can lead to more effective outcomes regardless of the label. An open mindset is important for adopting new approaches.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Design Thinking techniques can help tech teams with alignment, sustainability, and resilience. Some specific techniques highlighted include simple rules, guiding principles, inclusive questioning and problem solving, diversity by design, growth mindset, and the rule of threes for iteration. 
 
@@ -333,7 +333,7 @@ Overall, the key is to get diverse viewpoints through various listening and conv
 
 Together, these three dimensions provide a framework for assessing an organization's overall culture from different angles - the broad environment, interpersonal work climate, and practical work style approaches. Understanding these dimensions can help identify strengths and weaknesses in a culture and guide efforts to evolve it in a positive direction.
 
- Here is a summary of the key points from the passage:
+ 
 
 - It introduces a framework for finding and prioritizing stakeholders, which includes stakeholder mapping, connecting with stakeholders, engaging stakeholders, and managing expectations. 
 
@@ -1014,7 +1014,7 @@ Both techniques aim to strengthen the team's resilience through intentional redu
 
 The case study questions ask about scaling team techniques, measuring value, resiliency techniques, the role of silent design, and considering team fragility - to which the answers are provided in Appendix A.
 
- Here is a summary of the key points from the passage:
+ 
 
 - It discusses change management and adoption, focusing on managing the changes that users and teams need to navigate when adopting a new product, solution or way of working. 
 

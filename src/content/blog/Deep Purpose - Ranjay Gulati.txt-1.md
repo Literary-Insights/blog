@@ -419,7 +419,7 @@ In sum, leaders use different types of stories to establish their credibility, s
 
 The key is integrating the "poetry" of purpose with the "plumbing" of day-to-day leadership. Make purpose enduring by embedding it deeply through narratives, behaviors, and management actions. Live out the purpose authentically.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Deep purpose leaders connect the organization's purpose with each employee's personal purpose and growth. This fires up intrinsic motivation and commitment. 
 
@@ -449,7 +449,7 @@ The key is integrating the "poetry" of purpose with the "plumbing" of day-to-day
 
 - Deep purpose cultures allow individuality while directing it towards collective goals. People's passions and the company vision become intertwined.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Deep purpose leaders understand that employees' commitment to the organizational purpose is connected to their own self-knowledge and sense of personal purpose. 
 
@@ -614,7 +614,7 @@ In summary, purpose, autonomy, and trust form an interlinked nexus that transfor
 
 - Leaders can address these derailers through thoughtful succession planning, measurement, balancing social good with profit, and aligning purpose with strategy. Though imperfect, these preventative actions make a difference.
 
- Here is a summary of the key points from the passage:
+ 
 
 - When new leaders take over companies with a strong sense of purpose, they must find the right balance between honoring the legacy of their predecessor while also putting their own stamp on the purpose and leadership approach. Some make more explicit changes by modifying the stated purpose, while others take a softer approach of transitioning from "founder-led" to "founder-inspired." 
 

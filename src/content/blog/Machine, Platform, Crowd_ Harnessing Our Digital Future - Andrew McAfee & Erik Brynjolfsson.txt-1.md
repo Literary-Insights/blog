@@ -471,7 +471,7 @@ So in summary, the Unlimited model proved unsustainable, and revenue management 
 
 - Technologies like smartphones, location services, cloud computing were necessary precursors for most O2O models to become viable in recent years.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Uber was founded in 2008 in Paris and originally focused only on limos, but expanded to allowing standard cars and drivers on its platform through services like UberX and UberPool. 
 

@@ -159,7 +159,7 @@ Examples are given of influencing people to think of the same number through pri
 
 - As a mind reader, the author creates emotional connections with audiences through techniques like open predictions that involve the whole group. This engages them in the act and builds anticipation and amazement when predictions come true. Mirroring body language of individuals in the audience also helps connect with them.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Body language provides important clues that mentalists can use to read people and influence them. The author analyzes audience members' body language before and during performances to choose effective volunteers. 
 

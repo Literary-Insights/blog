@@ -601,7 +601,7 @@ So in summary, it cleverly targets men as customers through an engaging story, a
 
 The message appreciates candor, honesty and frankness, as this will allow the other party to respond positively. Even if the message contains critiques or negatives about a product, being transparent and direct will help the other party understand the issue and work to improve it or restore confidence in it. An ally responding constructively to candid feedback, whether to purchase a product, develop goodwill with the company, or address public concerns about a product's safety, can help move in a positive direction.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Joseph Sugarman had success selling his personal airplane through a single ad in a pilots magazine, getting his full asking price. 
 

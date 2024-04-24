@@ -337,7 +337,7 @@ In summary, the passage traces how our understanding of transcription and RNA ev
 
 - So in these cases, lncRNAs regulate genes in a dynamics process of transcriptional interference or activation, rather than through the information content or function of the final RNA molecule. The transcription is more important than the transcript.
 
- Here's a summary:
+ 
 
 - The debate centered around how much of the human genome is "junk DNA" with no function. ENCODE claimed much more is functional than previously thought, implying purpose and intelligent design. 
 

@@ -113,7 +113,7 @@ Does this summary accurately reflect the key perspectives, arguments, interventi
 
 The key ideas are that speed of learning, effort, self-discipline, grit, mindsets, meta-learning, and parenting influence achievement and success. Time spent practicing and gaining knowledge and skill drives achievement. Grit and growth mindset enable the required effort and persistence.
 
- Here's a summary:
+ 
 
 - Unrealistic negative thoughts can interfere with performance but should be evaluated during less demanding times. The Army's resilience program builds skills like re-interpreting negative thoughts.
 

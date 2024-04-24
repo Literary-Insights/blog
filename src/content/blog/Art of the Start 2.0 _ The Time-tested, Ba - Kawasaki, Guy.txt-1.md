@@ -617,7 +617,7 @@ The key is diving in, experimenting, providing value, engaging authentically, me
 
 The key message is to earn social media success through valuable content and engagement, not by buying followers or outsourcing it without thought. Approach social media seriously.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Rainmaking refers to generating large sales. Good salespeople have rituals and tactics to "make it rain" sales. 
 

@@ -731,7 +731,7 @@ So in summary, directly confronting and disproving his worst fear through exposu
 
 So in summary, the therapist identified Lillya's hidden anger through analyzing the content of her anxious thoughts, then helped her express and resolve this, eliminating the underlying driver of her anxiety symptoms. Bringing hidden emotions to light and constructively addressing underlying problems or conflicts can help reduce anxiety.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The passage describes treating a man named Keeshawn who was caring for his elderly mother and experiencing panic attacks and insomnia. 
 

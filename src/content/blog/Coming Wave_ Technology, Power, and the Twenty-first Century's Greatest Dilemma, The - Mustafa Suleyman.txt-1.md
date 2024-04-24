@@ -1,5 +1,5 @@
 ---
-title: Coming Wave_ Technology, Power, and the Twenty-first Century's Greatest Dilemma, The - Mustafa Suleyman
+title: Coming Wave Technology, Power, and the Twenty-first Century's Greatest Dilemma, The - Mustafa Suleyman
 slug: coming-wave-technology-power-and-the-twenty-first-century-s-greatest-dilemma-the-mustafa-suleyman
 tags: 
   - book-summary
@@ -17,9 +17,6 @@ BOOK LINK:
 
 [CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=coming-wave-technology-power-and-the-twenty-first-century-s-greatest-dilemma-the-mustafa-suleyman)
 
-
-
- Here is a summary of the advance praise for the book "The Coming Wave":
 
 - The book explores the existential dangers that AI and biotechnology pose to humanity if not properly managed and regulated. It offers solutions for how to contain the risks while still benefiting from new technologies. 
 
@@ -315,7 +312,7 @@ So in summary, farming and other robots are increasingly performing tasks to inc
 
 The summary argues these four features compound the difficulty of containing new technologies and their risks as power is transferred to more decentralized non-state actors. Asymmetric impact in particular represents a major redistribution of power away from states. The highly networked and interconnected nature of the coming wave also creates new systemic vulnerabilities.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Technological progress is accelerating rapidly, especially in digital technologies due to Moore's law and increases in computational power. Innovation is now spreading from the digital world to the physical world.
 

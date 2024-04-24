@@ -311,7 +311,7 @@ Traditionally in fields like statistics and data communication, visualizations a
 
 - The New York Times election needle that jittered based on forecast uncertainty is discussed as an example of showing rather than just telling about uncertainty. Its affective experience aimed to convey the real-time ranges and shifts.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The New York Times' election forecast graphic in 2020 that jittered represented current best practices for communicating uncertainty visually. It gave readers an intuitive sense of the uncertainty through movement. 
 
@@ -689,7 +689,7 @@ So in summary, the Eviction Mapping Project documents evictions and displacement
 
 - The summary emphasizes examining feminism and feminist history through an intersectional lens that centers the sustained efforts of marginalized groups, rather than just prominent waves or figures.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The passage references three digital humanities projects conducted by Lauren F. Klein and others: Data by Design, Vectors of Freedom, and the Floor Chart Project. More information on these projects can be found at www.lklein.com or in certain published articles. 
 

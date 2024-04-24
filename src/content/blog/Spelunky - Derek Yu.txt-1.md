@@ -55,7 +55,7 @@ That covers the key highlights from the beginning of the chapter on the origins 
 
 - In summary, the author grew up with and was fascinated by some early roguelikes, especially Hack and NetHack, though he only remembers beating one, Shiren the Wanderer. These games made a big impact on him with their mystery, complexity, and possibility spaces.
 
- Here's a summary:
+ 
 
 - NetHack is a popular roguelike that requires extensive knowledge and patience to ascend in. Ascending refers to retrieving an amulet deep within the dungeon and escaping. It can take 40,000 turns or more. 
 - The author found NetHack too tedious to beat, preferring simpler roguelikes. After developing Aquaria, a complex game, the author wanted to make a simpler roguelike. 
@@ -68,7 +68,7 @@ That covers the key highlights from the beginning of the chapter on the origins 
 
 So in summary, the author aimed to combine the action and simplicity of platformers with the variability and consequence of roguelikes. Early builds of Spelunky already featured the key elements of randomized, destructible levels and a spelunking theme. The idea was inspired in part by an obscure 1980s action game with destructible environments.
 
- Here's a summary:
+ 
 
 - Spelunky follows in the tradition of adventure stories about exploring dangerous places for treasure, like Indiana Jones. These stories inspired many video games. 
 
@@ -92,7 +92,7 @@ So in summary, the author aimed to combine the action and simplicity of platform
 
 That covers the main points around Spelunky's themes, level generation, and design. Let me know if you would like me to clarify or expand on any part of the summary.
 
- Here's a summary:
+ 
 
 - The game Spelunky utilizes procedural level generation to create randomized levels. This makes level design easier since the developer only needs to ensure there is a path from the entrance to the exit. Side rooms that happen to connect are a bonus but not required. To players, dead-end side rooms will seem like regular walls. 
 
@@ -117,7 +117,7 @@ That covers the main points around Spelunky's themes, level generation, and desi
 
 That covers the key points on how Spelunky generates randomized levels and populates them with entities as described in the passage. Please let me know if you would like me to clarify or expand on any part of the summary.
 
- Here's a summary:
+ 
 
 - The author developed the game Eternal Daughter using Multimedia Fusion, but the tool and its community stagnated over time. When the tools' limitations were reached, the community also declined.
 
@@ -131,7 +131,7 @@ That covers the key points on how Spelunky generates randomized levels and popul
 
 - Experienced players seek to find the limits of a new game, even if it means frequent death. The author aimed for Spelunky to have many high-risk, high-reward scenarios to tempt such experienced players.
 
- Here's a summary:
+ 
 
 The shopkeeper's AI uses simple rules to get around and attack the player:
 
@@ -191,7 +191,7 @@ The key ideas are:
 
 - In Spelunky, the author aimed for a middle ground. He avoided hand-holding and the opaque continue system of arcades but allowed progress through the Tunnel Man, who offers shortcuts to later levels so players can practice.
 
- Here's a summary:
+ 
 
 - The entrepreneur Tunnel Man will build shortcuts between areas of the game for a price. Players can donate money across runs to eventually unlock the shortcuts.
 
@@ -230,7 +230,7 @@ The key ideas are:
 
 In summary, the key ideas are: 1) the Chain requires mastery and uncovers a secret; 2) difficulty should be built-in, not chosen; 3) the best games have a creator’s vision revealed through play; and 4) this “joy of discovery” should guide players, not indulge them.
 
- Here's a summary:
+ 
 
 - In 2008, Jon Blow released Braid, a successful puzzle platformer, on Xbox Live Arcade. He offered to help Derek pitch Spelunky to Microsoft for XBLA. 
 - Derek was initially hesitant but became interested after seeing other successful indie games on consoles like Castle Crashers and World of Goo. He put together a design document outlining some new features like Challenge Mode, Endless Mode, and local co-op multiplayer.
@@ -240,7 +240,7 @@ In summary, the key ideas are: 1) the Chain requires mastery and uncovers a secr
 
 In summary, Jon Blow helped Derek pitch Spelunky to Microsoft for XBLA, Microsoft approved it but was skeptical Derek could finish alone, and Derek chose his friend Andy as a programmer over more experienced options because of their good team dynamics. Derek believes having a good team is critical for commercial game development.
 
- Here's a summary:
+ 
 
 The author had some difficulties in explaining Spelunky's vision and appeal to newcomers, especially to the mainstream Xbox players. Spelunky was originally designed to be challenging and unforgiving, with the levels and events generated randomly. Much of the joy of playing came from discovering secrets and overcoming difficulties by yourself. The author was worried that adding explicit rewards and hand-holding systems, as suggested by the producer Kevin and other Xbox managers, might undermine this core experience. 
 
@@ -250,7 +250,7 @@ However, the author thought an "adventure journal" might work. It could track in
 
 In summary, the key tension was between staying true to the game's vision and appealing to a mainstream audience. The author wanted to avoid excessive hand-holding but also needed ways to motivate casual players. A well-designed adventure journal seemed a promising solution, providing motivation through tracking accomplishments rather than giving out rewards. Overall it's about balancing the needs of players who already love the game and those who need more encouragement to stick with it.
 
- Here's a summary:
+ 
 
 Early on in the development of Spelunky, Derek Yu made several key decisions to improve the game for Xbox Live Arcade:
 
@@ -287,7 +287,7 @@ In summary, Yu stayed true to the spirit of the original Spelunky but essentiall
 
 - The soundtrack for the original Spelunky was provided by George Buzinkai and Jon Perry. After enlisting them, the developer was approached by Eirik Suhrke to provide music for the reboot.
 
- Here's a summary:
+ 
 
 • Eirik Suhrke is a Norwegian composer who co-ran an independent music label and community called Pause. 
 
@@ -301,7 +301,7 @@ In summary, Yu stayed true to the spirit of the original Spelunky but essentiall
 
 • Derek values finishing as a skill that has enabled many opportunities in his career, starting with his first finished game, Trigger Happy.
 
- Here's a summary:
+ 
 
 - The author started making small games with a program called Klik & Play, which led him to create bigger and bigger games, culminating in Aquaria and Spelunky. 
 
@@ -343,7 +343,7 @@ The author’s perspective has also been influenced by having a young daughter. 
 
 In the end, the author says that the last 10% of work takes 90% of the time. Fixing issues like stereotypical or cliched designs and characters may seem small but can require a lot of effort. Overall, the summary conveys the author’s journey toward becoming more aware of diversity and representation issues in his own work, and his commitment to continuing to improve in the future.
 
- Here's a summary:
+ 
 
 • Project estimates nearly always underestimate how long it actually takes to finish a project, especially the final stretch. This is because we make estimates assuming perfect, uninterrupted work with no setbacks, which is unrealistic. 
 
@@ -389,7 +389,7 @@ In summary, finishing and releasing a game is an enormous amount of work that al
 
 The key points are that the author aimed to make more creative boss fights, added a secret final area (Hell) and boss (Satan) to extend the game for experienced players, and drew from various mythological and cultural concepts of Hell to create Spelunky's version.
 
- Here's a summary:
+ 
 
 - The author chose Di Yu, the Chinese hell, as the punishment for nonbelievers in Spelunky. Di Yu allows for reincarnation and fit better with Spelunky's design.
 
@@ -425,7 +425,7 @@ The key points are:
 - Players determined bringing it to Hell was key but thought it was nearly impossible in single player
 - Hired hands were unreliable but beating the game with them added extra challenge
 
- Here's a summary:
+ 
 
 - Having AI companions in games, though often troublesome, can feel rewarding when you're able to keep them alive. In Spelunky, the hired hands are difficult to manage but an incredible technical feat. Giving them weapons or making them carry fragile items like the eggplant is dangerous. 
 

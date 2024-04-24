@@ -399,7 +399,7 @@ The key is using media relationships, controversies, affiliations, and self-prom
 
 4. Seek diverse networks - a range of backgrounds, perspectives, and affiliations expands information and opportunities.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Weak ties and connections to people on the periphery of our social network can contribute to our well-being. Interacting with diverse people can provide access to valuable information and opportunities. 
 

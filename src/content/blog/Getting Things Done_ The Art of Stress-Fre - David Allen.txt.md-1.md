@@ -11,7 +11,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 ---
 
 
- Here's a summary:
+ 
 
 • David Allen is an author and productivity consultant known for his popular book Getting Things Done.
 

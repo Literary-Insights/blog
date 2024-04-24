@@ -11,7 +11,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 ---
 
 
- Here is a summary of the key points in the introduction:
+ 
 
 - Dean Graziosi wrote this book to share the habits that took him from struggling to great success, hoping to make an impact on readers' lives. The book has become a global bestseller. 
 
@@ -1247,7 +1247,7 @@ Z
 
 Ziglar, Zig, 14
 
- Here is a summary of the key points from the passage:
+ 
 
 - Oritzation is not a real word, so it's difficult to summarize a made up concept. The passage does not provide any context or meaning for "oritization."
 

@@ -353,7 +353,7 @@ In summary, the author humorously describes resisting temptation to eat unhealth
 
 - The conclusion calls on readers to stop diminishing themselves, take action to stop hiding, and believe they are worthy of being fully seen and bringing their gifts to the world.
 
- Here's a summary:
+ 
 
 - The quote by Marianne Williamson talks about how we are all meant to shine and make the glory within us manifest. But often we shrink ourselves out of fear so that others won't feel insecure. As we liberate ourselves from our own fears, we unconsciously give permission to others to shine as well. 
 

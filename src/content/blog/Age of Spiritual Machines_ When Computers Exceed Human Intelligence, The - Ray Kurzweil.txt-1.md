@@ -185,7 +185,7 @@ So in summary, the passage characterizes evolution as an intelligent process tha
 
 So in summary, it explores the idea that if the universe contracts, time would appear to run backwards, essentially reversing causal processes across the two halves of the universe's lifetime from the perspective of creatures in each respective phase.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The passage explores philosophical mind experiments about whether a computer could be considered conscious or have feelings through various hypothetical scenarios where computers display increasingly human-like behaviors and communication. 
 
@@ -277,7 +277,7 @@ While early programs succeeded at "easy" well-defined problems, the "hard" skill
 
 - The key aspects are the network's ability to self-organize through feedback to learn complex patterns, similarly to how the human brain develops and recognizes patterns.
 
- Here is a summary of the key points from the passage:
+ 
 
 - There are various self-organizing techniques used today that are related to neural networks, including Markov models which are widely used in speech recognition systems. These systems can now recognize up to 60,000 words spoken continuously in a natural way.
 

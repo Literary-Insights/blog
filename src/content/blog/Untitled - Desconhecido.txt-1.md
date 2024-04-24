@@ -199,7 +199,7 @@ The passage also discusses the "underprivilege of privilege" where helping child
 
 - Both hardship and effort/struggle can be sources of growth and happiness if we reframe our perspective. A life without challenge may be less fulfilling in the long run compared to making the most of life's difficulties.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Finding fulfillment and happiness in one's work is important for well-being and life satisfaction. However, many people feel enslaved or unhappy in their jobs. 
 

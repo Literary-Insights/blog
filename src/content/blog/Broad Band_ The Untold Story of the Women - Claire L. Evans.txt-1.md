@@ -72,7 +72,7 @@ The key ideas are that computing was originally done by human "computers," mostl
 
 The key ideas are that Ada Lovelace was a visionary thinker who articulated concepts fundamental to modern computing, though her work was underappreciated for many years due to her era and gender. She serves as an inspiration, and her story highlights the challenges faced by female scientists and mathematicians.
 
- Here's a summary:
+ 
 
 - Grace Hopper was a 36-year-old math professor at Vassar College when the U.S. entered World War II after the Pearl Harbor attack. She was married to Vincent Hopper, who taught literature. They lived an ordinary academic life, spending summers fixing up a farmhouse in New Hampshire. 
 
@@ -154,7 +154,7 @@ The ENIAC Six were instrumental in developing programming and demonstrating the 
 
 - The summary illustrates how Betty Jean Jennings, Betty Snyder, and other women who worked on the ENIAC were vital to its success but rarely received proper credit or recognition for their groundbreaking work. Their stories are an important part of tech history.
 
- Here's a summary:
+ 
 
 - World War II fueled technological innovation and allowed women opportunities in computing that wouldn't have existed otherwise. 
 - After the war, as military funding decreased, Grace Hopper's role at Harvard's Computation Lab diminished. In 1949, she lost her job when Harvard's contract with the Navy ended. 
@@ -190,7 +190,7 @@ The ENIAC Six were instrumental in developing programming and demonstrating the 
 
 - The development of compilers and higher-level languages was a major step toward making programming more accessible to non-experts, as Hopper had envisioned. Over time, her vision of “automatic programming” and the possibility of programming in natural language would become a reality.
 
- Here's a summary:
+ 
 
 - Early computers were programmed using machine code, which was tedious and error-prone. Grace Hopper developed the first compiler, A-0, in 1951 to automate some of this work. Compilers translate human-readable programming languages into machine code.
 
@@ -487,7 +487,7 @@ In summary, Wendy Hall was inspired by early interactive multimedia to create on
 
 - In short, hypertext systems and their developers, especially women, envisioned new ways of connecting and navigating information that anticipated how we use technology today. Although not always commercially successful, their ideas lived on through applications like HyperCard.
 
- Here's a summary:
+ 
 
 - 1987 was a pivotal year for hypertext research. The first academic hypertext conference, Hypertext '87, was held and brought together researchers from various fields.
 
@@ -523,7 +523,7 @@ In summary, this overview follows the growth of hypertext research from 1987 to 
 
 - In summary, Wendy Hall was a pioneer who built a powerful hypertext system ahead of its time. Though Microcosm lost out to the Web, Hall's contributions and vision have enduring influence and importance. She helped guide the development of the Web even as her own system faded away.
 
- Here's a summary:
+ 
 
 - Marisa Bowe discovered online communication as a teenager in the 1970s using her father's PLATO terminal, an early computer network used for education. She mostly used it to flirt with boys. 
 
@@ -553,7 +553,7 @@ Does this summary accurately reflect the key details and events in the passage? 
 
 - Levy moved to New York and became known as the “Kurt Cobain of the Internet.” She leveraged her status as a pioneer of electronic publishing into more corporate work, though she maintained her rebellious image. She helped define the visual style of websites in the 1990s. Though her real life wasn’t always glamorous, she combined her interests in technology and culture in influential ways.
 
- Here's a summary:
+ 
 
 - Jaime Levy was an early proponent of electronic publishing and created an online 'zine called Cyber Rag in the early 1990s. 
 - In 1995, a software company called Icon CMT hired Jaime Levy to be the creative director of a new online magazine called Word. 
@@ -612,7 +612,7 @@ In summary, Word was an influential early web magazine known for its authentic, 
 
 - The story of women.com spans the key transitional time in the web's development and reflects many of the hopes, hardships, and lessons of the dot-com era.
 
- Here's a summary:
+ 
 
 - Nancy Rhine and Ellen Pack co-founded Women's WIRE, the first commercial online service targeted specifically at women, in 1993. 
 - Rhine was interested in community building and fostering discussion, while Pack was more focused on providing useful information. This tension shaped the nature of Women's WIRE.
@@ -683,7 +683,7 @@ That covers the key highlights and events in the origin story of women.com, incl
 
 - Laurel considers herself part of the "Crash Test Dummy Club" - people who try to develop technologies before the mainstream is ready. Though risky, these early explorations help identify coming trends. Laurel's work on gender and computing was ahead of its time.
 
- Here's a summary:
+ 
 
 - In the 1990s, Brenda Laurel conducted research on how girls interacted with computers and found that they preferred an exploratory, collaborative style of play rather than competitive mastery of games. 
 
@@ -699,7 +699,7 @@ That covers the key highlights and events in the origin story of women.com, incl
 
 - In summary, Purple Moon was ahead of its time in recognizing and catering to female gamers. Its girl-centered, socially-focused games provided players both enjoyment and meaningful learning experiences regarding relationships and identity.
 
- Here's a summary:
+ 
 
 - In the 1990s, a series of studios produced adventure and role-playing games targeted at girls, known as "girl games." This movement was seen as empowering for women in tech and coincided with a rise in female-owned businesses. 
 - The most successful girl game studio was Purple Moon, founded by Brenda Laurel. Their popular Rockett's New School series featured a red-haired girl named Rockett maneuvering the social world of middle school. 
@@ -912,7 +912,7 @@ The key details and arguments in the summary are:
 
 Does this summary accurately reflect the key details and arguments presented in the source? Let me know if you would like me to clarify or expand on any part of the summary.
 
- Here's a summary:
+ 
 
 - Many early computers were developed to aid military goals, including ENIAC and ARPANET. 
 

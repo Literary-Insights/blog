@@ -97,7 +97,7 @@ For Instagram:
 
 • Contact info in bio. So brands can contact you.
 
- Here's a summary:
+ 
 
 • Include your email in your Instagram bio. This makes it easy for brands to contact you for partnerships. 
 
@@ -117,7 +117,7 @@ For Instagram:
 
 • Be authentic. Your content should feel honest and genuine. Don't create content just for money—you must personally enjoy and stand behind what you post.
 
- Here's a summary:
+ 
 
 - It is crucial for influencers to create video content. Video is becoming a major part of branded content. If you don't want much video, focus on stories. influencers need video to be considered for campaigns.
 
@@ -258,7 +258,7 @@ In summary, influencers need to build up their skills and experience to be succe
 
 • Reach out to sites and brands you’re interested in partnering with, using your professional materials to express your interest and show why you’d be a great fit for their goals. Building relationships and networking is key.
 
- Here's a summary:
+ 
 
 firstname@nameofblog.com
 
@@ -298,7 +298,7 @@ The key points are providing an professional introduction, specifying what you c
 
 • Cho’s advice for influencers is: focus on content you genuinely care about, be authentic, work hard, set boundaries to protect your family’s privacy, and find creative ways to finance your dreams. With time and dedication, you can build a successful brand and business.
 
- Here's a summary:
+ 
 
 The influencer started out working alone from home in 2005. She hired her first employee, an intern, in the early years. It took her 8 years to feel comfortable hiring permanent employees. She started with a part-time employee, then added more part-time and full-time employees over the years. Now she has a team of people handling different areas like designing, styling, crafting, social media, and new business. She oversees them and the creative direction of the brand.  
 
@@ -425,7 +425,7 @@ Does this summary cover the key highlights from the advice provided? Let me know
 
 The summary outlines the role that agents play in an influencer's team, the pros and cons of working with agents, the keys to a good agent-influencer relationship, and examples of mistakes agents sometimes make. The overall message is that agents can be extremely helpful, but influencers need to choose agents carefully and stay involved in the decision making. Communication and shared goals are essential.
 
- Here's a summary:
+ 
 
 The author works as a influencer agent booking campaigns and maintaining relationships with influencers and brands. She meets with influencers regularly to stay up to date with their interests and availability. She tracks all this information in a database to effectively pitch influencers for campaigns. Sometimes agents decline campaigns on the influencer's behalf when the influencer actually wants to do it. The author cites an example where an influencer's agent initially declined a $10,000 campaign but the influencer stepped in and said she wanted to do it. 
 
@@ -649,7 +649,7 @@ Overall, the key messages are to seize opportunities when they arise, take initi
 
 • Wordpress—A popular blogging platform used by many influencers and brands. Easy to use with many customization options.
 
- Here's a summary:
+ 
 
 The author expresses gratitude to many people who supported and helped in the development of this book:
 

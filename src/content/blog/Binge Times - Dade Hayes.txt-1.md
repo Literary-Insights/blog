@@ -239,7 +239,7 @@ So in summary, HBO built a strong brand with bold, prestigious programming but s
 
 - The mergers and leadership turmoil led to many executives leaving. Stankey acknowledged the fraught culture while Stephenson controversially compared HBO to Tiffany and Netflix to Walmart.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Disney portrayed itself as forward-thinking on technology under Bob Iger, citing deals with Apple's Steve Jobs. But Disney actually struggled to adapt to the digital era, wasting $1.6 billion chasing tech fads unrelated to its business. 
 

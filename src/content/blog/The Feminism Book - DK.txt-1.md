@@ -753,7 +753,7 @@ Similarly, people of color responding to white racism are often painted as the k
 
 - Tarana Burke's early efforts establishing the movement focused especially on supporting young women of color, though #MeToo expanded the discussion more broadly.
 
- Here is a summary of the key points from the passage:
+ 
 
 - A backlash emerged against the #MeToo movement, with some critics arguing it had gone too far and endangered sexual freedom. 
 

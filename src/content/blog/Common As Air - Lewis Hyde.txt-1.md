@@ -353,7 +353,7 @@ The founders, like Franklin, believed that the fruits of creativity belong large
 
 Does this summary accurately reflect the key ideas and arguments presented in the passage? Let me know if you would like me to clarify or expand on any part of the summary.
 
- Here's a summary:
+ 
 
 - Franklin hypothesized that electrified storm clouds would charge a metal rod, and that charge would then produce sparks when it reached the ground. He outlined this idea in a 1749 letter and it was published in London two years later. 
 
@@ -413,7 +413,7 @@ The key point is that Franklin's achievements were enabled by and built upon the
 
 In summary, the key ideas here are: 1) Print enabled the spread of knowledge across barriers; 2) For Enlightenment thinkers like Franklin, knowledge belonged to and benefited the public, not individuals; 3) Franklin believed property and the benefits of invention likewise primarily served the public good; and 4) Franklin saw scientific truths as independent of any particular scientist. The goal was to discover and spread knowledge, not claim ownership or credit.
 
- Here's a summary:
+ 
 
 - The claim that collective inquiry is less prone to error than solitary inquiry originated from Benjamin Franklin. In a letter to a friend, Franklin said that while his thoughts were "crude and hasty," communicating them could spark interest and lead to further discoveries. He said it was more important for knowledge to spread than for him to seem an "accurate philosopher."
 
@@ -445,7 +445,7 @@ In summary, the key ideas here are: 1) Print enabled the spread of knowledge acr
 
 - In sum, looking for philosophical levity and preserved ambiguity in Franklin’s writing shows his true relationship to his creations and accomplishments. He could feel pride in them but also knew they were not solely his own. This wisdom and humility deepened his achievements.
 
- Here's a summary:
+ 
 
 - Benjamin Franklin was pleased to receive praise for his scientific work from the Royal Society in London. Though he expressed humility about this praise, he clearly relished it. 
 
@@ -503,7 +503,7 @@ Identities and meaningful civic participation depend on having certain propertie
 
 Inalienable cultural properties and access to knowledge must remain in the public domain for individuals to develop meaningful identities and participate fully in civic and creative life. Restricting access to cultural properties for private gain risks harming collective civil, creative, and spiritual human experiences.
 
- Here's a summary:
+ 
 
 - The passage discusses the distinction between things that are essential to one's identity and dignity ("things with dignity") versus things that are interchangeable or fungible ("things with prices"). 
 
@@ -1000,7 +1000,7 @@ Other topics:
 
 See also: England, London, Great Britain, American Revolution, U.S. history
 
- Here's a summary:
+ 
 
 - A lecture hall was built in 1766 at the College of Philadelphia, later the University of Pennsylvania. ref1, ref2 
 - Benjamin Franklin helped design the hall and raised money for its construction. 

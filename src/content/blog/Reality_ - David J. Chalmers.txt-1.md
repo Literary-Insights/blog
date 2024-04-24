@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points in the Introduction:
+ 
 
 - David Chalmers has been fascinated by virtual worlds since playing text-based games like Colossal Cave Adventure as a child in the 1970s. 
 

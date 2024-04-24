@@ -67,7 +67,7 @@ In summary, the passage uses the memory of Eugene, the lonely amateur radio oper
 
 The key points are the combative culture that dominated email communication, the isolation and “oxymoron” of software engineering work, the author’s ability to navigate between technical and interpersonal realms, and the surprising show of empathy from Karl after two months of little substantive interaction.
 
- Here's a summary:
+ 
 
 The narrator meets a man named Karl through work and they begin emailing each other frequently. At first, the speed and intensity of the email exchange is thrilling. However, the narrator soon grows frustrated with the "interpolation" feature of the email software that copies portions of the original message into the reply. She feels like she is living with an "echo" rather than receiving authentic responses. 
 
@@ -282,7 +282,7 @@ The key factors in the rise and fall of the dot-com bubble were: the widespread 
 
 So in summary, as humanity’s technological capabilities have grown, we have gained the means to build increasingly intelligent machines that approach human-level intelligence and beyond. This prospect has raised philosophical and existential questions about human nature and humanity’s place in the world. Though the goals of early AI were not achieved, the field articulated questions that get at the heart of what it means to be human. And for some, the creation of artificial life and intelligence is a way to better understand the animating forces of human life.
 
- Here's a summary:
+ 
 
 - Philosophers and scientists have tried to define what makes humans human. Three popular concepts are: 1) humans as computers; 2) humans as social insects like ants; and 3) humans as accidents of evolution. 
 
@@ -298,7 +298,7 @@ So in summary, as humanity’s technological capabilities have grown, we have ga
 
 In summary, the debate about what makes us human continues in philosophy and science. Comparing humans to computers and robots has been an influential metaphor, but it may provide too limited a view of human nature. A more nuanced understanding of human consciousness and biology could emerge from new frontiers like genetics.
 
- Here's a summary:
+ 
 
 • In 2001, scientists announced they had sequenced the entire human genome. They were surprised to find only about 30,000 genes, far fewer than expected. This challenged the idea that there is a simple relationship between genes and human complexity. 
 
@@ -449,7 +449,7 @@ The narrator invokes an imaginary Greek chorus, suggesting the narrator’s inte
 - Beyond the keypunch room was a vast open space with many partitions sectioning off parts of it. The low ceiling, small window, and hidden location of the floor made it feel like an attic or half-story. 
 - The summarizes the strange experience of visiting the outdated data processing center for the mainframe programming interview in 1981. The details convey the disconnect between the author’s familiarity with modern computing at the time and the obsolete equipment and environment at the company.
 
- Here's a summary:
+ 
 
 The narrator took a job as a programmer at a large company. Upon starting work, she discovered that the manager who hired her, Mr. M, had been demoted. Her group was left maintaining obsolete inventory management systems and producing useless reports. 
 

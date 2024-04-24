@@ -133,7 +133,7 @@ Some key points:
 
 So in summary, the passage promotes a product claiming to help users achieve "Money Beyond Belief" by removing subconscious limitations through transformative teleseminar recordings and hypnotic writing in the marketing copy.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The author has been interested in magic from a young age, inspired by Harry Houdini. As a teenager, he invented some card tricks and had them published in magic magazines. 
 
@@ -285,7 +285,7 @@ The overall message is to understand the reader's perspective, appeal to their i
 
 The key advice is to critically edit your work, consider cutting significant parts, tighten the writing, and get feedback from others to strengthen the final product. Editing is an important part of crafting hypnotic, persuasive writing.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Using a computer grammar checker can help improve writing by catching typos and other errors. However, it's still important for humans to carefully proofread work. 
 
@@ -605,7 +605,7 @@ The emails effectively use headlines/subject lines to arouse curiosity, social p
 
 - Zen and the Art of Writing (1984): Explores using Zen principles and mindfulness to improve creative writing abilities.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The passage provides tips and techniques for powerful hypnotic writing. It discusses ideas like using storytelling, creating conflict and intrigue in stories, using reminders as triggers, self-criticism during the writing process, relaxation exercises, and rewriting and editing techniques. 
 

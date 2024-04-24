@@ -657,7 +657,7 @@ In summary, 19th century discourse justified inequality less through meritocracy
 
 - The Swedish case shows how even countries considered highly egalitarian today were founded on sophisticated proprietarian systems. Popular mobilization and political change were required to move toward greater equality.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Rather than cultures having some innate essence that makes them egalitarian or inegalitarian, the rules and institutions that societies establish determine the level of equality. Things can change quickly depending on the balance of power and historical trajectories. 
 
@@ -831,7 +831,7 @@ The 13th Amendment abolished slavery with no compensation to slaveowners or slav
 
 - The mixed-race nature of Brazilian society and top-down abolition without a race war contributed to less harsh post-emancipation racial policies than in the United States. However, racial inequality and discrimination remained deeply embedded in Brazilian society after abolition.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Despite British pressure, Brazilian slave trade continued through much of the 19th century, though on a declining scale. Slave population growth was limited by racial mixing and gradual emancipation. 
 
@@ -2485,7 +2485,7 @@ The key sources referenced are: de 2017 presentation, Piketty's Capital in the T
 
 - Work and labor must be valued, but dangerous ideologies emerge when paid work is seen as the only worthwhile activity. Caregiving and other uncompensated work should not be excluded from concepts of contribution and value.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Political conflict is ideological, not just class-based. Individuals with similar socioeconomic characteristics can have very different political beliefs based on their personal histories, experiences, and ideas about an ideal society.
 
@@ -2603,7 +2603,7 @@ The key sources referenced are: de 2017 presentation, Piketty's Capital in the T
 
 - Overall, the left parties evolved to represent the interests of the educated elite rather than the working classes, leading to disaffection from their original base. Educational inequalities perpetuated by the left reinforce social stratification.
 
- Here is a summary of the key points from the passage:
+ 
 
 - There are extreme hypocrisies and inequalities in the French education system. Resources tend to be allocated more to advantaged schools, while "priority education zones" for disadvantaged schools are underfunded. 
 
@@ -3015,7 +3015,7 @@ In summary, the cleavage reversal likely stems from a change in the Democratic P
 
 - Looking ahead, further assimilation of immigrants and minorities depends on reducing discrimination and expanding equal access to education and employment. More progressive taxation and social spending may also dampen nativist sentiment.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The political and electoral cleavages seen in the UK, US, and France since WWII - the shift from "classist" party systems in 1950-1980 to a system of elites alternating power in 1990-2020 - are also found across Western democracies, including Germany and Sweden. 
 

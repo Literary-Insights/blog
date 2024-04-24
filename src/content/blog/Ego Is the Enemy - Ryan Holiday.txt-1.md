@@ -258,7 +258,7 @@ In summary, ego and pride are natural human tendencies that must be managed to a
 
 • The Latin expressions "fac, si facis" means "do it if you're going to do it."  "Materiam superabat opus" means "the workmanship was better than the material."
 
- Here's a summary:
+ 
 
 - Bill Bradley said that we must practice and work hard because someday we will face competition from those who did. The Bible also says we must be ready and prepared. We can lie to ourselves about putting in the effort, but eventually, the truth will come out. 
 

@@ -666,7 +666,7 @@ In summary, the key supply side constraints are real estate, capital, cash flow,
 - Computers - Trader Joe's adopted technology early for inventory management 
 - Employees - Unusual approaches to employee culture including profit sharing
 
- Here is a summary of the key points from the passage:
+ 
 
 - Trader Joe's was founded by Joe Coulombe in 1967. It started as a small chain of convenience stores called Pronto Markets. 
 

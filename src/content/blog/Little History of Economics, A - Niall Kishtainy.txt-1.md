@@ -631,7 +631,7 @@ The passage then focuses on how economics can help address global warming. It ex
 
 While basic economic principles are useful, they leave out broader social and political factors. And if pushed too far, theories of free markets and rationality can distort reality. Economics courses also tend to ignore dissenting thinkers. Overall, economics must grapple with fundamental questions about how to improve human well-being - it's not just about costs and benefits but the big issues societies face. The appropriate economic response changes over time based on problems of the era.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Om is often said as a mantra or chant during meditation practices in Hinduism, Buddhism, and Jainism. It represents the eternal or infinite nature of Brahman (the highest Universal Principle) in Hinduism. 
 

@@ -794,7 +794,7 @@ The key takeaways are to target specific behaviors, start by addressing the prom
 
 Scaling back can make it feel more manageable and help you gain the skills and insights to make more significant changes.
 
- Here is a summary of the key points from the passage:
+ 
 
 1. Replacing a bad habit with a good habit is a common approach, but it is not always necessary. Many habits can be stopped using the steps outlined in the master plan.
 

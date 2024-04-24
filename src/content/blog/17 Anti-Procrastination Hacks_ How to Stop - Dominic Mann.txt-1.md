@@ -25,7 +25,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 • In summary, avoid overthinking about tasks and how unpleasant they may be. Develop the habit of determining the next concrete action to take instead. Break down big tasks into small, manageable steps and get started on the first one. This approach combats the tendency to become paralyzed by worrying and procrastinate. Focusing on next actions gets you into the productive mindset of progress.
 
- Here's a summary:
+ 
 
 To overcome procrastination:
 
@@ -59,7 +59,7 @@ The key problems with procrastination are:
 
 In summary, breaking down big tasks, committing time, eliminating distractions, and managing stray thoughts are effective strategies to overcome procrastination. Building productive habits and motivation helps us accomplish more while avoiding the discouragement that leads to procrastination.
 
- Here's a summary:
+ 
 
 - The “(10+2)x5” method involves working intensely for 10 minutes, taking a 2-minute break, and repeating this cycle 5 times for a total of 60 minutes of work. This method helps build momentum and overcome procrastination by making the work periods short and having frequent breaks.
 

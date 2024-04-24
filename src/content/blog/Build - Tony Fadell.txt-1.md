@@ -157,7 +157,7 @@ The main points are that management is a choice requiring new skills, involves l
 
 Does this accurately summarize the key points? Let me know if you would like me to expand or clarify anything.
 
- Here's a summary:
+ 
 
 The key for managers is defining processes up front and then letting the team execute. Have regular structured meetings to ensure everything is on track. Use 1:1s to get feedback from team members and provide coaching. Admit when you don't know something - asking for help builds trust. Provide frequent feedback, both positive and constructive. 
 

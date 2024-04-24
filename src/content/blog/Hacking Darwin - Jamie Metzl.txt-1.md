@@ -167,7 +167,7 @@ So in summary, advances in sequencing provided the raw genetic data, but underst
 
 - Governments are also pursuing large genomic studies, like the UK's 100,000 Genomes Project and the US NIH's All of Us Research Program aiming to sequence over 1 million Americans to advance genetic research. The intersection of AI, large genomic datasets, and health records holds promise for new biological insights.
 
- Here is a summary of the key points from the passage:
+ 
 
 - China is making large investments in precision medicine and aims to sequence 50% of newborns by 2020 to build genetic databases. It is also establishing a shared electronic health record system. 
 
@@ -569,7 +569,7 @@ Regulation is important to balance scientific progress with ethics, but finding 
 
 - The genetics debate mirrors abortion politics. Some fear "GM babies" from gene editing embryos, like "pro-life" opposition to abortion, while others support medical benefits like earlier acceptance of IVF. Public views on genetic selection depend on purpose and intervention level.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Polls show that Americans are more comfortable with genetic interventions for clear medical purposes than other uses, and that acceptance levels are growing over time. Religious Americans are less comfortable than non-religious Americans. 
 

@@ -311,7 +311,7 @@ The overall message encourages overcoming reasons to isolate and focus on superf
 
 So in summary, nature refers to grouping and handling similar tasks collectively to streamline processes rather than one at a time. Batching helps organize tasks and saves time according to the passage.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Batching refers to doing similar tasks all at once to save time and mental energy. Some good things to batch include cleaning tasks like dishes or laundry. 
 

@@ -27,7 +27,7 @@ The pie approach is practical and has been tested in real negotiations like when
 
 An example is given of two people, Alice and Bob, negotiating over how to split a 12-slice pizza from Pepe's in New Haven. If they can't agree, Alice gets 4 slices and Bob gets 2. There are deals that benefit both but some are more fair than others. The pie approach reveals the fairest solution.
 
- Here's a summary:
+ 
 
 The author has a friend who made the mistake of not hiring a lawyer when filing a trademark, so the filing became public information. Someone (named Edward) bought the associated domain name shortly after. This led to a negotiation between the friend and Edward over the domain name. 
 
@@ -123,7 +123,7 @@ The key is to separate the independent value of the BATNA from the negotiated va
 
 - The key is to use the pie framework to determine fair splits that incentivize value creation and minimize inefficiencies from broken contracts. Setting the right damages rules is challenging but important.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Alice agreed to buy a used Prius for $9,000 but the seller, Bob, sold it to someone else for $13,000 instead. 
 

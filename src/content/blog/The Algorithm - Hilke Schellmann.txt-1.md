@@ -150,7 +150,7 @@ In summary, the passage discusses the emerging use of AI tools to analyze social
 
 - The author remains skeptical of unchecked AI being used without understanding how predictions are made or accuracy levels. Human judgment is still needed to properly evaluate AI results.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Some companies use AI-powered video games to assess job applicants instead of traditional resume reviews or interviews. The games are meant to test things like cognitive abilities, social skills, personality traits, etc. that may indicate job fit and potential. 
 

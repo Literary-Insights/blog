@@ -1290,7 +1290,7 @@ However, the passage notes there are path dependencies that make a full roll bac
 
 - The buildup of household debt from inequality-fueled credit demand and supply could then destabilize the economy if borrowers default when economic conditions change. More research is still needed to fully understand the inequality-indebtedness relationship.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Iacoviello constructs a model where increased inequality leads to more instability in earnings over time, causing individuals to borrow more to smooth consumption. However, empirical evidence suggests inequality has been driven more by permanent differences in earnings across households.
 

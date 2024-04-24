@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points in the introduction:
+ 
 
 - Artificial intelligence (AI) has recently become a topic of great interest and importance globally. Even young children are asking questions about how AI will impact the future. 
 

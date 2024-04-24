@@ -447,7 +447,7 @@ The key is combining computers' strengths with human strengths like creativity a
 
 - The lessons are to be early, leverage complementary goods, curate offerings, and obsess over user experience in order to build a successful platform. Powerful platforms force hard choices on companies in their domains.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Platforms like Stripe are powerful drivers of many successful companies today because they aggregate both supply and demand. 
 
@@ -658,7 +658,7 @@ So in summary, principles like openness, noncredentialism, verifiable contributi
 
 - To leverage the crowd, organizations need to decentralize, incorporate market-like mechanisms, and empower people through open collaboration platforms. But the core may resist giving up power and control.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Karim Lakhani and colleagues conducted a study where they posed a complex biology problem (annotating genomes of human white blood cells) to the online community Topcoder rather than biology experts. 
 

@@ -163,7 +163,7 @@ In summary, the key argument is that professional training and practice serve id
 
 - In summary, the distinction between professionals and nonprofessionals has more to do with credentials and status than actual ability. Nonprofessionals resent their subordinate role and see much of professional education as an unnecessary "obstacle course." The system perpetuates this by pushing nonprofessionals to obtain credentials, even if much required education is irrelevant.
 
- Here's a summary:
+ 
 
 Employers value professionals because they can be trusted to uphold the status quo through their work. Professionals demonstrate an internalized willingness to follow orders and not challenge the built-in ideologies of their fields. 
 
@@ -313,7 +313,7 @@ While military agencies were used as examples, the points apply to government fu
 
 So in summary, government funding agencies strongly shape university research through close guidance and monitoring - despite an outward appearance of simply funding unsolicited research. Their influence depends on their position funding basic research, setting strategic goals, and maintaining relationships with scientists.
 
- Here is a summary of the key points from the passage:
+ 
 
 1. The US government funds a significant amount of research in physics and other sciences through agencies like the Department of Defense, the Department of Energy, and the National Science Foundation.
 

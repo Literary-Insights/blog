@@ -31,7 +31,7 @@ BOOK LINK:
 
 - Both the science and simplicity of mindfulness meditation convinced the author, a former skeptic, that it is worth incorporating into one's life for health and well-being.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Meditation is often misleadingly portrayed as a blissful, thought-free experience. In reality, the mind is usually filled with thoughts, chatter, and distractions even for experienced meditators. 
 

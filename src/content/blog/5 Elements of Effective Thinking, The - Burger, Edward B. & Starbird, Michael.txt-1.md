@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points in the introduction:
+ 
 
 - Brilliant students and innovators are not born that way, they develop habits of effective thinking that lead to success. Genius does not appear magically or in a single leap.
 

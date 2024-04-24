@@ -59,7 +59,7 @@ The main ways to change your brain discussed are:
 - Optimizing cerebral circulation by modifying habits like diet, exercise, sleep and stress relief  
 - Reducing chronic stress to improve neuronal health, blood flow and brain function
 
- Here is a summary of the key points from the passage:
+ 
 
 1. Chronic stress can damage brain cells and establish neural pathways that change brain function. 
 
@@ -329,7 +329,7 @@ Here are the highlights about Coenzyme Q10:
 
 Does this summary cover the key points for you? Let me know if you need any clarification or have additional questions.
 
- Here is a summary of the key points from the passage:
+ 
 
 • The author fainted multiple times while giving presentations due to being chronically dehydrated. This led him to realize the importance of proper hydration.
 
@@ -365,7 +365,7 @@ The key takeaways are that dehydration, even chronic mild dehydration, can signi
 
 The key takeaways are that proper hydration through water consumption is essential for optimal cognitive performance, mood and overall health, while even mild dehydration can significantly impact brain function. Monitoring the color of your urine can help assess your hydration level.
 
- Here is a summary of the key points from the passage:
+ 
 
 1. Taking B vitamins like in a multivitamin can cause your urine to turn bright yellow. This is normal and does not mean you are dehydrated, it just means your body is excreting excess B vitamins.
 

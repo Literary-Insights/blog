@@ -317,7 +317,7 @@ In summary, while mental illness does not fully explain bad behavior, recognizin
 
 - Victim blaming is unhelpful - it can be hard to realize a relationship is unhealthy, especially when care and dependence has developed over time. The skills learned from this experience will help avoid similar situations in the future.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The book provides practical advice and instructions on developing powerful listening skills, public speaking skills, ways to mend relationships, getting your views heard respectfully, and thriving in job interviews. 
 

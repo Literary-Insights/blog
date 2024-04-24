@@ -149,7 +149,7 @@ The key is doing these things to make the other person happy, not because you wa
 
 In summary, the passage discusses how the words we use have profound power to positively or negatively impact others psychologically and in relationships, so we must choose them carefully and intentionally use "light magic" that uplifts.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Charisma refers to the charm and attractiveness that draws people to you and makes them want to know more about you. It's something that can be learned and improved through practice. 
 
@@ -163,7 +163,7 @@ In summary, the passage discusses how the words we use have profound power to po
 
 The key message is that charisma develops through self-awareness, integrity to your values, independent thinking, passion/drive, and willingness to challenge yourself by stepping outside your comfort zone. Taking these types of actions can help make someone more charismatic over time.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The passage encourages pushing one's boundaries and comfort zone by saying yes to social invitations even when you feel like staying in. Doing so allows you to feel more energetic and confident by connecting with others.
 

@@ -277,7 +277,7 @@ In summary, the passage discusses how informal logical fallacies are commonly us
 
 In summary, while logic and reason are useful tools, they have limitations when applied to empirical claims, real-world problem solving, and understanding human concepts and language. Full rational discourse as envisioned by Leibniz is unattainable because of these inherent differences between formal logic and human thought/experience. Barroom arguments, debates, etc. will persist due to the complexity of applying reasoning to the real world.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Wittgenstein argued that many concepts are defined by "family resemblance" rather than necessary and sufficient features. Things like games, chairs and concepts like "mother" involve overlapping characteristics rather than strict definitions. 
 
@@ -743,7 +743,7 @@ So in summary, the graph demonstrates that both heredity/genes and life experien
 
 - People may hold different types of beliefs - those reflecting an intuitive grasp of reality tested by experience, versus more reflective or speculative beliefs about distant/abstract issues that are not practically tested but fulfill expressive functions.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Beliefs can exist in what is called the "mythology mindset" rather than the "reality mindset". In the mythology mindset, beliefs function as social constructs that bind groups together and provide moral purpose, rather than being treated as literally true or false propositions. 
 

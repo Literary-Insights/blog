@@ -571,7 +571,7 @@ The person proposes an unconventional life mission of buying and training thousa
 
 In summary, Tony Robbins teaches high performance strategies with a focus on controlling your internal state, thinking empowering thoughts, and taking strategic action from a place of emotional resources.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Casey Neistat is a filmmaker and YouTuber known for his vlog-style videos filmed in New York City. His videos have been viewed almost 300 million times. 
 

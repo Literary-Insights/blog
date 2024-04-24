@@ -720,7 +720,7 @@ Does this help summarize the key points? Let me know if you need me to expand on
 
 The key is to break innovation into learnable behaviors, then shape habits and the environment through small interventions to reinforce those behaviors. It requires commitment from leadership and engagement across the organization to make it stick.
 
- Here is a summary of the key points from the passage:
+ 
 
 - g ideas, 137, 139–40: This section discusses using techniques like brainstorming and divergent thinking to generate innovative ideas.
 

@@ -77,7 +77,7 @@ So in summary, the text discusses the author's journey of failing to achieve a s
 
 - Entrepreneurs launch instead of just talking about ideas as "wantrepreneurs" do. The author argues a minimum viable product can launch in 7 days.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The author argues that most business books focus too much on coming up with ideas and perfecting business plans before launching, which wastes time and is based on assumptions. 
 
@@ -231,7 +231,7 @@ In the end, the business model and cost structure made it very difficult to prof
 
 In summary, question assumptions, solve problems pragmatically, deliver quality work, learn constantly, experiment to outlearn others, plan for growth, leverage momentum, manage motivation and prioritize good customers.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Focus on retaining your existing customers rather than chasing new ones. It's easier to keep customers than acquire new ones. 
 

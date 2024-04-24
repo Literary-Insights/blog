@@ -175,7 +175,7 @@ So in summary, it discusses Nintendo's history as a playing card company in Japa
 
 So in summary, it outlines Nintendo's software-driven business model and strategy in the late 80s, as well as the creation of the influential Nintendo Power magazine under Arakawa and Tilden's leadership.
 
- Here's a summary:
+ 
 
 - Sega's product manager Madeline Schroeder found Tom Kalinske reading intently in the office kitchen. His cup was empty and upside down, so he wasn't actually drinking coffee. 
 
@@ -881,7 +881,7 @@ After a rocky start to 1992 competing against Sega, Nintendo appeared to be reco
 
 So in summary, Kalinske attempted to recruit White from Nintendo by arguing Sega allowed for better marketing creativity and questioning the status of Nintendo's movie project, while White remained loyal to Nintendo.
 
- Here's a summary:
+ 
 
 - Tom Hanks was originally offered the role of Mario but pulled out due to budget concerns and doubts about his ability to carry a big-budget film. 
 

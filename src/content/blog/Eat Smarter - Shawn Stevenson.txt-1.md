@@ -1013,7 +1013,7 @@ In summary, gut bacteria, diet and nutrients all play important roles in support
 
 • Sugar and alcohol before bed can impair sleep quality by disrupting sleep cycles and decreasing restorative sleep. Limiting sugar intake and waiting 2-3 hours after alcohol before sleeping can help mitigate these effects.
 
- Here's a summary:
+ 
 
 Drinking two 8-ounce glasses of water for every serving of beer or wine is a good rule of thumb to limit alcohol's dehydrating effects and help avoid a hangover. Staying hydrated when drinking alcohol can help improve sleep quality. 
 

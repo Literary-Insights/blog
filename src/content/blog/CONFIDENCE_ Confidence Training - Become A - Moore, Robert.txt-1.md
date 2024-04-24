@@ -93,7 +93,7 @@ Use positive affirmations or self-talk to reprogram your mind. List your wrong m
 
 The key strategies for building self-confidence are: surround yourself with successful role models, aim for excellence through continuous improvement, maintain a positive mindset, and use confident body language.  When combined, these techniques can transform your self-belief and help you become the confident person you want to be.
 
- Here's a summary:
+ 
 
 - Your body language and posture communicate confidence more than your words. Slouching, fidgeting and hurried gestures undermine your confidence and leadership. 
 
@@ -119,7 +119,7 @@ The key strategies for building self-confidence are: surround yourself with succ
 
 -In summary, build your confidence from the inside out by maintaining an positive mindset and practicing confident behaviors and body language. Your posture, expressions and style can all support and strengthen your internal confidence.
 
- Here's a summary:
+ 
 
 • Gaining confidence requires social validation and interacting with others. You can't be confident in isolation. 
 

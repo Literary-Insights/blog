@@ -11,7 +11,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 ---
 
 
- Here's a summary:
+ 
 
 - Thought Catalog Books is an independent digital publisher based in New York and Los Angeles 
 - They publish books on personal growth, relationships, and culture
@@ -89,7 +89,7 @@ The key message is to be gentle with yourself, learn from your experiences, and 
 
 • Life is meant to be lived fully. Pursue your passions, find joy, and surround yourself with people who love and support you.
 
- Here's a summary:
+ 
 
 • You have to believe in yourself and your worth. Do not let self-doubt hold you back. Have confidence in yourself and your abilities. 
 

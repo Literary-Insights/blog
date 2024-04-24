@@ -383,7 +383,7 @@ So in summary, it argues perception is for controlling behavior and homeostasis,
 
 - Overall, IIT provides a useful framework but its strong claims regarding consciousness being identical to a mathematical measure of integrated information run into empirical and conceptual difficulties. A weaker phenomenological version may be more viable.
 
- Here's a summary:
+ 
 
 - The authors have developed empirical approximations of integrated information (Phi) that are based on directly measuring the observed states a system has been in, rather than considering all possible states. This avoids some of the theoretical difficulties of IIT.
 
@@ -931,7 +931,7 @@ In summary, information concepts can validly be applied to analyze and model bio
 
 So in summary, digital formats for lectures and online course delivery have significantly expanded access to education for those with disabilities by removing physical barriers to learning. It has made a positive impact in the lives of many.
 
- Here's a summary:
+ 
 
 - The premise is that education and learning can make you smarter, not just appear smarter through accumulating knowledge. Things like "worked very hard but didn't learn much" or "learned a lot but still not that smart" are dismissed. 
 

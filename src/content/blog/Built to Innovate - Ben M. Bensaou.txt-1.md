@@ -139,7 +139,7 @@ In summary, BASF's outside-in focus and systematic approach to both product and 
 
 - Key lessons are: foster innovation everywhere, combine innovation with disciplined execution, and engage all employees by giving them autonomy, ownership, and the ability to follow their passions.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Organizations need two "engines" running simultaneously: an execution engine focused on efficiently carrying out day-to-day work, and an innovating engine focused on exploring new ideas and possibilities. 
 
@@ -363,7 +363,7 @@ In summary, BASF's outside-in focus and systematic approach to both product and 
 
 - The three processes of creating, integrating, and reframing ideas happen continuously at all levels. This creates an "innovating engine" running at full efficiency.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Fiskars' leadership encourages innovation at all levels of the company through processes like the Five-Year Innovation Master Plan. Senior leaders set the vision and standards, while frontline employees generate ideas. 
 

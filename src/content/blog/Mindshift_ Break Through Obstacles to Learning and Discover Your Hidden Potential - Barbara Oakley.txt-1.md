@@ -367,7 +367,7 @@ Neuroscientists like Merzenich and Tallal have also developed computer exercises
 
 While most brain training apps lack evidence, researchers like Bavelier, Gazzaley and Merzenich are demonstrating that cognitive "mental therapies" through games and exercises can make real, measurable improvements to brain function.
 
- Here is a summary of the key points from the passage:
+ 
 
 - New neurons in adulthood allow for more distinct memories and avoiding rekindling of traumatic memories, which is important for learning and mental health. Neurogenesis is an area of focus for treating depression and anxiety. 
 

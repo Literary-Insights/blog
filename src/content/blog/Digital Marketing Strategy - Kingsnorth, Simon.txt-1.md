@@ -615,7 +615,7 @@ The key takeaway is that CRM and retention require an integrated, personalized a
 
 - Predictive analytics like propensity models can predict customer behaviors like churn to introduce retention programs before customers leave.
 
- Here is a summary of the key points from the passage:
+ 
 
 - CRM systems allow companies to centralize, manage and automate customer support, marketing campaigns, sales forces, and reporting on customer activity. Popular CRM platforms include Salesforce, Microsoft Dynamics, Oracle, SAP, and Zoho. 
 
@@ -659,7 +659,7 @@ The chapter emphasizes that user-defined and behavioral personalization should n
 
 In summary, the key points are how personalization has evolved due to data and technology, but must be implemented carefully with the customer's privacy and experience in mind at all times. Both behavioral data and directly collecting customer preferences are valuable to personalization.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Customer service and marketing are highly integrated, as customer satisfaction is a key marketing goal. The digital customer experience must support service and messaging goals. 
 
@@ -1003,7 +1003,7 @@ The key is to understand decision-makers, have a clear and convincing proposal, 
 
 - Metadata mining refers to the process of analyzing metadata to discover patterns, trends, and correlations for purposes like personalization, recommendations, and market research. Facebook engages in extensive metadata mining of its social graph.
 
- Here's a summary:
+ 
 
 - The document provides an overview of digital marketing and key components of a digital strategy. 
 

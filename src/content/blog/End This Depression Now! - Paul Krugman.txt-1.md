@@ -143,7 +143,7 @@ This is what exacerbated the Great Depression according to Fisher. And a similar
 
 The buildup of too much debt sets the stage for what Hyman Minsky called a "Minsky Moment" - an event that triggers lenders to suddenly recognize debt risks, forcing widespread deleveraging and setting off Fisher's debt-deflation spiral. High debt levels make economies vulnerable to self-reinforcing downturns. This dynamic helps explain both the Great Depression and today's ongoing economic problems.
 
- Here is a summary of the key points from the passage:
+ 
 
 - In 2005, Alan Greenspan believed that modern financial innovations like asset-backed securities, collateralized loan obligations, and credit default swaps had made the financial system more stable and resilient. However, these were precisely the innovations that led to the financial crisis a few years later. 
 
@@ -526,7 +526,7 @@ So in summary, the passage questions the effectiveness of UK austerity policies 
 
 - The author urges continued advocacy for bolder policies to spur job creation and end the depression, arguing chances of policy change are better than assumed if economic growth can be achieved.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The author argues that expansionary fiscal and monetary policies like increased government spending and debt relief are needed to help boost the depressed economy and get it moving again. 
 
@@ -556,7 +556,7 @@ So in summary, the author argues expansionary fiscal policy is both economically
 
 So in summary, while correlations are unreliable, focused research on "natural experiments" provides substantial evidence that government spending increases can boost a weak economy while austerity tends to undermine recovery from recession.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The Global Financial Crisis of 2008-2009 had significant long-term economic impacts including high unemployment, slow recovery of business investment and manufacturing, and increased income inequality. 
 

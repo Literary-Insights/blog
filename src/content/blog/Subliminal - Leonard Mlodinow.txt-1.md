@@ -695,7 +695,7 @@ In summary, these materials covered how the biological substrates of the brain, 
 
 - The brain's reward systems are activated by social bonding and cooperation, while social rejection activates pain circuits. Affiliation motivation is a powerful driver of human behavior.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The horse Clever Hans was thought to be able to perform complex mental tasks, but was actually just picking up on subtle cues from his trainer. This demonstrated the impact of unconscious bias. 
 
@@ -781,7 +781,7 @@ In summary, dividing people into in-groups and out-groups is a natural human ten
 
 - Researchers continue to study the brain and mind using empirical methods from fields like neuroscience, cognitive psychology, and clinical psychology to expand our understanding.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Joseph - A biblical figure who was sold into slavery by his brothers but later became a powerful ruler in Egypt. His story is told in the first two chapters of Genesis. 
 

@@ -432,7 +432,7 @@ The key lesson is that the quality of a decision depends on the process, not the
 
 - Examples are discussed of successful people who achieved wealth and status but were lonely and regretted prioritizing the wrong goals, just as Scrooge did in the story. The lesson is to focus on pursuing what really matters rather than being led astray by superficial goals.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The ancient Greeks called the wisdom of knowing how to order your life to achieve the best results "phronesis." Many people have intelligence, drive and opportunities but lack this wisdom and end up pursuing things that don't truly matter. 
 

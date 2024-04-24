@@ -441,7 +441,7 @@ This explains why even with self-awareness of behaviors to improve, our brain wi
 
 - Too much empathy (second position) can cause one to lose their own sense of self. It's important to balance empathy with also checking in on one's own feelings and needs (first position).
 
- Here's a summary:
+ 
 
 - Men are taught from a young age not to show emotion and to "be a man" by not crying or taking things personally. They are pushed into adopting a stoic mindset. 
 
@@ -755,7 +755,7 @@ So in summary, the passage discusses using innocuous questions and empathetic st
 
 - The summary is that these processes aim to loosen attachments to initial perspectives and find creative solutions by considering multiple viewpoints when facing problems or conflicts.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The narrator described a conflict between two employees, Susan and Glenn, who were arguing over rush orders and inventory management. 
 

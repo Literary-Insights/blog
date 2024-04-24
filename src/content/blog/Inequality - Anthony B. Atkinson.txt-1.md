@@ -697,7 +697,7 @@ In summary, this advocates restoring broad-based social insurance as the main in
 
 - In summary, renewing social insurance with higher benefits and broader coverage is an alternative to a universal basic income. This could be achieved at a lesser cost to taxpayers and the economy compared to a universal basic income.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The author proposes 15 specific proposals for measures that could substantially reduce inequality, ranging from employment policies and minimum wage to taxation reforms and social protection programs. 
 

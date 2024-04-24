@@ -11,7 +11,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 ---
 
 
- Here's a summary:
+ 
 
 - Money is a fundamental part of everyday life and allows people to communicate value. The payment system that enables money to be exchanged is a massive global industry. 
 
@@ -130,7 +130,7 @@ The key argument is that we should not understand new payment platforms as simpl
 
 In summary, 20th century payment systems developed to increase access to a public payment infrastructure by converting physical money into digital information that can be instantly transmitted across distances, enabling greater mobility and access. Nevertheless, stratification has continued based on the ability to access these information networks.
 
- Here's a summary:
+ 
 
 - In 2016, Chase launched the Sapphire Reserve credit card, marketed as a "luxury" card with high annual fees but lavish benefits. The card launch generated intense buzz and demand, with many people eager to showcase their new cards on YouTube and social media. 
 
@@ -346,7 +346,7 @@ That covers the main points on how payment policies and infrastructure can exclu
 
 That covers the key highlights and main takeaways from the summary. Please let me know if you would like me to explain or expand on any part of the summary.
 
- Here's a summary:
+ 
 
 - Venmo is a popular person-to-person payment app that allows people to pay friends directly for shared expenses. 
 - Venmo includes a social feed that makes these payments visible to friends, turning mundane financial transactions into a form of social media. 

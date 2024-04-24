@@ -55,7 +55,7 @@ The key ideas are:
 
 That covers the main points from the summaries on how to gain control of your time, strengthen your willpower, build closer relationships and become more productive by overcoming distraction. Please let me know if you have any other questions!
 
- Here's a summary:
+ 
 
 To reduce errors in a hospital setting, the following techniques were effective:
 
@@ -81,7 +81,7 @@ To reduce errors in a hospital setting, the following techniques were effective:
 
 By implementing these best practices, hospitals were able to significantly reduce errors and improve patient safety over a multi-year period. Communication, standardization, technology, rest, training, and a culture of learning from mistakes were keys to success.
 
- Here's a summary:
+ 
 
 - Working with others creates social pressure to stay focused. Price pacts motivate by threatening loss of money for failing to act.  These strategies build commitment to priorities.
 
@@ -99,7 +99,7 @@ By implementing these best practices, hospitals were able to significantly reduc
 
 - Middle school in particular limits kids' autonomy with rules, bells and punishment.
 
- Here's a summary:
+ 
 
 - Teens seek autonomy and competence online that they lack in restrictive school environments. Technology overuse often results from unmet needs for control and achievement. 
 
@@ -117,7 +117,7 @@ By implementing these best practices, hospitals were able to significantly reduc
 
 - The key is teaching self-regulation, making distraction taboo, strengthening relationships by removing triggers and scheduling focus time, spreading the message, and defending your own focus. Understanding motives and needs helps address root causes of overuse. Autonomy, competence and connection offline fulfill psychological needs driving the behavior.
 
- Here's a summary:
+ 
 
 •Studies show phone notifications reduce attention and cognitive abilities. Text interventions can help change behaviors. Reducing interruptions improves performance and decreases errors in high-risk fields like healthcare.
 

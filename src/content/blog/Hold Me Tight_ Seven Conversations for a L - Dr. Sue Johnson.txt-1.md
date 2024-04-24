@@ -33,7 +33,7 @@ BOOK LINK:
 
 - EFT focuses on strengthening couples' emotional bonds by identifying and transforming key relationship moments that foster connection. Studies show 70-75% of couples recover from distress after EFT.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Love is often described as mysterious and undefinable, but a revolutionary new understanding is emerging based on scientific research. 
 

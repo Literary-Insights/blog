@@ -400,7 +400,7 @@ The article explains why dollar-cost averaging (DCA) tends to outperform trying 
 
 In summary, trying to time the market and buy at lows is extremely difficult and usually underperforms consistent dollar-cost averaging for long-term investors. The data bears this out clearly.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The concept of "timing luck" (sequence of return risk) plays a huge role in investment outcomes. Even the best strategy can perform poorly due to lousy timing luck.
 

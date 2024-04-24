@@ -11,7 +11,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 ---
 
 
- Here's a summary:
+ 
 
 • Actions, not words, reveal our fundamental values. 
 
@@ -39,7 +39,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 The key takeaway is that we should be open to changing our minds about things we like or dislike because experiences and perspectives change over time. Initial prejudices or preferences aren't always accurate or permanent. An open and growth-oriented mindset will lead to loving what we used to hate.
 
- Here's a summary:
+ 
 
 Public comments about us aren't really about us. They're about the image of us that we've put out into the world. We can't define who we are in the future based on what strangers say about us online. Their reactions say more about them than about us.
 
@@ -57,7 +57,7 @@ Public comments about us aren't really about us. They're about the image of us t
 
 • The key is to consider how situations might play out before getting pulled into a trap where the only options left are bad ones. Think before acting.
 
- Here's a summary: 
+  
 
 The author regularly went on intense 15-mile bike rides along the beach, pushing himself to go as fast as possible. Every time, the ride took about 43 minutes.
 
@@ -169,7 +169,7 @@ Rather than always adding more, focus on subtracting. Remove distractions, ineff
 
 In short, constant learning and growth require a willingness to unlearn and let go of the past and a focus on simplifying by subtracting rather than constantly accumulating more. Habits of doubting, requiring evidence, and saying no help with this process.
 
- Here's a summary:
+ 
 
 • The characters in Chinese represent simple characters combined, not just the complicated symbols they appear to be. Each character has a poetic meaning behind it when broken down into its parts. 
 
@@ -179,7 +179,7 @@ In short, constant learning and growth require a willingness to unlearn and let 
 
 The key lesson is that we project meaning onto things, connecting dots that aren't meant to be connected. We imagine poetic, vivid meanings and stories that aren't there. The importance comes from us, not the thing itself.
 
- Here's a summary:
+ 
 
 • Don't feel bad if you haven't found your "true passion" or "purpose" yet. Those are overwhelming concepts.
 

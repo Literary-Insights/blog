@@ -716,7 +716,7 @@ Weaknesses:Can be overly self-critical and have trouble delegating. Need to impr
 Ambitions:Within 5 years, advance to a leadership position. Long-term, continue progressing in my career and maintain strong relationships.
 Necessities:Meet essential financial obligations. Have meaningful work that utilizes my talents. Make time for loved ones.
 
- Here's a summary:
+ 
 
 - Focus on the aspects of your job that energize and fulfill you. Learn more about those areas and get involved in them. 
 
@@ -885,7 +885,7 @@ Does this help summarize the sources cited in the given text? Let me know if you
 
 • Continually working to strengthen these characteristics and use the tools and techniques can help build your emotional resilience over time. But it requires conscious effort and practice.
 
- Here's a summary:
+ 
 
 - The text contains copyrighted material that can only be used as expressly permitted by the publishers or copyright law. 
 - Unauthorised distribution or use of the text may infringe on the author's and publisher's rights. Those responsible may face legal liability.

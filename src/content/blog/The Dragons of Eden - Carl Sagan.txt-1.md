@@ -73,7 +73,7 @@ BOOK LINK:
 
 - Popular belief that half the brain is "unused" is unsubstantiated. Redundancy allows some regions to be damaged without apparent behavioral change, but subtle impairments may still occur. There is evidence for localization of many functions.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Canadian neurosurgeon Wilder Penfield pioneered research on electrical stimulation of the cerebral cortex in conscious patients. This elicited vivid memories and perceptions, suggesting memories are stored in specific cortical areas. 
 

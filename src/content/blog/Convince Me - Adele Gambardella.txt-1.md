@@ -285,7 +285,7 @@ The key takeaway is that magicians, con artists and fortune tellers are able to 
 
 The next chapter will discuss techniques for effectively reading people and opening doors at the right time through mastering nonverbal cues, empathetic listening, and considering emotional/mental states.
 
- Here's a summary:
+ 
 
 - The passage describes using observations and checklists to analyze problematic bosses and understand their behaviors, motivations, and influences. 
 
@@ -463,7 +463,7 @@ The passage then discusses how leaders in business crises must master their own 
 
 The key is being aware of potential preconceptions and proactively addressing them, while also establishing your credibility and professional boundaries from the start of interactions. This helps maximize your influence and shape interactions positively.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Timing is a crucial element of effective convincing. When you communicate your message can sabotage your efforts if the timing isn't right. 
 

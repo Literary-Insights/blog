@@ -237,7 +237,7 @@ In summary, the key fallacy is looking at wages in isolation rather than real st
 
 - The Fed was meant to serve as a centralized banking system that could provide emergency cash to banks and stop panics from occurring or spreading through the banking system.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The Federal Reserve System was established in 1914, shortly before World War I began. The war changed the Fed's role from a passive player to a major force shaping global monetary policy. 
 
@@ -741,7 +741,7 @@ This example from the Civil War demonstrates how strongly reducing the money sup
 
 So in summary, the passage argues that well-intentioned but misguided policies aimed at full employment have inadvertently fed inflation over the long run through both fiscal and monetary means. Inflation in turn benefits governments financially but hurts citizens.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The cure for inflation is simple - reduce the rate of monetary growth since excessive money growth is the main cause of inflation. However, implementing this cure is politically difficult.
 
@@ -879,7 +879,7 @@ So in summary, it aims to constitutionally cap federal spending increases based 
 
 - It includes two tables from other sources presenting estimates of the net costs and transfers of funds between income groups under public financing of higher education.
 
- Here's a summary:
+ 
 
 - 0-5,000 income range: Total income increased from $20.3 billion to $28.9 billion, an increase of $8.7 billion. 
 

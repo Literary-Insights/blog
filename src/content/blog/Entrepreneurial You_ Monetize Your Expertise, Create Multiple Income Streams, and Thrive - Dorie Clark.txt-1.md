@@ -247,7 +247,7 @@ General speaker fee ranges are provided, from $500-$2,500 for newbies up to $20,
 
 Key tips are to always ask event organizers what their speaker budget is, and have a sense of your target rate based on experience. Outbound marketing like contacting associations directly rarely works initially, but can be done persistently and locally at first. Having a website and speaker video helps provide credibility when pitching yourself.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Jason Van Orden recalls when podcasting first emerged in 2004, it was not well known - even Google didn't recognize the term. Early podcasting required technical skills. 
 

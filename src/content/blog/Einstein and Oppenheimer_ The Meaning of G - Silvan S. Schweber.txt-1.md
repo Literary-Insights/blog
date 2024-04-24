@@ -87,7 +87,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - Essentially, Oppenheimer excelled when given a clear purpose but struggled to define his own vision, unlike Einstein who profoundly impacted science and society. Oppenheimer admired Bohr's example but did not have the close mentorship relationship with him that Einstein had.
 
- Here is a summary of the key points from the passage:
+ 
 
 - In March 1945, Niels Bohr wrote a memorandum to President Roosevelt advocating for openness with the Soviet Union regarding nuclear technology. This prompted Secretary of War Henry Stimson to form the Interim Committee to advise on use of the atomic bomb. 
 
@@ -669,7 +669,7 @@ In summary, Oppenheimer's postwar identity as scientist-statesman, the struggles
 
 - It allowed Oppenheimer to expand the scope of the Institute into new cross-disciplinary areas during his tenure as director from 1947-1966.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Oppenheimer was interested in extending the Institute's activities to theoretical psychology and set up an advisory committee with leading psychologists like Jerome Bruner, Edward Tolman, and others. 
 
@@ -1061,7 +1061,7 @@ In essence, Einstein worked in isolation on foundational problems, while Oppenhe
 
 - Heisenberg criticized Einstein's role in the atomic bomb at the 1955 celebration honoring Einstein.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Albert Einstein and other scientists advocated for international control of nuclear weapons after WWII to avoid nuclear war. 
 
@@ -1085,7 +1085,7 @@ In essence, Einstein worked in isolation on foundational problems, while Oppenhe
 
 - There were some tensions early on over issues like faculty appointments and the role of Jewish studies, but ultimately the university was founded on the principles Einstein supported. Einstein maintained an honorary connection with Brandeis but was not involved in day-to-day activities.
 
- Here is a summary of the key points from the passage:
+ 
 
 - In April 1947, Ralph Lazrus, Otto Nathan, Milton Bluestein, and Israel Rogosin held an unofficial meeting of the Board of Directors of the Albert Einstein Foundation, as there was no quorum present. 
 

@@ -395,7 +395,7 @@ Mill believed that there is no objective way to compare higher and lower pleasur
 
 Mill applied his utilitarian philosophy broadly to issues of individual liberty and societal organization. He thought people should have maximum freedom to pursue their own conception of happiness as long as it does not harm others. Restricting individual freedom often does more harm than good. Open discussion of ideas also benefits society by challenging prejudices. While some found Mill's views too permissive, he advocated for greater individual rights and equality between sexes. His seminal work On Liberty defends these principles of allowing people space to develop themselves freely without interference.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Chapter 17 discussed Charles Darwin and the development of his theory of evolution through natural selection. Darwin formulated this theory after observing variations between species during his voyage on the HMS Beagle. 
 

@@ -105,7 +105,7 @@ When starting their YouTube channel while working full-time, they faced many obs
 
 - Attention is described as an open door that can't be shut to block out distractions, either external or internal thoughts. Focusing is more difficult for those with ADHD.
 
- Here is a summary of the key points from the passage:
+ 
 
 - People with ADHD can hyperfocus intensely on tasks or activities that engage them, getting so absorbed they lose track of time. Hyperfocus is caused by the brain's difficulty regulating attention.
 

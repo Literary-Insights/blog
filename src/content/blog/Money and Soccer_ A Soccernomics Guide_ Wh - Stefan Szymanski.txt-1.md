@@ -847,7 +847,7 @@ Debt
 
 - Debt remains a structural feature of football economics. It arises from the imbalance between regular operating costs and the irregularity of transfer spending needed to maintain competitiveness.
 
- Here is a summary of the key points from the passage:
+ 
 
 - UEFA introduced financial regulations called Financial Fair Play (FFP) in 2009 to improve the financial health of European soccer clubs. 
 

@@ -201,7 +201,7 @@ In summary, Benham and Anderson represent attempts to bring an analytical, data-
 
 - To compete with richer rivals, clubs must either increase revenue, find more innovative strategies and efficiencies, or revolutionize their approach to the game. There are many ways to gain an edge besides just spending more.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Thomas Tuchel was an unconventional football manager who lectured the Rulebreaker Society in 2012 about how he broke with traditional approaches as the manager of Mainz. 
 

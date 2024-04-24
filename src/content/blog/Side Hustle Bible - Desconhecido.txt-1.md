@@ -450,7 +450,7 @@ For the more technical roles requiring extensive programming knowledge and skill
 
 7. Branden built success by growing social media accounts with millions of followers and using that influence to launch businesses and partner with influencers with hundreds of millions of followers.
 
- Here is a summary of the key points from the passage:
+ 
 
 • You don't need a revolutionary idea or world-changing business to be successful as an entrepreneur. Many successful entrepreneurs found opportunities right under their noses. 
 
@@ -494,7 +494,7 @@ F I N D I N G I D E A S
 
 10. Sell Your Photos - Become a stock photographer and sell your photos through royalty-free marketplaces like iStock, Shutterstock, and Adobe Stock to be used by websites, print media, and businesses.
 
- Very nice! Here's a summary:
+ Very nice! 
 
 daycare while we were at work — a fancy kind that includes Suzy Moore suggests 9 side hustle ideas to make extra weekly grooming — and spent $500 a month. Insane.
 
@@ -977,7 +977,7 @@ Hope this summary helps! Let me know if you need any clarification or have addit
 
 Does this cover the main points accurately? Let me know if you need any additions or clarifications.
 
- Here's a summary:
+ 
 
 They create the James Altucher Show podcast by following these key steps:
 

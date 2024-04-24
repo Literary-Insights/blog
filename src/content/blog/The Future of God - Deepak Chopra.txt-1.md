@@ -564,7 +564,7 @@ In summary, the passage discusses how enlightenment involves gaining the perspec
 
 - The Book of Job explores the problem of undeserved suffering, though its resolution of restoring Job's fortune is unconvincing. It illustrates humanity grappling with the question of why evil exists.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Job initially thought he understood God based on religious teachings and scriptures, but his suffering showed him that actually knowing God requires a direct, personal experience beyond just words and rules. 
 

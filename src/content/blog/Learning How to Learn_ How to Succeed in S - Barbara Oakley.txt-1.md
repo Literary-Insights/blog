@@ -204,7 +204,7 @@ Overall, the passage describes how neurons work and communicate to generate thou
 
 The key ideas are: learning, sleep, spaced practice, and building strong neural connections through dendritic spines. Combining focused learning during the day with sleep at night is the most powerful way to build mastery.
 
- Here's a summary:
+ 
 
 - Your school bag represents your working memory, which holds a limited amount of information that you are actively using. 
 - Your locker represents your long-term memory, which can hold a lot more information but is not immediately accessible.
@@ -319,7 +319,7 @@ In summary, for such a dangerous real-world task, there is no substitute for dir
 
 Does this help summarize why hands-on experience would be preferred for such a high-risk activity? Let me know if you would like me to clarify or expand on any part of the summary.
 
- Here's a summary:
+ 
 
 • The hippocampus is particularly important for remembering facts and events. It's shaped like a seahorse, with one on each side of the brain. 
 
@@ -386,7 +386,7 @@ The key point is that becoming an expert requires focused, deliberate practice o
 
 The key takeaway is that you must actively build brain-links through practice and application for mastery of a skill. Passively taking in information is not enough. Focus, repetition, and making connections are what strengthen learning.
 
- Here's a summary:
+ 
 
 Asking yourself important questions about your own learning, like whether listening to music helps or hinders you, is one of the best ways to strengthen your brain-links and will also make you realize where you have gaps in your knowledge. 
 
@@ -430,7 +430,7 @@ In summary, employing active learning strategies like varying your environment, 
 
 Does this summary match your understanding of the key points? Let me know if you have any other questions!
 
- Here's a summary:
+ 
 
 - Action video games and spatial video games can improve focus, vision, and mental rotation skills which are useful for math and science. 
 - However, excessive video game playing can be addictive, so moderation is key.
@@ -496,7 +496,7 @@ Does this summary match your understanding of the key points? Let me know if you
 
 10. Teach others what you are learning. Teaching is one of the best ways to learn and retain information yourself. Share your learning with friends, family, students, etc. You'll remember so much more.
 
- Here's a summary:
+ 
 
 - Focused thinking is like bumper pool with bumpers close together, while diffuse thinking has bumpers spaced farther apart, allowing for more wide-ranging thoughts. 
 - You need to toggle between focused and diffuse thinking to solve problems.
@@ -533,7 +533,7 @@ Does this summary match your understanding of the key points? Let me know if you
 - Task switching also overworks the attentional octopus. Avoid it when possible.
 - Removing phone distractions and using phone apps can help focus the attentional octopus.
 
- Here's a summary:
+ 
 
 To help with a Pomodoro technique:
 
@@ -740,7 +740,7 @@ Passion: Having a genuine interest or passion for what you're trying to learn ma
 
 Deliberate practice: Focused, purposeful practice aimed at mastering skills and improving performance.  Discussed in passages 146, 150, 154-57, and 201.
 
- Here's a summary:
+ 
 
 Authors:
 
@@ -758,7 +758,7 @@ Illustrator:
 
 Oliver Young is a writer and woodturner based in London. He regularly contributes to the New Statesman’s magazine Designing. He is an active member of the Association of Pole Lathe Turners and Green Woodworkers and author of the graphic novel An Amoeba Called Joe. He is also the coauthor of three children, supports Arsenal football club, and plays guitar in a rock band. Learn more about Oliver’s work at oliveryoung.com.
 
- Here's a summary:
+ 
 
 - About 40% of people are "morning types" who wake up early, while 30% are "night owls" who stay up late. Teenagers often have late sleep-wake cycles. Schools with early start times don't allow teens enough sleep. Some schools starting later have seen test scores increase. 
 

@@ -727,7 +727,7 @@ Dagny Taggart watched from her office window as the shadow of a tormented, unkno
 
 Meanwhile, Hank Rearden reluctantly finalized the sale of his ore mines to Paul Larkin under the Equalization of Opportunity Bill. Though Larkin assured Rearden he could still rely on the mines' output, Rearden refused false promises and pretense. He saw Larkin as a coward cashing in on loot, unlike the honorable way Rearden built his wealth. As he handed over ownership, Rearden was reminded of a long-ago preacher promoting self-sacrifice of the strong for the weak. He regretted having to depend on the whims of a looter like Larkin, but felt resigned to the hopeless injustice of his plight.
 
- Here's a summary:
+ 
 
 The passage describes Hank Rearden's complex feelings and motivations regarding his dealings with weaker businessmen like Paul Larkin and James Taggart. Rearden feels contempt for men like Larkin who beg for unearned favors, but no real hatred. When he sells his coal mines to Danagger, a self-made man like himself, Danagger illegally offers him a rebate, but Rearden refuses on principle. Rearden is puzzled when he stops hearing from Wesley Mouch, until he learns Mouch has joined the government bureaucracy. 
 
@@ -959,7 +959,7 @@ The passage conveys the tension and dysfunction in their marriage. Henry struggl
 
 In summary, Lawson provided money to the motor company but seems ignorant of the technical work they were doing. Dagny is persistent in trying to learn more in her search for an important former employee.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Lee Hunsacker was once the president of Amalgamated Service Corporation, which acquired the bankrupt Twentieth Century Motor Company factory. He felt entitled to success but believes he was cheated out of opportunities. 
 

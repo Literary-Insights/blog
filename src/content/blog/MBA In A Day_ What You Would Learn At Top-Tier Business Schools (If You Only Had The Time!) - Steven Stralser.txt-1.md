@@ -81,7 +81,7 @@ As for current gaps in the skill set, some potential gaps that a leadership deve
 
 The leadership development program could help fill these gaps by providing cross-functional exposure, training in strategic skills, mentorship from senior leaders, and temporary roles with expanded responsibilities. This would help develop a pipeline of internal candidates with the full range of skills needed for senior leadership positions.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Organizational behavior is the study of how individuals and groups perform within an organization to achieve common goals. It focuses on effective management, motivation theories, and organizational structure. 
 
@@ -761,7 +761,7 @@ The passage discusses important aspects of designing and implementing a quality 
 
 - Common auditing approaches for services include mystery shoppers, customer surveys, and monitoring new customers over time.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Ethics refers to moral principles that govern a person's or group's behavior. It's important for businesses to establish and follow ethical standards. 
 

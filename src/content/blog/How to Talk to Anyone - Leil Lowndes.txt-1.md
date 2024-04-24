@@ -447,7 +447,7 @@ The techniques help make people feel closer to you by matching their language an
 
 - To deeply compliment someone close, play the Tombstone Game. Ask what they'd want etched on their tombstone representing their proudest achievement. It reveals their self-perception.
 
- Here is a summary of the key points from the passage:
+ 
 
 - On the phone, people can't see your facial expressions, body language, smiles, nods, etc. that convey your personality. So you need to translate these "gestures" into sound to get your personality across. 
 

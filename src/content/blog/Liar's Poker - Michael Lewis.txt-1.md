@@ -409,7 +409,7 @@ Initially things went well - Salomon was able to sell its IOPOs more cheaply tha
 
 To recover his losses, Smith then claimed the profitable IO positions held by Salomon's mortgage arbitrage group actually belonged to him as part of a larger planned trade. He took over their profits to offset his own losses. This angered the other traders, as Smith was essentially stealing their money. It highlighted dysfunction at Salomon Brothers and eventually led to several traders quitting the firm in protest.
 
- Based on the passage, here's a summary:
+ Based on the passage, 
 
 - Lewie Ranieri had been fired from Salomon Brothers by John Gutfreund in July 1987 during a brief meeting at a law firm office. Ranieri was surprised by his firing.
 

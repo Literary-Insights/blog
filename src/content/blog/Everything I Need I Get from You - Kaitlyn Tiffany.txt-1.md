@@ -45,7 +45,7 @@ Ultimately, the book seeks to understand the significant but overlooked role onl
 
 - One Direction fandom demonstrated how online subcultures allow marginalized groups like teen girls to find joy on their own terms, but also reinforce in-group norms and potentially enable harmful behaviors.
 
- Here's a summary: 
+  
 
 When One Direction lost The X Factor but gained a massive fanbase, the band cultivated an intimate relationship with fans through candid online conversations. This resonated with the author, who was struggling to find connection in college. Seeing the bandmates bond and envision staying lifelong friends made the author feel a jolt. Months later, hearing 1D's songs with a friend crystallized her affinity. 
 

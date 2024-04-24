@@ -73,7 +73,7 @@ There are 13 laws of manipulation:
 
 In summary, manipulators are deceitful people who use various tactics like lying, emotion, victimhood, and more to gain power over others and get what they want. They isolate, guilt, blame, rationalize, and divert to avoid taking responsibility for their actions.
 
- Here's a summary:
+ 
 
 - Manipulation is typically viewed negatively as deceitful, unethical and selfish behavior where one person takes advantage of another. 
 
@@ -201,7 +201,7 @@ In summary, manipulators are deceitful people who use various tactics like lying
 
 • In summary, manipulators are often selfish individuals with personality disorders that make them behave in harmful ways with little regard for others. They manipulate to meet their own needs and gain what they want at the expense of those around them.
 
- Here's a summary:
+ 
 
 • Narcissists have an unrealistic and grandiose view of themselves. They believe they are inherently superior to others and deserve special treatment. 
 
@@ -253,7 +253,7 @@ In summary, manipulators are deceitful people who use various tactics like lying
 
 The key is awareness of these techniques and a willingness to stand up for yourself. Victims must set boundaries, spend time with others, and trust their own judgment. Leaving the relationship may ultimately be the healthiest choice.
 
- Here's a summary:
+ 
 
 - Allowing someone else to control your actions to avoid arguments is a sign of mind control in a relationship. When you start changing what you do because of another person's wants, you're being controlled. 
 
@@ -319,7 +319,7 @@ Some specific signs to look for:
 
 Analyzing what people say, how they write, their environment, and their emotional state also provides insight into their personality and mental state. Developing these skills leads to better communication and relationships.
 
- Here's a summary:
+ 
 
 Effective communication requires analyzing people on a deeper level.  This includes analyzing their:
 
@@ -469,7 +469,7 @@ The key is to recognize manipulative tactics, stand up for yourself, set boundar
 
 • Summary and concluding thoughts. A review and reminder of the key lessons. An appreciation for reading and a request for an Amazon review if found useful.
 
- Here's a summary:
+ 
 
 - We often miss the subtle signs that indicate someone may be manipulating us. We have all either manipulated others or been manipulated at some point.
 

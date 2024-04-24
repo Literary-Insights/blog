@@ -156,7 +156,7 @@ The new not normal rewards the adaptable over the farsighted. With so much uncer
 
 The old normal rewarded those like Warren Buffett who took a steady, long view. But unpredictable shocks now favor the flexible and anti-fragile. Few expect a return to the old stability.
 
- Here's a summary:
+ 
 
 The COVID-19 pandemic accelerated economic timeframes and made it difficult to interpret economic data. The recession in 2020 was extremely short, lasting only about two months from mid-March to April. Normally recessions last multiple quarters or even years. Markets also had trouble discerning what was happening in real-time during the pandemic. The monthly jobs report became hard to interpret because it depended heavily on which week the surveys were conducted relative to COVID waves. 
 

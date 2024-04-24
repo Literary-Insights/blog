@@ -532,7 +532,7 @@ In summary, it discusses the key molecules necessary for life on Earth, its earl
 
 - The author criticizes aspects of the movies Independence Day and Star Trek: The Motion Picture for unrealistic or implausible portrayals of alien intelligence and technology.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Humans have emitted radio waves into space for less than a century, starting from early broadcasts in the 20th century like Martin Luther King Jr.'s "I Have a Dream" speech. 
 

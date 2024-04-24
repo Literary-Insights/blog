@@ -113,7 +113,7 @@ Overall, the passage discusses how computers provide a universal platform for mo
 
 - Early conceptual ideas for intelligent machines date back centuries, but technological progress was needed to realize general-purpose computers in the 1940s-50s. While challenges remain, the basic concept of creating artificially intelligent systems through computation is feasible even if difficult to achieve.
 
- Here's a summary:
+ 
 
 - Turing refuted the idea that machines would not be able to think or perform intelligent tasks. He proposed the Turing test, known as the imitation game, to measure a machine's ability to behave like a human. 
 

@@ -577,7 +577,7 @@ So in summary, matchmakers are ancient but have been massively empowered by mode
 
 - Multisided platforms will grow increasingly important in the global economy. Their influence will expand as existing platforms grow and new ones emerge. But the full effects will unfold gradually over many years.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Economists and business strategists did not understand multisided platforms as a distinct business model before 2000. Now there is much more insight into how these platforms work. 
 

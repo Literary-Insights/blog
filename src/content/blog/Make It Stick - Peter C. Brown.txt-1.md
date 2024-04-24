@@ -442,7 +442,7 @@ The key is learning when to trust intuition (System 1) and when to engage analyt
 
 • Successful intelligence means adapting to one's environment and cultural context. It requires a balance of analytical, creative, and practical abilities. Successful individuals often develop compensatory abilities to overcome learning difficulties.
 
- Here's a summary:
+ 
 
 - Musical intelligence: ability with sounds, rhythms, music 
 - Interpersonal intelligence: ability to understand and work with other people
@@ -540,7 +540,7 @@ In summary, the human brain maintains a high degree of plasticity throughout lif
 
 Does this summary accurately reflect the key ideas and conclusions presented in the passage? Let me know if you would like me to clarify or expand on any part of the summary.
 
- Here's a summary:
+ 
 
 - Focusing on performance leads to doing the same thing over and over to look competent. Focusing on learning leads to taking on increasing challenges to grow your abilities. 
 - Learning goals trigger a growth mindset, while performance goals trigger a fixed mindset. With a growth mindset, you see ability as malleable and failure as useful feedback. With a fixed mindset, you see ability as static and failure threatens your self-image.
@@ -661,7 +661,7 @@ John McPhee advises aspiring writers to just start writing to engage their minds
 
 The pianist Thelma Hunter, 88, uses elaboration to learn new pieces. She learns them physically, aurally, visually, and intellectually. Though aging has brought some changes, she continues to practice daily, memorizing new pieces through mental imagery, visualization, and thinking through the pieces while driving. Her elaborative techniques have served her well throughout her long career.
 
- Here's a summary:
+ 
 
 - The teacher, Mary Pat Wenderoth, introduces the concepts of desirable difficulties and the testing effect to her students. She explains how retrieval practice through self-testing leads to better long-term learning than passive rereading. 
 
@@ -675,7 +675,7 @@ The pianist Thelma Hunter, 88, uses elaboration to learn new pieces. She learns 
 
 The key goals are for students to become independent, evaluative learners; to move beyond superficial learning and comprehension to higher-order thinking; and to develop effective study strategies based on empirically-proven learning techniques. Wenderoth accomplishes this through transparency, modeling effective techniques, and pushing students outside their comfort zone so their learning sticks.
 
- Here's a summary:
+ 
 
 - The psychology professor Beth Wenderoth has developed a new vocabulary for describing setbacks in learning to help students develop a growth mindset. Rather than accusing tests of containing "trick questions," students say they have the "illusion of knowing." This framing helps them work with the professor to improve. 
 

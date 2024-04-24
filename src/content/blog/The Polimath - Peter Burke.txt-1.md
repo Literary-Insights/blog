@@ -154,7 +154,7 @@ So in summary, the passage establishes the 17th century as the height of scholar
 
 - The motto emphasized an optimism about the potential for voyages of exploration and dissemination of their findings to contribute to collective growth of human understanding and intellectual progress over time. Each new traveler and experience would build upon prior knowledge in an iterative and expansive way.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Juana Ramírez, also known as Juana Inés de la Cruz or 'Sister Juana', was a Mexican nun and writer who was renowned for her learning. She was described by contemporaries as the "Mexican Phoenix" and a "Phoenix of Erudition in all sciences". 
 

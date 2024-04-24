@@ -201,7 +201,7 @@ So in summary, Allen's use of AI art to win a state fair prize highlighted both 
 
 - In summary, the author is exploring the capabilities of AI writing and art tools while also acknowledging their current limitations for full works and potential impacts on content creators.
 
- Here is a summary of the key points from the passage:
+ 
 
 - In 2020, Alex Masmej was broke and wanted to move from Paris to San Francisco but couldn't afford it. Instead of getting a traditional job, he did a "human IPO" by creating a digital token ($ALEX) and raising $20,000 from investors in exchange for 10% of his future income over the next 3 years. 
 

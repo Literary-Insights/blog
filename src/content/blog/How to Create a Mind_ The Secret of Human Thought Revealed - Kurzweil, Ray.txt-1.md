@@ -755,7 +755,7 @@ The passage describes a thought experiment about early life on Earth and the ori
 
 The thought experiment then speculates about how early self-replicating molecules on Earth could have led to the emergence of RNA and DNA, allowing for more complex cells and eventually evolution through natural selection. It argues this ultimately produces life with intelligence capable of further exploring these origins through scientific inquiry.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Ray describes a method he uses to harness the creative power of his dreams to solve problems. He calls it "sleeping on it."
 

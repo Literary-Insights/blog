@@ -61,7 +61,7 @@ Stars twinkle because of changes in the density and temperature of Earth's atmos
 
 - Examples of large optical telescopes discussed are those at the Keck Observatory in Hawaii, which use advanced technologies like segmented and adaptive primary mirrors.
 
- Here's a summary:
+ 
 
 The signal travels through the feed horn which increases the signal strength. Then the signal is either processed on the receiver located at the center of the dish or sent to a computer for analysis using sophisticated software. Astronomical interferometry combines light or radio signals from multiple telescopes to examine celestial objects at higher detail, as if observed by larger mirrors or antennas. The signals are processed by a digital correlator which accounts for time delays between telescopes.
 

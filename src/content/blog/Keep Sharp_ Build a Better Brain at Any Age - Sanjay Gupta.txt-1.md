@@ -771,7 +771,7 @@ So in summary, these organizations provide resources for dementia research, clin
 
 In summary, the article reviews research on biological and lifestyle risk factors for Alzheimer's disease and cognitive decline, focusing on links to conditions like diabetes and infections. It suggests mechanisms like inflammation and impaired insulin signaling may be involved.
 
- Here is a summary of the key points from the passage:
+ 
 
 - A 2018 prospective cohort study and meta-analysis found that higher intake of carbohydrates, especially from fast foods and sugar-sweetened beverages, was associated with higher risk of premature death. Lower carb intake from whole foods such as fruits, vegetables and dairy was not associated with higher mortality. 
 

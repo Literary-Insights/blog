@@ -505,7 +505,7 @@ In summary, rest challenges narratives of constant productivity and gives us per
 
 The key is increasing self-awareness, giving yourself permission to rest, and finding fulfilling activities beyond just constant productivity. A more balanced approach leads to greater well-being.
 
- Here's a summary:
+ 
 
 The author had committed to two years of purposeful rest and decluttering obligations, in order to reduce stress and obligations. However, soon after moving to Philadelphia for this slower pace of life, the author was unexpectedly offered several acting roles and found a house she loved. She ended up saying yes to the acting work and buying the house, even though it was busier than her original plan, because they brought her joy. 
 

@@ -11,7 +11,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 ---
 
 
- Here's a summary:
+ 
 
 • The human brain evolved to focus on threats for survival. As a result, the brain has a built-in negativity bias. It is better able to learn from painful experiences than positive ones.
 

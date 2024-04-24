@@ -417,7 +417,7 @@ In summary, the passage uses the metaphor of fishing to demonstrate that spiritu
 
 - The story of Joshua and the walls of Jericho contains the formula for manifesting desires. We must hold the promise of victory firmly in mind and send forth our fixed conception, ignoring obstacles, until the walls crumble and we enter the city victorious.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Consciousness is the one and only reality. Everything else is a conditioned state of the unconditioned consciousness, which is God. 
 

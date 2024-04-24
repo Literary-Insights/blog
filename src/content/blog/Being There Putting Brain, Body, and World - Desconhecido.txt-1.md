@@ -548,7 +548,7 @@ These alternative views are compatible with computational explanation and the id
 
 The arguments suggest a continuum of more or less programmed solutions, not a strict dichotomy. They call into question only certain specific versions of computationalism and representationalism, not these broader notions themselves.
 
- Here's a summary:
+ 
 
 - Representational approaches have difficulties capturing the temporal aspects of adaptive responses. Early connectionist models could not intrinsically represent time or order. Recurrent networks improved on this but still focused on order, not real timing. 
 

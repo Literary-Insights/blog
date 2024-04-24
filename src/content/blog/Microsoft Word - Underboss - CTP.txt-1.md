@@ -27,7 +27,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - It became an international bestseller and was hailed for ushering readers inside the inner workings of the Mafia as never before achieved.
 
- Here's a summary:
+ 
 
 Sammy Gravano grew up in Bensonhurst, Brooklyn in the 1950s. His father Gerry was a dressmaker who stayed away from the local mafia men, even though some would greet him on the street. When Sammy asked about them, Gerry said they were bad people tied to the community that Italians would go to for help when the police wouldn't help. 
 

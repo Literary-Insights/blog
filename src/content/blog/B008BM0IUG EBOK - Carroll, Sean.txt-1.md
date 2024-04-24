@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points from the passage:
+ 
 
 - The passage describes the anticipation and build up to the launch of the Large Hadron Collider (LHC) particle accelerator at CERN. Many physicists had been waiting decades for a machine like this to make new discoveries. 
 

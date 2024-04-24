@@ -1069,7 +1069,7 @@ So in summary, Djilas proposed worker self-management of factories in 1950, gett
 
 - In a landmark speech, Khrushchev denounced Stalin's cult of personality and crimes, though in a way that protected the party and system. This had huge reverberations both within the USSR and Eastern Europe.
 
- Here's a summary:
+ 
 
 - This passage discusses changes in Hungary and Eastern Europe following Stalin's death in 1953. 
 
@@ -1527,7 +1527,7 @@ So in summary, the text discusses the student and worker rebellion and commitmen
 
 - Economic and political crises led to the revolution and overthrow of Selassie. The Derg initially favored African socialism but radical students and Mengistu pushed for Marxism-Leninism.
 
- Here's a summary:
+ 
 
 - A geramanja (religious leader) was unceremoniously paraded through a provincial town by students. The students deliberately desecrated his sacred eating utensils and seated a low-caste man on his special horse, outraging his followers. 
 

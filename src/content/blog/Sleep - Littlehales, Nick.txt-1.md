@@ -47,7 +47,7 @@ BOOK LINK:
 
 - Following the program can help maximize physical and mental recovery from sleep within the hours available by optimizing various lifestyle factors that influence sleep. Over time, this can lead to feeling improvements and enhanced capabilities.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Circadian rhythms are the body's natural 24-hour cycles regulated by an internal clock that controls sleep, hormone production, body temperature, etc. These rhythms evolved to sync with daylight. 
 
@@ -73,7 +73,7 @@ BOOK LINK:
 
 - Factors like excessive late-night light exposure, shift work, or late exercise can interfere with circadian rhythms and disrupt sleep quality by suppressing melatonin production at the wrong times. It is essential to be aware of natural circadian patterns.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Many people mask their true chronotype (morning or evening person) due to societal and work demands that do not align with natural circadian rhythms. This is called "social jet lag."
 

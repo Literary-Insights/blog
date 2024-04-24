@@ -33,7 +33,7 @@ Bibliography and Further Reading
 Index
 About the Author
 
- Here's a summary:
+ 
 
 - Most career advice sucks because it comes from "box-checkers" who give recycled advice or "hacks" who promote shortcuts that don't help in the long run. 
 - You need a career system focused on helping you achieve meaningful goals, build a strong network, and establish a personal brand.
@@ -65,7 +65,7 @@ About the Author
 
 The key message seems to be that through deliberate and consistent action, using a proven system, ordinary people can achieve extraordinary career success and opportunities. The book aims to teach that system, providing the theory and specific actions to put it into practice.
 
- Here's a summary:
+ 
 
 Adsheets:
 Send an email to get an adsheet. The email should express why you bought the book and your goals.  
@@ -87,7 +87,7 @@ It addresses the challenges of introspection and figuring out what you really wa
 
 The exercise worksheets provide a framework for figuring out your values, priorities, and building a meaningful career or business. The email scripts provide examples for reaching out to build your network.
 
- Here's a summary:
+ 
 
 Ambition Mapping is a goal-setting process that uses sentence completion exercises and backward induction to help you identify meaningful goals and develop a plan to achieve them. 
 
@@ -382,7 +382,7 @@ Your personal brand is how the right people see you as the only solution to thei
 
 In summary, start by posting 1-2 times per week with a mix of long and short content. Pay attention to your readers and analytics to determine the ideal posting frequency and format for your audience. Focus on quality over quantity, vary your posting schedule slightly, and take short breaks when needed while staying engaged with your readers. Following these tips will help you establish an effective yet sustainable blogging rhythm.
 
- Here's a summary:
+ 
 
 The key to effective content creation is building the habit of creating content regularly. Don't create some content, ignore your site for months and then create more content. Focus first on consistency. 
 
@@ -400,7 +400,7 @@ Advanced elements to include:
 
 •
 
- Here's a summary:
+ 
 
 To set up a drip campaign for new subscribers only:
 
@@ -416,7 +416,7 @@ To set up a drip campaign for new subscribers only:
 
 The key steps are selecting evergreen content, scheduling the emails to send automatically at the right cadence, using email marketing tools to target new subscribers, and optimizing the campaign over time. An automated drip campaign is a great way to provide value to new subscribers and keep them engaged.
 
- Here's a summary:
+ 
 
 - To build your personal brand, you have to actively promote it, just like companies do for their brands. You can't just create a website and expect traffic. 
 
@@ -459,7 +459,7 @@ Tools: BuzzStream, a influencer marketing platform, can help discover new media 
 
 Learning curve: Moderate to high. This requires PR skills and the ability to persuade media outlets of your value. But the reward of access to large, qualified audiences is worth it.
 
- Here's a summary:
+ 
 
 • You don't have to be a professional journalist to contribute to major publications. Many accept contributions from industry experts and professionals. 
 
@@ -501,7 +501,7 @@ Examples:
 
 In summary, the key to effective personal branding is developing and promoting high-quality work by whatever means are most appropriate and impactful for your industry and goals. While the specific tactics may differ, the principles of positioning, relationship building, and providing value to your audience remain consistent.
 
- Here's a summary:
+ 
 
 New podcast hosts and those struggling to find guests can benefit from a cold email pitch from an eloquent, qualified guest. Start with smaller podcasts and work your way up through introductions to larger shows. Identify podcasts with audiences that match your own, pitch the hosts, and ask for introductions to other podcasters. Pitching podcast hosts through cold email is challenging but signaling the right traits is key. Offer a lead magnet for listeners and ask the podcaster for introductions. 
 
@@ -609,7 +609,7 @@ In summary, build a world-class network by taking initiative, focusing on value,
 
 • With the right approach, you can build a strong professional network to help boost your career opportunities. But avoid the common mistakes that most people make.
 
- Here's a summary:
+ 
 
 • Avoid networking events where the primary purpose is networking. Look for events where networking is a secondary benefit. These tend to attract higher quality connections. 
 
@@ -659,7 +659,7 @@ To connect with super-connectors:
 
 The key is to build genuine relationships with the super-connectors, not just use them as a means to an end to meet the VBPs. Focus on learning from the super-connectors and helping them, and the connections to VBPs will follow.
 
- Here's a summary:
+ 
 
 After meeting someone at an event, send a follow-up email to remind them of who you are and try to continue the conversation. Follow-ups can be actionable (asking for a meeting) or nonactionable (just building the relationship). With super-connectors, ask for a meeting to start building the relationship.
 

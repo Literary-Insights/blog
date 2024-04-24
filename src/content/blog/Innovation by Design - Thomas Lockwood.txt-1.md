@@ -193,7 +193,7 @@ In summary, design thinking and innovation succeed through culture, co-creation,
 
 - Understanding the culture keys and motivations of a culture is important for leaders trying to implement design thinking and create change. The approach needs to align with the unique culture for the best results.
 
- Here's a summary:
+ 
 
 Culture is built on a foundation of shared beliefs and values. When people within an organization have clarity about these beliefs and values, and understand how their efforts and performance will be rewarded, it leads to stronger culture. 
 
@@ -577,7 +577,7 @@ The summary highlights how the key organizations in the study use design thinkin
 
 In summary, the research found that design thinking helps constructively manage conflict and find innovative solutions. With practice, people can develop skills to have "curious confrontations" - honest yet empathetic discussions. By anchoring in purpose, asking good questions, including diverse groups, measuring impact, and continuously improving, organizations can turn discord into an opportunity for new ideas. Leaders must model this approach through aligned actions and by taking initiative in difficult conversations. The result is a culture where people feel engaged and able to voice concerns, knowing they will lead to co-created answers.
 
- Here's a summary:
+ 
 
 - Philips wanted to shift its business strategy and saw design thinking as key to transformation. Under Sean Carney's leadership as head of design, design thinking was integrated across the company. 
 

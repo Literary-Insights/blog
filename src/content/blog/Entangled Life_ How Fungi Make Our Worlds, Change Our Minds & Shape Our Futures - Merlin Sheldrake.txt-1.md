@@ -817,7 +817,7 @@ So in summary, microbes living within fungi can determine important traits and f
 
 - In summary, the type of mycorrhizal relationship influences carbon and nutrient cycling in soil, as well as plant diversity and interactions, both within and across generations of plants.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Experimenting on shared mycorrhizal networks is complicated due to the difficulty of showing direct connections between plants via fungi and the fact that networks are the default state in nature. 
 

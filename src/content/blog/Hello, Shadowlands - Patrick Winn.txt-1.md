@@ -773,7 +773,7 @@ There are two fronts opposing dog thieves - rural villagers taking matters into 
 
 - Overall it suggests the dog-eating tradition will be hard to change, as the villagers in Nhi Trung are proud of defending themselves and their culture against outside influences and corruption, regardless of international opinion. Vietnam's youth may modernize but all regions will not abandon old ways.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The author visits Bangladesh in 2017 during a major Rohingya refugee crisis as hundreds of thousands flee ethnic cleansing in Myanmar. 
 

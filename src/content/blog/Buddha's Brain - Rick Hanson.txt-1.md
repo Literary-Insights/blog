@@ -273,7 +273,7 @@ The interaction of these systems can help or hinder motivation, depending on whe
 
 So in summary, equanimity creates a state of balanced even-mindedness through cortical understanding paired with reduced reactivity of stress systems in the brain, resulting in a peaceful and nonreactive perspective.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The metaphor of the "two wolves in the heart" refers to the two competing influences of love and hate that exist within each person. Which one we feed each day determines which will have more influence over our thoughts and behaviors.
 
@@ -313,7 +313,7 @@ In summary, major advances in brain development among mammals, primates and huma
 
 - Acknowledging our shared capacity for hate, rather than denying it, brings self-compassion and caution when situations activate aggression. Both love and hate originated from our evolution.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Empathy is the foundation of meaningful relationships. It involves understanding another person's feelings, intentions, and emotions. Empathy reassures others that they are seen and felt. 
 
@@ -443,7 +443,7 @@ So in summary, the passage outlines Buddhist concepts of the five factors of con
 
 So in summary, it outlines both challenges to focus during meditation and specific techniques for managing distractions, maintaining engagement, and deepening absorption and one-pointedness of attention on the chosen meditation object.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Suffering often arises from taking things personally, seeking approval, possessing things as "mine", and standing apart from others and the world as an "I". Relaxing the sense of self can lead to greater peace. 
 

@@ -68,7 +68,7 @@ The affirmations focus on increasing self-esteem, confidence, and assertiveness 
 
 The affirmations encourage an optimistic, courageous and relaxed mindset. They promote qualities like independence, wisdom, sense of humor, warmth and embracing life's flow. Overall, the statements are meant to boost self-image and help one connect with their inner strength and talents during holidays/weekends.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The narrator looks in the mirror and sees a lion instead of their regular reflection. This suggests they feel powerful, confident and majestic. 
 

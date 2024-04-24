@@ -54,7 +54,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - The difference between good and great leaders is not just "more" of some quality but a fundamental difference in the type of person. To drive real change, more than filtered company-man types will be required. What is needed is an unfiltered, eccentric maverick.
 
- Here's a summary:
+ 
 
 Glenn Gould was an obsessive and eccentric pianist who achieved great success at a young age, including performances with the New York Philharmonic. However, at age 32, he retired from public performances to focus solely on studio recordings, enhancing his influence through "a conspicuous absence." He felt he was not that eccentric. His parents' early encouragement and financial support were critical, as he was too fragile to withstand the world's harshness. 
 
@@ -236,7 +236,7 @@ In summary, even if inaccurate, the stories we tell ourselves mean that grit is 
 
 - Work often needs more game mechanics, making it dull. However, introducing game elements like friendly competition, scoring points, levels, and small wins can make tedious tasks fun and engaging.
 
- Here's a summary:
+ 
 
 The main idea is to make dull aspects of work more engaging and motivating by applying lessons from game design. Games are engaging because they make us feel like we can win, provide novel challenges, have clear goals, and give feedback on progress. 
 
@@ -272,7 +272,7 @@ Overall, work is a good game. We can "game the system" and make tedious tasks mo
 
 - The key lessons are to focus your limited time on priorities, quit non-essentials, know when to walk away from lost causes, and not be afraid to try audacious things when young. Applying these concepts allows people to achieve more of what matters most.
 
- Here's a summary:
+ 
 
 Matt Polly had an unconventional path to becoming a successful author. At 19, he did something crazy that launched his writing career. This shows there's a science to getting lucky in life. 
 
@@ -356,7 +356,7 @@ The main ideas are that while optimism and perseverance are essential, coupling 
 
 In summary, while extroverts have some clear advantages, introverts can achieve greatness through intense focus and practice in their expertise. Both socializing and solitary skill-building have value, and extroverts and introverts can find paths to success.
 
- Here's a summary:
+ 
 
 The key points are:
 

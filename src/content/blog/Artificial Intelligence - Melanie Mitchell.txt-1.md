@@ -655,7 +655,7 @@ However, Copycat only scratched the surface of human-level abstraction and analo
 
 So in summary, these two problems exposed limitations in Copycat's ability to recognize new concepts and analogies on the fly without being explicitly programmed for the specific cases, as well as a lack of meta-level reasoning about its own problem-solving process.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Self-driving cars are currently at levels 0-2, with some reaching level 3 - where the car performs driving under certain circumstances but the human must be ready to take over. No cars are currently at levels 4-5, fully autonomous in all situations. 
 

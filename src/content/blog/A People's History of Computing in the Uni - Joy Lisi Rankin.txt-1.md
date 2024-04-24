@@ -245,7 +245,7 @@ The Dartmouth network enabled thousands of high school students to learn BASIC p
 
 So in summary, Dartmouth's time-sharing system and BASIC spread through both organized efforts like the College Consortium grant and the grassroots advocacy of people like Bob Albrecht. Their work helped make BASIC a popular and accessible programming language, especially for education.
 
- Here's a summary:
+ 
 
 - Bob Albrecht founded the People's Computer Company to spread computing to ordinary people, especially students. 
 
@@ -405,7 +405,7 @@ Though there were many visions of what a national computing network might be, th
 - TIES and MECC cultivated a participatory computing culture, with users creating and sharing their own programs in a social community. The Oregon Trail game emerged from this culture.  
 - Minnesota had a strong computer industry, economy and culture at the time, priming the area for innovations in educational technology like TIES, MECC, and The Oregon Trail.
 
- Here's a summary:
+ 
 
 In the mid-1960s, teachers at University High School (UHigh) in Minneapolis connected their students to time-sharing systems at Dartmouth College and then a local company, Pillsbury, to provide opportunities for students in grades 7-12 to gain computing experience. These teachers spread knowledge of their experiment through their professional network, the Minnesota Council of Teachers of Mathematics. Their efforts led to the creation of a cooperative called the Twin Cities Instructional Computing Services (TIES) in 1966. TIES was formed through a state law allowing political subdivisions like school districts to band together. It aimed to provide both administrative and instructional computing services for schools in the Minneapolis-St. Paul area.
 
@@ -635,7 +635,7 @@ Overall, PLATO fostered a rich social experience with many opportunities for per
 
 - There was a loss in the shift from personal computing to personal computers. Possibilities were foreclosed, connections were severed, and computing communities declined. Following PLATO, BASIC, and MECC into the 1980s shows these losses.
 
- Here's a summary:
+ 
 
 - Control Data Corporation (CDC) invested heavily in PLATO but struggled to make a profit from it. PLATO was more successful at the University of Illinois, where it fostered an active computing community. 
 

@@ -35,7 +35,7 @@ BOOK LINK:
 
 - The authors aim to explain the forces driving this change and how companies can capitalize on platform strategies rather than become victims of disruption.
 
- Here's a summary:
+ 
 
 Nokia failed to see the radical transformation in business and technology over the decade leading up to its demise. This allowed Apple and Google to surpass it with their platform business models that connect consumers and producers. Platforms like iOS, Android, Uber, and Airbnb created new markets and grew rapidly in a way that was impossible until recently. 
 

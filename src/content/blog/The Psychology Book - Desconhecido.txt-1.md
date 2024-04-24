@@ -3221,7 +3221,7 @@ Milgram's experiment involved volunteers administering what they believed were e
 
 The experiment was controversial and raised ethical concerns, but it has enduring significance. Milgram showed how all of us, not just "evil" people, can act in disturbing ways. By understanding the power of obedience and social situations, we can try to limit their negative effects.
 
- Here's a summary:
+ 
 
 - In 1961, Stanley Milgram conducted an experiment to test people's obedience to authority.
 
@@ -4940,7 +4940,7 @@ Does this summary accurately reflect Eysenck's theory of personality dimensions?
 
 • Elton Mayo studied productivity and morale. His Hawthorne experiments found that behavior changes when people know they are being studied. This “Hawthorne Effect” impacted research methods.
 
- Here's a summary:
+ 
 
 ilepsy. Sperry was investigating the
 

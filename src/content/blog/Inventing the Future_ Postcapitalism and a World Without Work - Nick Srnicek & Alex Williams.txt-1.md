@@ -159,7 +159,7 @@ Key arguments made are:
 
 It concludes folk politics is partial and insufficient on its own. Some elements from approaches like horizontalism are worth retaining but they require directly confronting questions of power rather than retreating from them. Overall strategy is needed to link discrete actions towards medium and long-term transformation of capitalism.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Neoliberalism originated as a fringe idea but has now become the dominant hegemonic ideology globally. It promotes free markets, private property, free trade and capital movement. 
 

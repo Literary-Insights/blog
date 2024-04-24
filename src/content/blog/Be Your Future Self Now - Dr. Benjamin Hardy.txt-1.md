@@ -488,7 +488,7 @@ Part 2
 
 Overall, the passages compile advice from various self-help and philosophical sources, emphasizing practices for self-improvement, finding meaning and purpose, and aligning oneself with a higher power or future self.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Viktor Frankl was an Austrian psychiatrist and Holocaust survivor who founded logotherapy, which focuses on finding meaning and purpose in life, even suffering. 
 

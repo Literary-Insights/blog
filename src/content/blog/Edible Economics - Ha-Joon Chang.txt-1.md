@@ -457,7 +457,7 @@ In summary, chilli's heat is a tricky chemical sensation, spiciness is beloved i
 
 - The passage expresses the author's lifelong love of and addiction to chocolate in its many varieties and forms.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Switzerland is often seen as a model post-industrial economy focused on services like banking and tourism rather than manufacturing. 
 

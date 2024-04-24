@@ -143,7 +143,7 @@ The key message is that verbal intelligence and the ability to use language skil
 
 So in summary, the passage provides a variety of techniques for continuously enhancing one's verbal skills through exposure, practice, monitoring performance, and addressing any underlying issues. Regular application of these methods can help maintain and improve communication abilities.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Don't make promises you can't keep, as it will undermine trust. Admit if you don't know an answer and commit to finding out. 
 
@@ -331,7 +331,7 @@ Rural communities speak more conservative versions of languages compared to urba
 
 Groups defined by ethnicity, nationality, age, gender, social class and religion tend to have their own distinct language variations that reflect their shared culture and experiences. Culture and language are deeply intertwined - the patterns and words of a language shape how its speakers understand the world. Learning a new language requires understanding its affiliated culture. Factors like paralinguistic cues must also be acquired to fully communicate cross-culturally.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Empathetic communication seeks to enhance understanding between people through conversation by appreciating another person's perspective. It allows you to truly understand what someone else is saying.
 

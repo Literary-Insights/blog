@@ -367,7 +367,7 @@ Einstein's iconic E=mc^2 equation emerged from special relativity - it shows tha
 
 So in summary, Thorne came up with the wormhole idea to help Sagan's science fiction story, but then went on to show how wormholes could theoretically enable time travel if constructed and manipulated in the right way according to the mathematics of general relativity.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Pierre-Simon Laplace was an 18th century French mathematician and physicist who was a strong proponent of determinism in physics. He believed that if one knew the precise state of the entire universe at a given moment, including the positions and velocities of all particles, it would be possible to calculate both the entire past and future evolution of the universe using Newton's laws of motion. 
 

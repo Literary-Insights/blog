@@ -237,7 +237,7 @@ The chapter discusses how the standard diet deprives the brain of needed nutrien
 
 So in summary, the passage discusses the hidden sources of sugar in diets and various health impacts. It also outlines concerns with artificial sweeteners, unhealthy fats, and chemical food additives, especially in regards to potential neurological and brain impacts.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Your gut health and digestion play a major role in your overall health and brain health. What you digest, absorb and assimilate becomes the building blocks of your body, including your brain cells. Impaired digestion can deprive the brain of nutrients. 
 

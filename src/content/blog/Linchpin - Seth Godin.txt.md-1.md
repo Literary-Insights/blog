@@ -69,7 +69,7 @@ In summary, the key to being indispensable is embracing and cultivating the abil
 
 Does this summary accurately reflect the key messages and main points? Let me know if you have any questions or need any clarification.
 
- Here's a summary:
+ 
 
 • The resistance refers to the inner voice of self-doubt and fear that seeks to undermine your efforts and progress. It discourages risk-taking and values conformity over creativity.
 
@@ -157,7 +157,7 @@ That covers the main ideas around overcoming resistance, anxiety, and perfection
 
 The summary highlights the importance of gifts, passion, courage, mastery and caring about meaningful work and outcomes. Linchpins don’t rely on position or authority and are willing to take risks to make a difference. They provide high returns on human potential through their efforts and talent. Meaningful change often comes from big leaps of faith, not incremental steps. And both employers and customers benefit when people share the gift of their passion and insight.
 
- Here's a summary:
+ 
 
 -Work for a mediocre organization can stifle your passions and talents. You must determine if you're in the wrong job for your skills and purpose.
 

@@ -63,7 +63,7 @@ BOOK LINK:
 
 - Governments should make greater efforts to prepare for uncertain but likely crises like pandemics and climate change, even if the timing is unpredictable. Some preparation can reduce their impact.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Blaise Pascal, Daniel Bernoulli, and others applied mathematical principles to calculate expected values and fair prices for things like card games. They introduced concepts like risk aversion, diminishing marginal utility of wealth, and the importance of diversification to reduce risk. 
 
@@ -887,7 +887,7 @@ The references cover a wide range of topics including economics, history, climat
 
 - The need for international cooperation and government policies to prepare for and mitigate disasters and their far-reaching consequences. Disaster prevention and resilience are critical.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Black Swan events - unpredictable events with extreme consequences, challenge assumptions of normal probability distributions. Examples include World War I, the internet.
 

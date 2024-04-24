@@ -29,7 +29,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 • The course teaches concrete skills to "hack" learning, "ace" learning ability, and "keep" a sharp mind at any age or stage of life. Terminology changes, but the core skills remain the same.
 
- Here's a summary:
+ 
 
 The author met Lev, who could read extremely fast with high comprehension. Lev introduced the author to his wife, Anna, who teaches speed reading and accelerated learning. The author took Anna's course and greatly improved her reading speed and comprehension. 
 

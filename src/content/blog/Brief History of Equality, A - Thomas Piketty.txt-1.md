@@ -505,7 +505,7 @@ In the US, taking all taxes into account, the system was highly progressive from
 
 - The parameters proposed are illustrative - more ambitious redistribution would be desirable and is possible. But this system goes much further toward economic equality than past policies.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The welfare state and progressive taxation can lay the foundations for a new form of democratic socialism based on the circulation of power and property. 
 

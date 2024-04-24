@@ -237,7 +237,7 @@ So in summary, Walmart leverages its scale to reduce costs throughout the supply
 
 - Overall, securitization illustrates how innovations that spur specialization among middlemen can start out as improvements but lead to fragility if not thoughtfully overseen. The crisis revealed the need to realign incentives and improve oversight across long intermediation chains.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Crown Crafts evolved from a U.S. manufacturer of textiles and other products to a company that relies on suppliers in China to make the goods it sells. This reflects a broader trend of companies shifting production abroad to reduce costs. 
 

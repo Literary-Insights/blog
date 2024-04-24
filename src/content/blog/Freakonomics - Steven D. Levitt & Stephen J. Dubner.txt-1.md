@@ -295,7 +295,7 @@ So in summary, the largest factors leading to lower crime in the 1990s were incr
 
 - While NYC saw great crime declines in the 1990s, the policing innovations likely had little effect. Crime was already falling before Giuliani and Bratton. The huge expansion of the NYPD, not new strategies, best explains the reduction as more police generally reduce crime. Crime also fell everywhere in the 1990s, not just NYC.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Gun buyback programs tend to only remove unwanted or unusable guns from circulation. They do not provide enough incentive for people planning to use guns criminally to turn them in. As a result, gun buybacks make little meaningful impact on crime rates. 
 

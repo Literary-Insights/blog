@@ -11,7 +11,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 ---
 
 
- Here is a summary of the key points in the introduction:
+ 
 
 - The authors introduce the concept of Functional Imagery Training (FIT), which uses visualization and mental imagery to help achieve goals and overcome obstacles. 
 
@@ -57,7 +57,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - Managing our thoughts, perceiving obstacles, and planning ahead through imagery can strengthen willpower and increase confidence at critical moments of choice.
 
- Here's a summary:
+ 
 
 The study by Solbrig in 2018 investigated the effectiveness of two interventions - motivational interviewing and FIT training - for weight loss. 121 participants were recruited and randomly assigned to one of the two groups. 
 
@@ -303,7 +303,7 @@ The key is to engage all your senses, elaborate on details, and connect imagery 
 
 In summary, the FIT model uses imagery strategically to turn motivation into committed action toward challenging, meaningful goals. The key is elaborating details, contrasting outcomes, and creating cues that reinforce the imagery practice.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Phase 1 involves using imagery to connect your fantasized long-term goal to a closer, familiar reality. This activates brain areas similar to actually achieving the goal and can be motivating if done regularly. 
 
@@ -317,7 +317,6 @@ In summary, the FIT model uses imagery strategically to turn motivation into com
 
 - Reflect on how imagery is improving for you and what you can refine. The phases are designed to increase motivation, energize you, and prepare you to take action toward your goal.
 
- Here are some key points to summarize:
 
 - Phase 4 involves creating cues or triggers that remind you to engage in imagery and take action towards your goals. Practicing imagery daily is important to stay motivated when you feel like quitting.
 

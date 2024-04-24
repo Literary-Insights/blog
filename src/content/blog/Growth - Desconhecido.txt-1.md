@@ -1093,7 +1093,7 @@ gt/hsi/mock-data.html
 Feel free to keep recreating new data and replace graphs accordingly till results look good
 enough.
 
- Here is a summary of the key points from the passage:
+ 
 
 • The total length of railroads in countries like the UK, US, France, and Japan followed distinct growth trajectories, with rapid expansion in the early decades and leveling off in the 20th century. 
 
@@ -1131,7 +1131,7 @@ That's a summary of the key developments highlighted in the passage regarding th
 
 That covers the main topics and conclusions presented in the text regarding the history of human and animal load carrying and transport performance over time. Let me know if you would like me to expand or modify the summary in any way.
 
- Here is a summary of the key points from the passage:
+ 
 
 • Sailing ship speeds increased from around 10 km/h to around 30 km/h over around 400 years, averaging minuscule annual gains. Even doubling speed from 15 to 30 km/h took around 400 years. 
 
@@ -1925,7 +1925,7 @@ Many technologies and industrial processes remain stable for generations after t
 
 How's this? Let me know if you would like me to expand on or modify any part of the summary.
 
- Here is a summary of the key points from the passage:
+ 
 
 • Many affluent nations are facing rapid population aging due to declining fertility rates and increasing life expectancy. This is exacerbating issues like growing numbers of elderly with mental illnesses and difficulty maintaining infrastructure. 
 

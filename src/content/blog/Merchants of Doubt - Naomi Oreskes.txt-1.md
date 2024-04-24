@@ -633,7 +633,7 @@ So in summary, the late 1970s saw growing attention to climate impacts and influ
 
 - Singer published similar arguments on his own, claiming the science was too uncertain to warrant policy action. This directly contradicted the scientific consensus represented by the IPCC. It reflected Singer's pattern of rejecting mainstream scientific conclusions on various issues.
 
- Here's a summary:
+ 
 
 - Singer and Revelle reviewed a paper in galleys that asserted future warming would be less than 1 degree Celsius, within normal natural variation. 
 

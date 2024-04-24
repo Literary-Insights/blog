@@ -65,7 +65,7 @@ In summary, the introduction provides a high-level overview of the scope and str
 
 So in summary, financial ratios are calculated metrics that provide insight into a company's liquidity, profitability, and performance by relating various line items from the financial statements.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Double-entry accounting requires each transaction to have two entries to maintain the accounting equation of Assets = Liabilities + Equity. 
 

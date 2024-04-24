@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points from the passage:
+ 
 
 - The book discusses how to stop overthinking and transform your mind from a "chatty" negative voice into an ally. 
 
@@ -47,7 +47,7 @@ The summary highlights how the book views overthinking as stemming from unconsci
 
 - Understanding brain anatomy helps explain behaviors and struggles. The summary focused on outlining the main brain regions involved in thought, emotion, instinct and habit formation/change. Meditation and other practices can facilitate rewiring the brain circuits.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Our thoughts, behaviors and perceptions are shaped from a very early age by our upbringing, environment, caregivers experiences, and conditioning. This starts in the womb and impacts brain development. 
 

@@ -69,7 +69,7 @@ The author contrasts his own story as the grandson of an Indian independence act
 
 - Citizens should help shape policy on science, climate, and foreign affairs. We need a democratic patriotism grounded in equal participation in national culture and pluralistic local traditions.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Alex Hughes was part of the first training class at Interapt, a company that provides software developer training and jobs for displaced coal miners in Kentucky. 
 

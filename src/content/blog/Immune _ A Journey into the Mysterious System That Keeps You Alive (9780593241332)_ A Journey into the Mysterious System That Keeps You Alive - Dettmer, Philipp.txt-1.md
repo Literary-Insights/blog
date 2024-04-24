@@ -99,7 +99,7 @@ Properly distinguishing self from non-self is crucial, as overreacting could cau
 
 So in summary, it describes how cells are made of and powered by networks of complexly interacting protein structures, and how this system of simple parts working together emerges to create living, adaptive systems like tissues, organs and the immune system.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The immune system is organized into two realms for defense - the innate immune system and the adaptive immune system. 
 

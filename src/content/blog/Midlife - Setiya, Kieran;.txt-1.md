@@ -211,7 +211,7 @@ The most significant limitation is this only applies to events directly leading 
 
 This passage discusses different philosophical perspectives on confronting one's mortality in midlife. It analyzes Simone de Beauvoir's sense of dissatisfaction upon reflecting on her life despite keeping all her promises, and connects this to an existentialist view that human lives merely exist rather than achieve being. It then introduces Epicurus' idea that philosophy should console us in death by arguing death is nothing to us since when it comes we no longer exist, as well as Montaigne's unsuccessful attempts to philosophize about death through self-examination in his Essays. Overall, the paragraph sets up a discussion of philosophically wrestling with death and mortality in midlife.
 
- Here's a summary:
+ 
 
 - Epicurus argued that death should not be feared because when we exist, death is not present, and when death is present, we no longer exist. Therefore death does not concern us. 
 

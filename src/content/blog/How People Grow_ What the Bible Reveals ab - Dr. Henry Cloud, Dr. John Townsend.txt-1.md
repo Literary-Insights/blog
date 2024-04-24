@@ -615,7 +615,7 @@ The section also distinguishes between "true guilt" and "false guilt" - feeling 
 
 - Spiritual leaders should guide people to embrace suffering for growth, not enable avoidance of it. Suffering can strengthen and transform people.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Jesus taught that following him requires denying oneself, taking up one's cross, and embracing suffering. When Peter tried to get Jesus to avoid suffering, Jesus rebuked him and taught that suffering is necessary for growth. 
 
@@ -909,7 +909,7 @@ So in summary, a balanced biblical view affirms human responsibility alongside a
 
 - The key is dealing with our hurts, needs and motivations through healing, repentance and reliance on God rather than sinful quick fixes. Our sinful choices are still our responsibility even if the temptation arises from places of brokenness.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Sin stems from trying to meet our needs apart from God, becoming our own 'god.' True repentance involves returning to dependence on God. 
 

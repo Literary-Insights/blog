@@ -49,7 +49,7 @@ The key message is that you attract what you focus on, so focus on what you want
 
 That's a high-level summary of the key points regarding the Law of Attraction according to the information you provided. Let me know if you would like me to clarify or expand on any part of the summary.
 
- Here's a summary:
+ 
 
 - Vibrations are feelings that can be either positive or negative. We constantly emit vibrations through our thoughts, words, and observations. 
 
@@ -410,7 +410,7 @@ Don't
 
 The key is to teach the Law of Attraction to children in a simple, fun and engaging way so they can understand it and apply it in their lives. Focus on relating it to their direct experiences and helping them make the connection between their thoughts, vibes and results. With regular practice, they can get quite good at using the Law of Attraction!
 
- Here's a summary:
+ 
 
 - Michael Losier has transformed his own life by applying the Law of Attraction. 
 - Although he had a happy childhood, he credits the Law of Attraction for his current success and fulfillment.

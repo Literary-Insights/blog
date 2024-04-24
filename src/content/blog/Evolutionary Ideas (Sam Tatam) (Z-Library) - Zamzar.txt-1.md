@@ -85,7 +85,7 @@ The passage suggests that y outcomes, or results, that are unlocked through indi
 
 - The goal is finding the right things to change differently, rather than always trying to solve problems in entirely new ways. Leverage what's worked before.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The passage discusses how biological solutions in nature can provide insights to solve human problems. It uses examples from evolution to show how organisms adapt to environmental constraints. 
 
@@ -273,7 +273,7 @@ It also touches on how humans seek safety in numbers and conform to social norms
 
 - Applying solutions like decoys could help encourage things like retirement savings or health screening participation by making the decision easier without reducing choices. Evolved mechanisms for efficient decision making can now be used to benefit choice.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The human brain is uniquely large compared to other primates, but the reason for its rapid growth is still debated. Hypotheses include adapting to new environments, requiring more social cooperation/competition, and reproductive benefits of knowledge accumulation. 
 

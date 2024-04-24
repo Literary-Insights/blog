@@ -11,7 +11,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 ---
 
 
- Here's a summary:
+ 
 
 - The author is stationed in Iraq but returns to the U.S. for leave in February 2010. They upload hundreds of thousands of classified military reports about the wars in Iraq and Afghanistan to WikiLeaks. 
 
@@ -37,7 +37,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - In summary, the narrator decides to leak information to WikiLeaks out of a belief that the truth about the wars needs to be exposed, even though he knows there may be consequences. His experiences in Iraq led him to seriously question the rationale and logic behind the classification of information.
 
- Here's a summary:
+ 
 
 - The narrator grew up in central Oklahoma in the 1980s and 1990s. Their family lived on a small farm and weren't originally from the area.
 
@@ -51,7 +51,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - Overall, the summary paints a picture of a young person coming of age in an unaccepting environment and beginning to grapple with their identity from an early age. Their sister and access to technology provide escapes from their struggles.
 
- Here's a summary:
+ 
 
 - The author grew up in rural Oklahoma in the 1990s. Their father was abusive and authoritarian. 
 
@@ -67,7 +67,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - In summary, the author had a difficult childhood marked by violence, abuse, secrecy, and a struggle with identity. They found escape in video games, flight simulators, and coding. Coming of age as a queer person in rural Oklahoma shaped their early experiences with love and attraction.
 
- Here's a summary:
+ 
 
 - The author had a crush on someone in school, confided in a friend who spread the news, and denied it out of embarrassment.
 
@@ -135,14 +135,14 @@ The key events are:
 
 The narrator’s journey is one of gaining independence and exploring his sexuality, even in difficult circumstances. Chicago represents freedom and opportunity compared to his unhappy experiences in Oklahoma.
 
- Here's a summary:
+ 
 
 - The narrator spent the summer in Chicago going to clubs, doing drugs, and sleeping around. The club scene and music provided an escape and community, but the narrator was struggling and homeless, living out of their truck. 
 - To survive, the narrator dumpster dived, sold scam tech services, and ate cheap fast food. They expected to end up in jail. 
 - An aunt contacted the narrator and offered them a place to stay in Potomac, Maryland. The narrator drove there, exhausted and emotional. 
 - The narrator started to build a new life, enrolling in community college with the goal of transferring to a four-year school to study physics. However, they struggled to find a tech job due to lacking credentials and work history.
 
- Here's a summary:
+ 
 
 - The author got a job as a barista at Starbucks to pay for college tuition. The job was exhausting, requiring employees to be cheerful and personable at all times. The hours were unstable and grueling. 
 
@@ -263,7 +263,7 @@ The key themes here are the author’s ability to access and share inside inform
 
 The key events are the Proposition 8 loss and subsequent radicalization, meeting Dylan through internet dating, and struggling to balance a new relationship with military obligations. The author is seeking purpose and meaning through queer activism and his relationship with Dylan.
 
- Here's a summary:
+ 
 
 - The narrator is a gay soldier stationed at Fort Drum, New York. He has been in a long-distance open relationship with a man named Dylan.
 
@@ -363,7 +363,7 @@ The summary captures the key details, events, reflections and emotions described
 
 - During leave, the narrator visits Dylan in Boston. Dylan seems distant, and the narrator struggles to explain the situation vaguely. After leaving Boston, the narrator feels more alone but finds relief in uploading the secret documents to WikiLeaks. The narrator hopes WikiLeaks will publish the information to reveal the truth about the wars.
 
- Here's a summary:
+ 
 
 The author was an intelligence analyst who followed WikiLeaks and participated anonymously in an IRC chat room frequented by people associated with WikiLeaks. In late 2009, WikiLeaks published leaked pager messages from 9/11, angering the U.S. government.
 
@@ -481,7 +481,7 @@ The author received an overwhelming amount of mail at Fort Leavenworth but was u
 
 Though still imprisoned, the move to Fort Leavenworth was an improvement over the extreme isolation and deprivation of Quantico. But the effects of that long-term solitary confinement were lasting, and the author struggled for a long time to reintegrate into even the limited society available in the prison.
 
- Here's a summary:
+ 
 
 - The author was kept in highly restrictive confinement with a strict daily routine and schedule. Access to exercise and entertainment like TV were allowed but closely monitored. 
 
@@ -495,7 +495,7 @@ Though still imprisoned, the move to Fort Leavenworth was an improvement over th
 
 - The stakes were high, with life in prison a possibility, causing the author terror. But they refused to plead guilty to things they did not actually do, believing the truth was non-negotiable.
 
- Here's a summary:
+ 
 
 - Manning pushed forward to fight the charges in court rather than accept a plea deal. 
 
@@ -515,7 +515,7 @@ Though still imprisoned, the move to Fort Leavenworth was an improvement over th
 
 - The charges against Manning prevented a real defense. The choices were argue mental incapacity, argue the disclosures caused no harm, or argue the disclosures were morally right. The last option wasn't allowed.
 
- Here's a summary:
+ 
 
 - The only viable legal strategy for Chelsea Manning's defense team was mitigation, which meant arguing that Manning was under extreme distress and the government ignored signs of her suffering. However, Manning disliked this strategy because it felt like admitting she did something wrong. 
 
@@ -529,7 +529,7 @@ Though still imprisoned, the move to Fort Leavenworth was an improvement over th
 
 - Fein was an aggressive litigator who made excessive redactions to the public trial information, severely limiting Manning's right to a fair public trial.
 
- Here's a summary:
+ 
 
 - The trial involved both public and classified hearings. Much of the evidence that favored Manning was only presented in closed sessions. The judge ruled that national security concerns outweighed concerns about unfairness. 
 

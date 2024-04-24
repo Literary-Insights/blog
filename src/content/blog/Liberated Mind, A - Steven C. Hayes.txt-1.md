@@ -173,7 +173,7 @@ So seemingly small interventions, based on only a handful of hours, can lead to 
 
 - In summary, while effective, CBT did not fully explain change processes, and the author moved on from its traditional conceptualizations and methods.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The Third Wave refers to a transformation in cognitive and behavioral therapies over the last 15 years, moving the focus from thoughts/feelings to the relationship with thoughts/feelings. Specifically, learning to notice thoughts without being controlled by them. 
 
@@ -303,7 +303,7 @@ However, acceptance alone is not enough - people need to understand the rewards 
 
 Facing past pain and vulnerability with acceptance, rather than avoidance or denial, allows repressed parts of oneself to resurface safely. This realization helped the author renew his sense of purpose in a more compassionate way, by embracing all aspects of himself and his experiences, including past suffering. Gradual exposure to difficult memories and emotions through acceptance can provide wisdom and fulfillment, if approached without judgment of the self.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The client described realizing she needed to "drop the rope" in her metaphorical tug-of-war with anxiety, rather than continuing to fight it. This metaphor of accepting anxiety rather than battling it became a staple of early ACT methods.
 
@@ -491,7 +491,7 @@ The key idea is that focusing too much on defending a conceptualized self-image 
 
 - Taking another's perspective, like a colleague in an upcoming meeting, increases empathy and connection with others. The aim is to better understand different perspectives.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The passage discusses applying perspective-taking skills to help with acceptance of difficult experiences. It provides an exercise where one imagines observing themselves from outside their body and across the room during a painful experience. 
 

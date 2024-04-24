@@ -583,7 +583,7 @@ So in summary, the passage argues fossil fuels benefit from their unique history
 
 - Fossil fuels' unique properties and long optimization history have created an extremely high bar for alternative energy sources to match their widespread, low-cost deployment globally.
 
- Here's a summary:
+ 
 
 - Direct burning of fossil fuels for industrial heat and mobility is often much more cost-effective than alternatives like electricity due to higher energy capture and lower infrastructure costs. 
 
@@ -929,7 +929,7 @@ Reading IPCC reports, textbooks, debates between experts on YouTube and blogs ca
 
 - The key mechanism of CO2's influence on climate is the greenhouse effect. However, the warming impact of CO2 diminishes with each additional molecule added. So future warming from increasing CO2 may be milder than commonly portrayed.
 
- Here's a summary:
+ 
 
 - Claims that warming will be much faster and greater than the basic greenhouse effect predict are based on an "amplified greenhouse effect" from potential positive feedback loops. 
 
@@ -1233,7 +1233,7 @@ The other references are summarized similarly, briefly indicating the topic or a
 
 In summary, the sources provide key statistics on historical and current coal, natural gas, and electricity prices in the United States. This data helps provide context for understanding trends in the energy sector.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The passage discusses the claim by some scientists and organizations that it is feasible to transition to 100% clean renewable energy globally by 2030-2035. 
 

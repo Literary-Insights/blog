@@ -141,7 +141,7 @@ So in summary, Kirsch's initial unexpected findings prompted realization of a mu
 
 In summary, the passage suggests sex could act as a natural antidepressant through its impact on mood-enhancing brain chemicals, without the potential side effects of prescription antidepressants. However, it does not unequivocally state that sex is one of the best natural antidepressants.
 
- Here's a summary:
+ 
 
 - Scientists conducted the Star-D Trial to study the real-world effectiveness of antidepressants, as opposed to in a clinical trial setting. 
 
@@ -333,7 +333,7 @@ So in summary, extrinsic goals fail to fulfill deeper psychological needs, damag
 
 So in summary, Felitti discovered an effective weight loss method but was surprised by the strong negative emotional responses some patients had to becoming thinner, leading them to regain weight. He wanted to understand this psychological aspect better.
 
- Here's a summary:
+ 
 
 - Dr. Vincent Felitti realized that his obesity patients weren't just struggling with weight - many had experienced traumatic events like sexual abuse. 
 
@@ -721,7 +721,7 @@ So in summary, Mark's experience highlighted psychedelic therapy's potential for
 
 - Psychedelics show the possibility of connection but it's up to the individual to integrate that lesson into daily life through ongoing practices after the drug experience ends. Long-term benefits require maintaining a deeper sense of connection beyond just a single psychedelic experience.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Dr. Vincent Felitti discovered a link between childhood trauma and increased risk of depression and anxiety later in life. However, he wanted to find a solution, not just state the problem. 
 
@@ -793,7 +793,7 @@ So in summary, Mark's experience highlighted psychedelic therapy's potential for
 
 - Important to demand engagement with real problems causing unhappiness rather than just accepting labeling of distress as mental illness.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The author discusses depression and anxiety with various friends and professionals over many years, learning from their questions and insights. Stephen Grosz's book The Examined Life is particularly recommended. 
 

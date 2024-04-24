@@ -531,7 +531,7 @@ However, some entries subverted the intended marketing message by criticizing th
 
 The campaign was considered a success. The contest site attracted over 600,000 visitors who spent significant time viewing content. It drove more traffic to Chevy's main website than Google or Yahoo during this period. Tahoe sales increased after the campaign launched, with a large market share gain. So while user-generated content posed risks, the open approach also engaged critics and generated valuable marketing exposure.
 
- Here's a summary:
+ 
 
 - The Chevy Tahoe viral marketing campaign on YouTube backfired after users uploaded negative videos mocking the SUV. However, some argued this was inevitable with user-generated content and it was better for Chevy to participate than stay closed off. 
 

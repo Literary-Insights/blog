@@ -441,7 +441,7 @@ The key is that the innovation capabilities and incentives for tech giants, as c
 
 In summary, the evidence does not support GAFAM's claims that their market dominance promotes innovation. Their rhetoric around competition and patent counts obscures more complex innovation dynamics.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Antitrust scholar Jon Baker argues that enhanced competition leads to greater productivity, while the exercise of market power reduces it. Monopolies and oligopolies hinder innovation. 
 

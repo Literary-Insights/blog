@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points in the introduction:
+ 
 
 - Data, artificial intelligence (AI), and the Internet of Things (IoT) are growing at an astonishing rate and transforming businesses and society. We are generating more data than ever before and AI capabilities are rapidly advancing. 
 

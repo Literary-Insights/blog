@@ -227,7 +227,7 @@ So in summary, the little-known Bachelier made pioneering contributions to finan
 
 - Over time, former Wells Fargo skeptics like Vertin became converts once the evidence of indexing's benefits accumulated. As McQuown put it, a "staunch enemy turned into a staunch advocate."
 
- Here is a summary of the key points from the passage:
+ 
 
 - John B. Armstrong was the pen name used by John C. Bogle in 1960 to write an article ridiculing academic research showing fund managers do poorly compared to just passively tracking the market. 
 
@@ -661,7 +661,7 @@ The SEC should move quickly to approve future ETFs to avoid regulatory delays th
 
 - The launch bonanza is slowing as the industry matures and big players dominate. But product innovation will continue, raising concerns about blurring lines between active and passive investing. More complexity and less transparency threaten to undermine key benefits of index funds.
 
- Here's a summary:
+ 
 
 The major index providers like S&P Dow Jones Indices exert significant influence over financial markets due to the growth of index funds. Trillions of dollars now track major stock and bond indices, meaning inclusion in or exclusion from an index can dramatically impact a company's stock price and valuation. Tesla's addition to the S&P 500 in late 2020 caused its stock to surge as index funds had to buy tens of billions of dollars worth of shares. Smaller companies can see even more dramatic swings based on index decisions. 
 

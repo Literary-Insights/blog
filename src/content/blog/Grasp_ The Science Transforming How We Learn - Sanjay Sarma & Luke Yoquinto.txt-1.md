@@ -159,7 +159,7 @@ So in summary, the passage describes an MIT engineering lab using robotics proje
 
 - Kandel's work with Aplysia laid important groundwork for discovering how experiences can induce cellular changes involved in memory formation. His reductionist approach provided insights not possible with more complex nervous systems.
 
- Here's a summary:
+ 
 
 - Eric Kandel studied the sea slug:  Aplysia and its gill withdrawal reflex, which could be conditioned through classical and operant conditioning experiments. 
 
@@ -817,7 +817,7 @@ Today, forces like globalization, automation, and rapid technological change are
 
 - In conclusion, they thank all who contributed in any way, acknowledging it was likely not possible to list everyone individually. The book was very much a community effort.
 
- Here is a summary of the key points from the passage:
+ 
 
 - John Dewey was a leading American philosopher and educator in the early 20th century who argued that learning should be an active, experiential process rather than passive absorption of facts. He founded the Laboratory School at the University of Chicago to implement his progressive pedagogical ideas. 
 

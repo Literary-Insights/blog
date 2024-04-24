@@ -187,7 +187,7 @@ In essence, investment means acquiring assets that increase capital to support p
 
 - Overall, market discipline means successful firms are unlikely to spend on things that don't produce assets of lasting value. Statistical agencies have to be careful in definitions, but these categories belong in investment.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Economists have made increasing efforts over time to measure a wider range of investments, including intangible investments. 
 

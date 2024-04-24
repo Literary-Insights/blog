@@ -111,7 +111,7 @@ Antidotes:
 
 - Start anywhere: Take a first step, however small. Momentum builds from there. Do something to get unstuck.
 
- Here's a summary:
+ 
 
 - The author hates flying and has a hard time committing to trips that require airplane travel. She was surprised when her friend Ally recently took a quick trip to Thailand, flying for 30 hours to spend just 4 days there. 
 
@@ -139,7 +139,7 @@ For example, values like community, relationships, health, learning, or service 
 
 Overall, establishing a set of guiding values helps create clarity and confidence in navigating life's many decisions, big and small. Our values reflect who we are, what we care about, and the kind of life we want to build.
 
- Here's a summary:
+ 
 
 The author's kids needed immunization records for school, which was starting in three days. She had gotten the necessary paperwork from the pediatrician months earlier but had forgotten about it and now couldn't find it. She searched the house late into the night but couldn't locate the records. As she searched, she started thinking through her options if she couldn't find them, like going back to the pediatrician to get new records, even though they required three days' notice. She realized this situation showed why routines and systems were so important—without them, it was easy to drop important tasks and forget about loose ends until the last minute.
 
@@ -205,7 +205,7 @@ Though it may not feel like it, we have more control over our thoughts and feeli
 
 In summary, the key message is that we have more control over our thoughts and feelings than we often realize. By choosing to focus on more positive ways of thinking about situations, we can cultivate healthier minds and live happier lives, even when facing challenges or setbacks. Our experiences are profoundly shaped by where we choose to direct our attention.
 
- Here's a summary:
+ 
 
 •When your brain gets stuck overthinking or ruminating on the negative, it's hard to redirect your thoughts.  But with practice, you can learn strategies to interrupt this unhealthy habit and retrain your brain.
 
@@ -293,7 +293,7 @@ The key is to outsource strategically so we have bandwidth for what really matte
 
 The summary also notes that while routines and checklists can help reduce overthinking in some areas, outsourcing decisions is not meant to be a checklist. We each have to determine what makes sense for our own situation based on our skills, interests, resources, and what we find meaningful or important to do ourselves.
 
- Here's a summary:
+ 
 
 • Outsourcing requires considering both money and mental space. If you can't afford an expense or don't have the mental capacity to handle something yourself, it may be time to outsource.
 
@@ -347,7 +347,7 @@ Rituals require our full participation and presence. They force us to slow down,
 
 In summary, rituals transform the mundane into the meaningful. They invite us to remember who we are and add purpose to our lives. By turning routines into rituals, we open ourselves up to more joy and connection.
 
- Here's a summary:
+ 
 
 • Rituals provide structure and meaning to our lives, which helps reduce overthinking in the long run. They ground us and connect us to others.
 
@@ -414,7 +414,7 @@ In summary, the key takeaways are:
 
 • Make the good stuff a habit. Decide your philosophy in advance instead of winging it each time. Put recurring decisions on autopilot so you can act without endless self-debate and enjoy the benefits.
 
- Here's a summary:
+ 
 
 - Our thoughts and actions create ripple effects that impact those around us and the wider world. 
 - Overthinking is not just a personal problem; its cumulative effects are vast and harmful. 

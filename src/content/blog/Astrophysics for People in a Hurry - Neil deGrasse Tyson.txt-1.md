@@ -265,7 +265,7 @@ In summary, the production of elements in stars and their connection to astronom
 
 - Overall the passage argues that taking a true cosmic perspective of our small place in space and time should breed humility, connection to nature, and a reduced sense of human importance and conflicts. But most individuals and societies still act from an inflated ego and anthropocentric worldview.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Quantity, size, and scale are good ways to convey how large and complex the universe is. Even small amounts of familiar things like water and air contain enormous numbers of molecules when viewed on cosmological scales. 
 

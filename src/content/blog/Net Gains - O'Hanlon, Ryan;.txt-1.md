@@ -681,7 +681,7 @@ In summary, soccer lacks the overt displays of athletic brilliance that make oth
 
 - He joined the Red Bull organization in 2015, managing New York Red Bulls and RB Salzburg. This prepared him to take over at RB Leipzig in 2021.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Jesse Marsch played MLS soccer and began coaching youth teams and assisting at the college level while still a player. His former coach Bob Bradley brought him on as an assistant for the US Men's National Team in 2010. 
 

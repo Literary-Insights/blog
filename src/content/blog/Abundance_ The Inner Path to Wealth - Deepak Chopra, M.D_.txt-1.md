@@ -152,7 +152,7 @@ The passage discusses many practical factors to consider when evaluating job sat
 
 The overall message is that negative self-beliefs, memories, and underlying attitudes can keep us stuck in the past and feeling limited. But through questioning old assumptions, releasing emotional baggage, and cultivating an abundant mindset, we can gain insights and shift our perceptions to feel more fulfilled.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Having an attitude of abundance means believing that opportunities and fulfillment are readily available if you look for them and align your mindset accordingly. 
 

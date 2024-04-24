@@ -159,7 +159,7 @@ The immune system protects the body through mechanisms like phagocytosis, inflam
 
 Nervous and endocrine systems connect to the immune system. Emotions and stress influence immunity. Chronic negative emotions can dampen immunity, increasing disease risk. Positive emotions and coping may have the opposite effect, enhancing immunity.
 
- Here's a summary:
+ 
 
 - Emotions and stress have significant impacts on immune function and health. Chronic stress and negative emotions like anxiety can suppress the immune system and increase susceptibility to disease. However, positive emotions and optimism may help counter these effects.
 

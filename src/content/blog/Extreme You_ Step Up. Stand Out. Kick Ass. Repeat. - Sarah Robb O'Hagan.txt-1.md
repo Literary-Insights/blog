@@ -115,7 +115,7 @@ Overall, the essay emphasizes the value of experiential learning to uncover your
 
 Does this look like a decent summary? Let me know if you would like me to expand on or modify any part of it.
 
- Here is a summary of the key points from the passage:
+ 
 
 1. The author learned the importance of hard work and diligence from her experience playing field hockey in high school. Her coach told her she was lazy because she failed to hustle after scoring goals.
 

@@ -819,7 +819,7 @@ So in summary, the key challenge is ensuring an AI not only learns human values 
 
 - Reigniting research on philosophy and applying ethical principles to non-human entities like AI is timely given the challenges of defining desirable and definable universal goals.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Giulio Tononi argues that understanding consciousness is essential for guiding the development of artificial intelligence and ensuring that advanced AI systems are truly conscious and capable of positive experience. 
 

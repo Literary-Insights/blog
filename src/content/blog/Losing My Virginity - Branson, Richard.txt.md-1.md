@@ -79,7 +79,7 @@ The summary captures the key events in the early days of Virgin Records, from st
 
 That covers the key highlights and timeline of Virgin Records' early years, their challenges and successes in signing artists, expansion into new markets, and Richard Branson's purchase of Necker Island. Let me know if you would like me to explain anything in the summary in more detail.
 
- Here's a summary:
+ 
 
 • Virgin suffered major losses in 1980 due to a recession and struggled financially. They had to cut costs drastically. 
 

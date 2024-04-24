@@ -129,7 +129,7 @@ So in summary, the author recounts his own childhood illness being cured by alte
 
 - Symptoms are like "check engine" lights showing underlying imbalances need addressing for the body to heal itself.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The woman had a transformative experience during her second Body Code session, where a lot of trapped and inherited emotions were cleared. She felt happy, laughing, and enjoying every moment for the first time in years. 
 

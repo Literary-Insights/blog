@@ -921,7 +921,7 @@ In summary, government-funded military research and close university-industry ti
 
 In summary, the theory argues mitochondrial genomes are necessary for local control of respiration rates, and the genes retained and lost match what the view would predict.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Size is a dominant bias in biology - we are primarily interested in the most significant life forms like plants, animals, and fungi that we can see. We are interested in bacteria or viruses because of the diseases they can cause. 
 
@@ -1067,7 +1067,7 @@ In summary, maintaining steady electron flow and limiting oxidative damage throu
 
 So in summary, it examines the debate around levels of selection and defines apoptosis and mitochondria's role as potentially crucial to understanding the emergence of multicellularity and individuality.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Richard Dawkins proposed the "selfish gene" theory, which views evolution from the perspective of genes maximizing their reproduction rather than organisms. Genes use organisms as "survival machines" to increase. 
 
@@ -1149,7 +1149,7 @@ So in summary, it outlines the critical differences in views between Margulis an
 
 - The release of cytochrome c and other death proteins from mitochondria depends on lipids in the inner membrane becoming oxidized by free radicals, causing the proteins to mobilize from the membrane. This links intrinsic triggers to activate the caspase cascade.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Cytochrome c is typically confined within mitochondria but needs to escape during apoptosis. It's too large to cross membranes independently, so a pore must form.
 
@@ -1191,7 +1191,7 @@ A dedicated cell death apparatus seems to have persisted for hundreds of million
 
 So in summary, the author is addressing inconsistencies in the hypotheses by suggesting apoptosis mechanisms initially evolved for reproduction/conjugation rather than cell death.
 
- Here is a summary of the key points from the passage:
+ 
 
 - The mitochondria and host cell generally have aligned interests - both benefit from plenty of resources and cell proliferation. 
 
@@ -1961,7 +1961,7 @@ In the internet boom of the 1990s, Sun, Cisco, Oracle and others scaled up to me
 
 - Through private tech firms, the government gained access to personal data, overcoming 20th century privacy restrictions in the name of security. The ad tech industry and NSA sought the same thing: all available information.
 
- Here's a summary:
+ 
 
 Mark Zuckerberg grew up in Westchester County, New York, as the socially awkward son of a dentist. At Harvard, he created several scraping projects, like a music player that generated playlists from users' songs and a site that scraped Harvard course listings. His most controversial scrape was Facemash, which pitted student headshots against each other for users to pick the "hotter" one. Though controversial, it led to the creation of Facebook, which required users' real identities, unlike Zuckerberg's pseudonymous previous projects. 
 

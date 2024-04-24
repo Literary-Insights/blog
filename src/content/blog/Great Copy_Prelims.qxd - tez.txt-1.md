@@ -245,7 +245,7 @@ The author provides 20 things to avoid when writing simply, such as complicated 
 
 - In summary, to be effective copywriters need experience directly working with different advertising mediums. But following guidelines on each medium's technical qualities can help early on as experience is gained. The goal is understanding how to best communicate through each specific channel.
 
- Here is a summary of the key points from the passage:
+ 
 
 - Radio advertising requires understanding the medium's subtleties. It's intimate but there is sameness across stations. Create short, simple ads with unexpected sounds/textures rather than long wordy ones. 
 

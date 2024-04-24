@@ -11,7 +11,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 ---
 
 
- Here's a summary:
+ 
 
 • The Blue Zones are five regions where people live measurably longer and healthier lives: Sardinia, Italy; Okinawa, Japan; Loma Linda, California; Nicoya Peninsula, Costa Rica; and Ikaria, Greece. 
 
