@@ -11,8 +11,6 @@ publishDate: "2024-04-21T00:00:00.000Z"
 ---
 
 
- Here is a summary of the key points from the praise for Michael Bungay Stanier's book How to Work with (Almost) Anyone:
-
 - The book provides practical, actionable strategies based on research to improve working relationships. The advice is tactical but rooted in wisdom.
 
 - It's an engaging, fun read despite covering complex interpersonal topics. The writing makes the concepts accessible. 
