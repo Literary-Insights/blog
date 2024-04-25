@@ -367,7 +367,7 @@ Scarcity means people assign more value to something that is scarce or dwindling
 
 In summary, using reciprocal favors, gaining commitments, leveraging social norms, being likable, establishing authority, and emphasizing scarcity are effective tools of persuasion that should be used instead of force. The key is gaining willing acceptance and cooperation rather than compliance through threat.
 
- Here is a summary of the key ideas:
+ 
 
 - People who grow up in a particular environment (e.g. city or religious community) are more likely to behave in a way that conforms to social norms of that environment. They may adopt the attitudes and behaviors of those around them.
 

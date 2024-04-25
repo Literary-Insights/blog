@@ -713,7 +713,7 @@ It says when you follow your soul's calling, you may be labeled as "crazy" or di
 
 The first to stand up for others, speak your truth with confidence, and recognize when relationships aren't serving you. The first to turn pain into purpose by helping guide others. Overall, it's about having the courage to blaze your own trail instead of following what's always been done. You're worthy just as you are, and your dreams are worth pursuing even if you have to do it as "the first."
 
- Here is a summary of the key ideas:
+ 
 
 - When we fear not being enough or fear not being loved, we may shrink ourselves and trade our purpose for others' approval. 
 

@@ -493,7 +493,7 @@ In summary, the key message is that independent, rational thinking is rare. Most
 
 - In summary, organized thought backed by a burning desire leads to definiteness of purpose, expressed through action and initiative. Through discipline and repetition, thoughts become habits which then perpetuate themselves. Motive activates the will to establish thought habits.  The benefits of organized thinking are numerous, including material gain, better health, self-mastery and greater purpose.
 
- Here is a summary of the key ideas:
+ 
 
 1. Organized thinking leads to peace of mind and long-term happiness. One needs a definite plan and purpose to put one's mind to good use. Unorganized idle minds lead to stray, uncontrolled thoughts that produce weeds.
 

@@ -269,7 +269,7 @@ These techniques work because our brains have a powerful visuospatial memory for
 
 Does this summary cover the key ideas? Let me know if you would like me to clarify or expand on any part of the summary.
 
- Here is a summary of the key ideas:
+ 
 
 1. Creating sets of brain-links helps you think complicated thoughts. Without brain-links, your mind can become overwhelmed. 
 
@@ -366,7 +366,7 @@ To build a set of brain links:
 
 The key point is that becoming an expert requires focused, deliberate practice of new material, not just passive exposure or practicing what you already know. Interleaving different skills or topics helps build flexibility in applying knowledge. With practice over time, solutions become second nature.
 
- Here is a summary of the key ideas:
+ 
 
 - Active learning means actively practicing or doing something yourself to strengthen your learning. Only actively working with the materials will help you build strong brain-links.
 

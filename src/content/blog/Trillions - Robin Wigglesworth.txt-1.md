@@ -501,7 +501,7 @@ The SEC should move quickly to approve future ETFs to avoid regulatory delays th
 
 - Grauer transformed WFIA from a floundering research unit into a highly profitable asset management firm, laying the foundations for its future growth into a global investment empire.
 
- Here is a summary of the key ideas:
+ 
 
 - Fred Grauer transformed Wells Fargo Investment Advisors (WFIA) from an academic research unit into a commercially successful index fund manager. He instilled a stronger profit focus but maintained a gentler culture than typical in finance. 
 

@@ -137,7 +137,7 @@ The author provides another example of Joey, who has dialogues with his “Mind�
 
 In summary, the key message is that you are not your mind or the story you tell yourself. Recognizing this can help overcome unhealthy coping behaviors and negative thought patterns by allowing you to disengage from them. You can choose to not act on unhealthy impulses and become less reactive to negative self-talk. With practice, you can gain more control over your mind and your life.
 
- Here is a summary of the key ideas:
+ 
 
 • Your addictive behavior is based on your story, the narrative you have constructed about yourself and your life experiences. To change your behavior, you need to step outside of your story and see it for what it is. 
 

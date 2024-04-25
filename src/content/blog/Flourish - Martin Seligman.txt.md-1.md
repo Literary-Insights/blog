@@ -49,7 +49,7 @@ Does this summary accurately reflect the key takeaways regarding the transition 
 
 - In summary, positive psychology interventions can build happiness and well-being in a lasting way. But overcoming obstacles from entrenched interests and misguided theoretical foci requires recognizing their limits, teaching coping skills, and cultivating the conditions for human flourishing.
 
- Here is a summary of the key ideas:
+ 
 
 1) Martin Seligman believed psychology went astray by focusing only on theoretical analysis rather than practical application. He pursued applied research on topics like well-being, optimism, and resilience.
 

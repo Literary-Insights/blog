@@ -123,7 +123,7 @@ The key message is that implementing certain habits, rules and rituals can impro
 
 The key takeaways are that disconnecting from the internet and doing work you're passionate about are the most effective ways to boost focus, productivity and satisfaction in life and work. Constant connectivity and unmeaningful work breed distraction and procrastination.
 
- Here is a summary of the key ideas:
+ 
 
 • Smartphones and constant notifications are distracting and harm productivity. They change our behavior and make it hard to focus on one task for more than a few seconds. 
 

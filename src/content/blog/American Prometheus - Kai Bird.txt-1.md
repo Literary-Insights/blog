@@ -1309,7 +1309,7 @@ In summary, the passage covers Oppenheimer's move to Princeton, his affair with 
 
 - The suburban, elite town of Princeton was very different from Oppenheimer's previous experiences in Berkeley and Los Alamos. But he aimed to make the Institute a hub for top theoretical physics research.
 
- Here is a summary of the key ideas:
+ 
 
 - After leaving Los Alamos, Oppenheimer became director of the Institute for Advanced Study at Princeton in 1947. Though he was appointed as a professor of physics, he published little scientific work himself during this time. 
 

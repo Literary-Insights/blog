@@ -570,7 +570,7 @@ So in summary, Arnim finds that MOOCs provide high-quality, flexible learning op
 
 - Metaphors are an effective way to rapidly help learners understand difficult concepts by activating the same neural circuits, but are underutilized in traditional teaching and MOOCs.
 
- Here is a summary of the key ideas:
+ 
 
 - Shrinking oneself down mentally to understand concepts at different scales, like what Einstein and McClintock did to understand light beams and genes, can fuel scientific creativity. Videos could show professors guiding learners through atoms, cells, etc. to make concepts more engaging. 
 

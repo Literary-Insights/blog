@@ -73,7 +73,7 @@ In summary, the author transformed herself from a humanities-focused math/scienc
 
 The main ideas are that focused and diffuse thinking modes complement each other, and learning when to switch between them is key for creativity and problem solving, especially in math and science where concepts are more abstract.
 
- Here is a summary of the key ideas:
+ 
 
 - Our brain has two different thinking modes: focused mode and diffuse mode. Focused mode involves intense, conscious concentration on something. Diffuse mode is more relaxed, big-picture thinking. 
 
@@ -463,7 +463,7 @@ The key is to harness your visual memory by building engaging mental imagery, in
 
 - Deep understanding of concepts aids memorization. Memorization helps improve understanding.
 
- Here is a summary of the key ideas:
+ 
 
 - Developing an intuitive understanding of math and science is like developing muscle memory in sports - it comes from repetition and practice over time, not just being told the steps.
 

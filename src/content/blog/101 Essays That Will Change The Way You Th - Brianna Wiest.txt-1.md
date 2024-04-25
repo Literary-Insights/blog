@@ -977,7 +977,7 @@ The key points are that radical honesty, authenticity, and open dialogue are nee
 
 In short, we tend to value our own suffering because it has become familiar and feeds unhealthy attachments and beliefs we hold about ourselves. Freeing ourselves from unnecessary suffering requires awareness of its root causes in ourselves, acceptance of painful emotions, and the journey of healing.
 
- Here is a summary of the key ideas:
+ 
 
 • Loneliness is an idea that arises from depending on others for self-worth and a sense of connection. True connection comes from within, not from external interaction or approval. 
 
@@ -1021,7 +1021,7 @@ To deepen any relationship:
 
 The keys are intimacy, authenticity, gratitude, compromise, and forgiveness. Relationships serve to expand our awareness of ourselves and life. The more we understand them as reflections of us, the more meaningful they become.
 
- Here is a summary of the key ideas:
+ 
 
 - We choose to love people who cannot love us back for an important reason. The purpose of relationships is not simply to be loved or fulfilled. It is to gain self-awareness and confront parts of ourselves that we don’t normally see.
 

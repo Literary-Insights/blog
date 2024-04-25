@@ -76,7 +76,7 @@ The passages aim to help readers start each day consciously focused on inner awa
 
 - This vision of religion is based in fearlessness, not fear. The master shows the way, but you must follow and wake up. The first step is hardest, but then growth continues on its own.
 
- Here is a summary of the key ideas:
+ 
 
 - Man has lived too much at war, both externally and internally. This constant fighting creates misery. The approach of non-resistance and no fight is needed. One has to learn to drop this pattern of constant fighting and embrace peace and love.
 

@@ -195,7 +195,7 @@ In summary, positive psychological and social factors like optimism, strong rela
 
 - Emotional and social competence are signs a timid child may outgrow fearfulness. Those who remain fearful tend to lack these skills and have more troubled relationships.
 
- Here is a summary of the key ideas:
+ 
 
 - Childhood is a critical period for developing emotional skills and capacities. The brain is highly plastic during this time, allowing experience to shape development. While genetics provide a starting point, nurture plays a strong role in molding traits like fearfulness or sociability.
 

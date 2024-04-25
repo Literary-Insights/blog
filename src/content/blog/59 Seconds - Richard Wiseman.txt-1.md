@@ -284,7 +284,7 @@ The author argues that nature and greenery can help inspire creativity. Some key
 
 The key takeaway is that natural environments and greenery can significantly enhance creativity, due to their positive impact on moods and ways of thinking.
 
- Here is a summary of the key ideas:
+ 
 
 1. Small cues can have a big impact on creative thinking. Simply thinking about a punk or being primed with unconventional images can increase creativity. 
 

@@ -1345,7 +1345,7 @@ The established media capitalized on new opportunities, including new distributi
 
 The key argument is that the rise of social and decentralized media has enabled new forms of public participation and collaboration. This has disrupted traditional content companies but also created new opportunities for businesses that can harness the power of networks and user contributions. The summary outlines both the threats to established institutions as well as the benefits of a more participatory media landscape.
 
- Here's a summary of the article:
+ 
 
 - Facebook launched in 2004 at Harvard University and soon expanded to other colleges, then high schools. It became widely available to everyone in 2006. 
 
