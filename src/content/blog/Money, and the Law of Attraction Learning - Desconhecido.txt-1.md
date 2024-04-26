@@ -1,6 +1,6 @@
 ---
-title: Money, and the Law of Attraction Learning - Desconhecido
-slug: money-and-the-law-of-attraction-learning-desconhecido
+title: Money, and the Law of Attraction Learning
+slug: money-and-the-law-of-attraction-learning
 tags: 
   - book-summary
 excerpt: ""

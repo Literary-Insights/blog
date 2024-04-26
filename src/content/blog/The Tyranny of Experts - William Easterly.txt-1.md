@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Tyranny of Experts - William Easterly
-slug: deep-summary-the-tyranny-of-experts-william-easterly
+title: The Tyranny of Experts - William Easterly
+slug: the-tyranny-of-experts-william-easterly
 tags: 
   - book-summary
 excerpt: ""

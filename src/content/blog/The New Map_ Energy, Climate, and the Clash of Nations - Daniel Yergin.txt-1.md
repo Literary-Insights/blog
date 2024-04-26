@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The New Map_ Energy, Climate, and the Clash of Nations - Daniel Yergin
-slug: deep-summary-the-new-map_-energy-climate-and-the-clash-of-nations-daniel-yergin
+title: The New Map_ Energy, Climate, and the Clash of Nations - Daniel Yergin
+slug: the-new-map_-energy-climate-and-the-clash-of-nations-daniel-yergin
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
-title: Being There Putting Brain, Body, and World - Desconhecido
-slug: being-there-putting-brain-body-and-world-desconhecido
+title: Being There Putting Brain, Body, and World
+slug: being-there-putting-brain-body-and-world
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Hunger Habit_ Why We Eat When We're Not Hungry and How to Stop - Judson Brewer
-slug: deep-summary-the-hunger-habit_-why-we-eat-when-we-re-not-hungry-and-how-to-stop-judson-brewer
+title: The Hunger Habit_ Why We Eat When We're Not Hungry and How to Stop - Judson Brewer
+slug: the-hunger-habit_-why-we-eat-when-we-re-not-hungry-and-how-to-stop-judson-brewer
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The YouTube Formula_ How Anyone Can Unlock - Derral Eves
-slug: deep-summary-the-youtube-formula_-how-anyone-can-unlock-derral-eves
+title: The YouTube Formula_ How Anyone Can Unlock - Derral Eves
+slug: the-youtube-formula_-how-anyone-can-unlock-derral-eves
 tags: 
   - book-summary
 excerpt: ""

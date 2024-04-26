@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Power of Meaning - Emily Esfahani Smith
-slug: deep-summary-the-power-of-meaning-emily-esfahani-smith
+title: The Power of Meaning - Emily Esfahani Smith
+slug: the-power-of-meaning-emily-esfahani-smith
 tags: 
   - book-summary
 excerpt: ""

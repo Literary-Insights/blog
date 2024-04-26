@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - The Evolution of Everything_ How New Ideas - Matt Ridley
+title: The Evolution of Everything_ How New Ideas - Matt Ridley
 slug: the-evolution-of-everything_-how-new-ideas-matt-ridley 
 tags: 
   - book-summary

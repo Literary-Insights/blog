@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Gospel of Wellness - Rina Raphael
-slug: deep-summary-the-gospel-of-wellness-rina-raphael
+title: The Gospel of Wellness - Rina Raphael
+slug: the-gospel-of-wellness-rina-raphael
 tags: 
   - book-summary
 excerpt: ""

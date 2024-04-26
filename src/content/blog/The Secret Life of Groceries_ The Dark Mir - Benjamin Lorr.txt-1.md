@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Secret Life of Groceries_ The Dark Mir - Benjamin Lorr
-slug: deep-summary-the-secret-life-of-groceries_-the-dark-mir-benjamin-lorr
+title: The Secret Life of Groceries_ The Dark Mir - Benjamin Lorr
+slug: the-secret-life-of-groceries_-the-dark-mir-benjamin-lorr
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Laws of Charisma_ How to Captivate, In - Kurt W. Mortensen
-slug: deep-summary-the-laws-of-charisma_-how-to-captivate-in-kurt-w-mortensen
+title: The Laws of Charisma_ How to Captivate, In - Kurt W. Mortensen
+slug: the-laws-of-charisma_-how-to-captivate-in-kurt-w-mortensen
 tags: 
   - book-summary
 excerpt: ""

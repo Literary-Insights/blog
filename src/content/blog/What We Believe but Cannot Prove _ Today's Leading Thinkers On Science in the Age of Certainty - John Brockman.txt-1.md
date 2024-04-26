@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - What We Believe but Cannot Prove _ Today's Leading Thinkers On Science in the Age of Certainty - John Brockman
-slug: deep-summary-what-we-believe-but-cannot-prove-_-today-s-leading-thinkers-on-science-in-the-age-of-certainty-john-brockman
+title: What We Believe but Cannot Prove _ Today's Leading Thinkers On Science in the Age of Certainty - John Brockman
+slug: what-we-believe-but-cannot-prove-_-today-s-leading-thinkers-on-science-in-the-age-of-certainty-john-brockman
 tags: 
   - book-summary
 excerpt: ""

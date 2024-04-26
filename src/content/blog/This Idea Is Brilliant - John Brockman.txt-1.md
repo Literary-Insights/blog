@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - This Idea Is Brilliant - John Brockman
-slug: deep-summary-this-idea-is-brilliant-john-brockman
+title: This Idea Is Brilliant - John Brockman
+slug: this-idea-is-brilliant-john-brockman
 tags: 
   - book-summary
 excerpt: ""

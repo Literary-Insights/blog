@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The End of Genetics - David B. Goldstein
-slug: deep-summary-the-end-of-genetics-david-b-goldstein
+title: The End of Genetics - David B. Goldstein
+slug: the-end-of-genetics-david-b-goldstein
 tags: 
   - book-summary
 excerpt: ""

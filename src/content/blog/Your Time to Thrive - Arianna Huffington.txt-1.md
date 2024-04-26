@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Your Time to Thrive - Arianna Huffington
-slug: DEEP SUMMARY - your-time-to-thrive-arianna-huffington
+title: Your Time to Thrive - Arianna Huffington
+slug: your-time-to-thrive-arianna-huffington
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Undisputed Truth_ My Autobiography - Tyson, Mike
-slug: deep-summary-undisputed-truth_-my-autobiography-tyson-mike
+title: Undisputed Truth_ My Autobiography - Tyson, Mike
+slug: undisputed-truth_-my-autobiography-tyson-mike
 tags: 
   - book-summary
 excerpt: ""

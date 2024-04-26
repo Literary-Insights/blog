@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Crisis of Globalisation - henningmeyer
-slug: deep-summary-the-crisis-of-globalisation-henningmeyer
+title: The Crisis of Globalisation - henningmeyer
+slug: the-crisis-of-globalisation-henningmeyer
 tags: 
   - book-summary
 excerpt: ""

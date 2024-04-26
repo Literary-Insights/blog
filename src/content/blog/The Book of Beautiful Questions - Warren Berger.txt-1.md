@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Book of Beautiful Questions - Warren Berger
-slug: deep-summary-the-book-of-beautiful-questions-warren-berger
+title: The Book of Beautiful Questions - Warren Berger
+slug: the-book-of-beautiful-questions-warren-berger
 tags: 
   - book-summary
 excerpt: ""

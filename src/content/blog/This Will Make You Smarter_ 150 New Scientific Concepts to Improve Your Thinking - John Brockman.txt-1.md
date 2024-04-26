@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - This Will Make You Smarter_ 150 New Scientific Concepts to Improve Your Thinking - John Brockman
-slug: deep-summary-this-will-make-you-smarter_-150-new-scientific-concepts-to-improve-your-thinking-john-brockman
+title: This Will Make You Smarter_ 150 New Scientific Concepts to Improve Your Thinking - John Brockman
+slug: this-will-make-you-smarter_-150-new-scientific-concepts-to-improve-your-thinking-john-brockman
 tags: 
   - book-summary
 excerpt: ""

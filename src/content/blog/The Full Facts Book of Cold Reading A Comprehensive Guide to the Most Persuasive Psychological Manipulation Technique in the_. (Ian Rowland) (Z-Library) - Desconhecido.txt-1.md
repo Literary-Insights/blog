@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Full Facts Book of Cold Reading A Comprehensive Guide to the Most Persuasive Psychological Manipulation Technique in the_. (Ian Rowland) 
-slug: deep-summary-the-full-facts-book-of-cold-reading-a-comprehensive-guide-to-the-most-persuasive-psychological-manipulation-technique-in-the_-ian-rowlanddesconhecido
+title: The Full Facts Book of Cold Reading A Comprehensive Guide to the Most Persuasive Psychological Manipulation Technique in the_. (Ian Rowland) 
+slug: the-full-facts-book-of-cold-reading-a-comprehensive-guide-to-the-most-persuasive-psychological-manipulation-technique-in-the_-ian-rowlanddesconhecido
 tags: 
   - book-summary
 excerpt: ""

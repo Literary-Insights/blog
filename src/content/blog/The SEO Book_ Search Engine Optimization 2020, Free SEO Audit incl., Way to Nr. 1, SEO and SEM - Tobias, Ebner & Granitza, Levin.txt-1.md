@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The SEO Book_ Search Engine Optimization 2020, Free SEO Audit incl., Way to Nr. 1, SEO and SEM - Tobias, Ebner & Granitza, Levin
-slug: deep-summary-the-seo-book_-search-engine-optimization-2020-free-seo-audit-incl-way-to-nr-1-seo-and-sem-tobias-ebner-granitza-levin
+title: The SEO Book_ Search Engine Optimization 2020, Free SEO Audit incl., Way to Nr. 1, SEO and SEM - Tobias, Ebner & Granitza, Levin
+slug: the-seo-book_-search-engine-optimization-2020-free-seo-audit-incl-way-to-nr-1-seo-and-sem-tobias-ebner-granitza-levin
 tags: 
   - book-summary
 excerpt: ""

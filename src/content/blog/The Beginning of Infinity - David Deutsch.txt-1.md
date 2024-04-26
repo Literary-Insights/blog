@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Beginning of Infinity - David Deutsch
-slug: deep-summary-the-beginning-of-infinity-david-deutsch
+title: The Beginning of Infinity - David Deutsch
+slug: the-beginning-of-infinity-david-deutsch
 tags: 
   - book-summary
 excerpt: ""

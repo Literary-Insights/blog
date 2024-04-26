@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - US_JKT_Improv_mem_final.indd - Desconhecido
-slug: deep-summary-us_jkt_improv_mem_final-indd-desconhecido
+title: US_JKT_Improv_mem_final.indd
+slug: us_jkt_improv_mem_final-indd
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=us_jkt_improv_mem_final-indd-desconhecido)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=us_jkt_improv_mem_final-indd)
 
 
 

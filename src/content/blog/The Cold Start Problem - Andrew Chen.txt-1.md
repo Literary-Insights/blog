@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Cold Start Problem - Andrew Chen
-slug: deep-summary-the-cold-start-problem-andrew-chen
+title: The Cold Start Problem - Andrew Chen
+slug: the-cold-start-problem-andrew-chen
 tags: 
   - book-summary
 excerpt: ""

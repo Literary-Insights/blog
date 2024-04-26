@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Power of Eye Contact - Ellsberg, Michael
-slug: deep-summary-the-power-of-eye-contact-ellsberg-michael
+title: The Power of Eye Contact - Ellsberg, Michael
+slug: the-power-of-eye-contact-ellsberg-michael
 tags: 
   - book-summary
 excerpt: ""

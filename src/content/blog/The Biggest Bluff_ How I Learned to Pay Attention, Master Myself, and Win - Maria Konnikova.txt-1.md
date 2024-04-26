@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Biggest Bluff_ How I Learned to Pay Attention, Master Myself, and Win - Maria Konnikova
-slug: deep-summary-the-biggest-bluff_-how-i-learned-to-pay-attention-master-myself-and-win-maria-konnikova
+title: The Biggest Bluff_ How I Learned to Pay Attention, Master Myself, and Win - Maria Konnikova
+slug: the-biggest-bluff_-how-i-learned-to-pay-attention-master-myself-and-win-maria-konnikova
 tags: 
   - book-summary
 excerpt: ""

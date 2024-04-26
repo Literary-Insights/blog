@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Rational Male - Positive Masculinity - Rollo Tomassi
-slug: deep-summary-the-rational-male-positive-masculinity-rollo-tomassi
+title: The Rational Male - Positive Masculinity - Rollo Tomassi
+slug: the-rational-male-positive-masculinity-rollo-tomassi
 tags: 
   - book-summary
 excerpt: ""

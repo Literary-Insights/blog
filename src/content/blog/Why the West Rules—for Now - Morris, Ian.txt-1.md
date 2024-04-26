@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Why the West Rules—for Now - Morris, Ian
-slug: deep-summary-why-the-west-rules-for-now-morris-ian
+title: Why the West Rules—for Now - Morris, Ian
+slug: why-the-west-rules-for-now-morris-ian
 tags: 
   - book-summary
 excerpt: ""

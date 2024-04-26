@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Transcend_ The New Science of Self-Actualization - Scott Barry Kaufman
-slug: deep-summary-transcend_-the-new-science-of-self-actualization-scott-barry-kaufman
+title: Transcend_ The New Science of Self-Actualization - Scott Barry Kaufman
+slug: transcend_-the-new-science-of-self-actualization-scott-barry-kaufman
 tags: 
   - book-summary
 excerpt: ""

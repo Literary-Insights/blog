@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - The Rise of the Rest_ How Entrepreneurs in Surprising Places are Building the New American Dream - Steve Case
+title: The Rise of the Rest_ How Entrepreneurs in Surprising Places are Building the New American Dream - Steve Case
 slug: the-rise-of-the-rest_-how-entrepreneurs-in-surprising-places-are-building-the-new-american-dream-steve-case
 tags: 
   - book-summary

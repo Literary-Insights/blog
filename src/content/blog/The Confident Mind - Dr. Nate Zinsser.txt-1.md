@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Confident Mind - Dr. Nate Zinsser
-slug: deep-summary-the-confident-mind-dr-nate-zinsser
+title: The Confident Mind - Dr. Nate Zinsser
+slug: the-confident-mind-dr-nate-zinsser
 tags: 
   - book-summary
 excerpt: ""

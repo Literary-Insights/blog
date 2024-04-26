@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - You Can Heal Your Life - Louise L. Hay
-slug: deep-summary-you-can-heal-your-life-louise-l-hay
+title: You Can Heal Your Life - Louise L. Hay
+slug: you-can-heal-your-life-louise-l-hay
 tags: 
   - book-summary
 excerpt: ""

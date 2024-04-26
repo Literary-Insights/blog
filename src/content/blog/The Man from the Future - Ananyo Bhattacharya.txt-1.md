@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Man from the Future - Ananyo Bhattacharya
-slug: deep-summary-the-man-from-the-future-ananyo-bhattacharya
+title: The Man from the Future - Ananyo Bhattacharya
+slug: the-man-from-the-future-ananyo-bhattacharya
 tags: 
   - book-summary
 excerpt: ""

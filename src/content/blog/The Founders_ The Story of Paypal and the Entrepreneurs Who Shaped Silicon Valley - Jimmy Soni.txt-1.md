@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Founders_ The Story of Paypal and the Entrepreneurs Who Shaped Silicon Valley - Jimmy Soni
-slug: deep-summary-the-founders_-the-story-of-paypal-and-the-entrepreneurs-who-shaped-silicon-valley-jimmy-soni
+title: The Founders_ The Story of Paypal and the Entrepreneurs Who Shaped Silicon Valley - Jimmy Soni
+slug: the-founders_-the-story-of-paypal-and-the-entrepreneurs-who-shaped-silicon-valley-jimmy-soni
 tags: 
   - book-summary
 excerpt: ""

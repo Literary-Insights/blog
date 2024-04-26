@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Drunkard's Walk - Leonard Mlodinow
-slug: deep-summary-the-drunkard-s-walk-leonard-mlodinow
+title: The Drunkard's Walk - Leonard Mlodinow
+slug: the-drunkard-s-walk-leonard-mlodinow
 tags: 
   - book-summary
 excerpt: ""

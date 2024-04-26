@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Influencer Economy_ How to Launch Your Idea, Share It with the World, and Thrive in the Digital Age - Ryan Williams
-slug: deep-summary-the-influencer-economy_-how-to-launch-your-idea-share-it-with-the-world-and-thrive-in-the-digital-age-ryan-williams
+title: The Influencer Economy_ How to Launch Your Idea, Share It with the World, and Thrive in the Digital Age - Ryan Williams
+slug: the-influencer-economy_-how-to-launch-your-idea-share-it-with-the-world-and-thrive-in-the-digital-age-ryan-williams
 tags: 
   - book-summary
 excerpt: ""

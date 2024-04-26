@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Portable Atheist_ Essential Readings for the Nonbeliever - Christopher Hitchens
-slug: deep-summary-the-portable-atheist_-essential-readings-for-the-nonbeliever-christopher-hitchens
+title: The Portable Atheist_ Essential Readings for the Nonbeliever - Christopher Hitchens
+slug: the-portable-atheist_-essential-readings-for-the-nonbeliever-christopher-hitchens
 tags: 
   - book-summary
 excerpt: ""

@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - The Burnout Fix_ Overcome Overwhelm, Beat - Jacinta M. Jimenez
+title: The Burnout Fix_ Overcome Overwhelm, Beat - Jacinta M. Jimenez
 slug: the-burnout-fix_-overcome-overwhelm-beat-jacinta-m-jimenez 
 tags: 
   - book-summary

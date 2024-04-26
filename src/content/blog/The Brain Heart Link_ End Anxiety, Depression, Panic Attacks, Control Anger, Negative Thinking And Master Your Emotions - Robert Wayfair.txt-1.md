@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Brain Heart Link_ End Anxiety, Depression, Panic Attacks, Control Anger, Negative Thinking And Master Your Emotions - Robert Wayfair
-slug: deep-summary-the-brain-heart-link_-end-anxiety-depression-panic-attacks-control-anger-negative-thinking-and-master-your-emotions-robert-wayfair
+title: The Brain Heart Link_ End Anxiety, Depression, Panic Attacks, Control Anger, Negative Thinking And Master Your Emotions - Robert Wayfair
+slug: the-brain-heart-link_-end-anxiety-depression-panic-attacks-control-anger-negative-thinking-and-master-your-emotions-robert-wayfair
 tags: 
   - book-summary
 excerpt: ""

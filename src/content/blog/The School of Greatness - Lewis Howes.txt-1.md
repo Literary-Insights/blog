@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The School of Greatness - Lewis Howes
-slug: deep-summary-the-school-of-greatness-lewis-howes
+title: The School of Greatness - Lewis Howes
+slug: the-school-of-greatness-lewis-howes
 tags: 
   - book-summary
 excerpt: ""

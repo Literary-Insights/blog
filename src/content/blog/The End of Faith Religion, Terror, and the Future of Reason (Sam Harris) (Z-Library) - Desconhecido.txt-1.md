@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The End of Faith Religion, Terror, and the Future of Reason (Sam Harris) 
-slug: deep-summary-the-end-of-faith-religion-terror-and-the-future-of-reason-sam-harrisdesconhecido
+title: The End of Faith Religion, Terror, and the Future of Reason (Sam Harris) 
+slug: the-end-of-faith-religion-terror-and-the-future-of-reason-sam-harrisdesconhecido
 tags: 
   - book-summary
 excerpt: ""

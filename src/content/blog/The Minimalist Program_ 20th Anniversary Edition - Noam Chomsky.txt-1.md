@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Minimalist Program_ 20th Anniversary Edition - Noam Chomsky
-slug: deep-summary-the-minimalist-program_-20th-anniversary-edition-noam-chomsky
+title: The Minimalist Program_ 20th Anniversary Edition - Noam Chomsky
+slug: the-minimalist-program_-20th-anniversary-edition-noam-chomsky
 tags: 
   - book-summary
 excerpt: ""

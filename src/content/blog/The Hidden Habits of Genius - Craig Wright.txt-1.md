@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Hidden Habits of Genius - Craig Wright
-slug: deep-summary-the-hidden-habits-of-genius-craig-wright
+title: The Hidden Habits of Genius - Craig Wright
+slug: the-hidden-habits-of-genius-craig-wright
 tags: 
   - book-summary
 excerpt: ""

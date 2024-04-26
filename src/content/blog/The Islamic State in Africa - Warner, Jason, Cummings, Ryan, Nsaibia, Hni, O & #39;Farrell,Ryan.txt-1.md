@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Islamic State in Africa - Warner, Jason, Cummings, Ryan, Nsaibia, Hni, O & #39;Farrell,Ryan
-slug: deep-summary-the-islamic-state-in-africa-warner-jason-cummings-ryan-nsaibia-hni-o-39-farrell-ryan
+title: The Islamic State in Africa - Warner, Jason, Cummings, Ryan, Nsaibia, Hni, O & #39;Farrell,Ryan
+slug: the-islamic-state-in-africa-warner-jason-cummings-ryan-nsaibia-hni-o-39-farrell-ryan
 tags: 
   - book-summary
 excerpt: ""

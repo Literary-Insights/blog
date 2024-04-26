@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Grain Brain Whole Life Plan - David Perlmutter
-slug: deep-summary-the-grain-brain-whole-life-plan-david-perlmutter
+title: The Grain Brain Whole Life Plan - David Perlmutter
+slug: the-grain-brain-whole-life-plan-david-perlmutter
 tags: 
   - book-summary
 excerpt: ""

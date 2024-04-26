@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Partnership Economy_ How Modern Businesseer Exceptional Experiences - David A. Yovanno
-slug: deep-summary-the-partnership-economy_-how-modern-businesseer-exceptional-experiences-david-a-yovanno
+title: The Partnership Economy_ How Modern Businesseer Exceptional Experiences - David A. Yovanno
+slug: the-partnership-economy_-how-modern-businesseer-exceptional-experiences-david-a-yovanno
 tags: 
   - book-summary
 excerpt: ""

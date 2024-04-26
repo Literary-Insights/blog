@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Chaos Machine_ The Inside Story of How Social Media Rewired Our Minds and Our World - Max Fisher
-slug: deep-summary-the-chaos-machine_-the-inside-story-of-how-social-media-rewired-our-minds-and-our-world-max-fisher
+title: The Chaos Machine_ The Inside Story of How Social Media Rewired Our Minds and Our World - Max Fisher
+slug: the-chaos-machine_-the-inside-story-of-how-social-media-rewired-our-minds-and-our-world-max-fisher
 tags: 
   - book-summary
 excerpt: ""

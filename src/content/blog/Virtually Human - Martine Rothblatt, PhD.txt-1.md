@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Virtually Human - Martine Rothblatt, PhD
-slug: deep-summary-virtually-human-martine-rothblatt-phd
+title: Virtually Human - Martine Rothblatt, PhD
+slug: virtually-human-martine-rothblatt-phd
 tags: 
   - book-summary
 excerpt: ""

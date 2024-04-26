@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Journey of Humanity_ The Origins of Wealth and Inequality - Oded Galor
-slug: deep-summary-the-journey-of-humanity_-the-origins-of-wealth-and-inequality-oded-galor
+title: The Journey of Humanity_ The Origins of Wealth and Inequality - Oded Galor
+slug: the-journey-of-humanity_-the-origins-of-wealth-and-inequality-oded-galor
 tags: 
   - book-summary
 excerpt: ""

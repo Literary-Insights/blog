@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Gap and the Gain - Dr. Benjamin Hardy
-slug: deep-summary-the-gap-and-the-gain-dr-benjamin-hardy
+title: The Gap and the Gain - Dr. Benjamin Hardy
+slug: the-gap-and-the-gain-dr-benjamin-hardy
 tags: 
   - book-summary
 excerpt: ""

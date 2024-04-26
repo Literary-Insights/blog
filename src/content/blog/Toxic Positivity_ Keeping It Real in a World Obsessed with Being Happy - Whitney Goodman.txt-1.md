@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Toxic Positivity_ Keeping It Real in a World Obsessed with Being Happy - Whitney Goodman
-slug: deep-summary-toxic-positivity_-keeping-it-real-in-a-world-obsessed-with-being-happy-whitney-goodman
+title: Toxic Positivity_ Keeping It Real in a World Obsessed with Being Happy - Whitney Goodman
+slug: toxic-positivity_-keeping-it-real-in-a-world-obsessed-with-being-happy-whitney-goodman
 tags: 
   - book-summary
 excerpt: ""

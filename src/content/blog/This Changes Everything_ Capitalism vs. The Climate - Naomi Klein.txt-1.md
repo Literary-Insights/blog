@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - This Changes Everything_ Capitalism vs. The Climate - Naomi Klein
-slug: deep-summary-this-changes-everything_-capitalism-vs-the-climate-naomi-klein
+title: This Changes Everything_ Capitalism vs. The Climate - Naomi Klein
+slug: this-changes-everything_-capitalism-vs-the-climate-naomi-klein
 tags: 
   - book-summary
 excerpt: ""

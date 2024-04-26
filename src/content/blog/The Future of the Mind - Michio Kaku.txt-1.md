@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Future of the Mind - Michio Kaku
-slug: DEEP SUMMARY - the-future-of-the-mind-michio-kaku
+title: The Future of the Mind - Michio Kaku
+slug: the-future-of-the-mind-michio-kaku
 tags: 
   - book-summary
 excerpt: ""

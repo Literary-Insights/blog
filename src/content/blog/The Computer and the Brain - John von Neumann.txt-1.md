@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Computer and the Brain - John von Neumann
-slug: deep-summary-the-computer-and-the-brain-john-von-neumann
+title: The Computer and the Brain - John von Neumann
+slug: the-computer-and-the-brain-john-von-neumann
 tags: 
   - book-summary
 excerpt: ""

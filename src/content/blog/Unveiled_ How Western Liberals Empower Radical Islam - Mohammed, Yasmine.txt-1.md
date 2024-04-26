@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Unveiled_ How Western Liberals Empower Radical Islam - Mohammed, Yasmine
-slug: deep-summary-unveiled_-how-western-liberals-empower-radical-islam-mohammed-yasmine
+title: Unveiled_ How Western Liberals Empower Radical Islam - Mohammed, Yasmine
+slug: unveiled_-how-western-liberals-empower-radical-islam-mohammed-yasmine
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Worth Dying For The Power and Politics of Flags (Tim Marshall)  - Zamzar
-slug: deep-summary-worth-dying-for-the-power-and-politics-of-flags-tim-marshallzamzar
+title: Worth Dying For The Power and Politics of Flags (Tim Marshall)  - Zamzar
+slug: worth-dying-for-the-power-and-politics-of-flags-tim-marshallzamzar
 tags: 
   - book-summary
 excerpt: ""

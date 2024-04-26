@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Statistics of Poker_ Data Mining Statistics Applied to Small Stakes No-limit Hold'em - Steve Selbrede
-slug: deep-summary-the-statistics-of-poker_-data-mining-statistics-applied-to-small-stakes-no-limit-hold-em-steve-selbrede
+title: The Statistics of Poker_ Data Mining Statistics Applied to Small Stakes No-limit Hold'em - Steve Selbrede
+slug: the-statistics-of-poker_-data-mining-statistics-applied-to-small-stakes-no-limit-hold-em-steve-selbrede
 tags: 
   - book-summary
 excerpt: ""

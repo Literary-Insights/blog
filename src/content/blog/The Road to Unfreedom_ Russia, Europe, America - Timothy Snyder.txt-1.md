@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Road to Unfreedom_ Russia, Europe, America - Timothy Snyder
-slug: deep-summary-the-road-to-unfreedom_-russia-europe-america-timothy-snyder
+title: The Road to Unfreedom_ Russia, Europe, America - Timothy Snyder
+slug: the-road-to-unfreedom_-russia-europe-america-timothy-snyder
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Future of the Brain - Marcus, Gary, Freeman, Jeremy
-slug: deep-summary-the-future-of-the-brain-marcus-gary-freeman-jeremy
+title: The Future of the Brain - Marcus, Gary, Freeman, Jeremy
+slug: the-future-of-the-brain-marcus-gary-freeman-jeremy
 tags: 
   - book-summary
 excerpt: ""

@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - The Burnout Society - Byung-Chul Han (Author)
+title: The Burnout Society - Byung-Chul Han (Author)
 slug: the-burnout-society-byung-chul-han-author- 
 tags: 
   - book-summary

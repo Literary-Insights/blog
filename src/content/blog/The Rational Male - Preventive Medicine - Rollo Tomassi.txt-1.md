@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Rational Male - Preventive Medicine - Rollo Tomassi
-slug: deep-summary-the-rational-male-preventive-medicine-rollo-tomassi
+title: The Rational Male - Preventive Medicine - Rollo Tomassi
+slug: the-rational-male-preventive-medicine-rollo-tomassi
 tags: 
   - book-summary
 excerpt: ""

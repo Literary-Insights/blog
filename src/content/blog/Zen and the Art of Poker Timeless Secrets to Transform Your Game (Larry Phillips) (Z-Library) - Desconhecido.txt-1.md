@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Zen and the Art of Poker Timeless Secrets to Transform Your Game (Larry Phillips) 
-slug: deep-summary-zen-and-the-art-of-poker-timeless-secrets-to-transform-your-game-larry-phillipsdesconhecido
+title: Zen and the Art of Poker Timeless Secrets to Transform Your Game (Larry Phillips) 
+slug: zen-and-the-art-of-poker-timeless-secrets-to-transform-your-game-larry-phillipsdesconhecido
 tags: 
   - book-summary
 excerpt: ""

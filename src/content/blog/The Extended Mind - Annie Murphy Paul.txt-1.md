@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Extended Mind - Annie Murphy Paul
-slug: deep-summary-the-extended-mind-annie-murphy-paul
+title: The Extended Mind - Annie Murphy Paul
+slug: the-extended-mind-annie-murphy-paul
 tags: 
   - book-summary
 excerpt: ""

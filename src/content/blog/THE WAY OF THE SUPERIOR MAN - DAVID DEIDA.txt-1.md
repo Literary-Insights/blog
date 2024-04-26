@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - THE WAY OF THE SUPERIOR MAN - DAVID DEIDA
-slug: deep-summary-the-way-of-the-superior-man-david-deida
+title: THE WAY OF THE SUPERIOR MAN - DAVID DEIDA
+slug: the-way-of-the-superior-man-david-deida
 tags: 
   - book-summary
 excerpt: ""

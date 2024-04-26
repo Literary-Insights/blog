@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - What Customers Want_ Using Outcome-Driven - Anthony Ulwick
-slug: deep-summary-what-customers-want_-using-outcome-driven-anthony-ulwick
+title: What Customers Want_ Using Outcome-Driven - Anthony Ulwick
+slug: what-customers-want_-using-outcome-driven-anthony-ulwick
 tags: 
   - book-summary
 excerpt: ""

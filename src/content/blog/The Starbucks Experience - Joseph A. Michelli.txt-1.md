@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - The Starbucks Experience - Joseph A. Michelli
+title: The Starbucks Experience - Joseph A. Michelli
 slug: the-starbucks-experience-joseph-a-michelli 
 tags: 
   - book-summary

@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Soul of Leadership - Deepak Chopra
-slug: deep-summary-the-soul-of-leadership-deepak-chopra
+title: The Soul of Leadership - Deepak Chopra
+slug: the-soul-of-leadership-deepak-chopra
 tags: 
   - book-summary
 excerpt: ""

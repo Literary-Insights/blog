@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The CEO Next Door - Elena L. Botelho & Kim R. Powell & Tahl Raz
-slug: deep-summary-the-ceo-next-door-elena-l-botelho-kim-r-powell-tahl-raz
+title: The CEO Next Door - Elena L. Botelho & Kim R. Powell & Tahl Raz
+slug: the-ceo-next-door-elena-l-botelho-kim-r-powell-tahl-raz
 tags: 
   - book-summary
 excerpt: ""

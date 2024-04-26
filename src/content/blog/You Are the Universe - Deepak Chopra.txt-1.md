@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - You Are the Universe - Deepak Chopra
-slug: deep-summary-you-are-the-universe-deepak-chopra
+title: You Are the Universe - Deepak Chopra
+slug: you-are-the-universe-deepak-chopra
 tags: 
   - book-summary
 excerpt: ""

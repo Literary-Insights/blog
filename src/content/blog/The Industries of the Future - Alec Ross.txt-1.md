@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Industries of the Future - Alec Ross
-slug: deep-summary-the-industries-of-the-future-alec-ross
+title: The Industries of the Future - Alec Ross
+slug: the-industries-of-the-future-alec-ross
 tags: 
   - book-summary
 excerpt: ""

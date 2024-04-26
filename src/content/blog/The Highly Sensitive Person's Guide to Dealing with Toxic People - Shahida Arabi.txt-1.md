@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Highly Sensitive Person's Guide to Dealing with Toxic People - Shahida Arabi
-slug: deep-summary-the-highly-sensitive-person-s-guide-to-dealing-with-toxic-people-shahida-arabi
+title: The Highly Sensitive Person's Guide to Dealing with Toxic People - Shahida Arabi
+slug: the-highly-sensitive-person-s-guide-to-dealing-with-toxic-people-shahida-arabi
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The World in the Model - Morgan, Mary S_
-slug: deep-summary-the-world-in-the-model-morgan-mary-s_
+title: The World in the Model - Morgan, Mary S_
+slug: the-world-in-the-model-morgan-mary-s_
 tags: 
   - book-summary
 excerpt: ""

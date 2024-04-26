@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Subtle Art of Not Giving a Fuck_ A Counterintuitive Approach to Living a Good Life - Mark Manson
-slug: deep-summary-the-subtle-art-of-not-giving-a-fuck_-a-counterintuitive-approach-to-living-a-good-life-mark-manson
+title: The Subtle Art of Not Giving a Fuck_ A Counterintuitive Approach to Living a Good Life - Mark Manson
+slug: the-subtle-art-of-not-giving-a-fuck_-a-counterintuitive-approach-to-living-a-good-life-mark-manson
 tags: 
   - book-summary
 excerpt: ""

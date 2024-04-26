@@ -1,6 +1,6 @@
 ---
-title: The Psychology Book - Desconhecido
-slug: the-psychology-book-desconhecido
+title: The Psychology Book
+slug: the-psychology-book
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Writing Without Bullshit_ Boost Your Career by Saying What You Mean - Josh Bernoff
-slug: deep-summary-writing-without-bullshit_-boost-your-career-by-saying-what-you-mean-josh-bernoff
+title: Writing Without Bullshit_ Boost Your Career by Saying What You Mean - Josh Bernoff
+slug: writing-without-bullshit_-boost-your-career-by-saying-what-you-mean-josh-bernoff
 tags: 
   - book-summary
 excerpt: ""

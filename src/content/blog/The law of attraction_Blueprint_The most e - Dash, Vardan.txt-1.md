@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The law of attraction_Blueprint_The most e - Dash, Vardan
-slug: deep-summary-the-law-of-attraction_blueprint_the-most-e-dash-vardan
+title: The law of attraction_Blueprint_The most e - Dash, Vardan
+slug: the-law-of-attraction_blueprint_the-most-e-dash-vardan
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Three Dangerous Men_ Russia, China, Iran and the Rise of Irregular Warfare - Seth G. Jones
-slug: deep-summary-three-dangerous-men_-russia-china-iran-and-the-rise-of-irregular-warfare-seth-g-jones
+title: Three Dangerous Men_ Russia, China, Iran and the Rise of Irregular Warfare - Seth G. Jones
+slug: three-dangerous-men_-russia-china-iran-and-the-rise-of-irregular-warfare-seth-g-jones
 tags: 
   - book-summary
 excerpt: ""

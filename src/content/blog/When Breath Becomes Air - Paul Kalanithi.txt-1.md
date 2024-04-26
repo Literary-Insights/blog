@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - When Breath Becomes Air - Paul Kalanithi
-slug: deep-summary-when-breath-becomes-air-paul-kalanithi
+title: When Breath Becomes Air - Paul Kalanithi
+slug: when-breath-becomes-air-paul-kalanithi
 tags: 
   - book-summary
 excerpt: ""

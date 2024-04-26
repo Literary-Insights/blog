@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Hidden Wealth of Nations_ The Scourge of Tax Havens - Gabriel Zucman & Teresa Lavender Fagan (Translator) & Thomas Piketty (Foreword)
-slug: deep-summary-the-hidden-wealth-of-nations_-the-scourge-of-tax-havens-gabriel-zucman-teresa-lavender-fagan-translator-thomas-piketty-foreword-
+title: The Hidden Wealth of Nations_ The Scourge of Tax Havens - Gabriel Zucman & Teresa Lavender Fagan (Translator) & Thomas Piketty (Foreword)
+slug: the-hidden-wealth-of-nations_-the-scourge-of-tax-havens-gabriel-zucman-teresa-lavender-fagan-translator-thomas-piketty-foreword-
 tags: 
   - book-summary
 excerpt: ""

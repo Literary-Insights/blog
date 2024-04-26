@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Dumb Things Smart People Do with Their Money_ Thirteen Ways to Right Your Financial Wrongs - Jill Schlesinger
-slug: deep-summary-the-dumb-things-smart-people-do-with-their-money_-thirteen-ways-to-right-your-financial-wrongs-jill-schlesinger
+title: The Dumb Things Smart People Do with Their Money_ Thirteen Ways to Right Your Financial Wrongs - Jill Schlesinger
+slug: the-dumb-things-smart-people-do-with-their-money_-thirteen-ways-to-right-your-financial-wrongs-jill-schlesinger
 tags: 
   - book-summary
 excerpt: ""

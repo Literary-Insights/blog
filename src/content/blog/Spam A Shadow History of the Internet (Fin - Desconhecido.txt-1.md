@@ -1,6 +1,6 @@
 ---
-title: Spam A Shadow History of the Internet (Fin - Desconhecido
-slug: spam-a-shadow-history-of-the-internet-fin-desconhecido
+title: Spam A Shadow History of the Internet (Fin
+slug: spam-a-shadow-history-of-the-internet-fin
 tags: 
   - book-summary
 excerpt: ""

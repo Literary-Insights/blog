@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - This Machine Kills Secrets - Any Greenberg
-slug: deep-summary-this-machine-kills-secrets-any-greenberg
+title: This Machine Kills Secrets - Any Greenberg
+slug: this-machine-kills-secrets-any-greenberg
 tags: 
   - book-summary
 excerpt: ""

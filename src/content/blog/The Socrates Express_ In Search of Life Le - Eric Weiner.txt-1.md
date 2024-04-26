@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Socrates Express_ In Search of Life Le - Eric Weiner
-slug: deep-summary-the-socrates-express_-in-search-of-life-le-eric-weiner
+title: The Socrates Express_ In Search of Life Le - Eric Weiner
+slug: the-socrates-express_-in-search-of-life-le-eric-weiner
 tags: 
   - book-summary
 excerpt: ""

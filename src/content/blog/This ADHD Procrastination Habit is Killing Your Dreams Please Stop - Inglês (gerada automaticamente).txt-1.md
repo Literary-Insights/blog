@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - This ADHD Procrastination Habit is Killing Your Dreams Please Stop - Inglês (gerada automaticamente)
-slug: deep-summary-this-adhd-procrastination-habit-is-killing-your-dreams-please-stop-inglês-gerada-automaticamente-
+title: This ADHD Procrastination Habit is Killing Your Dreams Please Stop - Inglês (gerada automaticamente)
+slug: this-adhd-procrastination-habit-is-killing-your-dreams-please-stop-inglês-gerada-automaticamente-
 tags: 
   - book-summary
 excerpt: ""

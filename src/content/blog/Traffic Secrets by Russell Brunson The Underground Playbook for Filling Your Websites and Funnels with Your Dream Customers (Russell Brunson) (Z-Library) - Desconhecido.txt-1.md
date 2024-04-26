@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Traffic Secrets by Russell Brunson The Underground Playbook for Filling Your Websites and Funnels with Your Dream Customers (Russell Brunson) 
-slug: deep-summary-traffic-secrets-by-russell-brunson-the-underground-playbook-for-filling-your-websites-and-funnels-with-your-dream-customers-russell-brunsondesconhecido
+title: Traffic Secrets by Russell Brunson The Underground Playbook for Filling Your Websites and Funnels with Your Dream Customers (Russell Brunson) 
+slug: traffic-secrets-by-russell-brunson-the-underground-playbook-for-filling-your-websites-and-funnels-with-your-dream-customers-russell-brunsondesconhecido
 tags: 
   - book-summary
 excerpt: ""

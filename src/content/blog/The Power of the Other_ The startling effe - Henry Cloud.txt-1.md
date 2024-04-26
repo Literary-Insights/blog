@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - The Power of the Other_ The startling effe - Henry Cloud
+title: The Power of the Other_ The startling effe - Henry Cloud
 slug: the-power-of-the-other_-the-startling-effe-henry-cloud 
 tags: 
   - book-summary

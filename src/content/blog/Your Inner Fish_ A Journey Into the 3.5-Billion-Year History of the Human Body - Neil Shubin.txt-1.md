@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Your Inner Fish_ A Journey Into the 3.5-Billion-Year History of the Human Body - Neil Shubin
-slug: deep-summary-your-inner-fish_-a-journey-into-the-3-5-billion-year-history-of-the-human-body-neil-shubin
+title: Your Inner Fish_ A Journey Into the 3.5-Billion-Year History of the Human Body - Neil Shubin
+slug: your-inner-fish_-a-journey-into-the-3-5-billion-year-history-of-the-human-body-neil-shubin
 tags: 
   - book-summary
 excerpt: ""

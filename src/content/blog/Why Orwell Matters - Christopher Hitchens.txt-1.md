@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Why Orwell Matters - Christopher Hitchens
-slug: deep-summary-why-orwell-matters-christopher-hitchens
+title: Why Orwell Matters - Christopher Hitchens
+slug: why-orwell-matters-christopher-hitchens
 tags: 
   - book-summary
 excerpt: ""

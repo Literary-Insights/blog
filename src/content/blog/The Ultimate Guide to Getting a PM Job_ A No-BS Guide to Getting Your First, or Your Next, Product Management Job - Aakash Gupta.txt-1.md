@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Ultimate Guide to Getting a PM Job_ A No-BS Guide to Getting Your First, or Your Next, Product Management Job - Aakash Gupta
-slug: deep-summary-the-ultimate-guide-to-getting-a-pm-job_-a-no-bs-guide-to-getting-your-first-or-your-next-product-management-job-aakash-gupta
+title: The Ultimate Guide to Getting a PM Job_ A No-BS Guide to Getting Your First, or Your Next, Product Management Job - Aakash Gupta
+slug: the-ultimate-guide-to-getting-a-pm-job_-a-no-bs-guide-to-getting-your-first-or-your-next-product-management-job-aakash-gupta
 tags: 
   - book-summary
 excerpt: ""

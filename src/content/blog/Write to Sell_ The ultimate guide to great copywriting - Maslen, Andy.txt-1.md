@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Write to Sell_ The ultimate guide to great copywriting - Maslen, Andy
-slug: deep-summary-write-to-sell_-the-ultimate-guide-to-great-copywriting-maslen-andy
+title: Write to Sell_ The ultimate guide to great copywriting - Maslen, Andy
+slug: write-to-sell_-the-ultimate-guide-to-great-copywriting-maslen-andy
 tags: 
   - book-summary
 excerpt: ""

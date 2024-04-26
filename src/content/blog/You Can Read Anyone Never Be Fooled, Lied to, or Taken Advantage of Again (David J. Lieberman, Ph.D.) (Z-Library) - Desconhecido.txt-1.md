@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - You Can Read Anyone Never Be Fooled, Lied to, or Taken Advantage of Again (David J. Lieberman, Ph.D.) 
-slug: deep-summary-you-can-read-anyone-never-be-fooled-lied-to-or-taken-advantage-of-again-david-j-lieberman-ph-ddesconhecido
+title: You Can Read Anyone Never Be Fooled, Lied to, or Taken Advantage of Again (David J. Lieberman, Ph.D.) 
+slug: you-can-read-anyone-never-be-fooled-lied-to-or-taken-advantage-of-again-david-j-lieberman-ph-ddesconhecido
 tags: 
   - book-summary
 excerpt: ""

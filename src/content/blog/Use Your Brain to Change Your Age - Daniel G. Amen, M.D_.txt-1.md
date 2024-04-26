@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Use Your Brain to Change Your Age - Daniel G. Amen, M.D_
-slug: deep-summary-use-your-brain-to-change-your-age-daniel-g-amen-m-d_
+title: Use Your Brain to Change Your Age - Daniel G. Amen, M.D_
+slug: use-your-brain-to-change-your-age-daniel-g-amen-m-d_
 tags: 
   - book-summary
 excerpt: ""

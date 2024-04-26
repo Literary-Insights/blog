@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Mask of Masculinity - Lewis Howes
-slug: deep-summary-the-mask-of-masculinity-lewis-howes
+title: The Mask of Masculinity - Lewis Howes
+slug: the-mask-of-masculinity-lewis-howes
 tags: 
   - book-summary
 excerpt: ""

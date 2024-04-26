@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Science of Meditation - Daniel Goleman
-slug: deep-summary-the-science-of-meditation-daniel-goleman
+title: The Science of Meditation - Daniel Goleman
+slug: the-science-of-meditation-daniel-goleman
 tags: 
   - book-summary
 excerpt: ""

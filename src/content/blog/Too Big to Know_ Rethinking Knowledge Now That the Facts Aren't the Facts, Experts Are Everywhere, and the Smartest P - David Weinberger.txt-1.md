@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Too Big to Know_ Rethinking Knowledge Now That the Facts Aren't the Facts, Experts Are Everywhere, and the Smartest P - David Weinberger
-slug: deep-summary-too-big-to-know_-rethinking-knowledge-now-that-the-facts-aren-t-the-facts-experts-are-everywhere-and-the-smartest-p-david-weinberger
+title: Too Big to Know_ Rethinking Knowledge Now That the Facts Aren't the Facts, Experts Are Everywhere, and the Smartest P - David Weinberger
+slug: too-big-to-know_-rethinking-knowledge-now-that-the-facts-aren-t-the-facts-experts-are-everywhere-and-the-smartest-p-david-weinberger
 tags: 
   - book-summary
 excerpt: ""

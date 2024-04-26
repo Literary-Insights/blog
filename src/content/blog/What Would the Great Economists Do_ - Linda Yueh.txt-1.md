@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - What Would the Great Economists Do_ - Linda Yueh
-slug: deep-summary-what-would-the-great-economists-do_-linda-yueh
+title: What Would the Great Economists Do_ - Linda Yueh
+slug: what-would-the-great-economists-do_-linda-yueh
 tags: 
   - book-summary
 excerpt: ""

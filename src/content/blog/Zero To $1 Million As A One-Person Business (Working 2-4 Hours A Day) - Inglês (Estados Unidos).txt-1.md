@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Zero To $1 Million As A One-Person Business (Working 2-4 Hours A Day) - Inglês (Estados Unidos)
-slug: deep-summary-zero-to-1-million-as-a-one-person-business-working-2-4-hours-a-day-inglês-estados-unidos-
+title: Zero To $1 Million As A One-Person Business (Working 2-4 Hours A Day) - Inglês (Estados Unidos)
+slug: zero-to-1-million-as-a-one-person-business-working-2-4-hours-a-day-inglês-estados-unidos-
 tags: 
   - book-summary
 excerpt: ""

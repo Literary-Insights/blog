@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Triumph of Doubt_ Dark Money and the Science of Deception - David Michaels
-slug: deep-summary-the-triumph-of-doubt_-dark-money-and-the-science-of-deception-david-michaels
+title: The Triumph of Doubt_ Dark Money and the Science of Deception - David Michaels
+slug: the-triumph-of-doubt_-dark-money-and-the-science-of-deception-david-michaels
 tags: 
   - book-summary
 excerpt: ""

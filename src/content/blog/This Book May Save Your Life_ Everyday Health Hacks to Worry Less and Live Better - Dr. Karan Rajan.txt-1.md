@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - This Book May Save Your Life_ Everyday Health Hacks to Worry Less and Live Better - Dr. Karan Rajan
-slug: deep-summary-this-book-may-save-your-life_-everyday-health-hacks-to-worry-less-and-live-better-dr-karan-rajan
+title: This Book May Save Your Life_ Everyday Health Hacks to Worry Less and Live Better - Dr. Karan Rajan
+slug: this-book-may-save-your-life_-everyday-health-hacks-to-worry-less-and-live-better-dr-karan-rajan
 tags: 
   - book-summary
 excerpt: ""

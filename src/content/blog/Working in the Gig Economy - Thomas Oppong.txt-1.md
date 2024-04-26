@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Working in the Gig Economy - Thomas Oppong
-slug: deep-summary-working-in-the-gig-economy-thomas-oppong
+title: Working in the Gig Economy - Thomas Oppong
+slug: working-in-the-gig-economy-thomas-oppong
 tags: 
   - book-summary
 excerpt: ""

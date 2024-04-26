@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Toxic World of Tess Holliday and Fat Activism
-slug: deep-summary-the-toxic-world-of-tess-holliday-and-fat-activism
+title: The Toxic World of Tess Holliday and Fat Activism
+slug: the-toxic-world-of-tess-holliday-and-fat-activism
 tags: 
   - book-summary
 excerpt: ""

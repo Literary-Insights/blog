@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - We Need to Talk About Inflation - Stephen D. King;
-slug: deep-summary-we-need-to-talk-about-inflation-stephen-d-king-
+title: We Need to Talk About Inflation - Stephen D. King;
+slug: we-need-to-talk-about-inflation-stephen-d-king-
 tags: 
   - book-summary
 excerpt: ""

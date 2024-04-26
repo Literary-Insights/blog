@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Coffee Book_ Barista tips _ recipes _ beans from around the world - Anette Moldvaer
-slug: deep-summary-the-coffee-book_-barista-tips-_-recipes-_-beans-from-around-the-world-anette-moldvaer
+title: The Coffee Book_ Barista tips _ recipes _ beans from around the world - Anette Moldvaer
+slug: the-coffee-book_-barista-tips-_-recipes-_-beans-from-around-the-world-anette-moldvaer
 tags: 
   - book-summary
 excerpt: ""

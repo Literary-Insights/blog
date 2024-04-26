@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Happiness Trap_ How to Stop Struggling and Start Living - Russ Harris
-slug: deep-summary-the-happiness-trap_-how-to-stop-struggling-and-start-living-russ-harris
+title: The Happiness Trap_ How to Stop Struggling and Start Living - Russ Harris
+slug: the-happiness-trap_-how-to-stop-struggling-and-start-living-russ-harris
 tags: 
   - book-summary
 excerpt: ""

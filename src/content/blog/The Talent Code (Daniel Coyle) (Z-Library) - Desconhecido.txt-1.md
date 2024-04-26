@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Talent Code (Daniel Coyle) 
-slug: deep-summary-the-talent-code-daniel-coyledesconhecido
+title: The Talent Code (Daniel Coyle) 
+slug: the-talent-code-daniel-coyledesconhecido
 tags: 
   - book-summary
 excerpt: ""

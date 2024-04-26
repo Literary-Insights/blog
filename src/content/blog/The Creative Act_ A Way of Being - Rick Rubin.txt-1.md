@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Creative Act A Way of Being - Rick Rubin
-slug: deep-summary-The-Creative-Act-A-Way-of-Being-Rick-Rubin
+title: The Creative Act A Way of Being - Rick Rubin
+slug: The-Creative-Act-A-Way-of-Being-Rick-Rubin
 tags: book-summary
 image: https://cdn.hashnode.com/res/hashnode/image/upload/v1690983529438/y-Lm2blTr.jpg?auto=format
 

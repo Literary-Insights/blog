@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Code of Capital - Pistor, Katharina;
-slug: deep-summary-the-code-of-capital-pistor-katharina-
+title: The Code of Capital - Pistor, Katharina;
+slug: the-code-of-capital-pistor-katharina-
 tags: 
   - book-summary
 excerpt: ""

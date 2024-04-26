@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Illusion of Control - Jón Daníelsson
-slug: deep-summary-the-illusion-of-control-jón-daníelsson
+title: The Illusion of Control - Jón Daníelsson
+slug: the-illusion-of-control-jón-daníelsson
 tags: 
   - book-summary
 excerpt: ""

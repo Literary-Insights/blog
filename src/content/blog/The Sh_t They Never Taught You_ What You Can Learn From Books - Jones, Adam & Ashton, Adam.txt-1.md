@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Sh_t They Never Taught You_ What You Can Learn From Books - Jones, Adam & Ashton, Adam
-slug: deep-summary-the-sh_t-they-never-taught-you_-what-you-can-learn-from-books-jones-adam-ashton-adam
+title: The Sh_t They Never Taught You_ What You Can Learn From Books - Jones, Adam & Ashton, Adam
+slug: the-sh_t-they-never-taught-you_-what-you-can-learn-from-books-jones-adam-ashton-adam
 tags: 
   - book-summary
 excerpt: ""

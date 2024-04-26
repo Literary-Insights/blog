@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Life Brief_ A Playbook for No-Regrets Living - Bonnie Wan
-slug: deep-summary-the-life-brief_-a-playbook-for-no-regrets-living-bonnie-wan
+title: The Life Brief_ A Playbook for No-Regrets Living - Bonnie Wan
+slug: the-life-brief_-a-playbook-for-no-regrets-living-bonnie-wan
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Great Money Reset - Jill Schlesinger
-slug: deep-summary-the-great-money-reset-jill-schlesinger
+title: The Great Money Reset - Jill Schlesinger
+slug: the-great-money-reset-jill-schlesinger
 tags: 
   - book-summary
 excerpt: ""

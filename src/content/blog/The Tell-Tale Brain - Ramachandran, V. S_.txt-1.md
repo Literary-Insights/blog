@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Tell-Tale Brain - Ramachandran, V. S_
-slug: deep-summary-the-tell-tale-brain-ramachandran-v-s_
+title: The Tell-Tale Brain - Ramachandran, V. S_
+slug: the-tell-tale-brain-ramachandran-v-s_
 tags: 
   - book-summary
 excerpt: ""

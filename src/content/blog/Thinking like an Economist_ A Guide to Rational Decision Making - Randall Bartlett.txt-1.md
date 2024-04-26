@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Thinking like an Economist_ A Guide to Rational Decision Making - Randall Bartlett
-slug: deep-summary-thinking-like-an-economist_-a-guide-to-rational-decision-making-randall-bartlett
+title: Thinking like an Economist_ A Guide to Rational Decision Making - Randall Bartlett
+slug: thinking-like-an-economist_-a-guide-to-rational-decision-making-randall-bartlett
 tags: 
   - book-summary
 excerpt: ""

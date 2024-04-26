@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Last Law of Attraction Book You'll Eve - Andrew Kap
-slug: deep-summary-the-last-law-of-attraction-book-you-ll-eve-andrew-kap
+title: The Last Law of Attraction Book You'll Eve - Andrew Kap
+slug: the-last-law-of-attraction-book-you-ll-eve-andrew-kap
 tags: 
   - book-summary
 excerpt: ""

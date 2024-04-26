@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Power of Fun_ How to Feel Alive Again - Catherine Price
-slug: deep-summary-the-power-of-fun_-how-to-feel-alive-again-catherine-price
+title: The Power of Fun_ How to Feel Alive Again - Catherine Price
+slug: the-power-of-fun_-how-to-feel-alive-again-catherine-price
 tags: 
   - book-summary
 excerpt: ""

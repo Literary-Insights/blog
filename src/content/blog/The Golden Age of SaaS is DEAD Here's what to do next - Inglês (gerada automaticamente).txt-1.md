@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Golden Age of SaaS is DEAD Here's what to do next - Inglês (gerada automaticamente)
-slug: deep-summary-the-golden-age-of-saas-is-dead-here-s-what-to-do-next-inglês-gerada-automaticamente-
+title: The Golden Age of SaaS is DEAD Here's what to do next - Inglês (gerada automaticamente)
+slug: the-golden-age-of-saas-is-dead-here-s-what-to-do-next-inglês-gerada-automaticamente-
 tags: 
   - book-summary
 excerpt: ""

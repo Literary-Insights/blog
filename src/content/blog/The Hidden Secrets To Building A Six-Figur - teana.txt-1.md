@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Hidden Secrets To Building A Six-Figur - teana
-slug: deep-summary-the-hidden-secrets-to-building-a-six-figur-teana
+title: The Hidden Secrets To Building A Six-Figur - teana
+slug: the-hidden-secrets-to-building-a-six-figur-teana
 tags: 
   - book-summary
 excerpt: ""

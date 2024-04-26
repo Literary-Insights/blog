@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Unlocking your creative pover - Jason Rock
-slug: deep-summary-unlocking-your-creative-pover-jason-rock
+title: Unlocking your creative pover - Jason Rock
+slug: unlocking-your-creative-pover-jason-rock
 tags: 
   - book-summary
 excerpt: ""

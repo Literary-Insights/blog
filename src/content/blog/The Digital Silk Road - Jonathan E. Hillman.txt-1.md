@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Digital Silk Road - Jonathan E. Hillman
-slug: deep-summary-the-digital-silk-road-jonathan-e-hillman
+title: The Digital Silk Road - Jonathan E. Hillman
+slug: the-digital-silk-road-jonathan-e-hillman
 tags: 
   - book-summary
 excerpt: ""

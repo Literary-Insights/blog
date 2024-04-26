@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Master Algorithm - Pedro Domingos
-slug: deep-summary-the-master-algorithm-pedro-domingos
+title: The Master Algorithm - Pedro Domingos
+slug: the-master-algorithm-pedro-domingos
 tags: 
   - book-summary
 excerpt: ""

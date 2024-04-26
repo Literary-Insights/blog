@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - When Death Becomes Life - Joshua D. Mezrich
-slug: deep-summary-when-death-becomes-life-joshua-d-mezrich
+title: When Death Becomes Life - Joshua D. Mezrich
+slug: when-death-becomes-life-joshua-d-mezrich
 tags: 
   - book-summary
 excerpt: ""

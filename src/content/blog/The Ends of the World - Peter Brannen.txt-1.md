@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Ends of the World - Peter Brannen
-slug: deep-summary-the-ends-of-the-world-peter-brannen
+title: The Ends of the World - Peter Brannen
+slug: the-ends-of-the-world-peter-brannen
 tags: 
   - book-summary
 excerpt: ""

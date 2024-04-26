@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Friction Project - Robert I. Sutton
-slug: deep-summary-the-friction-project-robert-i-sutton
+title: The Friction Project - Robert I. Sutton
+slug: the-friction-project-robert-i-sutton
 tags: 
   - book-summary
 excerpt: ""

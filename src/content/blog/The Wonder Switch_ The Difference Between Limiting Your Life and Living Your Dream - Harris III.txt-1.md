@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Wonder Switch_ The Difference Between Limiting Your Life and Living Your Dream - Harris III
-slug: deep-summary-the-wonder-switch_-the-difference-between-limiting-your-life-and-living-your-dream-harris-iii
+title: The Wonder Switch_ The Difference Between Limiting Your Life and Living Your Dream - Harris III
+slug: the-wonder-switch_-the-difference-between-limiting-your-life-and-living-your-dream-harris-iii
 tags: 
   - book-summary
 excerpt: ""

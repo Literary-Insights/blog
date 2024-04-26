@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Holy Grail of Investing_ The World's Greatest Investors Reveal Their Ultimate Strategies for Financial Freedom - Tony Robbins & Christopher Zook
-slug: deep-summary-the-holy-grail-of-investing_-the-world-s-greatest-investors-reveal-their-ultimate-strategies-for-financial-freedom-tony-robbins-christopher-zook
+title: The Holy Grail of Investing_ The World's Greatest Investors Reveal Their Ultimate Strategies for Financial Freedom - Tony Robbins & Christopher Zook
+slug: the-holy-grail-of-investing_-the-world-s-greatest-investors-reveal-their-ultimate-strategies-for-financial-freedom-tony-robbins-christopher-zook
 tags: 
   - book-summary
 excerpt: ""

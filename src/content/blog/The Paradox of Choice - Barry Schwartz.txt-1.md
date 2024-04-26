@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Paradox of Choice - Barry Schwartz
-slug: deep-summary-the-paradox-of-choice-barry-schwartz
+title: The Paradox of Choice - Barry Schwartz
+slug: the-paradox-of-choice-barry-schwartz
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Book of Human Emotions - Tiffany Watt Smith
-slug: deep-summary-the-book-of-human-emotions-tiffany-watt-smith
+title: The Book of Human Emotions - Tiffany Watt Smith
+slug: the-book-of-human-emotions-tiffany-watt-smith
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Big Short_ Inside the Doomsday Machine - Michael Lewis
-slug: deep-summary-the-big-short_-inside-the-doomsday-machine-michael-lewis
+title: The Big Short_ Inside the Doomsday Machine - Michael Lewis
+slug: the-big-short_-inside-the-doomsday-machine-michael-lewis
 tags: 
   - book-summary
 excerpt: ""

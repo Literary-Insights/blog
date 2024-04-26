@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Think Like an Entrepreneur, Act Like a CEO - Beverly E. Jones
-slug: deep-summary-think-like-an-entrepreneur-act-like-a-ceo-beverly-e-jones
+title: Think Like an Entrepreneur, Act Like a CEO - Beverly E. Jones
+slug: think-like-an-entrepreneur-act-like-a-ceo-beverly-e-jones
 tags: 
   - book-summary
 excerpt: ""

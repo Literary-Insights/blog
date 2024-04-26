@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Bias That Divides Us - Keith E. Stanovich
-slug: deep-summary-the-bias-that-divides-us-keith-e-stanovich
+title: The Bias That Divides Us - Keith E. Stanovich
+slug: the-bias-that-divides-us-keith-e-stanovich
 tags: 
   - book-summary
 excerpt: ""

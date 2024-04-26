@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Innovation Mindset_ Eight Essential Steps to Transform Any Industry - Lorraine Marchand
-slug: deep-summary-the-innovation-mindset_-eight-essential-steps-to-transform-any-industry-lorraine-marchand
+title: The Innovation Mindset_ Eight Essential Steps to Transform Any Industry - Lorraine Marchand
+slug: the-innovation-mindset_-eight-essential-steps-to-transform-any-industry-lorraine-marchand
 tags: 
   - book-summary
 excerpt: ""

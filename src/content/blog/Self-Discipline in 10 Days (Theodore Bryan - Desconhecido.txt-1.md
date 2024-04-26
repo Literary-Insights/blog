@@ -1,6 +1,6 @@
 ---
-title: Self-Discipline in 10 Days (Theodore Bryan - Desconhecido
-slug: self-discipline-in-10-days-theodore-bryan-desconhecido
+title: Self-Discipline in 10 Days (Theodore Bryan
+slug: self-discipline-in-10-days-theodore-bryan
 tags: 
   - book-summary
 excerpt: ""

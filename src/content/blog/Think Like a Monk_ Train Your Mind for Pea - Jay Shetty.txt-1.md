@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Think Like a Monk_ Train Your Mind for Pea - Jay Shetty
-slug: deep-summary-think-like-a-monk_-train-your-mind-for-pea-jay-shetty
+title: Think Like a Monk_ Train Your Mind for Pea - Jay Shetty
+slug: think-like-a-monk_-train-your-mind-for-pea-jay-shetty
 tags: 
   - book-summary
 excerpt: ""

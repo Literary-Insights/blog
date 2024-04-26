@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Shape of a Life - Shing-Tung Yau
-slug: deep-summary-the-shape-of-a-life-shing-tung-yau
+title: The Shape of a Life - Shing-Tung Yau
+slug: the-shape-of-a-life-shing-tung-yau
 tags: 
   - book-summary
 excerpt: ""

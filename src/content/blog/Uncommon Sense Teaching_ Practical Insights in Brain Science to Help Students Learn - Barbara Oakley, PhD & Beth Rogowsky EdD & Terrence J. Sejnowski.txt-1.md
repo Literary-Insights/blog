@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Uncommon Sense Teaching_ Practical Insights in Brain Science to Help Students Learn - Barbara Oakley, PhD & Beth Rogowsky EdD & Terrence J. Sejnowski
-slug: deep-summary-uncommon-sense-teaching_-practical-insights-in-brain-science-to-help-students-learn-barbara-oakley-phd-beth-rogowsky-edd-terrence-j-sejnowski
+title: Uncommon Sense Teaching_ Practical Insights in Brain Science to Help Students Learn - Barbara Oakley, PhD & Beth Rogowsky EdD & Terrence J. Sejnowski
+slug: uncommon-sense-teaching_-practical-insights-in-brain-science-to-help-students-learn-barbara-oakley-phd-beth-rogowsky-edd-terrence-j-sejnowski
 tags: 
   - book-summary
 excerpt: ""

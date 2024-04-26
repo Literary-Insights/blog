@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Voltage Effect_ How to Make Good Ideas Great and Great Ideas Scale - John A. List
-slug: deep-summary-the-voltage-effect_-how-to-make-good-ideas-great-and-great-ideas-scale-john-a-list
+title: The Voltage Effect_ How to Make Good Ideas Great and Great Ideas Scale - John A. List
+slug: the-voltage-effect_-how-to-make-good-ideas-great-and-great-ideas-scale-john-a-list
 tags: 
   - book-summary
 excerpt: ""

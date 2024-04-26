@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Theory of Moral Sentiments - Adam Smith
-slug: deep-summary-the-theory-of-moral-sentiments-adam-smith
+title: The Theory of Moral Sentiments - Adam Smith
+slug: the-theory-of-moral-sentiments-adam-smith
 tags: 
   - book-summary
 excerpt: ""

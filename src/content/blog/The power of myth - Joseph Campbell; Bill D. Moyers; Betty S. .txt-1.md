@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The power of myth - Joseph Campbell; Bill D. Moyers; Betty S. 
-slug: deep-summary-the-power-of-myth-joseph-campbell-bill-d-moyers-betty-s-
+title: The power of myth - Joseph Campbell; Bill D. Moyers; Betty S. 
+slug: the-power-of-myth-joseph-campbell-bill-d-moyers-betty-s-
 tags: 
   - book-summary
 excerpt: ""

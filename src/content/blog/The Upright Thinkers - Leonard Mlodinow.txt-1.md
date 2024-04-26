@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Upright Thinkers - Leonard Mlodinow
-slug: deep-summary-the-upright-thinkers-leonard-mlodinow
+title: The Upright Thinkers - Leonard Mlodinow
+slug: the-upright-thinkers-leonard-mlodinow
 tags: 
   - book-summary
 excerpt: ""

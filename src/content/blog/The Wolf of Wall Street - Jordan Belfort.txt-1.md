@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Wolf of Wall Street - Jordan Belfort
-slug: deep-summary-the-wolf-of-wall-street-jordan-belfort
+title: The Wolf of Wall Street - Jordan Belfort
+slug: the-wolf-of-wall-street-jordan-belfort
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Measure of Civilization - Morris, Ian
-slug: deep-summary-the-measure-of-civilization-morris-ian
+title: The Measure of Civilization - Morris, Ian
+slug: the-measure-of-civilization-morris-ian
 tags: 
   - book-summary
 excerpt: ""

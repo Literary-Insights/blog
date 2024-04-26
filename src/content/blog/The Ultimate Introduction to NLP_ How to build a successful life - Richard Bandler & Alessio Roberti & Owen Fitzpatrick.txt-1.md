@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Ultimate Introduction to NLP_ How to build a successful life - Richard Bandler & Alessio Roberti & Owen Fitzpatrick
-slug: deep-summary-the-ultimate-introduction-to-nlp_-how-to-build-a-successful-life-richard-bandler-alessio-roberti-owen-fitzpatrick
+title: The Ultimate Introduction to NLP_ How to build a successful life - Richard Bandler & Alessio Roberti & Owen Fitzpatrick
+slug: the-ultimate-introduction-to-nlp_-how-to-build-a-successful-life-richard-bandler-alessio-roberti-owen-fitzpatrick
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - VOCÊ NÃO VAI SER A MESMA PESSOA EM 6 MESES - LIVE 001 - Português (gerada automaticamente)
-slug: deep-summary-você-não-vai-ser-a-mesma-pessoa-em-6-meses-live-001-português-gerada-automaticamente-
+title: VOCÊ NÃO VAI SER A MESMA PESSOA EM 6 MESES - LIVE 001 - Português (gerada automaticamente)
+slug: você-não-vai-ser-a-mesma-pessoa-em-6-meses-live-001-português-gerada-automaticamente-
 tags: 
   - book-summary
 excerpt: ""

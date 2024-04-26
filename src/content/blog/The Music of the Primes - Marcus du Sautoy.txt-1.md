@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Music of the Primes - Marcus du Sautoy
-slug: deep-summary-the-music-of-the-primes-marcus-du-sautoy
+title: The Music of the Primes - Marcus du Sautoy
+slug: the-music-of-the-primes-marcus-du-sautoy
 tags: 
   - book-summary
 excerpt: ""

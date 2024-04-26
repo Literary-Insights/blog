@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Essentials of Supply Chain Management_ New Business Concepts and Applications - Hokey Min
-slug: deep-summary-the-essentials-of-supply-chain-management_-new-business-concepts-and-applications-hokey-min
+title: The Essentials of Supply Chain Management_ New Business Concepts and Applications - Hokey Min
+slug: the-essentials-of-supply-chain-management_-new-business-concepts-and-applications-hokey-min
 tags: 
   - book-summary
 excerpt: ""

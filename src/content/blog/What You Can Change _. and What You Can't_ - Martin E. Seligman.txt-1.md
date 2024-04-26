@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - What You Can Change _. and What You Can't_ - Martin E. Seligman
-slug: deep-summary-what-you-can-change-_-and-what-you-can-t_-martin-e-seligman
+title: What You Can Change _. and What You Can't_ - Martin E. Seligman
+slug: what-you-can-change-_-and-what-you-can-t_-martin-e-seligman
 tags: 
   - book-summary
 excerpt: ""

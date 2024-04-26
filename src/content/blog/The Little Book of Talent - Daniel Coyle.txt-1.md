@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Little Book of Talent - Daniel Coyle
-slug: deep-summary-the-little-book-of-talent-daniel-coyle
+title: The Little Book of Talent - Daniel Coyle
+slug: the-little-book-of-talent-daniel-coyle
 tags: 
   - book-summary
 excerpt: ""

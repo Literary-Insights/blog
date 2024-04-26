@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Greatest Trade Ever_ The Behind-the-Scenes Story of How John Paulson Defied Wall Street and Made Financial History - Gregory Zuckerman
-slug: deep-summary-the-greatest-trade-ever_-the-behind-the-scenes-story-of-how-john-paulson-defied-wall-street-and-made-financial-history-gregory-zuckerman
+title: The Greatest Trade Ever_ The Behind-the-Scenes Story of How John Paulson Defied Wall Street and Made Financial History - Gregory Zuckerman
+slug: the-greatest-trade-ever_-the-behind-the-scenes-story-of-how-john-paulson-defied-wall-street-and-made-financial-history-gregory-zuckerman
 tags: 
   - book-summary
 excerpt: ""

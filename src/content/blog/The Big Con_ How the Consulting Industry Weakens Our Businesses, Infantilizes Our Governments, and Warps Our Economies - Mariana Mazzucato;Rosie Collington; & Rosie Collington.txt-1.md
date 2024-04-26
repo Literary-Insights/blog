@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Big Con_ How the Consulting Industry Weakens Our Businesses, Infantilizes Our Governments, and Warps Our Economies - Mariana Mazzucato;Rosie Collington; & Rosie Collington
-slug: deep-summary-the-big-con_-how-the-consulting-industry-weakens-our-businesses-infantilizes-our-governments-and-warps-our-economies-mariana-mazzucato-rosie-collington-rosie-collington
+title: The Big Con_ How the Consulting Industry Weakens Our Businesses, Infantilizes Our Governments, and Warps Our Economies - Mariana Mazzucato;Rosie Collington; & Rosie Collington
+slug: the-big-con_-how-the-consulting-industry-weakens-our-businesses-infantilizes-our-governments-and-warps-our-economies-mariana-mazzucato-rosie-collington-rosie-collington
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Your First Million - Arlan Hamilton & Rachel L. Nelson
-slug: deep-summary-your-first-million-arlan-hamilton-rachel-l-nelson
+title: Your First Million - Arlan Hamilton & Rachel L. Nelson
+slug: your-first-million-arlan-hamilton-rachel-l-nelson
 tags: 
   - book-summary
 excerpt: ""

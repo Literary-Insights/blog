@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Telomere Effect - Dr. Elizabeth Blackburn
-slug: deep-summary-the-telomere-effect-dr-elizabeth-blackburn
+title: The Telomere Effect - Dr. Elizabeth Blackburn
+slug: the-telomere-effect-dr-elizabeth-blackburn
 tags: 
   - book-summary
 excerpt: ""

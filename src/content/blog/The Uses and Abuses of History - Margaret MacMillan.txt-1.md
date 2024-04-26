@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Uses and Abuses of History - Margaret MacMillan
-slug: deep-summary-the-uses-and-abuses-of-history-margaret-macmillan
+title: The Uses and Abuses of History - Margaret MacMillan
+slug: the-uses-and-abuses-of-history-margaret-macmillan
 tags: 
   - book-summary
 excerpt: ""

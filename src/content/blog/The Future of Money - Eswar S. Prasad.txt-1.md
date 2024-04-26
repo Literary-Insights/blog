@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Future of Money - Eswar S. Prasad
-slug: deep-summary-the-future-of-money-eswar-s-prasad
+title: The Future of Money - Eswar S. Prasad
+slug: the-future-of-money-eswar-s-prasad
 tags: 
   - book-summary
 excerpt: ""

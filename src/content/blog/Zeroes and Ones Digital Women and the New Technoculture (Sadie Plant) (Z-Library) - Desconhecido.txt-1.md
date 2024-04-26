@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Zeroes and Ones Digital Women and the New Technoculture (Sadie Plant) 
-slug: deep-summary-zeroes-and-ones-digital-women-and-the-new-technoculture-sadie-plantdesconhecido
+title: Zeroes and Ones Digital Women and the New Technoculture (Sadie Plant) 
+slug: zeroes-and-ones-digital-women-and-the-new-technoculture-sadie-plantdesconhecido
 tags: 
   - book-summary
 excerpt: ""

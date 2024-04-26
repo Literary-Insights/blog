@@ -1,6 +1,6 @@
 ---
-title: Bullshit Jobs A Theory (David Graeber) (Z- - Desconhecido
-slug: bullshit-jobs-a-theory-david-graeber-z-desconhecido
+title: Bullshit Jobs A Theory (David Graeber) (Z-
+slug: bullshit-jobs-a-theory-david-graeber-z
 tags: 
   - book-summary
 excerpt: ""

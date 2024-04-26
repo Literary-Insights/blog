@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Leading Brain - Friederike Fabritius
-slug: deep-summary-the-leading-brain-friederike-fabritius
+title: The Leading Brain - Friederike Fabritius
+slug: the-leading-brain-friederike-fabritius
 tags: 
   - book-summary
 excerpt: ""

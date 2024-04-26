@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - What Should We Be Worried About_ _ Real Scenarios That Keep Scientists Up at Night (9780062296245) - Brockman, John
-slug: deep-summary-what-should-we-be-worried-about_-_-real-scenarios-that-keep-scientists-up-at-night-9780062296245-brockman-john
+title: What Should We Be Worried About_ _ Real Scenarios That Keep Scientists Up at Night (9780062296245) - Brockman, John
+slug: what-should-we-be-worried-about_-_-real-scenarios-that-keep-scientists-up-at-night-9780062296245-brockman-john
 tags: 
   - book-summary
 excerpt: ""

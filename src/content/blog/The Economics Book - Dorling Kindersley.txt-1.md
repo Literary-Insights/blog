@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Economics Book - Dorling Kindersley
-slug: deep-summary-the-economics-book-dorling-kindersley
+title: The Economics Book - Dorling Kindersley
+slug: the-economics-book-dorling-kindersley
 tags: 
   - book-summary
 excerpt: ""

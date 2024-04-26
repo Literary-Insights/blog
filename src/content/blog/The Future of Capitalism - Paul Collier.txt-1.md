@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Future of Capitalism - Paul Collier
-slug: deep-summary-the-future-of-capitalism-paul-collier
+title: The Future of Capitalism - Paul Collier
+slug: the-future-of-capitalism-paul-collier
 tags: 
   - book-summary
 excerpt: ""

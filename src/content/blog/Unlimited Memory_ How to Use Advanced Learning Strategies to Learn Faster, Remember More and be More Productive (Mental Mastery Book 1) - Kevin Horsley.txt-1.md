@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Unlimited Memory_ How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive (Mental Mastery Book 1) - Kevin Horsley
-slug: deep-summary-unlimited-memory_-how-to-use-advanced-learning-strategies-to-learn-faster-remember-more-and-be-more-productive-mental-mastery-book-1-kevin-horsley
+title: Unlimited Memory_ How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive (Mental Mastery Book 1) - Kevin Horsley
+slug: unlimited-memory_-how-to-use-advanced-learning-strategies-to-learn-faster-remember-more-and-be-more-productive-mental-mastery-book-1-kevin-horsley
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Three Dimensions of Freedom - Billy Bragg
-slug: deep-summary-the-three-dimensions-of-freedom-billy-bragg
+title: The Three Dimensions of Freedom - Billy Bragg
+slug: the-three-dimensions-of-freedom-billy-bragg
 tags: 
   - book-summary
 excerpt: ""

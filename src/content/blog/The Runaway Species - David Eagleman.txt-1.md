@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Runaway Species - David Eagleman
-slug: deep-summary-the-runaway-species-david-eagleman
+title: The Runaway Species - David Eagleman
+slug: the-runaway-species-david-eagleman
 tags: 
   - book-summary
 excerpt: ""

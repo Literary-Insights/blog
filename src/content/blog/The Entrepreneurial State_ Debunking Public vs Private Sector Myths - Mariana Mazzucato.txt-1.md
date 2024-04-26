@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Entrepreneurial State_ Debunking Public vs Private Sector Myths - Mariana Mazzucato
-slug: deep-summary-the-entrepreneurial-state_-debunking-public-vs-private-sector-myths-mariana-mazzucato
+title: The Entrepreneurial State_ Debunking Public vs Private Sector Myths - Mariana Mazzucato
+slug: the-entrepreneurial-state_-debunking-public-vs-private-sector-myths-mariana-mazzucato
 tags: 
   - book-summary
 excerpt: ""

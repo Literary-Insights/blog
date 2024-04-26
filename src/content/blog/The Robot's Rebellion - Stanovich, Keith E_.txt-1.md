@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Robot's Rebellion - Stanovich, Keith E_
-slug: deep-summary-the-robot-s-rebellion-stanovich-keith-e_
+title: The Robot's Rebellion - Stanovich, Keith E_
+slug: the-robot-s-rebellion-stanovich-keith-e_
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - What to Say When You Talk to Your Self - Dr. Shad Helmstetter
-slug: deep-summary-what-to-say-when-you-talk-to-your-self-dr-shad-helmstetter
+title: What to Say When You Talk to Your Self - Dr. Shad Helmstetter
+slug: what-to-say-when-you-talk-to-your-self-dr-shad-helmstetter
 tags: 
   - book-summary
 excerpt: ""

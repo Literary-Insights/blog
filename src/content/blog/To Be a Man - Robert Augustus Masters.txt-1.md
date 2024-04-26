@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - To Be a Man - Robert Augustus Masters
-slug: deep-summary-to-be-a-man-robert-augustus-masters
+title: To Be a Man - Robert Augustus Masters
+slug: to-be-a-man-robert-augustus-masters
 tags: 
   - book-summary
 excerpt: ""

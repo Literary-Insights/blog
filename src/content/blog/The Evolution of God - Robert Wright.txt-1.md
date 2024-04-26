@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Evolution of God - Robert Wright
-slug: deep-summary-the-evolution-of-god-robert-wright
+title: The Evolution of God - Robert Wright
+slug: the-evolution-of-god-robert-wright
 tags: 
   - book-summary
 excerpt: ""

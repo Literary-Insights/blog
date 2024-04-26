@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Case for God (Karen Armstrong) 
-slug: deep-summary-the-case-for-god-karen-armstrongdesconhecido
+title: The Case for God (Karen Armstrong) 
+slug: the-case-for-god-karen-armstrongdesconhecido
 tags: 
   - book-summary
 excerpt: ""

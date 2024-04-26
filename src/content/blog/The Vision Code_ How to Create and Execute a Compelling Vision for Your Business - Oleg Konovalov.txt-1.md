@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Vision Code_ How to Create and Execute a Compelling Vision for Your Business - Oleg Konovalov
-slug: deep-summary-the-vision-code_-how-to-create-and-execute-a-compelling-vision-for-your-business-oleg-konovalov
+title: The Vision Code_ How to Create and Execute a Compelling Vision for Your Business - Oleg Konovalov
+slug: the-vision-code_-how-to-create-and-execute-a-compelling-vision-for-your-business-oleg-konovalov
 tags: 
   - book-summary
 excerpt: ""

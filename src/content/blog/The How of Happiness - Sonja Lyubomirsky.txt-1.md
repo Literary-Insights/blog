@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The How of Happiness - Sonja Lyubomirsky
-slug: deep-summary-the-how-of-happiness-sonja-lyubomirsky
+title: The How of Happiness - Sonja Lyubomirsky
+slug: the-how-of-happiness-sonja-lyubomirsky
 tags: 
   - book-summary
 excerpt: ""

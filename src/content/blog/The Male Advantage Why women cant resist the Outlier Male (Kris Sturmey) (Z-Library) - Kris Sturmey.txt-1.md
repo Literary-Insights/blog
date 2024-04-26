@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Male Advantage Why women cant resist the Outlier Male (Kris Sturmey)  - Kris Sturmey
-slug: deep-summary-the-male-advantage-why-women-cant-resist-the-outlier-male-kris-sturmeykris-sturmey
+title: The Male Advantage Why women cant resist the Outlier Male (Kris Sturmey)  - Kris Sturmey
+slug: the-male-advantage-why-women-cant-resist-the-outlier-male-kris-sturmeykris-sturmey
 tags: 
   - book-summary
 excerpt: ""

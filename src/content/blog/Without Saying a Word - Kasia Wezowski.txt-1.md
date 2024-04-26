@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Without Saying a Word - Kasia Wezowski
-slug: deep-summary-without-saying-a-word-kasia-wezowski
+title: Without Saying a Word - Kasia Wezowski
+slug: without-saying-a-word-kasia-wezowski
 tags: 
   - book-summary
 excerpt: ""

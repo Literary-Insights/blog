@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Understanding Digital Humanities (David M. Berry) 
-slug: deep-summary-understanding-digital-humanities-david-m-berrydesconhecido
+title: Understanding Digital Humanities (David M. Berry) 
+slug: understanding-digital-humanities-david-m-berrydesconhecido
 tags: 
   - book-summary
 excerpt: ""

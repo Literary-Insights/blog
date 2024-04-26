@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The World for Sale_ Money, Power, and the Traders Who Barter the Earth’s Resources - Blas, Javier & Farchy, Jack
-slug: deep-summary-the-world-for-sale_-money-power-and-the-traders-who-barter-the-earth-s-resources-blas-javier-farchy-jack
+title: The World for Sale_ Money, Power, and the Traders Who Barter the Earth’s Resources - Blas, Javier & Farchy, Jack
+slug: the-world-for-sale_-money-power-and-the-traders-who-barter-the-earth-s-resources-blas-javier-farchy-jack
 tags: 
   - book-summary
 excerpt: ""

@@ -1,5 +1,5 @@
 ---
-title: DEEP SUMMARY - The Magic of Reality - Dawkins, Richard
+title: The Magic of Reality - Dawkins, Richard
 slug: the-magic-of-reality-dawkins-richard 
 tags: 
   - book-summary

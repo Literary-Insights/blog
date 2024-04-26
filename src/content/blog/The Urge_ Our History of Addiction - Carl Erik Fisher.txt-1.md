@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Urge_ Our History of Addiction - Carl Erik Fisher
-slug: deep-summary-the-urge_-our-history-of-addiction-carl-erik-fisher
+title: The Urge_ Our History of Addiction - Carl Erik Fisher
+slug: the-urge_-our-history-of-addiction-carl-erik-fisher
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Mom Test_ how to talk to customers and learn if your business is a good idea when everybody is lying to you - Rob Fitzpatrick
-slug: deep-summary-the-mom-test_-how-to-talk-to-customers-and-learn-if-your-business-is-a-good-idea-when-everybody-is-lying-to-you-rob-fitzpatrick
+title: The Mom Test_ how to talk to customers and learn if your business is a good idea when everybody is lying to you - Rob Fitzpatrick
+slug: the-mom-test_-how-to-talk-to-customers-and-learn-if-your-business-is-a-good-idea-when-everybody-is-lying-to-you-rob-fitzpatrick
 tags: 
   - book-summary
 excerpt: ""

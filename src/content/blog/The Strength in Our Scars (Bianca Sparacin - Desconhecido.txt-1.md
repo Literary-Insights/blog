@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Strength in Our Scars (Bianca Sparacin - Desconhecido
-slug: deep-summary-the-strength-in-our-scars-bianca-sparacin-desconhecido
+title: The Strength in Our Scars (Bianca Sparacin
+slug: the-strength-in-our-scars-bianca-sparacin
 tags: 
   - book-summary
 excerpt: ""

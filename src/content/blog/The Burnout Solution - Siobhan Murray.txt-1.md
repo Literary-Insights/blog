@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Burnout Solution - Siobhan Murray
-slug: DEEP-SUMMARY-the-burnout-solution-siobhan-murray
+title: The Burnout Solution - Siobhan Murray
+slug: the-burnout-solution-siobhan-murray
 tags: 
   - book-summary
 excerpt: ""

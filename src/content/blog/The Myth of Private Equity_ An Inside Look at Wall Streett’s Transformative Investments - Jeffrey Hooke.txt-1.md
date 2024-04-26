@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Myth of Private Equity_ An Inside Look at Wall Streett’s Transformative Investments - Jeffrey Hooke
-slug: deep-summary-the-myth-of-private-equity_-an-inside-look-at-wall-streett-s-transformative-investments-jeffrey-hooke
+title: The Myth of Private Equity_ An Inside Look at Wall Streett’s Transformative Investments - Jeffrey Hooke
+slug: the-myth-of-private-equity_-an-inside-look-at-wall-streett-s-transformative-investments-jeffrey-hooke
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - You’re Not Alone_ The Only Book You'll Ever Need to Overcome Anxiety and Depression - Desconhecido
-slug: deep-summary-you-re-not-alone_-the-only-book-you-ll-ever-need-to-overcome-anxiety-and-depression-desconhecido
+title: You’re Not Alone_ The Only Book You'll Ever Need to Overcome Anxiety and Depression
+slug: you-re-not-alone_-the-only-book-you-ll-ever-need-to-overcome-anxiety-and-depression
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=you-re-not-alone_-the-only-book-you-ll-ever-need-to-overcome-anxiety-and-depression-desconhecido)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=you-re-not-alone_-the-only-book-you-ll-ever-need-to-overcome-anxiety-and-depression)
 
 
 

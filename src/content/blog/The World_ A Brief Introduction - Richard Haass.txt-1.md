@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The World_ A Brief Introduction - Richard Haass
-slug: deep-summary-the-world_-a-brief-introduction-richard-haass
+title: The World_ A Brief Introduction - Richard Haass
+slug: the-world_-a-brief-introduction-richard-haass
 tags: 
   - book-summary
 excerpt: ""

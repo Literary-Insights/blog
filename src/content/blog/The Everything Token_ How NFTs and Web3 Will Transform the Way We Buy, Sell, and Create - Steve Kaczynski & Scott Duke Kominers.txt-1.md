@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Everything Token_ How NFTs and Web3 Will Transform the Way We Buy, Sell, and Create - Steve Kaczynski & Scott Duke Kominers
-slug: deep-summary-the-everything-token_-how-nfts-and-web3-will-transform-the-way-we-buy-sell-and-create-steve-kaczynski-scott-duke-kominers
+title: The Everything Token_ How NFTs and Web3 Will Transform the Way We Buy, Sell, and Create - Steve Kaczynski & Scott Duke Kominers
+slug: the-everything-token_-how-nfts-and-web3-will-transform-the-way-we-buy-sell-and-create-steve-kaczynski-scott-duke-kominers
 tags: 
   - book-summary
 excerpt: ""

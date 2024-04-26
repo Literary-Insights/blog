@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Mind-Gut Connection - Emeran Mayer
-slug: deep-summary-the-mind-gut-connection-emeran-mayer
+title: The Mind-Gut Connection - Emeran Mayer
+slug: the-mind-gut-connection-emeran-mayer
 tags: 
   - book-summary
 excerpt: ""

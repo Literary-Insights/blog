@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Wheat Belly 10-Day Grain Detox - William Davis
-slug: deep-summary-wheat-belly-10-day-grain-detox-william-davis
+title: Wheat Belly 10-Day Grain Detox - William Davis
+slug: wheat-belly-10-day-grain-detox-william-davis
 tags: 
   - book-summary
 excerpt: ""

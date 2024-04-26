@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Waking, Dreaming, Being_ Self and Consciousness in Neuroscience, Meditation, and Philosophy - Thompson, Evan
-slug: deep-summary-waking-dreaming-being_-self-and-consciousness-in-neuroscience-meditation-and-philosophy-thompson-evan
+title: Waking, Dreaming, Being_ Self and Consciousness in Neuroscience, Meditation, and Philosophy - Thompson, Evan
+slug: waking-dreaming-being_-self-and-consciousness-in-neuroscience-meditation-and-philosophy-thompson-evan
 tags: 
   - book-summary
 excerpt: ""

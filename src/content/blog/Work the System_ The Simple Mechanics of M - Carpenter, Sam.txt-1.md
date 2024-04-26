@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Work the System_ The Simple Mechanics of M - Carpenter, Sam
-slug: deep-summary-work-the-system_-the-simple-mechanics-of-m-carpenter-sam
+title: Work the System_ The Simple Mechanics of M - Carpenter, Sam
+slug: work-the-system_-the-simple-mechanics-of-m-carpenter-sam
 tags: 
   - book-summary
 excerpt: ""

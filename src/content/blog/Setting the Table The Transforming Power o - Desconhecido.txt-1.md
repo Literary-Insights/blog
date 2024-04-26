@@ -1,6 +1,6 @@
 ---
-title: Setting the Table The Transforming Power o - Desconhecido
-slug: setting-the-table-the-transforming-power-o-desconhecido
+title: Setting the Table The Transforming Power o
+slug: setting-the-table-the-transforming-power-o
 tags: 
   - book-summary
 excerpt: ""

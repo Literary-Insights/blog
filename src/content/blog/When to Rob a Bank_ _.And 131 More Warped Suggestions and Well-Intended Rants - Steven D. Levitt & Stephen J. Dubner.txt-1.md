@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - When to Rob a Bank_ _.And 131 More Warped Suggestions and Well-Intended Rants - Steven D. Levitt & Stephen J. Dubner
-slug: deep-summary-when-to-rob-a-bank_-_-and-131-more-warped-suggestions-and-well-intended-rants-steven-d-levitt-stephen-j-dubner
+title: When to Rob a Bank_ _.And 131 More Warped Suggestions and Well-Intended Rants - Steven D. Levitt & Stephen J. Dubner
+slug: when-to-rob-a-bank_-_-and-131-more-warped-suggestions-and-well-intended-rants-steven-d-levitt-stephen-j-dubner
 tags: 
   - book-summary
 excerpt: ""

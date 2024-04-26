@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Resilience Workbook_ Essential Skills - Glenn R. Schiraldi
-slug: deep-summary-the-resilience-workbook_-essential-skills-glenn-r-schiraldi
+title: The Resilience Workbook_ Essential Skills - Glenn R. Schiraldi
+slug: the-resilience-workbook_-essential-skills-glenn-r-schiraldi
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Digital Republic_ On Freedom and Democracy in the 21st Century - Jamie Susskind
-slug: deep-summary-the-digital-republic_-on-freedom-and-democracy-in-the-21st-century-jamie-susskind
+title: The Digital Republic_ On Freedom and Democracy in the 21st Century - Jamie Susskind
+slug: the-digital-republic_-on-freedom-and-democracy-in-the-21st-century-jamie-susskind
 tags: 
   - book-summary
 excerpt: ""

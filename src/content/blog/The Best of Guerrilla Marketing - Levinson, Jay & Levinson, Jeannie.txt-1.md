@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Best of Guerrilla Marketing - Levinson, Jay & Levinson, Jeannie
-slug: deep-summary-the-best-of-guerrilla-marketing-levinson-jay-levinson-jeannie
+title: The Best of Guerrilla Marketing - Levinson, Jay & Levinson, Jeannie
+slug: the-best-of-guerrilla-marketing-levinson-jay-levinson-jeannie
 tags: 
   - book-summary
 excerpt: ""

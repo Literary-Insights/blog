@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Younger You Unlock the Hidden Power of Your Brain to Look and Feel 15 Years Younger (Eric R. Braverman) 
-slug: deep-summary-younger-you-unlock-the-hidden-power-of-your-brain-to-look-and-feel-15-years-younger-eric-r-bravermandesconhecido
+title: Younger You Unlock the Hidden Power of Your Brain to Look and Feel 15 Years Younger (Eric R. Braverman) 
+slug: younger-you-unlock-the-hidden-power-of-your-brain-to-look-and-feel-15-years-younger-eric-r-bravermandesconhecido
 tags: 
   - book-summary
 excerpt: ""

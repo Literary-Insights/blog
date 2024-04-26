@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Ukraine and the Art of Strategy - Lawrence Freedman;
-slug: deep-summary-ukraine-and-the-art-of-strategy-lawrence-freedman-
+title: Ukraine and the Art of Strategy - Lawrence Freedman;
+slug: ukraine-and-the-art-of-strategy-lawrence-freedman-
 tags: 
   - book-summary
 excerpt: ""

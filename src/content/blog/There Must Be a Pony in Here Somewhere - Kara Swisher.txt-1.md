@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - There Must Be a Pony in Here Somewhere - Kara Swisher
-slug: deep-summary-there-must-be-a-pony-in-here-somewhere-kara-swisher
+title: There Must Be a Pony in Here Somewhere - Kara Swisher
+slug: there-must-be-a-pony-in-here-somewhere-kara-swisher
 tags: 
   - book-summary
 excerpt: ""

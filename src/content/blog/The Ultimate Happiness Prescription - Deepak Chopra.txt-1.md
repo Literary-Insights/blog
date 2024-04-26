@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Ultimate Happiness Prescription - Deepak Chopra
-slug: deep-summary-the-ultimate-happiness-prescription-deepak-chopra
+title: The Ultimate Happiness Prescription - Deepak Chopra
+slug: the-ultimate-happiness-prescription-deepak-chopra
 tags: 
   - book-summary
 excerpt: ""

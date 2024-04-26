@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Universe in a Nutshell (Stephen W. Hawking, Stephen Hawking)  - eurotrash
-slug: deep-summary-the-universe-in-a-nutshell-stephen-w-hawking-stephen-hawkingeurotrash
+title: The Universe in a Nutshell (Stephen W. Hawking, Stephen Hawking)  - eurotrash
+slug: the-universe-in-a-nutshell-stephen-w-hawking-stephen-hawkingeurotrash
 tags: 
   - book-summary
 excerpt: ""

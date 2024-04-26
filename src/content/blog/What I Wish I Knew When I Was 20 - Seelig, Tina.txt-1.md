@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - What I Wish I Knew When I Was 20 - Seelig, Tina
-slug: deep-summary-what-i-wish-i-knew-when-i-was-20-seelig-tina
+title: What I Wish I Knew When I Was 20 - Seelig, Tina
+slug: what-i-wish-i-knew-when-i-was-20-seelig-tina
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Why Leaders Lie - Mearsheimer, John J_
-slug: deep-summary-why-leaders-lie-mearsheimer-john-j_
+title: Why Leaders Lie - Mearsheimer, John J_
+slug: why-leaders-lie-mearsheimer-john-j_
 tags: 
   - book-summary
 excerpt: ""

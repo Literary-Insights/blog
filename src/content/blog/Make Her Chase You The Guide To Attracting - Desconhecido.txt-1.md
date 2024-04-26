@@ -1,6 +1,6 @@
 ---
-title: Make Her Chase You The Guide To Attracting - Desconhecido
-slug: make-her-chase-you-the-guide-to-attracting-desconhecido
+title: Make Her Chase You The Guide To Attracting
+slug: make-her-chase-you-the-guide-to-attracting
 tags: 
   - book-summary
 excerpt: ""

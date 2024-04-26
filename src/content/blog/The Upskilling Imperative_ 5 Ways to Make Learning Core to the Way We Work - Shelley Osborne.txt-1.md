@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Upskilling Imperative_ 5 Ways to Make Learning Core to the Way We Work - Shelley Osborne
-slug: deep-summary-the-upskilling-imperative_-5-ways-to-make-learning-core-to-the-way-we-work-shelley-osborne
+title: The Upskilling Imperative_ 5 Ways to Make Learning Core to the Way We Work - Shelley Osborne
+slug: the-upskilling-imperative_-5-ways-to-make-learning-core-to-the-way-we-work-shelley-osborne
 tags: 
   - book-summary
 excerpt: ""

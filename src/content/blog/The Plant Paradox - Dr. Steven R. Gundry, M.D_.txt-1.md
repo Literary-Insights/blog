@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Plant Paradox - Dr. Steven R. Gundry, M.D_
-slug: deep-summary-the-plant-paradox-dr-steven-r-gundry-m-d_
+title: The Plant Paradox - Dr. Steven R. Gundry, M.D_
+slug: the-plant-paradox-dr-steven-r-gundry-m-d_
 tags: 
   - book-summary
 excerpt: ""

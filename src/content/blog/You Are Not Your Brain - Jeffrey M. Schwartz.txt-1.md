@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - You Are Not Your Brain - Jeffrey M. Schwartz
-slug: DEEP SUMMARY - you-are-not-your-brain-jeffrey-m-schwartz
+title: You Are Not Your Brain - Jeffrey M. Schwartz
+slug: you-are-not-your-brain-jeffrey-m-schwartz
 tags: 
   - book-summary
 excerpt: ""

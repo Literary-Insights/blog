@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Grieving Brain - Mary-Frances O'Connor
-slug: deep-summary-the-grieving-brain-mary-frances-o-connor
+title: The Grieving Brain - Mary-Frances O'Connor
+slug: the-grieving-brain-mary-frances-o-connor
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Woke Racism_ How a New Religion Has Betrayed Black America - John McWhorter
-slug: deep-summary-woke-racism_-how-a-new-religion-has-betrayed-black-america-john-mcwhorter
+title: Woke Racism_ How a New Religion Has Betrayed Black America - John McWhorter
+slug: woke-racism_-how-a-new-religion-has-betrayed-black-america-john-mcwhorter
 tags: 
   - book-summary
 excerpt: ""

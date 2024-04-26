@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Social Leap - William von Hippel
-slug: deep-summary-the-social-leap-william-von-hippel
+title: The Social Leap - William von Hippel
+slug: the-social-leap-william-von-hippel
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Forever Transaction - Robbie Kellman Baxter
-slug: deep-summary-the-forever-transaction-robbie-kellman-baxter
+title: The Forever Transaction - Robbie Kellman Baxter
+slug: the-forever-transaction-robbie-kellman-baxter
 tags: 
   - book-summary
 excerpt: ""

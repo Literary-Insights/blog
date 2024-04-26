@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - War for Eternity - Benjamin R. Teitelbaum
-slug: deep-summary-war-for-eternity-benjamin-r-teitelbaum
+title: War for Eternity - Benjamin R. Teitelbaum
+slug: war-for-eternity-benjamin-r-teitelbaum
 tags: 
   - book-summary
 excerpt: ""

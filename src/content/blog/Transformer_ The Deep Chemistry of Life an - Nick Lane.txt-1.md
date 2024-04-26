@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Transformer_ The Deep Chemistry of Life an - Nick Lane
-slug: deep-summary-transformer_-the-deep-chemistry-of-life-an-nick-lane
+title: Transformer_ The Deep Chemistry of Life an - Nick Lane
+slug: transformer_-the-deep-chemistry-of-life-an-nick-lane
 tags: 
   - book-summary
 excerpt: ""

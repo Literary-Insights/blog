@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Philosophy Book_ Big Ideas Simply Expl - Will Buckingham
-slug: deep-summary-the-philosophy-book_-big-ideas-simply-expl-will-buckingham
+title: The Philosophy Book_ Big Ideas Simply Expl - Will Buckingham
+slug: the-philosophy-book_-big-ideas-simply-expl-will-buckingham
 tags: 
   - book-summary
 excerpt: ""

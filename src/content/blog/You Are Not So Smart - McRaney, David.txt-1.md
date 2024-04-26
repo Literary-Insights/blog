@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - You Are Not So Smart - McRaney, David
-slug: deep-summary-you-are-not-so-smart-mcraney-david
+title: You Are Not So Smart - McRaney, David
+slug: you-are-not-so-smart-mcraney-david
 tags: 
   - book-summary
 excerpt: ""

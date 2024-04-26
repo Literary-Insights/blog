@@ -1,6 +1,6 @@
 ---
-title: Sports Analytics and Data Science - Desconhecido
-slug: sports-analytics-and-data-science-desconhecido
+title: Sports Analytics and Data Science
+slug: sports-analytics-and-data-science
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The New Fire_ War, Peace, and Democracy in the Age of AI - Ben Buchanan & Andrew Imbrie
-slug: deep-summary-the-new-fire_-war-peace-and-democracy-in-the-age-of-ai-ben-buchanan-andrew-imbrie
+title: The New Fire_ War, Peace, and Democracy in the Age of AI - Ben Buchanan & Andrew Imbrie
+slug: the-new-fire_-war-peace-and-democracy-in-the-age-of-ai-ben-buchanan-andrew-imbrie
 tags: 
   - book-summary
 excerpt: ""

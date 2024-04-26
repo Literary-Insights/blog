@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Mystery Method_ How to Get Beautiful W - Mystery
-slug: deep-summary-the-mystery-method_-how-to-get-beautiful-w-mystery
+title: The Mystery Method_ How to Get Beautiful W - Mystery
+slug: the-mystery-method_-how-to-get-beautiful-w-mystery
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The New Geography of Jobs - Enrico Moretti
-slug: deep-summary-the-new-geography-of-jobs-enrico-moretti
+title: The New Geography of Jobs - Enrico Moretti
+slug: the-new-geography-of-jobs-enrico-moretti
 tags: 
   - book-summary
 excerpt: ""

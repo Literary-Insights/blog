@@ -1,6 +1,6 @@
 ---
-title: No Man's Land Masculinity Maligned, Reimag - Desconhecido
-slug: no-man-s-land-masculinity-maligned-reimag-desconhecido
+title: No Man's Land Masculinity Maligned, Reimag
+slug: no-man-s-land-masculinity-maligned-reimag
 tags: 
   - book-summary
 excerpt: ""

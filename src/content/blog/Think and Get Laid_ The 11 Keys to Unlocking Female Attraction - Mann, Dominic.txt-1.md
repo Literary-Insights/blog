@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Think and Get Laid_ The 11 Keys to Unlocking Female Attraction - Mann, Dominic
-slug: deep-summary-think-and-get-laid_-the-11-keys-to-unlocking-female-attraction-mann-dominic
+title: Think and Get Laid_ The 11 Keys to Unlocking Female Attraction - Mann, Dominic
+slug: think-and-get-laid_-the-11-keys-to-unlocking-female-attraction-mann-dominic
 tags: 
   - book-summary
 excerpt: ""

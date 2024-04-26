@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Why Save the Bankers_ - Thomas Piketty
-slug: deep-summary-why-save-the-bankers_-thomas-piketty
+title: Why Save the Bankers_ - Thomas Piketty
+slug: why-save-the-bankers_-thomas-piketty
 tags: 
   - book-summary
 excerpt: ""

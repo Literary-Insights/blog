@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Your Body is Your Gym_ Use Your Bodyweight - Peter Paulson
-slug: deep-summary-your-body-is-your-gym_-use-your-bodyweight-peter-paulson
+title: Your Body is Your Gym_ Use Your Bodyweight - Peter Paulson
+slug: your-body-is-your-gym_-use-your-bodyweight-peter-paulson
 tags: 
   - book-summary
 excerpt: ""

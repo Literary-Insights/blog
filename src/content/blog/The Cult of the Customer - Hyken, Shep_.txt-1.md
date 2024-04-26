@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Cult of the Customer - Hyken, Shep_
-slug: DEEP SUMMARY - the-cult-of-the-customer-hyken-shep_
+title: The Cult of the Customer - Hyken, Shep_
+slug: the-cult-of-the-customer-hyken-shep_
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Moral Landscape_ How Science Can Determine Human Values - Sam Harris
-slug: deep-summary-the-moral-landscape_-how-science-can-determine-human-values-sam-harris
+title: The Moral Landscape_ How Science Can Determine Human Values - Sam Harris
+slug: the-moral-landscape_-how-science-can-determine-human-values-sam-harris
 tags: 
   - book-summary
 excerpt: ""

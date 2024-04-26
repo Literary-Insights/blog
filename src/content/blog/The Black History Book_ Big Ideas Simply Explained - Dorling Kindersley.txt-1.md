@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Black History Book_ Big Ideas Simply Explained - Dorling Kindersley
-slug: deep-summary-the-black-history-book_-big-ideas-simply-explained-dorling-kindersley
+title: The Black History Book_ Big Ideas Simply Explained - Dorling Kindersley
+slug: the-black-history-book_-big-ideas-simply-explained-dorling-kindersley
 tags: 
   - book-summary
 excerpt: ""

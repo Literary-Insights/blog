@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Rational Optimist - Ridley, Matt
-slug: deep-summary-the-rational-optimist-ridley-matt
+title: The Rational Optimist - Ridley, Matt
+slug: the-rational-optimist-ridley-matt
 tags: 
   - book-summary
 excerpt: ""

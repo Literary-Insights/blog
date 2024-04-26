@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Power Law_ Venture Capital and the Making of the New Future - Sebastian Mallaby
-slug: deep-summary-the-power-law_-venture-capital-and-the-making-of-the-new-future-sebastian-mallaby
+title: The Power Law_ Venture Capital and the Making of the New Future - Sebastian Mallaby
+slug: the-power-law_-venture-capital-and-the-making-of-the-new-future-sebastian-mallaby
 tags: 
   - book-summary
 excerpt: ""

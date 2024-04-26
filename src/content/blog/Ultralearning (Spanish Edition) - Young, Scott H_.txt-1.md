@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Ultralearning (Spanish Edition) - Young, Scott H_
-slug: deep-summary-ultralearning-spanish-edition-young-scott-h_
+title: Ultralearning (Spanish Edition) - Young, Scott H_
+slug: ultralearning-spanish-edition-young-scott-h_
 tags: 
   - book-summary
 excerpt: ""

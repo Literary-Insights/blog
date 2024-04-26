@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Why Dont Students Like School A Cognitive Scientist Answers Questions About How the Mind Works and What It Means for the_. (Daniel T. Willingham) 
-slug: deep-summary-why-dont-students-like-school-a-cognitive-scientist-answers-questions-about-how-the-mind-works-and-what-it-means-for-the_-daniel-t-willinghamdesconhecido
+title: Why Dont Students Like School A Cognitive Scientist Answers Questions About How the Mind Works and What It Means for the_. (Daniel T. Willingham) 
+slug: why-dont-students-like-school-a-cognitive-scientist-answers-questions-about-how-the-mind-works-and-what-it-means-for-the_-daniel-t-willinghamdesconhecido
 tags: 
   - book-summary
 excerpt: ""

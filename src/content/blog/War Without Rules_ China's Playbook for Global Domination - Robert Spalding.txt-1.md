@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - War Without Rules_ China's Playbook for Global Domination - Robert Spalding
-slug: deep-summary-war-without-rules_-china-s-playbook-for-global-domination-robert-spalding
+title: War Without Rules_ China's Playbook for Global Domination - Robert Spalding
+slug: war-without-rules_-china-s-playbook-for-global-domination-robert-spalding
 tags: 
   - book-summary
 excerpt: ""

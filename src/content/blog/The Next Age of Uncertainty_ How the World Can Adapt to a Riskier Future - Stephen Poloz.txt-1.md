@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Next Age of Uncertainty_ How the World Can Adapt to a Riskier Future - Stephen Poloz
-slug: deep-summary-the-next-age-of-uncertainty_-how-the-world-can-adapt-to-a-riskier-future-stephen-poloz
+title: The Next Age of Uncertainty_ How the World Can Adapt to a Riskier Future - Stephen Poloz
+slug: the-next-age-of-uncertainty_-how-the-world-can-adapt-to-a-riskier-future-stephen-poloz
 tags: 
   - book-summary
 excerpt: ""

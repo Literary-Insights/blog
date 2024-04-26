@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Why We Forget and How to Remember Better - Andrew E. Budson
-slug: deep-summary-why-we-forget-and-how-to-remember-better-andrew-e-budson
+title: Why We Forget and How to Remember Better - Andrew E. Budson
+slug: why-we-forget-and-how-to-remember-better-andrew-e-budson
 tags: 
   - book-summary
 excerpt: ""

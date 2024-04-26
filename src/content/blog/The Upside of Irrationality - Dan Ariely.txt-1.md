@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Upside of Irrationality - Dan Ariely
-slug: deep-summary-the-upside-of-irrationality-dan-ariely
+title: The Upside of Irrationality - Dan Ariely
+slug: the-upside-of-irrationality-dan-ariely
 tags: 
   - book-summary
 excerpt: ""

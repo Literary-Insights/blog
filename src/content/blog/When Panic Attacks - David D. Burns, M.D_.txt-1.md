@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - When Panic Attacks - David D. Burns, M.D_
-slug: deep-summary-when-panic-attacks-david-d-burns-m-d_
+title: When Panic Attacks - David D. Burns, M.D_
+slug: when-panic-attacks-david-d-burns-m-d_
 tags: 
   - book-summary
 excerpt: ""

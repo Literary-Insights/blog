@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The Story of the Human Body - Daniel Lieberman
-slug: deep-summary-the-story-of-the-human-body-daniel-lieberman
+title: The Story of the Human Body - Daniel Lieberman
+slug: the-story-of-the-human-body-daniel-lieberman
 tags: 
   - book-summary
 excerpt: ""

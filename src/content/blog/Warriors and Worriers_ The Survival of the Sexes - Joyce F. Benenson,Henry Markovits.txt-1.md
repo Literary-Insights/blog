@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Warriors and Worriers_ The Survival of the Sexes - Joyce F. Benenson,Henry Markovits
-slug: deep-summary-warriors-and-worriers_-the-survival-of-the-sexes-joyce-f-benenson-henry-markovits
+title: Warriors and Worriers_ The Survival of the Sexes - Joyce F. Benenson,Henry Markovits
+slug: warriors-and-worriers_-the-survival-of-the-sexes-joyce-f-benenson-henry-markovits
 tags: 
   - book-summary
 excerpt: ""

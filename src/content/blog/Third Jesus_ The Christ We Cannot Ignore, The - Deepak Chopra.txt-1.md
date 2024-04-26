@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - Third Jesus_ The Christ We Cannot Ignore, The - Deepak Chopra
-slug: deep-summary-third-jesus_-the-christ-we-cannot-ignore-the-deepak-chopra
+title: Third Jesus_ The Christ We Cannot Ignore, The - Deepak Chopra
+slug: third-jesus_-the-christ-we-cannot-ignore-the-deepak-chopra
 tags: 
   - book-summary
 excerpt: ""

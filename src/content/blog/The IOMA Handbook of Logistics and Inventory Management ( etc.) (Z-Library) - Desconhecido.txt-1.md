@@ -1,6 +1,6 @@
 ---
-title: DEEP SUMMARY - The IOMA Handbook of Logistics and Inventory Management ( etc.) 
-slug: deep-summary-the-ioma-handbook-of-logistics-and-inventory-management-etcdesconhecido
+title: The IOMA Handbook of Logistics and Inventory Management ( etc.) 
+slug: the-ioma-handbook-of-logistics-and-inventory-management-etcdesconhecido
 tags: 
   - book-summary
 excerpt: ""
