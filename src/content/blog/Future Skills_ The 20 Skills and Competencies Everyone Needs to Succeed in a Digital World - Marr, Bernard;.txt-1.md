@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key points from the book's introduction:
+ 
 
 - Technology is rapidly changing the world of work. 85% of the jobs in 2030 are predicted to be new jobs that don't exist yet. 
 

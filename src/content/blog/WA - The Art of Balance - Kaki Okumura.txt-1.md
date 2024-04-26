@@ -36,7 +36,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - The essence is mindful eating of minimally processed, balanced meals in proper portion sizes. This creates a healthy relationship with food aligned with your values.
 
- Here is a summary:
+ 
 
 The author returns to Tokyo from New York for the summer and has a traditional first meal back of sushi from her favorite local restaurant. However, due to jet lag and the large time difference, she is never actually hungry for this meal. Her grandmother notices this and gently advises her that it's okay not to eat everything and to listen to her body's signals. 
 

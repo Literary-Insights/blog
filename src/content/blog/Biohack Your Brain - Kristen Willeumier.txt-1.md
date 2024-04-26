@@ -796,7 +796,7 @@ Hope this helps! Let me know if you have any other questions.
 
  Summarize all key points
 
-Here are the key points from the chapter:
+
 
 • Katy's story highlights the importance of proper hydration and how it can improve brain function. Staying hydrated, especially first thing in the morning, can boost focus, energy and mood.
 

@@ -423,7 +423,7 @@ In summary, austerity imposed after the financial crisis fueled discontent that 
 
 - His excesses provoked a backlash, including a bill dubbed the "Blackstone bill" that aimed to increase taxes on private equity firms. Schwarzman became emblematic of criticism toward the Davos elite.
 
- Here are the key points from the chapter:
+ 
 
 - Donald Trump attended the World Economic Forum in Davos in January 2018, despite his anti-globalist rhetoric. His presence was seen as incongruous with the elitist nature of the forum. 
 

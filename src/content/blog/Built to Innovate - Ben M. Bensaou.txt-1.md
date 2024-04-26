@@ -191,7 +191,7 @@ In summary, BASF's outside-in focus and systematic approach to both product and 
 
 - The systematic commitment to training employees in innovation methodology and providing facilities for intense focus on new ideas has been crucial to making Samsung an innovation leader.
 
- Here are the key points from the chapter:
+ 
 
 - Organizations need two distinct capabilities: executing current work flawlessly and imagining new products/processes (innovating engine). 
 

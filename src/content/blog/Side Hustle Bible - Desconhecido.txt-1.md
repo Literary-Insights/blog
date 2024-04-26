@@ -81,7 +81,7 @@ The main message is that side hustles offer benefits like supplemental income, p
 
 Hope this summary helps! Let me know if you have any other questions.
 
- Here are the key points from the chapter:
+ 
 
 1. You don't need to master a unique skill or have a big idea to start working for yourself or start a side hustle. Simple skills are enough.
 

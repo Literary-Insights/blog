@@ -17,26 +17,6 @@ BOOK LINK:
 
 [CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=unprocess-your-life-rob-hobson)
 
-
-
- Here is a summary of the key points about copyright from the passage:
-
-- Copyright protects original works of authorship such as books, music, movies, photography and more. It gives the creator exclusive rights to reproduce, distribute, publicly display and perform their work. 
-
-- The copyright for a work is automatically granted when it is created and fixed in a tangible form. There is no need to register the copyright. However, registration provides additional benefits if enforcement of copyright is necessary. 
-
-- The standard term of copyright protection is the life of the author plus 70 years. For works made for hire, anonymous works and pseudonymous works, the term is 95 years from publication or 120 years from creation, whichever is shorter. 
-
-- Fair use allows limited use of copyrighted works without permission for purposes such as criticism, comment, news reporting, teaching, scholarship or research. What constitutes fair use is determined on a case-by-case basis.
-
-- Common types of copyright infringement include downloading pirated content, unauthorized public performances, file sharing, plagiarism and failure to secure permission or pay license fees when due. Copyright holders have legal avenues to pursue infringement cases.
-
-- Authors can assert their moral rights to be identified as the creator and to protect the integrity of their work separately from economic rights like reproduction and distribution that are transferable.
-
-So in summary, copyright protects original creative works and gives the creator exclusive control over certain uses, with certain limitations like fair use. Registration provides additional benefits but is not required for copyright to exist.
-
- 
-
 - The book includes recipes to avoid ultra-processed foods and encourages home cooking over ready-made supermarket meals. The recipes aim to satisfy common occasions when people rely on convenience foods. 
 
 - Batch cooking, freezing, and reducing waste are strategies taught to make an unprocessed lifestyle achievable. 

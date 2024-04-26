@@ -488,7 +488,7 @@ The key takeaway is that confidence comes from within, regardless of external ci
 
 - The author helps her client Steve overcome self-doubt by identifying triggers, developing new self-talk to counter the negative messages, and focusing him on his purpose and Zone of Genius. A growth mindset was key to building his confidence.
 
- Here are the key points from the chapter:
+ 
 
 - Trying to be excellent at everything is draining and leads to feeling inadequate. Prioritize using your genius zone instead. 
 

@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the contents:
+ 
 
 This book discusses how to create happy memories that last. It analyzes data from a global study of over 1,000 happy memories. Key findings were that memorable experiences tend to be novel, meaningful, emotional, and engage multiple senses. 
 

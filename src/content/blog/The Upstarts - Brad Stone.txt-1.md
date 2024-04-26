@@ -113,7 +113,7 @@ BOOK LINK:
 
 - Upon arriving at Y Combinator, Graham and a VC were discussing entrepreneurial toughness. The Airbnb founders' resilience through difficulties proved they had this mental toughness.
 
- Here are the key points from the chapter:
+ 
 
 - Garrett Camp, co-founder of StumbleUpon, was inspired to create Uber after becoming frustrated with trying to get taxis in San Francisco. The city had limited the number of taxi medallions, leading to poor service. 
 

@@ -33,7 +33,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - To enchant employees, provide a meaningful vision, empower them, judge results over intentions, address your shortcomings first, don't ask them to do what you wouldn't, celebrate success, find a devil's advocate, and suck it up.
 
- Here are the key points from the chapter:
+ 
 
 - Enchantment is the process of delighting people with a product, service, organization, or idea. The outcome is voluntary and long-lasting support that is mutually beneficial.
 

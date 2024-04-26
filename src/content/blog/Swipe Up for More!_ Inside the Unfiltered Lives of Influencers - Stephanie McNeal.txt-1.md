@@ -234,7 +234,7 @@ Over time she has opened up more, but is still hesitant to fully let the world i
 
 - Instagram has not always supported influencers the way YouTube has its creators. Instagram only recently started programs for influencers to directly earn money on the platform, despite influencers driving much attention and revenue to Instagram over the years.
 
- Here are the key points:
+ 
 
 - Traditional Instagram influencers felt Instagram's TikTok clone "Reels" didn't fit their content or audience, and that Instagram was trying to attract young Gen Z TikTok creators rather than reward long-time Instagram influencers. 
 

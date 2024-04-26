@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the contents:
+ 
 
 1. Optimize Your Life - The chapter argues that people should maximize their positive experiences rather than focus solely on accumulating wealth and material possessions. The author uses the story of his friend Erin and her husband John who had cancer to illustrate this point. The key is to optimize fulfillment while minimizing waste during one's finite time on earth. 
 

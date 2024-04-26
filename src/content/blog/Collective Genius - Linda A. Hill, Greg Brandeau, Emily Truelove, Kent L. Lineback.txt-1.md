@@ -151,7 +151,7 @@ BOOK LINK:
 
 - Postmortems and after-action reviews are a form of structure many innovative companies use to reflect on what worked well and what could be improved in the creative process. Pixar formalized this by asking people to identify five ways the process worked and five ways it could be better.
 
- Here are the key points from the chapter:
+ 
 
 - The paradoxes of innovation reveal the inherent tensions that make innovation difficult. Leaders must constantly navigate between opposites like freedom and responsibility, openness and closure, bottom-up initiative and top-down intervention. 
 

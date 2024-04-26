@@ -237,7 +237,7 @@ It concludes by noting the expectations of independence and not appearing depend
 
 - An environment of extreme self-sacrifice and exhaustion in parents can damage children's well-being rather than enhance it.
 
- Here are the key points:
+ 
 
 - Being a parent is like walking a tightrope - you need to strike a balance between supporting your child and respecting their autonomy. 
 
@@ -527,7 +527,7 @@ So in summary, the author acknowledges the many individuals from her professiona
 
 - The goal is to prioritize well-being, mattering, balance, perspective and healthy relationships over sheer performance and achievement from a young age.
 
- Here are the key points:
+ 
 
 - Experts recommend employing a "mattering framework" to teach students, teachers and community members how to make everyone feel valued and able to contribute. 
 

@@ -449,7 +449,7 @@ The passage argues Nicholson's fear of being caught as a double agent made the c
 
 The passage then discusses how leaders in business crises must master their own fear responses. When facing threats, the brain kicks into fight or flight mode but this is unhelpful for resolving issues thoughtfully. Leaders need insight into how fear affects them to avoid poor decisions. The passage provides tips for addressing team fear through open communication, acknowledging concerns, and reframing the situation positively by focusing on future opportunities rather than dwelling on problems. Redirecting attention from fear to vision and solutions helps regain credibility and move forward.
 
- Here are the key points from the chapter:
+ 
 
 - It's important to be aware of how others may perceive you based on preconceptions related to your background, appearance, etc. Addressing these misperceptions upfront can help shape interactions more positively. 
 

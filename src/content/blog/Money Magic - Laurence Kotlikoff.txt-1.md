@@ -745,7 +745,7 @@ You have upside and downside risks related to your company's performance. You ca
 
 The key points are to protect your standard of living against company-specific and market risks, while still participating in upside through prudent strategies. Safe investments like I-Bonds help establish a floor.
 
- Here are the key points from the chapter:
+ 
 
 1. Save more, spend less. Make saving easier by using automatic deductions and visual reminders. Reduce spending on things you won't remember and put the savings toward goals.
 

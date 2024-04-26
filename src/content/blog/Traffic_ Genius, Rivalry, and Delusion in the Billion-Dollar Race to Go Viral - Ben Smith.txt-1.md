@@ -398,7 +398,7 @@ So in summary, it discusses some controversies over invasive/unethical coverage 
 
 - Intrigued, Zuckerberg had Peretti come to San Francisco to meet with Facebook executives to discuss the idea further. This opened the door to a potentially innovative collaboration between the two companies.
 
- Here are the key points:
+ 
 
 - Jonah Peretti turned down an offer from Mark Zuckerberg to acquire BuzzFeed and have Jonah join Facebook as an executive, jokingly countering with a $10 billion valuation. 
 

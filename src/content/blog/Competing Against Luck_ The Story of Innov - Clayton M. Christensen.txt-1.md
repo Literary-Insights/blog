@@ -11,7 +11,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 ---
 
 
- Here is a summary of the key points from the book's introduction:
+ 
 
 - The book is about innovation and making progress, not just creating products. 
 
@@ -263,7 +263,7 @@ In summary, Jobs Theory is a proven, versatile approach that has opened up new i
 
 - Observing people's behaviors and struggles in context reveals important emotional and social dimensions that drive why they "hire" products and services. This fuller understanding reveals more innovation opportunities.
 
- Here are the key points from the chapter:
+ 
 
 - Jobs Theory provides a clear guide for successful innovation because it enables a full, comprehensive understanding of the information needed to create solutions that perfectly nail the job. 
 
@@ -529,7 +529,7 @@ The key is to not lose sight of the core "job" the product was hired to do, even
 
 - To avoid these pitfalls, managers should stay focused on customers' struggle to get the core job done and design experiences around this job. This takes constant vigilance as data rises that can distract from the job.
 
- Here are the key points from the chapter:
+ 
 
 - Most companies start by identifying an important unsatisfied customer job and creating a solution for it. But as they grow, they often lose focus on the original core job and become more product-oriented. 
 

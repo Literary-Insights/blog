@@ -561,7 +561,7 @@ In summary, taking charge of your own learning journey allows you to gain a rich
 
 In summary, avoiding overconfidence requires using our full brain power - both focused analytical thinking and big picture perspective checking. Developing internal validation habits, rather than depending solely on external checks, builds an important lifelong skill.
 
- Here are the key points from the chapter:
+ 
 
 - The focused mode can make you overconfident and lead to critical errors, even when you feel you've done everything right. Rechecking your work from a broader perspective can help catch mistakes. 
 

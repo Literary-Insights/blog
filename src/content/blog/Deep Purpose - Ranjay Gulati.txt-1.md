@@ -113,7 +113,7 @@ BOOK LINK:
 
 - Deep purpose companies embrace their role as carriers of meaning, allowing purpose to shape their internal field of shared assumptions, rules, and motivations.
 
- Here are the key points from the chapter:
+ 
 
 - Deep purpose leaders acknowledge the challenges in fully pursuing a purpose, dedicating themselves to navigating tradeoffs between stakeholders and between commercial and social goals. 
 

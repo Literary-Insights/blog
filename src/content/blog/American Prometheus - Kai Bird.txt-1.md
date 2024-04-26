@@ -1995,7 +1995,7 @@ Gordon Gray, the chairman of the board, felt the hearings had been fair, despite
 
 - In the evenings, Robert would recite poetry and serve martinis, though they didn't seem to affect him anymore. The island provided an escape for the Oppenheimers from past troubles.
 
- Here are the key points from the chapter:
+ 
 
 - By the early 1960s, Oppenheimer was no longer a political pariah. The Kennedy administration invited him to events and awarded him the prestigious Enrico Fermi Prize in 1963, seen as symbolic rehabilitation. 
 

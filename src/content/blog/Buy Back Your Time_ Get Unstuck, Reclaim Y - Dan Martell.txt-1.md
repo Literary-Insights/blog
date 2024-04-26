@@ -1,5 +1,5 @@
 ---
-title: Buy Back Your Time_ Get Unstuck, Reclaim Y - Dan Martell
+title: "Buy Back Your Time: Get Unstuck, Reclaim Your Freedom, and Build Your Empire - Dan Martell"
 slug: buy-back-your-time-get-unstuck-reclaim-y-dan-martell
 tags: 
   - book-summary
@@ -11,7 +11,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 ---
 
 
- Here is a summary of the key points from the book's introduction:
+ 
 
 - Dan Martell had a troubled childhood, getting into legal trouble for stealing cars, running from the police, etc. He ended up in jail at age 17. 
 
