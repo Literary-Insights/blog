@@ -1,9 +1,13 @@
 ---
 title: The Creative Act A Way of Being - Rick Rubin
 slug: The-Creative-Act-A-Way-of-Being-Rick-Rubin
-tags: book-summary
+tags: 
+  - book-summary
 image: https://cdn.hashnode.com/res/hashnode/image/upload/v1690983529438/y-Lm2blTr.jpg?auto=format
-
+excerpt: ""
+category: "self-help"
+author: "matheus-puppe"
+publishDate: "2024-04-27T00:00:00.000Z"
 
 ---
 
