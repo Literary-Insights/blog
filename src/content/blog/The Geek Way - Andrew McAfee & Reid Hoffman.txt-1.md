@@ -16,6 +16,20 @@ BOOK LINK:
 
 [CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-geek-way-andrew-mcafee-reid-hoffman)
 
+## TLDR
+
+**The passage discusses the rise of "business geeks" and the "geek way" of running companies, which emphasizes principles like speed, ownership, science, and openness.** It contrasts this with traditional corporate cultures that are more hierarchical and bureaucratic.
+**The key points are:**
+
+- **Geek companies like Google, Netflix, and Amazon have embraced the "geek way" of operating,** which involves decentralized, flexible cultures that empower employees and encourage experimentation and rapid iteration. This is in contrast to the rigid hierarchies of traditional corporations.
+- **The "geek way" is influenced by educational approaches like Montessori,** which emphasize giving children more freedom and autonomy in their learning. Successful entrepreneurs who attended Montessori schools have brought these principles to their companies.
+- **The passage provides examples of how geek companies like Amazon and HubSpot empower employees to make decisions and implement changes quickly,** rather than going through lengthy approval processes.
+- **In contrast, the failure of Quibi is attributed to its top-down, hierarchical leadership style** that lacked the openness and adaptability of geek companies.
+- **Data analysis shows geek companies tend to have stronger cultures of innovation, agility, and execution,** which contributes to their high performance and market value.
+- **As geek companies succeed, their cultural norms are spreading to other industries,** challenging traditional corporate models.
+
+## SUMMARY
+
 - The introduction describes the author's interest in computers from a young age after questioning his mother about her punchcard homework for computer programming. 
 
 - He pursued interests common for young geeks like math team, video games, science fiction. He obtained multiple degrees from MIT and Harvard but was drawn back to academia after a job. 

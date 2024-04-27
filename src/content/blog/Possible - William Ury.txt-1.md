@@ -17,6 +17,17 @@ BOOK LINK:
 [CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=possible-william-ury)
 
 
+## TLDR
+
+- **The author was inspired by the threat of nuclear war as a child** and has spent over 50 years studying and applying conflict resolution techniques in a wide range of disputes.
+- **He advocates a "possibilist" mindset** that sees new opportunities even in seemingly intractable conflicts, drawing on examples like the Cold War and South African apartheid.
+- **The author emphasizes the importance of three "victories" in conflict transformation** - going to the "balcony" to gain perspective, building a "golden bridge" to satisfy all sides, and engaging the "third side" of the community.
+- **Practical techniques include pausing** to manage emotions, uncovering underlying interests rather than just positions, and carefully designing the physical environment for difficult discussions.
+- The author shares lessons from failed mediation attempts, highlighting the need to involve all stakeholders and build internal consensus, not just negotiate with formal leadership.
+- **Overall, the passage portrays the author's lifelong mission to help humanity transform destructive conflicts into productive negotiations through creativity, curiosity and collaborative problem-solving.**
+
+## Summary 
+
 - The author discusses his lifelong quest to understand how to transform destructive conflicts into constructive negotiations. He was inspired by this question as a child growing up after World War 2 and the looming threat of nuclear war. 
 
 - He went on to study anthropology in college to learn about human nature and cultural differences as it relates to conflict. He sought out real-world conflicts to apply negotiation techniques. 
