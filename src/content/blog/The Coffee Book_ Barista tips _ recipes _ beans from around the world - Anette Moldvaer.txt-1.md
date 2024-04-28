@@ -464,7 +464,7 @@ For a creamier version, add 11⁄2 fl oz of cold milk before pouring the espress
 
 Cold-brewed coffee is served double-strength over ice cubes in a tall glass. 3-4 frozen milk cubes are added to the glass along with 1/2 tsp vanilla extract, 1 tbsp tupelo honey, and 1/4 tsp ground cinnamon. Then 31⁄2 fl oz (100 mL) milk is poured into the glass followed by the cold brewed coffee. It is served with a stirring spoon.
 
- Here is a summary of the passage:
+ 
 
 - This cocktail recipe variation uses Cognac or brandy as the spirit. Caffè Brulot was invented during Prohibition to conceal alcohol using citrus and spice. 
 

@@ -123,7 +123,7 @@ Seneca argues that life is long enough to achieve great things, but most people 
 
 In summary, the passage emphasizes how human migration and settlement is constant historically, and argues that by cultivating virtue and learning, one can find home anywhere, rather than feel exiled.
 
- Here is a summary of the passage:
+ 
 
 Marcellus endured his exile with fortitude, unaffected by the poverty that came with it. Poverty is not inherently bad; it cures the greed and excess of luxury. The body's needs are simple - food, shelter, warmth. We exert ourselves to serve vice, not need. The luxurious greedily hunt the farthest reaches of land and sea for exotic foods, driven by endless appetite. If one despises such excess, poverty cannot harm him. The capacity of our bodies is small, yet greed is boundless. Our ancestors lived virtuously with little. Men now scour the earth for food, ignorant of the bounty around them. The extravagant Apicius spent a fortune on feasts, then killed himself when his debts left him with only 10 million sesterces, seeing this as poverty. True wealth lies in reason, not money. Exiles lack only unnecessary things. The greedy are never satisfied. The soul and mind endure no exile, being eternal, unbound by physical limitations. Most people are poor yet often happier than the rich, who imitate poverty when it suits them, revealing their ignorance. The wise learn from antiquity that the soul needs little, seeing poverty as no inherent hardship.
 
@@ -245,6 +245,6 @@ The main points are to remain engaged, strive to contribute something positive n
 
 - Accept human failings and public folly calmly. Excessive grief or delight over others' troubles is inappropriate. Maintain moderation in your own troubles too.
 
- Here is a summary of the passage:
+ 
 
 Seneca argues that grief and other emotions have become ingrained habits that are merely imitated rather than genuinely felt. He then discusses various situations that cause grief, like the deaths of good people and the misfortunes of heroes, and says we should admire their courage rather than grieve. He advises against false appearances and pretense, as well as constant overwork, saying the mind needs rest and diversion. Moderation is key - we need both solitude and sociability, leisure and work. Complete seclusion or self-revelation to all brings problems, as does excessive relaxation or strain. The mind must be stimulated and invigorated but not overindulged. Occasional intoxication can free the mind from cares, but drunkenness must be avoided. Passion is needed for supreme achievements. Overall, tranquility requires constant vigilance, as it is fragile.

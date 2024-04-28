@@ -437,7 +437,7 @@ Examples are given of truly awful pointless jobs - scanning loyalty cards or des
 
 - The passage highlights how even privileged professionals can become trapped in meaningless work and some may even cause harm despite good intentions. It's a systemic critique of boxes being ticked for appearances without real benefit.
 
- Here are a few key points from the passage:
+ 
 
 - Bullshit jobs can be soul destroying and a form of spiritual violence. They often induce feelings of hopelessness, depression, and self-loathing. 
 

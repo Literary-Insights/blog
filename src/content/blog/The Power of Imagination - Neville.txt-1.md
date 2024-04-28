@@ -39,7 +39,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 - Neville aims to help people realize their inner divinity in order to become psychologically and spiritually liberated, overcoming life's difficulties. His interpretive approach to the Bible is a means to reveal man's innate God-nature.
 
- Here are a few key points from the passage:
+ 
 
 - Neville teaches that sickness, sorrow, and need arise from the denial of the divine nature within us. By accepting our divinity and creative power, we can transform our lives.
 
@@ -1271,7 +1271,7 @@ It concludes with a story of a dancer who doubted the idea that imagining create
 
 - There is no fiction, only imaginal activities unfolding. Yeats said we must be casting forth enchantments and glamour from our imagination, shaping our most elaborate thoughts and purposes. We are free to imagine whatever we want and create our reality.
 
- Here are a few key points from the passage:
+ 
 
 - F.B. was determined to get a rare recording of Wagner's opera Tristan and Isolde as a Christmas gift. Despite being told it was unavailable in numerous record stores, he imagined a conversation where the salesman said he did have it in stock. 
 
@@ -1297,7 +1297,7 @@ It concludes with a story of a dancer who doubted the idea that imagining create
 
 - The author states that imagining creates reality and that vividly feeling the wish fulfilled is key to the creative power of imagination. By controlling our imagination and moods, we can shape our lives and fortunes.
 
- Here are a few key points from the passage:
+ 
 
 - The story illustrates how sustaining a positive, imaginative mood can lead to desired results. The mother plays a "game" with her son, pretending to buy his warts. Though a fanciful idea, the boy's faith and willing participation seems to contribute to the warts disappearing within a month. 
 

@@ -207,7 +207,7 @@ In summary, the right music played at a moderate volume can create the optimal c
 
 In summary, the passage advocates committing to single-tasking and focusing intently on one task at a time, rather than trying to multitask and spread your attention across multiple tasks simultaneously. It argues that multitasking actually hinders focus and performance, while single-tasking can significantly improve concentration and the quality of your work.
 
- Here is a summary of the passage:
+ 
 
 The main tactic discussed is disconnecting from distractions like phones and the Internet in order to focus better and be more productive.  
 

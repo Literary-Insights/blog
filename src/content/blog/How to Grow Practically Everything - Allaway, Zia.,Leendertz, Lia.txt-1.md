@@ -179,7 +179,7 @@ The passage describes how to create a shady rockery garden that is well-suited f
 
 - In autumn, cut back perennials and apply a mulch layer to prepare the garden for winter.
 
- Here is a summary of the passage:
+ 
 
 - This design illustrates planting a classic white rose along with other complementary plants in a simple rose bed. 
 

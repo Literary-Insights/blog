@@ -157,7 +157,7 @@ In summary, the passage uses an example from the author's improv comedy class to
 
 - Unlike Ford, Houdini continuously reinvented himself, guided by his sense of wonder. He represents how holding onto curiosity as an adult can fuel creativity and innovation.
 
- Here is a summary of the passage:
+ 
 
 In 2000, the BBC was facing many challenges, including new competition from commercial cable channels. Internally, it had lost its creative spark and become a complex, confused organization. To turn things around, the BBC hired a new director-general named Greg Dyke. Rather than come in with a bold vision for change, Dyke spent his first months traveling to BBC locations and asking employees two simple questions: What is one thing I should do to make things better for you, and what is one thing I should do to make things better for viewers and listeners? This unconventional approach surprised employees, who expected Dyke to impose his own plans. But by listening first, Dyke gained insight into problems and won the staff's trust and enthusiasm to collaborate on improvements. Within a year, BBC ratings and audience satisfaction rose significantly. 
 

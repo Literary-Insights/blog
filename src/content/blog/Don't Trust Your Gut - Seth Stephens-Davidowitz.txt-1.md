@@ -161,7 +161,7 @@ So in summary, parents matter less than we think for most outcomes, but there ar
 
 - Characteristics like less segregation, less inequality, better schools, and more two-parent families predict better neighborhood outcomes for kids.
 
- Here are a few key points from the passage:
+ 
 
 - Research by Raj Chetty shows that the adults a child is exposed to in their neighborhood can have a major impact on that child's future success. Things like percent of college graduates and percent of two-parent households in a neighborhood predict a child's future income.
 

@@ -485,7 +485,7 @@ In essence, use people's names, express enthusiasm specifically for them and the
 
 In summary, the secret is that Mrs. Big Cat is the real brains behind the operation. Salute the spouse at home and the secretary in the office.
 
- Here are a few key points from the passage:
+ 
 
 - When leaving an answering machine message, keep it short, friendly, and professional. Avoid lengthy inspirational messages or boasts about your accomplishments. 
 
@@ -539,7 +539,7 @@ The main themes are that politicians are very strategic in how they navigate par
 
 - Overall, be proactive in choosing who you want to connect with rather than waiting to be chosen. Making the first move can lead to transformative relationships in your life.
 
- Here are a few key points from the passage:
+ 
 
 - Eyeball Selling involves carefully observing a customer's body language and nonverbal cues during a sales pitch, and tailoring what you say accordingly. 
 
@@ -607,7 +607,7 @@ The main themes are that politicians are very strategic in how they navigate par
 
 - The bottom line is that separating business from social settings, empathizing emotionally when appropriate, and allowing full self-expression makes communication more effective with big winners.
 
- Here are a few key points from the passage:
+ 
 
 - Buttercups are complimentary letters to someone's boss praising their good work. They are a clever way to get favors and good service.
 

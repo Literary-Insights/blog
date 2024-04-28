@@ -188,7 +188,7 @@ BOOK LINK:
 
 - The key insight was that omitting protected attributes is not enough to ensure fairness. Their correlations persist through redundant encodings, and not knowing the protected attributes makes it impossible to measure or mitigate bias. New approaches would be needed.
 
- Here are a few key points from the passage:
+ 
 
 - In 2016, there was suddenly widespread interest in issues of fairness in machine learning, sparked by events like the election results defying pollsters, the Cambridge Analytica scandal, and ProPublica's analysis of the COMPAS risk assessment tool. 
 

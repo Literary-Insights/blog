@@ -1068,7 +1068,7 @@ So in summary, the Quran itself does not clearly establish a doctrine of unrestr
 
 - Even then, questions around consciousness of the designer and inherent morality of the purpose would remain open for debate. The next chapter will discuss whether human history inherently moves toward moral good.
 
- Here is a summary of the passage:
+ 
 
 The passage discusses the concept of "salvation" as presented in Abrahamic religions like Islam, Christianity and Judaism. While they may define salvation differently (personal salvation vs social salvation), they are ultimately concerned with both individual and societal well-being. 
 

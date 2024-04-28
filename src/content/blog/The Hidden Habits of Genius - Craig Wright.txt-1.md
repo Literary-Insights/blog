@@ -605,7 +605,7 @@ In summary, relaxing into the dream-filled REM state allows the brain to make cr
 
 In summary, relaxing the conscious mind through activities like music, exercise, transportation or even dreams can allow creative insights to emerge after persistent prior focus on a problem. Being prepared to capture fleeting ideas is key.
 
- Here are a few key points from the passage:
+ 
 
 - Analytical concentration often precedes execution of creative work. Geniuses like Picasso, Leonardo da Vinci, and Einstein would stare intensely and analyze before putting brush to canvas or pen to paper. 
 

@@ -140,7 +140,7 @@ The passage describes various plants that could spark creativity, including the 
 
 It notes how the unusual appearance and traits of these plants - such as the velvet plant's purple hairs, king begonias' intricate patterns, string of pearls' bead-like structure, moth orchid's moth-shaped flowers, and prayer plant's daily movement - can stimulate creative thinking and spark new ideas. The flowing and spontaneous nature of some of the plants is said to encourage free-flowing thought processes. Having these plants around is suggested to boost creativity and innovative thinking.
 
- Here is a summary of the passage:
+ 
 
 The peace lily (Spathiphyllum) is known for its ability to purify indoor air by removing toxins like benzene and formaldehyde. It has broad, deep green leaves and white bracts that add sophistication. It thrives in warm, humid conditions with indirect light. It should be repotted annually and kept moist. 
 

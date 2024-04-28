@@ -645,7 +645,7 @@ In summary, documented systems and strong leadership allow normal people without
 
 Does this help summarize the key points about Mental Positioning Time? Let me know if you need any clarification or have additional questions.
 
- Here are a few key points from the passage:
+ 
 
 - Traffic circles in Pakistan are chaotic systems where drivers fend for themselves with few rules. The main guidelines are to go clockwise, go fast, and avoid collisions. 
 

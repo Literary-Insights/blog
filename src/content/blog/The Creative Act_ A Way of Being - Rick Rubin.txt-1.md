@@ -16,7 +16,7 @@ BOOK LINK:
 [CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=The-Creative-Act-A-Way-of-Being-Rick-Rubin)
 
 
- Here are a few key points from the passage:
+ 
 
 - Creativity is a fundamental aspect of being human. We are all creators in the most profound way, creating our experience of reality. 
 
@@ -254,7 +254,7 @@ The key themes are patience, beginner's mindset, listening deeply, limiting beli
 
 - Imitation can lead to innovation when filtered through your lens. Stay true to your inner voice.
 
- Here are a few key points from the passage:
+ 
 
 - When you hit a wall in your creative work, try exercises to break sameness and renew excitement, like writing one line per day or changing the environment. 
 

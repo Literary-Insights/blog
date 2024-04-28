@@ -327,7 +327,7 @@ So in summary, Elliott became a major Twitter shareholder and applied pressure f
 
 - The fact-checking labels marked an escalating clash between Twitter and Trump on misinformation policies.
 
- Here is a summary of the passage:
+ 
 
 - George Floyd, an unarmed black man, was killed by a police officer in May 2020, sparking nationwide protests against racial injustice and police brutality. 
 

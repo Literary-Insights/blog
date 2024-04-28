@@ -89,7 +89,7 @@ The author realized happiness doesn't come from chasing outcomes like money or s
 
 The key is to embark on a journey back to your true self by reconnecting with the activities, mindsets and feelings that make you feel alive. Start with self-care dates to build the relationship.
 
- Here are a few key points from the passage:
+ 
 
 - Self-care is about building a relationship with yourself, getting to know yourself, and tending to your own needs. It's not just about superficial things like bubble baths. 
 
@@ -141,7 +141,7 @@ The most important relationship you'll ever have is with yourself. Nurture it, p
 
 The key is to become more conscious of our thinking patterns and make an effort to choose thoughts that serve us. With daily practice, we can rewire our brains in a more positive direction and treat our minds with the care they deserve.
 
- Here are a few key points from the passage:
+ 
 
 - Our thoughts are often negative, repetitive, and keep us stuck in the past. This traps us in unhelpful thinking/behavioral loops. 
 

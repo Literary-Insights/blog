@@ -126,7 +126,7 @@ BOOK LINK:
 
 - The passage discusses concepts like flourishing, virtues, and ideals of inner transformation described in both Western philosophy and Eastern spiritual traditions.
 
- Here is a summary of the passage:
+ 
 
 - The passage discusses Aristotle's conception of eudaimonia, or human flourishing, which modern psychology sees as equivalent to well-being. 
 

@@ -401,7 +401,7 @@ However, indigenous communities had become wary after past exploitation by resea
 
 In summary, while its aims were noble, the project's focus on human genetic variation between groups raised concerns that it resembled race science. Indigenous groups ultimately resisted it due to fears of exploitation.
 
- Here is a summary of the passage:
+ 
 
 The Human Genome Diversity Project aimed to collect and study DNA samples from isolated indigenous communities worldwide. The scientists believed this would help combat racial prejudice by showing how similar all humans are.
 

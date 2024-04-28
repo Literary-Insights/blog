@@ -255,7 +255,7 @@ Studies show that genes can influence the balance of neurotransmitters like dopa
 
 In summary, the human ability to pay attention emerges from complex neural networks and interactions of various neurotransmitters in the brain, rather than a "little person" literally sitting inside our heads overseeing our thoughts and actions. A combination of neural activity, chemical balance and genetic factors all contribute to how we allocate our attention.
 
- Here is a summary of the main points in the text:
+ 
 
 1. We sometimes lose or misplace things because parts of our brain that should be attending to where we put them are distracted or "asleep". 
 
@@ -896,7 +896,7 @@ The text discusses the concept of flow and how it relates to creativity and prod
 
 In summary, the text argues that while flow states can boost creativity, people must learn to manage distractions and structure their time effectively in order to harness flow for increased productivity.
 
- Here is a summary of the main points in the text:
+ 
 
 • Regular exercise, even moderate exercise like brisk walking, can have significant health benefits like reducing risks of chronic diseases, improving cognitive function, and enhancing longevity. 
 
@@ -1480,7 +1480,7 @@ The key takeaway is that by breaking the problem down into manageable parts and 
 
 In summary, the passage discusses the value of estimation and approximation skills for assessing creativity, and argues that creative and flexible thinking can and should be nurtured in children from a young age through play and mistake-tolerant learning. These will become key skills for solving problems in the future.
 
- Here is a summary of the main points in the text:
+ 
 
 1. Information is anything that reduces uncertainty. It exists where there are patterns, not randomness. The more information, the more structured it appears. Information comes from diverse sources like news, conversations, tree rings, DNA, etc.
 

@@ -249,7 +249,7 @@ Some key points:
 
 In summary, the text advocates a gradualist, intermediate view of the evolution of complex capacities like perception, memory and consciousness. But it acknowledges the challenges in applying this view to subjective experience and "what it's like" to be an organism.
 
- Here is a summary of the main points in the text:
+ 
 
 1. The author argues that consciousness and subjective experience are not the same thing. Consciousness is one form of subjective experience, but there are other forms of experience that are not conscious. 
 

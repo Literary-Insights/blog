@@ -180,7 +180,7 @@ Many of Jesus's teachings centered around revealing the true self and transformi
 
 Jesus emphasized humility, service to others, lack of attachment to earthly concerns like status and material things. He reassured people that God deeply cares for each individual. We must let our inner divine light shine for others rather than hiding it. The overall message was that we all have a divine spark or essence within that can be awakened through spiritual practices like confronting shadows within, sincere forgiveness, and living virtuously.
 
- Here is a summary of the passage:
+ 
 
 "We are its children, the chosen of the living Father.” (Thomas 143)
 

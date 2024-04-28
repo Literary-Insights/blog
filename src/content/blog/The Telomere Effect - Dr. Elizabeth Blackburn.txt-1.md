@@ -544,7 +544,7 @@ The text discusses strategies to improve sleep. It mentions that disconnecting f
 
 In summary, while a healthy weight range is generally good for wellbeing, telomeres are more concerned with metabolic factors like insulin sensitivity and inflammation. Moderation in diet and self-compassion seem to support both weight management and telomere health.
 
- Here is a summary of the main points in the text:
+ 
 
 1. Belly fat and metabolic health are more important for health and telomere length than overall weight or BMI. Having excess abdominal fat is linked to high risks of insulin resistance, high cholesterol, high blood pressure, and diabetes.
 

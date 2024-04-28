@@ -1091,7 +1091,7 @@ The passage discusses policies around AI and the Fourth Industrial Revolution in
 
 - The goal of developing emotionally intelligent robots in Japan is to achieve close human-robot coexistence and address social needs like elder and child care. This represents a shift from earlier industrial robots to a more human focus.
 
- Here is a summary of the passage:
+ 
 
 - In Japan during the 1980s robot boom period, two narratives developed around humanoid robots. The first focused on the "robot's heart" - the idea that robots have emotion and life. This was portrayed through robot performances. 
 

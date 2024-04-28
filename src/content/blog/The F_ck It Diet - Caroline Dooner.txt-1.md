@@ -179,7 +179,7 @@ In summary, the keys points are: embrace hunger and cravings after restriction r
 
 - The goal is to neutralize food - remove morality, judgment and fear so you can listen to your body's needs and desires without guilt.
 
- Here are a few key points from the passage:
+ 
 
 - Food neutrality is when food is not good or bad, and you eat intuitively based on hunger and cravings. This is the healthy relationship with food we should aim for. 
 

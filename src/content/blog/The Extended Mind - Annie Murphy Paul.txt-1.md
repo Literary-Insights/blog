@@ -433,7 +433,7 @@ Our relationship to built environments can also influence our thinking:
 
 Overall, both nature and designed spaces can shape our thinking in positive ways by providing different perspectives, stimulation and relief from modern distractions.
 
- Here is a summary of the passage:
+ 
 
 The Salk Institute, designed by architect Louis Kahn, was renowned for its open layout, abundant natural light and serene environment that helped create an optimal space for scientific research and thought. Despite this success, Kahn had previously built the Richards Medical Research Laboratories which was criticized for being cramped and dark. He corrected course with the Salk Institute by focusing on the needs of its occupants.  
 

@@ -285,7 +285,7 @@ So in summary, RPG progression is typically open-ended yet aims for satisfying c
 
 - Military and civilian simulations drawing on social sciences helped transition wargaming from strictly military conflicts to include multilateral dynamics and role-playing, laying foundations for the development of role-playing games.
 
- Here is a summary of the passage:
+ 
 
 - In the late 1960s and early 1970s, various communities in the US and UK were experimenting with role-playing activities and practices that prefigured the creation of Dungeons & Dragons. 
 

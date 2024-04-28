@@ -63,7 +63,7 @@ The passage talks about the difficulty of reversing course once you're already i
 
 In summary, the passage advocates for integrating occasional breaks and rest into our work to boost productivity, though it acknowledges that rest also brings introspection that can be unsettling at times. Overall, the benefits of increased focus, energy, and clarity of purpose are argued to outweigh the downsides.
 
- Here is a summary of the passage:
+ 
 
 - Several employees at France Telecom company have committed suicide due to recent reorganization at the company. 
 

@@ -163,7 +163,7 @@ Blackwell went on to study further in Europe but faced barriers as a woman. She 
 
 Blackwell inspired other pioneers like Sophia Jex-Blake and Elizabeth Garrett Anderson. Jex-Blake campaigned for women's admission to Edinburgh University's medical school, which was achieved in 1870. Anderson took lectures meant for male doctors and passed examinations to practice. In 1872 she opened the UK's first women's hospital. Blackwell, Jex-Blake and Anderson then founded the London School of Medicine for Women in 1874 to further train female physicians. Blackwell spent her later career campaigning for reforms in various areas including medicine, hygiene and women's suffrage. She helped establish the principle that women were equally capable as doctors.
 
- Here is a summary of the passage:
+ 
 
 The passage discusses the suffragette movement in early 20th century Britain, which fought for women's right to vote. It was led by Emmeline Pankhurst and her daughters, notably Christabel Pankhurst. They formed the militant Women's Social and Political Union (WSPU) which used political violence and acts of civil disobedience to draw attention to their cause, setting them apart from earlier suffragist groups that used only peaceful means. 
 

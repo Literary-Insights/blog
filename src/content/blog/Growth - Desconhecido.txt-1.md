@@ -217,7 +217,7 @@ In summary, the text discusses different growth trajectories and cautions agains
 
 Hope this summary helps! Let me know if you need me to clarify or expand on any part of it.
 
- Here is a summary of the passage:
+ 
 
 - Logistic growth follows an S-shaped trajectory where the rate of growth initially increases rapidly then slows down, forms a bend, and then increases at a decreasing rate until approaching the maximum limit. 
 
@@ -748,7 +748,7 @@ In summary, the passage discusses the importance and growth of primary and secon
 
 Hope this summary helps! Let me know if you need any clarification or have additional questions.
 
- Here is a summary of the passage:
+ 
 
 1. Waterwheels and water turbines saw dramatic gains in capacity over time, starting from around 1-2 kW for late Roman waterwheels to 50 kW by 1850. This represented around a 50-fold increase in capacity over 1500 years.
 
@@ -984,7 +984,7 @@ cranes can lift up to 94 metric tons at 100 meters radius while mobile cranes ca
 
 lift up to 1,200 metric tons.
 
- Here is a summary of the passage:
+ 
 
 The passage traces the growth of capacity and performance over time for various tools, simple machines, and ships through history. It uses cranes, tools for wheat production, and sail ships as examples to illustrate the trend. 
 
@@ -2043,7 +2043,7 @@ That covers the key points in the provided text regarding the concepts of imperi
 
 That's my attempt at summarizing the main ideas in the passage. Let me know if you would like me to clarify or expand on any part of the summary.
 
- Here is a summary of the passage:
+ 
 
 • Smartphones consume very little electricity annually compared to their embodied energy cost of production. However, data centers and information networks consume a significant amount of global electricity generation, around 5% in 2012 and projected to reach 10% by 2020. This illustrates that tiny devices can have a substantial environmental footprint. 
 

@@ -168,7 +168,7 @@ Does this help summarize the key points about Corner Number Three? Let me know i
 
 Does this help summarize some of the key points? Let me know if you need me to expand on any part of the summary.
 
- Here are a few key points from the passage:
+ 
 
 - The surgeon Liam had constructed a recovery plan for his marriage and health that depended solely on his own strengths. But this "self-made human" approach ignored his need for help and support from others. 
 

@@ -153,7 +153,7 @@ The key is balancing necessary tasks with keeping sight of the bigger picture, s
 
 A MAN’S WAY
 
- Here are a few key points from the passage:
+ 
 
 - Most men (about 80%) have a masculine sexual essence and are attracted to feminine women who complement their energy. The more masculine the man, the more feminine he prefers the woman. 
 
@@ -295,7 +295,7 @@ In summary, the key points are the differing priorities creating an asymmetry, t
 
 The main idea is that in an intimate relationship, the man and woman each have unique gifts and responsibilities. The man is responsible for providing direction, vision, and guidance to deepen the woman's capacity for love. The woman is responsible for bringing energy, vitality, and emotional flow to energize the man. By owning these complementary roles and gifts, both partners can support each other's growth and fulfillment in the relationship. The man serves the feminine by guiding the woman beyond her moods into loving openness. The woman serves the masculine by inspiring him with her radiant energy. Mutual gifting and serving each other in love allows the intimacy to flower into its full potential.
 
- Here are a few key points from the passage:
+ 
 
 - A man rediscovers his purpose through solitude, challenging situations, and spending time with other men who won't accept excuses. 
 

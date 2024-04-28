@@ -100,7 +100,7 @@ The main points are that Honnold achieved the "impossible" through incremental g
 
 - The key is having patience and persistence to make small gains, rather than expecting overnight transformational change. Sustainable success comes from pace for performance.
 
- Here are a few key points from the passage:
+ 
 
 - The "wheel of weariness" refers to the cycle of burnout that happens when people try to accomplish big goals too quickly through massive, rushed attempts. This leads to discouragement and stagnation. 
 

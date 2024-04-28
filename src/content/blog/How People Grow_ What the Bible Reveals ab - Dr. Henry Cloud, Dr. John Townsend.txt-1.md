@@ -923,7 +923,7 @@ So in summary, a balanced biblical view affirms human responsibility alongside a
 
 - Jesus said the two greatest commandments are to love God and love your neighbor. Following these undercuts sin by returning us to proper dependence on and relationship with God and others.
 
- Here are a few key points from the passage:
+ 
 
 - John had an encounter with truth from multiple sources that helped him grow. His wife, a client, and a friend all told him he was distant and preoccupied. Initially he denied it, but eventually he realized they were all reflecting the same truth back to him. 
 

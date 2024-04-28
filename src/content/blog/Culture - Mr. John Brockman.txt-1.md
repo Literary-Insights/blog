@@ -659,7 +659,7 @@ In summary, they have a nuanced debate about the internet's complex effects on a
 
 - This led Arthur to conclude there was no satisfactory theory of technology or technological evolution. He set out to develop common principles and a theory of how technology evolves.
 
- Here are a few key points from the passage:
+ 
 
 - Aristotle was able to tutor Alexander the Great effectively because he had a deep understanding of all knowledge at the time, as well as Alexander's interests, existing knowledge, and preferred learning style. 
 

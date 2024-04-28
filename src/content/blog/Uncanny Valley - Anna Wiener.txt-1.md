@@ -135,7 +135,7 @@ As part of her onboarding at a tech startup, the narrator's manager sets up lunc
 
 The startup hosts monthly events for people interested in data and analytics. The narrator attends one of these events and notes that most attendees are young men in tech attire eagerly pitching their startups. Her own team, the "Solutions Zone," helps attendees access and analyze their companies' data. The main presentation at the event is by two venture capitalists, and the narrator observes that the event combines few women, lots of money, and people eager to get funding.
 
- Here is a summary of the passage:
+ 
 
 - The narrator works as a solution specialist at an analytics startup in San Francisco. The company culture emphasizes transparency, hard work, and loyalty to the mission. Employees work long hours and are enthusiastic about the company’s success and growth. 
 

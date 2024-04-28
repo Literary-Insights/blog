@@ -164,7 +164,7 @@ So in summary, it outlines the early history of hedge funds and how they were pa
 
 - Paulson worked to find a way to structure investments that would allow him to effectively short the overheated U.S. housing market, recognizing it posed risks but also opportunities for large profits if the market turned.
 
- Here is a summary of the passage:
+ 
 
 The passage discusses Paolo Pellegrini's background and career up until receiving an unexpected phone call from his old friend John Paulson in 2004. It describes Pellegrini's childhood in Italy, where his father worked in electronics. Pellegrini showed an early interest in business and technology. He studied computer science and engineering in university in Italy before working briefly in Holland. 
 

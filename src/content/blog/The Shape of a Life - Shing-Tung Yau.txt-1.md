@@ -80,7 +80,7 @@ The informal lessons and high expectations from the author's father made a deep 
 
 Though conditions were difficult overall, the author's parents set an example of generosity and virtue through helping others in need. The small joys and celebrations amidst hardship helped provide balance. The early training and lessons from the author's father shaped his intellectual and personal development in lasting ways.
 
- Here is a summary of the passage:
+ 
 
 - The author grew up in Hong Kong and attended primary school there. His father introduced him to Confucian teachings at an early age.
 
@@ -342,7 +342,7 @@ So in summary, the passage describes the author's ambitions and strategies for t
 
 That covers the key details in the passage, focusing on the author's interactions with others at IAS, his research on minimal surfaces, and his considerations regarding remaining in the U.S. beyond his initial fellowship year.
 
- Here is a summary of the passage:
+ 
 
 The Vietnam War was still ongoing and Paul Yang, a friend of the author, warned him that he may be drafted due to his birthdate. This scared the author and he did not want to be part of the Vietnam War. 
 
@@ -534,7 +534,7 @@ During my visit, I had an unpleasant encounter with Wenjun Wu, a former ally of 
 
 In summary, 1979 was an eventful year for me with the Hawaii trip, IAS symposium, lectures in China, and falling out with Chern, though there were also some positive collaborations with colleagues.
 
- Here is a summary of the passage:
+ 
 
 The author was invited to visit China as an honored guest. He wanted to visit the village where his father was born to reconnect with his ancestral roots. However, he had difficulty getting permission and faced many obstacles and excuses. 
 

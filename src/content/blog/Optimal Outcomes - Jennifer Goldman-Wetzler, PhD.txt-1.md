@@ -645,7 +645,7 @@ In conclusion, the author pays tribute to the many people who helped make this b
 
 Does this look accurate? Let me know if you'd like me to expand or modify any part of the summary.
 
- Here is a summary of the main points in the text:
+ 
 
 • The author discusses several conflict habits like Blame Others, Shame Yourself, Shut Down, and Relentlessly Collaborate. These habits can form patterns of interaction that perpetuate recurring conflict.
 

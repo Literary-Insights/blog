@@ -210,7 +210,7 @@ In summary, by recognizing that everything matters in creating a positive custom
 
 - Consistently executing the little things shows customers they matter and can lead to unexpected appreciation. The everything and everyone matters approach can provide comfort during difficult times in customers' lives.
 
- Here are a few key points from the passage:
+ 
 
 - The Surprise and Delight principle involves providing customers with positive unexpected experiences and added value beyond just the core product or service. 
 

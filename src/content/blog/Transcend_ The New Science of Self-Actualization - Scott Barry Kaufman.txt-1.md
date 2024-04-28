@@ -990,7 +990,7 @@ So in summary, while sensation seeking involves risk-taking, related traits may 
 
 So in summary, Maslow and others saw discovering and pursuing purpose as essential for well-being, self-actualization, authenticity and drawing out the best in human nature. Purpose provides motivation and significance to life.
 
- Here is a summary of the passage:
+ 
 
 - Viktor Frankl had a deep influence on humanistic psychology in the 1950s-60s, particularly on Abraham Maslow's concept of self-actualization. 
 

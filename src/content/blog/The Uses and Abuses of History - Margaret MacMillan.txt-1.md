@@ -378,6 +378,6 @@ So in summary, the text discusses how analogies from history like "Munich" and "
 
 That's a summary of the main points presented in the provided text regarding the proper use of history and the risks of misusing historical analogies. Let me know if you would like me to expand or modify the summary in any way.
 
- Here is a summary of the passage:
+ 
 
 The author thanks many people who helped with the book, including friends, family, and colleagues. The author singles out some family members for special thanks: brothers Tom and David, sister Ann, brother-in-law Peter Snow, and nephews Dan and Alex. The author's agent Caroline Dawnay is also thanked. The author specifically mentions gratefully how the author's mother Eluned was an excellent critic and proofreader. The author thanks Bob Bothwell for teaching the author so much about history over the years and for reading the manuscript and providing advice. The author also expresses appreciation for being at Oxford University and interacting with colleagues interested in history. The author's students at St. Antony's are thanked for listening and providing valuable information. Finally, the author thanks those involved in bringing the book to publication, including the Canadian agent Michael Levine and staff at Penguin Group Canada.

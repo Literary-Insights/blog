@@ -223,7 +223,7 @@ The key takeaway is that a primarily plant-based diet focused on whole grains, v
 
 - Starting simply and incrementally is recommended over trying to completely overhaul your diet immediately.
 
- Here is a summary of the passage:
+ 
 
 The author emphasizes the importance of exercise for brain health. She has been an athletic and active person since childhood, participating in sports like gymnastics, tennis, horse riding, and running. 
 

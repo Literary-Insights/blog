@@ -473,7 +473,7 @@ The passage warns that knowing your opponent is key to success. Certain types sh
 
 The passage describes how a vengeful man pursued his target relentlessly for years, finally enacting his revenge through murder. It shows Aguirre's brazen and determined nature in how he calmly returned to the scene of the crime just to retrieve a forgotten hat.
 
- Here is a summary of the passage:
+ 
 
 Joseph Duveen was a prominent art dealer who prided himself on studying his clients in advance to determine their weaknesses and tastes. However, when he met Henry Ford, he made the mistake of not properly assessing Ford's simple tastes and character. 
 
@@ -1040,7 +1040,7 @@ The passage discusses the strategic use of generosity and patronage by powerful 
 
 The overall message is that powerful figures have effectively used generosity, patronage and gift-giving as a strategic "weapon" or tool to influence others, gain loyalty, placate potential enemies, and maintain their positions of power and influence. Careful and targeted distribution of money and favors can manipulate emotions and undermine opposition.
 
- Here is a summary of the passage:
+ 
 
 The passage describes an incident involving the antique dealer Fushimiya who stops at a village teahouse. After inspecting a teacup closely, he purchases it even though it is an ordinary cup. This piques the interest of a local artisan who believes the cup must be valuable. Fushimiya laughs and explains he only bought it because the steam hung strangely from it. He gives the cup to the artisan for free. 
 

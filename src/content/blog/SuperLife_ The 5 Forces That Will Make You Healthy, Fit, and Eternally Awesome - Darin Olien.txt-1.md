@@ -80,7 +80,7 @@ Does this look like a fair summary of the key takeaways from the provided text? 
 
 Hope this summary helps! Let me know if you have any other questions.
 
- Here is a summary of the passage:
+ 
 
 • A study found that sprouting grains for a limited time increases nutrients like essential amino acids, vitamins, and sugars while decreasing antinutrients and gluten proteins. Longer sprouting leads to increases in fiber.
 

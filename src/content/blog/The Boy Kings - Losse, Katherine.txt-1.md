@@ -333,7 +333,7 @@ Eventually, they go down to the casino intending to find their coworkers but get
 
 The summary outlines the key details of the author's experience flying to Las Vegas, preparing for and eventually skipping a coworker's birthday party, walking around the strip, and ending up in a closing down casino. The details give a sense of the contradictions between the glamour and tackiness of Las Vegas as well as the author's mixed feelings about the situation.
 
- Here is a summary of the passage:
+ 
 
 • Shortly after Facebook launched its developer platform at F8 in 2007, thousands of developers signed up to build apps on the platform. Many apps gained wide usage and popularity on Facebook. While Mark Zuckerberg and the engineers saw this rapid growth as a sign of the platform’s success, the customer support team had concerns about spam and inauthenticity. 
 

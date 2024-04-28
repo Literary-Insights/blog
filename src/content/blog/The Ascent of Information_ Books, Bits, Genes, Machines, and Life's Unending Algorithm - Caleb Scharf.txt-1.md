@@ -728,7 +728,7 @@ The Great Oxygenation event unlocked a new source of energy for biological organ
 
 In summary, the text argues that while natural disruptions like extinction events are unplanned and violent, major innovations like the Great Oxygenation are progressive but also take a long time to unfold. They represent new "energy expansions" that change the biosphere and enable new life forms to emerge.
 
- Here is a summary of the passage:
+ 
 
 The authors argue that the rise of data and information on Earth may represent a planetary disruption on par with the rise of oxygen. While the current shift towards a data-driven world seems rapid, it has been a long time in the making, starting with the earliest replicators and sensory mechanisms. 
 
@@ -846,7 +846,7 @@ The text brings up the concept of "Boltzmann brains" - spontaneously formed, fun
 
 In summary, the key points are: potential for huge gains in computing if near a black hole, the likely heat death of the universe, persistence of information for a time, concept of Boltzmann brains randomly appearing in heat death, and possible recreation of past information. The text questions whether the universe is truly random or could be truly unpredictable.
 
- Here is a summary of the passage:
+ 
 
 The author discusses Scott Aaronson's essay about whether the universe has free will. Aaronson argues that randomness does not imply free will since randomness follows statistical rules. True free will may come from "Knightian uncertainty" where things can't be described by probabilities. 
 

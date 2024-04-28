@@ -542,7 +542,7 @@ Confronting problems productively is an essential aspect of character integrity.
 
 - Loss of the hunger and drive to grow causes people to become zombies, just maintaining day to day life. Their potential goes unrealized, like an invisible museum that is never built. Character must keep the drive alive.
 
- Here are a few key points from the passage:
+ 
 
 - Growth requires taking risks and stepping outside one's comfort zone. But successful people take calculated risks based on abilities they have developed, not pure gambles.
 

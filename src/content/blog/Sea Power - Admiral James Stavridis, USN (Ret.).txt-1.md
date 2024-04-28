@@ -770,7 +770,7 @@ So in summary, the key points discuss the importance of undersea cables for glob
 
 - Maintaining a naval presence in the Arabian Gulf with a carrier group and Marines is essential given the importance of the region's oil flows. The US also needs icebreakers and infrastructure to operate in the Arctic.
 
- Here is a summary of the passage:
+ 
 
 The passage argues that a nation's security and prosperity forever depends on its naval power and sailors. It acknowledges that being a maritime nation requires maintaining a strong navy to secure access to the seas and protect economic and trade interests that flow through maritime routes. Sailors are recognized as providing crucial security by manning ships and maintaining the nation's presence on the oceans. The passage presents the view that the protection and prosperity a nation derives from the sea can only be guaranteed through maintaining robust sea power projected by naval forces and sailors. In summary, it expresses that a maritime nation will always rely on its navy and sailors to safeguard its security and enable prosperity gained from international commerce that transits the oceans.
 

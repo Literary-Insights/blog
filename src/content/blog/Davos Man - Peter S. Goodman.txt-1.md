@@ -657,7 +657,7 @@ Zapolsky's strategy of targeting Smalls was revealed publicly, forcing Amazon to
 
 Shareholder attempts to have Amazon protect worker health were quashed. Whistleblowers were fired, fueling perceptions of a toxic culture. Protests grew, with some targeting Bezos' mansion. Meanwhile, Amazon sought intelligence analysts to monitor labor groups, and produced propaganda segments portraying its safety efforts, which local TV stations aired as news.
 
- Here are a few key points from the passage:
+ 
 
 - In Italy, years of privatization and austerity weakened the health system in Lombardy, leaving it unprepared for the COVID pandemic. Critical supplies were lacking and the focus was on profit over care. 
 

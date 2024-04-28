@@ -208,7 +208,7 @@ The key points are that Agee finds schools and curricula to be largely irrelevan
 
 - The authors use English teachers as an example. While accepting inquiry-based learning, they have focused on grammar, not the range of language situations and human discourses that would genuinely interest and engage students. The reasons for this include teachers' own limitations and fears.
 
- Here is a summary of the passage:
+ 
 
 - The author criticizes most English teachers for being detached from real life and human concerns. They are more interested in grammatical rules and labels rather than the actual experience of language. The author thinks Kafka would find this focus on "everyday" life rather strange.
 

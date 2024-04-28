@@ -157,7 +157,7 @@ The key is finding the optimal balance of familiar and novel learning that align
 
 - Take time to carefully consider any new curve before fully committing. Exploration leads to smarter choices and greater likelihood of fulfilling growth on your ascent.
 
- Here are a few key points from the passage:
+ 
 
 - Mikaila Ulmer started a successful lemonade business at age 9 after learning about the importance of bees. She turned a negative experience (bee stings) into a positive outcome. 
 
@@ -447,7 +447,7 @@ The key is to keep your high performers focused, engaged and supported so they c
 
 In summary, the Mountaineer phase requires courage, resilience, and focus as you start the upward climb of a new S Curve, building on your prior mastery. Small steps accumulate into substantial growth. With each curve climbed, you gain confidence and capability to scale greater heights.
 
- Here are a few key points from the passage:
+ 
 
 - Feyzi Fatehi is a software engineer who became a pioneer in real-time database systems. He constantly challenged himself to learn new things and take on new roles, even when it meant giving up comfort and security. 
 

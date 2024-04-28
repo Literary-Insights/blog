@@ -808,7 +808,7 @@ In summary, the text provides an overview of the EOQ model and its common usage,
 
 - The key consideration is how to balance ordering fixed costs with inventory carrying variable costs given demands and costs to minimize total relevant annual costs. Quantity discounts, inflation, storage fees, and other considerations may further impact the optimal order size.
 
- Here is a summary of the passage:
+ 
 
 The passage discusses solving inventory optimization problems when demand is approximately level. It presents a case study where a bookkeeper compiled time and cost data for various activities involved in processing domestic and imported orders. 
 

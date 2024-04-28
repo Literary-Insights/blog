@@ -689,7 +689,7 @@ So in summary, Billy Beane is dragged into watching a crucial A's game but grows
 
 - Beane reviewed stats showing the A's scored more runs than the Twins despite the Twins having a higher batting average and slug: ging percentage, because the Twins gave away more outs through caught stealings and sacrifice bunts.
 
- Here is a summary of the passage:
+ 
 
 - The Oakland A's lost to the Minnesota Twins in the 2001 MLB playoffs. This sparked criticism from baseball insiders like Joe Morgan who argued the A's strategy of focusing on walks and home runs instead of manufacturing runs didn't work in the playoffs. 
 

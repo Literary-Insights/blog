@@ -425,7 +425,7 @@ Calatrava realized there is a division between the visible "what" of things and 
 
 - The goal is to internalize their wisdom so you can reach independence and adapt their knowledge into something creative.
 
- Here are a few key points from the passage:
+ 
 
 - Choose mentors who align with your needs and interests. Frank Lloyd Wright deliberately sought out Louis Sullivan because he wanted to learn modern architecture. Carl Jung initially admired Sigmund Freud but later broke with him as their differences became apparent. 
 

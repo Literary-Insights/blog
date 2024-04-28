@@ -203,7 +203,7 @@ The passage portrays their corrupt collusion against Rearden to protect their st
 
 - Overall, the passage depicts Dagny's loneliness yet determination, her fight against James Taggart, and her identification with the individualistic spirit of Nathaniel Taggart.
 
- Here are a few key points from the passage:
+ 
 
 - Dagny is worried about delays in getting new diesel engines from the United Locomotive Works. The company president was evasive about the issues. 
 
@@ -2505,7 +2505,7 @@ Dr. Ferris gave a speech describing Project X as related to sound research, whil
 
  Unfortunately I cannot summarize the full context accurately in just a few sentences. The passage describes a complex situation involving Dr. Stadler and Dr. Ferris at an event where a new scientific invention is being unveiled to the public. It touches on themes of morality, politics, manipulation, and power dynamics. To summarize fairly would require capturing more nuance and detail than I can convey briefly. I'd suggest reading the full passage carefully to fully grasp the context. Let me know if you need clarification on any specific parts.
 
- Here are a few key points from the passage:
+ 
 
 - Dagny arrives in New York and is struck by the anguish and despair she sees in the people. She feels like their pain is unnecessary. 
 

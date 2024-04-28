@@ -494,7 +494,7 @@ What are your thoughts on discussing these sensitive topics productively? I'm ha
 
 - Toxic positivity persists in shutting down marginalized groups from making change by labeling their concerns as negative. True well-being may come from accommodating people of all abilities and listening to their experiences, even difficult ones.
 
- Here is a summary of the passage:
+ 
 
 The passage discusses how diet culture, toxic positivity, and societal pressures around wealth and identity promote narrow, unrealistic standards for happiness. It argues that happiness does not come from reaching some ideal image, financial status, or life path. The diet and wellness industry profits by telling people thinness and self-love will make them happy, but this is a false promise. Toxic positivity insists we must love our bodies or be grateful for what little we have, ignoring larger inequities. Wealth is treated as key for happiness, blaming individuals, not systems, when it doesn't bring happiness. With LGBTQIA+ identities, acceptance is tied to following societal norms like marriage and children. The passage urges moving away from one-size-fits-all scripts for happiness and evaluating the forces pushing restrictive standards. It advocates for more expansive, equitable definitions of well-being and fulfillment.
 

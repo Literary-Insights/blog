@@ -351,7 +351,7 @@ The passage discusses how people can hurt others by making inaccurate assumption
 
 - Understanding the automatic cognitive roots of biases helps explain why they are so pervasive and difficult to recognize in ourselves.
 
- Here are a few key points from the passage:
+ 
 
 - Top-down processing relies on our knowledge, beliefs, and expectations to interpret sensory information. It allows us to make sense of the world, but can also lead to biased interpretations. 
 

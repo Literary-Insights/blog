@@ -403,7 +403,7 @@ The essay discusses how realizing that one's life lacks meaning or purpose can b
 
 Sometimes larger events, like the COVID-19 pandemic, also give whole societies this "possibility shock" - an understanding that things could be different if we wanted. The lockdowns revealed overlooked joys like family time and neighborliness. According to the author, we must hold onto this sense of strangeness when things return to "normal" and make deliberate choices about how we use our hours rather than slip back into default routines. The challenge is avoiding paralyzing grandiosity and instead finding small, concrete ways to make our time feel meaningful day to day.
 
- Here are a few key points from the passage:
+ 
 
 - Human civilization is only about 6,000 years old, which is a very short timespan on a cosmic scale. Our individual lives are mere blips in the vast expanse of time.
 

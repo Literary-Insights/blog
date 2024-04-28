@@ -502,7 +502,7 @@ DARPA, the Pentagon's research agency, has been behind major 20th century techno
 
 In summary, our intelligence likely arose from a combination of factors, with genetics providing the blueprint but evolutionary forces shaping the advantage of greater intelligence. The origin of human intelligence remains an open and intriguing scientific question.
 
- Here are a few key points from the passage:
+ 
 
 - Evolution is no longer rapidly increasing human intelligence or brain size due to biological constraints like the size of the birth canal and reduced evolutionary pressures. 
 

@@ -129,7 +129,7 @@ In summary, the text outlines four levels of reading and discusses challenges in
 
 That covers the main progressions and arguments presented in the summary, focusing on the key points about methods, stages of reading development, and the differences between elementary literacy and mature reading ability.
 
- Here is a summary of the main points in the text:
+ 
 
 1. Inspectional reading is a distinct level of reading beyond elementary reading. It requires a reader to have achieved the basic skills of elementary reading first.
 
@@ -1200,7 +1200,7 @@ Newton's remark reflects a sense of wonder and curiosity about the vast mysterie
 
 In short, Newton's remark shows a contemplative attitude near the end of his life. He takes pride in his discoveries but acknowledges how limited they were compared to the huge scope of scientific knowledge that still eluded mankind. His metaphor reflects an enjoyment of discovery and curiosity that he retained even in old age.
 
- Here is a summary of the passage:
+ 
 
 The passage provides background information on Dante Alighieri and his landmark work Divine Comedy. It consists of two main parts:
 

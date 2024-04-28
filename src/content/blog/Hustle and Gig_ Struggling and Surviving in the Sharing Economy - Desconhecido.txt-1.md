@@ -151,7 +151,7 @@ In summary, the text discusses different definitions and conceptualizations of t
 
 In summary, the text discusses the concepts of Gemeinschaft and Gesellschaft in relation to the sharing economy, questions its claims of building community, and highlights issues of discrimination and risk shifting for sharing economy workers.
 
- Here is a summary of the passage:
+ 
 
 • Many jobs today offer low pay, few benefits, and economic insecurity, known as the gig economy. Casualization of the workplace has increasingly affected managerial and professional workers.
 

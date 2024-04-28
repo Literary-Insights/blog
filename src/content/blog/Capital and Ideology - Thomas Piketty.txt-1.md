@@ -2893,7 +2893,7 @@ So in summary, starting in the 1960s the Democratic party became seen as the par
 
 - The US has historically assigned fixed racial identities, while France avoids this. But both countries see identity issues exploited politically with comparable electoral divides.
 
- Here are a few key points from the passage:
+ 
 
 - The theory that disadvantaged whites left the Democratic Party solely due to racial issues is too deterministic. The educational cleavage reversal occurred gradually across the US, North and South, and also in countries without a civil rights movement like France.
 

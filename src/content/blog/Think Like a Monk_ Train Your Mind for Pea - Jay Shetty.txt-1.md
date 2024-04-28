@@ -239,7 +239,7 @@ The key is increased self-awareness - recognizing what drives us and deliberatel
 
 - Focus on purpose and meaning rather than chasing superficial success. A life lived intentionally with conviction about why your actions matter brings true fulfillment.
 
- Here are a few key points from the passage:
+ 
 
 - Intentions matter more than achievements. Defining ourselves by our intentions (e.g. to help others, support family, live passionately) gives us a sense of purpose not tied to external factors.
 

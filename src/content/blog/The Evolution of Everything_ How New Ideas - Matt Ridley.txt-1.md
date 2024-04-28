@@ -322,7 +322,7 @@ Economists struggled to explain this phenomenon of modern economic growth. The m
 
 - Technology builds on itself in a cumulative process, with each innovation opening up new possibilities for further innovations. Useful technologies are selected and reproduce, driving an accelerating pace of technological evolution.
 
- Here are a few key points from the passage:
+ 
 
 - Invention and discovery often occur simultaneously and independently to multiple people, suggesting these breakthroughs are inevitable when the time is ripe. Examples given include the lightbulb, telephone, calculus, theory of evolution, and laws of physics like relativity.
 

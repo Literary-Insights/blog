@@ -1014,7 +1014,7 @@ In summary, the coming shifts require major changes to rebuild manufacturing in 
 
 - Overall, disruptions to globalized trade and finance will severely impact agricultural production and food availability in much of the world. Self-sufficiency will be key.
 
- Here are a few key points from the passage:
+ 
 
 - Many countries will become desperate for food imports as climate change reduces agricultural outputs. Countries close to food exporters or with leverage over them will fare better. 
 

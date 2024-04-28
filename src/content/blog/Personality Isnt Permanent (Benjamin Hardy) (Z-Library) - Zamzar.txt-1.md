@@ -30,7 +30,7 @@ BOOK LINK:
 
 Does this look like a reasonable summary of the key points from the introduction? Let me know if you'd like me to modify or expand the summary in any way.
 
- Here is a summary of the main points in the text:
+ 
 
 • Personality is surface-level and transitory, not the most fundamental aspect of who you are. Your ability to make choices and own your decisions is more essential to your humanity.
 
@@ -266,7 +266,7 @@ In summary, exposure provides you with options for goals, desire motivates you t
 
 In summary, the key takeaway is that confidence drives one's imagination, goals, and accomplishments. Confidence is fragile but can be built through courageous actions and peak experiences gained by intentionally pursuing a vision of one's ideal future self. This future self should be viewed as a different person that acts as a role model to strive towards through deliberate practice.
 
- Here is a summary of the main points in the text:
+ 
 
 • In order to achieve your future self and major goals, you need to start with envisioning what your future self is like and what possibilities they have. This helps you determine the one major goal that would enable you to achieve that future self.
 

@@ -335,7 +335,7 @@ In summary, pervasive secrecy, overclassification, inaccessible data, and scarce
 
 - Understanding these cognitive limitations is key. Researchers and officials now try to develop techniques to counteract biases and improve analysis. But there are no easy fixes for the difficulties of understanding an uncertain world.
 
- Here are a few key points from the passage:
+ 
 
 - Predicting the future is difficult, even for experts. Intelligence analysts have an especially hard time because they lack comparable historical data and face asymmetric information compared to analysts in other fields like sports.
 

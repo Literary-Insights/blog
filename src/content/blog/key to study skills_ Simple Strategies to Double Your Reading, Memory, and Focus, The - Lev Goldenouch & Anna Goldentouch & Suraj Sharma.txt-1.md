@@ -835,7 +835,7 @@ In summary, while Bitcoin and the Internet share some characteristics as decentr
 
 - Ptolemy built on this in the 2nd century AD, developing more complex models that became dogmatic in the Middle Ages. Copernicus was educated in the Renaissance and returned to Poland a cleric. He revived the idea that Earth moves, contradicting the absurdly complex models of antiquity that could no longer fit facts by that time. This marked the transition to modern astronomy.
 
- Here is a summary of the passage:
+ 
 
 - Mary was the eldest daughter of King Charles I and Queen Henrietta Maria of England. She was born in 1631 at St. James's Palace in London. 
 

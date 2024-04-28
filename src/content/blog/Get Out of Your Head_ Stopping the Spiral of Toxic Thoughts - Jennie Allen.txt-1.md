@@ -189,7 +189,7 @@ The key is to shift negative thought patterns to truths about God. For example, 
 
 - Community requires give and take. You have to initiate and invest in others too. Be willing to share your struggles and support others through theirs.
 
- Here are a few key points from the passage:
+ 
 
 - We need healthy, whole friendships in order to live well. Seek out emotionally intelligent people who are making progress in life. 
 

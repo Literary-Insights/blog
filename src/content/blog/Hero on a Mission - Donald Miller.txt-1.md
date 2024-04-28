@@ -451,7 +451,7 @@ Does this help summarize the key points about using goal-setting worksheets as p
 
 - The daily ritual and planner keep your story and goals front and center amidst distractions, helping you maintain meaning, direction, and intentionality.
 
- Here are a few key points from the passage:
+ 
 
 - The author bought property (Goose Hill) with many trees, including ash, oak, maple, cedar, and hackberry. 
 

@@ -498,7 +498,7 @@ The passage is a critique of Dr. Cumming's intellectual inconsistency, intoleran
 
 - Overall, the author argues Christian conceptions of God fail to withstand skepticism and ultimately collapse back into mystery and agnosticism about God's true nature.
 
- Here is a summary of the passage:
+ 
 
 Anatole France argues that we should not say there are no miracles just because none has been proven. This leaves the door open for religious people to claim future proof. Rather, miracles are inherently unprovable because anything within nature conforms to natural laws, whether known or unknown. Even if we could silence this instinctive feeling, we could never definitively state that an event is outside the bounds of nature. The notion of miracles belongs to an undeveloped mindset and cannot persist as we gain systematic knowledge of the universe. Wise Greeks rejected miracles, seeing all events as conforming to natural laws. Nowadays, human reason is less assured. What's annoying is when people say they don't believe in miracles because none is proven. If called to investigate miracles, a truly scientific thinker could never conclusively prove or disprove one, as miracles elude evidence by definition. The wooden leg or the crutch prove nothing scientifically. Miracles belong to an early phase of human knowledge and cannot withstand reasoned scrutiny. The wise stance is to reject the very notion of the miraculous.
 

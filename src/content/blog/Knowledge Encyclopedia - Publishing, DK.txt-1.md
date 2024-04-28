@@ -75,7 +75,7 @@ So in summary, it describes the widely accepted scientific theory that the unive
 
 - Massive stars end as supernovae, possibly leaving behind neutron stars or black holes. The most massive stars are crushed by gravity into black holes without exploding. Nuclear fusion in stars creates heavier elements that are recycled when stars die.
 
- Here is a summary of the passage:
+ 
 
 - The surface of the Sun looks grainy due to the bubbles of hot gas that rise from below and form granules that are each around 600 miles wide and last for about 8 minutes. 
 

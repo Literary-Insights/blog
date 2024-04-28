@@ -296,7 +296,7 @@ Does this cover the significant points concisely and objectively? Let me know if
 
 Is this an adequate summary of the main points? Let me know if you need anything else summarized or explained differently.
 
- Here is a summary of the passage:
+ 
 
 The author realizes that ability, not motivation, is the key to making behaviors into habits. He uses flossing as an example. Though he knew academically that ability was necessary, he could notcould only form the habit of daily flossing for himself once he focused on ability.  
 
@@ -656,7 +656,7 @@ The key is to identify the minor habit that will have the most meaning for you. 
 
 The main takeaways are that acquiring these skills involves diving in and practicing while staying flexible and adapting based on what works for you. Over time, you will improve at choosing and maintaining the proper habits that lead to transformation.
 
- Here is a summary of the main points in the text:
+ 
 
 • The author discusses four skills needed to create and maintain habits: Meaning, Process, Self-Insight, and Context Skills. 
 

@@ -82,7 +82,7 @@ In summary, the book makes the case for incremental change through Microsteps as
 
 - High-quality sleep is essential for peak performance, health, and well-being. Prioritizing sleep allows us to be our best selves.
 
- Here are a few key points from the passage:
+ 
 
 - Sleep is critically important for both physical and mental health. Lack of sleep impairs us more than lack of food or exercise. 
 
@@ -352,7 +352,7 @@ The key is to consciously build communication skills and nurture our most import
 
 - Finding inspiration in everyday moments cultivates gratitude, meaning, and a sense of awe. This inspires us to create things that uplift ourselves and others.
 
- Here are a few key points from the passage:
+ 
 
 - We all have an innate capacity for creativity and wonder, though it can fade as we grow up and get busy with adulthood. Reconnecting with our creativity is key to living a thriving life. 
 
@@ -366,7 +366,7 @@ The key is to consciously build communication skills and nurture our most import
 
 - Overall, small steps to unplug, find silence, take breaks, and change our mindset about creativity can help unlock our inner creative potential. Whatever our goals and dreams are, tapping into our creativity can help bring them to life.
 
- Here are a few key points from the passage:
+ 
 
 - Scheduling time for boredom can help us prioritize it and tap into creativity. Taking a device-free stroll, sitting still, or allowing our minds to wander can spark new ideas.
 

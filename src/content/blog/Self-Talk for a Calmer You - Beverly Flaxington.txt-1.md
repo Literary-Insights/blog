@@ -340,7 +340,7 @@ The goal is then to incorporate positive self-talk, such as reframing events as 
 
 The overall message is that positive self-talk can help manage stress, take better care of yourself, accomplish goals, finish tasks, and feel more in control of your time by countering negative self-talk patterns. Small, consistent changes with an optimistic mindset were emphasized.
 
- Here is a summary of the passage:
+ 
 
 Most important: Reordering your to-do list by priority. Prioritizing tasks based on importance allows you to focus your time and energy on what matters most. Breaking large tasks into smaller, discrete steps makes them feel more manageable. Estimating time frames for each task and step helps create a realistic schedule. 
 

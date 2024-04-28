@@ -736,7 +736,7 @@ In summary, from the 1990s girl games movement to the proclamations of cyberfemi
 
 - Howard Aiken, Hopper's supervisor, could be difficult to work with but recognized her talent. Hopper excelled in the collaborative, creative environment at Harvard where she first learned about computing. Her insatiable curiosity and ability to explain complex topics clearly contributed to her success.
 
- Here is a summary of the passage:
+ 
 
 - Grace Hopper popularized the metaphor of different programming languages as a “Tower of Babel.” In the 1950s, there were many different languages that were incompatible with each other. 
 

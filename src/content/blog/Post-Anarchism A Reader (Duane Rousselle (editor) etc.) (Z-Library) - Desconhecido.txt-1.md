@@ -830,7 +830,7 @@ While identity politics movements have sometimes strategically deployed essentia
 
 So in summary, it reflects on the role of the state in generating fear and the author's own struggles with identity and authority, seeing care of the self through activities like gardening as a release from these constrained notions of the self.
 
- Here is a summary of the passage:
+ 
 
 The passage discusses how Emma Goldman's work has been interpreted and discussed in anarchist histories, anthologies, and contemporary anarchist theory. While Goldman is recognized for introducing feminism to anarchism and her activist work, she is often not taken seriously as a political thinker in her own right. Her theoretical dimensions and original voice have been overlooked or given only passing reference. 
 

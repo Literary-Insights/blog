@@ -38,11 +38,7 @@ BOOK LINK:
 - Performing small acts of kindness
 - Developing a "gratitude attitude"
 
-7. The expert fixing the broken boiler in minutes represents how effective change does not have to be time-consuming, it's just a matter of "knowing exactly where to tap."
-
-Does this cover the key ideas in the extract? Let me know if you would like me to expand on or modify any part of the summary.
-
- 
+7. The expert fixing the broken boiler in minutes represents how effective change does not have to be time-consuming, it's just a matter of "knowing exactly where to tap." 
 
 • Happiness does not just make you enjoy life more, it actually causes success in both personal life and career. Studies show that happy people are more social, altruistic, self-confident, able to resolve conflicts, and have stronger immune systems.
 
@@ -78,7 +74,7 @@ The text discusses the effectiveness of writing as a means to promote happiness 
 
 That covers the main points summarized from the provided text. Let me know if you would like me to expand or modify anything in the summary.
 
- Here is a summary of the passage:
+ 
 
 The passage discusses whether buying material goods or experiences is more likely to bring happiness. It argues that purchasing experiences tends to make people happier in both the short and long term for several reasons:
 

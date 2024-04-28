@@ -564,7 +564,7 @@ Your Parents: Call or visit your parents more often to see how they're doing and
 
 The question to build better connections is: What is one way I can show you more appreciation? Asking this question shows you genuinely care about the other person and want to meet their needs.  By understanding what others value and need, and showing your appreciation, you can build stronger relationships.
 
- Here is a summary of the passage:
+ 
 
 - The passage discusses discovering one's "primary values" - the underlying motivations that drive a person's decisions and desires. 
 

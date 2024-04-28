@@ -1269,7 +1269,7 @@ Several examples of social auditing projects are provided from Ghana, Chile and 
 
 In summary, evaluating interventions through community involvement and social auditing can provide valuable feedback to improve implementation and scale up solutions that work. Technologies like crowdcasting platforms and existing social media tools can facilitate this process.
 
- Here is a summary of the main points in the text:
+ 
 
 • Road fatalities were a major public problem in Victoria, Australia in the
 

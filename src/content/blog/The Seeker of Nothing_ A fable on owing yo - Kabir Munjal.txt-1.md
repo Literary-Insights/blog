@@ -127,7 +127,7 @@ The figure offers the narrator a chance to regain his old life if he kills an ev
 
 As he dies, the narrator hears a voice that has lived at the bottom of a lake for centuries, protecting the realm from mankind's hunger. The vision depicts a psychological journey of trauma, manipulation and realization.
 
- Here is a summary of the passage:
+ 
 
 The narrator wakes up in an unfamiliar place after having a strange dream about choosing good over evil. He is being cared for by a desert community in modest mud brick huts. His servant Elar has washed his dirty clothes but in the process lost an important golden key the narrator had been keeping. After searching frantically, the narrator finds the key hidden in his clothes, realizing it must have gotten there magically. 
 

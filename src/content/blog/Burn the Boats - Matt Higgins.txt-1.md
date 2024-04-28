@@ -128,7 +128,7 @@ So in summary, the passage argues successful people trust their instincts over e
 
 The overall message is about normalizing failure, focusing on growth opportunities it provides, having empathy and understanding towards yourself and others, and using awareness of mortality to confront fears and take bold risks and leaps forward in life.
 
- Here is a summary of the passage:
+ 
 
 The passage discusses Jesse Derris, a talented young public relations professional, and his decision to leave his successful career at a big PR firm to start his own agency. His mentor convinced him it was the right career move by emphasizing that depending on others for his success meant there was more risk and less control over his own fate. 
 

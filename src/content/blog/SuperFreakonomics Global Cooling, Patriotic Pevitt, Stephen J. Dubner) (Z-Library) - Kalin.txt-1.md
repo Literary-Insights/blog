@@ -554,7 +554,7 @@ In summary, many common assumptions about climate change are oversimplified or m
 
 - Geoengineering solutions face skepticism and lack incentives, similarly to hand-washing. Myhrvold argues geoengineering is needed because behavior change is unrealistic for the climate problem's scale and urgency.
 
- Here are a few key points from the passage:
+ 
 
 - Microeconomists study the economic choices and behaviors of individuals, including things like handwashing and terrorism. 
 

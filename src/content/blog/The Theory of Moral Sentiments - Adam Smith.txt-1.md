@@ -521,7 +521,7 @@ The key points are that our sympathy depends on whether we approve/disapprove of
 
 - Even secret wrongs haunt the guilty with shame and remorse. These pangs of conscience are unavoidable without total callousness.
 
- Here is a summary of the passage:
+ 
 
 The passage discusses how innocent people suffer greatly when falsely accused of crimes, while actual criminals often feel little remorse. It argues that the innocent are pained not just by any punishment, but by the indignation of being blamed and the blow to their reputation. Their agony can be worse than that of actual criminals who feel little sense of wrongdoing. The passage contends that an innocent person is deeply mortified by the stain on their character, tormented by the injustice, and haunted by the disgrace to their memory in the minds of loved ones. Religion alone can provide real comfort by promising justice in the afterlife. The passage also notes that in smaller offenses, an unwarranted accusation can hurt an innocent person more than the actual misconduct pains the guilty one. It suggests that pain from unfair criticism is often more intense than pleasure from praise. The passage concludes that denial of undeserved praise is easy, while denial of false accusations is anguishing for the innocent, as their character is not enough to protect them.
 
@@ -963,7 +963,7 @@ In summary, nature recommends prioritizing care for oneself first, then close fa
 
 - Foreign wars and civil discord allow displays of public spirit. Successful leaders gain glory, failed leaders scorn. The greatest leaders use crises to reform and strengthen institutions for the public good.
 
- Here are a few key points from the passage:
+ 
 
 - The man of system is arrogant and believes he can perfectly arrange society according to his ideal vision, like pieces on a chessboard. He does not respect the established powers or people's prejudices. 
 
@@ -1133,11 +1133,11 @@ In summary, the passage contrasts the arrogance of the man of system with the be
 
 - With passions subordinated to reason, the wise Stoic could observe propriety easily in any circumstance, accepting both prosperity and adversity with equanimity. Their happiness came from acting virtuously according to nature.
 
- Here is a summary of the passage:
+ 
 
 The Stoics believed that human life was like a game that required skill, but also involved some chance events. One's happiness should lie in playing the game well and virtuously, not in the outcome. If life's circumstances were on the whole more agreeable than not, it was proper to remain alive. But if life's circumstances were miserable with little hope of improvement, it could be proper for a wise person to depart voluntarily. This departure should be done calmly, without complaint, giving thanks to God for providing the refuge of death. The Stoics saw death as always open and available, free from human injustice. Leaving life in this way takes away all grounds for complaint. So even a wise and virtuous person could properly depart voluntarily if circumstances called for it, while a weak person should remain alive though miserable, because circumstances still required it. The key was choosing or rejecting life properly based on one's specific circumstances, not on the outcome.
 
- Here is a summary of the passage:
+ 
 
 The Stoic philosophy emphasized the importance of virtue and facing adversity with courage and resilience. This view was shared by other ancient Greek philosophical schools, even the more passive Epicureans. During the Peloponnesian War and after, Greek city-states were plagued by civil wars and conflicts abroad. In this chaotic environment, even the most virtuous leaders could face exile, torture, or execution from hostile factions at home or conquerors abroad. 
 

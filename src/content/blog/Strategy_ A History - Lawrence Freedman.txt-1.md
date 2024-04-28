@@ -1778,7 +1778,7 @@ So in summary, it discusses the limitations of top-down planning models and cons
 
 - The passage then discusses how economics came to take a dominant position in strategic management due to promotion by organizations like RAND and the Ford Foundation. It encouraged embracing economics as the foundation of a new "science of decision making."
 
- Here is a summary of the passage:
+ 
 
 The rise of economics in business strategy and management occurred for several reasons in the mid-20th century:
 
@@ -2324,7 +2324,7 @@ Jan L. Rueschhoff and Jonathan P. Dunne, “Centers of Gravity from the ‘Insid
 
 That covers the key points regarding Marx, Bakunin, anarchism and the development of federalist and decentralized ideas in opposition to more authoritarian conceptions of revolution from the summary text. Let me know if you need any clarification or expansion on these points.
 
- Here is a summary of the passage:
+ 
 
 The passage discusses Tolstoy's aspiration to the holy fool (yurodivy), a peculiar form of Russian sainthood that is not found in any other religious culture. The holy fool was one who acted foolishly or insanely in the eyes of society in order to reveal spiritual wisdom. Tolstoy sought this view of sainthood, in which one renounces earthly attachments and comforts to live simply and focus on spiritual matters. The passage notes that this ideal of sainthood aspirated to by Tolstoy is uniquely Russian and not seen in other religious traditions. 
 

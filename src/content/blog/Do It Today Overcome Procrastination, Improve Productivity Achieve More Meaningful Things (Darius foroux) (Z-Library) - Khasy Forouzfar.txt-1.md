@@ -67,7 +67,7 @@ The core message is that systems, routines and simple habits are more effective 
 
 Hope this overview helps! Let me know if you would like me to expand on or modify any part of the summary.
 
- Here is a summary of the main points in the text:
+ 
 
 • Productivity and effectiveness are important for living a happy and meaningful life. Effectiveness means getting the right things done, not just a lot of work.
 

@@ -418,7 +418,7 @@ In summary, the End-Triassic mass extinction was caused by extreme climate chang
 
 • Olsen realized the culprit for the extinction was literally above him the whole time - the Palisades basalt cliffs were evidence of the volcanic eruptions that likely caused the extinction as Pangaea rifted apart.
 
- Here is a summary of the passage:
+ 
 
 The passage describes the scene on Earth during the Triassic period, around 200 million years ago. Life was abundant and followed a slow, undisturbed rhythm. Large crocodile-like creatures inhabited the lakes while small flying reptiles flew around catching insects at dusk. 
 

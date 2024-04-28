@@ -209,7 +209,7 @@ The key insight is to acknowledge human finitude, make wise choices within our l
 
 - This is a political emergency, as it divides society. We need to reclaim agency over our attention and what we devote time to. The stakes are high for our personal fulfillment and social cohesion.
 
- Here are a few key points from the passage:
+ 
 
 - Social media sorts us into hostile tribes and rewards outrage, making sane debate impossible. Politicians take advantage by flooding our attention with scandals. Even those trying to condemn this spread it by giving it attention.  
 
@@ -249,7 +249,7 @@ In Part II, the author reflects on our inability to ever fully control time and 
 
  It does not make sense to invent additional problems by worrying excessively about hypothetical future events. While prudent planning and preparation can be wise, obsessive fretting is rarely helpful and often counterproductive. It is generally better to focus on making the most of the present moment.
 
- Here are a few key points from the passage:
+ 
 
 - The author realized that most parenting advice is overly focused on shaping children's futures, rather than appreciating childhood for its own sake. Both "Baby Trainers" and "Natural Parents" justify their methods based on producing better adult outcomes, not present-day experiences. 
 

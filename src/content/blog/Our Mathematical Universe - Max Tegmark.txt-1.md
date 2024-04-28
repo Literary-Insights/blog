@@ -16,7 +16,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the passage:
+ 
 
 • The passage starts with a thought experiment about the author almost getting into a fatal accident with a truck. The author questions whether reality is truly as it seems.
 
@@ -96,7 +96,7 @@ Hope this summary helps clarify! Let me know if you have any other questions.
 
 Hope this summary helps! Let me know if you have any other questions.
 
- Here is a summary of the passage:
+ 
 
 The passage discusses the question of whether space goes on forever. It approaches the question both observationally and theoretically.
 
@@ -526,7 +526,7 @@ In summary, the author argues that while an absolutist quest to predict all cons
 
 That covers the major points discussed in the long passage. Let me know if you would like me to expand or clarify any part of the summary.
 
- Here is a summary of the passage:
+ 
 
 1. The author had trouble understanding aspects of quantum mechanics when he first started studying it in college. He realized later that the issue was not with his understanding, but with quantum mechanics itself.
 
@@ -792,7 +792,7 @@ That's my attempt at summarizing the main points from the lengthy passage. Let m
 
 Does this look like a reasonable summary of the key points? Let me know if you would like me to clarify or expand on anything.
 
- Here is a summary of the passage:
+ 
 
 There is disagreement among experts about how to interpret quantum mechanics. Many interpretations exist, including the Copenhagen, Many-Worlds, and de Broglie-Bohm interpretations. The debate has continued for over a century with no consensus in sight.
 

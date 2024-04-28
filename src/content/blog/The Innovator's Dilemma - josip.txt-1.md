@@ -367,7 +367,7 @@ In summary, rational decisions shaped by established firms' value networks led t
 
 In summary, the integrated steel mills missed the opportunity that the disruptive innovation of thin-slab casting presented, allowing minimill Nucor to gain market share with a technology the integrated mills initially saw as only useful for low-end, low-margin customers.
 
- Here are a few key points from the passage:
+ 
 
 - The theory of resource dependence posits that companies are constrained in their actions by the need to satisfy customers and investors who provide necessary resources. Firms that don't meet these needs will not survive. 
 

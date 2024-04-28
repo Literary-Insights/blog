@@ -1688,7 +1688,7 @@ Does this summary accurately reflect the key ideas and events described in the p
 
 • The mind and body are interdependent. Controlling one aspect will influence the other aspect.
 
- Here is a summary of the passage:
+ 
 
 - We typically live on the surface of ourselves, focused on our senses and outward objects. But our consciousness is deep within us at our center. 
 - Senses are meant to engage with outward objects, so when we live through our senses we are primarily concerned with external things for enjoyment or experience. For example, our eyes need something external to see.
@@ -1750,7 +1750,7 @@ The key message is that true knowledge and freedom come from within, through sel
 
 That covers the main highlights and messages I found in the passage on techniques for turning inward. Please let me know if you would like me to explain or expand on any part of the summary.
 
- Here is a summary of the passage:
+ 
 
 - Techniques for enlightenment seem simple but require the right conditions and preparation to work. Without the proper preparation, the techniques will not lead to enlightenment. 
 

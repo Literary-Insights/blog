@@ -174,7 +174,7 @@ In summary, the passage discusses a placebo surgery study, explains how placebos
 
 Does this look like a reasonable summary of the key points from the passage? Let me know if you'd like me to expand or modify anything in the summary.
 
- Here is a summary of the passage:
+ 
 
 The passage begins by describing a scene from Penn and Teller's show Bullshit, where they trick people into thinking expensive bottled waters from fancy locations taste better than tap water. This highlights how storytelling and psychological factors can influence our perceptions and preferences. 
 
@@ -548,7 +548,7 @@ Does this cover the key points in a fair and reasonable summary? Let me know if 
 
 That covers the major points discussed in the summary, focusing on how religious ideas around immortality and morality help address human existential concerns and the problem of cooperation in large groups. Let me know if you would like me to expand or modify any part of this summary.
 
- Here is a summary of the passage:
+ 
 
 The passage discusses evolent ways in which religion can benefit individuals and society, counter to the miserly stance one might take - just like Scrooge in A Christmas Carol. 
 

@@ -69,7 +69,7 @@ In summary, the key ideas are:
 
 Does this summary accurately reflect the key points being conveyed in the introduction? Let me know if you would like me to clarify or expand on any part of the summary.
 
- Here is a summary of the passage:
+ 
 
 • Dante II is an autonomous robot that explored an active volcano in Alaska in 1994. It is part of a project to develop autonomous robots to explore other planets. 
 

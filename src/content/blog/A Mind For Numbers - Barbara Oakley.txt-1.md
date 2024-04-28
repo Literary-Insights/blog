@@ -335,7 +335,7 @@ The key message is failure is an important part of learning and growth. Embrace 
 
 - The author did difficult subjects like math in the morning when fresh. She gets mental breakthroughs in the bathroom or shower when her mind is off the subject, allowing diffuse mode thinking.
 
- Here are a few key points from the passage:
+ 
 
 - Make a weekly to-do list of important tasks and assignments. Break these down into a daily to-do list of 5-10 items. 
 

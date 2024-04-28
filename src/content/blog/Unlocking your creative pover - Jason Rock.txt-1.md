@@ -60,7 +60,7 @@ In summary, the key is to make an effort to think creatively, set aside specific
 
 In summary, the passage distinguishes between non-creative and creative forms of imagination, focusing mainly on the hunting and changing functions of creative imagination. It emphasizes that creativity requires active thinking, effort and a rich store of knowledge and experiences to draw from.
 
- Here is a summary of the passage:
+ 
 
 The author argues that first-hand experiences gain during childhood and youth provide richer material for creative work later in life compared to second-hand experiences. Some examples of first-hand experiences that helped fuel the creativity of famous inventors and artists are given, such as Edison running a newspaper at a young age and O'Neill traveling extensively. However, even second-hand experiences like reading can provide some valuable fuel if done actively. The author also discusses the role of association - the linking of ideas through similarity, contrast, etc. - in creative thinking. Techniques like keeping notebooks and checklists are suggested to enhance association. Finally, the author points out that emotional drive is an important source of creative power, though fear and coercion tend to stifle creativity.
 

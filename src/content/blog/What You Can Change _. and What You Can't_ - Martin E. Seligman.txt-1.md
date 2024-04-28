@@ -30,7 +30,7 @@ BOOK LINK:
 
 - For individuals struggling with symptoms, the book can help identify supportive treatments, but lasting changes require courage to understand and manage problems despite inherent limitations. Combining interventions with courage may help exceed typical effectiveness rates.
 
- Here is a summary of the passage:
+ 
 
 - There are two competing worldviews - that of psychotherapy and self-improvement, which believes people can change anything about themselves through effort, and biological psychiatry, which sees human traits as predetermined by genetics and biology. 
 

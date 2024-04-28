@@ -563,7 +563,7 @@ So in summary, it outlines the growth of European powers' involvement in the sla
 
 - The Haitian revolution was the only successful slave revolt, leading to the establishment of the first black republic in the world. It struck a major blow to slavery worldwide.
 
- Here is a summary of the passage:
+ 
 
 The Underground Railroad was a secret network that helped enslaved African Americans escape to free states and Canada in the late 18th and early-to-mid 19th centuries. It originated from individual Quakers and abolitionists providing aid but grew into a complex system utilizing various safe houses along escape routes. Enthusiasm increased due to the growing abolition movement and worsening fugitive slave laws. 
 
