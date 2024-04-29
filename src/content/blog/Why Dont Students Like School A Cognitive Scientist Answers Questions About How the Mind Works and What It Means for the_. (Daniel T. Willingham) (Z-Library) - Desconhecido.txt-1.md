@@ -1,6 +1,6 @@
 ---
 title: Why Dont Students Like School A Cognitive Scientist Answers Questions About How the Mind Works and What It Means for the_. (Daniel T. Willingham) 
-slug: why-dont-students-like-school-a-cognitive-scientist-answers-questions-about-how-the-mind-works-and-what-it-means-for-the_-daniel-t-willinghamdesconhecido
+slug: why-dont-students-like-school-a-cognitive-scientist-answers-questions-about-how-the-mind-works-and-what-it-means-for-the_-daniel-t-willingham
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=why-dont-students-like-school-a-cognitive-scientist-answers-questions-about-how-the-mind-works-and-what-it-means-for-the_-daniel-t-willinghamdesconhecido)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=why-dont-students-like-school-a-cognitive-scientist-answers-questions-about-how-the-mind-works-and-what-it-means-for-the_-daniel-t-willingham)
 
 
 

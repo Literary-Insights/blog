@@ -1,6 +1,6 @@
 ---
 title: Leadership Secrets of the Worlds Most Successful CEOs 100 Top Executives Reveal the Management Strategies That Made Their_. (Eric Yaverbaum) 
-slug: leadership-secrets-of-the-worlds-most-successful-ceos-100-top-executives-reveal-the-management-strategies-that-made-their-eric-yaverbaumdesconhecido
+slug: leadership-secrets-of-the-worlds-most-successful-ceos-100-top-executives-reveal-the-management-strategies-that-made-their-eric-yaverbaum
 tags: 
   - book-summary
 excerpt: ""
@@ -15,7 +15,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=leadership-secrets-of-the-worlds-most-successful-ceos-100-top-executives-reveal-the-management-strategies-that-made-their-eric-yaverbaumdesconhecido)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=leadership-secrets-of-the-worlds-most-successful-ceos-100-top-executives-reveal-the-management-strategies-that-made-their-eric-yaverbaum)
 
 
 

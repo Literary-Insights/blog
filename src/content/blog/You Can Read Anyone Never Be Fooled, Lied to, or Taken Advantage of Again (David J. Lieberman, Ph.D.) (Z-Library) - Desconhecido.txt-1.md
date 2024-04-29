@@ -1,6 +1,6 @@
 ---
 title: You Can Read Anyone Never Be Fooled, Lied to, or Taken Advantage of Again (David J. Lieberman, Ph.D.) 
-slug: you-can-read-anyone-never-be-fooled-lied-to-or-taken-advantage-of-again-david-j-lieberman-ph-ddesconhecido
+slug: you-can-read-anyone-never-be-fooled-lied-to-or-taken-advantage-of-again-david-j-lieberman-ph-d
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=you-can-read-anyone-never-be-fooled-lied-to-or-taken-advantage-of-again-david-j-lieberman-ph-ddesconhecido)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=you-can-read-anyone-never-be-fooled-lied-to-or-taken-advantage-of-again-david-j-lieberman-ph-d)
 
 
 

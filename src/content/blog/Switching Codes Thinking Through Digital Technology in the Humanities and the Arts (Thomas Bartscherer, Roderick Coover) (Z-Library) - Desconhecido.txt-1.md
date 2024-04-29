@@ -1,6 +1,6 @@
 ---
 title: Switching Codes Thinking Through Digital Technology in the Humanities and the Arts (Thomas Bartscherer, Roderick Coover) 
-slug: switching-codes-thinking-through-digital-technology-in-the-humanities-and-the-arts-thomas-bartscherer-roderick-cooverdesconhecido
+slug: switching-codes-thinking-through-digital-technology-in-the-humanities-and-the-arts-thomas-bartscherer-roderick-coover
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=switching-codes-thinking-through-digital-technology-in-the-humanities-and-the-arts-thomas-bartscherer-roderick-cooverdesconhecido)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=switching-codes-thinking-through-digital-technology-in-the-humanities-and-the-arts-thomas-bartscherer-roderick-coover)
 
 
 

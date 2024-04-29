@@ -1,6 +1,6 @@
 ---
 title: The Talent Code (Daniel Coyle) 
-slug: the-talent-code-daniel-coyledesconhecido
+slug: the-talent-code-daniel-coyle
 tags: 
   - book-summary
 excerpt: ""

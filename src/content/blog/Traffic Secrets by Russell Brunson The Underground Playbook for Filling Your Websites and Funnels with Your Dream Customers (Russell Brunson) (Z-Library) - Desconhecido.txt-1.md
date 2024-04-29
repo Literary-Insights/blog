@@ -1,6 +1,6 @@
 ---
 title: Traffic Secrets by Russell Brunson The Underground Playbook for Filling Your Websites and Funnels with Your Dream Customers (Russell Brunson) 
-slug: traffic-secrets-by-russell-brunson-the-underground-playbook-for-filling-your-websites-and-funnels-with-your-dream-customers-russell-brunsondesconhecido
+slug: traffic-secrets-by-russell-brunson-the-underground-playbook-for-filling-your-websites-and-funnels-with-your-dream-customers-russell-brunson
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=traffic-secrets-by-russell-brunson-the-underground-playbook-for-filling-your-websites-and-funnels-with-your-dream-customers-russell-brunsondesconhecido)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=traffic-secrets-by-russell-brunson-the-underground-playbook-for-filling-your-websites-and-funnels-with-your-dream-customers-russell-brunson)
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: Hypnotic Writing How to Seduce and Persuade Customers with Only Your Word (Joe Vitale) 
-slug: hypnotic-writing-how-to-seduce-and-persuade-customers-with-only-your-word-joe-vitaledesconhecido
+slug: hypnotic-writing-how-to-seduce-and-persuade-customers-with-only-your-word-joe-vitale
 tags: 
   - book-summary
 excerpt: ""
@@ -15,7 +15,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=hypnotic-writing-how-to-seduce-and-persuade-customers-with-only-your-word-joe-vitaledesconhecido)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=hypnotic-writing-how-to-seduce-and-persuade-customers-with-only-your-word-joe-vitale)
 
 
 

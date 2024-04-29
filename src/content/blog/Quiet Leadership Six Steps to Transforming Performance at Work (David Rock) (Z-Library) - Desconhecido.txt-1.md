@@ -1,6 +1,6 @@
 ---
 title: Quiet Leadership Six Steps to Transforming Performance at Work (David Rock) 
-slug: quiet-leadership-six-steps-to-transforming-performance-at-work-david-rockdesconhecido
+slug: quiet-leadership-six-steps-to-transforming-performance-at-work-david-rock
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=quiet-leadership-six-steps-to-transforming-performance-at-work-david-rockdesconhecido)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=quiet-leadership-six-steps-to-transforming-performance-at-work-david-rock)
 
 
 
