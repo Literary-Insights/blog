@@ -68,7 +68,7 @@ In the early 1980s, psychologists studied 12 respected Dutch psychics over five 
 
 To understand how psychics appear convincing without genuine insight, it's important to learn tricks of "cold reading" - a set of psychological techniques used intentionally or unintentionally by most mediums. These techniques reveal insights about human interactions and selective memory that can cause ambiguous statements to seem personally applicable.
 
- Here is a summary of the key details:
+ 
 
 - Lisa heard vague and ambiguous statements from Mr. D during his reading that could be interpreted in multiple ways. Due to the psychological phenomenon known as "Doctor Fox effect", she wanted to find meaning in the meaningless and heard what she wanted to hear. 
 

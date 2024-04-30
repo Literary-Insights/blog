@@ -1,6 +1,6 @@
 ---
-title: "DEEP SUMMARY - 3550_ Most Effective ChatGPT Prompts - Om Prakash Saini"
-slug: deep-summary-3550_-most-effective-chatgpt-prompts-om-prakash-saini
+title: "3550_ Most Effective ChatGPT Prompts - Om Prakash Saini"
+slug: 3550_-most-effective-chatgpt-prompts-om-prakash-saini
 tags: 
   - book-summary
 excerpt: ""

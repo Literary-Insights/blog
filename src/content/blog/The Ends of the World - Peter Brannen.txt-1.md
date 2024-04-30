@@ -302,7 +302,7 @@ Researcher Peter Ward argues that greenhouse gas emissions have been a driver of
 
 The End-Permian extinction had large amounts of carbon dioxide as a likely culprit, though other factors may have also contributed to its severity.
 
- Here is a summary of the key details:
+ 
 
 - In 2004, a team claimed to find evidence of an asteroid impact crater off the coast of Australia that they believed was responsible for the mass extinction at the end of the Permian period. 
 
@@ -320,7 +320,7 @@ The End-Permian extinction had large amounts of carbon dioxide as a likely culpr
 
 So in summary, while an asteroid impact is a popular theory for the Permian extinction, there is little scientific evidence supporting it and most researchers reject the hypothesis. Instead, changes to Earth's environment and ecology during that time period likely played a larger role.
 
- Here is a summary of the key details:
+ 
 
 • The supercontinent Pangaea existed hundreds of millions of years ago and broke apart over time, pushing the continents to their current locations. This explains geological features like volcanoes, mountain ranges, and the shapes of the continents.
 
@@ -572,7 +572,7 @@ So in summary, the text examines the debate among scientists about the relative 
 
 That covers the major arguments and counterarguments regarding the roles of the Deccan Traps eruptions and the asteroid impact in causing the K-T mass extinction, according to the summary provided. Let me know if you need any clarification or have additional questions.
 
- Here is a summary of the key details:
+ 
 
 - The Deccan Traps in western India cover an area around the size of France and contain lava flows more than 2 miles deep in places. They were formed by massive volcanic eruptions around the time of the Cretaceous-Paleogene extinction event.
 

@@ -60,7 +60,7 @@ The narrator took a helicopter ride back to his estate, landing roughly but safe
 
 The narrator reflected on how he often finds himself in dangerous situations due to substance abuse but somehow manages to escape unharmed each time. Though guilty of misdeeds, he feels entitled to certain "liberties" as a wealthy man. He acknowledges taking many risks yet remaining physically unscathed, attributing this to luck or a charmed life. The summary concludes with the security guard arriving to take the narrator back to the main house.
 
- Here is a summary of the key details:
+ 
 
 - The narrator dreams of being with a woman named Venice the Hooker. His wife Nadine wakes him by dumping a glass of water on him, angry about who Venice is. 
 
@@ -268,7 +268,7 @@ It was important to redirect to the key objectives and regain everyone's attenti
 
 - Plaintiffs' attorneys are not mentioned. The passage focuses on the dynamics between a struggling company, its co-founder, and the main character seen as the most powerful Wall Street figure. It discusses issues like loyalty, resentment, saving face, and maneuvering strategically between different interested parties.
 
- Here is a summary of the key details:
+ 
 
 - The narrator awakens on a commercial flight landing in Switzerland, confused about how he got there and suffering from a hangover due to mixing sleeping pills. 
 
@@ -364,7 +364,7 @@ The key events are the narrator's drunken behavior towards the flight attendant,
 
 - The conversation indicates Jordan is working with Saurel to secretly transfer and launder a significant sum of money through the Swiss bank to avoid legal issues in the US.
 
- Here is a summary of the key details:
+ 
 
 - Jean Saurel, a Swiss banker, met with a potential client to discuss opening offshore bank accounts and ways to invest/move money without leaving a paper trail. 
 
@@ -378,7 +378,7 @@ The key events are the narrator's drunken behavior towards the flight attendant,
 
 In summary, the exchange outlined offshore banking strategies focused on concealment and plausible deniability, with emphasis on repatriating funds covertly through fabricated paper trails and offshore corporate structures. Danny's unexpected incapacitated condition was also briefly described.
 
- Here is a summary of the key details:
+ 
 
 - The narrator is in London visiting his wife's aunt, Patricia, after coming from France. 
 
@@ -836,7 +836,7 @@ In summary, the passage describes the narrator's plans to take drugs before impo
 
 - The narrator contacts his criminal defense attorney Gregory O'Connell to check on the status but lies about the details, fabricating a story about his deceased aunt's bank accounts. However, his story has inconsistencies around whether the aunt is alive or dead that raise the lawyer's suspicions.
 
- Here is a summary of the key details:
+ 
 
 - The protagonist seems to be involved in some sort of legal or financial case/dispute and is speaking to his lawyer about strengthening his position. 
 
@@ -996,7 +996,7 @@ The narrator tells Rob they need to get some Quaaludes from the flooded stateroo
 
 However, without further context, it is difficult to draw specific conclusions or make amends. The best path forward would be for the individual to seek help from medical professionals and make genuine efforts to apologize and make things right with those they have wronged.
 
- Here is a summary of the key details:
+ 
 
 - The narrator owns a mansion in Southampton, Long Island where the wealthy socialize. 
 
@@ -1220,7 +1220,7 @@ So in summary, the narrator is attending AA reluctantly but trying to stay sober
 
 - Jordan doesn't go to jail for 5 more years, serving 22 months. He and the Duchess reconcile as co-parents though remain divorced.
 
- Here is a summary of the key details:
+ 
 
 - The passage is from the acknowledgements section of the book "The Wolf of Wall Street" by Jordan Belfort. 
 

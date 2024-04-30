@@ -1,6 +1,6 @@
 ---
-title: "DEEP SUMMARY - Reason to Be Happy_ Why Logical Thinking Is the Key to a Better Life - Kaushik Basu"
-slug: deep-summary-reason-to-be-happy_-why-logical-thinking-is-the-key-to-a-better-life-kaushik-basu
+title: "Reason to Be Happy_ Why Logical Thinking Is the Key to a Better Life - Kaushik Basu"
+slug: reason-to-be-happy_-why-logical-thinking-is-the-key-to-a-better-life-kaushik-basu
 tags: 
   - book-summary
 excerpt: ""

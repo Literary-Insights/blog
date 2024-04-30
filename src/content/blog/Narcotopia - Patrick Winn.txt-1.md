@@ -75,7 +75,7 @@ The summary then introduces the concept of "Superstar", a top UWSA leader who wa
 
 So in summary, Jacob is a Wa Christian man from a Wa village in Burma who used to work for the UWSA and now works as a translator, giving insights into Wa and UWSA issues.
 
- Here is a summary of the key details:
+ 
 
 - Saw Lu, a civilized Wa man educated by missionaries, is sent by the Burmese military regime to infiltrate and assimilate among the headhunting Wa tribes. 
 
@@ -517,7 +517,7 @@ The passage establishes multiple power players that would need to cooperate or a
 
 - Saladino felt increasingly under threat and pressure from multiple agencies to stop working with the junta and Saw Lu on developing ties with the Wa region.
 
- Here is a summary of the key details:
+ 
 
 - Saladino's ex-boss Bian had suggested to federal investigators that Saladino may have been fleecing the DEA of tens of thousands of dollars via improper payments to his informant Saw Lu, also known as "Superstar". 
 

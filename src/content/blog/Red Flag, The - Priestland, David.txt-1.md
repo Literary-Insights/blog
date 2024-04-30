@@ -1155,7 +1155,7 @@ While bringing violence and cultural destruction, Mao also sought to modernize C
 
 The passage discusses the spread of the Cultural Revolution from students to workers and rural areas in China in late 1966. Contract workers in factories rose up against managers and officials, encouraged by Mao's rhetoric. Rural power structures also began to change as radical groups challenged local elites. However, local party bosses tried to deflect the campaigns against themselves by targeting "class enemies" from the old bourgeois classes instead. This led to chaotic civil wars between competing Red Guard factions as both sides claimed to uphold Mao's views. By the end of 1966, the working class and marginalized "black" bourgeois groups were ascendant. The decisive turning point was the "January Storm" of 1967 in Shanghai, where workers defeated the local party's Red Guards, leading Mao to endorse transferring power to a new People's Commune organization. The chaos of the Cultural Revolution was now engulfing the whole country.
 
- Here is a summary of the key details:
+ 
 
 - In 1954, Ernesto "Che" Guevara was selling religious icons in Guatemala City to make ends meet. He had become acquainted with Antonio "Ñico" López, a Cuban exile involved in Castro's failed 1953 coup. 
 
@@ -1731,7 +1731,7 @@ Albania was the last to transition in 1991 after student protests prompted multi
 
 - After 1991, China rejected both liberal democracy and perestroika, choosing its own non-revolutionary path combining political control with market reforms.
 
- Here is a summary of the key details:
+ 
 
 - Richard Nixon shows Nikita Khrushchev the benefits of American consumer goods during their famous "kitchen debate" at an American exhibition in Moscow in 1959. 
 

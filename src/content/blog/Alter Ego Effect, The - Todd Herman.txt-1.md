@@ -1,5 +1,5 @@
 ---
-title: "Alter Ego Effect, The - Todd Herman"
+title: "The Alter Ego Effect - Todd Herman"
 slug: alter-ego-effect-the-todd-herman
 tags: 
   - book-summary
@@ -7,7 +7,7 @@ excerpt: ""
 category: "self-help"
 author: "matheus-puppe"
 publishDate: "2024-04-29T16:44:27.966Z"
-image: "./src/assets/book_images/default_book.webp"
+image: "./src/assets/book_images/alter-ego-effect-the-todd-herman.jpg"
 ---
 
 **"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
@@ -16,17 +16,6 @@ BOOK LINK:
 
 [CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=alter-ego-effect-the-todd-herman)
 
-
-
- Here is a summary of the key points from the dedication:
-
-- The book is dedicated to "all the people who grew up in the middle of nowhere" and specifically to Valerie, Molly, Sophie, and Charlie. 
-
-- It acknowledges a small group of people who the author wanted to recognize for their experiences growing up away from major cities. 
-
-Dedication sections are typically short and personal, aiming to acknowledge certain individuals or groups who may have inspired or supported the author in writing the book. This dedication recognizes people who grew up rurally for their shared experience, and also calls out four specific people ("go team!") who seem to have been inspirational to the author.
-
- 
 
 - Anthony grew up in DC without parents, who passed away in a car accident when he was young. He was raised by his grandmother.
 

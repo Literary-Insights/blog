@@ -1814,7 +1814,7 @@ Key aspects of the new process include:
 
 So in summary, it outlines a quantitative approach to determine the potential cost savings from implementing VMI across different branches of a distributor.
 
- Here is a summary of the key details:
+ 
 
 Organization: NAW Direct 
 Address: 1725 K St., NW, Dept. T, Washington, DC 20006

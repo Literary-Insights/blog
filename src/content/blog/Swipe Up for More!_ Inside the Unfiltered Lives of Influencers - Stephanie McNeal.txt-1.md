@@ -88,7 +88,7 @@ So in summary, it explores the influence and wealth of influencer culture throug
 
 - The summary provides context about how Mirna transitioned from teaching to full-time influencing and the success she's found in her new career and location in Vermont.
 
- Here is a summary of the key details:
+ 
 
 - Caitlin started a blog called Southern Curls & Pearls to describe herself as Southern, having long curly hair, and liking pearls. This became the name of her successful blog. 
 

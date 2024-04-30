@@ -210,7 +210,7 @@ Alan Turing was a pioneering computer scientist who made major contributions to 
 
 Turing's trial highlighted the contrast between his vital wartime contributions and postwar attitudes towards homosexuality. Though his work helped turn the tide of the war, his sexuality was seen as problematic and deviant. The hormone treatments imposed on him were intended to change his sexual orientation but had unforeseen detrimental impacts. Turing ultimately became a tragic figure who symbolized both scientific genius and the human costs of discrimination. His story raises questions about how societies treat marginalized groups and highlights the disconnect between recognizing someone's abilities and accepting their humanity.
 
- Here is a summary of the key details:
+ 
 
 - Y asks how the other person answers so quickly. They seem astonished at the speed of the response. 
 

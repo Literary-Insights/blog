@@ -382,7 +382,7 @@ Sitting further on the edge of the cliff increases the author's fear but also th
 
 The author believes they are already great for choosing their values despite uncertainty. Death makes us love each other but culture values attention over true greatness. Remembering their friend's death taught being less afraid and responsible with fewer inhibitions. Regularly contemplating death through meditation or experiences helps accept problems and difficulties while finding life brighter. In the end, returning from the edge lets the author's body and life return to normal.
 
- Here is a summary of the key details:
+ 
 
 - The Australian man sees the main character at the peak of a trail and asks if they are okay after their climb. The main character says they feel very alive. 
 

@@ -925,7 +925,7 @@ In summary, Philip Ball's illustrations provided visual aids to help explain key
 
 - nuclear transfer 149–53, 266, 287–8, 290: Somatic cell nuclear transfer involves transferring the nucleus of an adult cell into an enucleated egg cell to generate cloned embryos. This technique was used to clone Dolly the sheep.
 
- Here is a summary of the key details:
+ 
 
 - The book discusses how Philip Ball began growing organoids (mini brains) from his own cells taken through a biopsy. This got him interested in concepts of identity and consciousness. 
 

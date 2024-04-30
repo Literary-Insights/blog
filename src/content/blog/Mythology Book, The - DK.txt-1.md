@@ -347,7 +347,7 @@ In summary, the passages discuss the Roman cult of Mithras, which focused on myt
 
 - Finding driftwood on the shore, the gods brought it to life as the first humans, Ask and Embla, giving them characteristics like speech. After creating humanity, the gods made Asgard as their realm.
 
- Here is a summary of the key details:
+ 
 
 - The Norse cosmos was centered around the world tree Yggdrasil, which connected multiple worlds including Asgard, Midgard, and the underworld. The exact layout was ambiguous. 
 
@@ -393,7 +393,7 @@ In summary, the passages discuss the Roman cult of Mithras, which focused on myt
 
 The passage provides context about Loki's mischievous actions that sabotaged dwarven craftsmanship and led to a contest judged by the gods. It also briefly summarizes Thor's role wielding his powerful hammer Mjolnir against giants, and one myth where it was stolen.
 
- Here is a summary of the key details:
+ 
 
 - Loki tricks the god Hod into shooting Baldur with a mistletoe arrow, killing him. Baldur was beloved by all and impervious to harm. 
 

@@ -1,6 +1,6 @@
 ---
-title: "DEEP SUMMARY - Bounce - Matthew Syed"
-slug: deep-summary-bounce-matthew-syed
+title: "Bounce - Matthew Syed"
+slug: bounce-matthew-syed
 tags: 
   - book-summary
 excerpt: ""

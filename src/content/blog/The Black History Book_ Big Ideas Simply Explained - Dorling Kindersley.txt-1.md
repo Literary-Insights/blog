@@ -855,7 +855,7 @@ The birth of black feminism in the 1960s-70s was a response to the limitations o
 
 In 1963, around 250,000 Americans marched in Washington D.C. to proclaim the civil and economic rights of Black Americans. The March on Washington occurred during a period of increasing civil rights activism and violence against Black people across the US. In the lead up to the march, prominent civil rights activists like Medgar Evers had been assassinated. The march aimed to put pressure on the federal government to take stronger actions to end racial discrimination and protect Black citizens. It featured speeches by major civil rights leaders like Martin Luther King Jr., who famously delivered his "I Have a Dream" speech calling for racial equality and justice. The massive, peaceful demonstration highlighted the civil rights movement's goals and mobilized public support, helping to pass landmark civil legislation in 1964 and 1965 that outlawed segregation and racial discrimination. The March on Washington marked a pivotal moment in the struggle for Black equality and human rights in America.
 
- Here is a summary of the key details:
+ 
 
 - In 1963, Nigeria was declared a republic and Dr. Benjamin Nnamdi Azikiwe ("Zik") became its first president. 
 

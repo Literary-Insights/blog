@@ -177,7 +177,7 @@ The key points are that Annie Duke became a professional poker player after stru
 
 • South Avondale Elementary struggled despite resources. A 2008 initiative aimed to change how teachers used data to improve performance. Initially, teachers rarely used the data, but new principal Brian Summe turned that around through professional development and by making data discussions mandatory. He also led discussions on how to address challenges instead of just identifying them. Major improvements resulted, showing creativity can come from small changes to process and an emphasis on collaborative problem-solving.
 
- Here is a summary of the key details:
+ 
 
 - Delia Morris was a high school student from Cincinnati who experienced poverty and homelessness. Despite challenges, she was a gifted student with the support of her teachers, especially Ms. Thole and Mr. Edwards.
 

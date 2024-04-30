@@ -604,7 +604,7 @@ Does this capture the main ideas? Let me know if you'd like me to modify or expa
 
 The key takeaway is that your environment shapes you more than you realize. By intentionally designing your environment to reflect your future self, you can transform your identity and personality over time.
 
- Here is a summary of the key details:
+ 
 
 • Melissa fell asleep while taking care of her two sons, Drew and Devin. When she woke up, Drew was missing. She eventually found out that Drew had wandered outside and drowned in an irrigation canal near their home. 
 

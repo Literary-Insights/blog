@@ -472,7 +472,7 @@ One study identified nine distinct EEG stages within the hypnagogic period and f
 
 - Dreams and memories illustrate that we have both an internal sense of self as the experiencer, and an external sense of self as something that can be observed from outside our own experience. These two senses of self, or modalities for experiencing the self, carry over into both dreaming and remembering.
 
- Here is a summary of the key details:
+ 
 
 - The passage describes an experience of lucid dreaming, where the dreamer realizes they are dreaming while still in the dream state. 
 

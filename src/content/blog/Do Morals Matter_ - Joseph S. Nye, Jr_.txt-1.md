@@ -241,7 +241,7 @@ The passage advocates a multidimensional approach (3D ethics) that incorporates 
 
 - John F. Kennedy faced escalating involvement in Vietnam due to inherited plans and policies. While his rhetoric inspired, his management style was more incremental in policy than visionary. Vietnam intervention grew under his term despite his awareness of nationalism and anti-colonialism as dominant forces.
 
- Here is a summary of the key details:
+ 
 
 - After the failed Bay of Pigs invasion of Cuba, CIA Director Richard Helms was under pressure from Kennedy to take action against Fidel Castro. This led to Operation Mongoose, a covert program aimed at overthrowing or assassinating Castro. While assassination plots against Castro were part of this operation, Helms later testified they were under pressure to do something. 
 

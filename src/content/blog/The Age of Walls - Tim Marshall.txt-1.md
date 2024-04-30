@@ -593,7 +593,7 @@ David Goodhart has characterized a major division in UK society between "Anywher
 
 - Historical events referenced include the Iron Curtain, Soviet invasion of Afghanistan, Iran-Iraq war, Rwandan genocide, apartheid in South Africa, Troubles in Northern Ireland.
 
- Here is a summary of the key details:
+ 
 
 - Ardino, Calif. terror attack in 2015 that killed 53 people. 
 

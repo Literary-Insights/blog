@@ -401,7 +401,7 @@ In summary, Jake Feinler played a crucial role in building the infrastructure an
 
 - In summary, BBS culture in the 1980s was primarily the domain of technically minded men and boys, but The WELL and Echo showed that online communities could also appeal to a wider range of interests and backgrounds with the right leadership and community-building approach. Horn’s vision and determination were instrumental in Echo’s success at attracting diverse, dedicated users.
 
- Here is a summary of the key details:
+ 
 
 - Stacy Horn founded Echo, an early online social network, in New York City in 1989. 
 

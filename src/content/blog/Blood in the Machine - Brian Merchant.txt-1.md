@@ -103,7 +103,7 @@ So in summary, it examines the original Luddite uprising in context, relates it 
 
 - The stage was set for conflict between workers like George who wanted to protect their livelihoods and the industrialists automating production through machinery. The sabotage of Littleton Mill by croppers was part of this growing unrest and opposition to technological changes disrupting traditional work.
 
- Here is a summary of the key details:
+ 
 
 - Gravener Henson was a framework knitter in Nottingham who believed the Combination Acts banning worker unions were a joke. 
 
@@ -603,7 +603,7 @@ The bill's failure deepened the hardship faced by cloth workers and helped estab
 
 So in summary, Captain Raynes reluctantly agreed to spread his small force thinner to protect mills in Mottram at the request of owners, despite intelligence that Luddites were assembling nearby and concerns about being outnumbered if divided.
 
- Here is a summary of the key details:
+ 
 
 - Lord Byron had recently been summoned and flattered by Prince Regent George due to his rising celebrity and influence. 
 

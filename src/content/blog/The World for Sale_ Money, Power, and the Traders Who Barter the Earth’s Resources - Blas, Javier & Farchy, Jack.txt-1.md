@@ -994,7 +994,7 @@ So in summary, the article discusses Mercuria's view that oil prices had likely 
 
 - Sanctions have been used as a policy tool by the US and others, affecting the ability of some traders to do business in certain countries. Enforcement of sanctions and corruption laws remains an ongoing issue.
 
- Here is a summary of the key details:
+ 
 
 - Zbynek Zak - Czech oil trader, worked for Marc Rich & Co. in 1980s-1990s, involved in Soviet zinc deal and Russian production later on. 
 

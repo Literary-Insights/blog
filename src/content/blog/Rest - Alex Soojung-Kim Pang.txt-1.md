@@ -431,7 +431,7 @@ The opportunity to visit Microsoft Research Cambridge through Richard Harper ins
 
 Finally, the author's family, particularly his wife Heather, supported the writing process. The passage expresses deepest gratitude to all these individuals for their roles in making the book a reality.
 
- Here is a summary of the key details:
+ 
 
 - Edgar Allan Poe is considered one of America's great literary innovators, known for pioneering science fiction and detective stories. 
 

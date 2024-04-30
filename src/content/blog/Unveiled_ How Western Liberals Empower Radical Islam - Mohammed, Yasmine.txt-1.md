@@ -230,7 +230,7 @@ Her journey shows the struggles of escaping extremism and culturally-imposed bar
 
 - The account depicts the extreme restrictions and lack of autonomy a woman faced in this controlling, abusive marriage sanctioned by their interpretation of Islamic religious laws. She felt trapped by both her husband and the religious justifications for his behavior.
 
- Here is a summary of the key details:
+ 
 
 - The author's mother intentionally sabotaged a soup she was helping to prepare, dumping chicken bones and other inedible parts into the pot. This was likely an attempt to provoke another beating from the author's abusive husband. 
 

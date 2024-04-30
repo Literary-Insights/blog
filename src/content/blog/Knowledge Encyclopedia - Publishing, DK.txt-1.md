@@ -463,7 +463,7 @@ So in summary, the passage discusses the social structure, physical features, co
 
 - The Great Barrier Reef off Australia is the world's largest structure, visible from space, comprising over 2,900 individual reefs spanning 340,000 square km. It supports extraordinary biodiversity.
 
- Here is a summary of the key details:
+ 
 
 - Termites build towering mounds up to 10 meters tall with thick clay walls. The tall central shaft helps cool the nest. Small worker termites build and maintain the nest. 
 

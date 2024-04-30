@@ -1246,7 +1246,7 @@ Globalization through international trade presents supply chain challenges aroun
 
 - Maritime piracy has significantly disrupted global shipping in recent decades. Piracy incidents are on the rise and have financial and security impacts for shippers. MNFs must account for these risks in their global operations.
 
- Here is a summary of the key details:
+ 
 
 - The passage discusses piracy attacks off the coast of Somalia in the Gulf of Aden. 
 

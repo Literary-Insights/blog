@@ -56,7 +56,7 @@ Houseplants can improve indoor air quality and mental well-being by absorbing ca
 
 - Provides 24-hour air purification when combined with other foliage plants, due to its bromeliad characteristics of oxygen production during the day and air pollutant removal at night.
 
- Here is a summary of the key details:
+ 
 
 The passage talks about a plant that demonstrates the circle of life by dying after flowering but produces "baby plants" at its base beforehand to succeed it. It identifies as an "air-purifying tropical sensation" and says it needs special watering of its foliage, preferably with rain or distilled water. It states that when its top part has died fully, one can pull off its "pups", or baby plants, getting as much root as possible and then potting them up. 
 

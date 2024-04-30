@@ -74,7 +74,7 @@ Anders sees mind uploading as a key step toward transcending human limitations a
 
 So in summary, it outlines the hopes and procedures of cryonic preservation practiced at Alcor, while acknowledging the large scientific uncertainties involved.
 
- Here is a summary of the key details:
+ 
 
 - Alcor is a cryonics organization that preserves human bodies and heads cryogenically at very cold temperatures in the hopes of future revival as medical technologies advance. 
 

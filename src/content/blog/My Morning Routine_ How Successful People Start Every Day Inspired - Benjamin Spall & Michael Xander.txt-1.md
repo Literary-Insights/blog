@@ -263,7 +263,7 @@ In summary, while their specific routines differ, the main themes are:
 - They plan and prepare things the night before to make mornings easier   
 - Routines adapt and change as responsibilities and priorities shift
 
- Here is a summary of the key details:
+ 
 
 - Caroline Burckle, a US Olympic swimmer, wakes up at 5:30 AM to work out. Her routine varies between swimming, running intervals, and strength training based on the day of the week. She has stuck with this early morning routine her whole life as swimming conditioned her to wake up early.
 

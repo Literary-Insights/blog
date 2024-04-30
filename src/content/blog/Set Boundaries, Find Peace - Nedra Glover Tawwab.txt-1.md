@@ -1,6 +1,6 @@
 ---
-title: "DEEP SUMMARY - Set Boundaries, Find Peace - Nedra Glover Tawwab"
-slug: deep-summary-set-boundaries-find-peace-nedra-glover-tawwab
+title: "Set Boundaries, Find Peace - Nedra Glover Tawwab"
+slug: set-boundaries-find-peace-nedra-glover-tawwab
 tags: 
   - book-summary
 excerpt: ""

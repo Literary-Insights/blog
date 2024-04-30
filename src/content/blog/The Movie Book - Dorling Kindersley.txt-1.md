@@ -194,7 +194,7 @@ King Kong (1933)
 
 Let me know if you need any clarification or have additional questions!
 
- Here is a summary of the key details:
+ 
 
 - Duck Soup is a 1933 Marx Brothers comedy directed by Leo McCarey. It is considered one of their best films and a classic political satire. 
 
@@ -420,7 +420,7 @@ In sum, Godzilla commented on Japan's recent traumatic history through the trope
 - The unexpected, explosive conclusion of the film involving nuclear devastation was quite shocking for audiences at the time.
 - Kiss Me Deadly is considered one of the seminal neo-noir films that updated the classic noir style for the modern post-WWII era. It explores concepts like nuclear paranoia, science run amok, and the dark hidden sides of American society.
 
- Here is a summary of the key details:
+ 
 
 - Genre: Drama film directed by Ingmar Bergman 
 
@@ -688,7 +688,7 @@ Though a commercial failure at the time, Playtime is now regarded as one of the 
 
 - The film is set against the gloomy backdrop of wintry Venice, where John frequently gets lost amid the city's confusing layout and passageways, fueling his sense of being trapped and paranoid.
 
- Here is a summary of the key details:
+ 
 
 - Roman Polanski's 1974 film Chinatown is a neo-noir crime thriller set in 1930s Los Angeles. 
 
@@ -1140,7 +1140,7 @@ Come and See shows the brutal effects of World War 2 on a young boy who witnesse
 
 Many of the other films depict ordinary people facing challenging circumstances, such as the couple struggling financially in the recession in Drifting Clouds or the man wandering London streets aimlessly in Naked. Other films capture violence and crime but also find humor and style, like Reservoir Dogs and Pulp Fiction. The documentaries give insights into the difficult productions of Apocalypse Now and Heart of Darkness.
 
- Here is a summary of the key details:
+ 
 
 - The film Good Bye, Lenin! tells the story of Alex, a man living in East Berlin after his mother suffers a heart attack and falls into a coma just before the fall of the Berlin Wall. 
 

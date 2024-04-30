@@ -278,7 +278,7 @@ In 18th century Scotland, philosophers like Hume, Smith, Ferguson and their coll
 
 - The late 18th/early 19th centuries saw clusters of polymath scholars in England and Germany who made contributions across multiple fields, combining careers in arts, sciences, politics, and more. Figures mentioned include Franklin, Jefferson, Coleridge, De Quincey, Young, and Herschel.
 
- Here is a summary of the key details:
+ 
 
 - William Herschel had wide-ranging interests in botany, geology, acoustics, optics, photography and more. This positioned him well to write a "Preliminary Discourse" on the study of natural philosophy. 
 

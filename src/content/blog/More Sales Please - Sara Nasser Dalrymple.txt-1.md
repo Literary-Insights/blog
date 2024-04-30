@@ -1,6 +1,6 @@
 ---
-title: "DEEP SUMMARY - More Sales Please - Sara Nasser Dalrymple"
-slug: deep-summary-more-sales-please-sara-nasser-dalrymple
+title: "More Sales Please - Sara Nasser Dalrymple"
+slug: more-sales-please-sara-nasser-dalrymple
 tags: 
   - book-summary
 excerpt: ""

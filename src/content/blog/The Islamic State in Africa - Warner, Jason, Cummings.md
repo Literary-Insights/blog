@@ -167,7 +167,7 @@ The argument and methodology section introduces the core questions of how ISIS a
 
 - The MSSI declared its presence in Derna in April 2014, imposing sharia law and security patrols. It began carrying out public executions and punishments. In June 2014 it expressed support for ISIS as ISIS declared its caliphate. The MSSI helped ISIS gain its first foothold outside of Syria and Iraq.
 
- Here is a summary of the key details:
+ 
 
 - In October 2014, the militant group MSSI (Mujahideen Shura Council of Derna) rebranded itself as Wilayat Derna and declared that the lands under its control were now part of ISIS's global caliphate. However, this did not officially make Derna a wilayat or province yet. 
 

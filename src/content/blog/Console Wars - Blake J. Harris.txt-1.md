@@ -311,7 +311,7 @@ The board reacted angrily to Kalinske's proposals, criticizing and questioning h
 
 - Nilsen returned, saying he had played through the entire Mario game. He came to Kalinske with a grim expression, implying the SNES and Mario would be tough competitors for Sega.
 
- Here is a summary of the key details:
+ 
 
 - Olaf Olafsson is a tall, finely dressed man visiting Nintendo of America's headquarters in Redmond, Washington to meet with Howard Lincoln. 
 
@@ -389,7 +389,7 @@ The board reacted angrily to Kalinske's proposals, criticizing and questioning h
 
 - Kalinske realizes Sega legitimately stands a chance against Nintendo in the battle.
 
- Here is a summary of the key details:
+ 
 
 - Kalinske gives a pep talk to Sega employees, acknowledging the challenges they face competing against Nintendo but encouraging them to make the most of the "Sixteen Weeks of Summer" before the SNES launch. 
 
@@ -1095,7 +1095,7 @@ So in summary, the passage outlines Diane Fornasier taking charge of Genesis mar
 
 - Kalinske liked how "Blast Processing" unified Sega's messaging to battle Nintendo and upcoming consoles. However, concerns arose when a psychologist warned the government may crack down on the industry due to concerns over increasingly realistic games.
 
- Here is a summary of the key details:
+ 
 
 - Disney wanted to get more directly involved in video game publishing to capitalize on successes of films like The Little Mermaid, Beauty and the Beast, and Aladdin. 
 

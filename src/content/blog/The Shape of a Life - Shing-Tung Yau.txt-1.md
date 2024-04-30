@@ -446,7 +446,7 @@ The author compared solving the Calabi conjecture to a Chinese poem describing t
 
 The author carefully checked and rechecked the proof four times and planned to send a copy to Calabi to verify the solution.
 
- Here is a summary of the key details:
+ 
 
 - Yau heard about an upcoming talk by David Mumford about an inequality related to Yau's previous attempts to disprove the Calabi conjecture. 
 

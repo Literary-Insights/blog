@@ -1,6 +1,6 @@
 ---
-title: "DEEP SUMMARY - ChatGPT Chrome Extension Playbook - Desconhecido"
-slug: deep-summary-chatgpt-chrome-extension-playbook-desconhecido
+title: "ChatGPT Chrome Extension Playbook - Desconhecido"
+slug: chatgpt-chrome-extension-playbook-desconhecido
 tags: 
   - book-summary
 excerpt: ""

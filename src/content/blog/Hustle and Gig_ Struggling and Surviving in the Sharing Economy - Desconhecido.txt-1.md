@@ -35,7 +35,7 @@ BOOK LINK:
 
 • In the conclusion, the author discusses policy options to improve conditions for sharing economy workers.
 
- Here is a summary of the key details:
+ 
 
 • Sarah worked on TaskRabbit and felt pressure to constantly accept tasks to maintain a high acceptance rate. She felt she had little control over what tasks she got. 
 
@@ -568,7 +568,7 @@ Does this cover the main ideas in a condensed and accurate manner? Let me know i
 
 How's that? Let me know if you'd like me to clarify or expand on any part of the summary.
 
- Here is a summary of the key details:
+ 
 
 • For some workers like Damla, gig platforms enabled them to live out the "entrepreneurial dream" by simplifying and facilitating the entrepreneurial process. However, Damla felt like she was "cheating a little bit" since Kitchensurfing made it so easy. 
 

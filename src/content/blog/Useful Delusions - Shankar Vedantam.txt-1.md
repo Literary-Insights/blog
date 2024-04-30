@@ -240,7 +240,7 @@ The summary then transitions to telling the story of Joseph Enriquez, a man who 
 
 The rest of the summary recounts Joseph's family history, beginning with his immigrant grandmother Faustina Enriquez who came to the U.S. with hopes of providing a better life for her children. Joseph's father Jesse and mother Ruth longed for a son and Joseph's birth was a miracle to them, though he could only speak broken Spanish.
 
- Here is a summary of the key details:
+ 
 
 •Joseph's mother showed her love for him through cooking his favorite foods and shooing animals away.  
 

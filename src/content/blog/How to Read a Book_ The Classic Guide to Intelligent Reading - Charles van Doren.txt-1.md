@@ -698,7 +698,7 @@ In summary, the passage argues that reading fiction requires a different approac
 
 The key takeaway is that we should read imaginative literature with an open and receptive mindset, focusing on the experiences and emotions it evokes rather than analyzing its factual or logical consistency. The rules for reading these works reflect that difference in aims and use of language.
 
- Here is a summary of the key details:
+ 
 
 1. The author discusses the differences in how parts are arranged in science/philosophy versus fiction. In nonfiction, parts must be logically ordered while in fiction, parts must fit a temporal scheme from beginning to end. 
 

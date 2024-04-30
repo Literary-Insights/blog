@@ -824,7 +824,7 @@ This book editors Wickii T. Vigneswaran, Edward R. Garrity, and John A. Odell Jr
 
 - His career highlights include being involved in early kidney transplant work and research as well as serving as a transplant surgeon for many years with a variety of patients.
 
- Here is a summary of the key details:
+ 
 
 - The University of Iowa, University of Miami, University of Minnesota, University of Mississippi Medical Center, University of Pittsburgh, University of Toronto, University of Utah, and University of Wisconsin were all involved in early transplant research and performed some of the first transplant procedures. The University of Wisconsin specifically developed an important organ preservation solution. 
 

@@ -340,7 +340,7 @@ So in summary, FACS was used to scientifically analyze the facial expressions in
 
 The case highlights the challenges of navigating intimacy and consent between young people, especially in contexts involving alcohol abuse that blur communication and judgment. The lack of shared understandings around consent norms on campus creates ambiguity ripe for misunderstanding and violation of personal boundaries.
 
- Here is a summary of the key details:
+ 
 
 - Dwight Heath was a graduate student in anthropology at Yale who did his fieldwork in Bolivia in the mid-1950s. 
 

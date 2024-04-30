@@ -71,7 +71,7 @@ Disheartened by this latest setback, Smith decided to leave London, which he bla
 
 - However, Britain could no longer feed itself due to this growth. Other interconnected social and economic changes accompanied industrialization and improvements in living standards. Literacy, information sharing, and innovations in areas like furniture and fashion were spreading new ideas across Britain. This context set the stage for William Smith and new ways of thinking.
 
- Here is a summary of the key details:
+ 
 
 - William Smith's father died when he was 8 years old, leaving him and his siblings largely raised by his uncle who also farmed locally. 
 
@@ -359,7 +359,7 @@ Near their old school in West Bay, Dorset, the author examines East Cliff - a dr
 
 - The Jurassic geology of England is outlined, including the influence of landmasses on rock formations in different areas like Dorset, known for its cyclothems and distinctive rock layers with evocative names.
 
- Here is a summary of the key details:
+ 
 
 - Titanites giganteus was one of the largest ammonites found in the British Jurassic, reaching up to 3 feet in diameter. Its fossilized shells could occasionally be found as part of the building stone. 
 
@@ -593,7 +593,7 @@ Overall though, this period was unsettled and unstable for Smith as he struggled
 
 - While Smith received many honors late in life, the rapid advances in geology left him feeling he could no longer adequately contribute, though he remained passionately interested in the field.
 
- Here is a summary of the key details:
+ 
 
 - The limestone chosen for the Houses of Parliament was heavily criticized, even dubbed "the worst ever used in the metropolis" by Charles Dickens. 
 
@@ -865,7 +865,7 @@ So in summary, Arthur Young was an author who documented the French Revolution, 
 
 - Brief biographical details given about several figures mentioned like James Banks, Dylan Thomas, and Richard Trevithick.
 
- Here is a summary of the key details:
+ 
 
 - John Farey was the go-between regarding a potential honor for William Smith from the Geological Society. 
 

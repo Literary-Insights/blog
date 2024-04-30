@@ -428,7 +428,7 @@ So in summary, pioneering work by Tara Bennett-Goleman and John Teasdale in the 
 
 - "Dark nights" refer to intensely difficult mental states some experience during retreats. Willoughby Britton is conducting research to help people suffering meditation-related psychological difficulties, as current knowledge focuses more on benefits than potential harms. More study is needed on rates of problems among meditators versus the general population.
 
- Here is a summary of the key details:
+ 
 
 - Meditation has shown promise in treating some mental health problems like depression and anxiety according to meta-analyses of studies. It can lead to decreases in depression, anxiety, and pain, about as much as medications but without side effects. 
 
@@ -645,57 +645,3 @@ There was a more general movement in academic psychology in the mid-20th century
 - The findings suggest MBSR may be an effective treatment for social anxiety and has an added benefit of enhancing neural mechanisms underlying regulating negative thoughts about the self.
 
 So in summary, the study found that while both MBSR and aerobic exercise reduced social anxiety, MBSR led to greater reductions in negative self-beliefs and increased brain activity in emotion regulation regions more so than aerobic exercise alone.
-
- Here are the key points from the references:
-
-- Reference 1 found that an 8-week mindfulness-based stress reduction program significantly reduced chronic low back pain in older adults. 
-
-- Reference 2 was a meta-analysis that found acceptance and mindfulness-based interventions to be effective for treating chronic pain.
-
-- Reference 3 found that an MBSR program did not influence physiological measures of fibromyalgia in daily life. 
-
-- Reference 4 was a randomized clinical trial that found MBSR reduced fibromyalgia symptoms in women. 
-
-- Reference 5 compared MBSR to an active control and found MBSR more effective at modulating neurogenic inflammation, a contributor to asthma. 
-
-- Reference 6 identified neural circuitry linking emotion and asthma exacerbation. 
-
-- Reference 7 is credited with establishing efficacy of MBSR for reducing pain and stress in medical conditions.
-
- Here is a summary of the sources:
-
-- Source 1 examined the effects of mindfulness meditation on rates of skin clearing in patients with psoriasis undergoing phototherapy or photochemotherapy. It found meditation was associated with higher rates of clearing. 
-
-- Source 2 found experienced meditators had reduced stress and inflammatory responses compared to healthy non-meditators. 
-
-- Sources 3, 9, 10 found brief mindfulness training reduced inflammatory markers like IL-6 and TNF-α in depressive/stress samples. 
-
-- Source 4 linked mindfulness meditation with reduced IL-6 and changes in resting brain connectivity. 
-
-- Sources 5-8 found mindfulness meditation lowered blood pressure and sympathetic nervous system activity in patients with hypertension and chronic kidney disease. 
-
-- Sources 11-16 found meditation practice was associated with reductions in inflammation, improved stress responses and immune gene expression, and upregulation of anti-inflammatory pathways. 
-
-- Sources 17-20 found meditation associated with improved telomere length, a biomarker of cellular aging. 
-
-- Sources 21-22 studied physiological effects of meditation like changes in heart rate, effort, and brain activity during practice. 
-
-- Sources 23-27 found long-term meditators had altered brain structure and function, including increased cortical thickness and changes in brain regions involved in attention, interoception, and emotion regulation.
-
-- Sources 28-37 further examined physiological, genetic, and molecular changes associated with meditation practice and their potential role in health outcomes. Many of the studies point to anti-inflammatory and stress-reducing effects of meditation.
-
- This chapter summary is unavailable, as the reference provided - "& Psychotherapy 13 (2006): 353–79." - does not contain enough information to identify and summarize a specific chapter. Summarizing a journal article would require the title of the article, author(s), journal name, volume and issue numbers, and page numbers. The reference given here does not include all of this identifying information.
-
- Here is a summary of the key points from the provided text:
-
-- The study examined the effects of a mindfulness-based kindness curriculum on promoting prosocial behavior and self-regulation skills in preschool children. It found that such a curriculum was effective in improving executive functioning and self-regulation. 
-
-- Contemplative practices like meditation have potential benefits for education by improving cognition, emotion regulation, and prosocial behaviors. Integrating such practices into school curricula could help American education. 
-
-- A new approach to education called "Triple Focus" emphasizes social-emotional learning, ethics, and contemplative practices in addition to traditional academics. This aims to develop whole child.
-
-- Several books outline ways to bring mindfulness and meditation into K-12 classrooms to promote well-being, focus, and emotional regulation. Research is still emerging on assessing the impact of mindfulness-based educational programs and games. 
-
-- Studies are exploring the effects of meditation-based video games, mental and physical training combining meditation and exercise, and online delivery of mindfulness training for reducing depression symptoms. 
-
-- Research also investigates how contemplative neurofeedback and rhythmic brain stimulation may impact behaviors, brain activity and biomarkers related to conditions like anxiety, Alzheimer's, and attention.

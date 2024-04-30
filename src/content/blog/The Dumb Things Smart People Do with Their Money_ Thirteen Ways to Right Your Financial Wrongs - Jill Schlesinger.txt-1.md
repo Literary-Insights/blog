@@ -506,7 +506,7 @@ So in summary, it emphasizes fully utilizing benefits from employers like life i
 
 - Failing to plan one's estate is seen as selfish and irresponsible by the author, who wants to guilt readers into taking action to write a will. The passage emphasizes that anyone living should have a will in place.
 
- Here is a summary of the key details:
+ 
 
 - Charles is 48 years old and became a widower 17 years ago when his wife died of an aneurysm. He and his wife had no money or will at the time. 
 

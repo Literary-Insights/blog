@@ -865,7 +865,7 @@ That covers the major themes and arguments presented across the provided sources
 
 Does this summary accurately and fairly capture the critical points made in the provided texts regarding genetics, intelligence, and human differences? Let me know if you wantwant me to clarify or expand on any part of this summary.
 
- Here is a summary of the key details:
+ 
 
 • There are rising concerns about the growth of far-right and nationalist political groups in Europe and other parts of the world. Countries like Italy, Poland, and France have seen far-right political parties and supporters rise in recent years. 
 

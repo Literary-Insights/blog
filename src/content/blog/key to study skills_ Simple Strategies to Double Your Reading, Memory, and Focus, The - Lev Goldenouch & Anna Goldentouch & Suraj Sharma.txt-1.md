@@ -763,7 +763,7 @@ In summary, Anna's approach focuses on developing curiosity, confidence, and cle
 
 So in summary, the key message is that an active, inquisitive approach to continuously learning and pursuing goals is emphasized over a passive lifestyle, as a means to make the most of one's life.
 
- Here is a summary of the key details:
+ 
 
 - The vessel Figaro of Narbonne got into trouble while entering the Thames river in England. 
 

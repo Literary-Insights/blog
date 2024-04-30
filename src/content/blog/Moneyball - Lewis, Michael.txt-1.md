@@ -569,7 +569,7 @@ He grew up in Mississippi with his family, including his father who had a debili
 
 In the majors, Bradford is one of the most effective relievers in baseball but pitches in a way that is difficult to describe. He is valued by the A's for his ability to get outs despite his unorthodox approach. Bradford wants to succeed but also wants to avoid attention, which grows increasingly difficult as his performance brings more notice. His pitching success seems to stem as much from imagination and mental adjustments as physical skills.
 
- Here is a summary of the key details:
+ 
 
 - Chad Bradford had a strange sidearm throwing motion that his high school baseball coach Bill "Moose" Perry taught him, after Chad showed interest in pitching. 
 

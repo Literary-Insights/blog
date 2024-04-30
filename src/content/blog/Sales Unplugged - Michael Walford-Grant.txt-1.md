@@ -202,7 +202,7 @@ The main suggestions focus on assessing leverage, having high aims while priorit
 
 - They learned to be more open-minded about new ideas as technology advanced quickly and changed how society works. Their career exposed them to being at the "bleeding edge" of new sales technologies.
 
- Here is a summary of the key details:
+ 
 
 - The story involves a hectic week the author had in September 2015 while working for an Austrian software company based in Vienna. 
 
@@ -272,7 +272,7 @@ The narrator is then released early from jury duty due to a light schedule. This
 
 - The author also shared a second anecdote about starting a new job at a large software company in 2016 to turn around an underperforming business unit. But he did not provide details on this second story.
 
- Here is a summary of the key details:
+ 
 
 - The author accepted a new job and started in early January, just a few weeks after losing his son William who died in a bike accident at age 13. 
 

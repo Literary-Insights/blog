@@ -771,7 +771,7 @@ In China, Mongol rulers isolated themselves instead of integrating, angering Chi
 
 - Though Genghis Khan and the tribal world he led are gone, his influence still reverberates today. The impacts of massive conquests cannot truly end, even long after the historical figures are gone. His legacy remains an inspiration for Mongolian pride and identity despite Communist suppression of related history and culture.
 
- Here is a summary of the key details:
+ 
 
 - Where the ice was too thin to cross the river 
 - Where the snow was too deep in small depressions

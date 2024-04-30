@@ -1385,7 +1385,7 @@ That covers the key details and concepts mentioned related to the named individu
 
 In summary, a wide range of mathematical concepts and techniques underpin the algorithms and systems used for analyzing data and retrieving relevant information from the vast web of internet pages.
 
- Here is a summary of the key details:
+ 
 
 • The author discusses transportation networks like roads and organizational charts using the metaphor of trees. He talks about different types of trees, including number trees, family trees, directed acyclic graphs, and spanning trees. 
 

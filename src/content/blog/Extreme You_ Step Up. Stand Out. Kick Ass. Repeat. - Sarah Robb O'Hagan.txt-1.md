@@ -205,7 +205,7 @@ In summary, the text advocates living an extreme life driven by one's own goals,
 
 The key takeaway is that talented people often face obstacles getting noticed for their full potential. But with determination and initiative, like Suzanne seeking out networking opportunities and securing a role at Virgin, one can Get Out of Line and create opportunities to showcase their skills. Though it takes persistence as new obstacles often arise after the initial breakthrough.
 
- Here is a summary of the key details:
+ 
 
 • The author found training for a triathlon to be an outlet for pent-up energy during a career downtime period while waiting for a visa application to be approved. The triathlon training helped maintain the author's drive and confidence.
 

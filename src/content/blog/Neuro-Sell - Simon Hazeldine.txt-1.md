@@ -560,31 +560,4 @@ The passage recommends using techniques before and during negotiations to subtly
 
 - The author is interested in hearing success stories from applying what was learned. He is also available for speaking engagements or consulting to help organizations apply "brain-friendly selling."
 
-- Contact details are provided for booking the author or getting additional assistance. Readers are encouraged to continue practicing good "neuro-selling."
-
- Here is a summary of the sources:
-
-1. Tobias, RB (1993) summarizes 20 common plot structures and how to develop them for writing. 
-
-2. Weinschenk, SM (2009) discusses what design elements of websites make them effective and persuasive based on neuroscience research. Key topics covered include keeping user attention, satisfying a desire for completion, being memorable, using metaphors and spatial associations. 
-
-3. Wilson, TD (2002) explores the concept of the "adaptive unconscious" and how unconscious areas of the brain influence decisions and behavior in important ways that people are unaware of. 
-
-4. Woodside, AG and Wilson, EJ (2000) describes how to construct "thick descriptions" of the decision-making processes of marketers and buyers in business-to-business relationships by interviewing them about their experiences and perspectives.
-
- Here is a summary of the key details from the information provided:
-
-- Publisher and copyright information: 
-  - Published by Kogan Page Ltd in 2014
-  - Copyright held by Simon Hazeldine
-- Publisher addresses:
-  - United Kingdom (main office): 1518 Walnut Street, Suite 1100, Philadelphia, PA 19102, USA
-  - India office: 4737/23 Ansari Road, Daryaganj, New Delhi 110002 
-- Book information:
-  - Title: Neuro-sell: How Neuroscience Can Power Your Sales Success
-  - Author: Simon Hazeldine
-  - ISBNs provided for print and e-book versions
-- Cataloging details provided for the British Library and Library of Congress
-- Production details: 
-  - Typeset and ebook produced by Graphicraft Limited in Hong Kong
-  - Printed in Great Britain by CPI Group (UK) Ltd
+- Contact details are provided for booking the author or getting additional assistance. Readers are encouraged to continue practicing good "neuro-selling.

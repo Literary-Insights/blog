@@ -652,7 +652,7 @@ The summary highlights the key differences between Bali's entrepreneurship ecosy
 
 Does this cover the main points discussed in the chapter in a condensed and accurate way? Let me know if you'd like me to clarify or expand anything in the summary.
 
- Here is a summary of the key details:
+ 
 
 - Pauline had an early interest in travel due to her French and American heritage. She developed an ambition to work in the music industry independently of her privileged upbringing. 
 
@@ -664,7 +664,7 @@ Does this cover the main points discussed in the chapter in a condensed and accu
 
 The key themes are Pauline's aspirations for a meaningful creative class job, her efforts to build an independent music industry career from a young age, and the dissatisfactions she experienced with modern work culture that eventually led her to become a digital nomad.
 
- Here is a summary of the key details:
+ 
 
 • Pauline and a friend complained to each other about suspicions that they were victims of managerial abuse at their jobs in New York City. They felt overworked, stressed, and underpaid. There was little positive feedback or recognition of their work. 
 

@@ -113,7 +113,7 @@ So in summary, the algorithm creators helped design an effective controlled rete
 
 The passage discusses data on sumo wrestling matches in Japan that suggests match rigging is occurring. Wrestlers with a record of 7-7 have a much higher win rate (around 80%) against opponents with a record of 8-6 when the 7-7 wrestler needs an eighth win to advance, compared to their predicted win rate of around 50% based on past matches. This indicates wrestlers may be throwing matches to help their opponent in return for future favors. Further data shows the win rates revert to expected levels when rematches occur without the incentive of needing an eighth win. The passage analyzes various angles of the data to conclude it is difficult to argue sumo wrestling is not rigged to some extent through pre-arranged match outcomes.
 
- Here is a summary of the key details:
+ 
 
 - Paul Feldman ran a bagel delivery business where he left an open basket for customers to leave cash payments for the bagels. Over time, he realized significant non-payment of around 10-15% depending on various factors. 
 

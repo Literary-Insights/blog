@@ -1,6 +1,6 @@
 ---
-title: "DEEP SUMMARY - Science of Being Lucky_ How to Engineer Good Fortune, Consistently Catch Lucky Breaks, and Live a Charmed Life, The - Peter Hollins"
-slug: deep-summary-science-of-being-lucky_-how-to-engineer-good-fortune-consistently-catch-lucky-breaks-and-live-a-charmed-life-the-peter-hollins
+title: "Science of Being Lucky_ How to Engineer Good Fortune, Consistently Catch Lucky Breaks, and Live a Charmed Life, The - Peter Hollins"
+slug: science-of-being-lucky_-how-to-engineer-good-fortune-consistently-catch-lucky-breaks-and-live-a-charmed-life-the-peter-hollins
 tags: 
   - book-summary
 excerpt: ""

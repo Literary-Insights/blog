@@ -1,6 +1,6 @@
 ---
-title: "DEEP SUMMARY - When Things Don't Go Your Way_ Zen Wisdom for Difficult Times - Haemin Sunim"
-slug: deep-summary-when-things-don-t-go-your-way_-zen-wisdom-for-difficult-times-haemin-sunim
+title: "When Things Don't Go Your Way_ Zen Wisdom for Difficult Times - Haemin Sunim"
+slug: when-things-don-t-go-your-way_-zen-wisdom-for-difficult-times-haemin-sunim
 tags: 
   - book-summary
 excerpt: ""

@@ -373,7 +373,7 @@ When June came to see Dr. Burns, he introduced her to the Experimental Technique
 
 Testing her fears in this way - by flooding herself with anxiety all at once - proved immediately effective for June. Her symptoms disappeared completely after just a few therapy sessions using this method, providing her the first real relief she had experienced in over 50 years of struggling with agoraphobia and panic attacks.
 
- Here is a summary of the key details:
+ 
 
 - Diane has been diagnosed with a mental illness. She is married with three children. She also runs a part-time web design consulting business. 
 

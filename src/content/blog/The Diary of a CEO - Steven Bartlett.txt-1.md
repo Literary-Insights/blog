@@ -1,6 +1,6 @@
 ---
-title: "DEEP SUMMARY - The Diary of a CEO - Steven Bartlett"
-slug: deep-summary-the-diary-of-a-ceo-steven-bartlett
+title: "The Diary of a CEO - Steven Bartlett"
+slug: the-diary-of-a-ceo-steven-bartlett
 tags: 
   - book-summary
 excerpt: ""
@@ -643,47 +643,3 @@ Law 20 - Do not be among the first to act, but always make a move. Follow the mo
 - Miracle in the Andes (2007) by Nando Parrado recounts his ordeal as one of 16 survivors of an airplane crash in the Andes mountains in 1972 who endured 72 days before rescue. It describes their struggle to survive and the controversies around their means of enduring starvation. 
 
 - How I Survived the Titanic (1912) by William Carter provides a firsthand account of surviving the infamous sinking of the RMS Titanic on its maiden voyage after striking an iceberg. It describes his experiences aboard the luxury liner and subsequent rescue.
-
- Here is a summary of the sources:
-
-Berman, Jonides, and Kaplan (2008) conducted a study finding that interacting with nature has cognitive benefits and can improve psychological well-being. 
-
-Carhart-Harris et al (2016) conducted a study finding that psilocybin administered with psychological support was safely administered and showed promising antidepressant effects for treatment-resistant depression.
-
-Hamilton (2023) outlines the highest paying jobs in the US which include physicians, dentists, chief executives, engineers, pilots and more. 
-
-Hankel (2021) discusses the importance of soft skills, adaptability, problem-solving and lifelong learning for career success in the future job market. 
-
-Jeung, Kim, and Chang (2018) reviewed literature on emotional labor and burnout, finding emotional dissonance contributes to negative outcomes. 
-
-Marks (2012, 2023) discusses the importance of developing emotional intelligence through self-awareness, self-regulation, motivation and social skills. 
-
-Martocchio (2018) discusses strategic compensation approaches for attracting, retaining and motivating talent.
-
-Perlo-Freeman and Sköns (2021) assess the state of peace and security in Africa, noting several conflicts and impact of climate change and inequality.
-
-Reffold (2019) provides strategies for negotiating higher salaries such as researching your worth, having confidence, preparing examples of impact. 
-
-Rice (2009) discusses a framework for understanding experiences and effects of internet and health communication. 
-
-Sadun, Fuller, Hansen, and Neal (2022) identify top leadership skills that matter like strategic thinking, developing others, resilience and integrity.
-
-Stewart and Kamins (1993) discuss secondary research methods and information sources. 
-
-Van Hoof (2013) reviews literature on the use and impact of social media in tourism and hospitality industries.
-
- Here is a summary of the document:
-
-This appears to be a table of contents for a book titled "The Diary of a CEO" by Steven Bartlett. The book is broken into four pillars:
-
-Pillar I: The Self - This section contains 9 laws related to self-development. 
-
-Pillar II: The Story - This section contains 9 laws related to storytelling and communication.
-
-Pillar III: The Philosophy - This section contains 9 laws related to leadership philosophy. 
-
-Pillar IV: The Team - This final section contains 6 laws related to building and leading a team.
-
-Other sections include an introduction by the author, references, acknowledgements, and information about Steven Bartlett as the author. 
-
-The book seems to outline Bartlett's perspectives on success, leadership, and business based on his experiences as an entrepreneur and CEO, drawing from interviews he has conducted for his podcast "The Diary of a CEO".

@@ -151,7 +151,7 @@ Meanwhile, the demon Mara encountered Devadatta and used his powers to trap the 
 
 - The three boys - Siddhartha, Devadatta and Channa - were constantly together as part of Siddhartha's schooling arrangement, though Devadatta despised being around Channa due to Channa's lower caste status.
 
- Here is a summary of the key details:
+ 
 
 - Devadatta, Siddhartha's cousin, gets into a confrontation with Channa during a friendly sword sparring match. 
 

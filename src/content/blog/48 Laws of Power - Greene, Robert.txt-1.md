@@ -728,7 +728,7 @@ While boldness may not come naturally to most, it can be cultivated through prac
 
 Boldness is positioned as superior to timidity, which breeds further doubt and failure. Any fears about potential consequences of bold moves are usually exaggerated. Remaining bold can help disguise or remedy problems. However, complete reliance on audacity is not recommended, as it may become impossible to control and could cross into cruelty or insanity if not reined in properly. Timidity also has its uses if feigned strategically. Overall, the passage promotes boldness but cautions it must be utilized tactically rather than constantly. Planning and control are still important.
 
- Here is a summary of the key details:
+ 
 
 - Balboa led an expedition through Panama to reach the Pacific Ocean. Only 60 soldiers remained due to harsh conditions like insects and rain. 
 
@@ -784,7 +784,7 @@ Another example given is when Chancellor Bismarck challenged Rudolf Virchow to a
 
 The passage advocates presenting people with options that favor your purpose no matter which alternative they pick, making them feel in control while actually manipulating them. It's about controlling people's decision-making in a way that benefits your interests.
 
- Here is a summary of the key details:
+ 
 
 - The King of Armenia grew bored and proclaimed that whoever could tell the biggest lie would receive a gold apple. Many people tried but none convinced the King.
 
@@ -832,7 +832,7 @@ It provides several historical examples of con artists who did this - a quack do
 
 - People gripped by uncontrollable emotions like fear, lust, greed, vanity or hatred can have their emotions manipulated and controlled by others.
 
- Here is a summary of the key details:
+ 
 
 - Victor Lustig, a famous con artist, arrived mysteriously at a luxury hotel in Palm Beach, Florida in the 1920s. He drove a Rolls-Royce with a Japanese chauffeur and received many telegrams. 
 

@@ -1026,7 +1026,7 @@ In summary, the Silver-Meal heuristic minimizes the total relevant costs per uni
 
 - Both heuristics provide a step-by-step process to determine order quantities that minimize costs over the planning horizon, with the Silver-Meal using PPC and least unit cost using PUC as the criteria to evaluate batching alternatives.
 
- Here is a summary of the key details:
+ 
 
 - The problem involves calculating the optimal order quantities and production schedule over multiple periods (months) to minimize total inventory costs. 
 

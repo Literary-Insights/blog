@@ -684,7 +684,7 @@ So in summary, it outlines both conceptual issues with traditionalism's rejectio
 
 - Schuon met with figures like Olavo de Carvalho and Martin Lings and influenced Traditionalist movements in the US, Brazil and elsewhere. But concerns were raised about power dynamics and abuse in some Traditionalist communities.
 
- Here is a summary of the key details:
+ 
 
 - Frithjof Schuon was a controversial figure who founded the Traditionalist School of philosophy. He was accused of child molestation and indicted by a grand jury in the early 1990s, though the case was eventually dropped due to lack of evidence. 
 

@@ -154,7 +154,7 @@ off the coast of North Carolina.
 
 - On May 23, 1934, Bonnie and Clyde were ambushed and killed by law enforcement officers in Bienville Parish, Louisiana, ending their criminal careers and lives. Though depicted as outlaw rebels, they caused significant harm through their string of armed robberies and murders over those two years.
 
- Here is a summary of the key details:
+ 
 
 - Bonnie Parker and Clyde Barrow met in 1930 in Texas and quickly became companions and lovers. Barrow was soon arrested for burglary. 
 
@@ -214,7 +214,7 @@ off the coast of North Carolina.
 
 - Criminal profilers said Cooper likely had knowledge of aviation, possibly from military service, but his lack of safety gear suggested he may not have survived the jump as planned. The case remains unsolved but garnered lasting public interest.
 
- Here is a summary of the key details:
+ 
 
 - In July 1976, during the Bastille Day weekend, a team of 20 men led by former paratrooper and photographer Albert Spaggiari broke into the Société Générale bank vault in Nice, France after spending two months drilling a tunnel from the city's sewers. 
 
@@ -506,7 +506,7 @@ established facts
 
 - When exposed as fakes in 1983, Kujau and Heidemann were both tried and convicted of fraud. The forgery was one of the most infamous in modern history due to the immense media attention and sums of money involved.
 
- Here is a summary of the key details:
+ 
 
 In 1984, Australian horse trainer Hayden Haitana and businessman John Gillespie planned to substitute a champion racehorse for a less capable horse in the Fine Cotton Handicap race at Eagle Farm racetrack in Brisbane, Australia. They disguised the champion horse to look like the out-of-form horse Fine Cotton, which they had purchased. On the evening before the race, they dyed and painted the champion horse to resemble Fine Cotton. On race day, the disguised horse was entered and won the race, but track officials soon noticed paint dripping from its legs and uncovered the scheme. Haitana and Gillespie were banned from racing for their role in the illegal "ring-in." It became a notorious scandal in Australian horse racing.
 
@@ -754,7 +754,7 @@ investment returns and operations.
 
 - Panin was arrested in 2013 after traveling to the Dominican Republic. He received a 9.5 year prison sentence. An accomplice named Bendelladj was arrested in Thailand and received 15 years. It took coordinated international investigations to bring the criminals to justice.
 
- Here is a summary of the key details:
+ 
 
 - In 2015, Volkswagen was accused by the EPA of installing illegal "defeat device" software on 11 million diesel vehicles sold worldwide to cheat emissions tests. The software would detect when the car was being tested and reduce nitrogen oxide emissions to pass, but allow much higher (up to 40x legal limits) on the road. 
 
@@ -1056,7 +1056,7 @@ In 1973, John Paul Getty III, the rebellious grandson of oil tycoon J. Paul Gett
 
 Getty's miserly grandfather resisted paying, only contributing the maximum that was tax deductible. After Getty's mother failed to pay the ransom herself, the remaining money was reluctantly loaned by the grandfather. Getty was released when $3 million was paid, severely malnourished and scarred from his ordeal. He was psychologically damaged and descended into addiction. The kidnapping exposed the elder Getty's famously stingy nature.
 
- Here is a summary of the key details:
+ 
 
 - In February 1974, Patty Hearst, a 19-year-old heiress, was kidnapped from her apartment by members of the Symbionese Liberation Army (SLA). 
 
@@ -1086,7 +1086,7 @@ Getty's miserly grandfather resisted paying, only contributing the maximum that 
 
 - It was one of the largest mass kidnappings in U.S. history and led to the term "Stockholm Syndrome" being coined to describe the psychological bonding that some hostages develop with their captors.
 
- Here is a summary of the key details:
+ 
 
 - In 1998, 10-year-old Natascha Kampusch was kidnapped near her home in Vienna, Austria by unemployed telecom engineer Wolfgang Priklopil. He dragged her into his van and took her to his home.
 
@@ -1154,7 +1154,7 @@ To this day, the Borden murders remain one of the most notorious unsolved cases 
 
 - The murders remain unsolved but Lizzie Borden is widely suspected due to the lack of other suspects and inconsistencies in her story.
 
- Here is a summary of the key details:
+ 
 
 - In 1905, brothers Alfred and Albert Stratton robbed and murdered the owners of a paint shop in Deptford, London. 
 
@@ -1182,7 +1182,7 @@ Thomas and Ann were a couple that Ellen Stanton told police she saw running to a
 
 - Short's murder became infamous and sparked international interest due to the brutality of the crime and lack of identifiable motive or suspects. It remains one of the most notorious unsolved murders in LA history.
 
- Here is a summary of the key details:
+ 
 
 - In January 1947, Elizabeth Short, a 22-year-old aspiring actress, was murdered in Los Angeles. 
 
@@ -1216,7 +1216,7 @@ Thomas and Ann were a couple that Ellen Stanton told police she saw running to a
 
 - The mass shooting was one of the first of its kind and led to reforms in police active shooter response, including the formation of SWAT teams nationally. It drew nationwide attention to linkage between brain abnormalities and violence.
 
- Here is a summary of the key details:
+ 
 
 - Charles Manson was a cult leader who formed a group known as the "Manson Family" in the late 1960s in California. The group mostly consisted of young women that Manson manipulated and controlled. 
 
@@ -1304,7 +1304,7 @@ ordered to pay $33.5 million to the
 
 - In a 1997 civil trial, Simpson was found legally responsible for the deaths and ordered to pay $33.5 million in damages to the victims' families.
 
- Here is a summary of the key details:
+ 
 
 - In 1997, the body of 20-year-old Ginger Rios was found buried in a shallow grave in the Arizona desert. She had last been seen four months earlier at a spy craft store in Las Vegas.
 
@@ -1382,7 +1382,7 @@ On September 7, 1996, Tupac Shakur was shot multiple times in a drive-by shootin
 
 - The identity of Jack the Ripper remains one of history's most famous unsolved cases, inspiring conspiracy theories and speculation about who committed the horrific Whitechapel murders over 130 years ago.
 
- Here is a summary of the key details:
+ 
 
 - The "Jack the Ripper" murders took place in 1888 in the Whitechapel area of London. Victims were predominantly prostitutes. 
 
@@ -1460,7 +1460,7 @@ In 1965 Brady grew arrogant and confessed details of the murders to Hindley's br
 
 In 1966 Brady and Hindley were convicted of three murders. They later confessed to killing Reade and Bennett as well. Brady was declared criminally insane in 1985 and has been imprisoned ever since, while Hindley died in prison in 2002. The case garnered significant public attention and is regarded as one of the most infamous murder sprees in British history due to the young ages of the victims and photos/audio taken of Downey during her torture and murder.
 
- Here is a summary of the key details:
+ 
 
 - The Zodiac Killer operated in Northern California in the late 1960s. He committed at least five murders and multiple attempted murders. 
 
@@ -1472,7 +1472,7 @@ In 1966 Brady and Hindley were convicted of three murders. They later confessed 
 
 - Allen lived near the sites of the murders and had traits matching witness descriptions. However, he was never conclusively linked to the crimes and died in 1992 without being charged. The Zodiac Killer was never identified.
 
- Here is a summary of the key details:
+ 
 
 - Harold Shipman was a British general practitioner and serial killer who is believed to have murdered between 215 to 250 of his patients over a period of around 24 years between 1975 to 1998 in Hyde, Greater Manchester and the surrounding areas. 
 
@@ -1814,7 +1814,7 @@ His act of assassinating the French king through stabbing led to severe conseque
 
 - The 2008 case of Josef Fritzl, who held his daughter Elisabeth captive for 24 years and fathered her seven children in a hidden cellar in Austria, is covered.
 
- Here is a summary of the key details:
+ 
 
 - Aileen Wuornos was a female serial killer from Michigan who began working as a prostitute in Florida in her teens. She claimed that seven men she shot and killed had tried to rape her. 
 

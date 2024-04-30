@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the key details:
+ 
 
 - This is an introduction to the book "Everyone Who Is Gone Is Here" by Jonathan Blitzer, published by Penguin Press. 
 
@@ -31,7 +31,7 @@ BOOK LINK:
 
 - The introduction sets up how the book will explore the human faces of this crisis through individual stories, while also analyzing the policy failures on both sides that have contributed to the situation. It traces the changing dynamics of migration from Mexico to Central America over recent decades.
 
- Here is a summary of the key details:
+ 
 
 - Juan Romagoza grew up in Usulután, El Salvador knowing he wanted to be either a doctor or a priest. He first attended seminary but left after 6 months, losing his faith. 
 
@@ -275,7 +275,7 @@ So in summary, the passage discusses the Reagan administration's support for and
 
 - Unable to get through, Juan visited a friend from university in San Salvador who recognized he was not actually a priest, as he was disguised.
 
- Here is a summary of the key details:
+ 
 
 - The house the woman shared with her family was too small to privately discuss what had happened to Laura. They went to a nearby park bench to talk. 
 
@@ -583,7 +583,7 @@ In 1989, Eddie's family moved from South Central to the San Fernando Valley to e
 
 - Though sympathetic, Murguía had little power in the White House to change the political calculations being made by Emanuel and Reed to work with Republicans at all costs ahead of the 1996 election.
 
- Here is a summary of the key details:
+ 
 
 - In 1996, Congress passed and President Clinton signed the Illegal Immigration Reform and Immigrant Responsibility Act (IIRIRA), which dramatically expanded deportation and tightened restrictions on legal immigration. This was in response to anti-immigration sentiment after California governor Pete Wilson campaigned on an anti-immigration platform and won reelection by 15 points. 
 
@@ -983,7 +983,7 @@ So in summary, the UN anti-corruption commission investigated the president and 
 
 - The vote tally updates slowed and then the computers crashed before coming back online to announce Hernández had taken the lead over Nasralla by 1.2% despite the early lead for Nasralla. Foreign election monitors objected but the electoral tribunal certified Hernández as the winner in a process that appeared to involve election fraud.
 
- Here is a summary of the key details:
+ 
 
 - An election in Honduras resulted in allegations of "irregularities, mistakes, and systemic problems" by observers. The OAS called for new elections after the electoral tribunal declared Hernández the victor despite protests. 
 
