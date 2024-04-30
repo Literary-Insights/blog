@@ -329,7 +329,7 @@ The key point is that models provide tentative, context-specific explanations fo
 
 - No single theory could fully explain post-1970s US inequality trends, and different theories likely contributed through various channels.
 
- Here are the key points summarized:
+ 
 
 - Economists work with many models that can point to contradictory conclusions, depending on the assumptions. However, their views often converge in ways that cannot be justified by evidence alone. This creates a paradox of "uniformity amid diversity."
 

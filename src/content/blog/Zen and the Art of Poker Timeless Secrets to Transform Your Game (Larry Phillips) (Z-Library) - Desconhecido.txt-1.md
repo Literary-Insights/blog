@@ -172,7 +172,7 @@ The passage discusses the importance of controlling hesitations and reactions wh
 
 In summary, the passage emphasizes the importance of controlling one's own tendencies and reactions through practice and discipline, while also observing opponents for signs of weakness, in order to gain an edge through deception and disguising one's true hand.
 
- Here are the key points summarized:
+ 
 
 - In poker, it's important to maintain a neutral expression and not reveal any reactions to cards that could give away information to other players. Players are looking for tells in their opponents' reactions.
 

@@ -1279,7 +1279,7 @@ The book weaves together Hari's personal story with historical research and repo
 
 - Opioids like morphine and heroin were initially touted as non-addictive pain relievers but were found to be highly addictive. Efforts to develop non-addictive pain relievers largely failed. Prescription opioid painkillers led to a modern epidemic of opioid addiction and overdose deaths. Medications like methadone and buprenorphine have been used to treat opioid addiction.
 
- Here are the key points summarized:
+ 
 
 - Popular conceptions of addiction often differ from scientific understandings. The brain disease model has become dominant, but addiction involves social, psychological, and spiritual dimensions beyond just biology. 
 

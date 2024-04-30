@@ -750,7 +750,7 @@ To establish churches, Paul needed important local recruits who could provide me
 
 - Paul preached "brotherly love" primarily among Christians, not universally. This solidarity cemented the church's organic bonds while also allowing generosity to outsiders to impress observers and gain converts. Strict membership policies financed this strategy and provided mobility for members. So "universal love" was conditionally extended, not truly universal, helping the church stay cohesive.
 
- Here are the key points summarized:
+ 
 
 - Early Christians faced persecution from Roman emperors like Nero for refusing to worship Roman gods and actively challenging other religions. This caused tension between Christians and Roman rulers. 
 

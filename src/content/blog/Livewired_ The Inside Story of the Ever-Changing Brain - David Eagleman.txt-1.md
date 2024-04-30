@@ -307,7 +307,7 @@ So in summary, the brain's natural ability to reorganize motor control in respon
 
 - Brain-machine interfaces have also allowed a monkey to control a robot hundreds of miles away in real-time. With extensive training to decode neural signals, researchers were able to have the monkey and remote robot walk synchronously based only on the monkey's brain activity. This demonstrates the future potential for controlling remote robots and prosthetics from a distance.
 
- Here are the key points summarized:
+ 
 
 - Avatar robotics allows people to control robots remotely and experience what the robot senses, through haptic feedback gloves. This gives a limited ability to experience different bodies.
 

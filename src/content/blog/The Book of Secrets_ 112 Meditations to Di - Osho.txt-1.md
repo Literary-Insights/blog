@@ -701,7 +701,7 @@ The main points are that acceptance and understanding of one's tendencies transc
 
 That covers the main points around the teachings on discovering and transforming through one's inner center according to the passage. Let me know if you would like me to explain or expand on any part of the summary.
 
- Here are the key points summarized:
+ 
 
 • When a child is born, they are centered in the navel, which is the original center of being. As the child develops, two other centers emerge - the heart center of emotions and feelings, and the head center of intellect and reason. 
 

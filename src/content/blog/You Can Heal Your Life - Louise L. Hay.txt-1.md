@@ -82,7 +82,7 @@ Loving ourselves is the key to positive changes. Criticizing ourselves locks us 
 
 The key theme is that all problems originate from and are sustained by a lack of love and acceptance of oneself. The path to true change is internal through embracing self-worth.
 
- Here are the key points summarized:
+ 
 
 - The real problem people often face is believing they are "not good enough." This stems from a lack of self-love.
 

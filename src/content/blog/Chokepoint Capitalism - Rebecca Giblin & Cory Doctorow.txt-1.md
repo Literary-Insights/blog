@@ -429,7 +429,7 @@ So in summary, the article argues that growing inequality in the U.S. primarily 
 
 - While targeting big tech alone is an incomplete view, the real problems are the anticompetitive "chokepoints" built up by dominant companies through practices like lock-in of users/suppliers, high barriers to entry, and regulatory capture. A more comprehensive approach is needed to address these systemic issues underlying the unbalanced bargaining power.
 
- Here are the key points summarized:
+ 
 
 - Systemic problems like monopoly power require systemic solutions beyond individual consumer choices or antitrust alone. 
 

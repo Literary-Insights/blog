@@ -75,7 +75,7 @@ The author acknowledges some predictions do come true, like the forecast of Sovi
 
 Overall, the passage cautions against entirely trusting expert predictions, given the complexity around verification and a natural human tendency to want reassurance about the future. While planning is still necessary, more skepticism is wise given the inherent uncertainties.
 
- Here are the key points summarized:
+ 
 
 - Philip Tetlock conducted an extensive decades-long experiment to rigorously test expert predictions. 
 

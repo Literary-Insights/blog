@@ -207,7 +207,7 @@ Historically, freedoms have only been won through struggle and are easily lost i
 
 In summary, it discusses debates around the responsibilities of media, perceived biases in content moderation, limitations of free speech, and professional impacts of online public shaming in cancel culture controversies.
 
- Here are the key points summarized:
+ 
 
 - In June 2020, Nick Buckley was ousted as the founder of a UK charity that helps ethnic minorities find work. He was criticized for opposing some aspects of the BLM movement, though his opposition to racism was not in doubt. The decision was later reversed after backlash. 
 

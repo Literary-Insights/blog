@@ -278,7 +278,7 @@ In summary, the text emphasizes that both expertise and outsider experiences, th
 
 • Rodriguez's resourcefulness and willingness to improvise, rather than waiting for ideal conditions, allowed him to create a successful film using limited means. It shows that high budgets and conventional methods are not always needed to achieve good results.
 
-How's that? Let me know if you would like me to expand on or modify any part of the summary.
+How's that? 
 
  Here is a summary of the provided text:
 

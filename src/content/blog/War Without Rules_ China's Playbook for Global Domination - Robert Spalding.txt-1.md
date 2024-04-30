@@ -422,7 +422,7 @@ These new forms of terrorism undermine the international order through borderles
 
 - The possibilities for damage from coordinated multi-pronged attacks are tremendous, as predicted by the Chinese strategy book over 20 years ago.
 
- Here are the key points summarized:
+ 
 
 - The passage advocates for going beyond traditional battlefield constraints and rules of war in order to achieve victory. It calls for combining all resources across military and non-military domains like politics, economics, culture, diplomacy, etc. 
 

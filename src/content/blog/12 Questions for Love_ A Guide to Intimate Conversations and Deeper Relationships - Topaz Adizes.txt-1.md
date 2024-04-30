@@ -48,7 +48,7 @@ In summary, the passage discusses the author's realization that capturing intima
 
 - {THE AND} became the writer's life's work, put online to inspire better questioning and deeper connections. It was later adapted into a card game to bring those questions to people's own lives.
 
- Here are the key points summarized:
+ 
 
 - The passage discusses how we are constantly asking questions internally, both consciously and unconsciously, but often focus only on the answers and statements that arise, not the questions themselves. 
 

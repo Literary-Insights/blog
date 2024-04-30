@@ -1596,7 +1596,7 @@ Some suggestions for improving inventory management:
 
 So in summary, it involves periodic replenishment up to a decreasing target inventory level that reflects the linear downward trend in demand over time.
 
- Here are the key points summarized:
+ 
 
 1. Northern Canada supply run - The question asks how many supplies should be brought in by boat prior to the long winter freeze-up. This is estimating inventory needs for an isolated community until boats can no longer access it in winter. Factors to consider would include population size, expected duration of freeze, typical consumption rates, and safety stocks. 
 

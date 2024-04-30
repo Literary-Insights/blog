@@ -817,7 +817,7 @@ In summary, the index provides a detailed guide to the wide-ranging concepts, pl
 
 - While protests eventually declined in size, the yellow vests movement had a significant impact on French politics and society. It forced Macron to adjust his reform program and increased pressure for economic justice measures.
 
- Here are the key points summarized:
+ 
 
 - Media: Growth and transformations in media discussed, including new forms and technologies. Role in political, social, and economic change noted. 
 
@@ -847,7 +847,7 @@ In summary, the index provides a detailed guide to the wide-ranging concepts, pl
 
 - Taxes: Analyzed as source of public revenue, indicator of inequality, tool for redistribution. Evolution of tax systems traced.
 
- Here are the key points summarized:
+ 
 
 - The French Revolution brought major changes to suffrage, forcing laborers into status and privilege changes from 95-98. For Abbé Siéyès, this involved suffrage changes of 100, 103-108, 109, 113-120, 134. 
 

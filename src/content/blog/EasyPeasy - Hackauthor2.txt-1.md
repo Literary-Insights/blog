@@ -499,7 +499,7 @@ The key message is make a committed decision to quit, go into it with a positive
 
 • The most helpful way to support porn users who want to quit is by sharing the benefits of being porn-free, not by attacking or shaming them for their porn use. Provide encouragement and help build their confidence in their ability to quit successfully.
 
- Here are the key points summarized:
+ 
 
 • Society's views on pornography are slowly changing as the negative impacts are becoming more well known. Many partners are now questioning porn use and countries are banning it entirely. 
 

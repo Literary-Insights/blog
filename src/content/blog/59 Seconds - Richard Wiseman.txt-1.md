@@ -72,7 +72,7 @@ The text discusses the effectiveness of writing as a means to promote happiness 
 
 - The text provides a sample weekly diary exercise involving these three types of beneficial writing, recommending writing for just a few minutes each day to potentially notice a difference in mood within a week.
 
-That covers the main points summarized from the provided text. Let me know if you would like me to expand or modify anything in the summary.
+ 
 
  
 
@@ -374,7 +374,7 @@ In summary, both Laird and Aron's experiments show that attitude and actions str
 
 In summary, the key takeaway is that small expressions of care and affection, though underappreciated, can have an outsized positive impact on relationships. While negativity and criticism tend to spiral, expressions of love and appreciation can help strengthen interpersonal bonds.
 
-How's that? Let me know if you would like me to expand on or modify any part of the summary.
+How's that? 
 
  The summary is:
 
@@ -534,7 +534,7 @@ In summary, while positive names and initials can confer advantages, excessive p
 
 6) When helping children improve their self-control, being threatening is not as effective as providing positive reinforcement and modeling good behavior.
 
-That covers the main points from the longer text in a concise manner. Let me know if you would like me to expand on or modify any part of the summary.
+That covers the main points from the longer text in a concise manner. 
 
  Here is a summary of the provided text:
 

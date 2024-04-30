@@ -442,7 +442,7 @@ So in summary, creative deals with Jamaica and aluminum companies allowed Marc R
 
 - Ian Taylor helped grow Vitol's crude oil business significantly in this chaotic post-Soviet period, striking deals in places like Russia, Kazakhstan, Libya, Iran, Nigeria and beyond. He became CEO in 1995 as Vitol took on more risk to capitalize on opportunities from the integration of former communist countries.
 
- Here are the key points summarized:
+ 
 
 - The collapse of communism and emergence of capitalism in former Soviet states provided many opportunities for commodity traders to operate in new markets. However, it was also a risky and corrupt environment in the early 1990s. 
 

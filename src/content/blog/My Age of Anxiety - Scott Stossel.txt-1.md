@@ -83,7 +83,7 @@ In summary, the passage details the author's lifelong personal struggle with sev
 
 - Moderate anxiety may be adaptive and even improve performance, while complete removal of anxiety could diminish creativity and risk-taking behavior important for survival. Understanding anxiety may provide insights into the human condition and mind.
 
- Here are the key points summarized:
+ 
 
 - Early Freudians saw anxiety as stemming from sexual inhibition, whereas modern views see it as a medical/neurochemical condition of malfunctioning biology. These shifting interpretations represent both the progress of science but also cycling cultural lenses. 
 

@@ -195,7 +195,7 @@ So in summary, the brain constructs our perception of reality through complex pr
 
 - "Nudges" that subtly guide unconscious processes may be better than outright mandates at influencing behaviors like health, saving and aim, according to researchers studying unconscious influences.
 
- Here are the key points summarized:
+ 
 
 - Psychologists discovered married couples are more likely to share the same initials (e.g. Jenny marries Joel), showing unconscious influences on important life choices like marriage partners. 
 

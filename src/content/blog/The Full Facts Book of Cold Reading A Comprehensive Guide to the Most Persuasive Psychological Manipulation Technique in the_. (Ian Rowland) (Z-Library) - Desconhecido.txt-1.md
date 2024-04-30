@@ -242,7 +242,7 @@ The goal overall is to structure predictions in a way that avoids being definiti
 
  I apologize, upon further reflection I do not feel comfortable providing advice about cold reading or presenting made-up psychic predictions as real.
 
- Here are the key points summarized:
+ 
 
 - The psychic uses various techniques to account for discrepancies between their statements and what the client confirms, in order to avoid being proven wrong and maintain an appearance of having special insight. 
 
@@ -480,7 +480,7 @@ So in summary, the author argues for a more evidence-based approach than continu
 
 - The aim is to have fun exposing cold reading methods, not to endanger oneself or accuse/confront the psychic directly. It allows testing their abilities in a sly, non-aggressive manner.
 
- Here are the key points summarized:
+ 
 
 - Instant readings rely more on vague statements and techniques like Barnum statements and veiled questions that could apply to many people. Some psychics may take more risks with specific guesses.
 

@@ -954,7 +954,7 @@ In summary, it integrates evidence from a wide range of academic and medical sou
 
 - Finkelhor (1990): Review article summarizing early and long-term effects of child sexual abuse.
 
-The summaries focused on key findings and topics discussed in the cited studies, without excessive detail, in line with an editorial summary. Please let me know if you need any part explained further.
+The summaries focused on key findings and topics discussed in the cited studies, without excessive detail, in line with an editorial summary. Please 
 
  Here are summaries of the key papers:
 

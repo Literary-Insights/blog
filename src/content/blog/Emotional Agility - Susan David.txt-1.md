@@ -185,7 +185,7 @@ So in summary, the article discusses different ways people think about and cope 
 
 - Willingly accepting uncomfortable feelings like cravings, rather than struggling against them, can help cope with challenges like addiction. Choosing values-based actions despite desires is emotionally agile. Making room for life's full range of experiences, both joy and pain, is a human triumph.
 
- Here are the key points summarized:
+ 
 
 - Learning to openly accept and experience difficult emotions like cravings when trying to quit an addiction, rather than struggling against them, can help people be more successful. A study found those who accepted cravings were over twice as likely to quit smoking long-term. 
 
@@ -477,7 +477,7 @@ When one's current job is lackluster, the passage recommends "job crafting" - tw
 
 - Be aware of “display rules” taught to children about emotions. Validate feelings instead of dismissing or sugarcoating them. Fixing problems takes away learning opportunities. Overall it emphasizes acknowledging emotions with compassion, courage over comfort, and parental modeling of these skills.
 
- Here are the key points summarized:
+ 
 
 - It is critically important for parents to allow children to experience and acknowledge their difficult feelings. By listening and reassuring the child that their emotions are normal, it helps the child develop emotional skills. 
 

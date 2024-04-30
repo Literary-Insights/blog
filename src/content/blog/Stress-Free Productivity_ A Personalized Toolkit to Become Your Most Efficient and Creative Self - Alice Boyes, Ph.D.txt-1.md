@@ -344,7 +344,7 @@ The summary captures the main points that procrastination has multiple causes be
 
 The passage discusses strategies for being less critical of necessary breaks, managing mental blocks to procrastination, and identifying triggers from past experiences that intensify emotions around certain tasks.
 
- Here are the key points summarized:
+ 
 
 - Doing tedious tasks can cause feelings of boredom and anxiety, which intensify each other and make the task more difficult. 
 

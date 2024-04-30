@@ -371,7 +371,7 @@ The person is feeling stressed trying to balance work demands with family obliga
 
 In therapy, their psychologist helps them recognize this conflict as "shoulding on yourself" - having harsh, personal rules and unrealistic expectations from both environments that create an impossible tyranny. The psychologist helps them identify the source of their stress and anxiety as the large gaps between what their situation requires and what they can realistically deliver given the conflicting value systems and expectations.
 
- Here are the key points summarized:
+ 
 
 - People often respond to anxiety and stress in habitual ways like becoming overly compliant, aggressive, or withdrawing. What's needed is flexibility to collaborate, set boundaries, or step back appropriately for each situation. 
 
@@ -523,7 +523,7 @@ In summary, the passage discusses various strategies and activities like relaxin
 
 So in summary, the key message is to spend your time in a purposeful way on activities that foster flow, connection to nature, fulfillment and being present through reducing distractions and prioritizing what really matters. Regaining control of your technology habits is part of that.
 
- Here are the key points summarized:
+ 
 
 - Loneliness and lack of quality social connections are major issues impacting many Americans according to several surveys. Rates of loneliness have remained high even after the pandemic. 
 

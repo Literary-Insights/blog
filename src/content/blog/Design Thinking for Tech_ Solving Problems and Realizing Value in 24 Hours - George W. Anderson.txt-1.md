@@ -506,7 +506,7 @@ Some key actions could include:
 
 So in summary, it discusses the importance of both divergent and convergent thinking, provides tips to encourage divergent thinking, and emphasizes not staying too convergent to avoid getting stuck in repetitive thinking patterns. Warm-ups, solo activities, and team exercises can help cultivate a divergent mindset.
 
- Here are the key points summarized:
+ 
 
 - The case study describes an initiative team at a bank that is struggling to make progress and regain stakeholders' confidence. The executives are losing patience. 
 
@@ -1206,7 +1206,7 @@ These are various techniques and methods used in problem solving and product dev
 
 - Stakeholder mapping - Visualizing those impacted by a project or product.
 
-The summary focuses on the goal and structure of the different techniques rather than providing details on each one. Let me know if you need any part explained further.
+The summary focuses on the goal and structure of the different techniques rather than providing details on each one. 
 
  Here is a summary of some key points about stakeholder mapping and classifications:
 

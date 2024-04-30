@@ -645,7 +645,7 @@ The text also analyzes Russia and China's cooperation on natural gas, with agree
 
 - Both are dissatisfied with the Western-dominated international system and want a multipolar world with less US dominance and more collective decision making. Their partnership rejects overwhelming US influence.
 
- Here are the key points summarized:
+ 
 
 - Russia and China see their growing partnership as a potential counterbalance to US influence globally and regionally. 
 

@@ -162,7 +162,7 @@ In summary, the passage recommends walking in an area you know with someone who 
 
 - Eating in dubious or unremarkable places is endorsed as a way to discover new foods and neighborhoods versus just eating at popular recommended spots. Taking unfamiliar routes can open you up to new discoveries and perspectives.
 
- Here are the key points summarized:
+ 
 
 - Marie Howe, a poet, asks her students to record 10 observations about the actual world each week with no metaphors or interpretations. Just plain descriptions of what they observe with their senses. 
 

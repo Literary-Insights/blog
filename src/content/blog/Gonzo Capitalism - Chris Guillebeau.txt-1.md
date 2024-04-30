@@ -187,7 +187,7 @@ So in summary, play-to-earn introduces new concepts of ownership and financializ
 
 So in summary, Allen's use of AI art to win a state fair prize highlighted both the capabilities of these new tools and ongoing debates around their implications for art and copyright.
 
- Here are the key points summarized:
+ 
 
 - The author tried generating short stories and snippets of writing using AI assistants like ChatGPT and found they had limitations, only able to generate coherent content for a paragraph or two before going off topic. 
 

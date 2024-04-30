@@ -122,7 +122,7 @@ The key theme is that while having a highly successful business is great, entrep
 
 - The key themes are Sam's fears from the past influencing present decisions, the need for open communication from Jeff, and the ongoing growth and success of their business, Heroic Kitchens.
 
- Here are the key points summarized:
+ 
 
 - Jeff drove to work instead of taking the train to carry out his plan of getting feedback on his wife's soup. 
 

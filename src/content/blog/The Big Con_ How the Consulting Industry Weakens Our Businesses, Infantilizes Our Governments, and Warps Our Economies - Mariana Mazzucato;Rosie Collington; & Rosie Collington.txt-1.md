@@ -438,7 +438,7 @@ So in summary, the key takeaway is that effective organizational learning is an 
 
 - Outsourcing regulatory development to the private sector actors being regulated risks "capture" and limits the state's ability to effectively govern markets with independent analysis and expertise. Hollowing out of public sector skills exacerbates this challenge.
 
- Here are the key points summarized:
+ 
 
 - Privatization and outsourcing of core public functions undermines governments' ability to effectively regulate and oversee those functions. It leads to a loss of in-house expertise and technical skills over time. 
 

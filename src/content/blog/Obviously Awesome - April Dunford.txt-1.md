@@ -159,7 +159,7 @@ Once alternatives are understood, the company can then isolate its unique attrib
 
 In summary, the product would target customers facing specific pain points related to organizational size/complexity, regulatory needs or operational workflows that the product's features uniquely address and relieve. Focusing on these "best fit" customers is a more efficient sales and marketing strategy.
 
- Here are the key points summarized:
+ 
 
 - Wattpad started in 2006 as a social storytelling platform for people to write and share stories on the web and mobile phones. It grew slowly at first until the iPhone launch in 2007 made mobile reading more popular. 
 

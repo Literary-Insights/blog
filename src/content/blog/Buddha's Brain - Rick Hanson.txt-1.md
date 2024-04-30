@@ -545,7 +545,7 @@ So in summary, the passage argues that while a sense of self arises, there is no
 
 - Frederickson (2000, 2001): Positive emotions broaden thought-action repertoires and undo negative emotional effects. Cultivating positivity enhances well-being and health.
 
-I hope these high-level summaries are helpful! Let me know if you need any part explained further.
+I hope these high-level summaries are helpful! 
 
  Here are the key points summarized from the sources provided:
 

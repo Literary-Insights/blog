@@ -477,7 +477,7 @@ The person is advised to break larger goals into smaller monthly goals, regularl
 
 6. The Journal of Personality and Social Psychology article reviews research showing past behaviors influence current beliefs and future decision making, as people are likely to behave consistently with past actions.
 
-That covers the key summaries requested. Let me know if you need any part explained further.
+That covers the key summaries requested. 
 
  Here is a summary of the key papers:
 

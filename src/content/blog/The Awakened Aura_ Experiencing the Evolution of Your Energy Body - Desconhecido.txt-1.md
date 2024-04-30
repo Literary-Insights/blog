@@ -182,7 +182,7 @@ So in summary, while aura colors shift regularly with mood, practicing relaxing 
 
 So in summary, it describes the meaning of different aura colors and provides guidance on enhancing each color through dietary, decor, and spiritual practices.
 
- Here are the key points summarized:
+ 
 
 - Aura colors provide insight into a person's emotional and mental state. 
 

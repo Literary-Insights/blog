@@ -524,7 +524,7 @@ The researchers believe the virtual environment was more successful because maki
 
 - The American Cancer Society effectively implements this strategy through fundraising events, survivor networks, and framing all who had cancer as "survivors" to build closeness and sympathy for the cause.
 
- Here are the key points summarized:
+ 
 
 - People are more motivated to help and donate money to identifiable individuals in need, rather than large statistical or remote problems, even if more people could be helped in the latter cases. This is called the identifiable victim effect. 
 

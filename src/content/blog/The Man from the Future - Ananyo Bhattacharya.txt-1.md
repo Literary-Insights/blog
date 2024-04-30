@@ -546,7 +546,7 @@ So in summary, Hap Arnold foresaw the importance of science/technology for futur
 
 - RAND pioneered the use of concepts like "military worth" and game theory to analyze defense issues and help policymakers make resource allocation decisions in a cost-effective manner for maintaining peace.
 
- Here are the key points summarized:
+ 
 
 - John von Neumann began consulting for RAND in 1948 at the invitation of his former student William Foster, who headed RAND's military strategy division. 
 

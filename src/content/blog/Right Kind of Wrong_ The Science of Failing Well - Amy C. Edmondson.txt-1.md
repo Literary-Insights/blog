@@ -98,7 +98,7 @@ The passage describes two early failed open-heart surgeries performed by Dr. Cla
 
 So in summary, the passage discusses how context, emotions, cognition, and social factors all influence how people perceive and respond to failures, and why an open and learning-oriented mindset is important for dealing productively with failures.
 
- Here are the key points summarized:
+ 
 
 - Fear inhibits learning and discussing failures because it consumes cognitive resources and makes people afraid to take risks or admit mistakes. Fear is especially problematic for learning from failures.
 

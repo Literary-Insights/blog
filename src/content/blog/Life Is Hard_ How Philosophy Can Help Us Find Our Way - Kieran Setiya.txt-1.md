@@ -217,7 +217,7 @@ The passage discusses the idea of tradition or ritual as potential antidotes to 
 
 Rituals and conventions can offer structure to grief, but grief itself is not a linear process with a clear beginning, middle and end. It leads into uncharted territory. The desire for narrative closure conflicts with grieving well. Grief has perpetual ambivalence and no permanent solution - the scar may reopen. While rituals lend structure, grieving well means accepting its ongoing and unresolved nature.
 
- Here are the key points summarized:
+ 
 
 - Paul Ricoeur, Charles Taylor, and Daniel Dennett view life as a narrative - we understand ourselves through telling the story of our lives as unfolding narratives. 
 
@@ -267,7 +267,7 @@ So in summary, the passage discusses Aristotle's distinction between telic and a
 
 So in summary, it examines both the rhetoric of self-made success through hard work alone, as well as the psychological and social pressures that come with viewing one's worth solely through an economic lens of individual success or failure.
 
- Here are the key points summarized:
+ 
 
 - Glaucon argues that without laws or consequences, humans would simply act in self-interest by taking whatever they want with impunity. We only care about justice out of fear of punishment. 
 

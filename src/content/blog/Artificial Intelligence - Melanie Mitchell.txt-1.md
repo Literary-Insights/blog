@@ -319,7 +319,7 @@ In summary, the lack of explainability and susceptibility to adversarial example
 
 - Experts are divided on whether AI will overall enhance or lessen human well-being by 2030. Issues around trust, ethics, bias, privacy, job impacts, and lack of transparency in complex AI systems are actively debated.
 
- Here are the key points summarized:
+ 
 
 - Technologies like facial recognition negatively impact people of color and denying this fact would be untrue. Their use in law enforcement could enable gross misconduct. 
 

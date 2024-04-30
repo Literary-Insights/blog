@@ -1755,7 +1755,7 @@ In summary, the text advocates for a more holistic, complex systems view of the 
 
 • The passage argues that it is better not to draw specific inferences about the causes of economic growth, as the factors are complexly interlinked. Broad qualitative conclusions are preferable.
 
-Does this look like a fair summary of the key points made in the passage? Let me know if you would like me to expand on or modify any part of the summary.
+Does this look like a fair summary of the key points made in the passage? 
 
  Here is a summary of the key points in the passage:
 
@@ -1923,7 +1923,7 @@ Many technologies and industrial processes remain stable for generations after t
 
 • The specific social and economic implications of population aging and decline will depend on each country's circumstances. Issues like depopulating regions and ensuring adequate care for the elderly will need to be addressed.
 
-How's this? Let me know if you would like me to expand on or modify any part of the summary.
+How's this? 
 
  
 

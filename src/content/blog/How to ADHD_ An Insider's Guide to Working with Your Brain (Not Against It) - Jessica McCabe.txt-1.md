@@ -289,7 +289,7 @@ So in summary, the chapter provides advice on self-motivation techniques that ar
 
 - Forgetfulness causes self-esteem issues and practical problems like missed appointments, lost items, forgotten tasks, difficulties at school or work, damaged relationships, and financial issues from missed bills. Understanding the cognitive reasons for it can help manage these issues.
 
- Here are the key points summarized:
+ 
 
 - Encoding new information takes more effort for those with ADHD, as working memory has limited capacity and information may get bumped out before encoding occurs. 
 

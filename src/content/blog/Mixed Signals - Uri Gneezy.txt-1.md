@@ -172,7 +172,7 @@ The key takeaway is that if you want to encourage long-term success, you need to
 
 - Real world sports examples also show tradeoffs of individual vs. team incentives, like how goal bonuses for soccer players can motivate selfish play rather than passing to maximize team success.
 
- Here are the key points summarized:
+ 
 
 - Wells Fargo implemented aggressive sales quotas and incentives for employees to sell 8 products per customer. This led to widespread fraudulent account openings as employees felt pressured to meet impossible quotas. Over 3.5 million fake accounts were opened. 
 

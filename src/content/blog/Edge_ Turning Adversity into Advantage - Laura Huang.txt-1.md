@@ -55,7 +55,7 @@ BOOK LINK:
 
 - These examples show that while hard work is important, other factors like systemic barriers, biases, access to resources and support also play a major role in success. Simply telling people to work hard ignores these other realities that can prevent hard work from paying off, especially for marginalized groups. Meritocracy and success are not solely determined by effort and skills.
 
- Here are the key points summarized:
+ 
 
 - Perceptions and biases are unavoidable aspects of human nature that can disadvantage people in many situations. However, perceptions are malleable and can be influenced. 
 

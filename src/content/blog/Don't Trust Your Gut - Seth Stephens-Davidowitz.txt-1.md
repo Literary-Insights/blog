@@ -533,7 +533,7 @@ Article 2: "Why are you laughing?"
 
 - The study controlled for factors like seasonality to isolate the specific effect of economic indicators.
 
- Here are the key points summarized:
+ 
 
 - Athletic scholarships are very competitive, with only 6% of high school athletes getting scholarships. Baseball and basketball have the most slots available. Genetics play a role in athletic ability, but it is not destiny. 
 

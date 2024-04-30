@@ -172,7 +172,7 @@ So in summary, the author advocates for focusing on the highest impact promotion
 
 So in summary, the chapter promotes knowing and prioritizing the specific activities that directly impact sales, rather than getting distracted by less important tasks, in order to focus efforts efficiently. It provides examples and tips for identifying and committing to these "needle mover" activities.
 
- Here are the key points summarized:
+ 
 
 - Most purchase decisions are made emotionally, not logically. People connect with brands and products on an emotional level before logically evaluating options. 
 

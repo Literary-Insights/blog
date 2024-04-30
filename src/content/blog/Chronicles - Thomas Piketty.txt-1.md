@@ -171,7 +171,7 @@ BOOK LINK:
 
 - Instead, the EU should impose a specific tax on European banks to help pay costs, in an orderly and controlled way. This would distribute costs fairly across the sector rather than risk an uncontrolled default leading to wider financial instability.
 
- Here are the key points summarized:
+ 
 
 - The Eurozone crisis has been badly mismanaged by Sarkozy and Merkel, who keep announcing solutions that are quickly undermined by events. 
 

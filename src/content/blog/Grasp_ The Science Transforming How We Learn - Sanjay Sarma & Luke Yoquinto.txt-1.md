@@ -271,7 +271,7 @@ Gabrieli studied Molaison extensively, finding he could improve at certain tasks
 
 - Dyslexia and potentially dyscalculia challenge historical views of intelligence and standardized education systems not built to accommodate such learning disorders.
 
- Here are the key points summarized:
+ 
 
 - The passage discusses the concept of a "state of unreadiness" or lack of preparedness to learn introduced in the study identifying neural signatures of readiness to learn for memorizing places. This unreadiness could potentially disrupt education like dyslexia. 
 

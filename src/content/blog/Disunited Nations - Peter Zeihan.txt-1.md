@@ -153,7 +153,7 @@ So in summary, the passage argues China cannot replicate the US-led global order
 
 - In contrast, while China has made significant economic progress, it does not have a comparable technological edge. Its global trade position relies more on subsidized production and access to resources, not unique technological abilities.
 
- Here are the key points summarized:
+ 
 
 - Viable home territories with usable lands, defensible borders, and access to internal water transport are critical for a successful country. Water transport significantly reduces transportation costs and helps unify a population. 
 

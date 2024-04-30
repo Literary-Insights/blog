@@ -207,7 +207,7 @@ Antagonists should not be flat "bad guys" but convinced they are right. Ideally 
 
 Even in memoir where there is no villain, antagonizing internal and external forces can be developed. Chapters and scenes should advance character, plot and cause tension through character interactions and wants conflicting. Overall it discusses using secondary characters like friends to add nuanced interpersonal conflict to stories.
 
- Here are the key points summarized:
+ 
 
 - The process of drafting a first manuscript combines elements of plotting and pantser approaches, called "plantsing". An outline provides structure but allows freedom to explore new ideas.
 

@@ -1337,7 +1337,7 @@ So in summary, some of the most incredible things in history include massive emp
 
 - A habitat is the natural home or environment of an animal, plant, or other organism.
 
-That covers the main points requested in the summary prompt. Let me know if you need any part explained further.
+That covers the main points requested in the summary prompt. 
 
  Here is a summary of key points about high mountain areas:
 

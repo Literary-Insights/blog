@@ -213,7 +213,7 @@ The passage also discusses the "underprivilege of privilege" where helping child
 
 - Asking questions can help challenge assumptions and discover new paths to greater fulfillment and happiness at work. Having courage to change jobs or roles if needed plays an important role.
 
- Here are the key points summarized:
+ 
 
 - Wrzesniewski finds that job satisfaction and life satisfaction may depend more on how an employee views their work (as a job, career, or calling) rather than income or prestige. 
 
@@ -267,7 +267,7 @@ The passage discusses the importance of relationships for happiness and provides
 
 Philosophers and psychologists have debated whether people have a fixed level of happiness or if their depth of happiness can change. Some research suggests people have an internal happiness "set point" that corrections deviations and keeps one at a base level of happiness. However, others argue that while genetics play a role, one's happiness level is also determined by circumstances and intentional activities/practices, which can be influenced to increase overall happiness over time. Those who argue happiness is fixed make the "error of the average" by ignoring outliers who do not fit the norm. While genetics set a range, most people fall short of their potential for happiness by misusing time rather than pursuing meaningful, pleasurable activities. One's belief that happiness cannot change can become a self-fulfilling prophecy. Overall, the evidence demonstrates that with effort, one can become significantly happier through pursuing the right sources of meaning and pleasure.
 
- Here are the key points summarized:
+ 
 
 - Beyond measure discusses how our light, or potential goodness, frightens us more than our darkness. We question whether we deserve to be brilliant, talented or happy. But why don't we deserve to be? 
 

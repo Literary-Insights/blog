@@ -290,7 +290,7 @@ So in summary, FACS was used to scientifically analyze the facial expressions in
 
 - This indicates emotions themselves are universal, but displays and interpretations of emotion through facial expression are not inherent but culturally learned, contrary to Charles Darwin's hypothesis of universal emotional expression. The Friends scene oversimplifies the complexity of nonverbal communication.
 
- Here are the key points summarized:
+ 
 
 - Judges think they can get useful insights from seeing defendants in person, like signs of mental illness or remorse, but facial expressions and behaviors are often misleading. 
 
@@ -328,7 +328,7 @@ So in summary, FACS was used to scientifically analyze the facial expressions in
 
 - The legal system has trouble delivering justice to "mismatched" people whose emotional responses do not align with expectations and stereotypes. Knox was continually judged as suspicious based on her facial expressions and behavior.
 
- Here are the key points summarized:
+ 
 
 - Two Swedish graduate students witnessed Brock Turner sexually assaulting an unconscious woman outside a fraternity party at Stanford University. They intervened and held Turner until police arrived. 
 

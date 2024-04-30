@@ -1154,7 +1154,7 @@ The key takeaway is that BJ was able to pursue his dream of riding a motorcycle 
 
 - Taking her sister's advice, Paul eventually told her father the truth, despite being petrified of his response. She realized her sister was right that openness and honesty are important for close family relationships.
 
- Here are the key points summarized:
+ 
 
 - The firefighter crew had to take turns cooking meals for each other. One firefighter provided feedback to the cook that he wasn't putting "love" into the meal, which was an eye-opening realization. 
 

@@ -58,7 +58,7 @@ BOOK LINK:
 
 - The engineers related their experience to a scene in the movie The Last Castle where a prisoner's punishment involves endlessly moving rocks back and forth, breaking his spirit. Cancelling the project had this similar demotivating effect on the engineers.
 
- Here are the key points summarized:
+ 
 
 - Experiments were conducted showing that acknowledging and validating people's work increases motivation, while ignoring or invalidating their work significantly reduces motivation. 
 

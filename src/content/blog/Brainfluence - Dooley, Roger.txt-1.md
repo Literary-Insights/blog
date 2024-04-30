@@ -369,7 +369,7 @@ In summary, the article reports on research linking moderate coffee consumption 
 
 - The same recommendation applies to other industries - creatively renaming a product or its category could improve sales by changing perceptions and shedding any negative connotations. Describing the product in a new light may increase appeal without significantly changing the product itself.
 
- Here are the key points summarized:
+ 
 
 - Researchers found that framing negative information as percentages rather than concrete numbers can make the negative impact seem less severe. For example, people perceive a risk as higher when told "1,286 out of 10,000 people die" versus "12.86% of people die."
 
@@ -513,7 +513,7 @@ Further testing showed establishing credibility first through third-party narrat
 
 The passage suggests this shows the importance for marketers to be aware of order effects and consider establishing credibility or addressing potential objections before making bold claims, as initial impressions can be hard to change even after additional information. Introducing an idea and then backing it up may be less effective than preparing the audience to accept it first.
 
- Here are the key points summarized:
+ 
 
 - Initial impressions of websites formed rapidly, within milliseconds, tend to bias users as they continue viewing the site. A positive initial impression makes users more likely to discount flaws, while a negative first impression is difficult to change. 
 

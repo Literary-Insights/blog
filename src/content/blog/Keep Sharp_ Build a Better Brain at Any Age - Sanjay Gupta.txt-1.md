@@ -57,7 +57,7 @@ BOOK LINK:
 
 - The author is collaborating with AARP to compile evidence-based advice on maintaining brain health from their Global Council on Brain Health, which brings together over 90 experts worldwide. The book aims to provide scientifically-backed strategies readers can use to keep their minds sharp.
 
- Here are the key points summarized:
+ 
 
 - Long-term data and research provide versally accepted proof that lifestyle factors have a major influence on health and longevity, more so than genetic factors. Everything from diet, exercise, social connections, sleep, stress levels, and more can significantly impact brain health and the risk of diseases. 
 
@@ -163,7 +163,7 @@ BOOK LINK:
 
 - Decreased blood flow to the brain (hypoperfusion) may lead to neuron/cell degeneration and impairments, especially for those with vascular risk factors like hypertension.
 
- Here are the key points summarized:
+ 
 
 - The brain requires a constant supply of oxygen and glucose to function properly. Decreased blood flow can compromise this energy supply and cause problems. 
 

@@ -677,7 +677,7 @@ The text discusses the importance of identifying and using data to define and hy
 
 - Machine learning and big data techniques offer a powerful way to build models to predict future outcomes. They can make processes more efficient and accurate.
 
-That covers the main points summarized from the provided text. Let me know if you would like me to modify or expand the summary in any way.
+ Let me know if you would like me to modify or expand the summary in any way.
 
  Here is a 349-word summary of the text:
 
@@ -938,7 +938,7 @@ The text also discusses the debate between "randomistas" who favor RCTs as the g
 
 Does this look like a fair summary of the main arguments? Let me know if you would like me to clarify or expand anything.
 
- Here are the key points summarized:
+ 
 
 • RCTs are valuable but limited. They cannot assess all complex
 

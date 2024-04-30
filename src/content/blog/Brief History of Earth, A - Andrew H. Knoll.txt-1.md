@@ -213,7 +213,7 @@ So in summary, life without oxygen persisted for a long time but eventually cyan
 
 The author argues that the GOE and rise of eukaryotes changed Earth significantly but that bacteria and archaea continued to dominate life for a long time. Modest oxygen levels still enabled new possibilities that paved the way for complex multicellular life.
 
-Does this look like an adequate summary? Let me know if you would like me to expand on or modify any part of the summary.
+Does this look like an adequate summary? 
 
  
 

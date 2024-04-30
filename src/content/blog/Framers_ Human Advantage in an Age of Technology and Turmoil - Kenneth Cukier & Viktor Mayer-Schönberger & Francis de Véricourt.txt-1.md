@@ -636,7 +636,7 @@ The text discusses various topics related to framing and causality, including:
 
 The text also mentions Bernanke's recollection of his actions during the 2008 financial crisis which provides context for the section on causality. Overall, the key theme is how frames, maps, and mental models shape how we understand the world and help explain causality and reasoning. Many examples are provided from different domains to illustrate the importance and implications of framing.
 
-Does this cover the main points in a condensed manner? Let me know if you would like me to expand on or modify any part of the summary.
+Does this cover the main points in a condensed manner? 
 
  Here is a summary of the key points in the provided sources:
 
@@ -718,7 +718,7 @@ The key theme is that conceptual models - mental frameworks and representations 
 
 • Pluralism and intellectual diversity are important but can also create challenges, as seen in Bari Weiss' resignation from The New York Times.
 
-That covers the main points provided in a condensed and generalized summary. Let me know if you would like me to expand on or modify any part of the summary.
+That covers the main points provided in a condensed and generalized summary. 
 
  Here is a summary of the provided sources:
 

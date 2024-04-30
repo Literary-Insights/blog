@@ -381,7 +381,7 @@ So in summary, the two passages discuss the brain mechanisms and environmental/m
 
 - This change in approach led to his breakthrough bestselling novel "The Corrections" in 2001, which brought him great success and established him as a major American writer. Overcoming functional fixedness and allowing flexibility in his thinking freed Franzen to accomplish more than he originally envisioned.
 
- Here are the key points summarized:
+ 
 
 - Frozen thinking occurs when one has a fixed mindset and is unable to reexamine preconceived ideas or accept new evidence that contradicts their beliefs. This can lead to blindness and resistance to change. 
 

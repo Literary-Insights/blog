@@ -1035,7 +1035,7 @@ Specifically, model construction can be seen as "fitting out" underlying economi
 
 - Generating and critiquing model narratives allows economists to both explore the implications of their models and create coherent accounts of economic events and patterns in the real world. Narratives act as a testing bed for how well models represent reality.
 
- Here are the key points summarized:
+ 
 
 - Economists first need to ensure their small mathematical models are plausible and ask meaningful questions before using them to tell stories about real-world events. 
 
@@ -1077,7 +1077,7 @@ Specifically, model construction can be seen as "fitting out" underlying economi
 
 So in summary, the chapter frames model-based reasoning as a form of experimental inquiry and explores the different ways experiments can involve or utilize models, as well as the challenges of moving from model results to claims about the real world.
 
- Here are the key points summarized:
+ 
 
 - The chapter examines the development and use of supply and demand models through experiments conducted with the models. It uses the supply and demand model as an exemplar to show how modeling became standardized in economics. 
 

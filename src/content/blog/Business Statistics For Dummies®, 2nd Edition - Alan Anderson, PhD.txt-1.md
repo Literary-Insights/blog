@@ -970,7 +970,7 @@ Where s is the sample standard deviation.
 
 - Goodness of fit tests and hypothesis tests about a single population variance use a chi-square test statistic with n-1 degrees of freedom.
 
-That covers the key aspects of how population standard deviation relates to statistical hypothesis testing and other analyses. Let me know if you need any part explained further.
+That covers the key aspects of how population standard deviation relates to statistical hypothesis testing and other analyses. 
 
  Here is a summary of the key points about how showing the relationship between two variables:
 

@@ -862,7 +862,7 @@ So in summary, while atherosclerosis itself is natural, modern environmental fac
 
 - Impacted wisdom teeth also result from evolutionary mismatches. Hunter-gatherers rarely had issues with wisdom tooth eruption, but agricultural diets led to tooth crowding in recent populations, causing more impactions.
 
- Here are the key points summarized:
+ 
 
 - Traditional food preparation techniques required extensive chewing, which helped jaws and teeth develop properly through mechanical loading and interaction of genes. 
 

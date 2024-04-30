@@ -248,7 +248,7 @@ There was skepticism of this idea at first. But the author and his colleagues bu
 
 - An agreement emerged that both Egypt and Israel found acceptable. However, last-minute disagreements nearly derailed it. Carter's personal appeal to Prime Minister Begin, citing his grandchildren, helped resolve the issues and the historic Camp David Accords were signed.
 
- Here are the key points summarized:
+ 
 
 - Dennis Rodman spoke to the author on the phone, sounding irritated after a bad day. 
 

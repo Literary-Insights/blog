@@ -87,7 +87,7 @@ Politics and power matter both within societies and between independent social g
 
 - The key point is that the limits of human reason, coupled with our social nature, lead to a world characterized by many distinct cultural groups, each with their own practices, beliefs, and identities - and political institutions are necessary for the survival of these groups.
 
- Here are the key points summarized:
+ 
 
 - Societies must address fundamental questions about how to organize themselves and how individuals should behave, even if consensus is never fully reached. Issues like morality, justice, and war all require some shared standards. 
 
@@ -385,7 +385,7 @@ So in summary, the author argues that the liberal concept of universal, inaliena
 
 - While liberalism faces challenges due to political competition, these factors provide checks that can sustain liberal democratic stability against the authoritarian temptation over the long run, though it may remain an uneasy equilibrium between factions.
 
- Here are the key points summarized:
+ 
 
 - When a liberal state is powerful, it will almost always pursue a policy of liberal hegemony - an interventionist foreign policy aimed at spreading liberal democracy globally through regime change and social engineering. 
 

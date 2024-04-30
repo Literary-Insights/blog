@@ -45,7 +45,7 @@ BOOK LINK:
 
 - The overall message is to choose your own adventure by crafting work aligned with your inner values and unique voice, rather than copying others or following conventional industry models. Forge your own path through experimentation.
 
- Here are the key points summarized:
+ 
 
 - The passage discusses choosing a career path that aligns with one's values rather than focusing on money or worth. It says work should have meaning beyond just earning more. 
 

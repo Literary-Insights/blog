@@ -40,7 +40,7 @@ BOOK LINK:
 
 So in summary, the author explores how right-wing populists capitalized on anti-immigrant fears during the European migrant crisis to surge in popularity, but seeks a deeper understanding of what drove this coordinated populist reaction across the Western world.
 
- Here are the key points summarized:
+ 
 
 - In 2015-2016, large numbers of migrants and refugees passed through the overcrowded Moria camp on the Greek island of Lesbos as they fled civil wars in Iraq, Syria, and Yemen that began after the 2011 Arab Spring uprisings. 
 

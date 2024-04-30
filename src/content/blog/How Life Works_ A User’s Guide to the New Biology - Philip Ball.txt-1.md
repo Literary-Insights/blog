@@ -633,7 +633,7 @@ In summary, the epigenetic landscape metaphor conceptualizes cell differentiatio
 
 - Ongoing initiatives are applying these techniques to map hundreds of cell types in human tissues and explore developmental differences at single-cell resolution.
 
- Here are the key points summarized:
+ 
 
 - Researchers are using single-cell RNA sequencing (scRNAseq) to map out the "cell-fate landscape" during embryonic development. This reveals the distinct cell states (types) and trajectories between them. 
 
@@ -981,7 +981,7 @@ In summary, genetics research through genome sequencing and GWAS has had some su
 
 - In general, genes are one of many factors influencing health, and disease manifests at the physiological level of tissues/organs, not just at the genetic level. The genome provides an incomplete picture and does not predict outcomes on its own. Understanding multiple layers of biological information is needed for effective genetic medicine.
 
- Here are the key points summarized:
+ 
 
 - Development and phenotypes are influenced by signaling molecules like hormones, not just genes/chromosomes. Sex development can produce ambiguous or intersex traits. 
 

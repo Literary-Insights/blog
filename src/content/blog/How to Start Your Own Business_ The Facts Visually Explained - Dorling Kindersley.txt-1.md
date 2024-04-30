@@ -243,7 +243,7 @@ The key points focus on understanding the business, conducting analysis, decidin
 
 The key things to identify are the essential startup purchases, whether certain items can have costs reduced through alternatives to purchase, and planning for both initial and recurring ongoing operational expenses. Proper budgeting and cost planning is important early on.
 
- Here are the key points summarized:
+ 
 
 - You will need to estimate your business's potential revenue/income over 6-12 months and deduct all expenses including start-up costs, running costs, investment costs, and contingency costs. 
 
@@ -295,7 +295,7 @@ Banking has increasingly become digitalized. It now provides many digital servic
 
 Fintech companies utilize digital technology to offer cheaper financial services than traditional banks. This has helped expand access to payment services for smaller businesses and startups in regions and countries where access to traditional banking may be limited. Fintech provides opportunities for crowdfunding that are alternatives to bank loans for startups.
 
- Here are the key points summarized:
+ 
 
 - Running a sustainable business can benefit the environment through reducing waste and carbon footprint. It can also boost a company's reputation and attract customers and employees who value ethical practices. 
 

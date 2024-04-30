@@ -255,7 +255,7 @@ In summary, there is no "silver bullet" or one-size-fits-all approach to content
 
 The key is creating truly remarkable content that solves needs and builds trust, not just promoting your company. Follow those epic content principles and processes to become a trusted source.
 
- Here are the key points summarized:
+ 
 
 - Content marketing goals can include brand awareness, lead conversion, customer conversion, customer service, customer loyalty/retention, customer upsell, and creating passionate subscribers. 
 

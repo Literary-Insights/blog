@@ -351,7 +351,7 @@ In class discussions, the author would play devil's advocate to challenge studen
 
 The author notes the context of many female students feeling constantly at risk on campus and primed to see danger everywhere. However, she argues this mindset of "you can never be too careful" actually harms people of color through racial profiling and assumptions of threat, while overlooking that most violence is intraracial. The passage aims to get students to reconsider how fear and racism intersect to affect public spaces and interactions.
 
- Here are the key points summarized:
+ 
 
 - The author begrudgingly accepted a job teaching a class on vampires at the University of Pittsburgh, as an adjunct professor needing the work and pay. 
 
@@ -414,7 +414,7 @@ While the titles sound amusing, the author found all three books to be rather po
 
 The author acknowledges they likely wouldn't have read the books otherwise, as the two published ones were reviewed as part of previous work and the mime memoir was a manuscript submission. They argue lack of editing may have contributed to the self-published books' shortcomings. Overall, the passage humorously reflects on reviewing obscure or amateur autobiographical works as part of one's job in publishing.
 
- Here are the key points summarized:
+ 
 
 - The author tearfully recounts an unexpected crying spell they had while carefully handling an extremely old book from 1750 in a rare books room. 
 

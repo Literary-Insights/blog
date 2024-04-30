@@ -561,7 +561,7 @@ Example 2:
  - An unconscious Frenchman on the ground revived with a shriek, seeking his plain marriage ring as a zombie. 
  - Valke saw a shadow stand up afraid of watchtowers and surveying for towers before running, but it returned to the zombie.
 
- Here are the key points summarized:
+ 
 
 - Modernists felt traditional worldviews were inadequate and there was a need for new principles to understand the changing world. They hoped reason could build a universally objective new world. 
 

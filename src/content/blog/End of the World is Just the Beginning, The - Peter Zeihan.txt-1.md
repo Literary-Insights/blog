@@ -1216,7 +1216,7 @@ Let me know if you would like me to expand on any part of this summary further.
 
 - Post-Order World - Range of risks as globalized Order fades. Scarcity, conflict, populism. But pockets of stability likely.
 
- Here are the key points summarized:
+ 
 
 - The pre-modern era was defined by limited transportation and communication, localized economies, and low productivity. This began to change with innovations like sailing ships, the printing press, and firearms. 
 

@@ -248,7 +248,7 @@ Annie Duke, an elite poker player and psychologist, gives an example demonstrati
 
 - So while superforecasters' results seem impressive, more evidence is needed to conclusively prove their success is due to real forecasting skill rather than random chance, given the large number of people making predictions in the tournaments. Their performance deserves further testing and analysis.
 
- Here are the key points summarized:
+ 
 
 - When a corporation or executive becomes hugely successful, they often write a book attributing their success to certain qualities or actions. However, these books often don't provide solid evidence that these factors truly caused the success, and they rarely acknowledge the role of luck. 
 

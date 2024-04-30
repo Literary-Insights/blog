@@ -99,7 +99,7 @@ Overall it presents political maneuvering as an inescapable reality, and argues 
 
 - Overall, while considering permutations can provide insight, one must balance it with flexibility, focus on the present, accept uncertainty, and be willing to adapt plans in real-time based on emerging realities. The further one sees is only useful if it does not descend into paranoia or analysis paralysis.
 
- Here are the key points summarized:
+ 
 
 - Machiavelli argues that a ruler must learn both good and bad qualities, and know when to apply each as necessity requires in order to maintain his authority. 
 
@@ -844,7 +844,7 @@ It provides several historical examples of con artists who did this - a quack do
 
 - Lustig was a masterful con artist who was able to gain people's trust and confidence through subtle acts and observations of their weaknesses or vanities, like complimenting influential people or giving extravagant gifts to their wives, as exemplified in another anecdote about convincing a banker to invest through flattering his wife.
 
- Here are the key points summarized:
+ 
 
 - Count Lustig was skilled at identifying weaknesses in others, like Loller's need for validation and respect. He played on these insecurities to gain Loller's trust.
 
@@ -1064,7 +1064,7 @@ However, as Cimon began championing the aristocratic faction more openly, Pericl
 
 His strategy seemed aimed at avoiding suspicions he wanted to become a dictator like Pisistratus. Pericles now devoted himself solely to civic duties, being seen only traveling between the marketplace, council chamber and other political areas. He began distancing himself from his aristocratic roots and allies like Cimon to establish himself as a champion of the common people's interests.
 
- Here are the key points summarized:
+ 
 
 - Chess originated as a simulation of war and capturing the enemy king, representing a sublimated form of violence and desire to overcome the father figure. While the explicit goal has changed, the underlying psychological motivations remain. 
 

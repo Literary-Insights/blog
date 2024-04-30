@@ -162,7 +162,7 @@ BOOK LINK:
 
 - Proper control conditions are needed to account for factors like instructor enthusiasm/expectations confounding reported benefits (the Hawthorne effect). One lab developed an active Health Enhancement Program control condition.
 
- Here are the key points summarized:
+ 
 
 - The scientific research on meditation benefits needs to be more rigorous, using active control groups and objective outcome measures rather than just self-reports. Simply finding meditation groups report improvements compared to no-treatment controls doesn't prove the benefits are from meditation. 
 

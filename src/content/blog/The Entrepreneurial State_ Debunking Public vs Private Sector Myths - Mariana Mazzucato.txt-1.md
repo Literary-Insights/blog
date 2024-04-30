@@ -158,7 +158,7 @@ In summary, the text argues the state needs to take a more proactive and ambitio
 
 - There is a need to balance the understanding of how economies work and re-evaluate conventional views that overstate the role of markets and understate the public sector's role in innovation and long-term investment. Strategic public investment is important for growth.
 
- Here are the key points summarized:
+ 
 
 - Constant criticism of the state's ability to "pick winners" ignores how much more difficult it is for the state to invest in new, emerging technologies compared to private businesses investing in mature industries. 
 
@@ -580,7 +580,7 @@ So in summary, it contrasts the state support and responses to bankruptcy betwee
 
 So in summary, it discusses the development of solar PV internationally, challenges currently facing the industry, and myths around the roles of R&D, government support, and small vs large companies in clean energy innovation.
 
- Here are the key points summarized:
+ 
 
 - GE is a major wind turbine manufacturer that has also invested in solar PV technology, with plans for a $600M investment in thin-film solar in Colorado. 
 

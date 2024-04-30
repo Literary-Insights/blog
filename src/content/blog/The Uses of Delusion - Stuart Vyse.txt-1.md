@@ -285,7 +285,7 @@ In summary, while superstitions themselves may not improve performance, the ritu
 
 • Religious engagement can also correlate with negative outcomes, like support for extremism. The effects depend on the beliefs and norms of the specific religious group.
 
-That's a high-level summary of the key takeaways from the passage regarding rituals and religion. Let me know if you would like me to expand on or modify any part of the summary.
+That's a high-level summary of the key takeaways from the passage regarding rituals and religion. 
 
  
 

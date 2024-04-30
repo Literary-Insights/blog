@@ -617,7 +617,7 @@ The key points are that cash flows and profits can differ, balance sheet changes
 
 So in summary, financing activities refer to changes in a company's debt and equity capital sources and uses of cash related to lenders and owners. The cash flow statement discloses these financing cash flows.
 
- Here are the key points summarized:
+ 
 
 - Businesses should disclose changes in owners' equity beyond what is shown in the balance sheet. This additional disclosure is typically provided in a statement of changes in owners' equity. 
 

@@ -388,7 +388,7 @@ So in summary, Tversky and Kahneman had very different personalities but came to
 
 So in summary, the ORI researchers developed methods to analyze cues experts use and were able to accurately model expert medical judgments with basic algorithms, contrary to experts seeing their own thinking as complex. This supported the idea that human judgment has systematic errors that models can help uncover.
 
- Here are the key points summarized:
+ 
 
 - Researchers gave doctors duplicate medical images/cases to diagnose and found wide disagreement even within individual doctors' own diagnoses, suggesting fallibility. 
 

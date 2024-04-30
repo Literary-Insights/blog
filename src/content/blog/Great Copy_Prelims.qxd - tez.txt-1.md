@@ -187,7 +187,7 @@ A tone of voice allows a brand to flexibly enter new markets while maintaining a
 
 The passage also analyzes how Virgin Mobile ran a campaign with an ephemeral endline, but its tone of voice tied the ads back to the core brand. An effective tone of voice is more important than any individual message, as it speaks to the brand's target audience in a unique way. Developing the right tone of voice should be a key consideration when crafting brand messaging and endlines.
 
- Here are the key points summarized:
+ 
 
 - Virgin Mobile was able to successful enter the mobile phone market in the UK with a distinctive, youth-focused "tone of voice" that appealed to customers who felt ignored by the large incumbent carriers. 
 

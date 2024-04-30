@@ -1547,7 +1547,7 @@ YouTube has a complex relationship with professional media companies. It disrupt
 
 YouTube's open platform and financial opportunities have enabled the rise of influencers and new media companies, though their power has declined as YouTube itself gained more control over the ecosystem. Multichannel networks helped creators scale their business early on but now have less influence.
 
- Here are the key points summarized:
+ 
 
 PayPal: PayPal was acquired by eBay in 2002 for $1.5 billion. YouTube used PayPal to pay creators starting in 2007. 
 

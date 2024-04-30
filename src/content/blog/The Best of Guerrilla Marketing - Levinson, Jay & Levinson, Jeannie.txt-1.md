@@ -530,7 +530,7 @@ When writing, use active verbs and concise language to motivate readers. Conside
 
 - To win the "war for talent", individuals need to market their talent the best through guerrilla job hunting tactics. Listening to customers is important for market research but should not replace entrepreneurial inspiration.
 
- Here are the key points summarized:
+ 
 
 - An entrepreneur asked for money for research but didn't have enough for basic supplies, indicating a lack of market research and understanding of consumer wants. 
 
@@ -618,7 +618,7 @@ The overall message is to thoroughly research and plan an online business, avoid
 
 - Relationships provide long-term value through repeat purchases and referrals. They help protect the initial investment required to gain loyal customers. Proper relationship nurturing through ongoing useful engagement is important for guerrilla marketers.
 
- Here are the key points summarized:
+ 
 
 - A commitment to environmental values can help convince consumers to channel their business to a company. Some examples of initiatives that worked include hotels changing towel washing policies for cost savings but marketing it as green, and publishers reducing print runs and returns for environmental and economic reasons. 
 

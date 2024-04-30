@@ -836,7 +836,7 @@ Substance Abuse
 
 So in summary, psychological flexibility is described as a valuable skill set for strengthening relationships through more open communication and weathering relationship stresses, and can be applied both to oneself and to understanding one's partner.
 
- Here are the key points summarized:
+ 
 
 - Having an open and curious discussion with your child about their feelings and struggles, without judgment or trying to fix things, can help model acceptance and create deeper connection. 
 

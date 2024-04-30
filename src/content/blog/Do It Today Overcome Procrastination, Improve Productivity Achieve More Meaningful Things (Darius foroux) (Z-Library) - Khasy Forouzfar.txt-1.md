@@ -65,7 +65,7 @@ The core message is that procrastination stems from a lack of a productive syste
 
 The core message is that systems, routines and simple habits are more effective than willpower alone for managing procrastination and focusing your efforts. Developing inner motivation and eliminating unnecessary tasks can further support your productivity and focus.
 
-Hope this overview helps! Let me know if you would like me to expand on or modify any part of the summary.
+Hope this overview helps! 
 
  
 

@@ -684,7 +684,7 @@ In summary, the key supply side constraints are real estate, capital, cash flow,
 
 - The book tracks Trader Joe's evolution and growth into a highly successful and influential grocery chain.
 
- Here are the key points summarized:
+ 
 
 - The U.S. dollar was weak in the 1970s, leading to high inflation. This allowed Trader Joe's to buy foreign products cheaply.
 

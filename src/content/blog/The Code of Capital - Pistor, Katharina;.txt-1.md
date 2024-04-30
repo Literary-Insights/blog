@@ -270,7 +270,7 @@ So in summary, it outlines how debt became a core capitalism asset and how legal
 
 - Securitization became a large business involving many players filling roles like sponsor, trustee, administrator. It created fees but also relied on a constant supply of mortgages and high credit ratings to attract investors. Standards declined over time to feed the growth of private label securitization.
 
- Here are the key points summarized:
+ 
 
 - Citi changed its portfolio from mostly low-risk prime MBS to an equal share of prime and high-risk subprime products. It also increased its total portfolio size significantly, indicating the expansion was driven mostly by subprime products. 
 

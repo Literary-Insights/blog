@@ -97,7 +97,7 @@ The data showed cheating was more common after high-stakes testing was introduce
 
 In the early 2000s, the new CEO of Chicago Public Schools, Arne Duncan, wanted to follow up on the findings. He had 120 classrooms retested to verify cheating cases before taking action against teachers. The research was able to both detect cheating and identify truly effective teachers based on students' learning patterns.
 
- Here are the key points summarized:
+ 
 
 - The creators of the algorithm that detected cheating teachers in Chicago were asked to help choose which classrooms to retest, in order to make the evidence of cheating more convincing. 
 

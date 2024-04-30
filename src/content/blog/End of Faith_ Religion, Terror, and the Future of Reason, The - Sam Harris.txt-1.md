@@ -253,7 +253,7 @@ While the Inquisition began in 1184 to suppress the Cathar heresy, its methods o
 
 - The author critiques how religious institutions like the Church are more concerned with belief orthodoxy than rational inquiry or compassion, highlighting the human costs of such rigid dogmatism throughout history.
 
- Here are the key points summarized:
+ 
 
 - Prior to the 20th century, major human achievements were accomplished without a modern understanding of biology and life at the molecular level. This does not necessarily suggest a 19th century view of biology should have been maintained. 
 

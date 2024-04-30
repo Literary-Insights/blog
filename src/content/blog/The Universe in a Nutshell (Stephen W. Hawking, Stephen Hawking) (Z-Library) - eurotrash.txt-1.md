@@ -146,7 +146,7 @@ So in summary, it outlines how general relativity views space and time as dynami
 
 - The passage discusses how general relativity and quantum theory need to be combined to fully describe the beginning of the universe at the point of the Big Bang singularity. It introduces the idea that the universe has multiple possible histories based on uncertainty.
 
- Here are the key points summarized:
+ 
 
 - To understand how the universe began or what its initial state was, we need "boundary conditions" that describe what happens at the edges of space and time. 
 

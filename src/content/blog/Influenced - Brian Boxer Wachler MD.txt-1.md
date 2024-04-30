@@ -279,7 +279,7 @@ Influencers often use stage names that create an illusion, like Harry Houdini di
 
 So in summary, it describes a more left-brained, logical, evidence-based and fact-checking approach to influencing around medical topics, as opposed to an emotive, opinion-driven style that could more easily spread misinformation. The passage advocates for a stringent focus on accuracy from influencers.
 
- Here are the key points summarized:
+ 
 
 - Social media enables influencers and users to "cancel" people or companies they feel are unacceptable, often without due process. This has weaponized influencers to take others down swiftly. 
 

@@ -119,7 +119,7 @@ So in summary, Galileo's observation of Jupiter's moons provided the first solid
 
 - Sensory substitution illustrates that the brain, not the eyes, is responsible for visual perception and interpretation. Any sensory input can potentially support vision through training and prediction.
 
- Here are the key points summarized:
+ 
 
 - The brain's plasticity allows it to learn new languages and understand new data streams that are plugged directly into it, like infrared vision or weather/stock market data. With practice, the brain can make sense of these new inputs. 
 

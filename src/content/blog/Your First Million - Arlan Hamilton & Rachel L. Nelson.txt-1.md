@@ -128,7 +128,7 @@ So in summary, bootstrapping keeps founders in control but can be difficult for 
 
 That covers the key insights from CEOs in the article about purpose-driven companies and some of the opportunities and challenges discussed. Let me know if you need any clarification or have additional questions.
 
- Here are the key points summarized:
+ 
 
 - Don't count on money from funding sources like investors until it's actually in your company bank account. Never spend money you don't have yet. 
 
@@ -212,7 +212,7 @@ So in summary, the passage advocates measuring real progress and success through
 
 - The key message is that anyone can plant seeds to create positive change through their sphere of influence using the tools and resources they already have, even if they don't have wealth themselves. Catalyzing others is what the author aims to do at scale.
 
- Here are the key points summarized:
+ 
 
 - When you achieve success, don't ignore those left behind. Always think of "we" and "us", not just "I" and "me". 
 

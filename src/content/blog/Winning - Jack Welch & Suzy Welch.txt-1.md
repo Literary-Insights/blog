@@ -97,7 +97,7 @@ For employees, differentiation involves categorizing the top 20% as stars to hea
 
 The author argues differentiation is fair, efficient and effective. It motivates high performers and cultivates the middle, while cutting losses on the bottom. While controversial to some, it has transformed companies and is the most productive use of limited resources. Clear frameworks are needed and it takes time to implement properly with trust and candor. Differentiation mirrors natural selection and is simply good management.
 
- Here are the key points summarized:
+ 
 
 - The passage discusses common criticisms of the concept of differentiation in business (assessing employee performance on a 20-70-10 scale). 
 

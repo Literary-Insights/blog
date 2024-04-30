@@ -373,7 +373,7 @@ The key points are that attachment theory sees deities or supernatural agents fu
 
 So in summary, the essay argues that beliefs in supernatural agents stem more from evolved psychology for detecting dangerous predators and protectors, rather than directly from child-parent attachments as attachment theory claims. Historical and cross-cultural evidence on threatening deities is also discussed.
 
- Here are the key points summarized:
+ 
 
 - Religious traditions do not consist of coherent belief systems or worldviews in the way they are sometimes portrayed. Rather, they comprise collections of counterintuitive beliefs and stories that elicit underlying commonsense beliefs. 
 
@@ -705,7 +705,7 @@ So in summary, Whitehouse proposes two modes of ritual but his claims about the 
 
 - Religious rituals in humans likely evolved from similar innate capacities for ritualized social signaling and emotional synchronization to establish communal identification, commitment and cooperation through repeated collective ceremonies.
 
- Here are the key points summarized:
+ 
 
 - Religious rituals intensify natural human rhythmic bodily coordination tendencies to emotionally validate and sanctify cultural moral sentiments. This makes the associated religious sentiments feel right and good, causing people to truly hold the quasi-propositions that express them. 
 
@@ -1057,7 +1057,7 @@ Scientific analysis needs to examine real behavior, not idealized group types or
 
 - Experiments showing people copy meaningful sentences but not random words demonstrate humans innately seek syntactic structure, implying innate constraints on memetics and cultural transmission.
 
- Here are the key points summarized:
+ 
 
 - Cognitive structures constrain what cultural ideas and memes can spread and be maintained over time. Ideas that align with innate cognitive biases and modularity will be more memorable, transmissible, and stabilize in a culture. 
 

@@ -244,7 +244,7 @@ Provide consistent and ongoing communication with your support staff. Communicat
 
 Treat your support staff with respect. Take time to get to know them individually, understand their incentives and preferences. Give them the same respect you'd want. Thank them for their work. Your relationship with them is critical for delivering on commitments to clients and building trust.
 
- Here are the key points summarized:
+ 
 
 - Business relationships require trust as a foundation, which is built through consistent, reliable behavior over time. One inconsistent action can damage trust. 
 
@@ -278,7 +278,7 @@ When Adam next met with Cheryl, she handed him the autographed ball with a big s
 
 The story shows how listening for emotional clues can help uncover opportunities to create meaningful positive experiences for others. Adam's small act of asking for the autograph tapped into Cheryl's pride in her daughter and made her feel important, helping him succeed in winning the contract.
 
- Here are the key points summarized:
+ 
 
 - The passage describes an experience where the author hired a business coach to get objective feedback on how they were perceived by clients, associates, and friends. 
 

@@ -989,7 +989,7 @@ The ability to adapt to different environments comes not just from intelligence 
 
 - Essentialism of fundamental properties underlying identities is critiqued but the passage argues social life can have both essential and variable aspects. Determinism is addressed but the passage argues biology primes rather than completely governs human behaviors.
 
- Here are the key points summarized:
+ 
 
 - Determinism suggests human behaviors are determined by genes, environment, or culture. In reality, all these factors are important influences. 
 

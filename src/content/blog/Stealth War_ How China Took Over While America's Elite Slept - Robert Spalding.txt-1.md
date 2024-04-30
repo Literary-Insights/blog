@@ -106,7 +106,7 @@ So in summary, the US misjudged that engaging China economically would reform it
 
 - The passage argues the US has been too reliant on China economically and must address China's unfair trade practices and growing economic and political influence.
 
- Here are the key points summarized:
+ 
 
 - Studies found that trade shocks from China's imports led to higher rates of single motherhood, unwed mothers, and children living below the poverty line in single-parent households in the US. This suggests adverse social impacts beyond just economic effects. 
 

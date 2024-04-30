@@ -697,7 +697,7 @@ So in summary, the passage discusses the neurological and cognitive basis for pr
 
 So in summary, the key idea is that a frugivorous diet placed evolutionary pressures on primates to develop higher cognitive abilities like theory of mind, planning, and anticipating future needs in order to successfully forage. This enabled skills and behaviors to be actively taught and propagated within social groups.
 
- Here are the key points summarized:
+ 
 
 - For a long time, humans viewed themselves as uniquely superior to other animals intellectually. But as research has shown, many abilities once thought uniquely human (like reasoning, using tools, anticipating the future) are also found in other species. 
 

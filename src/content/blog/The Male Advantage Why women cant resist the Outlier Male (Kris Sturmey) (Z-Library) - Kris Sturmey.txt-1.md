@@ -218,7 +218,7 @@ The essay distinguishes an "outlier male" model from a simplistic "alpha male" d
 
 Overall it promotes strategic long-term thinking, discipline, single-minded focus, and being willing to sacrifice pleasures in service of important future goals.
 
- Here are the key points summarized:
+ 
 
 - The passage argues that "outlier males" will replace "alpha males" as the dominant archetype in modern society. Outlier males encourage success through helping others, whereas alpha males assert dominance through belittling others.
 

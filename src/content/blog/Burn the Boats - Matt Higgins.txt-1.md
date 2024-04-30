@@ -260,7 +260,7 @@ In a crisis, leaders should focus on decisively moving to survive longer-term ra
 
 The story of the International Champions Cup soccer tournament reinvention is also provided as an example of successfully pivoting a struggling business to leverage existing relationships into new opportunities when the original model wasn't working. In crises, being willing to completely reinvent and retreat from failing approaches can unlock major success. Overall, the passage encourages creative thinking of new possibilities in hard times.
 
- Here are the key points summarized:
+ 
 
 - The author experienced personal struggles with COVID-19 early on, spending almost a month in isolation while infected. But he saw it as an opportunity rather than a disaster, gaining time to write a book. 
 

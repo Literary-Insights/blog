@@ -870,7 +870,7 @@ So in summary, additional debt can only increase shareholder returns through fin
 
 So in summary, leverage effect quantifies debt's ROE impact through gearing, but book returns alone do not capture risk and cannot be used to set financial objectives.
 
- Here are the key points summarized:
+ 
 
 - The leverage effect refers to the difference between return on equity (ROE) and return on capital employed (ROCE) arising from the capital structure of a company (proportion of debt vs equity). 
 
@@ -3475,7 +3475,7 @@ So in summary, it covers various terms related to corporate financing, credit, d
 
 - Various methods can be used to calculate a stock's sensitivity to overall market movements (beta).
 
-That covers the main points summarized from the provided text. Let me know if you need any part explained further.
+ 
 
  Here is a summary of the key terms from the list provided:
 

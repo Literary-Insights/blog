@@ -161,7 +161,7 @@ In summary, the passage argues the position of ignoring fossil fuels' massive be
 
 In summary, the passage argues the current knowledge system exhibits a bias against cost-effective energy that obscures accurate policy evaluations and risks damaging decisions if left unaddressed.
 
- Here are the key points summarized:
+ 
 
 - The track record of climate predictions from experts designated by the "knowledge system" (media, environmental groups, politicians) has been 180 degrees wrong.
 
@@ -529,7 +529,7 @@ In summary, the passage argues that fossil fuel innovation has and will continue
 
 - Fossil fuels currently provide that ultra-cost-effective energy needed to improve lives and drive development. Their comparative ability to meet future energy demand is much greater than alternatives according to the arguments made.
 
- Here are the key points summarized:
+ 
 
 - Machine learning and artificial intelligence are driving significant increases in computing power and energy usage, as more powerful computers are needed to power advanced AI applications. Areas like medicine show great promise to improve lives with AI. 
 

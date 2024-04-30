@@ -256,7 +256,7 @@ So in summary, the passage discusses how deregulation and lack of regulatory upd
 
 So in summary, certain influential economic theories became entrenched despite failures, limiting learning from events like the financial crisis.
 
- Here are the key points summarized:
+ 
 
 - Theoretical economic models and thinkers on both sides of the "saltwater-freshwater divide" have useful insights, though freshwater economists grew overconfident that monetary policy alone could solve all problems. 
 
@@ -332,7 +332,7 @@ So in summary, the passage argues fears about deficits were overblown and did no
 
 - While high debt burdens future generations, the debt does not need to be paid off quickly. If debt grows more slowly than GDP+inflation over time, the debt-to-GDP ratio will fall even with balanced budgets, as occurred after WWII in the US.
 
- Here are the key points summarized:
+ 
 
 - During most of the post-World War 2 period up until the Reagan era, the US generally ran modest budget deficits and debt was growing slower than GDP. It was under Reagan that debt started growing faster than GDP. 
 

@@ -1373,7 +1373,7 @@ Overall, the passage examines the challenges faced by Eastern Bloc nations in at
 
 - By the late 1960s, communism in Europe was no longer driving radical transformation. The focus shifted to stable welfare states and economic justice within communist systems. A similar trend emerged in China after Mao's death in 1976. Communist regimes stabilized by providing for their populations within existing political systems.
 
- Here are the key points summarized:
+ 
 
 - Paternalistic systems varied across communist states based on local cultures and conditions. China had one of the most intrusive systems due to huge rural labor pool giving regime more control. 
 

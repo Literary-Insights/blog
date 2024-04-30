@@ -739,7 +739,7 @@ The passage questions where identity lies in this "seething mass of life" if bio
 
 - While retaining the concept of individuals is useful, it does not represent some fundamental truth or fixed boundary in biology given the complexity and flexibility of life.
 
- Here are the key points summarized:
+ 
 
 - Evolution should not be constrained by rigid rules proclaiming certain things impossible. We should trust that evolution finds good strategies. 
 

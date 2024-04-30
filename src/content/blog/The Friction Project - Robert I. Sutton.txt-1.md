@@ -115,7 +115,7 @@ The passage then describes some common "tricks" or hollow acts that posers engag
 
 - Authentic pride from conscientious efforts to help others is more constructive than hubristic pride based on feelings of inherent superiority. Friction fixing is best powered by the former through persistent, humble work over time to continuously improve.
 
- Here are the key points summarized:
+ 
 
 - Studies have found it is difficult to distinguish authentic pride from hubristic pride based on outward expressions alone. Fake "friction fixers" may appear proud of their work but are really puffed up by their own rhetoric. 
 
@@ -231,7 +231,7 @@ This summarizes the key points about how the clinics addressed communication and
 
 The passage discusses several methods that leaders can use to reduce cluelessness and become more effective. It advocates for less talking and more listening on the part of leaders. Leaders should measure how much they talk versus others in meetings and ratio of questions asked to statements made. Taking time to observe employees doing their jobs through "ride-alongs" and shadowing can provide valuable insights into problems and solutions. Leaders can also help employees or do their jobs themselves to better understand challenges. Downward deference, where leaders defer to local expertise, gain trust, and flatten hierarchies, is linked to better performance according to research. But hierarchies also have their uses - the best leaders know when to delegate and when to assert authority depending on the situation. Flexing between these approaches rather than treating hierarchies as static is most effective. Overall, the passage promotes leaders reducing power behaviors, actively listening to employees, and tapping into local expertise as ways to overcome cluelessness.
 
- Here are the key points summarized:
+ 
 
 - Organizations and people naturally tend to favor addition over subtraction when looking for solutions or ways to improve. This is known as "addition bias" or "addition sickness." 
 

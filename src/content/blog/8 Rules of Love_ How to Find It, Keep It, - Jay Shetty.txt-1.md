@@ -337,7 +337,7 @@ The goal is to learn, experiment and gain expertise until one can "thrive" by co
 
 The overall messages are to provide encouragement and guidance in a non-controlling way, be understanding of challenges, and work cooperatively as a team to find solutions throughout their journey of pursuing their passion or purpose. The focus is on empowering the partner through empathy, patience and belief in their capabilities.
 
- Here are the key points summarized:
+ 
 
 - When a couple is pursuing their individual purposes, it can be difficult to negotiate time, especially with children or household responsibilities. 
 
@@ -499,7 +499,7 @@ However, if he has been thoughtful and observant, he can thank her for coming an
 
 The key points are asking questions to understand rather than judge, accepting difficult feedback without becoming defensive, compromising to find a solution, and showing appreciation for the other's willingness to engage even when uncomfortable. This builds understanding between partners to resolve issues respectfully.
 
- Here are the key points summarized:
+ 
 
 - Breakups are difficult experiences that can lead to strong emotional reactions like pleading, sobbing, drinking excessively, or making dramatic entrances/exits seeking attention from the rejecter. 
 

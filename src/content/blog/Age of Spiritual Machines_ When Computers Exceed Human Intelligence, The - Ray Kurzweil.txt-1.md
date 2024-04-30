@@ -129,7 +129,7 @@ The key point is that the progression of time scales in the early universe was e
 
 - Exponential growth trends often stop when limited by environmental factors, but technological evolution is relatively unconstrained due to humanity's ability to alter environments. So the law of accelerating returns may persist indefinitely.
 
- Here are the key points summarized:
+ 
 
 - The learning curve follows an S-shape, with exponential growth initially followed by leveling off. This pattern is seen in how most multicellular creatures like slug: s learn new skills.
 
@@ -397,7 +397,7 @@ While tools like recursive search and neural networks show promise, they are lim
 
 In summary, while quantum computing endangers current encryption, quantum entanglement may offer secure encryption alternatives. The relationship between the human brain, quantum effects, and consciousness remains intriguing but unclear.
 
- Here are the key points summarized:
+ 
 
 - Estimates of the number of concepts/chunks of knowledge a human expert masters in a field (e.g. chess positions, medical concepts) are consistently around 50,000-100,000. 
 
@@ -531,7 +531,7 @@ The passage discusses the growing dependency of modern society on computers and 
 
 While Y2K issues caused some concern over date recognition problems, the author believes the fixes minimized risks there. However, the passage warns that within a few decades, humans may find themselves dependent on increasingly intelligent machines that are less docile and controllable. Computers are taking on more roles traditionally held by humans. So a future outage could have even graver consequences for civilization than imagined in 1999. The passage examines early signs of creative machine intelligence as a precursor to greater technological changes to come.
 
- Here are the key points summarized:
+ 
 
 - Claude Debussy was critical of the domestication of sound through recorded music, which he felt would destroy the mysterious force of art. 
 

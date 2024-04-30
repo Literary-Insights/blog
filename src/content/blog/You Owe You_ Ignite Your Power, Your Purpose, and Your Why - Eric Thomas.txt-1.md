@@ -240,7 +240,7 @@ The anecdote describes how the author began to discover his gift for public spea
 
 - Caring for Dede led the author to discover they had more to give. Difficult times can make people stronger and evolve their purpose. Comfort can pull us back from progress, while crises nourish growth. The author views challenges as opportunities to fight more for their goals.
 
- Here are the key points summarized:
+ 
 
 - The person uses their gifts and talents to help others through speaking engagements, workshops, and mentoring students. They seem to have found their purpose and career path in this work. 
 

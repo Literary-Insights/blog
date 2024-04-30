@@ -2273,7 +2273,7 @@ A resilience framework can translate to practice in several ways. Programs shoul
 
 In summary, the references discussed hypotheses regarding resilience as resulting from person-environment interactions, the need for clear construct definitions, and questions about intervention mechanisms, moderators, and long-term impacts that could be addressed through evaluation research.
 
- Here are the key points summarized:
+ 
 
 - Applying a resilience framework to practice risks suggesting that with appropriate services, children can overcome adversity through resilient adaptation. This could lead policymakers to wrongly conclude resilience comes from within the child, justifying reduced social services. 
 

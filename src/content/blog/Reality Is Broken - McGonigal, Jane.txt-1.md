@@ -562,7 +562,7 @@ While most quests involve solo dancing with uploaded videos, the social aspect o
 
 - Impacts included 28 MPs resigning, 4 facing criminal charges, £1.12 million repaid by MPs, and new expense rules/enforcement. The game played a crucial role in a new form of political reform movement.
 
- Here are the key points summarized:
+ 
 
 - With just one hour of participation per person each week, collectively we could complete nearly 20 Wikipedia-sized projects. However, there are far fewer large collaborative projects than this potential suggests. 
 

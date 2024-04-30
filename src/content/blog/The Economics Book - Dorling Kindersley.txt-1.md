@@ -2593,7 +2593,7 @@ Friedman's analysis undermined Keynesian economics. Governments turned to supply
 
 That’s the essence of the concept of institutions and their importance in economics according to institutional economists. Please let me know if you would like me to explain anything in the summary in more detail.
 
- Here are the key points summarized:
+ 
 
 • Mainstream economics developed rigorous mathematical models of individual behavior and markets. These models were influenced by developments in the natural sciences. 
 

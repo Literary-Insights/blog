@@ -1011,7 +1011,7 @@ So in summary, innovation is driven not so much by patents, government funding, 
 
 - Archeological evidence shows early humans traded materials, goods, and innovations over long distances, in contrast to Neanderthals. This exchange of ideas may have given humans an advantage.
 
- Here are the key points summarized:
+ 
 
 - Money is built on trust between people. As modern states brought violence under control, money replaced barter and facilitated trade. 
 

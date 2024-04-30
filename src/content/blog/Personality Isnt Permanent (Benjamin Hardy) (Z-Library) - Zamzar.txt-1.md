@@ -358,7 +358,7 @@ Does this cover the main points accurately? Let me know if you need anything els
 
 • An empathetic witness provides an "honest connection" that makes the trauma "understandable and meaningful." This can facilitate emotional expressions and reframing of the experience, preventing it from remaining traumatic.
 
-Does this cover the key takeaways from the text in a summarized manner? Let me know if you would like me to expand on or modify any part of the summary.
+Does this cover the key takeaways from the text in a summarized manner? 
 
  Here is a summary of the provided text:
 

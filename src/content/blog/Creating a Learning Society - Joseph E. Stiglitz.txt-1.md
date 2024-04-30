@@ -331,7 +331,7 @@ So in summary, static efficiency focuses on immediate resource allocation while 
 
 In summary, the key points are about balancing private incentives for knowledge hoarding with broader social benefits of learning; the advantages and risks of large firms; and how policy can influence the macro environment to promote more learning at an economic level.
 
- Here are the key points summarized:
+ 
 
 - Innovation is likely to be higher in the industrial sector than the agricultural/craft sector due to larger firm size, ability to internalize learning externalities, lower risk aversion, and less capital constraints. 
 
@@ -815,7 +815,7 @@ In summary, the analysis suggests that weaker intellectual property rights, by m
 
 So in summary, the analysis examines the optimal subsidies for learning industries and how market structure like monopoly can impact innovation incentives by internalizing dynamic learning effects.
 
- Here are the key points summarized:
+ 
 
 - The chapter generalizes the 2-sector learning model from the previous chapter to an N-good competitive economy with endogenous labor supply. 
 

@@ -405,7 +405,7 @@ So in summary, the passage argues social media may be fueling societal symptoms 
 
 - In summary, they gained experience treating BPD and observed benefits of longer-term intensive programs using therapies like DBT.
 
- Here are the key points summarized:
+ 
 
 - While transgender identity is valid, some argue there may be a "sociogenic trans effect" where social influences like social media and peers cause some individuals to identify as trans when they may not be genuinely transgender. 
 

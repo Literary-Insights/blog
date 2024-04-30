@@ -417,7 +417,7 @@ One consultant used visioning and positive predictive statements to get the prod
 
 The passage notes that entering a "flow state," where ideas come effortlessly and the negotiation process feels organic, can help negotiate optimal results. It advises using details learned through "forensic listening" to understand the other party and get them into a similar focused, clarity-minded state of flow. This approach allowed the consultants to successfully negotiate a higher rate of $4,500 per episode for the talent.
 
- Here are the key points summarized:
+ 
 
 - Successful negotiators are able to "float above" the problems and view the situation objectively to achieve a win-win solution and get both parties into a "flow state." 
 

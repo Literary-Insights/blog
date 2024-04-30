@@ -177,7 +177,7 @@ The overall aim is to reform political incentives and decision making processes 
 
 - Jurors should not be overly shielded from outside information, as they are trusted to weigh evidence properly. Either they can do this or jury system needs rethinking. Information is generally a good thing in decision making.
 
- Here are the key points summarized:
+ 
 
 - According to Bayes' law, everything that could be potentially relevant should be considered as evidence, including prior convictions, appearance, choice of attorney, etc. Background information and context help assess the credibility and probability of different pieces of evidence.
 

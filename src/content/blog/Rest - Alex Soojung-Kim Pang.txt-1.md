@@ -359,7 +359,7 @@ The passage gives examples of how scientists and inventors like Norman Maclean, 
 
 - Scientists drew parallels between experiment design and route planning in climbing. Both require stepping strategies and judgment with unknown challenges. Success in climbing is quicker but unambiguous, unlike drawn-out experiments. Climbing also provides confidence and perspective difficult to find competitively in science.
 
- Here are the key points summarized:
+ 
 
 - Wilder Penfield began a second career as a writer after retiring from neurosurgery at age 70. He had been writing faithfully to his mother for decades, developing the habits of a regular writer. His correspondence helped sharpen his writing skills. 
 

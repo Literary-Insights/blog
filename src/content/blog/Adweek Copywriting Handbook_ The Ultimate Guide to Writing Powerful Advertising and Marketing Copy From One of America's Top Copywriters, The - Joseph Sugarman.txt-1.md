@@ -73,7 +73,7 @@ Specific points made include:
 
 The key idea is that broad life experiences and always seeking new learning greatly enhances one's abilities as a copywriter.
 
- Here are the key points summarized:
+ 
 
 - To be an effective copywriter, it's important to become an expert on the product or service being written about. This means learning enough specific knowledge to be able to communicate the benefits effectively. 
 

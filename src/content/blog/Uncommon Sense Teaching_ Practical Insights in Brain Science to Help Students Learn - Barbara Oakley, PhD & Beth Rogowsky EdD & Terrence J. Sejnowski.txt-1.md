@@ -338,7 +338,7 @@ So in summary, the procedural system is key for developing expertise and automat
 
 So in summary, interleaving teaches students to distinguish subtleties and strengthens procedural learning through pattern recognition practice and enhanced memory retention over time.
 
- Here are the key points summarized:
+ 
 
 - Interleaved practice requires more effort from students up front but pays off in better learning compared to blocked practice that students are used to. The challenge is convincing students of this. 
 

@@ -200,7 +200,7 @@ So in summary, these games highlight tensions between individual and collective 
 
 So in summary, the passage uses analytical reasoning and research findings to argue that perceptions of social standing derived from things like rankings of attractiveness or friend counts do not reflect true worth and shouldn't negatively impact self-esteem.
 
- Here are the key points summarized:
+ 
 
 - The passage discusses skepticism about rankings, evaluations and certainty in various dimensions like math, literature, business, art skills. No agreed way to rank and compare different skills. 
 

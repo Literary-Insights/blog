@@ -342,7 +342,7 @@ Kierkegaard analyzed these introspective character types to show the failures of
 
 - Freud had an authoritarian personality and created a patriarchal atmosphere around his psychoanalytic work and family life. He was reluctant to accept criticism or dissent.
 
- Here are the key points summarized:
+ 
 
 - Freud staged his own greatness and importance within his family, deliberately arranging his life to reflect his sense of mission and importance. This included taking long vacations only with his brother, not his wife, and prioritizing his work over family life. 
 

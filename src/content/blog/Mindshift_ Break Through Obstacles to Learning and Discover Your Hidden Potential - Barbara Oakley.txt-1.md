@@ -89,7 +89,7 @@ While the transition from music to medicine was challenging, Graham's experience
 
 - In summary, Claudia avoided legal trouble by quitting her job, but that led to a depressive episode. She realized she needed fundamental changes and was determined to experiment with different approaches to transform herself and overcome her depression.
 
- Here are the key points summarized:
+ 
 
 - Claudia made major changes in how her mind works through learning and actively taking steps like exercise, despite lifelong depression patterns. 
 

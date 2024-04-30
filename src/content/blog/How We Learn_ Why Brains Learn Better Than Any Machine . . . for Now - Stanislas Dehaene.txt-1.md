@@ -97,7 +97,7 @@ The key ability driving all this is our brain's power to form hypotheses and sel
 
 - Both biological and machine learning systems seem to employ aspects of randomness, curiosity-driven exploration, and reward/feedback-based optimization to overcome challenges in learning complex tasks from limited or delayed feedback.
 
- Here are the key points summarized:
+ 
 
 - The actor-critic combination is an effective reinforcement learning approach where an actor learns to act wisely based on evaluation from a critic. The critic learns to evaluate the consequences of actions, and the actor uses this feedback to improve. 
 
@@ -153,7 +153,7 @@ The key ability driving all this is our brain's power to form hypotheses and sel
 
 - Formulating abstract, logical representations and hypotheses allows humans to massively constrain the space of possibilities and accelerate learning compared to associative models like neural networks.
 
- Here are the key points summarized:
+ 
 
 - Children are able to learn language much faster than current artificial neural networks, through the use of meta-rules and abstract thinking. 
 
@@ -167,7 +167,7 @@ The key ability driving all this is our brain's power to form hypotheses and sel
 
 - Computational models are being developed that can learn hierarchies of rules, meta-rules, and meta-meta-rules to mimic this efficient language learning, though they have not achieved human levels yet.
 
- Here are the key points summarized:
+ 
 
 - Learning involves forming hypotheses to explain sensory experiences, distinguishing causes from consequences. This ability to entertain abstract hypotheses dramatically accelerates learning. 
 

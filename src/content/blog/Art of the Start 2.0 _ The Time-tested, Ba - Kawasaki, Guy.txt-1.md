@@ -99,7 +99,7 @@ The key is to start by identifying a problem worth solving or question worth ans
 
 The key is not to wait but to launch when you have an imperfect but promising product and are ready to improve it based on user feedback rapidly.
 
- Here are the key points summarized:
+ 
 
 - Pick a name for your startup that is short, simple, and easy to remember. Avoid complicated words or phrases. 
 

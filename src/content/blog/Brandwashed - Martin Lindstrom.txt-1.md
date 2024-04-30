@@ -201,7 +201,7 @@ While fear raises concerns, it also has evolutionary benefits. It activates the 
 
 - Marketing plays on emotions like fear and insecurity to influence even predisposed compulsive shoppers. Interacting with salespeople can also boost self-esteem and fuel addictive shopping patterns. Repeated dopamine rushes from purchases can permanently alter the brain's DNA over time.
 
- Here are the key points summarized:
+ 
 
 - Brand and product addictions are surprisingly common. People become obsessive fans of brands like Starbucks, sports teams, celebrities. There's even an online community for brand addicts. 
 

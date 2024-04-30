@@ -480,7 +480,7 @@ The ethics of embryonic stem cell research should be judged based on the actual 
 
 In summary, the key idea is that despite setbacks, the author believes evidence of growing empathy and decreasing acceptance of harming others points to real moral progress over the long arc of history, giving reasons for qualified optimism about the future of human morality.
 
- Here are the key points summarized:
+ 
 
 - Scientists (physicists) can disagree even when using the same data and methods, and the disagreement may involve both philosophical and scientific perspectives since all data must be interpreted within a broader theoretical framework. 
 

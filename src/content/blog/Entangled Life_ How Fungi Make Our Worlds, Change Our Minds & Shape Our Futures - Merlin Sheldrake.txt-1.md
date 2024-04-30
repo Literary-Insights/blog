@@ -181,7 +181,7 @@ Truffle smells have long been associated with sex and excitement in humans. Thei
 
 - Some neurobiologists were excited by the possibility that mycelial networks communicate and integrate information via electrically conducted signals in a manner analogous to brain processing. However, the ability of mycelial networks to "think" remains controversial.
 
- Here are the key points summarized:
+ 
 
 - Research in the 1990s by mycologist Prof. Olsson found that mycelial networks of fungi transmit electrical signals, stimulating comparisons to brain networks. However, Olsson cautioned against calling them "brains" due to significant differences in architecture. 
 
@@ -439,7 +439,7 @@ So in summary, the passage discusses the evidence that mycorrhizal fungi can inf
 
 - Perspectives tend to be plant-centric but should also consider the fungi's role in nutrient circulation and in benefiting from the plant-fungal symbioses. Fungi are more than just passive plumbing and likely get significant benefits from their many plant partnerships.
 
- Here are the key points summarized:
+ 
 
 - Paying more attention to plants than fungi leads to being "plant-centric" and overlooking the important role of fungi. The language of the "wood wide web" metaphor suggests plants are the main nodes and fungi are passive connections, which is misleading. 
 

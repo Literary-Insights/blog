@@ -221,7 +221,7 @@ In 1997, Marty Manley was looking for an out-of-print book and had trouble findi
 
 - By bringing more buyers and sellers together, Alibris helped supercharge growth in the online used book market, which grew at double digits annually versus stagnation previously. Alibris was an example of an "aggregator" leveraging technology to create an efficient market from an inefficient one.
 
- Here are the key points summarized:
+ 
 
 - Amazon has a larger selection of goods than the average record store due to its online inventory model, but it still only captures about 1/4 of the "long tail" of available music. 
 

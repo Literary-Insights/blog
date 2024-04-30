@@ -224,7 +224,7 @@ So in summary, while brains were long thought to have unique properties enabling
 
 - In summary, a wide range of fields are working to help software achieve "a mind" and develop the means to digitize human minds. Both medical needs and market opportunities are driving these efforts.
 
- Here are the key points summarized:
+ 
 
 - When a mind is copied or cloned onto a non-biological platform like software, it raises questions about identity and what constitutes a "being."
 
@@ -640,7 +640,7 @@ So in summary, the article finds little empirical basis to fear mindclone voters
 
 - The Universal Declaration of Human Rights uses open-ended language about protecting those with "reason and conscience," suggesting it could apply to cyberconscious beings. Rights enhances survival by deterring violence against groups denied their dignity.
 
- Here are the key points summarized:
+ 
 
 - Having human rights enhances survival by establishing social and legal protections against threats to life, liberty, and security. This is evidenced by declining violence death rates where human rights exist. 
 

@@ -228,7 +228,7 @@ In summary, the chapter argues inflation has significant individual and social c
 
 - The analysis draws an analogy to difficulties managing expectations in a "supermarket" of wage negotiations, where failing to serve all "customers" equally would understandably anger workers and undermine the targets.
 
- Here are the key points summarized:
+ 
 
 - In the 1930s, during the Great Depression and a smaller depression, prices fell by over 12% over the decade. Government bonds had the highest real returns around 70%, while real estate had the lowest returns around 9%. 
 

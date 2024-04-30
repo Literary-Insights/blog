@@ -667,7 +667,7 @@ So in summary, the passage discusses how false information in science can spread
 
 In summary, the passage discusses how city boundary definitions can influence crime statistics, cautions that sensational claims should be fact-checked, and recommends thinking in orders of magnitude as a tool for skepticism.
 
- Here are the key points summarized:
+ 
 
 - The passage talks about using "back-of-the-envelope" or "Fermi estimations" to spot bullshit claims without precise calculations. This involves making reasonable assumptions and order-of-magnitude estimates.
 
@@ -719,7 +719,7 @@ So in summary, the chapter introduces the concept of "calling bullshit" as a way
 
 - The key is to dismantle claims respectfully using logic and humor rather than personal attacks, in order to persuasively dispel false ideas while maintaining relationships.
 
- Here are the key points summarized:
+ 
 
 - A study showed photos of people in social contexts depicting emotions like inclusive or exclusive to a salmon to see if it could determine the emotions. Despite the salmon being dead, brain regions associated with emotion processing showed increased activity. 
 

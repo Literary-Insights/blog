@@ -748,7 +748,7 @@ The key themes are embodied/physical interfaces for virtual worlds, social/commu
 
 - Walking experiences in these environments suggests integration of film/video-based narratives with interactive and responsive virtual elements.
 
- Here are the key points summarized:
+ 
 
 - Independent artists play an important critical role in providing a social perspective on technology development. They help ensure technology is humanized. 
 

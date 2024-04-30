@@ -676,7 +676,7 @@ So in summary, Smith argued division of labor, specialization and trade, as enab
 
 - The vision should be about individual rights and accountability for all actors, rather than choosing between state power and free markets. Both play a role, and both need oversight to solve problems efficiently.
 
- Here are the key points summarized:
+ 
 
 - The technocratic approach of having experts solve societal problems is problematic because experts face neither market forces nor democratic accountability. This means there is no incentive structure to scale up successes or abandon failures. 
 

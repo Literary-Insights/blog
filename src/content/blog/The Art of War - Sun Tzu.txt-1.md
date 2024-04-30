@@ -221,7 +221,7 @@ In summary, the key points emphasize using strategy, speed, and morale over dire
 
 In summary, military strategy requires proper generalship, avoiding interference from ignorant civilian leadership, capitalizing on disunity in the enemy, and prudent calculation of relative strength before engaging.
 
- Here are the key points summarized:
+ 
 
 - The intelligent are glad to establish their merit, the brave like to act out their ambitions, the greedy welcome profit, and the foolish risk death. Disorganized troops bring trouble on themselves.
 
@@ -245,7 +245,7 @@ In summary, military strategy requires proper generalship, avoiding interference
 
 The main ideas are using momentum/energy skillfully, adaptable formations, and combining orthodox direct and unorthodox surprise tactics infinitely to attack vulnerabilities. Flexibility, variability, and focused attack are key.
 
- Here are the key points summarized:
+ 
 
 - Emptiness and fullness refer to the relative strength and weakness between opponents. Identify where the enemy is empty/weak and where you are full/strong.
 
@@ -363,7 +363,7 @@ Does this accurately summarize the key points? Please add any other important no
 
 The main idea is to avoid battling on disadvantageous ground, seize vital locations, beware of being ambushed, and when surrounded, fight bravely with no choice but victory or destruction. Master Sun emphasizes adapting strategy to different types of terrain.
 
- Here are the key points summarized:
+ 
 
 - On different types of ground (light, heavy, contested, etc.), employ different strategies and tactics. Be flexible.
 

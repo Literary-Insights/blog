@@ -293,7 +293,7 @@ The key takeaways encourage using specific techniques like visualization, adjust
 
 - Noticing and addressing internal incongruence and resistance allows one to maximize physical and emotional energy for tasks. Optimism, enthusiasm and energy act as drivers that influence feelings and performance.
 
- Here are the key points summarized:
+ 
 
 - Motivation can come from either creating anxiety or imagining positive experiences. Some motivate through negative thoughts like consequences of not completing a task, while others use positive expectations. 
 
@@ -369,7 +369,7 @@ The next section discusses taking a look at oneself - who you currently are and 
 
 - Recognizing our dominant meta-programs helps increase self-awareness of how we motivate ourselves and make decisions. A brief online assessment can suggest one's typical patterns.
 
- Here are the key points summarized:
+ 
 
 - Our self-concept and language reflect our unconscious preferred representational system (visual, auditory, kinesthetic). For example, visual people may describe seeing something, auditory people hearing something. 
 
@@ -579,7 +579,7 @@ The passages encourage careful observation of one's own and others' nonverbal be
 
 The goal is to gain insight into others' realities and experiences from a place of interest, empathy and understanding rather than just your habitual reactions or perspectives. Asking questions and listening closely can help bridge differences in understanding between people.
 
- Here are the key points summarized:
+ 
 
 - Noticing incongruences between what someone says and their nonverbal cues like body language, tone of voice, etc. is important for understanding their full message and establishing rapport. Incongruence acts as a "yellow light" that something is off.
 

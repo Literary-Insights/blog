@@ -118,7 +118,7 @@ The passage claims that without considering evolved tendencies, the humanities a
 
 Overall, the passage advocates for a balanced, moderate view that acknowledges complex interactions between biological and cultural factors in shaping human cognition and behavior, rather than extreme positions that see them as entirely separate or determined by only one influence.
 
- Here are the key points summarized:
+ 
 
 - Darwin proposed that sexual selection, where males compete for access to females, drove human evolution. He saw females as passive and selective. 
 
@@ -546,7 +546,7 @@ So in summary, various features of the human penis, testicles, and semen suggest
 
 - While sensitive, acknowledging biological differences between human populations is important for medical diagnosis and treatment. However, diet and environment also impact anatomy and need to be considered.
 
- Here are the key points summarized:
+ 
 
 - The passage discusses the controversial historical treatment of "hysteria", a supposedly female-specific disease diagnosed from ancient times until the 1950s. 
 

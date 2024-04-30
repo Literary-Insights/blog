@@ -300,7 +300,7 @@ It introduces a technique called "Ten Deep Breaths" to practice focusing attenti
 
 - The key is turning off the "struggle switch" and simply experiencing the emotions fully without fighting them, even if one doesn't like or want the feelings. With practice of these steps, the emotions may change on their own or they may remain, but either way acceptance is cultivated.
 
- Here are the key points summarized:
+ 
 
 - Allowing uncomfortable feelings to be there without struggling or fighting them can feel peaceful, even though the feelings may still be painful. 
 

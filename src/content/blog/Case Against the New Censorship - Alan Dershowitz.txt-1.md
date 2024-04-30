@@ -155,7 +155,7 @@ If this "culture of hatred, intolerance and dehumanization" is not changed, the 
 
 - The author expresses concern about Warnock's past anti-Israel views as a supporter of Israel, though as a liberal would prefer a Warnock victory that could give Democrats Senate control.
 
- Here are the key points summarized:
+ 
 
 - The letter criticizing Israel displays strong anti-Israel bias by failing to mention terrorism or rocket attacks from Gaza, and portraying Israeli actions as collective punishment rather than self-defense. 
 
@@ -175,7 +175,7 @@ If this "culture of hatred, intolerance and dehumanization" is not changed, the 
 
 So in summary, the letter and sermon indicate Warnock holds biased and one-sided views critical of Israel that downplay terrorism and blame Israeli actions, raising doubts about how he would vote and whether he can be seen as a true ally of Israel.
 
- Here are the key points summarized:
+ 
 
 - Trump's speech urging supporters to march to the Capitol has been compared to falsely shouting "fire" in a crowded theater, which is not protected free speech. However, this is an incorrect and inapt analogy.
 

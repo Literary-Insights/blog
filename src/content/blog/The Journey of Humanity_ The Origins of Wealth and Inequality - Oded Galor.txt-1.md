@@ -330,7 +330,7 @@ So in summary, Detroit and other industrial cities and regions fell into decline
 
 - However, extractive regimes have occasionally orchestrated major reforms in response to external threats, showing such institutions are not always detrimental at every development stage.
 
- Here are the key points summarized:
+ 
 
 - While South Korea transitioned to democracy in 1987, it enjoyed impressive economic growth for decades under dictatorship by adopting private property, agrarian reforms, and decentralizing power. North Korea centralized power and nationalized property/land, lagging economically. 
 

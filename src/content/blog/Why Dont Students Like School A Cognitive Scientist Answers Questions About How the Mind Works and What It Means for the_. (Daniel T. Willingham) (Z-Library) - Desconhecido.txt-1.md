@@ -500,7 +500,7 @@ So in summary, the passage emphasizes that while students vary, the idea of dist
 
 - Teachers don't need to worry or spend money evaluating cognitive styles. Background knowledge is a better framework to understand student differences.
 
- Here are the key points summarized:
+ 
 
 - There are differing views on intelligence - the Western view sees it as fixed by genetics, while the Eastern view sees it as malleable through hard work. The reality lies somewhere in between - genetics plays a role but intelligence can be changed with sustained effort. 
 

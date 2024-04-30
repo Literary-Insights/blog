@@ -159,7 +159,7 @@ So in summary, Lenski's long-running experiment aims to directly observe evoluti
 
 - The summary then discusses how human pattern recognition tendencies lead to overdetecting patterns and inventing reasons when things are random. We are wired to seek intent and causation even when it does not exist due to evolutionary advantages of avoiding threats. This drives superstitious beliefs and a need for stories with clear causes and effects.
 
- Here are the key points summarized:
+ 
 
 - Humans have an innate tendency toward teleological thinking - seeing purpose and cause-effect relationships where they may not truly exist. This bias helps us make sense of the world but can also lead us astray. 
 
@@ -485,7 +485,7 @@ So in summary, even a scripted or causally determined universe could unfold vast
 
 In summary, it debates whether free will can be compatible with deterministic physical laws governing the brain, or if it requires supernatural/unexplained elements that science cannot account for. Compatibilists and hard determinists have differing views on this question.
 
- Here are the key points summarized:
+ 
 
 - Rejecting libertarian free will has implications for morality and responsibility. Some arguments against free will center on these implications, but rejecting free will doesn't negate its implications. 
 

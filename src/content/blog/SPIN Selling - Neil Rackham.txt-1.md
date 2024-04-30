@@ -347,7 +347,7 @@ The key message is that sales training overemphasizes objection handling, when t
 
 - By understanding and building upon the customer's needs, the seller can prevent objections from arising in the first place rather than just learning to handle them after the fact. Objection prevention is a superior strategy to objection handling alone.
 
- Here are the key points summarized:
+ 
 
 - Research found enormous differences in the number of objections individual salespeople received per selling hour, even within the same team. Some received 10 times as many objections as others. 
 

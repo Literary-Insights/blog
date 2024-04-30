@@ -186,7 +186,7 @@ So in summary, national income captures a more accurate picture of a country's t
 
 - Imposing partial defaults on sovereign bonds risked destabilizing different European debt markets. A orderly European bank tax was a better way for banks to help pay crisis costs.
 
- Here are the key points summarized:
+ 
 
 - Decision-making in the EU has long been criticized as complex, opaque, and following international diplomacy norms rather than parliamentary democracy. 
 

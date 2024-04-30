@@ -152,7 +152,7 @@ The passage discusses how psychologists have studied love in the laboratory by h
 
 - One example given was of a couple, Lianne and Nick, who hit it off during an eye contact exercise and continued dating after arranging to meet again on their own. The As If principle was said to help people get together.
 
- Here are the key points summarized:
+ 
 
 - In the 1960s, psychologist George Hohmann studied patients with spinal cord injuries at different levels to test William James' theory that reduced bodily movement would decrease emotional experiences. 
 

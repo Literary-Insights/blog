@@ -306,7 +306,7 @@ When TASS and analytic system goals directly conflict, one will override the oth
 
 - Noticing the potential conflict between short-term genetic and long-term individual goals is what makes human outlook different. It allows contemplating trade-offs between immediate rewards and future well-being. Rationality involves balancing such short and long-term goals.
 
- Here are the key points summarized:
+ 
 
 - Instrumental rationality is simply behaving in a way that gets you what you want, given your beliefs and desires. It's about maximizing your own utility or satisfaction, not any other goals like genetic replication. 
 

@@ -391,7 +391,7 @@ The key idea is that there are different valid interpretations and uses of proba
 
 - These kinds of probabilistic errors help explain issues like lack of replicability in some scientific studies that do not properly account for base rates and multiple testing effects.
 
- Here are the key points summarized:
+ 
 
 - Participants contributed more to the coffee fund when two eyespots were posted on the wall. Having eyespots, which implied someone was watching, encouraged more contributions. 
 

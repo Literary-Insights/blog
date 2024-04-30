@@ -356,7 +356,7 @@ So in summary, it outlines the widespread yet unreliable use of polygraphs by la
 
 - Barnett delivered a prescient lecture in 2001 warning of new threats to aviation like sabotage and collisions, just before the 9/11 terrorist attacks confirmed his predictions. He is considered a pioneering researcher in using data and statistics to accurately measure airline safety.
 
- Here are the key points summarized:
+ 
 
 - Statistical thinking focuses on variability rather than just averages. Averages hide fluctuations and risks. Investors in Bernie Madoff's Ponzi scheme relied too heavily on the average returns they were shown, ignoring variability. 
 
@@ -380,7 +380,7 @@ So in summary, statistical thinking looks beyond averages to understand variabil
 
 - Variability also complicates developing accurate tests, like those for doping - natural variations mean tests must distinguish normal from enhanced levels, accepting some errors to minimize false accusations. Correlation without fully understood causation can still yield useful statistical models.
 
- Here are the key points summarized:
+ 
 
 - Statistical models like credit scoring can generate uniform scoring rules to evaluate all loan applicants in a consistent, unbiased way. This contributed to a large expansion of consumer credit and economic growth. 
 

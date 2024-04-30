@@ -98,7 +98,7 @@ So in summary, the passage did not claim anyone predicted a prolonged depression
 
 - People are generally bad at probabilities and uncertainty, desiring certainty despite living in an uncertain world. Few actually apply probability when judging others' success or decisions.
 
- Here are the key points summarized:
+ 
 
 - People crave certainty over accuracy when it comes to predicting the future. Knowing an outcome with 100% certainty, even if it's wrong, is psychologically easier than dealing with uncertainty and probabilities. 
 

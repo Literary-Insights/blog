@@ -75,7 +75,7 @@ It says these "fellow-travelers" assume all Muslims think a certain way, so any 
 
 It risks surrendering reformist Muslims to their deaths by acquiescing to illiberal regimes and principles. However, it also cautions against right-wing bigotry on the other side, like neo-Nazi groups in Europe opposing Muslim integration. The challenge is countering both the "fellow-travelers" who deny religious motivations as well as the bigots who view Islam itself as supremacist. An honest liberal conversation is needed that speaks accurately about extremist motivations without empowering dangerous extremists on either side.
 
- Here are the key points summarized:
+ 
 
 - The passage criticizes those on the "regressive left" or "fellow-travelers" who perceive Muslim liberals and reformers as not being "genuine" or "authentic" Muslims since they challenge Islamism. 
 

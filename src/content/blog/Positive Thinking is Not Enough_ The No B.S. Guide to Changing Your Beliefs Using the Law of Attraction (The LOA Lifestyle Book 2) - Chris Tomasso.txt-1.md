@@ -78,7 +78,7 @@ The key takeaway is that fully experiencing one's emotions is an important part 
 
 - The second part walks through a six-step process to change a belief: find conflicting evidence, be open to a new belief, imagine the positive feelings of the new belief, focus only on those feelings, find real-world evidence, and affirm the new belief. An example applying this to the belief "I have no idea how to get what I want" is provided.
 
- Here are the key points summarized:
+ 
 
 - Core beliefs are often hidden and difficult to identify directly. They are propped up and reinforced by secondary, supporting beliefs accumulated over time. 
 

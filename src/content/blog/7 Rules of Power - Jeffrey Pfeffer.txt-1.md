@@ -383,7 +383,7 @@ The key is using media relationships, controversies, affiliations, and self-prom
 
 - The takeaway is that people should spend more time - studies suggest 8-10 hours per week - building relationships. Networking should be viewed as an essential skill to cultivate. More networking leads to more tremendous career success.
 
- Here are the key points summarized:
+ 
 
 - Networking is essential for career outcomes like compensation, promotions, and satisfaction. Research shows networking leads to visibility, power, performance, access to information, and career success.
 

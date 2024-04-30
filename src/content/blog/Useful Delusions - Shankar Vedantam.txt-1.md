@@ -82,7 +82,7 @@ The key points are:
 
 5) While we claim to value truth, we also appreciate and reward those who tell us what we want to hear.
 
-Does this cover the major ideas in the summary? Let me know if you would like me to expand or modify anything in the summary.
+Does this cover the major ideas in the summary? 
 
  Here is a summary of the provided text:
 

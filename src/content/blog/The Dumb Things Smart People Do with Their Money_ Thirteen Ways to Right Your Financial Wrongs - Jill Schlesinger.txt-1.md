@@ -214,7 +214,7 @@ So in summary, the passage cautions against excessive and unnecessary student lo
 
 - Having honest conversations about college costs and ambitions early can help families make smarter choices to benefit retirement savings and student outcomes.
 
- Here are the key points summarized:
+ 
 
 - The passage advises parents to be honest with themselves about their child's academic abilities and interests early on, to avoid wasting tens of thousands of dollars on tuition at a school that may not be a good fit. 
 
@@ -434,7 +434,7 @@ The key message is to discuss money matters thoughtfully, avoid oversharing nega
 
 - Four common financial mistakes families make when aging parents do not plan include: (1) putting the family home in a child's name to qualify for Medicaid, but this saddles the child with high capital gains taxes later; (2) not discussing health care directives; (3) spending down assets without coordination; and (4) depleting retirement funds without a backup plan. Open communication and advance planning can prevent these issues.
 
- Here are the key points summarized:
+ 
 
 - Parents transferring property title to children without telling them can result in unexpected tax surprises down the line when the property is eventually sold. It's better to have an open discussion about planning.
 

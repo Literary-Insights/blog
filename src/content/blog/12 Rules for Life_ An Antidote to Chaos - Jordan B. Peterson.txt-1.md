@@ -499,7 +499,7 @@ Importantly, further experiments found that the level of cheating did not increa
 
 - This suggests that moral reminders like signatures can reduce cheating or taking more than one's fair share of a public resource like reimbursements. However, getting organizations to adopt such reminders may take time due to legal requirements around verification of reported information.
 
- Here are the key points summarized:
+ 
 
 - The passage discusses two examples from golf where a player could have gained an advantage by ignoring a minor infraction of the rules but elected to follow the rules strictly instead. 
 
@@ -519,7 +519,7 @@ Importantly, further experiments found that the level of cheating did not increa
 
 - In summary, the passage explores the noble ideals of golf but also analyses data, finding golfers, like all humans, can be influenced to act dishonestly depending on the psychological distance from the act and ability to rationalize behaviors.
 
- Here are the key points summarized:
+ 
 
 - Schrödinger's cat thought experiment describes an object simultaneously alive and dead until observed. This relates to golf scores which do not indeed exist until written down. 
 

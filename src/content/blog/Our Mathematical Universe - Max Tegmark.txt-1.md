@@ -1324,7 +1324,7 @@ In summary, the author argues that the ultimate fate of the universe may be in o
 
 5. Possible solutions to extend habitability include nudging asteroids to gradually move Earth further from the Sun's orbit as it heats up, potentially extending habitability from 1 billion to 6 billion years.
 
-Does this cover the key points adequately? Let me know if you would like me to expand or modify anything in the summary.
+Does this cover the key points adequately? 
 
  Here is a summary of the provided text:
 

@@ -517,7 +517,7 @@ Germany's Network Enforcement Law requires social media platforms to quickly rem
 
 While hate speech is concerning, the passage argues strict laws have historically failed to curb extreme ideologies and may intensify hatred by portraying critics as censors. Drawing proper boundaries between regulation and free speech will be challenging. An absolutist stance risks harm, but censorship also threatens open debate on sensitive issues.
 
- Here are the key points summarized:
+ 
 
 - Social media platforms face pressure to more aggressively moderate/remove harmful, offensive, misleading content on their sites due to evidence it intensifies social problems. 
 

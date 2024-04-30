@@ -203,7 +203,7 @@ So in summary, it discusses the physiological impacts of aerobic vs anaerobic ex
 
 - The passage cites early experiments by Christian Bohr that helped uncover the important role of carbon dioxide in facilitating oxygen delivery to cells and tissues. Overall it challenges common misconceptions about carbon dioxide being just a waste product.
 
- Here are the key points summarized:
+ 
 
 - In 1904, Bohr published a paper showing that carbon dioxide loosens oxygen from hemoglobin, allowing more oxygen to be delivered to muscles. This explained why active muscles receive more oxygen during exercise.
 

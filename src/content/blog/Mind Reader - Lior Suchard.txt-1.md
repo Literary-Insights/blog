@@ -111,7 +111,7 @@ So in summary, a chance request to help promote a new cell phone at a party laun
 
 - In general, the passage explores the author's beliefs about developing mental abilities through focus and practice, and how they incorporate mind reading, persuasion and energy transfer into entertaining performances.
 
- Here are the key points summarized:
+ 
 
 - Mentalism utilizes mind-reading, persuasion, and chi energy to project one's thoughts externally in a physical way. It demonstrates "mind over matter."
 

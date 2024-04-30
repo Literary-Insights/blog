@@ -91,7 +91,7 @@ So in summary, the speakers advocate for starting lean with minimal funding like
 
 So in summary, politics became intensely involved in work culture but changed very rapidly, and the identity politics approach was ultimately misguided and counterproductive according to this view. A meritocratic system is preferable.
 
- Here are the key points summarized:
+ 
 
 - The person finds public storms or "cancelations" akin to public hangings in France in the 1700s, which were popular spectacles at the time until they were abolished. They note cancel culture has become excessive. 
 

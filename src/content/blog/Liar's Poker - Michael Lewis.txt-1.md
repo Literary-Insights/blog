@@ -461,7 +461,7 @@ The trading desk was fast-paced, with constant phone calls and rumors moving the
 
 - This is the narrator's initiation into the reality of Wall Street trading - that traders will mislead and use customers/salespeople when it benefits their firm. It's a situation of “screw the customer” over caring about building long-term relationships.
 
- Here are the key points summarized:
+ 
 
 - The author had an early experience where he recommended bonds to a German customer that ended up losing $60,000. This showed him the downside of being a middleman who can blame others when things go wrong. 
 

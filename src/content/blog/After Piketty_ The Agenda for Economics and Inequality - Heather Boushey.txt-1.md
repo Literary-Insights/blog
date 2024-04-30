@@ -601,7 +601,7 @@ In summary, the passage critiques Piketty's work for underemphasizing the role o
 
 - The shift of jobs and workers from higher-paying tradables like manufacturing to lower-paying nontradables likely contributed to rising inequality.
 
- Here are the key points summarized:
+ 
 
 - Growing income inequality is linked to shifts in the economy due to technology and globalization. Value added per person turns into income for workers, capital owners, or the government. 
 
@@ -1660,7 +1660,7 @@ So in summary, the literature suggests economic inequality greatly enables dispr
 
 - The analysis shows the diversity and multidimensionality of capital and ownership over history, geography, and asset classes. Simple theoretical models do not capture this complexity.
 
- Here are the key points summarized:
+ 
 
 - The book takes a multidimensional view of capital and ownership, recognizing their complex and socially determined nature, rather than viewing them through a narrow economic modeling lens. 
 

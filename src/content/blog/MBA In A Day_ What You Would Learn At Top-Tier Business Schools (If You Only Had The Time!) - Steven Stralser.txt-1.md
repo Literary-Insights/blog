@@ -749,7 +749,7 @@ The goal is to systematically enhance organizational processes and engage all em
 
 The passage discusses important aspects of designing and implementing a quality management system, including performance measurement, data collection, reporting, testing and adjusting the system, and officially implementing it. It emphasizes that customers and purchasing are key parts of the system, and highlights the importance of education and training, as well as using statistical data and control charts. Correctly developing performance indicators, collecting relevant data, reporting results clearly, and testing the system are important design steps. Management must support the system and employees need training to understand quality standards and how their roles contribute to goals. Statistical analysis allows for measurement and management of processes, while control charts effectively communicate process performance. Both customer satisfaction and supplier quality impact the overall system.
 
- Here are the key points summarized:
+ 
 
 - Control charts are used to monitor a process over time and detect if it is in or out of control. If points fall outside the upper or lower control limits (UCL/LCL), it signals a problem that needs correction. 
 

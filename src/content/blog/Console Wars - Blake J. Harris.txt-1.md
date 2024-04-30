@@ -581,7 +581,7 @@ Kalinske, Nilsen, Toyoda, and Burns flew to New York for a joint press conferenc
 
 - The discussion highlighted tensions between Nintendo prioritizing its business needs and retailers prioritizing customer satisfaction. Neither side found it easy to convince the other, though they acknowledged each other's perspectives to a degree. The optimal solution remained unclear.
 
- Here are the key points summarized:
+ 
 
 - Kalinske and Toyoda discuss plans for Sonic the Hedgehog 2, with Kalinske confident it will be even more successful if half as good as the first. 
 

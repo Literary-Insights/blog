@@ -98,7 +98,7 @@ BOOK LINK:
 
 - In summary, while blame can be assigned in the court of public opinion, specifically holding individuals or groups legally accountable for causing systemic financial crises through the courts has proved very difficult.
 
- Here are the key points summarized:
+ 
 
 - Large financial institutions are considered "too big to prosecute" as prosecuting them could trigger their failure and potentially cause a systemic financial crisis. 
 

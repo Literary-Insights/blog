@@ -236,7 +236,7 @@ The key points are that short, intense exercise may be more effective than long,
 
 - Core beliefs like "there is something wrong with me" can significantly impact mental and physical health. Discovering and challenging negative underlying beliefs through mindfulness and exploration of one's experience can help resolve anxiety and depression.
 
- Here are the key points summarized:
+ 
 
 - Getting to the core belief is more important than just asking a surface level question. A skilled counselor can help navigate this process of understanding one's experience and getting to the root cause. 
 

@@ -554,7 +554,7 @@ Tsuchiya, N., and C. Koch. 2014. "On the Relationship between Consciousness and 
 
 - Discusses relationship between consciousness and attention. Argues attention is necessary but not sufficient for consciousness. Consciousness involves global availability of information in the brain.
 
- Here are the key points summarized:
+ 
 
 - David Marr argued in his influential book Vision that any neural computation should be thought of as an implementation of a more general computational algorithm, rather than focusing on biological details. This separates the questions of what is computed from how and why it is computed. 
 

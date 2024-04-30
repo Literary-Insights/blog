@@ -470,7 +470,7 @@ So in summary, the scale of online data and its control by private companies mak
 
 So in summary, polarization arises from social/tribal identities and negative partisanship more than ideological differences, and most voters are led in their views by elites rather than having strong personal ideological stances.
 
- Here are the key points summarized:
+ 
 
 - Political parties bundle issue positions together for electoral and political reasons, not necessarily based on coherent principles. This leads to inconsistencies and seeming incoherence in some position combinations. 
 
@@ -496,7 +496,7 @@ So in summary, polarization arises from social/tribal identities and negative pa
 
 - While social and tribal influences can promote "groupish" thinking and bias, analyses of specific issues often show the public is closer in views than partisan divide would suggest. Partisan sorting collectivizes different types of people rather than changing views.
 
- Here are the key points summarized:
+ 
 
 - Identity politics can magnify myside bias by encouraging people to view issues through an identity lens rather than on the merits of the issue. This turns factual beliefs into strong convictions tied to one's identity. 
 

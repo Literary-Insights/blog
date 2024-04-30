@@ -298,7 +298,7 @@ People with diverse skills and interests who share resources and work together c
 
 - However, there is a risk that successful front-end apps could "recentralize" networks by becoming the main way users interact with them. But well-designed networks aim to prevent this by keeping what users value like names and goods on the blockchain.
 
- Here are the key points summarized:
+ 
 
 - Apple controls the iPhone OS and Safari browser, allowing it to charge Google a reported $12B per year to remain the default search engine on iPhone. This gives Apple leverage over Google.
 
@@ -466,7 +466,7 @@ The tools allow diverse groups of strangers to collectively create works, as see
 
 So in summary, collaborative storytelling on blockchain networks engages fans, broadens creative participation, and provides new income streams for content creators through an ownership-based model of open contribution and development.
 
- Here are the key points summarized:
+ 
 
 - The internet currently operates on an implicit economic covenant between content creators and distributors like search engines and social media platforms. Creators supply content and distributors drive traffic to it. 
 

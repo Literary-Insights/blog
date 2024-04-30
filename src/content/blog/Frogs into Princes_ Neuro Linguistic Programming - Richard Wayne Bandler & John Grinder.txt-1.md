@@ -131,7 +131,7 @@ The key idea is that focusing too much on attributes like handedness or learning
 
 So in summary, the approach aims to expand client choice and ability to change by providing new unconscious response patterns, rather than just bringing things to consciousness, in order to have a more effective therapeutic process.
 
- Here are the key points summarized:
+ 
 
 - Unconscious communication and suggestion techniques can be used to influence others non-verbally through gestures, words like "understand" or "believe", indicating desired sensory channels. 
 
@@ -507,7 +507,7 @@ The presenter emphasizes experimenting thoughtfully, precision over roughness, u
 
 - The goal is to enable new, improved behavioral choices for dealing with problems, not surprising or delighting the conscious mind. Changes often happen gradually without initial conscious awareness.
 
- Here are the key points summarized:
+ 
 
 - Reframing involves identifying an unwanted pattern or behavior, establishing communication with the unconscious part responsible for it, understanding its intention, and generating new behavioral alternatives to satisfy that intention. 
 
@@ -551,7 +551,7 @@ The key idea is that reframing facilitates positive change by unlocking creative
 
 - The medical assumption that people consciously know their own secondary gains is rejected. The unconscious always wins, so siding with it against the conscious mind allows accessing needed parts for change.
 
- Here are the key points summarized:
+ 
 
 - Reframing involves changing the framework or perspective on an issue to create new possibilities. It was originally developed in family therapy by observing Virginia Satir. 
 

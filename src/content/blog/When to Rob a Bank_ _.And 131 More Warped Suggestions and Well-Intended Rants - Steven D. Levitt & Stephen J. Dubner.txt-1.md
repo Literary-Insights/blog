@@ -522,7 +522,7 @@ In summary, it explores how pirates strangely developed their own economic and s
 
 So in summary, Brooks wrestles with balancing helping those in need versus enabling potentially destructive behavior, and usually leans toward focusing on positive impact over individual autonomy, but circumstances may lead him to respect the choice as well.
 
- Here are the key points summarized:
+ 
 
 - The authors conducted field experiments to test if financial incentives could motivate students to try harder on tests, rather than get them to learn more or study hard long-term. 
 

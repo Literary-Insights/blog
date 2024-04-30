@@ -284,7 +284,7 @@ The body's command over aging can be retuned by making healthier lifestyle choic
 
 - Defining the soul by what it does rather than strict definitions helps make it a tangible part of daily life and fulfulling an important regulatory/connective function between humans and higher spiritual forces.
 
- Here are the key points summarized:
+ 
 
 - The soul is proposed as a way to reconcile the views of materialism in science and the unseen forces of religion. It can be mapped or defined in terms of energy and awareness, like the human body. 
 

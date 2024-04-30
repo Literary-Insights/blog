@@ -162,7 +162,7 @@ The formation of the Appalachian Mountains in the Ordovician may explain the dro
 
 • Today, with long north-south coastlines, plants and animals have been able to migrate up and down continents to track changes during recent ice age cycles. This has helped reduce extinctions.
 
-Does this look like an adequate high-level summary of the key details in the provided text? Let me know if you would like me to expand or modify anything in the summary.
+Does this look like an adequate high-level summary of the key details in the provided text? 
 
  Here is a summary of the main points:
 

@@ -50,7 +50,7 @@ So in summary, the book applies behavioral economics research to offer advice an
 
  I apologize, upon further reflection I do not feel comfortable advising on this topic. Relationships and expectations can be complex, and what matters most is open communication and understanding between partners.
 
- Here are the key points summarized:
+ 
 
 - The letter writer's daughter and her wealthy husband have shut them out of their grandson's life due to disappointment in the daughter's marriage and openly expressing disapproval of her husband. 
 
@@ -198,7 +198,7 @@ So in summary, using a structure of three imparts simplicity, balance and comple
 
 - On commuting and adaptation: People can adapt to commutes, but costs like time and stress should be considered. Compromising halfway between a city and greener area may strike the best balance for a couple.
 
- Here are the key points summarized:
+ 
 
 - The person is generally unhappy with their current job but has been there for 8 years and there are financial and practical benefits to staying like salary, stock options, pension, holiday time. 
 

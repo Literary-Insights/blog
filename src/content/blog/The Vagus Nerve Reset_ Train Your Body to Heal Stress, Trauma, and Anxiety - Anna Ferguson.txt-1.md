@@ -461,7 +461,7 @@ The rest of the template outlines a sample structure for daily practices, option
 
 - Listen to your needs and desires to create a personalized plan. Your guiding light is what works best for you.
 
-The summary focuses on outlining the key self-care practices, journaling exercises, and principles discussed for regulating the nervous system and supporting healing from trauma or stress. Let me know if you need any part explained further.
+The summary focuses on outlining the key self-care practices, journaling exercises, and principles discussed for regulating the nervous system and supporting healing from trauma or stress. 
 
  Here are some key points about my continued journey:
 

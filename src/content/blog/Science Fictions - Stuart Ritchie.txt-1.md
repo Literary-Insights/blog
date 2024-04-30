@@ -301,7 +301,7 @@ So in summary, Macchiarini perpetrated a huge scientific fraud by grossly misrep
 
 - The pervasiveness of these issues undermines replicability and the reliability of many research findings that are based on single studies employing flexible or unplanned analysis methods.
 
- Here are the key points summarized:
+ 
 
 - Figure 3 illustrates the problem of overfitting data, where a model fits the training data too closely and will not generalize to new data. Graph C exactly matches all the points but won't predict future years well. 
 
@@ -527,7 +527,7 @@ So in summary, the scientific incentive/reward system is seen as fundamentally u
 
 - In summary, the article argues that the current incentive structure, with its focus on metrics and competitiveness, may be unintentionally encouraging bad scientific practices and priorities rather than reliable research.
 
- Here are the key points summarized:
+ 
 
 - To address fraud, more cases of scientific misconduct should be publicly named and shamed. Universities should no longer investigate their own cases of misconduct, instead handing responsibilities to independent agencies. 
 

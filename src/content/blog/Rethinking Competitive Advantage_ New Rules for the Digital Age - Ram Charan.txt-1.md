@@ -468,7 +468,7 @@ In summary, the key message is that business leadership, and specifically digita
 
 • For traditional companies to transform, they should assess whether their current leaders have the capabilities required for the digital age.
 
-Hope this summary helps! Let me know if you would like me to expand on or modify any part of the summary.
+Hope this summary helps! 
 
  Here is a summary of the key points in the text:
 

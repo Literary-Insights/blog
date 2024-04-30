@@ -150,7 +150,7 @@ In summary, the passage describes fearmongering as a strategy some leaders use t
 
 In both cases, the administrations misled the public and Congress to garner support for escalating military involvement that they wanted but lacked clear justification for at the time. Deception was used to manufacture consent for the wars.
 
- Here are the key points summarized:
+ 
 
 - The Bush administration implied, but did not explicitly state, that Saddam Hussein was linked to the 9/11 attacks in order to lead the American public to connect the two without directly saying so. This was done to build support for the war in Iraq. 
 
@@ -212,7 +212,7 @@ Leaders also sometimes violate international norms and law when they believe it 
 
 - Inter-state lying between leaders has minimal risk of blowback domestically, as the public understands international politics requires different rules than domestic politics, including occasional lying to adversaries. Lying is compartmentalized such that it is not seen as legitimizing lying at home. Reasonable boundaries can be drawn around when lying is acceptable internationally versus domestically.
 
- Here are the key points summarized:
+ 
 
 - Some limited lying is considered acceptable in certain constrained social situations, like claiming a bad meal is good, but this does not justify lying in other contexts. 
 

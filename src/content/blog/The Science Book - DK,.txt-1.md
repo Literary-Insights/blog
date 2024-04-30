@@ -1165,7 +1165,7 @@ So in summary, Lorenz discovered and termed the concept of the "butterfly effect
 
 The main point is that Syvanen challenged the traditional view of vertical evolution by proposing that horizontal or lateral gene transfer between species, not just descent, can drive evolutionary processes. This opens up genetics and evolution to more complex interactions between organisms.
 
- Here are the key points summarized:
+ 
 
 and inserted into humans using gene therapy techniques to potentially cure genetic diseases. Gene therapy involves inserting functional genes into humans to replace defective genes that cause inherited diseases. The functional genes can be isolated from normal cells and delivered into patients' cells via modified viruses or other vectors. This technique aims to correct the underlying genetic problem and its symptoms. William French Anderson pioneered the clinical trials of gene therapy in humans in the 1990s and worked to help establish its safety and efficacy. His work laid important foundations and helped prove that gene therapy was possible. However, gene therapy also faced setbacks and challenges in its early development. Overall, Anderson and other researchers' pioneering efforts helped bring about a new approach to treating certain diseases and represented an important application of genetic engineering techniques.
 

@@ -56,7 +56,7 @@ That covers the key points expressed in the praise and reviews summarized in the
 
 10. The organized mind comes preconfigured in a way that may not match how you want to organize things. It has flexibility but is built on a system.
 
-How's that? Let me know if you would like me to expand or modify anything in the summary.
+How's that? 
 
  
 
@@ -1764,7 +1764,7 @@ In summary, the sources discuss factors that contribute to prejudice, stereotypi
 
 •Genes like COMT that regulate dopamine levels impact an individual's ability to pay attention versus their creative potential.
 
-How's that? Let me know if you would like me to expand on or modify any part of the summary.
+How's that? 
 
  Here is a summary of the provided text:
 

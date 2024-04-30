@@ -559,7 +559,7 @@ So in summary, the key is going gradual, building on successes, addressing cultu
 
 In summary, the passage discusses how companies like Deloitte and NASA have effectively scaled open talent programs through cultural shifts led by strong internal champions, communication of benefits, and organizational alignment behind the new approaches. The COLOR framework provides guidelines for other companies looking to scale digitally.
 
- Here are the key points summarized:
+ 
 
 - While new structures like open talent initiatives may be put in place, the existing organizational culture can undermine them if people revert to old behaviors and beliefs. Research shows many executives are afraid to innovate or change culture. 
 

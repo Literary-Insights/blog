@@ -193,7 +193,7 @@ Does this summary accurately reflect the key points about critical thinking and 
 
 - Summary: Gaining perspective, managing fear and negativity, deciding with imperfect information, and reconfirming choices leads to better decisions and less indecision. Overcoming unrealistic risk avoidance helps people move forward.
 
- Here are the key points summarized:
+ 
 
 •Questioning can help identify underlying fears influencing decisions and behaviors. Verbalizing fears helps in coming to grips with them.
 

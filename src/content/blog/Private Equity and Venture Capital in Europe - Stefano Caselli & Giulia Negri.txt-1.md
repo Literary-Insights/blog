@@ -1212,7 +1212,7 @@ In summary, PE firms employ differentiated strategies based on sector/stage focu
 
 - Overall the future lies in getting back to fundamentals of value creation through operational improvements, prudent use of leverage, and aligning with long-term company needs versus short-term financial optimization.
 
- Here are the key points summarized:
+ 
 
 - Private equity firms with international networks can sustain international development of venture-backed companies through technological transfer and R&D. Domestic private equity firms should cooperate with corporate banking/finance to support venture-backed companies. 
 
@@ -1388,7 +1388,7 @@ Corporate Funds:
 - Corporate investors accounted for around 9% of capital raised by private equity firms in 2015.
 - Corporations make direct investments as well as fund commitments to third party private equity funds.
 
- Here are the key points summarized:
+ 
 
 - Modigliani-Miller theory states that in perfect markets, a firm's value is unaffected by how it is financed. However, this theory relies on unrealistic assumptions like no taxes, transaction costs or bankruptcy costs. 
 
