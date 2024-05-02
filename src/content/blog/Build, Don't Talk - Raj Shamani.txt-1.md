@@ -17,25 +17,6 @@ BOOK LINK:
 [CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=build-don-t-talk-raj-shamani)
 
 
-
- Here is a summary of the key points from OceanofPDF.com about the book "Build, Don't Talk" by Raj Shamani:
-
-- Raj Shamani is an Indian entrepreneur, podcaster, public speaker, and social media influencer with millions of followers. 
-
-- The book contains advice and lessons on topics like entrepreneurship, starting a business, public speaking, social media marketing, and more. 
-
-- In the preface, Shamani emphasizes the importance of small, daily accomplishments rather than trying to achieve big goals all at once. He advocates reading one chapter per day.
-
-- In chapter 1, he criticizes the traditional education system for not taking individual learning styles into account or teaching students how to apply what they learn. He argues education should help students discover how they learn best.
-
-- Shamani says education focuses too much on memorization and not enough on thinking, imagining, questioning and challenging assumptions. 
-
-- He proposes a model for his ideal school where students are given small businesses to run and learn skills like communication, negotiation, sales and identifying customers. 
-
-The key message is that the book contains practical advice from Shamani's experiences on topics like entrepreneurship, marketing, public speaking and overcoming challenges. It advocates an incremental approach of daily progress over trying to achieve too much at once.
-
- 
-
 - Everyone needs to admit they suck at something rather than living in denial. This allows room for growth. 
 
 - It's important to try new things to truly know what you're good or bad at, rather than making excuses. 
@@ -50,7 +31,7 @@ The key message is that the book contains practical advice from Shamani's experi
 
 The overall message is that humility and honesty about one's shortcomings is important for growth, rather than living in denial or pride. Trying new things helps identify strengths and weaknesses.
 
- Here are the key takeaways from the summary:
+ 
 
 1. everyone has things they struggle with or aren't good at, it's important to accept that and not be ashamed of it. Focus on growing and improving. 
 
@@ -294,7 +275,7 @@ The overall message is that focusing outward on others, constantly building conn
 
 The key is to generate money through others' efforts by scaling what you've learned, and allocating earnings to assets that appreciate and produce income without further input from you. This enables sustaining lifestyle indefinitely without active work.
 
- Here are the key takeaways from the summary:
+ 
 
 - Start investing early in life to take advantage of compounding returns over many years. Put aside a significant portion (20-30%) of your earnings for long-term investments. 
 

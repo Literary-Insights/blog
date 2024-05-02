@@ -19,7 +19,7 @@ BOOK LINK:
 
 
 
- Here is a summary of the main points in the provided text:
+ 
 
 1. The universe began around 13.8 billion years ago with a Big Bang that unleashed matter and energy. At first, the matter consisted of subatomic particles like quarks and leptons.
 

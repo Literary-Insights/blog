@@ -15,9 +15,6 @@ BOOK LINK:
 [CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-extended-mind-annie-murphy-paul)
 
 
-
- Here is a summary of the key points in the Contents:
-
 1. The book argues that thinking happens not just inside the brain, but also with the body, surroundings, and relationships. The mind is like a bird constructing a nest - it uses available parts in the environment to think.
 
 2. Stories of scientists, artists, and leaders show how they think through embodiment, place, and interaction with others. Barbara McClintock embodied plant chromosomes, and Susie Orbach senses feelings through her own body. James Watson used cardboard cutouts, and Robert Caro plots lives on big maps. Jonas Salk was inspired by a monastery, and Jackson Pollock painted in the countryside. Brad Bird argues with his producer to create films, and Carl Wieman got his students to talk to each other.
@@ -959,7 +956,7 @@ That covers the main points discussed in the provided text regarding "walking wo
 
 Does this look like a reasonable summary of the main points discussed in the source text regarding physical activity, exercise and cognition? Let me know if you would like me to modify or expand the summary.
 
- Here is a summary of the main points in the provided text:
+ 
 
 • Gestures can play an important role in communication and persuasion, especially in situations like business pitches. Presenters use gestures to make their ideas more human-scale, impressionistic and concrete.
 
@@ -1251,7 +1248,3 @@ The text discusses several concepts related to how people think. It talks about 
 The text also discusses thinking with external aids like natural spaces, the space of ideas, and groups and peers. Natural spaces and being outdoors can improve memory, focus, and creativity. Using the space of ideas like arranging materials physically can facilitate thinking. Thinking with peers through sharing knowledge and imitating experts can facilitate learning and generate new insights.
 
 In summary, the text explores how the body, external aids, and social interactions can complement and enhance people's thinking by providing alternative channels, cues, and resources. It discusses various methods and techniques for effectively using these embodied, extended, and collective resources to think better.
-
- Here is a 273-word summary of the key details from the passage:
-
-This book explores how movement and space affect learning, creativity, and cognition. The author argues that our minds are not confined to our brains but are distributed throughout our bodies and surroundings. Gestures and movement play an essential role in thinking by reinforcing and complementing the information being processed. Being physically active improves cognitive functions like memory, attention and problem solving. Nature has a restorative effect on our minds and nurtures creativity. Appropriate settings and spatial configurations can enhance or inhibit different cognitive tasks. Group dynamics and performance are shaped by features of the physical environment and people's spatial arrangements within it. Social  interaction and storytelling depend on attunement to each other's bodies and embodied experiences. Environments designed with sensitivity to people's bodily needs can promote inclusion and productivity. Our knowledge is stored across individual minds as well as external media and artifacts. Mind extension integrates the body and the material world, complementing internal cognitive processes.

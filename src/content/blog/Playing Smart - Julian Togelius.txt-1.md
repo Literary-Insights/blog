@@ -65,7 +65,7 @@ The mons 3.0 license allows others to keep improving upon your work by keeping i
 
 In summary, the mons 3.0 license is an permissive open source license that allows others to modify and distribute your work as long as they also release it under the same license, attribute the original creator, and do not hold the original creator liable. The purpose is to enable continual improvements to the work by the wider community.
 
- Here is a summary of the main points in the provided text:
+ 
 
 1. The author asks the reader to choose between playing Chess, Super Mario Bros., or Angry Birds to illustrate some common characteristics of playing games. 
 

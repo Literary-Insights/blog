@@ -201,7 +201,7 @@ So in summary, chronic inflammation, especially in the gut and liver, can dysreg
 
 Hope this summary helps highlight the key points on inflammation! Let me know if you have any other questions.
 
- Here is a summary of the main points in the provided text:
+ 
 
 1. The liver plays an important role in metabolism, filtering blood, and regulating hormones. 
 

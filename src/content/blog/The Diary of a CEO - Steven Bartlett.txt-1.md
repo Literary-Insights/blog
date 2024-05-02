@@ -17,27 +17,6 @@ BOOK LINK:
 [CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-diary-of-a-ceo-steven-bartlett)
 
 
-
- Here is a summary of the praise for The Diary of a CEO:
-
-- Simon Sinek praises Steven Bartlett for leading a new revolution of CEOs who are willing to show vulnerability and lead with curiosity. He says Bartlett's book is essential for any leader wanting to develop themselves. 
-
-- Gary Vaynerchuk says he's watched Bartlett's journey from the start and is proud of his success harnessing his passion. 
-
-- Robert Greene says Bartlett has overcome long odds to become hugely successful and shares valuable lessons about an unconventional path to power. 
-
-- Jay Shetty says the book guides readers to redefine success and achieve their potential through weaving research, experience and stories. 
-
-- Marie Forleo says Bartlett's advice will supercharge chances of achieving big dreams. 
-
-- Scott Galloway calls the book's wisdom surprising and persuasive, moving readers forward personally and professionally. 
-
-- Mo Gawdat feels humbled by how much he learned from Bartlett's work and that it's about time we read about modern success from someone who navigated it so uniquely.
-
-In summary, the praise highlights Bartlett's unconventional journey to success and how his book shares valuable lessons and wisdom from his experiences to help readers achieve their goals. His fresh perspective as a new generation CEO is also emphasized.
-
- 
-
 - The passage discusses five "buckets" that determine human potential: 1) knowledge, 2) skills, 3) network, 4) resources, and 5) reputation. 
 
 - Filling these buckets in order is important, as filling one bucket helps fill the next. Knowledge leads to skills, which leads to network, resources, and reputation. 
@@ -621,25 +600,3 @@ Law 18 - Speak in order to project confidence without seeming arrogant. Storytel
 Law 19 - Frame incremental improvements as meaningful progress. Small wins motivate more than big ambitions. Continuous improvement through marginal gains and constructive feedback builds long-term success, as shown by principles like kaizen.
 
 Law 20 - Do not be among the first to act, but always make a move. Follow the momentum of others but nudge events incrementally in your favor. Influencers operate on the margins to shift outcomes without forcing direct confrontation.
-
- Here are summaries of the key works:
-
-- On the Origin of Species (1859) by Charles Darwin introduced natural selection as the mechanism driving evolution. It established evolutionary descent with modification as the dominant scientific explanation for diversity of life. 
-
-- Seven Principles for Making Marriage Work (2018) by John Gottman and Nan Silver outlines research-backed relationship skills to strengthen communication, manage conflict, and promote intimacy and friendship to build a healthy, lasting marriage.
-
-- Reengineering the Corporation (1993) by Michael Hammer and James Champy introduced the concept of business process reengineering to radically rethink and improve how work is done through technology and organizational changes. 
-
-- The Toyota Way (2004) by Jeffrey Liker describes the Toyota Production System and its 14 principles of lean manufacturing that emphasize eliminating waste and continuous improvement. It established Toyota as a model of operational and management excellence.
-
-- Thinking, Fast and Slow (2011) by Daniel Kahneman discusses cognitive biases and the dual-process model of thinking - System 1 fast, instinctive thinking and System 2 slower, deliberative thinking. It popularized behavioral economics concepts.
-
-- What is Kaizen? on the Kaizen Institute website defines kaizen as continuous, incremental improvement involving all employees. It originated at Toyota and underpins lean manufacturing principles. 
-
-- The One Best Way (2005) by Robert Kanigel examines Frederick Winslow Taylor's scientific management theories that dominated early 20th century industrial engineering by separating planning from execution.
-
-- The End of Competitive Advantage (2013) by Rita McGrath argues that rather than pursue sustainable competitive advantage, companies need continuous strategic renewal to adapt to rapidly changing markets and technologies.
-
-- Miracle in the Andes (2007) by Nando Parrado recounts his ordeal as one of 16 survivors of an airplane crash in the Andes mountains in 1972 who endured 72 days before rescue. It describes their struggle to survive and the controversies around their means of enduring starvation. 
-
-- How I Survived the Titanic (1912) by William Carter provides a firsthand account of surviving the infamous sinking of the RMS Titanic on its maiden voyage after striking an iceberg. It describes his experiences aboard the luxury liner and subsequent rescue.

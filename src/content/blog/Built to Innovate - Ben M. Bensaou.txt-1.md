@@ -704,7 +704,7 @@ In summary, BASF's outside-in focus and systematic approach to both product and 
 
 - Continuous innovation has become a source of competitive advantage and growth for Domino's, even during challenging times.
 
- Here are the key takeaways from the summary:
+ 
 
 - Successful companies often undervalue the need for innovation until a crisis hits. Instead, make innovation a habit to stay ahead of competition. 
 
@@ -837,21 +837,3 @@ The book highlights how these companies have implemented processes, governance s
 - Ecocem developed partnerships to apply technology in new cement markets and reframed the cement business to engage non-customers.
 
 - AkzoNobel, BASF, charity:water, W.L Gore, Kordsa, YMCA, Marvel Studios, and others also developed processes to foster systematic innovation.
-
-The book highlights roles, mindsets, and key processes common across these innovation stories.
-
- Thank you for the summary. Here are the key points I gathered:
-
-- Ben M. Bensaou is a professor at INSEAD who specializes in innovation capabilities, Blue Ocean Strategy, social capital, networked organizations, and the impact of digital technology on innovation. 
-
-- He has held visiting positions at Harvard Business School, Wharton, and UC Berkeley.
-
-- He holds multiple degrees in engineering and management from institutions in France, Japan, and the US. 
-
-- His dissertation research on buyer-supplier relations won best dissertation awards. His innovation case studies have also won awards from The Case Centre.
-
-- His research focuses on building innovative capabilities and culture, implementing Blue Ocean Strategy across organizations, social capital, new organizational forms like networks and alliances, and digital technology's impact on innovation. 
-
-- He takes an international comparative approach, with a focus on Japanese organizations. 
-
-- He has published widely in top journals and books in his field. He has served on the editorial boards of major information systems and management journals.

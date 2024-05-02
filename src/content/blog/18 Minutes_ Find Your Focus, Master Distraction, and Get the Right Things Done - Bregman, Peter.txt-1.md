@@ -445,7 +445,7 @@ To avoid multitasking, the author recommends:
 
 In summary, single-tasking helps us be more productive and relaxed, though occasional multitasking is fine. The key is distraction - focusing on one task at a time when we want to resist temptation.
 
- Here is a summary of the main points in the provided text:
+ 
 
 • Getting imperfect results is often more effective than aiming for perfection when working with others. Lengthy presentations, long meetings, and overly detailed communications often fail to engage people and get things done.  
 

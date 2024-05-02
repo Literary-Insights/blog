@@ -18,9 +18,6 @@ BOOK LINK:
 [CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=convince-me-adele-gambardella)
 
 
-
- Here is a summary of the introduction:
-
 - The book aims to teach high-level convincing skills used by FBI hostage negotiators and corporate consultants. 
 
 - Co-author Chip Massey tells a story about negotiating the release of a kidnapped woman's daughter over 73 hours through 14 phone calls, coaching the mother on what to say. 
@@ -177,7 +174,7 @@ The "Frank technique" of involving listeners in stories by giving them a role an
 
 Finally, the passage advises that while successes should be owned, sharing credit and spotlight with contributing colleagues strengthens relationships and fosters further wins going forward. Confidence needs to be balanced with inclusion to avoid coming across as too cocky.
 
- Here are the key takeaways from the summary:
+ 
 
 - People will see you as generous, trustworthy and a good team player if you share information with others, include them in interesting projects, tell them about new opportunities, and provide glowing recommendations when asked. 
 
@@ -269,7 +266,7 @@ The key takeaway is that magicians, con artists and fortune tellers are able to 
 
 - Storytelling activates neural synchronization in listeners' brains through emotional engagement and anticipation. This helps ideas and messages stick in the memory. Timing conversations strategically based on factors like fatigue can also impact persuasiveness neurologically.
 
- Here are the key takeaways from the summary:
+ 
 
 - Developing a pattern of life (POL) for key people provides insights into their personality, communication style, values, stress levels, etc. This helps predict behavior and tailor interactions. 
 
@@ -534,85 +531,3 @@ Some key points on how to convince your boss:
 - Mention potential consequences of being underfunded to imply risks of not approving your request. 
 
 - Provide new information about your department's value to support your case.
-
-The goal is to position additional funding for your department as beneficial to the company, build agreement, and leave your boss thinking positively about approving more of the budget for your projects.
-
- Here is a summary of key points from current-biology/home:
-
-- Psychographics refers to the psychological attributes and behaviors of consumers that influence their purchases. It looks beyond demographics to understand lifestyle preferences, opinions, interests, and personality traits. 
-
-- Impressions form very quickly, often within the first 7 seconds of meeting someone. Nonverbal cues like appearance, body language, eye contact, smile, and tone of voice heavily influence first impressions.
-
-- Self-sabotage refers to behaviors that undermine one's own success and goals, often unconsciously. Common forms include procrastination, avoidance, negative self-talk, perfectionism, overcommitting, and distraction. Overcoming self-sabotage requires awareness, accountability, and making adjustments. 
-
-- Bonding occurs more strongly between people who are emotionally expressive and disclose personal information. Steps to bond with strangers include using accommodating language, maintaining calmness, and finding uncommon commonalities. 
-
-- Quit rates in the US hit a record high in August 2021, as employees voluntarily left their jobs in large numbers seeking better opportunities and working conditions. This impacts both businesses and the overall labor market. 
-
-- Multitasking is largely a myth, as people can only focus deeply on one task at a time. Frequent switching between tasks involves cognitive costs and results in less effective outcomes compared to focusing on one task until completion. 
-
-- Stories of perseverance and determination can be powerful in motivating teams and overcoming challenges. Sharing real examples from one's own experiences helps build credibility and connection. 
-
-- Negotiation involves communicating to persuade others and reach agreements mutually beneficial to both parties. Effective techniques include separating the people from the problem, focusing on interests not positions, opting for objective criteria, and developing multiple options to expand the bargaining range.
-
- Here is a summary of the key points from pages 53-61 in the book "Convince Anyone" by David Lieberman:
-
-- The Convincing Continuum is a framework that maps how convincing messages align along a scale from informal to formal. It includes 5 stages: saga of righteousness, informal storytelling, formal storytelling, formal negotiation, and crisis. 
-
-- The saga of righteousness is the most informal, involving strongly held personal beliefs. Informal storytelling uses personal anecdotes and experiences to engage listeners. 
-
-- Formal storytelling still relies on narratives but presents them in a more structured way with a clear message or lesson. Formal negotiation is a give-and-take process focused on resolving differences. 
-
-- Crisis sits at the most formal end, where high stakes demand commanding, confident leadership to overcome tension and uncertainty. The framework can help determine the right convincing approach for different contexts and audiences.
-
-- Case examples show how Exxon Mobil's communications evolved along the continuum during an oil spill crisis, becoming more direct and commanding. The continuum is also applicable to individual conversations and can help guide a smooth transition between different message styles.
-
-- Understanding where audiences are positioned on the continuum allows for effective meeting of listeners where they stand, which builds credibility and believability for whatever message is being conveyed.
-
- Here are summaries of the key passages:
-
-- Iger, Robert, 213–215: Robert Iger is described as a Natural Negotiator. As CEO of Disney, he had a passion for helping the other party and floated above problems. 
-
-- Imposter syndrome, 73: Brief mention of imposter syndrome, the feeling that one's accomplishments are due to luck and not ability. 
-
-- Impulse purchases, 130: Timing in the neuroscience of convincing can influence impulse purchases. 
-
-- Inappropriate questions, interview, 270–272: The passage discusses inappropriate questions that should be avoided in job interviews, like questions about age, marital status, or religion.
-
-- Inc. magazine, ix: Brief mention that the book was featured in Inc. magazine.
-
-- Incentives, 6: Mentions that incentives can motivate self-interested or self-sabotaging behavior. 
-
-- Independent thinking, 110: Assesses someone's openness to independent thinking in reading their personality.
-
-- Industry trends, 177–180: Discusses identifying and predicting trends in different industries. 
-
-- Inexperienced negotiators, 199: Inexperienced negotiators may focus too much on money in negotiations.
-
-- Infectious Disease Society of America (IDSA), 175–176: Mentions this medical society and its role in improving treatment for Lyme disease.
-
-- Influencers, 93, 98–99: Discusses how leaders can add value by tapping into the passions of influencers like podcast hosts.
-
- Here is a summary of the key points about Shotgunning, Signature Personality Consistency, Silbert, Lauren J., Silence, Simulations, Sincerity, Sinek, Simon, Situational awareness, Six Sides of an Interaction method, Small talk, So What Test, Soccer players, synchrony for, Social distress, Social judgment theory, Social proof, Solutions-oriented approach, Speaker, in negotiation, Specificity, Speculation, Springsteen, Bruce, Stage, setting the, Standing meetings, Standing out from the crowd, Star Wars franchise, States, your and their, Story(-ies), Storytelling, Strangers, bonding with, Stress, Style, Subjective validation, Success, Super Connector Summit, Supply and demand, Support, in negotiations, Synchrony:
-
-- Shotgunning refers to throwing out many possible explanations/reasons without proving or backing them up. Effective negotiators don't shotgun. 
-
-- Signature Personality Consistency refers to acting consistently with your values and identity over time to build trustworthiness. 
-
-- Lauren J. Silbert studied synchrony in storytelling and its effects on bonding. 
-
-- Silence can be an effective negotiating tactic when used properly to encourage others to fill the gap. 
-
-- Simulations can be used to practice negotiations and other interactions. 
-
-- Sincerity and being solutions-oriented builds trust and focuses discussions on mutual gain. 
-
-- Simon Sinek teaches that effectively convincing starts by inspiring others with a clear "why." 
-
-- Situational awareness includes observing themes, styles, states and stories in interactions. 
-
-- The Six Sides method involves assessing an interaction from you, them, what, when, where, how perspectives. 
-
-- Small talk can help uncover shared values and develop rapport when done well.
-
-- More briefly summarized pointers are provided for the other terms. The overview aims to capture the most salient points.

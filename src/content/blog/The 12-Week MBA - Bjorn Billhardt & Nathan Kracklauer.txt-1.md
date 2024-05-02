@@ -76,7 +76,7 @@ Providing meaningful and gainful employment refers to creating jobs that offer v
 
 So in summary, the goal is to create sustainable employment opportunities that offer intrinsic as well as financial rewards for both employees and the organizations that employ them. This benefits all stakeholders over the long run.
 
- Here are the key takeaways from the summary:
+ 
 
 - Profitability is driven by the wedge between what customers are willing to pay and the costs required to create the value for customers. A company can improve profitability by reducing costs or increasing customers' perceived value. 
 
@@ -198,7 +198,7 @@ So in summary, it describes how basic accounting concepts are applied to systema
 
 - Balance sheets get more complex for large publicly traded companies but follow the same basic principles around current vs non-current assets and liabilities.
 
- Here are the key takeaways from the summary:
+ 
 
 - The balance sheet is a record of a company's assets, liabilities, and equity at a point in time. It shows what the company owns/controls (assets) and what it owes (liabilities and equity). 
 
@@ -356,7 +356,7 @@ So in summary, consistency builds trust with investors and lowers perceived risk
 
 - There is a tipping point where the effort to integrate parts fails and the parts are better as separate entities. Figuring out this tipping point is a focus of the economic theory of the firm. Companies exist to coordinate activities internally through management where it is more efficient than full market coordination, but not beyond the tipping point where independence is better. The GE breakup showed some activities had reached that tipping point.
 
- Here are the key takeaways from the summary:
+ 
 
 - Management involves coordinating individual activities to make the whole greater than the sum of its parts. It is about getting people to work together productively. 
 
