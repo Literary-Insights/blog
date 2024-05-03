@@ -16,20 +16,6 @@ BOOK LINK:
 
 [CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=protect-your-peace-trent-shelton)
 
-
-
- Here is a summary of the introduction:
-
-- Trent Shelton dedicates his life to helping people protect their peace after his college roommate died by suicide. He wants to help others avoid this fate. 
-
-- There is a constant battle for our peace from both internal and external forces. In today's distracting world, the enemies of peace just get stronger. 
-
-- True wealth and happiness comes from internal peace, not external things like money or fame. Peace is having freedom from disturbance and tranquility. 
-
-- Shelton's prescription involves 9 principles divided into three sections - Protect Your Energy, Protect Your Mind, and Protect Your Soul. Each chapter will explore a principle and provide a "Protect Your Peace Practice" to apply the ideas. 
-
-The overarching message is that peace must be protected at all costs through establishing boundaries, guarding your focus, simplifying happiness, and more. The book aims to help readers understand where threats to their peace lie and fight to maintain it.
-
  
 
 The passage describes Trent Shelton's experience of burning out from lack of boundaries while on a 32-city speaking tour in 2015. He shares a memorable experience in San Francisco where he felt empty after his talk, broke down crying backstage, and was noticed by an unhoused man. 

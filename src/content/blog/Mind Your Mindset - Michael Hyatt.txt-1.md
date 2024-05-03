@@ -18,9 +18,7 @@ BOOK LINK:
 
 
 
- 
 
-The book "Mind Your Mindset" by Michael Hyatt and Megan Hyatt Miller teaches how to change limiting mindsets and thought patterns that are holding you back from success. Top influencers and authors provide endorsements highlighting key themes:
 
 - Your thoughts shape your reality and outcomes more than any other factor. Changing your mindset opens up new possibilities. 
 

@@ -7,6 +7,7 @@ excerpt: ""
 category: "self-help"
 author: "matheus-puppe"
 publishDate: "2024-04-25T16:33:06.730Z"
+image: "./src/assets/book_images/8 Rules of Love_ How to Find It, Keep It, and Let It Go - Jay Shetty.jpg"
 ---
 
 **"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**

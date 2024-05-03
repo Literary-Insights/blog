@@ -467,47 +467,6 @@ In summary, while dream reports have limitations, evidence favors the view that 
  Here is a summary of the provided text from the perspective of the researcher:
 
 From the researcher's perspective, determining the accuracy of dream memory is challenging. While dreams undoubtedly involve conscious experiences, dream reports are less reliable than waking memory due to issues like poor memory, confusion during waking, and bizarre dream content leading to confabulation. Researchers can increase accuracy somewhat by using control methods like laboratory awakenings, but they do not guarantee accuracy. Due to these factors, researchers cannot verify the specific content of dreams or rule out confabulation in reports. While not all dream reports are inaccurate, in general they are less reliable than waking reports. Lucid dreams and signal-verified reports allow somewhat better assessment, but researchers can never fully confirm the accuracy of dream experience reports. In summary, the researcher's access to dream contents is limited by memory and reporting issues, making the verification of dream experiences difficult.
-
- Here is a summary of the key papers:
-
-- Garry et al. (1996) found that imagining an event from childhood can inflate confidence that it actually occurred, a phenomenon known as "imagination inflation." 
-
-- Greenwald et al. (1996) identified three cognitive markers of unconscious semantic activation through priming experiments.
-
-- Gregory et al. (1982) found that imagining self-relevant scenarios can mediate likelihood estimates and compliance with requests.
-
-- Gudjonsson (1984) developed a new scale to measure interrogative suggestibility. 
-
-- Hobson & McCarley (1977) proposed the activation-synthesis model of dreaming, which posits that dreams result from spontaneous brain activation during sleep.
-
-- Horikawa et al. (2013, 2017) used neural decoding techniques to decode visual images from dreams reported during sleep.
-
-- Konkoly et al. (2021) reported real-time dialogue with dreamers during REM sleep using experimental setup.
-
-- Revonsuo & Salmivalli (1995) did a content analysis of bizarre elements in dreams. 
-
-- Rosen has published several papers examining issues of self-representation, memory and consciousness in dreaming.
-
-- Siclari et al. (2017) explored the neural correlates of dreaming using intracranial recordings during sleep.
-
-- Windt (2013, 2017) has written on dream reporting and theories of dreaming involving self and world simulation.
-
- Here is a summary of the key points from 9), 109–124:
-
-- The imagination model views dreaming as akin to imagining or daydreaming rather than hallucinating. It claims dreams involve imagination but not perception or hallucination. 
-
-- Proponents argue certain dreams are better described as imaginative rather than perceptual/hallucinatory, such as when we can remain aware we are dreaming.
-
-- However, the author argues the imagination model is too reductive and excludes many dream experiences. A pluralist view that dreams involve both perceptual and imaginative elements is preferable.
-
-- Imagination model theorists claim we do not truly believe the contents of our dreams, unlike hallucinations where we believe what we perceive. 
-
-- They argue it is implausible to suddenly hold many contradictory beliefs during dreaming, like believing you are in bed but also believing you are doing something else in your dream. 
-
-- The imagination model has to explain how we can suddenly gain and lose our usual tacit beliefs during dreaming which seems unlikely according to a gradual view of how beliefs change.
-
-- In summary, it presents objections to the imagination model's claim that we do not believe dream contents and that dreaming does not involve taking on contradictory beliefs. A mixed model is preferable.
-
  
 
 - Ichikawa argues that orthodox theorists have not adequately explained the unusual patterns of belief revision that occur during dreaming. Dreams seem to involve wildly different belief changes than what we experience when awake. 

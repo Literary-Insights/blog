@@ -7,7 +7,7 @@ excerpt: ""
 category: "self-help"
 author: "matheus-puppe"
 publishDate: "2024-05-02T01:12:15.382Z"
-image: "./src/assets/book_images/default_book.webp"
+image: "./src/assets/book_images/What They Don't Teach You at Harvard Business School - Mark H. McCormack.jpg"
 ---
 
 **"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
@@ -16,11 +16,6 @@ BOOK LINK:
 
 [CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=what-they-don-t-teach-you-at-harvard-business-school-mark-h-mccormack)
 
-
-
- Here is a summary of the praise for the book "What They Don't Teach You at Harvard Business School" without copying significant copyrighted content:
-
-The book contains advice from Mark McCormack's decades of experience building the global sports and entertainment marketing company IMG. Many high-profile business leaders, athletes, and media figures offer praise for the book in short quotes included on the dust jacket and in promotions. They emphasize themes like McCormack's skill in negotiating deals and managing people, his practical street smarts compared to traditional business school teachings, and how the book provides useful lessons on building success across different industries. The endorsements stress that McCormack literally created an entire new industry and global company through his entrepreneurship and vision. Overall, the praise presents the book as a compelling and insightful read for any businessperson, drawing on McCormack's trailblazing career to offer valuable real-world guidance.
 
  
 
@@ -608,15 +603,3 @@ The key advice is about being realistic and asking tough questions before starti
 - Fear of failure can be harnessed to drive success if a person focuses on knowing they did all they could to prepare, rather than worrying about potential outcomes out of their control. 
 
 - In closing, the author warns that feeling self-satisfied with accomplishments inhibits further advancement. True champions constantly seek greater goals and downplay their achievements to stay hungry and driven to improve.
-
- Here is a summary of key points from the provided information:
-
-- Mark McCormack was an entrepreneur and sports agent who founded one of the first sports marketing companies, International Management Group (IMG). 
-
-- His files and papers were donated to the Special Collections department at UMass Amherst Libraries, providing a resource for those interested in studying his career and business strategies. 
-
-- The website www.MarkHMcCormack.com has additional biographical information about McCormack, programs that honor his legacy, and other publications. 
-
-- McCormack's experiences and business model can provide counsel to help entrepreneurs succeed in different business environments, as he helped pioneer the modern sports marketing industry from its early days. 
-
-The summary focuses on McCormack's role as a pioneering entrepreneur and sports agent, and how his archived papers and additional online resources may offer insights and advice for entrepreneurs. The donor of the archives and suggested website for further information were also mentioned.

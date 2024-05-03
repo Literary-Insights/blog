@@ -830,11 +830,3 @@ This source is a book by journalist Po Bronson that tells the true stories of va
 - "Wall of love" collages that allow people to express care and support for one another can enhance social well-being by increasing a sense of social connection and "mattering" to others.
 
  
-
-- The passage discusses the concept of well-being, including economic, emotional, psychological and social aspects. It mentions the "consumption model" and "contribution model" of well-being. 
-
-- Corey Keyes is introduced as the author, a sociologist and professor emeritus from Emory University who has advised various health organizations on mental health research and policy. 
-
-- Several other topics and authors are briefly mentioned, including Esther Wang, Sherry C. Wang, depression correlation, well-being programs, meaning in life, Western culture controlling emotional lives, breathing techniques from Pema Chodron, white blood cells, Bill Wilson from AA, Oprah Winfrey, WHO statistics, yoga and stress/loneliness among young adults.
-
-- It provides short biographical details for Rachel Zoffness and lists keywords from A-Z that are discussed more fully elsewhere.

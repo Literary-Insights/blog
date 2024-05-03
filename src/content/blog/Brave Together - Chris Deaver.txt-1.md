@@ -7,7 +7,7 @@ excerpt: ""
 category: "self-help"
 author: "matheus-puppe"
 publishDate: "2024-05-02T01:12:15.342Z"
-image: "./src/assets/book_images/default_book.webp"
+image: "./src/assets/Brave Together - Chris Deaver.jpg"
 ---
 
 **"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
@@ -17,8 +17,6 @@ BOOK LINK:
 [CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=brave-together-chris-deaver)
 
 
-
- Here is a summary of the praise for the book Brave Together by Chris Deaver and Ian Clawson:
 
 - The book challenges conventional views of work, culture, and leadership and provides a roadmap for unleashing potential and building a better future through concepts like the Mirror Test and Hero's Sacrifice. 
 
@@ -735,87 +733,3 @@ The article discusses reactions from BYU animation students to the Pixar film "S
 So in summary, the article discusses positive reactions from BYU animation students to the film's artistic style, storytelling, and ability to inspire reflection on life's purpose through the medium of animation.
 
  
-
-- Artists, creators, and makers discussed on pages 5, 43, 180, 188, 212. 
-
-- AIM (Aspiration, Inspiration, Motivation) program discussed on pages 216-217. 
-
-- Atari video game company mentioned on page 177. 
-
-- The Athletic sports news website cited on pages 110, 125. 
-
-- Authenticity discussed as important value on pages 85-86, 139, 207-208, 248. 
-
-- Avatar film referenced on pages 225, 226. 
-
-- Microsoft Azure cloud computing platform cited on page 150.
-
-- Backstage behavior and image management discussed on pages 114-119. 
-
-- Balancing work and personal life mentioned on pages 114-115. 
-
-- Steve Ballmer, former Microsoft CEO, cited on page 148. 
-
-- Steven Bartlett entrepreneur featured on pages 68, 121.
-
-- BBC broadcaster referenced on page 143. 
-
-- The Beatles band mentioned on page 87.
-
-- Concept of "Become the Future" discussed on pages 6, 161-162, 187, 218-219, 235.
-
-- Important behaviors and principles discussed on pages 70, 114-119, 201-202. 
-
-- Scott Belsky, Adobe executive, featured on pages 247-248.
-
-- Book recommendations for wisdom on page 240.
-
-- Setting boundaries discussed on pages 35-36.
-
-- Erin Bow entrepreneur featured on page 1.
-
-- Travis Bradberry on emotional intelligence cited on page 201.
-
-- William Bradford referenced on page 132.
-
-- Concept of "Braintrust" discussed on pages 2, 4, 58, 81, 164-167, 180, 264. 
-
-- Importance of brand discussed on pages 39, 113, 145, 158, 164, 179, 266-270.
-
-- Richard Branson entrepreneur referenced on page 28.
-
-- Concepts of "Brave alone," "Brave together," and "Brave conversations" discussed on pages 19-21, 24, 46-49, 188, 207, 249, 257-258.
-
-- BraveCore concept and values discussed on pages 2, 7, 117-119, 173, 216, 267. 
-
-- Jeff Bridges actor featured on pages 251-252. 
-
-- Madeline Bridges referenced on page 143.
-
- Here are the summaries of the requested sections:
-
-115–117: This section discusses image management in the context of social media and personal branding. It talks about how people curate an image of themselves online to be seen a certain way, even if it's not a fully accurate representation of who they are. 
-
-171: This section discusses Steve Jobs' credibility as a leader at Apple, saying he had an incredible ability to make people believe in his vision. 
-
-177: This section talks about how imagination and curiosity are important life skills, and that rules-based thinking can discourage these attributes. It promotes thinking in flexible, creative ways.
-
-263: This section introduces the concept of a "Junto brave space," referring to a type of respectful and thoughtful discussion space where people from different backgrounds can have important conversations to advance shared understanding.
-
- 
-
-- Self-actualization involves fulfilling one's potential and pursuing personal growth. Self-care and self-worth are important for well-being. Self-identity develops through social interactions and experiences. 
-
-- The Hero's Journey involves separation from one's normal world and a transformation through difficult trials. 
-
-- Sharing knowledge and collaborating with others are important for progress. Effective leaders build trust and community. 
-
-- True north refers to having a clear guiding vision and values to follow, even in difficult times. Alignment and consistency are important principles.
-
-- Transformations require changing mindsets and moving past short-term thinking to consider long-term impacts. Transactions focus on the present while transformations focus on growth.
-
-- Wisdom involves learning from experiences over time to gain new perspectives. Building vertical connections across generations helps spread wisdom. 
-
-- Contextual factors like the Industrial Age, Information Age, and now the Contextual Age shape how we live and work. Embracing ongoing change is important for individuals and organizations.
-
-- Effective leadership involves inspiring hope, posing thought-provoking questions, and co-creating the future through open-minded collaborations. Building cultures centered around humanity is a goal.

@@ -7,7 +7,7 @@ excerpt: ""
 category: "self-help"
 author: "matheus-puppe"
 publishDate: "2024-05-02T01:12:15.254Z"
-image: "./src/assets/book_images/default_book.webp"
+image: "./src/assets/book_images/Move Fast and Fix Things - Frances Frei.jpg"
 ---
 
 **"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
@@ -428,38 +428,4 @@ My summary avoids directly copying or extensively paraphrasing from the provided
 
 - Storytelling, authenticity, repetition and using data can help make the case for change and engage people in the process.
 
- Here is a summary of the key points from 0–21, 39 in the provided text:
-
-- It discusses listening systems and how important they are for understanding problems. Little's Law is introduced which relates to queues and waiting times. 
-
-- It mentions some people like John Little, Jim Loehr, and Marguerite Zabar Mariscal who have expertise in areas like management, inclusion, and meeting effectiveness. 
-
-- Management topics are covered like the "disengaged middle" and how important education is for managers. Inclusion and how managers can support it is discussed. 
-
-- Meetings are a large part of the summary, talking about celebrating uniqueness in meetings, inclusion and speaking up, and how management can improve meetings. 
-
-- Other topics briefly mentioned include meritocracy, Microsoft's performance reviews, mentors, and lounge-wear conversations. 
-
-- The overall summary covers a wide range of topics around management, meetings, inclusion and diversity, and organizational systems, though it only provides brief high-level summaries and doesn't go into depth on any single topic.
-
  
-
-The authors thank several people who contributed to the book:
-
-- Dana Teppert, their senior researcher, for her talented work and for making the book better in countless ways. 
-
-- Natasha Carr, their chief collaborator, for helping turn their ideas into realities. Without her, they would accomplish much less. 
-
-- The team at Harvard Business Review Press for believing in the book from the start, especially their editor Melino who championed the ideas.
-
-- Early readers who provided feedback to improve the book, including several accomplished individuals. 
-
-- Colleagues at Harvard Business School who have been part of their journey for decades both personally and professionally. 
-
-- Their sons for cheering them on as they wrote the book. 
-
-- Support staff who help them as parents and active professionals. 
-
-- All the leaders they've learned from, some featured in the book and many not, for their courage, wisdom and lessons shared.
-
-They express deep gratitude to all these people for their contributions to making the book possible.

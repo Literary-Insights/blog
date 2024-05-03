@@ -1,5 +1,5 @@
 ---
-title: "Champion Thinking_ How to Find Success Without Losing Yourself - Mundie Simon"
+title: "Champion Thinking - How to Find Success Without Losing Yourself - Mundie Simon"
 slug: champion-thinking_-how-to-find-success-without-losing-yourself-mundie-simon
 tags: 
   - book-summary
@@ -7,7 +7,7 @@ excerpt: ""
 category: "self-help"
 author: "matheus-puppe"
 publishDate: "2024-05-02T01:12:15.297Z"
-image: "./src/assets/book_images/default_book.webp"
+image: "./src/assets/book_images/Champion Thinking_ How to Find Success Without Losing Yourself - Mundie Simon.jpg"
 ---
 
 **"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
@@ -17,8 +17,6 @@ BOOK LINK:
 [CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=champion-thinking_-how-to-find-success-without-losing-yourself-mundie-simon)
 
 
-
- Here is a summary of the key points from the introduction of "Champion Thinking":
 
 - The book uses insights from sport to explore themes of joy, peace and fulfilment in life. It questions assumptions that winning and success guarantee happiness. 
 
@@ -536,12 +534,3 @@ The experience had a spiritual quality for Sayers of being fully present and awa
 
 In summary, it discusses how separating one's sense of self from the content of thinking leads to greater happiness, fulfillment and equanimity than basing self-worth on external factors like accomplishments or the perceptions of others. The key is recognizing our essence is the awareness behind thought.
 
- 
-
-- The author is proud of how much one person (Annabel) has grown in the referenced time period and thanks another person (Annabel) for making the book writing process over the last few months more interesting. 
-
-- The author expresses love for both Annabel and their wife Alex. 
-
-- They say there is no way they could have completed the book without their wife Alex, who provided encouragement, input, feedback, patience, support and advice throughout the process. 
-
-- The author expresses gratitude to and love for their wife Alex.
