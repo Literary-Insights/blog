@@ -7,7 +7,7 @@ excerpt: ""
 category: "self-help"
 author: "matheus-puppe"
 publishDate: "2024-04-21T00:00:00.000Z"
-
+image: "./src/assets/book_image/The Everything Token_ How NFTs and Web3 Will Transform the Way We Buy, Sell, and Create - Steve Kaczynski & Scott Duke Kominers.jpg"
 ---
 
 BOOK LINK:

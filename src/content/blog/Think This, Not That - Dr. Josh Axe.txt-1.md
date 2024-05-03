@@ -7,7 +7,7 @@ excerpt: ""
 category: "self-help"
 author: "matheus-puppe"
 publishDate: "2024-05-02T01:12:15.222Z"
-image: "./src/assets/book_images/default_book.webp"
+image: "./src/assets/book_image/Think This, Not That - Dr. Josh Axe.jpg"
 ---
 
 **"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
@@ -17,26 +17,6 @@ BOOK LINK:
 [CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=think-this-not-that-dr-josh-axe)
 
 
-
- Here is a summary of the key points about copyright from the passage:
-
-- All rights are reserved, meaning no portion of the book can be reproduced, distributed, or transmitted without permission from the publisher. 
-
-- The publisher has the sole right to permit bulk purchases of the book for educational, business, fundraising, or promotional uses. 
-
-- Scripture quotations are from specified versions and are in the public domain or used by permission. 
-
-- Any websites, phone numbers, or company information mentioned are for informational purposes only and do not imply endorsement. 
-
-- Specific editions and publication details are provided, including copyright date and Library of Congress control number. 
-
-- Instructions are given for using the ebook's note-taking and highlighting functions. 
-
-- A note is included about unverified external hyperlinks in endnotes.
-
-So in summary, it outlines the publisher's copyright over the content and provides important publishing details, references scripts used, and gives instructions for interacting with the ebook.
-
- 
 
 - The passage describes an encounter the author had with a teacher, Mrs. Nobel, who dismissed the author's hopes and dreams of pursuing a career in health and wellness, saying "no school is going to let you in." 
 
@@ -617,29 +597,3 @@ The article discusses research demonstrating the value of self-awareness and how
 - Practicing empathy takes conscious effort but pays off immensely. Small acts like making eye contact, remembering names, and asking follow up questions can go a long way in any interaction.
 
 So in summary, the article discusses how developing empathy through understanding other perspectives builds stronger relationships, teams and society as a whole in a divided world.
-
- Here is a summary of the article "Your Group Plan" by Rev. H. K. Williams in the "Young People's Service," (Chicago: University of Chicago Press, 1919), 80-81:
-
-- The article discusses developing a plan for one's group or team. It stresses the importance of having a clear vision and goals. 
-
-- Williams advises leaders to think through the specific objectives they want to achieve with their group. Goals should be challenging but attainable. 
-
-- Logistics like meeting schedules, locations, and responsibilities need to be mapped out. Leaders should assign roles to individuals based on their strengths. 
-
-- Communication is key. The plan should be shared clearly with all group members so everyone is on the same page about expectations and how they can contribute. 
-
-- Leaders need to motivate and inspire their group to strive toward goals. Check-ins should ensure the plan is on track and gets adjusted if needed. 
-
-- With proper planning and committed involvement from all, Williams believes any group can achieve great things by working as a coordinated team uniting around shared goals.
-
-In summary, the article provides suggestions for developing an effective group or team plan that establishes clear vision, goals, roles and responsibilities to facilitate success through collaborative effort.
-
- 
-
-Josh is an organizational leadership expert and entrepreneur. He is the cofounder of Ancient Nutrition, a nutritional supplement company that ranked on the Inc. 5000 fastest growing companies list twice. He also founded DrAxe.com, a health and wellness website. 
-
-Additionally, Josh is the founder of Leaders.com, an online platform providing news and information on leadership, business, and wealth. He regularly teaches lectures and trainings on topics like leadership, mindset, and self-development.
-
-Josh has authored several bestselling books on health including Eat Dirt, Keto Diet, and Ancient Remedies. 
-
-In his personal life, Josh resides in Nashville, Tennessee and Dorado, Puerto Rico with his wife Chelsea and their two daughters, Arwyn and Aylin. In his free time he enjoys cooking, staying active through swimming and cycling, and spending quality time with his family centered around their faith.

@@ -7,7 +7,7 @@ excerpt: ""
 category: "self-help"
 author: "matheus-puppe"
 publishDate: "2024-05-02T01:12:15.189Z"
-image: "./src/assets/book_images/default_book.webp"
+image: "./src/assets/book_images/Infectious Generosity_ The Ultimate Idea Worth Spreading - Chris Anderson.jpg"
 ---
 
 **"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**

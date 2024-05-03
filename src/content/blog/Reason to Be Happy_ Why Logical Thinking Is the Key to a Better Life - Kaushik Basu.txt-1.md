@@ -1,5 +1,5 @@
 ---
-title: "Reason to Be Happy_ Why Logical Thinking Is the Key to a Better Life - Kaushik Basu"
+title: "Reason to Be Happy Why Logical Thinking Is the Key to a Better Life - Kaushik Basu"
 slug: reason-to-be-happy_-why-logical-thinking-is-the-key-to-a-better-life-kaushik-basu
 tags: 
   - book-summary
@@ -7,7 +7,7 @@ excerpt: ""
 category: "self-help"
 author: "matheus-puppe"
 publishDate: "2024-04-29T22:31:16.922Z"
-image: "./src/assets/book_images/default_book.webp"
+image: "./src/assets/book_images/Reason to Be Happy_ Why Logical Thinking Is the Key to a Better Life - Kaushik Basu.jpg"
 ---
 
 **"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
@@ -15,34 +15,6 @@ image: "./src/assets/book_images/default_book.webp"
 BOOK LINK:
 
 [CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=reason-to-be-happy_-why-logical-thinking-is-the-key-to-a-better-life-kaushik-basu)
-
-
-
- Here is a summary of the information provided about the author:
-
-- Kaushik Basu is a professor of economics and international studies at Cornell University. He previously served as Chief Economist of the World Bank from 2012 to 2016. 
-
-- He was born and raised in Kolkata (Calcutta), India. He initially planned to become a lawyer and take over his father's law firm in Kolkata. 
-
-- While studying at the London School of Economics, he changed his career path to focus on economics, influenced by professor Amartya Sen. 
-
-- He started his research and teaching career at the Delhi School of Economics. Later he moved to a professorship at Cornell University. 
-
-- Basu draws on his academic work in economics as well as his professional experiences working in India and at the World Bank. 
-
-- The book combines ideas he has developed over many years from academic writings in economics, game theory and philosophy as well as interactions with students, politicians and business leaders.
-
-- He has received helpful comments and discussions on the material from a variety of economists, philosophers and other academics at different institutions over the course of writing the book.
-
- Here is a summary of the key points about udipta Sarangi, Nee­lam Sethi and Hi­man­jali Shankar:
-
-- No details are provided about these individuals. They are mentioned together in a list of teaching/research assistants and recent students that the author thanks for discussions, comments and editorial help in finalizing the work. 
-
-- No further context is given about their roles, contributions or areas of study. They are simply listed along with several other names as people who provided feedback and assistance to the author in completing the book/manuscript.
-
-- Based on their listing together, it can be inferred that udipta Sarangi, Nee­lam Sethi and Hi­man­jali Shankar may have worked together as teaching/research assistants or been students of the author. However, their specific roles or contributions cannot be determined from the information provided.
-
-- In summary, the passage provides only an acknowledgement of these three individuals along with others. No descriptios or details are included about them as individuals or what distinct role or input each may have had.
 
  
 
@@ -529,41 +501,3 @@ The references cover a wide range of topics related to collective action, group 
 - Methodologically, the references represent philosophic argumentation and analytical modeling as well as historical, legal, and case study approaches across diverse social science topics. Many propose theoretical frameworks and analyses of societal and economic problems.
 
 In summary, the references cover a wide range of philosophical, economic, and empirical perspectives focused largely on social and political institutions, cooperative behavior, justice, responsibility, and analytical modeling of social phenomena. Both conceptual arguments and applied quantitative analyses are represented.
-
- Here are the key points covered in the summaries:
-
-- Van­der­schraaf (2021) discusses con­trac­tar­i­anisms and mar­kets. 
-
-- Ve­blen (1899) proposes a the­ory of lei­sure class that ex­plains so­ci­ety's hier­ar­chy in terms of con­sump­tion.
-
-- Vil­langer (2006) examines how com­pa­nies in­fluence for­eign aid pol­icy by play­ing donors against each other. 
-
-- Von Neu­mann and Mor­gen­stern (1944) develop the math­e­mat­i­cal the­ory of games and eco­nomic be­hav­ior. 
-
-- Voorn­eveld (2010) discusses tail events and count­able player sets in games and eco­nomic be­hav­ior. 
-
-- Wal­ras (1874) in­tro­duces an analy­sis of pure eco­nomic equi­lib­rium. 
-
-- Wein­gast (1997) ex­am­ines the po­lit­i­cal foun­da­tions of democ­racy and the rule of law. 
-
-- Weith­man (2005) analyzes the con­cept of de­lib­er­a­tive char­ac­ter in po­lit­i­cal phi­los­o­phy. 
-
-- Ye and Fan (2020) propose an evo­lu­tion­ary trav­eler's dilemma game based on par­ticle swarm op­ti­miza­tion.
-
-In summary, the sources cover topics related to eco­nomic the­ory, game the­ory, po­lit­i­cal sci­ence, and phi­los­o­phy.
-
- Here is a summary of the key points mentioned in the text:
-
-- The text discusses concepts from game theory like the Prisoner's Dilemma, Nash equilibrium, and strategic forms. It mentions theorists like Nash, von Neumann, and Aumann. 
-
-- It talks about moral philosophy topics like moral attributions, moral intentions, responsibility, and debates around paradoxes. Philosophers referenced include Hume, Russell, Nietzsche, Rawls.
-
-- Economic ideas are discussed like concepts from Smith and Marx. The role of self-interest, cooperation, and social norms in economic interactions. 
-
-- Psychological topics around self-esteem, shame, mental illnesses, and emotional biases in reasoning. 
-
-- Historical events mentioned include nuclear tensions during the Cold War, nationalist movements, and recent protests/uprisings. 
-
-- Additional areas of philosophy covered include skepticism, miracles, perception, existence of others and the self, and philosophy as a way of life. Figures referenced span Pyrrho to Nussbaum.
-
-- The text seems to synthesize ideas from diverse fields like philosophy, psychology, economics, game theory and history to discuss concepts of reasoning, paradoxes, cooperation, moral decisions, and social/political change.

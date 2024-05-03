@@ -7,7 +7,7 @@ excerpt: ""
 category: "self-help"
 author: "matheus-puppe"
 publishDate: "2024-04-29T22:31:16.877Z"
-image: "./src/assets/book_images/default_book.webp"
+image: "./src/assets/book_images/More Sales Please - Sara Nasser Dalrymple.jpg"
 ---
 
 **"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
@@ -17,8 +17,6 @@ BOOK LINK:
 [CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=more-sales-please-sara-nasser-dalrymple)
 
 
-
- Here is a summary of the praise for the book "More Sales Please":
 
 - The book provides practical advice and tools for small business owners to promote their business and make more sales without increasing their workload. It demystifies selling and empowers business owners to promote themselves with confidence. 
 
@@ -435,32 +433,3 @@ Friends, our businesses thrive when wePrioritize reliability over intensity. So 
 
 - Small businesses are a big part of the economy. If more owners promoted regularly online for a few minutes daily, the economic impact could be huge through increased sales. Consistency over time, not one-off posts, leads to success.
 
- 
-
-The writer acknowledges and thanks many individuals who contributed and helped make their book a reality. This included their publisher who chose the book proposal, fellow authors who offered advice, beta readers who provided feedback, mentees and clients who inspired ideas, and family members who supported the writing process by taking care of tasks to allow more writing time. 
-
-The key message is that writing a book took a collaborative effort rather than being a solo process. Support from others in the form of encouragement, expertise, feedback, childcare responsibilities, and believing in the project was instrumental in helping the writer complete their book. The acknowledgements section humbly recognizes all those who played a role in the book's success and wouldn't have been possible without.
-
- 
-
-The passage thanks a number of people for their support during a writer's retreat. It thanks Helen for joining the writer on the retreat and providing pep talks each morning, as well as taking the writer to a nice hotel for dinner celebrations. It also thanks Charlotte, Cara and Holly for making the writer laugh over drinks. It says friends are the best. 
-
-Finally, it thanks the writer's 12-year-old self for teaching herself to touch type during school computer lab breaks for no apparent reason. The writer says it all finally makes sense now.
-
- Here is a summary of the key points from e-marketing-statistics/:
-
-- Social media has grown massively in popularity worldwide. Statista reports over 3.6 billion active social media users globally as of January 2022.
-
-- Facebook remains the largest social platform with over 2.91 billion active monthly users. YouTube has over 2 billion logged-in users per month watching videos. 
-
-- Instagram has over 1.5 billion active users sharing photos and videos. Snapchat has over 332 million daily active users mainly in younger demographics.
-
-- Twitter has over 217 million daily active users discussing current events and following celebrities/brands. LinkedIn has over 740 million members primarily for professional networking. 
-
-- Social platforms are commonly used as marketing channels by businesses. Studies show visible social profiles increase customers' trust and willingness to purchase. 
-
-- Facebook and Instagram ads can be an effective way for businesses of all sizes to target relevant audiences. Regular, engaging posting is important for building an active follower base.
-
-- YouTube is effective for brand awareness through video marketing. Snapchat geofilters allow localized promotions. Influencer marketing on multiple platforms can amplify a brand's message.
-
-- Social media monitoring tools help businesses track brand mentions, better understand customers, and respond to comments/questions in real-time. Analytics show which content/posts are most engaging.
