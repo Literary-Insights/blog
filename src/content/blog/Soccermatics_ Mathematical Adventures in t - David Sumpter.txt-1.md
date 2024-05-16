@@ -1,6 +1,6 @@
 ---
-title: Soccermatics_ Mathematical Adventures in t - David Sumpter
-slug: soccermatics_-mathematical-adventures-in-t-david-sumpter
+title: Soccermatics Mathematical Adventures in t - David Sumpter
+slug: soccermatics-mathematical-adventures-in-t-david-sumpter
 tags: 
   - book-summary
 excerpt: ""

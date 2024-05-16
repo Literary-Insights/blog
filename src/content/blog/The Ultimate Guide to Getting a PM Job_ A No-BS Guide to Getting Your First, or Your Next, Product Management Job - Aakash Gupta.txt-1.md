@@ -1,6 +1,6 @@
 ---
-title: The Ultimate Guide to Getting a PM Job_ A No-BS Guide to Getting Your First, or Your Next, Product Management Job - Aakash Gupta
-slug: the-ultimate-guide-to-getting-a-pm-job_-a-no-bs-guide-to-getting-your-first-or-your-next-product-management-job-aakash-gupta
+title: The Ultimate Guide to Getting a PM Job A No-BS Guide to Getting Your First, or Your Next, Product Management Job - Aakash Gupta
+slug: the-ultimate-guide-to-getting-a-pm-job-a-no-bs-guide-to-getting-your-first-or-your-next-product-management-job-aakash-gupta
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-ultimate-guide-to-getting-a-pm-job_-a-no-bs-guide-to-getting-your-first-or-your-next-product-management-job-aakash-gupta)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-ultimate-guide-to-getting-a-pm-job-a-no-bs-guide-to-getting-your-first-or-your-next-product-management-job-aakash-gupta)
 
 
 

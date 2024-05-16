@@ -1,5 +1,5 @@
 ---
-title: 21 Lessons_ What I've Learned From Falling Down the Bitcoin Rabbit Hole - Gigi
+title: 21 Lessons What I've Learned From Falling Down the Bitcoin Rabbit Hole - Gigi
 slug: 21-lessons-what-i-ve-learned-from-falling-down-the-bitcoin-rabbit-hole-gigi
 tags: 
   - book-summary

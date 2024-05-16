@@ -1,6 +1,6 @@
 ---
-title: The Selfish Gene_ 40th Anniversary edition - Richard Dawkins
-slug: the-selfish-gene_-40th-anniversary-edition-richard-dawkins
+title: The Selfish Gene 40th Anniversary edition - Richard Dawkins
+slug: the-selfish-gene-40th-anniversary-edition-richard-dawkins
 tags: 
   - book-summary
 excerpt: ""

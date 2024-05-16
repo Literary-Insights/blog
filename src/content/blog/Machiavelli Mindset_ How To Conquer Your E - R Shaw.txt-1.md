@@ -1,5 +1,5 @@
 ---
-title: Machiavelli Mindset_ How To Conquer Your E - R Shaw
+title: Machiavelli Mindset How To Conquer Your E - R Shaw
 slug: machiavelli-mindset-how-to-conquer-your-e-r-shaw
 tags: 
   - book-summary

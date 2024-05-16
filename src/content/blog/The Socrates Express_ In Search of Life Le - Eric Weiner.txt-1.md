@@ -1,6 +1,6 @@
 ---
-title: The Socrates Express_ In Search of Life Le - Eric Weiner
-slug: the-socrates-express_-in-search-of-life-le-eric-weiner
+title: The Socrates Express In Search of Life Le - Eric Weiner
+slug: the-socrates-express-in-search-of-life-le-eric-weiner
 tags: 
   - book-summary
 excerpt: ""

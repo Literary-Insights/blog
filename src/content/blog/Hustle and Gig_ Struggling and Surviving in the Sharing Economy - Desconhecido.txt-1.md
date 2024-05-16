@@ -1,5 +1,5 @@
 ---
-title: Hustle and Gig_ Struggling and Surviving in the Sharing Economy
+title: Hustle and Gig Struggling and Surviving in the Sharing Economy
 slug: hustle-and-gig-struggling-and-surviving-in-the-sharing-economy
 tags: 
   - book-summary

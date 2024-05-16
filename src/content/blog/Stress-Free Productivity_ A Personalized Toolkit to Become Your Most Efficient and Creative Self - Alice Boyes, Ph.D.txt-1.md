@@ -1,6 +1,6 @@
 ---
-title: Stress-Free Productivity_ A Personalized Toolkit to Become Your Most Efficient and Creative Self - Alice Boyes, Ph.D
-slug: stress-free-productivity_-a-personalized-toolkit-to-become-your-most-efficient-and-creative-self-alice-boyes-ph-d
+title: Stress-Free Productivity A Personalized Toolkit to Become Your Most Efficient and Creative Self - Alice Boyes, Ph.D
+slug: stress-free-productivity-a-personalized-toolkit-to-become-your-most-efficient-and-creative-self-alice-boyes-ph-d
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=stress-free-productivity_-a-personalized-toolkit-to-become-your-most-efficient-and-creative-self-alice-boyes-ph-d)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=stress-free-productivity-a-personalized-toolkit-to-become-your-most-efficient-and-creative-self-alice-boyes-ph-d)
 
 
 

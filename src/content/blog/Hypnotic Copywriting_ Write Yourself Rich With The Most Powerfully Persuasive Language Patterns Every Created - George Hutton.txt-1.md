@@ -1,5 +1,5 @@
 ---
-title: Hypnotic Copywriting_ Write Yourself Rich With The Most Powerfully Persuasive Language Patterns Every Created - George Hutton
+title: Hypnotic Copywriting Write Yourself Rich With The Most Powerfully Persuasive Language Patterns Every Created - George Hutton
 slug: hypnotic-copywriting-write-yourself-rich-with-the-most-powerfully-persuasive-language-patterns-every-created-george-hutton
 tags: 
   - book-summary

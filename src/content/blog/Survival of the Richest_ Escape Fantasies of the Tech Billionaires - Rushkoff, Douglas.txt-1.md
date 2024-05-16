@@ -1,6 +1,6 @@
 ---
-title: Survival of the Richest_ Escape Fantasies of the Tech Billionaires - Rushkoff, Douglas
-slug: survival-of-the-richest_-escape-fantasies-of-the-tech-billionaires-rushkoff-douglas
+title: Survival of the Richest Escape Fantasies of the Tech Billionaires - Rushkoff, Douglas
+slug: survival-of-the-richest-escape-fantasies-of-the-tech-billionaires-rushkoff-douglas
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=survival-of-the-richest_-escape-fantasies-of-the-tech-billionaires-rushkoff-douglas)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=survival-of-the-richest-escape-fantasies-of-the-tech-billionaires-rushkoff-douglas)
 
 
 - The essay describes a talk Rushkoff gave to a group of billionaire tech executives and investors at an isolated luxury resort. 

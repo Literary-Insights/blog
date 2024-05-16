@@ -1,20 +1,20 @@
 ---
-title: "Co-Intelligence_ Living and Working With AI - Ethan Mollick"
-slug: co-intelligence_-living-and-working-with-ai-ethan-mollick
+title: "Co-Intelligence Living and Working With AI - Ethan Mollick"
+slug: co-intelligence-living-and-working-with-ai-ethan-mollick
 tags: 
   - book-summary
 excerpt: ""
 category: "self-help"
 author: "matheus-puppe"
 publishDate: "2024-05-05T12:55:52.054Z"
-image: "./src/assets/book_images/Co-Intelligence_ Living and Working With AI - Ethan Mollick.jpg"
+image: "./src/assets/book_images/Co-Intelligence Living and Working With AI - Ethan Mollick.jpg"
 ---
 
 **"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=co-intelligence_-living-and-working-with-ai-ethan-mollick)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=co-intelligence-living-and-working-with-ai-ethan-mollick)
 
 
 - The author believes that using powerful new AI systems like ChatGPT will likely result in at least 3 sleepless nights for people as they realize the implications and potential of this technology. 

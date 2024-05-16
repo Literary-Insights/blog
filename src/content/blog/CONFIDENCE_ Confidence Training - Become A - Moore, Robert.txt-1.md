@@ -1,5 +1,5 @@
 ---
-title: CONFIDENCE_ Confidence Training - Become A - Moore, Robert
+title: CONFIDENCE Confidence Training - Become A - Moore, Robert
 slug: confidence-confidence-training-become-a-moore-robert
 tags: 
   - book-summary

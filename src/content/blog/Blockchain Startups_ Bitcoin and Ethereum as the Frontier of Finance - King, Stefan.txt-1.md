@@ -1,5 +1,5 @@
 ---
-title: Blockchain Startups_ Bitcoin and Ethereum as the Frontier of Finance - King, Stefan
+title: Blockchain Startups Bitcoin and Ethereum as the Frontier of Finance - King, Stefan
 slug: blockchain-startups-bitcoin-and-ethereum-as-the-frontier-of-finance-king-stefan
 tags: 
   - book-summary

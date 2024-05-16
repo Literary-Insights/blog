@@ -1,6 +1,6 @@
 ---
-title: What Is Power_ - HAN, BYUNG-CHUL.;
-slug: what-is-power-han-byung-chul-
+title: What Is Power - HAN, BYUNG-CHUL
+slug: what-is-power-han-byung-chul
 tags: 
   - book-summary
 excerpt: ""

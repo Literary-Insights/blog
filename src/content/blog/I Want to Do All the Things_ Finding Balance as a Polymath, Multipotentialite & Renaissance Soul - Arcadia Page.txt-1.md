@@ -1,5 +1,5 @@
 ---
-title: I Want to Do All the Things_ Finding Balance as a Polymath, Multipotentialite & Renaissance Soul - Arcadia Page
+title: I Want to Do All the Things Finding Balance as a Polymath, Multipotentialite & Renaissance Soul - Arcadia Page
 slug: i-want-to-do-all-the-things-finding-balance-as-a-polymath-multipotentialite-renaissance-soul-arcadia-page
 tags: 
   - book-summary

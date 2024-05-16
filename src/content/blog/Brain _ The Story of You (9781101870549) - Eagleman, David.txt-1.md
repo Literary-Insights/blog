@@ -1,5 +1,5 @@
 ---
-title: Brain _ The Story of You (9781101870549) - Eagleman, David
+title: Brain  The Story of You (9781101870549) - Eagleman, David
 slug: brain--the-story-of-you-9781101870549-eagleman-david
 tags: 
   - book-summary

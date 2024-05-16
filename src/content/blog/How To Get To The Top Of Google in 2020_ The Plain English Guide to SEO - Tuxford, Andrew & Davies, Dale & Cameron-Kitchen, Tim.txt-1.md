@@ -1,5 +1,5 @@
 ---
-title: How To Get To The Top Of Google in 2020_ The Plain English Guide to SEO - Tuxford, Andrew & Davies, Dale & Cameron-Kitchen, Tim
+title: How To Get To The Top Of Google in 2020 The Plain English Guide to SEO - Tuxford, Andrew & Davies, Dale & Cameron-Kitchen, Tim
 slug: how-to-get-to-the-top-of-google-in-2020-the-plain-english-guide-to-seo-tuxford-andrew-davies-dale-cameron-kitchen-tim
 tags: 
   - book-summary

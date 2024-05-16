@@ -1,6 +1,6 @@
 ---
-title: The Brain Heart Link_ End Anxiety, Depression, Panic Attacks, Control Anger, Negative Thinking And Master Your Emotions - Robert Wayfair
-slug: the-brain-heart-link_-end-anxiety-depression-panic-attacks-control-anger-negative-thinking-and-master-your-emotions-robert-wayfair
+title: The Brain Heart Link End Anxiety, Depression, Panic Attacks, Control Anger, Negative Thinking And Master Your Emotions - Robert Wayfair
+slug: the-brain-heart-link-end-anxiety-depression-panic-attacks-control-anger-negative-thinking-and-master-your-emotions-robert-wayfair
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-brain-heart-link_-end-anxiety-depression-panic-attacks-control-anger-negative-thinking-and-master-your-emotions-robert-wayfair)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-brain-heart-link-end-anxiety-depression-panic-attacks-control-anger-negative-thinking-and-master-your-emotions-robert-wayfair)
 
 
 

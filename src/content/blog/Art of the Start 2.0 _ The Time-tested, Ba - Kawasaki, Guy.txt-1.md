@@ -1,5 +1,5 @@
 ---
-title: Art of the Start 2.0 _ The Time-tested, Ba - Kawasaki, Guy
+title: Art of the Start 2.0  The Time-tested, Ba - Kawasaki, Guy
 slug: art-of-the-start-2-0--the-time-tested-ba-kawasaki-guy
 tags: 
   - book-summary

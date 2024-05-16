@@ -1,5 +1,5 @@
 ---
-title: Feeling Great_ The Revolutionary New Treatment for Depression and Anxiety - David D. Burns
+title: Feeling Great The Revolutionary New Treatment for Depression and Anxiety - David D. Burns
 slug: feeling-great-the-revolutionary-new-treatment-for-depression-and-anxiety-david-d-burns
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: Fossil Future_ Why Global Human Flourishing Requires More Oil, Coal, and Natural Gas--Not Less - Alex Epstein
+title: Fossil Future Why Global Human Flourishing Requires More Oil, Coal, and Natural Gas--Not Less - Alex Epstein
 slug: fossil-future-why-global-human-flourishing-requires-more-oil-coal-and-natural-gas-not-less-alex-epstein
 tags: 
   - book-summary

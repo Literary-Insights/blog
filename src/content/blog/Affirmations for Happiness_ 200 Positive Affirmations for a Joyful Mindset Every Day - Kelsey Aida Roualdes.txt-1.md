@@ -1,5 +1,5 @@
 ---
-title: Affirmations for Happiness_ 200 Positive Affirmations for a Joyful Mindset Every Day - Kelsey Aida Roualdes
+title: Affirmations for Happiness 200 Positive Affirmations for a Joyful Mindset Every Day - Kelsey Aida Roualdes
 slug: affirmations-for-happiness-200-positive-affirmations-for-a-joyful-mindset-every-day-kelsey-aida-roualdes
 tags: 
   - book-summary

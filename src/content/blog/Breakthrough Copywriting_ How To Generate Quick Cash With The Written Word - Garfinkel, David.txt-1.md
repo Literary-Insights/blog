@@ -1,5 +1,5 @@
 ---
-title: Breakthrough Copywriting_ How To Generate Quick Cash With The Written Word - Garfinkel, David
+title: Breakthrough Copywriting How To Generate Quick Cash With The Written Word - Garfinkel, David
 slug: breakthrough-copywriting-how-to-generate-quick-cash-with-the-written-word-garfinkel-david
 tags: 
   - book-summary

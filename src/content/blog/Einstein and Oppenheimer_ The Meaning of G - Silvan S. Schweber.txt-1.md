@@ -1,5 +1,5 @@
 ---
-title: Einstein and Oppenheimer_ The Meaning of G - Silvan S. Schweber
+title: Einstein and Oppenheimer The Meaning of G - Silvan S. Schweber
 slug: einstein-and-oppenheimer-the-meaning-of-g-silvan-s-schweber
 tags: 
   - book-summary

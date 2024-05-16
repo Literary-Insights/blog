@@ -1,20 +1,20 @@
 ---
 title: "Reason to Be Happy Why Logical Thinking Is the Key to a Better Life - Kaushik Basu"
-slug: reason-to-be-happy_-why-logical-thinking-is-the-key-to-a-better-life-kaushik-basu
+slug: reason-to-be-happy-why-logical-thinking-is-the-key-to-a-better-life-kaushik-basu
 tags: 
   - book-summary
 excerpt: ""
 category: "self-help"
 author: "matheus-puppe"
 publishDate: "2024-04-29T22:31:16.922Z"
-image: "./src/assets/book_images/Reason to Be Happy_ Why Logical Thinking Is the Key to a Better Life - Kaushik Basu.jpg"
+image: "./src/assets/book_images/Reason to Be Happy Why Logical Thinking Is the Key to a Better Life - Kaushik Basu.jpg"
 ---
 
 **"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=reason-to-be-happy_-why-logical-thinking-is-the-key-to-a-better-life-kaushik-basu)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=reason-to-be-happy-why-logical-thinking-is-the-key-to-a-better-life-kaushik-basu)
 
  
 

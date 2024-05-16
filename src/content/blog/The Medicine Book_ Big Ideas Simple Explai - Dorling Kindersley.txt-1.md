@@ -1,6 +1,6 @@
 ---
-title: The Medicine Book_ Big Ideas Simple Explai - Dorling Kindersley
-slug: the-medicine-book_-big-ideas-simple-explai-dorling-kindersley
+title: The Medicine Book Big Ideas Simple Explai - Dorling Kindersley
+slug: the-medicine-book-big-ideas-simple-explai-dorling-kindersley
 tags: 
   - book-summary
 excerpt: ""

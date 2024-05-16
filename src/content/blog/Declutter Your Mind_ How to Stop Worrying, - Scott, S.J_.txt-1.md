@@ -1,5 +1,5 @@
 ---
-title: Declutter Your Mind_ How to Stop Worrying, - Scott, S.J_
+title: Declutter Your Mind How to Stop Worrying, - Scott, S.J_
 slug: declutter-your-mind-how-to-stop-worrying-scott-s-j_
 tags: 
   - book-summary

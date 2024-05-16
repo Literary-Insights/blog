@@ -1,6 +1,6 @@
 ---
-title: Platform_ The Art and Science of Personal - Cynthia Johnson
-slug: platform_-the-art-and-science-of-personal-cynthia-johnson
+title: Platform The Art and Science of Personal - Cynthia Johnson
+slug: platform-the-art-and-science-of-personal-cynthia-johnson
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
-title: Passive Income_ 30 Strategies and Ideas To - Gadson, Richard
-slug: passive-income_-30-strategies-and-ideas-to-gadson-richard
+title: Passive Income 30 Strategies and Ideas To - Gadson, Richard
+slug: passive-income-30-strategies-and-ideas-to-gadson-richard
 tags: 
   - book-summary
 excerpt: ""

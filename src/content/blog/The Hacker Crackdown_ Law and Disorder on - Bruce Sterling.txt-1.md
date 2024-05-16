@@ -1,6 +1,6 @@
 ---
-title: The Hacker Crackdown_ Law and Disorder on - Bruce Sterling
-slug: the-hacker-crackdown_-law-and-disorder-on-bruce-sterling
+title: The Hacker Crackdown Law and Disorder on - Bruce Sterling
+slug: the-hacker-crackdown-law-and-disorder-on-bruce-sterling
 tags: 
   - book-summary
 excerpt: ""

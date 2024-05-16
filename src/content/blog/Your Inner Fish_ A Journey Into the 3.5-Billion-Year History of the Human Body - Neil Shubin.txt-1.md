@@ -1,6 +1,6 @@
 ---
-title: Your Inner Fish_ A Journey Into the 3.5-Billion-Year History of the Human Body - Neil Shubin
-slug: your-inner-fish_-a-journey-into-the-3-5-billion-year-history-of-the-human-body-neil-shubin
+title: Your Inner Fish A Journey Into the 3.5-Billion-Year History of the Human Body - Neil Shubin
+slug: your-inner-fish-a-journey-into-the-3-5-billion-year-history-of-the-human-body-neil-shubin
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=your-inner-fish_-a-journey-into-the-3-5-billion-year-history-of-the-human-body-neil-shubin)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=your-inner-fish-a-journey-into-the-3-5-billion-year-history-of-the-human-body-neil-shubin)
 
 
 

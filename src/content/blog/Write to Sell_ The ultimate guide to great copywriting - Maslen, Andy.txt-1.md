@@ -1,6 +1,6 @@
 ---
-title: Write to Sell_ The ultimate guide to great copywriting - Maslen, Andy
-slug: write-to-sell_-the-ultimate-guide-to-great-copywriting-maslen-andy
+title: Write to Sell The ultimate guide to great copywriting - Maslen, Andy
+slug: write-to-sell-the-ultimate-guide-to-great-copywriting-maslen-andy
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=write-to-sell_-the-ultimate-guide-to-great-copywriting-maslen-andy)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=write-to-sell-the-ultimate-guide-to-great-copywriting-maslen-andy)
 
 
 

@@ -1,6 +1,6 @@
 ---
-title: "The Unlocked Leader_ Dare to Free Your Own Voice, Lead with Empathy, and Shine Your Light in the World - Hortense le Gentil"
-slug: the-unlocked-leader_-dare-to-free-your-own-voice-lead-with-empathy-and-shine-your-light-in-the-world-hortense-le-gentil
+title: "The Unlocked Leader Dare to Free Your Own Voice, Lead with Empathy, and Shine Your Light in the World - Hortense le Gentil"
+slug: the-unlocked-leader-dare-to-free-your-own-voice-lead-with-empathy-and-shine-your-light-in-the-world-hortense-le-gentil
 tags: 
   - book-summary
 excerpt: ""
@@ -14,7 +14,7 @@ image: "./src/assets/book_images/default_book.webp"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-unlocked-leader_-dare-to-free-your-own-voice-lead-with-empathy-and-shine-your-light-in-the-world-hortense-le-gentil)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-unlocked-leader-dare-to-free-your-own-voice-lead-with-empathy-and-shine-your-light-in-the-world-hortense-le-gentil)
 
 
 

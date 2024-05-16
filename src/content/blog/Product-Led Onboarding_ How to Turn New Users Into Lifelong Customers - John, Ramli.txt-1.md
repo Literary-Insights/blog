@@ -1,6 +1,6 @@
 ---
-title: Product-Led Onboarding_ How to Turn New Users Into Lifelong Customers - John, Ramli
-slug: product-led-onboarding_-how-to-turn-new-users-into-lifelong-customers-john-ramli
+title: Product-Led Onboarding How to Turn New Users Into Lifelong Customers - John, Ramli
+slug: product-led-onboarding-how-to-turn-new-users-into-lifelong-customers-john-ramli
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=product-led-onboarding_-how-to-turn-new-users-into-lifelong-customers-john-ramli)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=product-led-onboarding-how-to-turn-new-users-into-lifelong-customers-john-ramli)
 
 
 

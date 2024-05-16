@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=never-enough_-when-achievement-culture-becomes-toxic-and-what-we-can-do-about-it-jennifer-breheny-wallace)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=never-enough-when-achievement-culture-becomes-toxic-and-what-we-can-do-about-it-jennifer-breheny-wallace)
 
 
 - Ned Johnson praises the book for offering a fresh framework with practical advice to help parents raise children focused on what really matters like being happy and successful, rather than seeing those as tradeoffs. 

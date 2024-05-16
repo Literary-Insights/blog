@@ -1,6 +1,6 @@
 ---
-title: Optimism Bias_ A Tour of the Irrationally Positive Brain, The - Tali Sharot
-slug: optimism-bias_-a-tour-of-the-irrationally-positive-brain-the-tali-sharot
+title: Optimism Bias A Tour of the Irrationally Positive Brain, The - Tali Sharot
+slug: optimism-bias-a-tour-of-the-irrationally-positive-brain-the-tali-sharot
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=optimism-bias_-a-tour-of-the-irrationally-positive-brain-the-tali-sharot)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=optimism-bias-a-tour-of-the-irrationally-positive-brain-the-tali-sharot)
 
 
 

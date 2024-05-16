@@ -1,5 +1,5 @@
 ---
-title: How to Make Money Online with ChatGPT_ The Ultimate Guide to Creating Multiple Streams of Passive Income and Increasing Productivity - Fitzgerald, Brian Scott
+title: How to Make Money Online with ChatGPT The Ultimate Guide to Creating Multiple Streams of Passive Income and Increasing Productivity - Fitzgerald, Brian Scott
 slug: how-to-make-money-online-with-chatgpt-the-ultimate-guide-to-creating-multiple-streams-of-passive-income-and-increasing-productivity-fitzgerald-brian-scott
 tags: 
   - book-summary

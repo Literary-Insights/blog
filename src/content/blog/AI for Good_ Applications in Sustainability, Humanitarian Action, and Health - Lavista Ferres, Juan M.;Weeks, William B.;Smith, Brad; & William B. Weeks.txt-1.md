@@ -1,20 +1,20 @@
 ---
-title: "AI for Good_ Applications in Sustainability, Humanitarian Action, and Health - Lavista Ferres, Juan M.;Weeks, William B.;Smith, Brad; & William B. Weeks"
-slug: ai-for-good_-applications-in-sustainability-humanitarian-action-and-health-lavista-ferres-juan-m-weeks-william-b-smith-brad-william-b-weeks
+title: "AI for Good Applications in Sustainability, Humanitarian Action, and Health - Lavista Ferres, Juan M.;Weeks, William B.;Smith, Brad; & William B. Weeks"
+slug: ai-for-good-applications-in-sustainability-humanitarian-action-and-health-lavista-ferres-juan-m-weeks-william-b-smith-brad-william-b-weeks
 tags: 
   - book-summary
 excerpt: ""
 category: "self-help"
 author: "matheus-puppe"
 publishDate: "2024-05-05T12:55:52.081Z"
-image: "./src/assets/book_images/AI for Good_ Applications in Sustainability, Humanitarian Action, and Health - Lavista Ferres, Juan M.;Weeks, William B.;Smith, Brad; & William B. Weeks.jpg"
+image: "./src/assets/book_images/AI for Good Applications in Sustainability, Humanitarian Action, and Health - Lavista Ferres, Juan M.;Weeks, William B.;Smith, Brad; & William B. Weeks.jpg"
 ---
 
 **"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=ai-for-good_-applications-in-sustainability-humanitarian-action-and-health-lavista-ferres-juan-m-weeks-william-b-smith-brad-william-b-weeks)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=ai-for-good-applications-in-sustainability-humanitarian-action-and-health-lavista-ferres-juan-m-weeks-william-b-smith-brad-william-b-weeks)
 
  
 

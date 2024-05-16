@@ -1,5 +1,5 @@
 ---
-title: Behavioural Economics Saved My Dog_ Life Advice For The Imperfect Human - Dan Ariely
+title: Behavioural Economics Saved My Dog Life Advice For The Imperfect Human - Dan Ariely
 slug: behavioural-economics-saved-my-dog-life-advice-for-the-imperfect-human-dan-ariely
 tags: 
   - book-summary

@@ -1,6 +1,6 @@
 ---
-title: The Wonder Switch_ The Difference Between Limiting Your Life and Living Your Dream - Harris III
-slug: the-wonder-switch_-the-difference-between-limiting-your-life-and-living-your-dream-harris-iii
+title: The Wonder Switch The Difference Between Limiting Your Life and Living Your Dream - Harris III
+slug: the-wonder-switch-the-difference-between-limiting-your-life-and-living-your-dream-harris-iii
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-wonder-switch_-the-difference-between-limiting-your-life-and-living-your-dream-harris-iii)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-wonder-switch-the-difference-between-limiting-your-life-and-living-your-dream-harris-iii)
 
 
 

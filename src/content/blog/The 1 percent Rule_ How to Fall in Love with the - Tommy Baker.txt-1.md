@@ -1,6 +1,6 @@
 ---
-title: The 1% Rule_ How to Fall in Love with the - Tommy Baker
-slug: the-1-rule_-how-to-fall-in-love-with-the-tommy-baker
+title: The 1% Rule How to Fall in Love with the - Tommy Baker
+slug: the-1-rule-how-to-fall-in-love-with-the-tommy-baker
 tags: 
   - book-summary
 excerpt: ""

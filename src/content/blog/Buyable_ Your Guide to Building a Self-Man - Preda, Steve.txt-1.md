@@ -1,5 +1,5 @@
 ---
-title: Buyable_ Your Guide to Building a Self-Man - Preda, Steve
+title: Buyable Your Guide to Building a Self-Man - Preda, Steve
 slug: buyable-your-guide-to-building-a-self-man-preda-steve
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: Keep Sharp_ Build a Better Brain at Any Age - Sanjay Gupta
+title: Keep Sharp Build a Better Brain at Any Age - Sanjay Gupta
 slug: keep-sharp-build-a-better-brain-at-any-age-sanjay-gupta
 tags: 
   - book-summary

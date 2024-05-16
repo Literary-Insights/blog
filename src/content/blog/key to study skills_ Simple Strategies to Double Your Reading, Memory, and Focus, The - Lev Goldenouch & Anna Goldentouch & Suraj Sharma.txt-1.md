@@ -1,5 +1,5 @@
 ---
-title: key to study skills_ Simple Strategies to Double Your Reading, Memory, and Focus, The - Lev Goldenouch & Anna Goldentouch & Suraj Sharma
+title: key to study skills Simple Strategies to Double Your Reading, Memory, and Focus, The - Lev Goldenouch & Anna Goldentouch & Suraj Sharma
 slug: key-to-study-skills-simple-strategies-to-double-your-reading-memory-and-focus-the-lev-goldenouch-anna-goldentouch-suraj-sharma
 tags: 
   - book-summary

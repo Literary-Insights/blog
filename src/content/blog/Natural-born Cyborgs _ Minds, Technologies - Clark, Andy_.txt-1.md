@@ -1,6 +1,6 @@
 ---
-title: Natural-born Cyborgs _ Minds, Technologies - Clark, Andy_
-slug: natural-born-cyborgs-_-minds-technologies-clark-andy_
+title: Natural-born Cyborgs  Minds, Technologies - Clark, Andy_
+slug: natural-born-cyborgs--minds-technologies-clark-andy_
 tags: 
   - book-summary
 excerpt: ""

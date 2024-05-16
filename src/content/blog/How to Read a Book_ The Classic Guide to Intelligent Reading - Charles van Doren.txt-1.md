@@ -1,5 +1,5 @@
 ---
-title: How to Read a Book_ The Classic Guide to Intelligent Reading - Charles van Doren
+title: How to Read a Book The Classic Guide to Intelligent Reading - Charles van Doren
 slug: how-to-read-a-book-the-classic-guide-to-intelligent-reading-charles-van-doren
 tags: 
   - book-summary

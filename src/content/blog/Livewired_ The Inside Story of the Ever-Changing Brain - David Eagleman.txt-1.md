@@ -1,5 +1,5 @@
 ---
-title: Livewired_ The Inside Story of the Ever-Changing Brain - David Eagleman
+title: Livewired The Inside Story of the Ever-Changing Brain - David Eagleman
 slug: livewired-the-inside-story-of-the-ever-changing-brain-david-eagleman
 tags: 
   - book-summary

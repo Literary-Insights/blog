@@ -1,6 +1,6 @@
 ---
-title: "When Things Don't Go Your Way_ Zen Wisdom for Difficult Times - Haemin Sunim"
-slug: when-things-don-t-go-your-way_-zen-wisdom-for-difficult-times-haemin-sunim
+title: "When Things Don't Go Your Way Zen Wisdom for Difficult Times - Haemin Sunim"
+slug: when-things-don-t-go-your-way-zen-wisdom-for-difficult-times-haemin-sunim
 tags: 
   - book-summary
 excerpt: ""
@@ -14,7 +14,7 @@ image: "./src/assets/book_images/default_book.webp"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=when-things-don-t-go-your-way_-zen-wisdom-for-difficult-times-haemin-sunim)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=when-things-don-t-go-your-way-zen-wisdom-for-difficult-times-haemin-sunim)
 
 
 

@@ -1,6 +1,6 @@
 ---
-title: War Without Rules_ China's Playbook for Global Domination - Robert Spalding
-slug: war-without-rules_-china-s-playbook-for-global-domination-robert-spalding
+title: War Without Rules China's Playbook for Global Domination - Robert Spalding
+slug: war-without-rules-china-s-playbook-for-global-domination-robert-spalding
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=war-without-rules_-china-s-playbook-for-global-domination-robert-spalding)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=war-without-rules-china-s-playbook-for-global-domination-robert-spalding)
 
 
 

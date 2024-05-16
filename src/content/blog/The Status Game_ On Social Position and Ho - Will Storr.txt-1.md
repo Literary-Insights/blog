@@ -1,6 +1,6 @@
 ---
-title: The Status Game_ On Social Position and Ho - Will Storr
-slug: the-status-game_-on-social-position-and-ho-will-storr
+title: The Status Game On Social Position and Ho - Will Storr
+slug: the-status-game-on-social-position-and-ho-will-storr
 tags: 
   - book-summary
 excerpt: ""

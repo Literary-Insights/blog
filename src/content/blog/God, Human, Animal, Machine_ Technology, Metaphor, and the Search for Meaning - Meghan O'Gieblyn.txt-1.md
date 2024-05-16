@@ -1,5 +1,5 @@
 ---
-title: God, Human, Animal, Machine_ Technology, Metaphor, and the Search for Meaning - Meghan O'Gieblyn
+title: God, Human, Animal, Machine Technology, Metaphor, and the Search for Meaning - Meghan O'Gieblyn
 slug: god-human-animal-machine-technology-metaphor-and-the-search-for-meaning-meghan-o-gieblyn
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: Edge of Chaos_ Why Democracy Is Failing to Deliver Economic Growth---and How to Fix It - Dambisa Moyo
+title: Edge of Chaos Why Democracy Is Failing to Deliver Economic Growth---and How to Fix It - Dambisa Moyo
 slug: edge-of-chaos-why-democracy-is-failing-to-deliver-economic-growth-and-how-to-fix-it-dambisa-moyo
 tags: 
   - book-summary

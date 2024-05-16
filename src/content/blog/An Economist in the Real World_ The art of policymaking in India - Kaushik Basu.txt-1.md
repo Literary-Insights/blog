@@ -1,5 +1,5 @@
 ---
-title: An Economist in the Real World_ The art of policymaking in India - Kaushik Basu
+title: An Economist in the Real World The art of policymaking in India - Kaushik Basu
 slug: an-economist-in-the-real-world-the-art-of-policymaking-in-india-kaushik-basu
 tags: 
   - book-summary

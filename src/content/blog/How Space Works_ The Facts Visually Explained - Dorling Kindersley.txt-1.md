@@ -1,5 +1,5 @@
 ---
-title: How Space Works_ The Facts Visually Explained - Dorling Kindersley
+title: How Space Works The Facts Visually Explained - Dorling Kindersley
 slug: how-space-works-the-facts-visually-explained-dorling-kindersley
 tags: 
   - book-summary

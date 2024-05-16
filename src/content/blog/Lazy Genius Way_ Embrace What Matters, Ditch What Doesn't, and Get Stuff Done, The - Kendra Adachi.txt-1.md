@@ -1,5 +1,5 @@
 ---
-title: Lazy Genius Way_ Embrace What Matters, Ditch What Doesn't, and Get Stuff Done, The - Kendra Adachi
+title: Lazy Genius Way Embrace What Matters, Ditch What Doesn't, and Get Stuff Done, The - Kendra Adachi
 slug: lazy-genius-way-embrace-what-matters-ditch-what-doesn-t-and-get-stuff-done-the-kendra-adachi
 tags: 
   - book-summary

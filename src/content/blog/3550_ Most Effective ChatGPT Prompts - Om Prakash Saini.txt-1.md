@@ -1,6 +1,6 @@
 ---
-title: "3550_ Most Effective ChatGPT Prompts - Om Prakash Saini"
-slug: 3550_-most-effective-chatgpt-prompts-om-prakash-saini
+title: "3550 Most Effective ChatGPT Prompts - Om Prakash Saini"
+slug: 3550-most-effective-chatgpt-prompts-om-prakash-saini
 tags: 
   - book-summary
 excerpt: ""
@@ -14,7 +14,7 @@ image: "./src/assets/book_images/default_book.webp"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=3550_-most-effective-chatgpt-prompts-om-prakash-saini)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=3550-most-effective-chatgpt-prompts-om-prakash-saini)
 
 
 

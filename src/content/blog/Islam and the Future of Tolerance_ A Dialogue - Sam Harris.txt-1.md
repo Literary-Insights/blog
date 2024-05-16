@@ -1,5 +1,5 @@
 ---
-title: Islam and the Future of Tolerance_ A Dialogue - Sam Harris
+title: Islam and the Future of Tolerance A Dialogue - Sam Harris
 slug: islam-and-the-future-of-tolerance-a-dialogue-sam-harris
 tags: 
   - book-summary

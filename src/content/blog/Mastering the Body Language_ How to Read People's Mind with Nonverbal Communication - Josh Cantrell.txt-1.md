@@ -1,5 +1,5 @@
 ---
-title: Mastering the Body Language_ How to Read People's Mind with Nonverbal Communication - Josh Cantrell
+title: Mastering the Body Language How to Read People's Mind with Nonverbal Communication - Josh Cantrell
 slug: mastering-the-body-language-how-to-read-people-s-mind-with-nonverbal-communication-josh-cantrell
 tags: 
   - book-summary

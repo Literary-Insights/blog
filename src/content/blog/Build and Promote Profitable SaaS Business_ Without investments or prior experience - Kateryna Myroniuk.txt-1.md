@@ -1,5 +1,5 @@
 ---
-title: Build and Promote Profitable SaaS Business_ Without investments or prior experience - Kateryna Myroniuk
+title: Build and Promote Profitable SaaS Business Without investments or prior experience - Kateryna Myroniuk
 slug: build-and-promote-profitable-saas-business-without-investments-or-prior-experience-kateryna-myroniuk
 tags: 
   - book-summary

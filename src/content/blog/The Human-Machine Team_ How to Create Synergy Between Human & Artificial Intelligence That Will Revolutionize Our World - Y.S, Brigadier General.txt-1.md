@@ -7,14 +7,14 @@ excerpt: ""
 category: "self-help"
 author: "matheus-puppe"
 publishDate: "2024-05-05T12:55:51.976Z"
-image: "./src/assets/book_images/The Human-Machine Team_ How to Create Synergy Between Human & Artificial Intelligence That Will Revolutionize Our World - Y.S, Brigadier General.jpg"
+image: "./src/assets/book_images/The Human-Machine Team How to Create Synergy Between Human & Artificial Intelligence That Will Revolutionize Our World - Y.S, Brigadier General.jpg"
 ---
 
 **"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-human-machine-team_-how-to-create-synergy-between-human-artificial-intelligence-that-will-revolutionize-our-world-y-s-brigadier-general)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-human-machine-team-how-to-create-synergy-between-human-artificial-intelligence-that-will-revolutionize-our-world-y-s-brigadier-general)
 
 
 - The modern concept of cities and nation-states emerged thanks to technological developments enabled by revolutions. Transportation and communication technologies made larger political units logical. 

@@ -1,5 +1,5 @@
 ---
-title: Humans as a Service_ The Promise and Perils of Work in the Gig Economy - Jeremias Prassl
+title: Humans as a Service The Promise and Perils of Work in the Gig Economy - Jeremias Prassl
 slug: humans-as-a-service-the-promise-and-perils-of-work-in-the-gig-economy-jeremias-prassl
 tags: 
   - book-summary

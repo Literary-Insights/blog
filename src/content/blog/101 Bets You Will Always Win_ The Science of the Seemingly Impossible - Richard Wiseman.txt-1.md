@@ -1,6 +1,6 @@
 ---
-title: "101 Bets You Will Always Win_ The Science of the Seemingly Impossible - Richard Wiseman"
-slug: 101-bets-you-will-always-win_-the-science-of-the-seemingly-impossible-richard-wiseman
+title: "101 Bets You Will Always Win The Science of the Seemingly Impossible - Richard Wiseman"
+slug: 101-bets-you-will-always-win-the-science-of-the-seemingly-impossible-richard-wiseman
 tags: 
   - book-summary
 excerpt: ""
@@ -14,7 +14,7 @@ image: "./src/assets/book_images/default_book.webp"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=101-bets-you-will-always-win_-the-science-of-the-seemingly-impossible-richard-wiseman)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=101-bets-you-will-always-win-the-science-of-the-seemingly-impossible-richard-wiseman)
 
 
 

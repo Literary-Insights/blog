@@ -1,5 +1,5 @@
 ---
-title: Free To Choose_ A Personal Statement - Friedman, Milton & Rose
+title: Free To Choose A Personal Statement - Friedman, Milton & Rose
 slug: free-to-choose-a-personal-statement-friedman-milton-rose
 tags: 
   - book-summary

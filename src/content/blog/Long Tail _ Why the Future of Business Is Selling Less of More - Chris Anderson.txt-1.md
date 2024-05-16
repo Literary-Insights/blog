@@ -1,5 +1,5 @@
 ---
-title: Long Tail _ Why the Future of Business Is Selling Less of More - Chris Anderson
+title: Long Tail  Why the Future of Business Is Selling Less of More - Chris Anderson
 slug: long-tail--why-the-future-of-business-is-selling-less-of-more-chris-anderson
 tags: 
   - book-summary

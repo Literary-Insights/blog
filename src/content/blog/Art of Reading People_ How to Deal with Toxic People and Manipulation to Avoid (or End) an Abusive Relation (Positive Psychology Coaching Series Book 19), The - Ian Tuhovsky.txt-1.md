@@ -1,5 +1,5 @@
 ---
-title: Art of Reading People_ How to Deal with Toxic People and Manipulation to Avoid (or End) an Abusive Relation (Positive Psychology Coaching Series Book 19), The - Ian Tuhovsky
+title: Art of Reading People How to Deal with Toxic People and Manipulation to Avoid (or End) an Abusive Relation (Positive Psychology Coaching Series Book 19), The - Ian Tuhovsky
 slug: art-of-reading-people-how-to-deal-with-toxic-people-and-manipulation-to-avoid-or-end-an-abusive-relation-positive-psychology-coaching-series-book-19-the-ian-tuhovsky
 tags: 
   - book-summary

@@ -1,6 +1,6 @@
 ---
-title: NLP_ The Real Mind Control_ A book that will make you understand Neuro-Linguistic ProgrammLP Techniques) _. Influence People, Neuropsychology) - Rafael Gurkovsky & Claire Stranberg
-slug: nlp-the-real-mind-control_-a-book-that-will-make-you-understand-neuro-linguistic-programmlp-techniques-_-influence-people-neuropsychology-rafael-gurkovsky-claire-stranberg
+title: NLP The Real Mind Control A book that will make you understand Neuro-Linguistic ProgrammLP Techniques) _. Influence People, Neuropsychology) - Rafael Gurkovsky & Claire Stranberg
+slug: nlp-the-real-mind-control-a-book-that-will-make-you-understand-neuro-linguistic-programmlp-techniques--influence-people-neuropsychology-rafael-gurkovsky-claire-stranberg
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=nlp_-the-real-mind-control_-a-book-that-will-make-you-understand-neuro-linguistic-programmlp-techniques-_-influence-people-neuropsychology-rafael-gurkovsky-claire-stranberg)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=nlp-the-real-mind-control-a-book-that-will-make-you-understand-neuro-linguistic-programmlp-techniques--influence-people-neuropsychology-rafael-gurkovsky-claire-stranberg)
 
 
 

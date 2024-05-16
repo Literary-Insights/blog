@@ -1,5 +1,5 @@
 ---
-title: Immune _ A Journey into the Mysterious System That Keeps You Alive (9780593241332)_ A Journey into the Mysterious System That Keeps You Alive - Dettmer, Philipp
+title: Immune  A Journey into the Mysterious System That Keeps You Alive (9780593241332) A Journey into the Mysterious System That Keeps You Alive - Dettmer, Philipp
 slug: immune--a-journey-into-the-mysterious-system-that-keeps-you-alive-9780593241332--a-journey-into-the-mysterious-system-that-keeps-you-alive-dettmer-philipp
 tags: 
   - book-summary

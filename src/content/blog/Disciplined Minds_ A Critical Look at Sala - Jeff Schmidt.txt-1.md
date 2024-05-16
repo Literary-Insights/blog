@@ -1,5 +1,5 @@
 ---
-title: Disciplined Minds_ A Critical Look at Sala - Jeff Schmidt
+title: Disciplined Minds A Critical Look at Sala - Jeff Schmidt
 slug: disciplined-minds-a-critical-look-at-sala-jeff-schmidt
 tags: 
   - book-summary

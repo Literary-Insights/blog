@@ -1,5 +1,5 @@
 ---
-title: Hold Me Tight_ Seven Conversations for a L - Dr. Sue Johnson
+title: Hold Me Tight Seven Conversations for a L - Dr. Sue Johnson
 slug: hold-me-tight-seven-conversations-for-a-l-dr-sue-johnson
 tags: 
   - book-summary

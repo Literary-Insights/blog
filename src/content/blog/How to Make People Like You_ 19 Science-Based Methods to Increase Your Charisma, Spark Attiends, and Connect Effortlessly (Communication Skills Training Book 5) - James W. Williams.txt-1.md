@@ -1,5 +1,5 @@
 ---
-title: How to Make People Like You_ 19 Science-Based Methods to Increase Your Charisma, Spark Attiends, and Connect Effortlessly (Communication Skills Training Book 5) - James W. Williams
+title: How to Make People Like You 19 Science-Based Methods to Increase Your Charisma, Spark Attiends, and Connect Effortlessly (Communication Skills Training Book 5) - James W. Williams
 slug: how-to-make-people-like-you-19-science-based-methods-to-increase-your-charisma-spark-attiends-and-connect-effortlessly-communication-skills-training-book-5-james-w-williams
 tags: 
   - book-summary

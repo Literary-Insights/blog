@@ -1,6 +1,6 @@
 ---
-title: The Ultimate Introduction to NLP_ How to build a successful life - Richard Bandler & Alessio Roberti & Owen Fitzpatrick
-slug: the-ultimate-introduction-to-nlp_-how-to-build-a-successful-life-richard-bandler-alessio-roberti-owen-fitzpatrick
+title: The Ultimate Introduction to NLP How to build a successful life - Richard Bandler & Alessio Roberti & Owen Fitzpatrick
+slug: the-ultimate-introduction-to-nlp-how-to-build-a-successful-life-richard-bandler-alessio-roberti-owen-fitzpatrick
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-ultimate-introduction-to-nlp_-how-to-build-a-successful-life-richard-bandler-alessio-roberti-owen-fitzpatrick)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-ultimate-introduction-to-nlp-how-to-build-a-successful-life-richard-bandler-alessio-roberti-owen-fitzpatrick)
 
 
 

@@ -1,6 +1,6 @@
 ---
-title: THINK STRAIGHT_ Change Your Thoughts, Chan - Darius Foroux
-slug: think-straight_-change-your-thoughts-chan-darius-foroux
+title: THINK STRAIGHT Change Your Thoughts, Chan - Darius Foroux
+slug: think-straight-change-your-thoughts-chan-darius-foroux
 tags: 
   - book-summary
 excerpt: ""

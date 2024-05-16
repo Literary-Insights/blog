@@ -1,5 +1,5 @@
 ---
-title: Hacking Growth_ How Today's Fastest-Growing Companies Drive Breakout Success - Sean Ellis & Morgan Brown
+title: Hacking Growth How Today's Fastest-Growing Companies Drive Breakout Success - Sean Ellis & Morgan Brown
 slug: hacking-growth-how-today-s-fastest-growing-companies-drive-breakout-success-sean-ellis-morgan-brown
 tags: 
   - book-summary

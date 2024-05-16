@@ -1,6 +1,6 @@
 ---
-title: The Vision Code_ How to Create and Execute a Compelling Vision for Your Business - Oleg Konovalov
-slug: the-vision-code_-how-to-create-and-execute-a-compelling-vision-for-your-business-oleg-konovalov
+title: The Vision Code How to Create and Execute a Compelling Vision for Your Business - Oleg Konovalov
+slug: the-vision-code-how-to-create-and-execute-a-compelling-vision-for-your-business-oleg-konovalov
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-vision-code_-how-to-create-and-execute-a-compelling-vision-for-your-business-oleg-konovalov)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-vision-code-how-to-create-and-execute-a-compelling-vision-for-your-business-oleg-konovalov)
 
 
 

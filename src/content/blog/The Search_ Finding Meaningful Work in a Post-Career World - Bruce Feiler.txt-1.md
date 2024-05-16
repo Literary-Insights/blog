@@ -1,6 +1,6 @@
 ---
-title: "The Search_ Finding Meaningful Work in a Post-Career World - Bruce Feiler"
-slug: the-search_-finding-meaningful-work-in-a-post-career-world-bruce-feiler
+title: "The Search Finding Meaningful Work in a Post-Career World - Bruce Feiler"
+slug: the-search-finding-meaningful-work-in-a-post-career-world-bruce-feiler
 tags: 
   - book-summary
 excerpt: ""
@@ -14,7 +14,7 @@ image: "./src/assets/book_images/default_book.webp"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-search_-finding-meaningful-work-in-a-post-career-world-bruce-feiler)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-search-finding-meaningful-work-in-a-post-career-world-bruce-feiler)
 
 
 

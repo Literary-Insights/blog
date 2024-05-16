@@ -1,6 +1,6 @@
 ---
-title: Overthinking_ A Practical Guide to Declutter Your Mind through Cognitive Behavioral Therap Raise Your Self-Esteem. Guided Meditation for Sleep & Relaxation - Goleman, Travis Cooper
-slug: overthinking_-a-practical-guide-to-declutter-your-mind-through-cognitive-behavioral-therap-raise-your-self-esteem-guided-meditation-for-sleep-relaxation-goleman-travis-cooper
+title: Overthinking A Practical Guide to Declutter Your Mind through Cognitive Behavioral Therap Raise Your Self-Esteem. Guided Meditation for Sleep & Relaxation - Goleman, Travis Cooper
+slug: overthinking-a-practical-guide-to-declutter-your-mind-through-cognitive-behavioral-therap-raise-your-self-esteem-guided-meditation-for-sleep-relaxation-goleman-travis-cooper
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=overthinking_-a-practical-guide-to-declutter-your-mind-through-cognitive-behavioral-therap-raise-your-self-esteem-guided-meditation-for-sleep-relaxation-goleman-travis-cooper)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=overthinking-a-practical-guide-to-declutter-your-mind-through-cognitive-behavioral-therap-raise-your-self-esteem-guided-meditation-for-sleep-relaxation-goleman-travis-cooper)
 
 
 

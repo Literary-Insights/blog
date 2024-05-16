@@ -1,5 +1,5 @@
 ---
-title: Extreme You_ Step Up. Stand Out. Kick Ass. Repeat. - Sarah Robb O'Hagan
+title: Extreme You Step Up. Stand Out. Kick Ass. Repeat. - Sarah Robb O'Hagan
 slug: extreme-you-step-up-stand-out-kick-ass-repeat-sarah-robb-o-hagan
 tags: 
   - book-summary

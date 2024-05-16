@@ -1,5 +1,5 @@
 ---
-title: Everyday Affirmations_ Positive Psychology (Biden-Harris Edition) - Destiny S Harris
+title: Everyday Affirmations Positive Psychology (Biden-Harris Edition) - Destiny S Harris
 slug: everyday-affirmations-positive-psychology-biden-harris-edition-destiny-s-harris
 tags: 
   - book-summary

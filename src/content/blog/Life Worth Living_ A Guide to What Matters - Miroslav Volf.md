@@ -1,6 +1,6 @@
 ---
-title: Life Worth Living_ A Guide to What Matters - Miroslav Volf
-slug: Life Worth Living_ A Guide to What Matters - Miroslav Volf
+title: Life Worth Living A Guide to What Matters - Miroslav Volf
+slug: Life Worth Living A Guide to What Matters - Miroslav Volf
 tags: 
   - book-summary
 excerpt: ""

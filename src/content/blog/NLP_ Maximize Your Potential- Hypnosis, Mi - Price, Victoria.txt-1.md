@@ -1,5 +1,5 @@
 ---
-title: NLP_ Maximize Your Potential- Hypnosis, Mi - Price, Victoria
+title: NLP Maximize Your Potential- Hypnosis, Mi - Price, Victoria
 slug: nlp_maximize-your-potential-hypnosis-mi-price-victoria
 tags: 
   - book-summary

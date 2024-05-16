@@ -1,6 +1,6 @@
 ---
-title: The ONE Invisible Code_ An Uncommon Formul - Sharma, Sharat
-slug: the-one-invisible-code_-an-uncommon-formul-sharma-sharat
+title: The ONE Invisible Code An Uncommon Formul - Sharma, Sharat
+slug: the-one-invisible-code-an-uncommon-formul-sharma-sharat
 tags: 
   - book-summary
 excerpt: ""

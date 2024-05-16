@@ -1,5 +1,5 @@
 ---
-title: Financial Management for Technology Start-ups_ How to power growth, track performance and drive innovation - Alnoor Bhimani
+title: Financial Management for Technology Start-ups How to power growth, track performance and drive innovation - Alnoor Bhimani
 slug: financial-management-for-technology-start-ups-how-to-power-growth-track-performance-and-drive-innovation-alnoor-bhimani
 tags: 
   - book-summary

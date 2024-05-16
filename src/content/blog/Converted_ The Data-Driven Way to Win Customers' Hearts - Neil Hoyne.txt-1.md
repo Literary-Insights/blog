@@ -1,5 +1,5 @@
 ---
-title: Converted_ The Data-Driven Way to Win Customers' Hearts - Neil Hoyne
+title: Converted The Data-Driven Way to Win Customers' Hearts - Neil Hoyne
 slug: converted-the-data-driven-way-to-win-customers-hearts-neil-hoyne
 tags: 
   - book-summary

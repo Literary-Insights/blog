@@ -1,6 +1,6 @@
 ---
-title: SuperLife_ The 5 Forces That Will Make You Healthy, Fit, and Eternally Awesome - Darin Olien
-slug: superlife_-the-5-forces-that-will-make-you-healthy-fit-and-eternally-awesome-darin-olien
+title: SuperLife The 5 Forces That Will Make You Healthy, Fit, and Eternally Awesome - Darin Olien
+slug: superlife-the-5-forces-that-will-make-you-healthy-fit-and-eternally-awesome-darin-olien
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=superlife_-the-5-forces-that-will-make-you-healthy-fit-and-eternally-awesome-darin-olien)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=superlife-the-5-forces-that-will-make-you-healthy-fit-and-eternally-awesome-darin-olien)
 
 
 

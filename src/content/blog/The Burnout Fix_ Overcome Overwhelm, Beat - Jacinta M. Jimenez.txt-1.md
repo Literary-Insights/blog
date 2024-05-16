@@ -1,6 +1,6 @@
 ---
-title: The Burnout Fix_ Overcome Overwhelm, Beat - Jacinta M. Jimenez
-slug: the-burnout-fix_-overcome-overwhelm-beat-jacinta-m-jimenez 
+title: The Burnout Fix Overcome Overwhelm, Beat - Jacinta M. Jimenez
+slug: the-burnout-fix-overcome-overwhelm-beat-jacinta-m-jimenez 
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-burnout-fix_-overcome-overwhelm-beat-jacinta-m-jimenez)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-burnout-fix-overcome-overwhelm-beat-jacinta-m-jimenez)
 
 
 
@@ -897,5 +897,5 @@ The key is adopting personalized strategies to work smarter, not just more compl
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-burnout-fix_-overcome-overwhelm-beat-jacinta-m-jimenez)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-burnout-fix-overcome-overwhelm-beat-jacinta-m-jimenez)
 

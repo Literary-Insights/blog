@@ -1,5 +1,5 @@
 ---
-title: How to Lead_ Wisdom from the World's Greatest CEOs, Founders, and Game Changers - David M. Rubenstein
+title: How to Lead Wisdom from the World's Greatest CEOs, Founders, and Game Changers - David M. Rubenstein
 slug: how-to-lead-wisdom-from-the-world-s-greatest-ceos-founders-and-game-changers-david-m-rubenstein
 tags: 
   - book-summary

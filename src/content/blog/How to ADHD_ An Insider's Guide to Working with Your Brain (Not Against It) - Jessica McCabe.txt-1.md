@@ -1,5 +1,5 @@
 ---
-title: How to ADHD_ An Insider's Guide to Working with Your Brain (Not Against It) - Jessica McCabe
+title: How to ADHD An Insider's Guide to Working with Your Brain (Not Against It) - Jessica McCabe
 slug: how-to-adhd-an-insider-s-guide-to-working-with-your-brain-not-against-it-jessica-mccabe
 tags: 
   - book-summary

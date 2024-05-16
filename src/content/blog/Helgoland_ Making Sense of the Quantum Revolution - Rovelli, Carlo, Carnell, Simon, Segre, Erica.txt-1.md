@@ -1,5 +1,5 @@
 ---
-title: Helgoland_ Making Sense of the Quantum Revolution - Rovelli, Carlo, Carnell, Simon, Segre, Erica
+title: Helgoland Making Sense of the Quantum Revolution - Rovelli, Carlo, Carnell, Simon, Segre, Erica
 slug: helgoland-making-sense-of-the-quantum-revolution-rovelli-carlo-carnell-simon-segre-erica
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: Do Morals Matter_ - Joseph S. Nye, Jr_
+title: Do Morals Matter - Joseph S. Nye, Jr_
 slug: do-morals-matter-joseph-s-nye-jr_
 tags: 
   - book-summary

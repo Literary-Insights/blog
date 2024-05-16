@@ -1,5 +1,5 @@
 ---
-title: Everyone Who Is Gone Is Here_ The United States, Central America, and the Making of a Crisis - Jonathan Blitzer
+title: Everyone Who Is Gone Is Here The United States, Central America, and the Making of a Crisis - Jonathan Blitzer
 slug: everyone-who-is-gone-is-here-the-united-states-central-america-and-the-making-of-a-crisis-jonathan-blitzer
 tags: 
   - book-summary

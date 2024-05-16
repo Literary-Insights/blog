@@ -1,5 +1,5 @@
 ---
-title: Reality_ - David J. Chalmers
+title: Reality - David J. Chalmers
 slug: reality-david-j-chalmers
 tags: 
   - book-summary

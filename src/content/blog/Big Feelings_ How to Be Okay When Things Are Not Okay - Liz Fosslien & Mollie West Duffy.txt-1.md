@@ -1,20 +1,20 @@
 ---
-title: "Big Feelings_ How to Be Okay When Things Are Not Okay - Liz Fosslien & Mollie West Duffy"
-slug: big-feelings_-how-to-be-okay-when-things-are-not-okay-liz-fosslien-mollie-west-duffy
+title: "Big Feelings How to Be Okay When Things Are Not Okay - Liz Fosslien & Mollie West Duffy"
+slug: big-feelings-how-to-be-okay-when-things-are-not-okay-liz-fosslien-mollie-west-duffy
 tags: 
   - book-summary
 excerpt: ""
 category: "self-help"
 author: "matheus-puppe"
 publishDate: "2024-05-03T12:44:15.488Z"
-image: "./src/assets/book_images/Big Feelings_ How to Be Okay When Things Are Not Okay - Liz Fosslien & Mollie West Duffy.jpg"
+image: "./src/assets/book_images/Big Feelings How to Be Okay When Things Are Not Okay - Liz Fosslien & Mollie West Duffy.jpg"
 ---
 
 **"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=big-feelings_-how-to-be-okay-when-things-are-not-okay-liz-fosslien-mollie-west-duffy)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=big-feelings-how-to-be-okay-when-things-are-not-okay-liz-fosslien-mollie-west-duffy)
 
 
 

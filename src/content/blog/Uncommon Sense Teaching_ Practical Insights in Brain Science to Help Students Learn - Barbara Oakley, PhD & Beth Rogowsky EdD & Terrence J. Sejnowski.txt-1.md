@@ -1,6 +1,6 @@
 ---
-title: Uncommon Sense Teaching_ Practical Insights in Brain Science to Help Students Learn - Barbara Oakley, PhD & Beth Rogowsky EdD & Terrence J. Sejnowski
-slug: uncommon-sense-teaching_-practical-insights-in-brain-science-to-help-students-learn-barbara-oakley-phd-beth-rogowsky-edd-terrence-j-sejnowski
+title: Uncommon Sense Teaching Practical Insights in Brain Science to Help Students Learn - Barbara Oakley, PhD & Beth Rogowsky EdD & Terrence J. Sejnowski
+slug: uncommon-sense-teaching-practical-insights-in-brain-science-to-help-students-learn-barbara-oakley-phd-beth-rogowsky-edd-terrence-j-sejnowski
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=uncommon-sense-teaching_-practical-insights-in-brain-science-to-help-students-learn-barbara-oakley-phd-beth-rogowsky-edd-terrence-j-sejnowski)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=uncommon-sense-teaching-practical-insights-in-brain-science-to-help-students-learn-barbara-oakley-phd-beth-rogowsky-edd-terrence-j-sejnowski)
 
 
 

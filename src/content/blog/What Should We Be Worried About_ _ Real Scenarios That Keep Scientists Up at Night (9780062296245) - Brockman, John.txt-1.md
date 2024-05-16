@@ -1,6 +1,6 @@
 ---
-title: What Should We Be Worried About_ _ Real Scenarios That Keep Scientists Up at Night (9780062296245) - Brockman, John
-slug: what-should-we-be-worried-about_-_-real-scenarios-that-keep-scientists-up-at-night-9780062296245-brockman-john
+title: What Should We Be Worried About  Real Scenarios That Keep Scientists Up at Night (9780062296245) - Brockman, John
+slug: what-should-we-be-worried-about--real-scenarios-that-keep-scientists-up-at-night-9780062296245-brockman-john
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=what-should-we-be-worried-about_-_-real-scenarios-that-keep-scientists-up-at-night-9780062296245-brockman-john)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=what-should-we-be-worried-about--real-scenarios-that-keep-scientists-up-at-night-9780062296245-brockman-john)
 
 
 

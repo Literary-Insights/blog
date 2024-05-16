@@ -1,6 +1,6 @@
 ---
-title: The Power Law_ Venture Capital and the Making of the New Future - Sebastian Mallaby
-slug: the-power-law_-venture-capital-and-the-making-of-the-new-future-sebastian-mallaby
+title: The Power Law Venture Capital and the Making of the New Future - Sebastian Mallaby
+slug: the-power-law-venture-capital-and-the-making-of-the-new-future-sebastian-mallaby
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-power-law_-venture-capital-and-the-making-of-the-new-future-sebastian-mallaby)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-power-law-venture-capital-and-the-making-of-the-new-future-sebastian-mallaby)
 
 
 

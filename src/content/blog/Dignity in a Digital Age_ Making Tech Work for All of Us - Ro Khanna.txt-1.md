@@ -1,5 +1,5 @@
 ---
-title: Dignity in a Digital Age_ Making Tech Work for All of Us - Ro Khanna
+title: Dignity in a Digital Age Making Tech Work for All of Us - Ro Khanna
 slug: dignity-in-a-digital-age-making-tech-work-for-all-of-us-ro-khanna
 tags: 
   - book-summary

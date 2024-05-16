@@ -1,6 +1,6 @@
 ---
 title: "The Greatness Mindset: Unlock the Power of Your Mind and Live Your Best Life Today"
-slug: the-greatness-mindset_-unlock-the-power-of-lewis-howes
+slug: the-greatness-mindset-unlock-the-power-of-lewis-howes
 tags: 
   - book-summary
 excerpt: ""

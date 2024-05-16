@@ -1,5 +1,5 @@
 ---
-title: Expected Goals_ The story of how data conq - Rory Smith
+title: Expected Goals The story of how data conq - Rory Smith
 slug: expected-goals-the-story-of-how-data-conq-rory-smith
 tags: 
   - book-summary

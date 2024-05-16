@@ -1,6 +1,6 @@
 ---
-title: The Automatic Customer_ Creating a Subscri - John Warrillow
-slug: the-automatic-customer_-creating-a-subscri-john-warrillow
+title: The Automatic Customer Creating a Subscri - John Warrillow
+slug: the-automatic-customer-creating-a-subscri-john-warrillow
 tags: 
   - book-summary
 excerpt: ""

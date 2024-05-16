@@ -1,6 +1,6 @@
 ---
-title: The Ascent of Information_ Books, Bits, Genes, Machines, and Life's Unending Algorithm - Caleb Scharf
-slug: the-ascent-of-information_-books-bits-genes-machines-and-life-s-unending-algorithm-caleb-scharf
+title: The Ascent of Information Books, Bits, Genes, Machines, and Life's Unending Algorithm - Caleb Scharf
+slug: the-ascent-of-information-books-bits-genes-machines-and-life-s-unending-algorithm-caleb-scharf
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-ascent-of-information_-books-bits-genes-machines-and-life-s-unending-algorithm-caleb-scharf)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-ascent-of-information-books-bits-genes-machines-and-life-s-unending-algorithm-caleb-scharf)
 
 
 

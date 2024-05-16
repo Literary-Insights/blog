@@ -1,5 +1,5 @@
 ---
-title: How to Write a Book Now_ Craft Concepts, Mindset Shifts, and Encouragement to Inspire Your Creative Writing - Kole, Mary
+title: How to Write a Book Now Craft Concepts, Mindset Shifts, and Encouragement to Inspire Your Creative Writing - Kole, Mary
 slug: how-to-write-a-book-now-craft-concepts-mindset-shifts-and-encouragement-to-inspire-your-creative-writing-kole-mary
 tags: 
   - book-summary

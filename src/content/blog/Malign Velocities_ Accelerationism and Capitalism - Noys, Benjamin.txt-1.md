@@ -1,5 +1,5 @@
 ---
-title: Malign Velocities_ Accelerationism and Capitalism - Noys, Benjamin
+title: Malign Velocities Accelerationism and Capitalism - Noys, Benjamin
 slug: malign-velocities-accelerationism-and-capitalism-noys-benjamin
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: Business Analysis Methodology Book _ Business Analyst's Guide to Requirements Analysis, Lean UX Design and Project Management at Lean Enterprises and Lean Startups - Yayici, Emrah
+title: Business Analysis Methodology Book  Business Analyst's Guide to Requirements Analysis, Lean UX Design and Project Management at Lean Enterprises and Lean Startups - Yayici, Emrah
 slug: business-analysis-methodology-book--business-analyst-s-guide-to-requirements-analysis-lean-ux-design-and-project-management-at-lean-enterprises-and-lean-startups-yayici-emrah
 tags: 
   - book-summary

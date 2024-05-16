@@ -1,5 +1,5 @@
 ---
-title: Elastic_ Flexible Thinking in a Time of Change - Leonard Mlodinow
+title: Elastic Flexible Thinking in a Time of Change - Leonard Mlodinow
 slug: elastic-flexible-thinking-in-a-time-of-change-leonard-mlodinow
 tags: 
   - book-summary

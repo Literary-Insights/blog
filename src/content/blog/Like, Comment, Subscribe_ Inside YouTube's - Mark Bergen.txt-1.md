@@ -1,5 +1,5 @@
 ---
-title: Like, Comment, Subscribe_ Inside YouTube's - Mark Bergen
+title: Like, Comment, Subscribe Inside YouTube's - Mark Bergen
 slug: like-comment-subscribe-inside-youtube-s-mark-bergen
 tags: 
   - book-summary

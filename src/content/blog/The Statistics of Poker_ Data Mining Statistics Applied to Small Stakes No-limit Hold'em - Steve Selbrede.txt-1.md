@@ -1,6 +1,6 @@
 ---
-title: The Statistics of Poker_ Data Mining Statistics Applied to Small Stakes No-limit Hold'em - Steve Selbrede
-slug: the-statistics-of-poker_-data-mining-statistics-applied-to-small-stakes-no-limit-hold-em-steve-selbrede
+title: The Statistics of Poker Data Mining Statistics Applied to Small Stakes No-limit Hold'em - Steve Selbrede
+slug: the-statistics-of-poker-data-mining-statistics-applied-to-small-stakes-no-limit-hold-em-steve-selbrede
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-statistics-of-poker_-data-mining-statistics-applied-to-small-stakes-no-limit-hold-em-steve-selbrede)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-statistics-of-poker-data-mining-statistics-applied-to-small-stakes-no-limit-hold-em-steve-selbrede)
 
 
 

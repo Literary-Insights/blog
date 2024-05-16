@@ -1,5 +1,5 @@
 ---
-title: How We Learn_ Why Brains Learn Better Than Any Machine . . . for Now - Stanislas Dehaene
+title: How We Learn Why Brains Learn Better Than Any Machine . . . for Now - Stanislas Dehaene
 slug: how-we-learn-why-brains-learn-better-than-any-machine-for-now-stanislas-dehaene
 tags: 
   - book-summary

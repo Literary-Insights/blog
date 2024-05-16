@@ -1,5 +1,5 @@
 ---
-title: How People Grow_ What the Bible Reveals ab - Dr. Henry Cloud, Dr. John Townsend
+title: How People Grow What the Bible Reveals ab - Dr. Henry Cloud, Dr. John Townsend
 slug: how-people-grow-what-the-bible-reveals-ab-dr-henry-cloud-dr-john-townsend 
 tags: 
   - book-summary

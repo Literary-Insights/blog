@@ -1,5 +1,5 @@
 ---
-title: Human Compatible_ Artificial Intelligence and the Problem of Control - Stuart Russell
+title: Human Compatible Artificial Intelligence and the Problem of Control - Stuart Russell
 slug: human-compatible-artificial-intelligence-and-the-problem-of-control-stuart-russell
 tags: 
   - book-summary

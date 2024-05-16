@@ -1,5 +1,5 @@
 ---
-title: Coffee Isn’t Rocket Science_ A Quick And Easy Guide To Buying, Brewing, Serving, Roasting, Chung-Leng Tran, Yannis Varoutsikos & Jackie Smith & Chung-Leng Tran & Yannis Varoutsikos
+title: Coffee Isn’t Rocket Science A Quick And Easy Guide To Buying, Brewing, Serving, Roasting, Chung-Leng Tran, Yannis Varoutsikos & Jackie Smith & Chung-Leng Tran & Yannis Varoutsikos
 slug: coffee-isn-t-rocket-science-a-quick-and-easy-guide-to-buying-brewing-serving-roasting-chung-leng-tran-yannis-varoutsikos-jackie-smith-chung-leng-tran-yannis-varoutsikos
 tags: 
   - book-summary

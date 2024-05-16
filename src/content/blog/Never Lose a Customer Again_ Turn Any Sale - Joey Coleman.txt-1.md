@@ -1,6 +1,6 @@
 ---
-title: Never Lose a Customer Again_ Turn Any Sale - Joey Coleman
-slug: never-lose-a-customer-again_-turn-any-sale-joey-coleman
+title: Never Lose a Customer Again Turn Any Sale - Joey Coleman
+slug: never-lose-a-customer-again-turn-any-sale-joey-coleman
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=never-lose-a-customer-again_-turn-any-sale-joey-coleman)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=never-lose-a-customer-again-turn-any-sale-joey-coleman)
 
 
 

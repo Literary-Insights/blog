@@ -998,7 +998,7 @@ The acknowledgments highlight the author’s gratitude to the many agents, edito
 
 • To instigate a behavior for someone below the Action Line, either motivation needs to increase, the behavior needs to be made more accessible, or both.
 
-• Tiny Habits recipes can be written on index cards in the After I____, I will _____ format. Reviewing and revising these cards can help build the habits.
+• Tiny Habits recipes can be written on index cards in the After I____, I will ____ format. Reviewing and revising these cards can help build the habits.
 
  Here is a summary of the graphic:
 

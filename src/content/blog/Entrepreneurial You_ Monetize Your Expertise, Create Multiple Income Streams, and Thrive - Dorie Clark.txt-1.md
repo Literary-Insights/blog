@@ -1,5 +1,5 @@
 ---
-title: Entrepreneurial You_ Monetize Your Expertise, Create Multiple Income Streams, and Thrive - Dorie Clark
+title: Entrepreneurial You Monetize Your Expertise, Create Multiple Income Streams, and Thrive - Dorie Clark
 slug: entrepreneurial-you-monetize-your-expertise-create-multiple-income-streams-and-thrive-dorie-clark
 tags: 
   - book-summary

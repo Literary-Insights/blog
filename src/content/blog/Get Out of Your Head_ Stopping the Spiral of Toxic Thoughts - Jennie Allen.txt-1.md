@@ -1,5 +1,5 @@
 ---
-title: Get Out of Your Head_ Stopping the Spiral of Toxic Thoughts - Jennie Allen
+title: Get Out of Your Head Stopping the Spiral of Toxic Thoughts - Jennie Allen
 slug: get-out-of-your-head-stopping-the-spiral-of-toxic-thoughts-jennie-allen
 tags: 
   - book-summary

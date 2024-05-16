@@ -1,5 +1,5 @@
 ---
-title: Learning How to Learn_ How to Succeed in S - Barbara Oakley
+title: Learning How to Learn How to Succeed in S - Barbara Oakley
 slug: learning-how-to-learn-how-to-succeed-in-s-barbara-oakley
 tags: 
   - book-summary

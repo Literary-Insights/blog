@@ -1,6 +1,6 @@
 ---
-title: The Big Short_ Inside the Doomsday Machine - Michael Lewis
-slug: the-big-short_-inside-the-doomsday-machine-michael-lewis
+title: The Big Short Inside the Doomsday Machine - Michael Lewis
+slug: the-big-short-inside-the-doomsday-machine-michael-lewis
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-big-short_-inside-the-doomsday-machine-michael-lewis)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-big-short-inside-the-doomsday-machine-michael-lewis)
 
 
 

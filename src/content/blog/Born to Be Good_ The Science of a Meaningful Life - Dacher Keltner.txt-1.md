@@ -1,5 +1,5 @@
 ---
-title: Born to Be Good_ The Science of a Meaningful Life - Dacher Keltner
+title: Born to Be Good The Science of a Meaningful Life - Dacher Keltner
 slug: born-to-be-good-the-science-of-a-meaningful-life-dacher-keltner
 tags: 
   - book-summary

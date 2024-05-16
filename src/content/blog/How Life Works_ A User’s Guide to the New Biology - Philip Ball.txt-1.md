@@ -1,5 +1,5 @@
 ---
-title: How Life Works_ A User’s Guide to the New Biology - Philip Ball
+title: How Life Works A User’s Guide to the New Biology - Philip Ball
 slug: how-life-works-a-user-s-guide-to-the-new-biology-philip-ball
 tags: 
   - book-summary

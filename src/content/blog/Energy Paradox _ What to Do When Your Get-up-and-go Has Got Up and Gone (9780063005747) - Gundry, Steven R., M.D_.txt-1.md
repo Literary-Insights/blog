@@ -1,5 +1,5 @@
 ---
-title: Energy Paradox _ What to Do When Your Get-up-and-go Has Got Up and Gone (9780063005747) - Gundry, Steven R., M.D_
+title: Energy Paradox  What to Do When Your Get-up-and-go Has Got Up and Gone (9780063005747) - Gundry, Steven R., M.D_
 slug: energy-paradox--what-to-do-when-your-get-up-and-go-has-got-up-and-gone-9780063005747-gundry-steven-r-m-d_
 tags: 
   - book-summary

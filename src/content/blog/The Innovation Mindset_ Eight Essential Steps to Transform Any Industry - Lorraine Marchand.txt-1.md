@@ -1,6 +1,6 @@
 ---
-title: The Innovation Mindset_ Eight Essential Steps to Transform Any Industry - Lorraine Marchand
-slug: the-innovation-mindset_-eight-essential-steps-to-transform-any-industry-lorraine-marchand
+title: The Innovation Mindset Eight Essential Steps to Transform Any Industry - Lorraine Marchand
+slug: the-innovation-mindset-eight-essential-steps-to-transform-any-industry-lorraine-marchand
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-innovation-mindset_-eight-essential-steps-to-transform-any-industry-lorraine-marchand)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-innovation-mindset-eight-essential-steps-to-transform-any-industry-lorraine-marchand)
 
 
 

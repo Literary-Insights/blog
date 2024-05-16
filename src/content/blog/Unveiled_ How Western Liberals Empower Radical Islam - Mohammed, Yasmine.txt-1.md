@@ -1,6 +1,6 @@
 ---
-title: Unveiled_ How Western Liberals Empower Radical Islam - Mohammed, Yasmine
-slug: unveiled_-how-western-liberals-empower-radical-islam-mohammed-yasmine
+title: Unveiled How Western Liberals Empower Radical Islam - Mohammed, Yasmine
+slug: unveiled-how-western-liberals-empower-radical-islam-mohammed-yasmine
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=unveiled_-how-western-liberals-empower-radical-islam-mohammed-yasmine)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=unveiled-how-western-liberals-empower-radical-islam-mohammed-yasmine)
 
 
 

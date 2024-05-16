@@ -1,5 +1,5 @@
 ---
-title: Become a Genius (2nd Edition)_ Secrets to - Marco Guerrero
+title: Become a Genius (2nd Edition) Secrets to - Marco Guerrero
 slug: become-a-genius-2nd-edition--secrets-to-marco-guerrero
 tags: 
   - book-summary

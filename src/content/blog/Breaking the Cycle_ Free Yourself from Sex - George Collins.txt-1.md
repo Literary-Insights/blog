@@ -1,5 +1,5 @@
 ---
-title: Breaking the Cycle_ Free Yourself from Sex - George Collins
+title: Breaking the Cycle Free Yourself from Sex - George Collins
 slug: breaking-the-cycle-free-yourself-from-sex-george-collins
 tags: 
   - book-summary

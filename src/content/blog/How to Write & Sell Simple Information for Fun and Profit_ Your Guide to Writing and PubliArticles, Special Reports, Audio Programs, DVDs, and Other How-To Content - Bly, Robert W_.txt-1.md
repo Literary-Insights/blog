@@ -1,5 +1,5 @@
 ---
-title: How to Write & Sell Simple Information for Fun and Profit_ Your Guide to Writing and PubliArticles, Special Reports, Audio Programs, DVDs, and Other How-To Content - Bly, Robert W_
+title: How to Write & Sell Simple Information for Fun and Profit Your Guide to Writing and PubliArticles, Special Reports, Audio Programs, DVDs, and Other How-To Content - Bly, Robert W_
 slug: how-to-write-sell-simple-information-for-fun-and-profit-your-guide-to-writing-and-publiarticles-special-reports-audio-programs-dvds-and-other-how-to-content-bly-robert-w_
 tags: 
   - book-summary

@@ -1,20 +1,20 @@
 ---
-title: "Infectious Generosity_ The Ultimate Idea Worth Spreading - Chris Anderson"
-slug: infectious-generosity_-the-ultimate-idea-worth-spreading-chris-anderson
+title: "Infectious Generosity The Ultimate Idea Worth Spreading - Chris Anderson"
+slug: infectious-generosity-the-ultimate-idea-worth-spreading-chris-anderson
 tags: 
   - book-summary
 excerpt: ""
 category: "self-help"
 author: "matheus-puppe"
 publishDate: "2024-05-02T01:12:15.189Z"
-image: "./src/assets/book_images/Infectious Generosity_ The Ultimate Idea Worth Spreading - Chris Anderson.jpg"
+image: "./src/assets/book_images/Infectious Generosity The Ultimate Idea Worth Spreading - Chris Anderson.jpg"
 ---
 
 **"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=infectious-generosity_-the-ultimate-idea-worth-spreading-chris-anderson)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=infectious-generosity-the-ultimate-idea-worth-spreading-chris-anderson)
 
 
 

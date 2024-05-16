@@ -1,5 +1,5 @@
 ---
-title: Grasp_ The Science Transforming How We Learn - Sanjay Sarma & Luke Yoquinto
+title: Grasp The Science Transforming How We Learn - Sanjay Sarma & Luke Yoquinto
 slug: grasp-the-science-transforming-how-we-learn-sanjay-sarma-luke-yoquinto
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: Dopamine Detox_ A Short Guide to Eliminate - meurisse, thibaut
+title: Dopamine Detox A Short Guide to Eliminate - meurisse, thibaut
 slug: dopamine-detox-a-short-guide-to-eliminate-meurisse-thibaut
 tags: 
   - book-summary

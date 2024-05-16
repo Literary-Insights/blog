@@ -1,5 +1,5 @@
 ---
-title: How to Get Ahead_ A Proven 6-Step System t - Zak Slayback
+title: How to Get Ahead A Proven 6-Step System t - Zak Slayback
 slug: how-to-get-ahead-a-proven-6-step-system-t-zak-slayback
 tags: 
   - book-summary

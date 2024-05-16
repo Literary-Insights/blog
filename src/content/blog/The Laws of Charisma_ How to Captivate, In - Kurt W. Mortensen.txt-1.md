@@ -1,6 +1,6 @@
 ---
-title: The Laws of Charisma_ How to Captivate, In - Kurt W. Mortensen
-slug: the-laws-of-charisma_-how-to-captivate-in-kurt-w-mortensen
+title: The Laws of Charisma How to Captivate, In - Kurt W. Mortensen
+slug: the-laws-of-charisma-how-to-captivate-in-kurt-w-mortensen
 tags: 
   - book-summary
 excerpt: ""
@@ -379,7 +379,7 @@ Rate Your People Skills
 
 Add your score to page 182. 
 
-_________________________________________________________________________  
+________________________________________________________________________  
 
 0
 

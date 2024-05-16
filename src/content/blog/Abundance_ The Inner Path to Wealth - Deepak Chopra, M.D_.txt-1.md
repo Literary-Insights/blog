@@ -1,5 +1,5 @@
 ---
-title: Abundance_ The Inner Path to Wealth - Deepak Chopra, M.D
+title: Abundance The Inner Path to Wealth - Deepak Chopra, M.D
 slug: abundance-the-inner-path-to-wealth-deepak-chopra-m-d_
 tags: 
   - book-summary

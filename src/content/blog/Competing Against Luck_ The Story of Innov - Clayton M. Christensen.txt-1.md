@@ -1,5 +1,5 @@
 ---
-title: Competing Against Luck_ The Story of Innov - Clayton M. Christensen
+title: Competing Against Luck The Story of Innov - Clayton M. Christensen
 slug: competing-against-luck-the-story-of-innov-clayton-m-christensen
 tags: 
   - book-summary

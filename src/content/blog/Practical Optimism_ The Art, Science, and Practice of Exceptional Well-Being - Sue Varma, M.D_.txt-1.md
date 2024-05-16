@@ -1,6 +1,6 @@
 ---
-title: Practical Optimism_ The Art, Science, and Practice of Exceptional Well-Being - Sue Varma, M.D_
-slug: practical-optimism_-the-art-science-and-practice-of-exceptional-well-being-sue-varma-m-d_
+title: Practical Optimism The Art, Science, and Practice of Exceptional Well-Being - Sue Varma, M.D_
+slug: practical-optimism-the-art-science-and-practice-of-exceptional-well-being-sue-varma-m-d_
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=practical-optimism_-the-art-science-and-practice-of-exceptional-well-being-sue-varma-m-d_)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=practical-optimism-the-art-science-and-practice-of-exceptional-well-being-sue-varma-m-d_)
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: Humble Pi_ When Math Goes Wrong in the Real World - Matt Parker
+title: Humble Pi When Math Goes Wrong in the Real World - Matt Parker
 slug: humble-pi-when-math-goes-wrong-in-the-real-world-matt-parker
 tags: 
   - book-summary

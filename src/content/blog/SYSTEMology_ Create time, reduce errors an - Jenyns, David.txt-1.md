@@ -1,6 +1,6 @@
 ---
-title: SYSTEMology_ Create time, reduce errors an - Jenyns, David
-slug: systemology_-create-time-reduce-errors-an-jenyns-david
+title: SYSTEMology Create time, reduce errors an - Jenyns, David
+slug: systemology-create-time-reduce-errors-an-jenyns-david
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
-title: The Hidden Wealth of Nations_ The Scourge of Tax Havens - Gabriel Zucman & Teresa Lavender Fagan (Translator) & Thomas Piketty (Foreword)
-slug: the-hidden-wealth-of-nations_-the-scourge-of-tax-havens-gabriel-zucman-teresa-lavender-fagan-translator-thomas-piketty-foreword-
+title: The Hidden Wealth of Nations The Scourge of Tax Havens - Gabriel Zucman & Teresa Lavender Fagan (Translator) & Thomas Piketty (Foreword)
+slug: the-hidden-wealth-of-nations-the-scourge-of-tax-havens-gabriel-zucman-teresa-lavender-fagan-translator-thomas-piketty-foreword-
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-hidden-wealth-of-nations_-the-scourge-of-tax-havens-gabriel-zucman-teresa-lavender-fagan-translator-thomas-piketty-foreword-)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-hidden-wealth-of-nations-the-scourge-of-tax-havens-gabriel-zucman-teresa-lavender-fagan-translator-thomas-piketty-foreword-)
 
 
 

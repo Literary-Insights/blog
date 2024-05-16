@@ -1,6 +1,6 @@
 ---
-title: Supercommunicators_ How to Unlock the Secret Language of Connection - Charles Duhigg
-slug: supercommunicators_-how-to-unlock-the-secret-language-of-connection-charles-duhigg
+title: Supercommunicators How to Unlock the Secret Language of Connection - Charles Duhigg
+slug: supercommunicators-how-to-unlock-the-secret-language-of-connection-charles-duhigg
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=supercommunicators_-how-to-unlock-the-secret-language-of-connection-charles-duhigg)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=supercommunicators-how-to-unlock-the-secret-language-of-connection-charles-duhigg)
 
 
 

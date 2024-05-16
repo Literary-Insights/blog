@@ -1,6 +1,6 @@
 ---
-title: Stealth War_ How China Took Over While America's Elite Slept - Robert Spalding
-slug: stealth-war_-how-china-took-over-while-america-s-elite-slept-robert-spalding
+title: Stealth War How China Took Over While America's Elite Slept - Robert Spalding
+slug: stealth-war-how-china-took-over-while-america-s-elite-slept-robert-spalding
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=stealth-war_-how-china-took-over-while-america-s-elite-slept-robert-spalding)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=stealth-war-how-china-took-over-while-america-s-elite-slept-robert-spalding)
 
 
 

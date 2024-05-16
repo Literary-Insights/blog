@@ -1,6 +1,6 @@
 ---
-title: Too Big to Know_ Rethinking Knowledge Now That the Facts Aren't the Facts, Experts Are Everywhere, and the Smartest P - David Weinberger
-slug: too-big-to-know_-rethinking-knowledge-now-that-the-facts-aren-t-the-facts-experts-are-everywhere-and-the-smartest-p-david-weinberger
+title: Too Big to Know Rethinking Knowledge Now That the Facts Aren't the Facts, Experts Are Everywhere, and the Smartest P - David Weinberger
+slug: too-big-to-know-rethinking-knowledge-now-that-the-facts-aren-t-the-facts-experts-are-everywhere-and-the-smartest-p-david-weinberger
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=too-big-to-know_-rethinking-knowledge-now-that-the-facts-aren-t-the-facts-experts-are-everywhere-and-the-smartest-p-david-weinberger)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=too-big-to-know-rethinking-knowledge-now-that-the-facts-aren-t-the-facts-experts-are-everywhere-and-the-smartest-p-david-weinberger)
 
 
 

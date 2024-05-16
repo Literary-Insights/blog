@@ -1,6 +1,6 @@
 ---
-title: The Accidental Billionaires_ The Founding - Ben Mezrich
-slug: the-accidental-billionaires_-the-founding-ben-mezrich
+title: The Accidental Billionaires The Founding - Ben Mezrich
+slug: the-accidental-billionaires-the-founding-ben-mezrich
 tags: 
   - book-summary
 excerpt: ""

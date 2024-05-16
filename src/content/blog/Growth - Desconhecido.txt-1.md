@@ -2340,7 +2340,7 @@ Culture. London: Fitzroy Dearborn, pp. 311–317.
 
 Powsner, S. 2019. Linear electric motor with integrated secondary guide carriage.
 
-https:// www . nasa . gov / directorates / spacetech / home / feature _ mechanic . htm.
+https:// www . nasa . gov / directorates / spacetech / home / feature  mechanic . htm.
 
 Prescod, T. C. 2014. A General Theory of Living Systems: Life, Time and Evolution’s
 
@@ -2424,7 +2424,7 @@ don. Cambridge: Cambridge University Press.
 
 Raso, A. M. 2001. Gene rate life and statistical curves: Two perspectives of the same sys-
 
-tem. Boca Raton, FL: Universal Publishers. http:// lulu . com / items / volume _ 22 / 330000 /
+tem. Boca Raton, FL: Universal Publishers. http:// lulu . com / items / volume  22 / 330000 /
 
 330091 / 1 / print / 330091 . pdf.
 

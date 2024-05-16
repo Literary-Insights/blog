@@ -1,6 +1,6 @@
 ---
-title: The Minimalist Program_ 20th Anniversary Edition - Noam Chomsky
-slug: the-minimalist-program_-20th-anniversary-edition-noam-chomsky
+title: The Minimalist Program 20th Anniversary Edition - Noam Chomsky
+slug: the-minimalist-program-20th-anniversary-edition-noam-chomsky
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-minimalist-program_-20th-anniversary-edition-noam-chomsky)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-minimalist-program-20th-anniversary-edition-noam-chomsky)
 
 
 

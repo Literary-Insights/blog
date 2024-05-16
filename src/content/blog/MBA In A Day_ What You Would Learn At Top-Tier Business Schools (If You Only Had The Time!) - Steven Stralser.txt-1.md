@@ -1,5 +1,5 @@
 ---
-title: MBA In A Day_ What You Would Learn At Top-Tier Business Schools (If You Only Had The Time!) - Steven Stralser
+title: MBA In A Day What You Would Learn At Top-Tier Business Schools (If You Only Had The Time!) - Steven Stralser
 slug: mba-in-a-day-what-you-would-learn-at-top-tier-business-schools-if-you-only-had-the-time-steven-stralser
 tags: 
   - book-summary

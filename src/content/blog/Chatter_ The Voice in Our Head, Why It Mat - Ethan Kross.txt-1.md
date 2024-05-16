@@ -1,5 +1,5 @@
 ---
-title: Chatter_ The Voice in Our Head, Why It Mat - Ethan Kross
+title: Chatter The Voice in Our Head, Why It Mat - Ethan Kross
 slug: chatter-the-voice-in-our-head-why-it-mat-ethan-kross
 tags: 
   - book-summary

@@ -1,6 +1,6 @@
 ---
-title: The Coffee Book_ Barista tips _ recipes _ beans from around the world - Anette Moldvaer
-slug: the-coffee-book_-barista-tips-_-recipes-_-beans-from-around-the-world-anette-moldvaer
+title: The Coffee Book Barista tips  recipes  beans from around the world - Anette Moldvaer
+slug: the-coffee-book-barista-tips--recipes--beans-from-around-the-world-anette-moldvaer
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-coffee-book_-barista-tips-_-recipes-_-beans-from-around-the-world-anette-moldvaer)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-coffee-book-barista-tips--recipes--beans-from-around-the-world-anette-moldvaer)
 
 
 

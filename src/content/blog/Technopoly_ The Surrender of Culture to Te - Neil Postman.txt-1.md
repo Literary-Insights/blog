@@ -1,6 +1,6 @@
 ---
-title: Technopoly_ The Surrender of Culture to Te - Neil Postman
-slug: technopoly_-the-surrender-of-culture-to-te-neil-postman
+title: Technopoly The Surrender of Culture to Te - Neil Postman
+slug: technopoly-the-surrender-of-culture-to-te-neil-postman
 tags: 
   - book-summary
 excerpt: ""

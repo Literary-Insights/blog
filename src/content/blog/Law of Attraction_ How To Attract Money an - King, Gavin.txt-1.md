@@ -1,5 +1,5 @@
 ---
-title: Law of Attraction_ How To Attract Money an - King, Gavin
+title: Law of Attraction How To Attract Money an - King, Gavin
 slug: law-of-attraction-how-to-attract-money-an-king-gavin
 tags: 
   - book-summary

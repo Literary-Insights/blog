@@ -1,6 +1,6 @@
 ---
-title: Persuasion Tactics_ Covert Psychology Strategies to Influence, Persuade, & Get Your Way (Without Manipulation) - Patrick King
-slug: persuasion-tactics_-covert-psychology-strategies-to-influence-persuade-get-your-way-without-manipulation-patrick-king
+title: Persuasion Tactics Covert Psychology Strategies to Influence, Persuade, & Get Your Way (Without Manipulation) - Patrick King
+slug: persuasion-tactics-covert-psychology-strategies-to-influence-persuade-get-your-way-without-manipulation-patrick-king
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=persuasion-tactics_-covert-psychology-strategies-to-influence-persuade-get-your-way-without-manipulation-patrick-king)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=persuasion-tactics-covert-psychology-strategies-to-influence-persuade-get-your-way-without-manipulation-patrick-king)
 
 
 

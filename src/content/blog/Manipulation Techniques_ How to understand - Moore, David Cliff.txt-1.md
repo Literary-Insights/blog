@@ -1,5 +1,5 @@
 ---
-title: Manipulation Techniques_ How to understand - Moore, David Cliff
+title: Manipulation Techniques How to understand - Moore, David Cliff
 slug: manipulation-techniques-how-to-understand-moore-david-cliff
 tags: 
   - book-summary

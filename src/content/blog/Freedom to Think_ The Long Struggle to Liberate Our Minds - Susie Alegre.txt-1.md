@@ -1,5 +1,5 @@
 ---
-title: Freedom to Think_ The Long Struggle to Liberate Our Minds - Susie Alegre
+title: Freedom to Think The Long Struggle to Liberate Our Minds - Susie Alegre
 slug: freedom-to-think-the-long-struggle-to-liberate-our-minds-susie-alegre
 tags: 
   - book-summary

@@ -1,6 +1,6 @@
 ---
-title: Presence_ Bringing Your Boldest Self to Yo - Amy Cuddy
-slug: presence_-bringing-your-boldest-self-to-yo-amy-cuddy
+title: Presence Bringing Your Boldest Self to Yo - Amy Cuddy
+slug: presence-bringing-your-boldest-self-to-yo-amy-cuddy
 tags: 
   - book-summary
 excerpt: ""

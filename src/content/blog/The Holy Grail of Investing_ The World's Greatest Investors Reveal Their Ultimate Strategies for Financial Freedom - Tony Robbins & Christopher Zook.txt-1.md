@@ -1,6 +1,6 @@
 ---
-title: The Holy Grail of Investing_ The World's Greatest Investors Reveal Their Ultimate Strategies for Financial Freedom - Tony Robbins & Christopher Zook
-slug: the-holy-grail-of-investing_-the-world-s-greatest-investors-reveal-their-ultimate-strategies-for-financial-freedom-tony-robbins-christopher-zook
+title: The Holy Grail of Investing The World's Greatest Investors Reveal Their Ultimate Strategies for Financial Freedom - Tony Robbins & Christopher Zook
+slug: the-holy-grail-of-investing-the-world-s-greatest-investors-reveal-their-ultimate-strategies-for-financial-freedom-tony-robbins-christopher-zook
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-holy-grail-of-investing_-the-world-s-greatest-investors-reveal-their-ultimate-strategies-for-financial-freedom-tony-robbins-christopher-zook)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-holy-grail-of-investing-the-world-s-greatest-investors-reveal-their-ultimate-strategies-for-financial-freedom-tony-robbins-christopher-zook)
 
 
 

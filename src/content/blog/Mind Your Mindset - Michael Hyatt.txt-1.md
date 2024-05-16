@@ -7,7 +7,7 @@ excerpt: ""
 category: "self-help"
 author: "matheus-puppe"
 publishDate: "2024-05-03T12:44:15.598Z"
-image: "./src/assets/book_images/Mindshift_ Break Through Obstacles to Learning and Discover Your Hidden Potential - Barbara Oakley.jpg"
+image: "./src/assets/book_images/Mindshift Break Through Obstacles to Learning and Discover Your Hidden Potential - Barbara Oakley.jpg"
 ---
 
 **"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**

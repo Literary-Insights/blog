@@ -1,6 +1,6 @@
 ---
-title: "How to Make Sh_t Happen_ Make more money, get in better shape, create epic relationships and control your life! - Sean Whalen"
-slug: how-to-make-sh_t-happen_-make-more-money-get-in-better-shape-create-epic-relationships-and-control-your-life-sean-whalen
+title: "How to Make Sh_t Happen Make more money, get in better shape, create epic relationships and control your life! - Sean Whalen"
+slug: how-to-make-sh_t-happen-make-more-money-get-in-better-shape-create-epic-relationships-and-control-your-life-sean-whalen
 tags: 
   - book-summary
 excerpt: ""
@@ -14,7 +14,7 @@ image: "./src/assets/book_images/default_book.webp"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=how-to-make-sh_t-happen_-make-more-money-get-in-better-shape-create-epic-relationships-and-control-your-life-sean-whalen)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=how-to-make-sh_t-happen-make-more-money-get-in-better-shape-create-epic-relationships-and-control-your-life-sean-whalen)
 
 
 

@@ -1,6 +1,6 @@
 ---
-title: The Art of Noticing_ 131 Ways to Spark Creativity, Find Inspiration, and Discover Joy in the Everyday - Rob Walker;
-slug: the-art-of-noticing_-131-ways-to-spark-creativity-find-inspiration-and-discover-joy-in-the-everyday-rob-walker-
+title: The Art of Noticing 131 Ways to Spark Creativity, Find Inspiration, and Discover Joy in the Everyday - Rob Walker;
+slug: the-art-of-noticing-131-ways-to-spark-creativity-find-inspiration-and-discover-joy-in-the-everyday-rob-walker-
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-art-of-noticing_-131-ways-to-spark-creativity-find-inspiration-and-discover-joy-in-the-everyday-rob-walker-)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-art-of-noticing-131-ways-to-spark-creativity-find-inspiration-and-discover-joy-in-the-everyday-rob-walker-)
 
 
 

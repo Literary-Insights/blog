@@ -1,5 +1,5 @@
 ---
-title: Matchmakers_ The New Economics of Multisided Platforms - David S. Evans & Richard Schmalensee
+title: Matchmakers The New Economics of Multisided Platforms - David S. Evans & Richard Schmalensee
 slug: matchmakers-the-new-economics-of-multisided-platforms-david-s-evans-richard-schmalensee
 tags: 
   - book-summary

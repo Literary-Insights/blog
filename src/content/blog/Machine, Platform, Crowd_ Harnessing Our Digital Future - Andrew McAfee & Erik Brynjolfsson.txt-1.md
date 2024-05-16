@@ -1,5 +1,5 @@
 ---
-title: Machine, Platform, Crowd_ Harnessing Our Digital Future - Andrew McAfee & Erik Brynjolfsson
+title: Machine, Platform, Crowd Harnessing Our Digital Future - Andrew McAfee & Erik Brynjolfsson
 slug: machine-platform-crowd-harnessing-our-digital-future-andrew-mcafee-erik-brynjolfsson
 tags: 
   - book-summary

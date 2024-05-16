@@ -1,5 +1,5 @@
 ---
-title: Four Thousand Weeks_ Time Management for Mortals - Oliver Burkeman
+title: Four Thousand Weeks Time Management for Mortals - Oliver Burkeman
 slug: four-thousand-weeks-time-management-for-mortals-oliver-burkeman
 tags: 
   - book-summary

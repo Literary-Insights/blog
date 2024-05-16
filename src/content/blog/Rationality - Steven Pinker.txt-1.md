@@ -1087,7 +1087,7 @@ The passage also briefly mentions academia and universities in relation to educa
 
 - Moving the goalposts - Changing standards of evidence after objection has shown original claim is indefensible.
 
-- No true Scotsman - Excluding counterexamples with an _ad hoc_ redefinition. 
+- No true Scotsman - Excluding counterexamples with an _ad hoc redefinition. 
 
 - Paradox of the heap - Sorites paradox concerning vague concepts like "heap of sand."
 

@@ -1,6 +1,6 @@
 ---
-title: Why Save the Bankers_ - Thomas Piketty
-slug: why-save-the-bankers_-thomas-piketty
+title: Why Save the Bankers - Thomas Piketty
+slug: why-save-the-bankers-thomas-piketty
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=why-save-the-bankers_-thomas-piketty)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=why-save-the-bankers-thomas-piketty)
 
 
 

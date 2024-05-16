@@ -1,6 +1,6 @@
 ---
-title: My Morning Routine_ How Successful People Start Every Day Inspired - Benjamin Spall & Michael Xander
-slug: my-morning-routine_-how-successful-people-start-every-day-inspired-benjamin-spall-michael-xander
+title: My Morning Routine How Successful People Start Every Day Inspired - Benjamin Spall & Michael Xander
+slug: my-morning-routine-how-successful-people-start-every-day-inspired-benjamin-spall-michael-xander
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=my-morning-routine_-how-successful-people-start-every-day-inspired-benjamin-spall-michael-xander)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=my-morning-routine-how-successful-people-start-every-day-inspired-benjamin-spall-michael-xander)
 
 
 

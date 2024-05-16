@@ -1,6 +1,6 @@
 ---
-title: Rise and Fall of the Great Powers_ Economic Change and Military Conflict From 1500 to 2000, The - Paul M. Kennedy
-slug: rise-and-fall-of-the-great-powers_-economic-change-and-military-conflict-from-1500-to-2000-the-paul-m-kennedy
+title: Rise and Fall of the Great Powers Economic Change and Military Conflict From 1500 to 2000, The - Paul M. Kennedy
+slug: rise-and-fall-of-the-great-powers-economic-change-and-military-conflict-from-1500-to-2000-the-paul-m-kennedy
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=rise-and-fall-of-the-great-powers_-economic-change-and-military-conflict-from-1500-to-2000-the-paul-m-kennedy)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=rise-and-fall-of-the-great-powers-economic-change-and-military-conflict-from-1500-to-2000-the-paul-m-kennedy)
 
 
 

@@ -1,20 +1,20 @@
 ---
 title: "Champion Thinking - How to Find Success Without Losing Yourself - Mundie Simon"
-slug: champion-thinking_-how-to-find-success-without-losing-yourself-mundie-simon
+slug: champion-thinking-how-to-find-success-without-losing-yourself-mundie-simon
 tags: 
   - book-summary
 excerpt: ""
 category: "self-help"
 author: "matheus-puppe"
 publishDate: "2024-05-02T01:12:15.297Z"
-image: "./src/assets/book_images/Champion Thinking_ How to Find Success Without Losing Yourself - Mundie Simon.jpg"
+image: "./src/assets/book_images/Champion Thinking How to Find Success Without Losing Yourself - Mundie Simon.jpg"
 ---
 
 **"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=champion-thinking_-how-to-find-success-without-losing-yourself-mundie-simon)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=champion-thinking-how-to-find-success-without-losing-yourself-mundie-simon)
 
 
 

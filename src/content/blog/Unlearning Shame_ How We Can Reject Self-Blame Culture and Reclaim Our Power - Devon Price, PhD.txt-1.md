@@ -1,6 +1,6 @@
 ---
-title: "Unlearning Shame_ How We Can Reject Self-Blame Culture and Reclaim Our Power - Devon Price, PhD"
-slug: unlearning-shame_-how-we-can-reject-self-blame-culture-and-reclaim-our-power-devon-price-phd
+title: "Unlearning Shame How We Can Reject Self-Blame Culture and Reclaim Our Power - Devon Price, PhD"
+slug: unlearning-shame-how-we-can-reject-self-blame-culture-and-reclaim-our-power-devon-price-phd
 tags: 
   - book-summary
 excerpt: ""
@@ -14,7 +14,7 @@ image: "./src/assets/book_images/default_book.webp"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=unlearning-shame_-how-we-can-reject-self-blame-culture-and-reclaim-our-power-devon-price-phd)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=unlearning-shame-how-we-can-reject-self-blame-culture-and-reclaim-our-power-devon-price-phd)
 
 
 

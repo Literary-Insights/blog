@@ -1,6 +1,6 @@
 ---
-title: Obedience to Authority_ An Experimental Vi - Stanley Milgram
-slug: obedience-to-authority_-an-experimental-vi-stanley-milgram
+title: Obedience to Authority An Experimental Vi - Stanley Milgram
+slug: obedience-to-authority-an-experimental-vi-stanley-milgram
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
-title: My Creative (Side) Business_ The insightful guide to turning your side projects into a full-time creative business (Insightful Guides for Freelancers) - Monika Kanokova
-slug: my-creative-side-business_-the-insightful-guide-to-turning-your-side-projects-into-a-full-time-creative-business-insightful-guides-for-freelancers-monika-kanokova
+title: My Creative (Side) Business The insightful guide to turning your side projects into a full-time creative business (Insightful Guides for Freelancers) - Monika Kanokova
+slug: my-creative-side-business-the-insightful-guide-to-turning-your-side-projects-into-a-full-time-creative-business-insightful-guides-for-freelancers-monika-kanokova
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=my-creative-side-business_-the-insightful-guide-to-turning-your-side-projects-into-a-full-time-creative-business-insightful-guides-for-freelancers-monika-kanokova)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=my-creative-side-business-the-insightful-guide-to-turning-your-side-projects-into-a-full-time-creative-business-insightful-guides-for-freelancers-monika-kanokova)
 
 
 

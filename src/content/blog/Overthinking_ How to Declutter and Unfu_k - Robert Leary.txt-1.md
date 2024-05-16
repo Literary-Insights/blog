@@ -1,6 +1,6 @@
 ---
-title: Overthinking_ How to Declutter and Unfu_k - Robert Leary
-slug: overthinking_-how-to-declutter-and-unfu_k-robert-leary
+title: Overthinking How to Declutter and Unfu_k - Robert Leary
+slug: overthinking-how-to-declutter-and-unfu_k-robert-leary
 tags: 
   - book-summary
 excerpt: ""

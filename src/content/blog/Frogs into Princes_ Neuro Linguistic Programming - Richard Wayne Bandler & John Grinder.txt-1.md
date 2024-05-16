@@ -1,5 +1,5 @@
 ---
-title: Frogs into Princes_ Neuro Linguistic Programming - Richard Wayne Bandler & John Grinder
+title: Frogs into Princes Neuro Linguistic Programming - Richard Wayne Bandler & John Grinder
 slug: frogs-into-princes-neuro-linguistic-programming-richard-wayne-bandler-john-grinder
 tags: 
   - book-summary

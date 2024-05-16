@@ -1,6 +1,6 @@
 ---
-title: The Pornography Industry_ What Everyone Ne - Shira Tarrant
-slug: the-pornography-industry_-what-everyone-ne-shira-tarrant
+title: The Pornography Industry What Everyone Ne - Shira Tarrant
+slug: the-pornography-industry-what-everyone-ne-shira-tarrant
 tags: 
   - book-summary
 excerpt: ""

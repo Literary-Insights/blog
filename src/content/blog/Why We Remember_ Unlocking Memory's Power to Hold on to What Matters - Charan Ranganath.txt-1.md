@@ -1,6 +1,6 @@
 ---
-title: "Why We Remember_ Unlocking Memory's Power to Hold on to What Matters - Charan Ranganath"
-slug: why-we-remember_-unlocking-memory-s-power-to-hold-on-to-what-matters-charan-ranganath
+title: "Why We Remember Unlocking Memory's Power to Hold on to What Matters - Charan Ranganath"
+slug: why-we-remember-unlocking-memory-s-power-to-hold-on-to-what-matters-charan-ranganath
 tags: 
   - book-summary
 excerpt: ""
@@ -14,7 +14,7 @@ image: "./src/assets/book_images/default_book.webp"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=why-we-remember_-unlocking-memory-s-power-to-hold-on-to-what-matters-charan-ranganath)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=why-we-remember-unlocking-memory-s-power-to-hold-on-to-what-matters-charan-ranganath)
 
 
 

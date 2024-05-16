@@ -1,6 +1,6 @@
 ---
-title: Naturally Triple Your Testosterone_ A Guid - Peter Paulson
-slug: naturally-triple-your-testosterone_-a-guid-peter-paulson
+title: Naturally Triple Your Testosterone A Guid - Peter Paulson
+slug: naturally-triple-your-testosterone-a-guid-peter-paulson
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
-title: Real Happiness_ The Power of Meditation - Sharon Salzberg
-slug: real-happiness_-the-power-of-meditation-sharon-salzberg
+title: Real Happiness The Power of Meditation - Sharon Salzberg
+slug: real-happiness-the-power-of-meditation-sharon-salzberg
 tags: 
   - book-summary
 excerpt: ""

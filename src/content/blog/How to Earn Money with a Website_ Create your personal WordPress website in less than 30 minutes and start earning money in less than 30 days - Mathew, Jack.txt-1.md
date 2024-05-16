@@ -1,5 +1,5 @@
 ---
-title: How to Earn Money with a Website_ Create your personal WordPress website in less than 30 minutes and start earning money in less than 30 days - Mathew, Jack
+title: How to Earn Money with a Website Create your personal WordPress website in less than 30 minutes and start earning money in less than 30 days - Mathew, Jack
 slug: how-to-earn-money-with-a-website-create-your-personal-wordpress-website-in-less-than-30-minutes-and-start-earning-money-in-less-than-30-days-mathew-jack
 tags: 
   - book-summary

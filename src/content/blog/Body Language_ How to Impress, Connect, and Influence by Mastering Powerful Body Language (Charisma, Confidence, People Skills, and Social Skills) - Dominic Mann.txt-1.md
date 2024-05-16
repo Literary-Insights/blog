@@ -1,5 +1,5 @@
 ---
-title: Body Language_ How to Impress, Connect, and Influence by Mastering Powerful Body Language (Charisma, Confidence, People Skills, and Social Skills) - Dominic Mann
+title: Body Language How to Impress, Connect, and Influence by Mastering Powerful Body Language (Charisma, Confidence, People Skills, and Social Skills) - Dominic Mann
 slug: body-language-how-to-impress-connect-and-influence-by-mastering-powerful-body-language-charisma-confidence-people-skills-and-social-skills-dominic-mann
 tags: 
   - book-summary

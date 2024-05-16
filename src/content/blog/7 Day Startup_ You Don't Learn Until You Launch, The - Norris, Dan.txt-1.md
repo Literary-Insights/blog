@@ -1,5 +1,5 @@
 ---
-title: 7 Day Startup_ You Don't Learn Until You Launch, The - Norris, Dan
+title: 7 Day Startup You Don't Learn Until You Launch, The - Norris, Dan
 slug: 7-day-startup-you-don-t-learn-until-you-launch-the-norris-dan
 tags: 
   - book-summary

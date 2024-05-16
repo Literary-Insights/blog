@@ -1,5 +1,5 @@
 ---
-title: Life is Short And So Is This Book_ Brief Thoughts On Making The Most Of Your Life - Peter Atkins
+title: Life is Short And So Is This Book Brief Thoughts On Making The Most Of Your Life - Peter Atkins
 slug: life-is-short-and-so-is-this-book-brief-thoughts-on-making-the-most-of-your-life-peter-atkins
 tags: 
   - book-summary

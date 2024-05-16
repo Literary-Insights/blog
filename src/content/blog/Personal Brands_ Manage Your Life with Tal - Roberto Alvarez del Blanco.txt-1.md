@@ -1,6 +1,6 @@
 ---
-title: Personal Brands_ Manage Your Life with Tal - Roberto Alvarez del Blanco
-slug: personal-brands_-manage-your-life-with-tal-roberto-alvarez-del-blanco
+title: Personal Brands Manage Your Life with Tal - Roberto Alvarez del Blanco
+slug: personal-brands-manage-your-life-with-tal-roberto-alvarez-del-blanco
 tags: 
   - book-summary
 excerpt: ""

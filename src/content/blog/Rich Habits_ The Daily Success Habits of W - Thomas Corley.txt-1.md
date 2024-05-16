@@ -1,6 +1,6 @@
 ---
-title: Rich Habits_ The Daily Success Habits of W - Thomas Corley
-slug: rich-habits_-the-daily-success-habits-of-w-thomas-corley
+title: Rich Habits The Daily Success Habits of W - Thomas Corley
+slug: rich-habits-the-daily-success-habits-of-w-thomas-corley
 tags: 
   - book-summary
 excerpt: ""

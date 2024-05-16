@@ -1,5 +1,5 @@
 ---
-title: Dance First. Think Later_ - Kathryn Petras
+title: Dance First. Think Later - Kathryn Petras
 slug: dance-first-think-later-kathryn-petras
 tags: 
   - book-summary

@@ -1,6 +1,6 @@
 ---
-title: You Owe You_ Ignite Your Power, Your Purpose, and Your Why - Eric Thomas
-slug: you-owe-you_-ignite-your-power-your-purpose-and-your-why-eric-thomas
+title: You Owe You Ignite Your Power, Your Purpose, and Your Why - Eric Thomas
+slug: you-owe-you-ignite-your-power-your-purpose-and-your-why-eric-thomas
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=you-owe-you_-ignite-your-power-your-purpose-and-your-why-eric-thomas)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=you-owe-you-ignite-your-power-your-purpose-and-your-why-eric-thomas)
 
 
 

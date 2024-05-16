@@ -1,5 +1,5 @@
 ---
-title: Dopamine Nation_ Finding Balance in the Age of Indulgence - Anna Lembke
+title: Dopamine Nation Finding Balance in the Age of Indulgence - Anna Lembke
 slug: dopamine-nation-finding-balance-in-the-age-of-indulgence-anna-lembke
 tags: 
   - book-summary

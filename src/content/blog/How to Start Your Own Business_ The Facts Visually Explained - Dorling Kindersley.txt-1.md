@@ -1,5 +1,5 @@
 ---
-title: How to Start Your Own Business_ The Facts Visually Explained - Dorling Kindersley
+title: How to Start Your Own Business The Facts Visually Explained - Dorling Kindersley
 slug: how-to-start-your-own-business-the-facts-visually-explained-dorling-kindersley
 tags: 
   - book-summary

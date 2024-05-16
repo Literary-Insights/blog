@@ -1,6 +1,6 @@
 ---
-title: Unlimited Memory_ How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive (Mental Mastery Book 1) - Kevin Horsley
-slug: unlimited-memory_-how-to-use-advanced-learning-strategies-to-learn-faster-remember-more-and-be-more-productive-mental-mastery-book-1-kevin-horsley
+title: Unlimited Memory How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive (Mental Mastery Book 1) - Kevin Horsley
+slug: unlimited-memory-how-to-use-advanced-learning-strategies-to-learn-faster-remember-more-and-be-more-productive-mental-mastery-book-1-kevin-horsley
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=unlimited-memory_-how-to-use-advanced-learning-strategies-to-learn-faster-remember-more-and-be-more-productive-mental-mastery-book-1-kevin-horsley)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=unlimited-memory-how-to-use-advanced-learning-strategies-to-learn-faster-remember-more-and-be-more-productive-mental-mastery-book-1-kevin-horsley)
 
 
 

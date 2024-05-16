@@ -1,6 +1,6 @@
 ---
-title: The Ancestor's Tale_ A Pilgrimage to the D - Richard Dawkins
-slug: the-ancestor-s-tale_-a-pilgrimage-to-the-d-richard-dawkins 
+title: The Ancestor's Tale A Pilgrimage to the D - Richard Dawkins
+slug: the-ancestor-s-tale-a-pilgrimage-to-the-d-richard-dawkins 
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-ancestor-s-tale_-a-pilgrimage-to-the-d-richard-dawkins)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-ancestor-s-tale-a-pilgrimage-to-the-d-richard-dawkins)
 
 
 

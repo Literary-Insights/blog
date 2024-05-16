@@ -1,5 +1,5 @@
 ---
-title: Masters Of Doom_ How Two Guys Created An Empire And Transformed Pop Culture - David Kushner
+title: Masters Of Doom How Two Guys Created An Empire And Transformed Pop Culture - David Kushner
 slug: masters-of-doom-how-two-guys-created-an-empire-and-transformed-pop-culture-david-kushner
 tags: 
   - book-summary

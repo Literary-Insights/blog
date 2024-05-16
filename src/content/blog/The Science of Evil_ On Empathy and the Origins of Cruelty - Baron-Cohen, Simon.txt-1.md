@@ -1,6 +1,6 @@
 ---
-title: "The Science of Evil_ On Empathy and the Origins of Cruelty - Baron-Cohen, Simon"
-slug: the-science-of-evil_-on-empathy-and-the-origins-of-cruelty-baron-cohen-simon
+title: "The Science of Evil On Empathy and the Origins of Cruelty - Baron-Cohen, Simon"
+slug: the-science-of-evil-on-empathy-and-the-origins-of-cruelty-baron-cohen-simon
 tags: 
   - book-summary
 excerpt: ""
@@ -14,7 +14,7 @@ image: "./src/assets/book_images/default_book.webp"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-science-of-evil_-on-empathy-and-the-origins-of-cruelty-baron-cohen-simon)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-science-of-evil-on-empathy-and-the-origins-of-cruelty-baron-cohen-simon)
 
 
 - The summary discusses how humans can treat other people as objects and switch off their natural feelings of sympathy for suffering people. 

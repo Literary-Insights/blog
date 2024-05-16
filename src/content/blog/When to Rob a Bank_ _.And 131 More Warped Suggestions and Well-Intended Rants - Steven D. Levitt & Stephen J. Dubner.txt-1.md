@@ -1,6 +1,6 @@
 ---
-title: When to Rob a Bank_ _.And 131 More Warped Suggestions and Well-Intended Rants - Steven D. Levitt & Stephen J. Dubner
-slug: when-to-rob-a-bank_-_-and-131-more-warped-suggestions-and-well-intended-rants-steven-d-levitt-stephen-j-dubner
+title: When to Rob a Bank _.And 131 More Warped Suggestions and Well-Intended Rants - Steven D. Levitt & Stephen J. Dubner
+slug: when-to-rob-a-bank--and-131-more-warped-suggestions-and-well-intended-rants-steven-d-levitt-stephen-j-dubner
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=when-to-rob-a-bank_-_-and-131-more-warped-suggestions-and-well-intended-rants-steven-d-levitt-stephen-j-dubner)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=when-to-rob-a-bank--and-131-more-warped-suggestions-and-well-intended-rants-steven-d-levitt-stephen-j-dubner)
 
 
 

@@ -1,6 +1,6 @@
 ---
-title: The Digital Republic_ On Freedom and Democracy in the 21st Century - Jamie Susskind
-slug: the-digital-republic_-on-freedom-and-democracy-in-the-21st-century-jamie-susskind
+title: The Digital Republic On Freedom and Democracy in the 21st Century - Jamie Susskind
+slug: the-digital-republic-on-freedom-and-democracy-in-the-21st-century-jamie-susskind
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-digital-republic_-on-freedom-and-democracy-in-the-21st-century-jamie-susskind)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-digital-republic-on-freedom-and-democracy-in-the-21st-century-jamie-susskind)
 
 
 
@@ -834,7 +834,7 @@ Inspired Dialogue’, arXiv: 1904.06485 (2019).
 
 51 Jack M. Balkin, ‘Information Fiduciaries and the First Amendment’ (2016) 49 UC Davis Law Review 1183; Jack M. Balkin and Jonathan Zittrain, ‘A Grand Bargain to Make Tech Companies Trustworthy’ The Atlantic, 3 October 2016 <https://www.theatlantic.com/technology/archive/2016/10/information-fiduciary/502346/> (20 August 2021). The idea has similarities with the concept of ‘digital platform duties of care’ proposed by Daphne Keller, ‘Who Do You Sue? State and Platform Hybrid Power Over Online Speech’ (2019) Hoover Institute Aegis Series Paper No. 1902.
 
-52 ‘Solutions for Protecting Privacy’, The Centre for Data Ethics and Innovation, Consultation Draft September 2019 <https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/812893/Consultation_Document_-_Final.pdf> (accessed 20 August 2021). For a sceptical assessment see Waldman, Privacy, p. 121.
+52 ‘Solutions for Protecting Privacy’, The Centre for Data Ethics and Innovation, Consultation Draft September 2019 <https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/812893/Consultation_Document-_Final.pdf> (accessed 20 August 2021). For a sceptical assessment see Waldman, Privacy, p. 121.
 
 53 See Daniel J. Solove and Danielle Keats Citron, ‘Risk and Anxiety: A Theory of Data-Breach Harms’ (2018) 96 Texas Law Review 737.
 

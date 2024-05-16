@@ -1,5 +1,5 @@
 ---
-title: Hit Refresh_ The Quest to Rediscover Micro - Satya Nadella
+title: Hit Refresh The Quest to Rediscover Micro - Satya Nadella
 slug: hit-refresh-the-quest-to-rediscover-micro-satya-nadella
 tags: 
   - book-summary

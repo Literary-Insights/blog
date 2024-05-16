@@ -1,6 +1,6 @@
 ---
-title: "Secrets of Next-Level Entrepreneurs_ 11 Powerful Lessons to Thrive in Business and Lead a Balanced Life - Brueckmann, Alex;"
-slug: secrets-of-next-level-entrepreneurs_-11-powerful-lessons-to-thrive-in-business-and-lead-a-balanced-life-brueckmann-alex-
+title: "Secrets of Next-Level Entrepreneurs 11 Powerful Lessons to Thrive in Business and Lead a Balanced Life - Brueckmann, Alex;"
+slug: secrets-of-next-level-entrepreneurs-11-powerful-lessons-to-thrive-in-business-and-lead-a-balanced-life-brueckmann-alex-
 tags: 
   - book-summary
 excerpt: ""
@@ -14,7 +14,7 @@ image: "./src/assets/book_images/default_book.webp"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=secrets-of-next-level-entrepreneurs_-11-powerful-lessons-to-thrive-in-business-and-lead-a-balanced-life-brueckmann-alex-)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=secrets-of-next-level-entrepreneurs-11-powerful-lessons-to-thrive-in-business-and-lead-a-balanced-life-brueckmann-alex-)
 
 
 

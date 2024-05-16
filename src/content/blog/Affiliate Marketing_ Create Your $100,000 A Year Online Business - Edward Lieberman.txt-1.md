@@ -1,5 +1,5 @@
 ---
-title: Affiliate Marketing_ Create Your $100,000 A Year Online Business - Edward Lieberman
+title: Affiliate Marketing Create Your $100,000 A Year Online Business - Edward Lieberman
 slug: affiliate-marketing-create-your-100-000-a-year-online-business-edward-lieberman
 tags: 
   - book-summary

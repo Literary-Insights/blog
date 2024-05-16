@@ -1,6 +1,6 @@
 ---
-title: PostCapitalism_ A Guide to Our Future - Paul Mason
-slug: postcapitalism_-a-guide-to-our-future-paul-mason
+title: PostCapitalism A Guide to Our Future - Paul Mason
+slug: postcapitalism-a-guide-to-our-future-paul-mason
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=postcapitalism_-a-guide-to-our-future-paul-mason)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=postcapitalism-a-guide-to-our-future-paul-mason)
 
 
 

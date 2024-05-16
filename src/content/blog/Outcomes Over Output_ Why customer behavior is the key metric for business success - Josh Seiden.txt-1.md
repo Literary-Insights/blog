@@ -1,6 +1,6 @@
 ---
-title: Outcomes Over Output_ Why customer behavior is the key metric for business success - Josh Seiden
-slug: outcomes-over-output_-why-customer-behavior-is-the-key-metric-for-business-success-josh-seiden
+title: Outcomes Over Output Why customer behavior is the key metric for business success - Josh Seiden
+slug: outcomes-over-output-why-customer-behavior-is-the-key-metric-for-business-success-josh-seiden
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=outcomes-over-output_-why-customer-behavior-is-the-key-metric-for-business-success-josh-seiden)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=outcomes-over-output-why-customer-behavior-is-the-key-metric-for-business-success-josh-seiden)
 
 
 

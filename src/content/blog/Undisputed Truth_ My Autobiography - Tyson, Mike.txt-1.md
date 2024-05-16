@@ -1,6 +1,6 @@
 ---
-title: Undisputed Truth_ My Autobiography - Tyson, Mike
-slug: undisputed-truth_-my-autobiography-tyson-mike
+title: Undisputed Truth My Autobiography - Tyson, Mike
+slug: undisputed-truth-my-autobiography-tyson-mike
 tags: 
   - book-summary
 excerpt: ""

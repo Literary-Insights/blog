@@ -1,5 +1,5 @@
 ---
-title: 17 Anti-Procrastination Hacks_ How to Stop - Dominic Mann
+title: 17 Anti-Procrastination Hacks How to Stop - Dominic Mann
 slug: 17-anti-procrastination-hacks-how-to-stop-dominic-mann
 tags: 
   - book-summary

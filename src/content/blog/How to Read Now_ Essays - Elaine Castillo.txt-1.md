@@ -1,5 +1,5 @@
 ---
-title: How to Read Now_ Essays - Elaine Castillo
+title: How to Read Now Essays - Elaine Castillo
 slug: how-to-read-now-essays-elaine-castillo
 tags: 
   - book-summary

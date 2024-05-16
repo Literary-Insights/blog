@@ -1,5 +1,5 @@
 ---
-title: Cryptoeconomics_ Fundamental Principles of Bitcoin - Voskuil, Eric
+title: Cryptoeconomics Fundamental Principles of Bitcoin - Voskuil, Eric
 slug: cryptoeconomics-fundamental-principles-of-bitcoin-voskuil-eric
 tags: 
   - book-summary

@@ -1,6 +1,6 @@
 ---
-title: No Speed Limit_ Three Essays on Accelerationism (Forerunners_ Ideas First) - Steven Shaviro
-slug: no-speed-limit_-three-essays-on-accelerationism-forerunners_-ideas-first-steven-shaviro
+title: No Speed Limit Three Essays on Accelerationism (Forerunners Ideas First) - Steven Shaviro
+slug: no-speed-limit-three-essays-on-accelerationism-forerunners-ideas-first-steven-shaviro
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=no-speed-limit_-three-essays-on-accelerationism-forerunners_-ideas-first-steven-shaviro)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=no-speed-limit-three-essays-on-accelerationism-forerunners-ideas-first-steven-shaviro)
 
 
 

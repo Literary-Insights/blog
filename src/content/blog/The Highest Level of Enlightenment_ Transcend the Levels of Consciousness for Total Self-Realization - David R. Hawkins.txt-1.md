@@ -1,6 +1,6 @@
 ---
-title: "The Highest Level of Enlightenment_ Transcend the Levels of Consciousness for Total Self-Realization - David R. Hawkins"
-slug: the-highest-level-of-enlightenment_-transcend-the-levels-of-consciousness-for-total-self-realization-david-r-hawkins
+title: "The Highest Level of Enlightenment Transcend the Levels of Consciousness for Total Self-Realization - David R. Hawkins"
+slug: the-highest-level-of-enlightenment-transcend-the-levels-of-consciousness-for-total-self-realization-david-r-hawkins
 tags: 
   - book-summary
 excerpt: ""
@@ -14,7 +14,7 @@ image: "./src/assets/book_images/default_book.webp"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-highest-level-of-enlightenment_-transcend-the-levels-of-consciousness-for-total-self-realization-david-r-hawkins)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-highest-level-of-enlightenment-transcend-the-levels-of-consciousness-for-total-self-realization-david-r-hawkins)
 
 
 

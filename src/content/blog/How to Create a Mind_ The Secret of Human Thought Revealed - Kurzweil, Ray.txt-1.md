@@ -1,5 +1,5 @@
 ---
-title: How to Create a Mind_ The Secret of Human Thought Revealed - Kurzweil, Ray
+title: How to Create a Mind The Secret of Human Thought Revealed - Kurzweil, Ray
 slug: how-to-create-a-mind-the-secret-of-human-thought-revealed-kurzweil-ray
 tags: 
   - book-summary

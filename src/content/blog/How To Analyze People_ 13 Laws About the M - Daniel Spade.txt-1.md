@@ -1,5 +1,5 @@
 ---
-title: How To Analyze People_ 13 Laws About the M - Daniel Spade
+title: How To Analyze People 13 Laws About the M - Daniel Spade
 slug: how-to-analyze-people-13-laws-about-the-m-daniel-spade
 tags: 
   - book-summary

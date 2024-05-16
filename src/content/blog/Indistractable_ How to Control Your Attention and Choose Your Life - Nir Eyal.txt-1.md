@@ -1,5 +1,5 @@
 ---
-title: Indistractable_ How to Control Your Attention and Choose Your Life - Nir Eyal
+title: Indistractable How to Control Your Attention and Choose Your Life - Nir Eyal
 slug: indistractable-how-to-control-your-attention-and-choose-your-life-nir-eyal
 tags: 
   - book-summary

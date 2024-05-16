@@ -1,5 +1,5 @@
 ---
-title: Affiliate Commission Bundle_ 3 Profitable Ways to Start Your Affiliate Business from Scratch – 0 to $1,000 Per Month Guide - Marfori, Danny
+title: Affiliate Commission Bundle 3 Profitable Ways to Start Your Affiliate Business from Scratch – 0 to $1,000 Per Month Guide - Marfori, Danny
 slug: affiliate-commission-bundle-3-profitable-ways-to-start-your-affiliate-business-from-scratch-0-to-1-000-per-month-guide-marfori-danny
 tags: 
   - book-summary

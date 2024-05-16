@@ -7,14 +7,14 @@ excerpt: ""
 category: "self-help"
 author: "matheus-puppe"
 publishDate: "2024-05-05T12:55:52.131Z"
-image: "./src/assets/book_images/The Song of Significance_ A New Manifesto for Teams - Seth Godin.jpg"
+image: "./src/assets/book_images/The Song of Significance A New Manifesto for Teams - Seth Godin.jpg"
 ---
 
 **"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-song-of-significance_-a-new-manifesto-for-teams-seth-godin)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-song-of-significance-a-new-manifesto-for-teams-seth-godin)
 
 
 

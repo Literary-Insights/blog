@@ -1,6 +1,6 @@
 ---
-title: Myths of Happiness _ What Should Make You Happy, but Doesn't, What Shouldn't Make You Happy, but Does (9781101605509) - Lyubomirsky, Sonja
-slug: myths-of-happiness-_-what-should-make-you-happy-but-doesn-t-what-shouldn-t-make-you-happy-but-does-9781101605509-lyubomirsky-sonja
+title: Myths of Happiness  What Should Make You Happy, but Doesn't, What Shouldn't Make You Happy, but Does (9781101605509) - Lyubomirsky, Sonja
+slug: myths-of-happiness--what-should-make-you-happy-but-doesn-t-what-shouldn-t-make-you-happy-but-does-9781101605509-lyubomirsky-sonja
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=myths-of-happiness-_-what-should-make-you-happy-but-doesn-t-what-shouldn-t-make-you-happy-but-does-9781101605509-lyubomirsky-sonja)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=myths-of-happiness--what-should-make-you-happy-but-doesn-t-what-shouldn-t-make-you-happy-but-does-9781101605509-lyubomirsky-sonja)
 
 
 

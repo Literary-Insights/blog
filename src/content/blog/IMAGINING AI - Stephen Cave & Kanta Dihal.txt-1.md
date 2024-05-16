@@ -565,7 +565,7 @@ In conclusion, Soviet science fiction evolved the robot from a rebel to one will
 
 - Deineka, A. (1961) Conquerors of space. [Oil on canvas]. Lugansk Regional Art Museum, Luhans’k. - This source is a 1961 oil painting by A. Deineka titled "Conquerors of space" housed at the Lugansk Regional Art Museum. 
 
-- Dostoevsky, F. (1846_ The double. [Двойник. Петербургская Поэма]. St. Peters- burg: Otechestvennye zapiski. - This source is Fyodor Dostoevsky's 1846 novel "The Double".
+- Dostoevsky, F. (1846 The double. [Двойник. Петербургская Поэма]. St. Peters- burg: Otechestvennye zapiski. - This source is Fyodor Dostoevsky's 1846 novel "The Double".
 
 - Edmonds, J., et al. (2021) Artificial intelligence and autonomy in Russia. Report number: DRM-2021-U-029303-Final. Arlington, VA: CNA. - This source is a 2021 report by J. Edmonds et al. on artificial intelligence and autonomy in Russia published by CNA.
 

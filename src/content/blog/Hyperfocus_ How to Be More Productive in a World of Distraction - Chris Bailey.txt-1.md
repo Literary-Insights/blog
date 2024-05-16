@@ -1,5 +1,5 @@
 ---
-title: Hyperfocus_ How to Be More Productive in a World of Distraction - Chris Bailey
+title: Hyperfocus How to Be More Productive in a World of Distraction - Chris Bailey
 slug: hyperfocus-how-to-be-more-productive-in-a-world-of-distraction-chris-bailey
 tags: 
   - book-summary

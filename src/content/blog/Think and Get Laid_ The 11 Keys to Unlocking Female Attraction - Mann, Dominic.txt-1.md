@@ -1,6 +1,6 @@
 ---
-title: Think and Get Laid_ The 11 Keys to Unlocking Female Attraction - Mann, Dominic
-slug: think-and-get-laid_-the-11-keys-to-unlocking-female-attraction-mann-dominic
+title: Think and Get Laid The 11 Keys to Unlocking Female Attraction - Mann, Dominic
+slug: think-and-get-laid-the-11-keys-to-unlocking-female-attraction-mann-dominic
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=think-and-get-laid_-the-11-keys-to-unlocking-female-attraction-mann-dominic)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=think-and-get-laid-the-11-keys-to-unlocking-female-attraction-mann-dominic)
 
 
 

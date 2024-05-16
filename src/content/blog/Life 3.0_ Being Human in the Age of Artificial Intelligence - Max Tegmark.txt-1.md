@@ -1,5 +1,5 @@
 ---
-title: Life 3.0_ Being Human in the Age of Artificial Intelligence - Max Tegmark
+title: Life 3.0 Being Human in the Age of Artificial Intelligence - Max Tegmark
 slug: life-3-0-being-human-in-the-age-of-artificial-intelligence-max-tegmark
 tags: 
   - book-summary

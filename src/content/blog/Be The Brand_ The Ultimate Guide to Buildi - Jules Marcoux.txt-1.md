@@ -1,5 +1,5 @@
 ---
-title: Be The Brand_ The Ultimate Guide to Buildi - Jules Marcoux
+title: Be The Brand The Ultimate Guide to Buildi - Jules Marcoux
 slug: be-the-brand-the-ultimate-guide-to-buildi-jules-marcoux
 tags: 
   - book-summary

@@ -1,6 +1,6 @@
 ---
 title: "The Seeker of Nothing: A fable on owing your life - Kabir Munjal"
-slug: the-seeker-of-nothing_-a-fable-on-owing-yo-kabir-munjal
+slug: the-seeker-of-nothing-a-fable-on-owing-yo-kabir-munjal
 tags: 
   - book-summary
 excerpt: ""
@@ -13,7 +13,7 @@ publishDate: "2024-04-25T19:25:30.347Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-seeker-of-nothing_-a-fable-on-owing-yo-kabir-munjal)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-seeker-of-nothing-a-fable-on-owing-yo-kabir-munjal)
 
 
 

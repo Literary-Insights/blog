@@ -1,6 +1,6 @@
 ---
-title: Revenge of Geography_ What the Map Tells Us About Coming Conflicts and the Battle Against Fate, The - Robert D. Kaplan
-slug: revenge-of-geography_-what-the-map-tells-us-about-coming-conflicts-and-the-battle-against-fate-the-robert-d-kaplan
+title: Revenge of Geography What the Map Tells Us About Coming Conflicts and the Battle Against Fate, The - Robert D. Kaplan
+slug: revenge-of-geography-what-the-map-tells-us-about-coming-conflicts-and-the-battle-against-fate-the-robert-d-kaplan
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=revenge-of-geography_-what-the-map-tells-us-about-coming-conflicts-and-the-battle-against-fate-the-robert-d-kaplan)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=revenge-of-geography-what-the-map-tells-us-about-coming-conflicts-and-the-battle-against-fate-the-robert-d-kaplan)
 
 
 

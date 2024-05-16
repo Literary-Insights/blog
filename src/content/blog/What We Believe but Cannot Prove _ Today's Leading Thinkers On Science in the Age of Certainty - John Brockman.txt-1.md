@@ -1,6 +1,6 @@
 ---
-title: What We Believe but Cannot Prove _ Today's Leading Thinkers On Science in the Age of Certainty - John Brockman
-slug: what-we-believe-but-cannot-prove-_-today-s-leading-thinkers-on-science-in-the-age-of-certainty-john-brockman
+title: What We Believe but Cannot Prove  Today's Leading Thinkers On Science in the Age of Certainty - John Brockman
+slug: what-we-believe-but-cannot-prove--today-s-leading-thinkers-on-science-in-the-age-of-certainty-john-brockman
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=what-we-believe-but-cannot-prove-_-today-s-leading-thinkers-on-science-in-the-age-of-certainty-john-brockman)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=what-we-believe-but-cannot-prove--today-s-leading-thinkers-on-science-in-the-age-of-certainty-john-brockman)
 
 
 

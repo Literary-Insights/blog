@@ -1,6 +1,6 @@
 ---
-title: The Evolution of Everything_ How New Ideas - Matt Ridley
-slug: the-evolution-of-everything_-how-new-ideas-matt-ridley 
+title: The Evolution of Everything How New Ideas - Matt Ridley
+slug: the-evolution-of-everything-how-new-ideas-matt-ridley 
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-evolution-of-everything_-how-new-ideas-matt-ridley)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-evolution-of-everything-how-new-ideas-matt-ridley)
 
 
 

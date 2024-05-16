@@ -472,7 +472,7 @@ The key takeaway is that by anticipating risks, making plans to mitigate them, a
 • By addressing sources of hesitation, you can take that first step toward achieving an Optimal Outcome through pursuing your Pattern-Breaking Path. Taking action is what allows dreams and reality to combine.
 
  Pay for Sally
-_________________________ 
+________________________ 
 
 
 Costs:     Benefits:

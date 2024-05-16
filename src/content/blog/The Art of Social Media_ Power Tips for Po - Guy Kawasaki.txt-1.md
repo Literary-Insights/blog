@@ -1,6 +1,6 @@
 ---
-title: The Art of Social Media_ Power Tips for Po - Guy Kawasaki
-slug: the-art-of-social-media_-power-tips-for-po-guy-kawasaki
+title: The Art of Social Media Power Tips for Po - Guy Kawasaki
+slug: the-art-of-social-media-power-tips-for-po-guy-kawasaki
 tags: 
   - book-summary
 excerpt: ""

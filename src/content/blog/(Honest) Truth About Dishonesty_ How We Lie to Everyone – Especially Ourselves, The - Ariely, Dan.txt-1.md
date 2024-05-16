@@ -1,5 +1,5 @@
 ---
-title: (Honest) Truth About Dishonesty_ How We Lie to Everyone – Especially Ourselves, The - Ariely, Dan
+title: (Honest) Truth About Dishonesty How We Lie to Everyone – Especially Ourselves, The - Ariely, Dan
 slug: honest-truth-about-dishonesty-how-we-lie-to-everyone-especially-ourselves-the-ariely-dan
 tags: 
   - book-summary

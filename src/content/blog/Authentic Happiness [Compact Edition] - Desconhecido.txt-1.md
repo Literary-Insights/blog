@@ -453,7 +453,7 @@ The key point is this chapter introduces the idea of identifying your signature 
 
 The statement expresses an enjoyment of learning new things, which is generally aligned with the virtue of wisdom presented on the website. The website lists "curiosity" as the most basic route to displaying wisdom, which involves a desire to learn and expand one's knowledge. Someone who is thrilled by learning new things would likely rate themselves highly on the website's assessment of love of learning. So the statement captures an attribute - enthusiasm for gaining new knowledge - that corresponds to one of the strengths within the virtue of wisdom as described on the website.
 
-Total your score for these two items and write it here. ____ This is and researcher in his eighties acknowledged that over his long your integrity score.
+Total your score for these two items and write it here. ___ This is and researcher in his eighties acknowledged that over his long your integrity score.
 
 career, his marital relationship had fallen by the wayside. He had been too devoted to scientific investigation and lost himself in his
 
@@ -513,7 +513,7 @@ V ery much unlike me
 
 1
 
-Total your score for these two items and write it here. ____ This is your kindness score.
+Total your score for these two items and write it here. ___ This is your kindness score.
 
 11. LOVING AND ALLOWING ONESELF T O BE LOVED
 

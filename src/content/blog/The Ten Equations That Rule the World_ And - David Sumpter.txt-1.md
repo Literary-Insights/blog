@@ -1,6 +1,6 @@
 ---
-title: The Ten Equations That Rule the World_ And - David Sumpter
-slug: the-ten-equations-that-rule-the-world_-and-david-sumpter
+title: The Ten Equations That Rule the World And - David Sumpter
+slug: the-ten-equations-that-rule-the-world-and-david-sumpter
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
-title: "Sell Yourself_ How to Create, Live, and Sell a Powerful Personal Brand - Dr. Cindy Mcgovern"
-slug: sell-yourself_-how-to-create-live-and-sell-a-powerful-personal-brand-dr-cindy-mcgovern
+title: "Sell Yourself How to Create, Live, and Sell a Powerful Personal Brand - Dr. Cindy Mcgovern"
+slug: sell-yourself-how-to-create-live-and-sell-a-powerful-personal-brand-dr-cindy-mcgovern
 tags: 
   - book-summary
 excerpt: ""
@@ -14,7 +14,7 @@ image: "./src/assets/book_images/default_book.webp"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=sell-yourself_-how-to-create-live-and-sell-a-powerful-personal-brand-dr-cindy-mcgovern)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=sell-yourself-how-to-create-live-and-sell-a-powerful-personal-brand-dr-cindy-mcgovern)
 
 
 

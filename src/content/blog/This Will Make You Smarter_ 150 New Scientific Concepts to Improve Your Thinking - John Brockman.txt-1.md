@@ -1,6 +1,6 @@
 ---
-title: This Will Make You Smarter_ 150 New Scientific Concepts to Improve Your Thinking - John Brockman
-slug: this-will-make-you-smarter_-150-new-scientific-concepts-to-improve-your-thinking-john-brockman
+title: This Will Make You Smarter 150 New Scientific Concepts to Improve Your Thinking - John Brockman
+slug: this-will-make-you-smarter-150-new-scientific-concepts-to-improve-your-thinking-john-brockman
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=this-will-make-you-smarter_-150-new-scientific-concepts-to-improve-your-thinking-john-brockman)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=this-will-make-you-smarter-150-new-scientific-concepts-to-improve-your-thinking-john-brockman)
 
 
 

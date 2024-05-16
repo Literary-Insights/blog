@@ -1,6 +1,6 @@
 ---
-title: "Private Equity_ A Memoir - Carrie Sun"
-slug: private-equity_-a-memoir-carrie-sun
+title: "Private Equity A Memoir - Carrie Sun"
+slug: private-equity-a-memoir-carrie-sun
 tags: 
   - book-summary
 excerpt: ""
@@ -14,7 +14,7 @@ image: "./src/assets/book_images/default_book.webp"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=private-equity_-a-memoir-carrie-sun)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=private-equity-a-memoir-carrie-sun)
 
 
 

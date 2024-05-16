@@ -1,5 +1,5 @@
 ---
-title: Hardcore Self Help_ F__k Anxiety - Robert Duff
+title: Hardcore Self Help F__k Anxiety - Robert Duff
 slug: hardcore-self-help-f__k-anxiety-robert-duff
 tags: 
   - book-summary

@@ -1,6 +1,6 @@
 ---
-title: Platform Revolution_ How Networked Markets Are Transforming the Economy---and How to Make Them Work for You - Geoffrey G. Parker & Marshall W. Van Alstyne & Sangeet Paul Choudary
-slug: platform-revolution_-how-networked-markets-are-transforming-the-economy-and-how-to-make-them-work-for-you-geoffrey-g-parker-marshall-w-van-alstyne-sangeet-paul-choudary
+title: Platform Revolution How Networked Markets Are Transforming the Economy---and How to Make Them Work for You - Geoffrey G. Parker & Marshall W. Van Alstyne & Sangeet Paul Choudary
+slug: platform-revolution-how-networked-markets-are-transforming-the-economy-and-how-to-make-them-work-for-you-geoffrey-g-parker-marshall-w-van-alstyne-sangeet-paul-choudary
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=platform-revolution_-how-networked-markets-are-transforming-the-economy-and-how-to-make-them-work-for-you-geoffrey-g-parker-marshall-w-van-alstyne-sangeet-paul-choudary)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=platform-revolution-how-networked-markets-are-transforming-the-economy-and-how-to-make-them-work-for-you-geoffrey-g-parker-marshall-w-van-alstyne-sangeet-paul-choudary)
 
 
 

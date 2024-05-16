@@ -1,6 +1,6 @@
 ---
-title: Semen Retention Miracle_ Secrets of Sexual Energy Transmutation for Wealth, Health, Sex and Longevity (Cultivating Male Sexual Energy) - Peterson, Joseph
-slug: semen-retention-miracle_-secrets-of-sexual-energy-transmutation-for-wealth-health-sex-and-longevity-cultivating-male-sexual-energy-peterson-joseph
+title: Semen Retention Miracle Secrets of Sexual Energy Transmutation for Wealth, Health, Sex and Longevity (Cultivating Male Sexual Energy) - Peterson, Joseph
+slug: semen-retention-miracle-secrets-of-sexual-energy-transmutation-for-wealth-health-sex-and-longevity-cultivating-male-sexual-energy-peterson-joseph
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=semen-retention-miracle_-secrets-of-sexual-energy-transmutation-for-wealth-health-sex-and-longevity-cultivating-male-sexual-energy-peterson-joseph)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=semen-retention-miracle-secrets-of-sexual-energy-transmutation-for-wealth-health-sex-and-longevity-cultivating-male-sexual-energy-peterson-joseph)
 
 
 

@@ -1,20 +1,20 @@
 ---
 title: "8 Rules of Love How to Find It, Keep It, - Jay Shetty"
-slug: 8-rules-of-love_-how-to-find-it-keep-it-jay-shetty
+slug: 8-rules-of-love-how-to-find-it-keep-it-jay-shetty
 tags: 
   - book-summary
 excerpt: ""
 category: "self-help"
 author: "matheus-puppe"
 publishDate: "2024-04-25T16:33:06.730Z"
-image: "./src/assets/book_images/8 Rules of Love_ How to Find It, Keep It, and Let It Go - Jay Shetty.jpg"
+image: "./src/assets/book_images/8 Rules of Love How to Find It, Keep It, and Let It Go - Jay Shetty.jpg"
 ---
 
 **"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=8-rules-of-love_-how-to-find-it-keep-it-jay-shetty)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=8-rules-of-love-how-to-find-it-keep-it-jay-shetty)
 
 
 

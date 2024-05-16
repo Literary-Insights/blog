@@ -1,6 +1,6 @@
 ---
-title: The Next Age of Uncertainty_ How the World Can Adapt to a Riskier Future - Stephen Poloz
-slug: the-next-age-of-uncertainty_-how-the-world-can-adapt-to-a-riskier-future-stephen-poloz
+title: The Next Age of Uncertainty How the World Can Adapt to a Riskier Future - Stephen Poloz
+slug: the-next-age-of-uncertainty-how-the-world-can-adapt-to-a-riskier-future-stephen-poloz
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-next-age-of-uncertainty_-how-the-world-can-adapt-to-a-riskier-future-stephen-poloz)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-next-age-of-uncertainty-how-the-world-can-adapt-to-a-riskier-future-stephen-poloz)
 
 
 

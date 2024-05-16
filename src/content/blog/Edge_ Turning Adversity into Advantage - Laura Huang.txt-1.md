@@ -1,5 +1,5 @@
 ---
-title: Edge_ Turning Adversity into Advantage - Laura Huang
+title: Edge Turning Adversity into Advantage - Laura Huang
 slug: edge-turning-adversity-into-advantage-laura-huang
 tags: 
   - book-summary

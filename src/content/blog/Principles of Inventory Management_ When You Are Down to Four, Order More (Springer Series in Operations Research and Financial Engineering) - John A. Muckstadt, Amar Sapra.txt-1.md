@@ -1,6 +1,6 @@
 ---
-title: Principles of Inventory Management_ When You Are Down to Four, Order More (Springer Series in Operations Research and Financial Engineering) - John A. Muckstadt, Amar Sapra
-slug: principles-of-inventory-management_-when-you-are-down-to-four-order-more-springer-series-in-operations-research-and-financial-engineering-john-a-muckstadt-amar-sapra
+title: Principles of Inventory Management When You Are Down to Four, Order More (Springer Series in Operations Research and Financial Engineering) - John A. Muckstadt, Amar Sapra
+slug: principles-of-inventory-management-when-you-are-down-to-four-order-more-springer-series-in-operations-research-and-financial-engineering-john-a-muckstadt-amar-sapra
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=principles-of-inventory-management_-when-you-are-down-to-four-order-more-springer-series-in-operations-research-and-financial-engineering-john-a-muckstadt-amar-sapra)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=principles-of-inventory-management-when-you-are-down-to-four-order-more-springer-series-in-operations-research-and-financial-engineering-john-a-muckstadt-amar-sapra)
 
 
 
@@ -588,7 +588,7 @@ The approach can be extended by making some of the basic assumptions more genera
 
 - The state for subsystem S_w is x_w = (z_w^n, y_w^n), which is sufficient for determining its optimal policy. 
 
-- An optimal policy for S_ can be found by independently managing each subsystem S_w using its state x_w. This decentralized policy is also optimal for the overall system S.
+- An optimal policy for S can be found by independently managing each subsystem S_w using its state x_w. This decentralized policy is also optimal for the overall system S.
 
 - The thesis then proves this result about the equivalence of optimal policies and costs for S and S_. It also shows the optimal policy for each subsystem S_w has a "critical distance" structure.
 

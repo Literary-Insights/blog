@@ -1,5 +1,5 @@
 ---
-title: Inventing the Future_ Postcapitalism and a World Without Work - Nick Srnicek & Alex Williams
+title: Inventing the Future Postcapitalism and a World Without Work - Nick Srnicek & Alex Williams
 slug: inventing-the-future-postcapitalism-and-a-world-without-work-nick-srnicek-alex-williams
 tags: 
   - book-summary

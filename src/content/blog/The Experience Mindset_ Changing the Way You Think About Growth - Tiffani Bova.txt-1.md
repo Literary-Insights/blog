@@ -7,17 +7,30 @@ excerpt: ""
 category: "self-help"
 author: "matheus-puppe"
 publishDate: "2024-05-05T12:55:51.998Z"
-image: "./src/assets/book_images/The Experience Mindset_ Changing the Way You Think About Growth - Tiffani Bova.jpg"
+image: "./src/assets/book_images/The Experience Mindset Changing the Way You Think About Growth - Tiffani Bova.jpg"
 ---
 
 **"If you liked the book**, you can purchase it using the links in the description below. By buying through these links, **you contribute to the blog without paying any extra**, as we receive a small commission. **This helps us bring more quality content to you!"**
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-experience-mindset_-changing-the-way-you-think-about-growth-tiffani-bova)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-experience-mindset-changing-the-way-you-think-about-growth-tiffani-bova)
 
 
+## TLDR:
 
+In the book "The Experience Mindset" by Tiffani Bova, the author makes a compelling case for companies to adopt an "experience mindset" that prioritizes both employee experience (EX) and customer experience (CX) in order to drive business growth.
+Key Takeaways:
+
+🔹 There is a direct link between EX and CX - improving one leads to improvements in the other through a virtuous cycle.
+🔹 Companies that place a high priority on both EX and CX see significantly greater revenue growth compared to those that neglect one or both areas.
+🔹 To accelerate growth, companies must strategically consider EX and CX in all decisions, not just in HR or customer-facing roles.
+🔹 Adopting an experience mindset requires leadership commitment, cross-functional collaboration, and working for the benefit of all stakeholders.
+🔹 Case studies of companies like Airbnb, Starbucks and Chipotle highlight how integrating EX and CX initiatives can transform organizational cultures.
+The book provides data-driven insights and real-world examples demonstrating that an intentional, balanced focus on nurturing positive employee and customer experiences is key to unlocking sustainable business growth in today's experience economy.
+
+
+## SUMMARY:
  
 
 - Employees play a critical role in facilitating positive customer experiences and living up to a company's values and mission on a daily basis. Yet employee experience is often overlooked compared to customer experience. 

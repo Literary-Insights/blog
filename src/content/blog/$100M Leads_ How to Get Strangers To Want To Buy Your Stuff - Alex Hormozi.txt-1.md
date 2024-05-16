@@ -1,5 +1,5 @@
 ---
-title: $100M Leads_ How to Get Strangers To Want To Buy Your Stuff - Alex Hormozi
+title: $100M Leads How to Get Strangers To Want To Buy Your Stuff - Alex Hormozi
 slug: 100m-leads-how-to-get-strangers-to-want-to-buy-your-stuff-alex-hormozi
 tags: 
   - book-summary

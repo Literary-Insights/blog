@@ -1,6 +1,6 @@
 ---
-title: "Languishing_ How to Feel Alive Again in a World That Wears Us Down - Corey Keyes"
-slug: languishing_-how-to-feel-alive-again-in-a-world-that-wears-us-down-corey-keyes
+title: "Languishing How to Feel Alive Again in a World That Wears Us Down - Corey Keyes"
+slug: languishing-how-to-feel-alive-again-in-a-world-that-wears-us-down-corey-keyes
 tags: 
   - book-summary
 excerpt: ""
@@ -14,7 +14,7 @@ image: "./src/assets/book_images/How to Feel Alive.jpg"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=languishing_-how-to-feel-alive-again-in-a-world-that-wears-us-down-corey-keyes)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=languishing-how-to-feel-alive-again-in-a-world-that-wears-us-down-corey-keyes)
 
 
 

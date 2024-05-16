@@ -1,5 +1,5 @@
 ---
-title: How To Create Your Own Money Making Affiliate Marketing Site_ Every Step You Need To Take To Make Affilate Marketing Works For You - Barnes, Dawson
+title: How To Create Your Own Money Making Affiliate Marketing Site Every Step You Need To Take To Make Affilate Marketing Works For You - Barnes, Dawson
 slug: how-to-create-your-own-money-making-affiliate-marketing-site-every-step-you-need-to-take-to-make-affilate-marketing-works-for-you-barnes-dawson
 tags: 
   - book-summary

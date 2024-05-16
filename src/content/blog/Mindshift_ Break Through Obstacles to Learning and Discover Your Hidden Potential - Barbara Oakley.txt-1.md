@@ -1,5 +1,5 @@
 ---
-title: Mindshift_ Break Through Obstacles to Learning and Discover Your Hidden Potential - Barbara Oakley
+title: Mindshift Break Through Obstacles to Learning and Discover Your Hidden Potential - Barbara Oakley
 slug: mindshift-break-through-obstacles-to-learning-and-discover-your-hidden-potential-barbara-oakley
 tags: 
   - book-summary

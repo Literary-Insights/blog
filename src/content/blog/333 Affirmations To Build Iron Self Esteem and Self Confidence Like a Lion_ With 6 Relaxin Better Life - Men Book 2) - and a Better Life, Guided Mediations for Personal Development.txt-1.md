@@ -1,5 +1,5 @@
 ---
-title: 333 Affirmations To Build Iron Self Esteem and Self Confidence Like a Lion_ With 6 Relaxin Better Life - Men Book 2) - and a Better Life, Guided Mediations for Personal Development
+title: 333 Affirmations To Build Iron Self Esteem and Self Confidence Like a Lion With 6 Relaxin Better Life - Men Book 2) - and a Better Life, Guided Mediations for Personal Development
 slug: 333-affirmations-to-build-iron-self-esteem-and-self-confidence-like-a-lion-with-6-relaxin-better-life-men-book-2-and-a-better-life-guided-mediations-for-personal-development
 tags: 
   - book-summary

@@ -1,5 +1,5 @@
 ---
-title: Money and Soccer_ A Soccernomics Guide_ Wh - Stefan Szymanski
+title: Money and Soccer A Soccernomics Guide Wh - Stefan Szymanski
 slug: money-and-soccer-a-soccernomics-guide-wh-stefan-szymanski
 tags: 
   - book-summary

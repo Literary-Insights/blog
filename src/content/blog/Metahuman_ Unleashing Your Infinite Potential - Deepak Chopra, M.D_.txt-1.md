@@ -1,5 +1,5 @@
 ---
-title: Metahuman_ Unleashing Your Infinite Potential - Deepak Chopra, M.D_
+title: Metahuman Unleashing Your Infinite Potential - Deepak Chopra, M.D_
 slug: metahuman-unleashing-your-infinite-potential-deepak-chopra-m-d_
 tags: 
   - book-summary

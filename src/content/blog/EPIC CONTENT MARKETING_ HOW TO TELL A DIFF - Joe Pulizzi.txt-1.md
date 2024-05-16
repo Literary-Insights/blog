@@ -1,5 +1,5 @@
 ---
-title: EPIC CONTENT MARKETING_ HOW TO TELL A DIFF - Joe Pulizzi
+title: EPIC CONTENT MARKETING HOW TO TELL A DIFF - Joe Pulizzi
 slug: epic-content-marketing-how-to-tell-a-diff-joe-pulizzi
 tags: 
   - book-summary

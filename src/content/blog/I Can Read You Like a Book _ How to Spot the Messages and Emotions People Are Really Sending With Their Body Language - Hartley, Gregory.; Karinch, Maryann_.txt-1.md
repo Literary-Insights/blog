@@ -1,5 +1,5 @@
 ---
-title: I Can Read You Like a Book _ How to Spot the Messages and Emotions People Are Really Sending With Their Body Language - Hartley, Gregory.; Karinch, Maryann_
+title: I Can Read You Like a Book  How to Spot the Messages and Emotions People Are Really Sending With Their Body Language - Hartley, Gregory.; Karinch, Maryann_
 slug: i-can-read-you-like-a-book--how-to-spot-the-messages-and-emotions-people-are-really-sending-with-their-body-language-hartley-gregory-karinch-maryann_
 tags: 
   - book-summary

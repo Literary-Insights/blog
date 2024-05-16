@@ -1,18 +1,18 @@
 ---
-title: The Everything Token_ How NFTs and Web3 Will Transform the Way We Buy, Sell, and Create - Steve Kaczynski & Scott Duke Kominers
-slug: the-everything-token_-how-nfts-and-web3-will-transform-the-way-we-buy-sell-and-create-steve-kaczynski-scott-duke-kominers
+title: The Everything Token How NFTs and Web3 Will Transform the Way We Buy, Sell, and Create - Steve Kaczynski & Scott Duke Kominers
+slug: the-everything-token-how-nfts-and-web3-will-transform-the-way-we-buy-sell-and-create-steve-kaczynski-scott-duke-kominers
 tags: 
   - book-summary
 excerpt: ""
 category: "self-help"
 author: "matheus-puppe"
 publishDate: "2024-04-21T00:00:00.000Z"
-image: "./src/assets/book_image/The Everything Token_ How NFTs and Web3 Will Transform the Way We Buy, Sell, and Create - Steve Kaczynski & Scott Duke Kominers.jpg"
+image: "./src/assets/book_image/The Everything Token How NFTs and Web3 Will Transform the Way We Buy, Sell, and Create - Steve Kaczynski & Scott Duke Kominers.jpg"
 ---
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-everything-token_-how-nfts-and-web3-will-transform-the-way-we-buy-sell-and-create-steve-kaczynski-scott-duke-kominers)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-everything-token-how-nfts-and-web3-will-transform-the-way-we-buy-sell-and-create-steve-kaczynski-scott-duke-kominers)
 
 
 

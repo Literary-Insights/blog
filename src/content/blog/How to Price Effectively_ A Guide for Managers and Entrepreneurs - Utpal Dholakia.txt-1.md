@@ -1,6 +1,6 @@
 ---
-title: "How to Price Effectively_ A Guide for Managers and Entrepreneurs - Utpal Dholakia"
-slug: how-to-price-effectively_-a-guide-for-managers-and-entrepreneurs-utpal-dholakia
+title: "How to Price Effectively A Guide for Managers and Entrepreneurs - Utpal Dholakia"
+slug: how-to-price-effectively-a-guide-for-managers-and-entrepreneurs-utpal-dholakia
 tags: 
   - book-summary
 excerpt: ""
@@ -14,7 +14,7 @@ image: "./src/assets/book_images/default_book.webp"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=how-to-price-effectively_-a-guide-for-managers-and-entrepreneurs-utpal-dholakia)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=how-to-price-effectively-a-guide-for-managers-and-entrepreneurs-utpal-dholakia)
 
 
 

@@ -1,6 +1,6 @@
 ---
-title: The Happiness Trap_ How to Stop Struggling and Start Living - Russ Harris
-slug: the-happiness-trap_-how-to-stop-struggling-and-start-living-russ-harris
+title: The Happiness Trap How to Stop Struggling and Start Living - Russ Harris
+slug: the-happiness-trap-how-to-stop-struggling-and-start-living-russ-harris
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-happiness-trap_-how-to-stop-struggling-and-start-living-russ-harris)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-happiness-trap-how-to-stop-struggling-and-start-living-russ-harris)
 
 
 

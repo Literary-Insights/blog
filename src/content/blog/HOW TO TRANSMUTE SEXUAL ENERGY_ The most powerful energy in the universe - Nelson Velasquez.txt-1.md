@@ -1,5 +1,5 @@
 ---
-title: HOW TO TRANSMUTE SEXUAL ENERGY_ The most powerful energy in the universe - Nelson Velasquez
+title: HOW TO TRANSMUTE SEXUAL ENERGY The most powerful energy in the universe - Nelson Velasquez
 slug: how-to-transmute-sexual-energy-the-most-powerful-energy-in-the-universe-nelson-velasquez
 tags: 
   - book-summary

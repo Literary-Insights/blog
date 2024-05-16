@@ -1,6 +1,6 @@
 ---
-title: Sexual Detox_ A Guide for Guys Who Are Sic - Tim Challies
-slug: sexual-detox_-a-guide-for-guys-who-are-sic-tim-challies
+title: Sexual Detox A Guide for Guys Who Are Sic - Tim Challies
+slug: sexual-detox-a-guide-for-guys-who-are-sic-tim-challies
 tags: 
   - book-summary
 excerpt: ""

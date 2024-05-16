@@ -1,6 +1,6 @@
 ---
-title: The Secret Life of Groceries_ The Dark Mir - Benjamin Lorr
-slug: the-secret-life-of-groceries_-the-dark-mir-benjamin-lorr
+title: The Secret Life of Groceries The Dark Mir - Benjamin Lorr
+slug: the-secret-life-of-groceries-the-dark-mir-benjamin-lorr
 tags: 
   - book-summary
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
-title: The Rise of the Rest_ How Entrepreneurs in Surprising Places are Building the New American Dream - Steve Case
-slug: the-rise-of-the-rest_-how-entrepreneurs-in-surprising-places-are-building-the-new-american-dream-steve-case
+title: The Rise of the Rest How Entrepreneurs in Surprising Places are Building the New American Dream - Steve Case
+slug: the-rise-of-the-rest-how-entrepreneurs-in-surprising-places-are-building-the-new-american-dream-steve-case
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-rise-of-the-rest_-how-entrepreneurs-in-surprising-places-are-building-the-new-american-dream-steve-case)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-rise-of-the-rest-how-entrepreneurs-in-surprising-places-are-building-the-new-american-dream-steve-case)
 
 
 

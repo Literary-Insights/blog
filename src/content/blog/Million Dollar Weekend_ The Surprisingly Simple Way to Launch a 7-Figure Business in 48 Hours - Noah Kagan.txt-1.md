@@ -1,5 +1,5 @@
 ---
-title: Million Dollar Weekend_ The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours - Noah Kagan
+title: Million Dollar Weekend The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours - Noah Kagan
 slug: million-dollar-weekend-the-surprisingly-simple-way-to-launch-a-7-figure-business-in-48-hours-noah-kagan
 tags: 
   - book-summary

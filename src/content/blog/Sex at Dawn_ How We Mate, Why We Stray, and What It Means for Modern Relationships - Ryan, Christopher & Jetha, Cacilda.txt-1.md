@@ -1,6 +1,6 @@
 ---
-title: Sex at Dawn_ How We Mate, Why We Stray, and What It Means for Modern Relationships - Ryan, Christopher & Jetha, Cacilda
-slug: sex-at-dawn_-how-we-mate-why-we-stray-and-what-it-means-for-modern-relationships-ryan-christopher-jetha-cacilda
+title: Sex at Dawn How We Mate, Why We Stray, and What It Means for Modern Relationships - Ryan, Christopher & Jetha, Cacilda
+slug: sex-at-dawn-how-we-mate-why-we-stray-and-what-it-means-for-modern-relationships-ryan-christopher-jetha-cacilda
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=sex-at-dawn_-how-we-mate-why-we-stray-and-what-it-means-for-modern-relationships-ryan-christopher-jetha-cacilda)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=sex-at-dawn-how-we-mate-why-we-stray-and-what-it-means-for-modern-relationships-ryan-christopher-jetha-cacilda)
 
 
 

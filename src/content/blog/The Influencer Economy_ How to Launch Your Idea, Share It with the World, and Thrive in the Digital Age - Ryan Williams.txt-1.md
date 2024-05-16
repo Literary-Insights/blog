@@ -1,6 +1,6 @@
 ---
-title: The Influencer Economy_ How to Launch Your Idea, Share It with the World, and Thrive in the Digital Age - Ryan Williams
-slug: the-influencer-economy_-how-to-launch-your-idea-share-it-with-the-world-and-thrive-in-the-digital-age-ryan-williams
+title: The Influencer Economy How to Launch Your Idea, Share It with the World, and Thrive in the Digital Age - Ryan Williams
+slug: the-influencer-economy-how-to-launch-your-idea-share-it-with-the-world-and-thrive-in-the-digital-age-ryan-williams
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-influencer-economy_-how-to-launch-your-idea-share-it-with-the-world-and-thrive-in-the-digital-age-ryan-williams)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-influencer-economy-how-to-launch-your-idea-share-it-with-the-world-and-thrive-in-the-digital-age-ryan-williams)
 
 
 

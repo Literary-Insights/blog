@@ -1,6 +1,6 @@
 ---
-title: "Winning with Data Science_ A Handbook for Business Leaders - Howard Steven Friedman"
-slug: winning-with-data-science_-a-handbook-for-business-leaders-howard-steven-friedman
+title: "Winning with Data Science A Handbook for Business Leaders - Howard Steven Friedman"
+slug: winning-with-data-science-a-handbook-for-business-leaders-howard-steven-friedman
 tags: 
   - book-summary
 excerpt: ""
@@ -14,7 +14,7 @@ image: "./src/assets/book_images/default_book.webp"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=winning-with-data-science_-a-handbook-for-business-leaders-howard-steven-friedman)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=winning-with-data-science-a-handbook-for-business-leaders-howard-steven-friedman)
 
 
 

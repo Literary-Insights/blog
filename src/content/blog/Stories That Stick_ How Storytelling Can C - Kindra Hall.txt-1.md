@@ -1,6 +1,6 @@
 ---
-title: Stories That Stick_ How Storytelling Can C - Kindra Hall
-slug: stories-that-stick_-how-storytelling-can-c-kindra-hall
+title: Stories That Stick How Storytelling Can C - Kindra Hall
+slug: stories-that-stick-how-storytelling-can-c-kindra-hall
 tags: 
   - book-summary
 excerpt: ""

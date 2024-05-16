@@ -1,6 +1,6 @@
 ---
-title: Origins_ Fourteen Billion Years of Cosmic Evolution - Tyson, Neil deGrasse & Donald Goldsmith
-slug: origins_-fourteen-billion-years-of-cosmic-evolution-tyson-neil-degrasse-donald-goldsmith
+title: Origins Fourteen Billion Years of Cosmic Evolution - Tyson, Neil deGrasse & Donald Goldsmith
+slug: origins-fourteen-billion-years-of-cosmic-evolution-tyson-neil-degrasse-donald-goldsmith
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=origins_-fourteen-billion-years-of-cosmic-evolution-tyson-neil-degrasse-donald-goldsmith)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=origins-fourteen-billion-years-of-cosmic-evolution-tyson-neil-degrasse-donald-goldsmith)
 
 
 

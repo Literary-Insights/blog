@@ -1,5 +1,5 @@
 ---
-title: HOW TO TALK TO ANYONE_ The Only Practical Guide to Establish Effective Communication and A Skills that will Improve Self-Confidence to Become the King of Your Emotions - King, Dale
+title: HOW TO TALK TO ANYONE The Only Practical Guide to Establish Effective Communication and A Skills that will Improve Self-Confidence to Become the King of Your Emotions - King, Dale
 slug: how-to-talk-to-anyone-the-only-practical-guide-to-establish-effective-communication-and-a-skills-that-will-improve-self-confidence-to-become-the-king-of-your-emotions-king-dale
 tags: 
   - book-summary

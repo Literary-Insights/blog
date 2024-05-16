@@ -1,5 +1,5 @@
 ---
-title: BODY TALK_ The Body Language Skills to Dec - King, Patrick
+title: BODY TALK The Body Language Skills to Dec - King, Patrick
 slug: body-talk-the-body-language-skills-to-dec-king-patrick
 tags: 
   - book-summary

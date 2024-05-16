@@ -1,5 +1,5 @@
 ---
-title: In Gods We Trust_ The Evolutionary Landscape of Religion - Scott Atran
+title: In Gods We Trust The Evolutionary Landscape of Religion - Scott Atran
 slug: in-gods-we-trust-the-evolutionary-landscape-of-religion-scott-atran
 tags: 
   - book-summary

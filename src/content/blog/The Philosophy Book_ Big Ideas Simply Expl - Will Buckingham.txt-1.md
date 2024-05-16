@@ -1,6 +1,6 @@
 ---
-title: The Philosophy Book_ Big Ideas Simply Expl - Will Buckingham
-slug: the-philosophy-book_-big-ideas-simply-expl-will-buckingham
+title: The Philosophy Book Big Ideas Simply Expl - Will Buckingham
+slug: the-philosophy-book-big-ideas-simply-expl-will-buckingham
 tags: 
   - book-summary
 excerpt: ""

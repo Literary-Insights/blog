@@ -1,6 +1,6 @@
 ---
-title: "YOU'RE NOT A FAILURE_. YOUR MIND'S BEEN HACKED _ How To Reprogram Your Life To Become Successful And Happy - BERNHARD RICHTER"
-slug: you-re-not-a-failure_-your-mind-s-been-hacked-_-how-to-reprogram-your-life-to-become-successful-and-happy-bernhard-richter
+title: "YOU'RE NOT A FAILURE_. YOUR MIND'S BEEN HACKED  How To Reprogram Your Life To Become Successful And Happy - BERNHARD RICHTER"
+slug: you-re-not-a-failure-your-mind-s-been-hacked--how-to-reprogram-your-life-to-become-successful-and-happy-bernhard-richter
 tags: 
   - book-summary
 excerpt: ""
@@ -14,7 +14,7 @@ image: "./src/assets/book_images/default_book.webp"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=you-re-not-a-failure_-your-mind-s-been-hacked-_-how-to-reprogram-your-life-to-become-successful-and-happy-bernhard-richter)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=you-re-not-a-failure-your-mind-s-been-hacked--how-to-reprogram-your-life-to-become-successful-and-happy-bernhard-richter)
 
 
 

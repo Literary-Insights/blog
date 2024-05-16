@@ -1,6 +1,6 @@
 ---
-title: Testosterone_ Boost Testosterone Rapidly - George Aram
-slug: testosterone_-boost-testosterone-rapidly-george-aram
+title: Testosterone Boost Testosterone Rapidly - George Aram
+slug: testosterone-boost-testosterone-rapidly-george-aram
 tags: 
   - book-summary
 excerpt: ""

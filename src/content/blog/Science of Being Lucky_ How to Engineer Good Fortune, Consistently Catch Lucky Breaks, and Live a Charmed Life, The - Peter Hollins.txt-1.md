@@ -1,6 +1,6 @@
 ---
-title: "Science of Being Lucky_ How to Engineer Good Fortune, Consistently Catch Lucky Breaks, and Live a Charmed Life, The - Peter Hollins"
-slug: science-of-being-lucky_-how-to-engineer-good-fortune-consistently-catch-lucky-breaks-and-live-a-charmed-life-the-peter-hollins
+title: "Science of Being Lucky How to Engineer Good Fortune, Consistently Catch Lucky Breaks, and Live a Charmed Life, The - Peter Hollins"
+slug: science-of-being-lucky-how-to-engineer-good-fortune-consistently-catch-lucky-breaks-and-live-a-charmed-life-the-peter-hollins
 tags: 
   - book-summary
 excerpt: ""
@@ -14,7 +14,7 @@ image: "./src/assets/book_images/default_book.webp"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=science-of-being-lucky_-how-to-engineer-good-fortune-consistently-catch-lucky-breaks-and-live-a-charmed-life-the-peter-hollins)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=science-of-being-lucky-how-to-engineer-good-fortune-consistently-catch-lucky-breaks-and-live-a-charmed-life-the-peter-hollins)
 
 
 

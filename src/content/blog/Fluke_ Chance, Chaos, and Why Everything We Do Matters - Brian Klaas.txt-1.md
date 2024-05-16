@@ -1,5 +1,5 @@
 ---
-title: Fluke_ Chance, Chaos, and Why Everything We Do Matters - Brian Klaas
+title: Fluke Chance, Chaos, and Why Everything We Do Matters - Brian Klaas
 slug: fluke-chance-chaos-and-why-everything-we-do-matters-brian-klaas
 tags: 
   - book-summary

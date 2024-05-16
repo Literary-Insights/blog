@@ -1,5 +1,5 @@
 ---
-title: Mental Toughness_ Boost Your Self-Confidence and Self-Esteem to Build a Champion’s Mind. Stop Overthinking, Overcome Anxiety and Use Positive Energy. - Scott, John & Miller, Ryan
+title: Mental Toughness Boost Your Self-Confidence and Self-Esteem to Build a Champion’s Mind. Stop Overthinking, Overcome Anxiety and Use Positive Energy. - Scott, John & Miller, Ryan
 slug: mental-toughness-boost-your-self-confidence-and-self-esteem-to-build-a-champion-s-mind-stop-overthinking-overcome-anxiety-and-use-positive-energy-scott-john-miller-ryan
 tags: 
   - book-summary

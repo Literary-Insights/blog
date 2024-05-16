@@ -1,6 +1,6 @@
 ---
-title: Power Play_ Tesla, Elon Musk, and the Bet of the Century - Tim Higgins
-slug: power-play_-tesla-elon-musk-and-the-bet-of-the-century-tim-higgins
+title: Power Play Tesla, Elon Musk, and the Bet of the Century - Tim Higgins
+slug: power-play-tesla-elon-musk-and-the-bet-of-the-century-tim-higgins
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=power-play_-tesla-elon-musk-and-the-bet-of-the-century-tim-higgins)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=power-play-tesla-elon-musk-and-the-bet-of-the-century-tim-higgins)
 
 
 

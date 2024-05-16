@@ -1,5 +1,5 @@
 ---
-title: Banned Mind Control Techniques Unleashed_ - Smith, Daniel
+title: Banned Mind Control Techniques Unleashed - Smith, Daniel
 slug: banned-mind-control-techniques-unleashed-smith-daniel
 tags: 
   - book-summary

@@ -1,6 +1,6 @@
 ---
-title: The Book of Secrets_ 112 Meditations to Di - Osho
-slug: the-book-of-secrets_-112-meditations-to-di-osho
+title: The Book of Secrets 112 Meditations to Di - Osho
+slug: the-book-of-secrets-112-meditations-to-di-osho
 tags: 
   - book-summary
 excerpt: ""

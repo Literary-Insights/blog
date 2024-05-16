@@ -1,5 +1,5 @@
 ---
-title: 18 Minutes_ Find Your Focus, Master Distraction, and Get the Right Things Done - Bregman, Peter
+title: 18 Minutes Find Your Focus, Master Distraction, and Get the Right Things Done - Bregman, Peter
 slug: 18-minutes-find-your-focus-master-distraction-and-get-the-right-things-done-bregman-peter
 tags: 
   - book-summary

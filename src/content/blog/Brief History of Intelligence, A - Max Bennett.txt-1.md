@@ -1179,7 +1179,7 @@ Bootstrapping. See positive feedback loops
 
 Border collie Chaser, 284–85
 
-_Bot PBC_ (company), 330
+_Bot PBC (company), 330
 
 Bowerbirds, 147, 237, 268
 
@@ -1187,7 +1187,7 @@ Boyd, Robert (key thinker), 336
 
 brain-computer interfaces (BCIs), 312–13, 313, 314
 
-brains. _See also_ neurons
+brains. _See also neurons
 
 agranular prefrontal cortex (aPFC), 206, 207, 208–9, 211–13, 216–20, 222–23, 223, 224, 226–30, 232, 255–60, 259, 370
 
@@ -1387,7 +1387,7 @@ Chevalier-Skolnikoff, Suzanne (key thinker), 149, 196
 
 Chicxulub asteroid impact, 164
 
-_Children of Men_ (P. D. James novel), 82
+_Children of Men (P. D. James novel), 82
 
 chimpanzees, 243–44, 283–84, 286–87, 311, 323, 333–34, 339–40, 350, 358
 
@@ -1503,7 +1503,7 @@ computational irreducibility, 318–20
 
 computational modeling, 216–24
 
-computer programs. _See also_ artificial intelligence
+computer programs. _See also artificial intelligence
 
 AI as emergent phenomenon, 318–20
 

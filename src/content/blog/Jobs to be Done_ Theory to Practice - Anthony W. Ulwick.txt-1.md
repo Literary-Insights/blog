@@ -1,5 +1,5 @@
 ---
-title: Jobs to be Done_ Theory to Practice - Anthony W. Ulwick
+title: Jobs to be Done Theory to Practice - Anthony W. Ulwick
 slug: jobs-to-be-done-theory-to-practice-anthony-w-ulwick
 tags: 
   - book-summary

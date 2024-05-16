@@ -1,5 +1,5 @@
 ---
-title: How to Decide_ Simple Tools for Making Better Choices - Annie Duke
+title: How to Decide Simple Tools for Making Better Choices - Annie Duke
 slug: how-to-decide-simple-tools-for-making-better-choices-annie-duke
 tags: 
   - book-summary

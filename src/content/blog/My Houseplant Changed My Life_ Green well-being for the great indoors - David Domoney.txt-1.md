@@ -1,6 +1,6 @@
 ---
-title: My Houseplant Changed My Life_ Green well-being for the great indoors - David Domoney
-slug: my-houseplant-changed-my-life_-green-well-being-for-the-great-indoors-david-domoney
+title: My Houseplant Changed My Life Green well-being for the great indoors - David Domoney
+slug: my-houseplant-changed-my-life-green-well-being-for-the-great-indoors-david-domoney
 tags: 
   - book-summary
 excerpt: ""
@@ -12,7 +12,7 @@ publishDate: "2024-04-21T00:00:00.000Z"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=my-houseplant-changed-my-life_-green-well-being-for-the-great-indoors-david-domoney)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=my-houseplant-changed-my-life-green-well-being-for-the-great-indoors-david-domoney)
 
 
 

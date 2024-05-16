@@ -1,5 +1,5 @@
 ---
-title: Battle for the Bird_ Jack Dorsey, Elon Musk, and the $44 Billion Fight for Twitter's Soul - Kurt Wagner
+title: Battle for the Bird Jack Dorsey, Elon Musk, and the $44 Billion Fight for Twitter's Soul - Kurt Wagner
 slug: battle-for-the-bird-jack-dorsey-elon-musk-and-the-44-billion-fight-for-twitter-s-soul-kurt-wagner
 tags: 
   - book-summary

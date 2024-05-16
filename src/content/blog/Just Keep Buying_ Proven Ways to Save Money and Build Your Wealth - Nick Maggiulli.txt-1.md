@@ -1,5 +1,5 @@
 ---
-title: Just Keep Buying_ Proven Ways to Save Money and Build Your Wealth - Nick Maggiulli
+title: Just Keep Buying Proven Ways to Save Money and Build Your Wealth - Nick Maggiulli
 slug: just-keep-buying-proven-ways-to-save-money-and-build-your-wealth-nick-maggiulli
 tags: 
   - book-summary

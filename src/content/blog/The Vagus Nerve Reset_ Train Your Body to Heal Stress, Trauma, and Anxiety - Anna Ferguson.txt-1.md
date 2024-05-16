@@ -14,7 +14,7 @@ image: "./src/assets/book_images/the-vagus-nerve-reset.jpg"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-vagus-nerve-reset_-train-your-body-to-heal-stress-trauma-and-anxiety-anna-ferguson)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-vagus-nerve-reset-train-your-body-to-heal-stress-trauma-and-anxiety-anna-ferguson)
 
 ## TLDR
 

@@ -1,6 +1,6 @@
 ---
-title: "The 10 Rules of Highly Effective Pricing_ HOW TO TRANSFORM YOUR PRICE MANAGEMENT TO BOOST PROFITS - Danilo Zatta"
-slug: the-10-rules-of-highly-effective-pricing_-how-to-transform-your-price-management-to-boost-profits-danilo-zatta
+title: "The 10 Rules of Highly Effective Pricing HOW TO TRANSFORM YOUR PRICE MANAGEMENT TO BOOST PROFITS - Danilo Zatta"
+slug: the-10-rules-of-highly-effective-pricing-how-to-transform-your-price-management-to-boost-profits-danilo-zatta
 tags: 
   - book-summary
 excerpt: ""
@@ -14,7 +14,7 @@ image: "./src/assets/book_images/default_book.webp"
 
 BOOK LINK:
 
-[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-10-rules-of-highly-effective-pricing_-how-to-transform-your-price-management-to-boost-profits-danilo-zatta)
+[CLICK HERE](https://www.amazon.com/gp/search?ie=UTF8&tag=matheuspupp0a-20&linkCode=ur2&linkId=4410b525877ab397377c2b5e60711c1a&camp=1789&creative=9325&index=books&keywords=the-10-rules-of-highly-effective-pricing-how-to-transform-your-price-management-to-boost-profits-danilo-zatta)
 
 
 
